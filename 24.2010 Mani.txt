@@ -1,0 +1,1453 @@
+October 2010 
+             No.24 
+Travelling Agents: Political Change and Bureaucratic Turnover in India 
+Lakshmi Iyer (Harvard Business School) and Anandi Mani (University of  
+Warwick) 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Traveling Agents: Political Change and Bureaucratic 
+Turnover in India 
+Lakshmi Iyery 
+Anandi Maniz 
+September 2010 
+Abstract 
+We develop a framework to empirically examine how politicians with electoral 
+pressures control bureaucrats with career concerns as well as the consequences for bu- 
+reaucrats™career investments. Unique micro-level data on Indian bureaucrats support 
+our key predictions. Politicians use frequent reassignments (transfers) across posts of 
+varying importance to control bureaucrats. High-skilled bureaucrats face less frequent 
+political transfers and lower variability in the importance of their posts. We –nd ev- 
+idence of two alternative paths to career success: o¢ cers of higher initial ability are 
+more likely to invest in skill, but caste a¢ nity to the politician™s party base also helps 
+secure important positions. 
+We thank Andrew Foster, Karla Ho¤, Sendhil Mullainathan and especially Torsten Persson, as well as 
+seminar participants at the ASSA Meetings 2008, Brown BREAD 2008, Harvard Business School, Harvard 
+University, IIM-Bangalore, IMF, IPES 2007, ISI-Delhi, LSE, NEUDC 2006, Public Economics UK confer- 
+ence, University of Birmingham, University of Warwick and the World Bank (New Delhi) for extremely 
+helpful comments. Filipa Jorge, Jetsada Chuenchoojit and especially Maya Shivakumar provided excellent 
+research assistance. We are grateful to Rahul Anand, Rajat Kumar and several other o¢ cers of the Indian 
+Administrative, particularly Mr. Siraj Hussain, for valuable insights and help with the data. 
+yHarvard Business School. Email: liyer@hbs.edu 
+zUniversity of Warwick. Email: A.Mani@warwick.ac.uk 
+1 
+
+========2========
+
+JEL codes: D23, D73, D78, H83, J45 
+Keywords: career concerns, bureaucracy, bureaucrat reassignment 
+
+========3========
+
+1 Introduction 
+In many countries, elected politicians and appointed bureaucrats are jointly responsible for 
+governance. Bureaucrats typically face low-powered incentives and politicians have limited 
+constitutional power to hire or  them.1 
+This is consistent with a desirable feature of 
+the rule of law, which is that policy implementation not be politicized. Given such con- 
+stitutional constraints, how would politicians facing electoral pressures ensure that their 
+preferred policies are implemented by such protected bureaucrats? One approach may be to 
+simply reserve the top bureaucratic posts for political appointees, as is the case in the U.S. 
+federal government. Politicians can also use a variety of other devices. They may o non- 
+monetary incentives, identify motivated agents who share their world view, be gate-keepers 
+with respect to who enters the bureaucracy or be selective in the tasks they delegate to 
+bureaucrats.2 
+In this paper, we examine a hitherto unexplored mechanism for the politician to retain 
+control: being selective in which bureaucrat he delegates authority to, for various tasks. 
+Our study makes theoretical and empirical contributions to the literature on bureaucratic 
+delegation. Theoretically, we endogenize bureaucrats’ response to the politician’s delegation, 
+given their career concerns. Empirically, we provide evidence on both the politician’s and 
+1Holmstrom and Milgrom (1991) and Dewatripont, Jewitt and Tirole (1999) explore the normative ratio- 
+nale for providing low-powered incentives to bureaucrats, while Maskin and Tirole (2004) present the case 
+for an independent bureaucracy insulated from political pressures. 
+2All these mechanisms have been explored in recent theoretical literature. See, respectively, the papers 
+by Prendergast (2007), Besley and Ghatak (2005), Mueller (2007) and Alesina and Tabellini (2007). Calvert 
+and Weingast (1989) and Epstein and O’Halloran (1999) provide a related \transactions cost" approach to 
+delegation of authority by politicians to bureaucrats. 
+1 
+
+========4========
+
+the bureaucrats’ strategies, using a unique data set on the career histories of bureaucrats 
+in the Indian Administrative Service. This is one of the very few detailed micro-empirical 
+analyses of the interaction between politicians and bureaucrats. 
+Our work sheds light on the internal structure and working of government, which can 
+greatly enhance our understanding of the policy process{a point emphasized by Dixit (2008).3 
+The explicit modeling of bureaucrat career concerns shows how the political process can 
+a the professionalization of the bureaucracy, de in a Weberian sense.4 The degree 
+of professionalization of the bureaucracy has been identi as a necessary condition for a 
+state to be developmental and successfully achieve economic growth (Evans, 1995; Rauch 
+and Evans, 2000). 
+Our theoretical framework assumes that the politician principal cares about having 
+control over bureaucrats’ actions, has the power to assign speci bureaucrats to speci 
+tasks, but lacks the power to recruit, dismiss, demote or change the wages of appointed 
+bureaucrats. Bureaucrats in turn care about the prestige and importance of the posts they 
+are assigned to. The politician can assign bureaucrats across posts of varying importance, as 
+a means to control them. In such a setting, will he reward \Weberian" bureaucrats with a 
+3Dixit (2008) likens the value added by such work to the progress made from research on the internal 
+organization of  \This `opening the black box of policy administration’ is analogous to what occurred 
+in the theory of the  Our view of the  has changed for the better, from a mechanical maximizer of 
+pro (or some other objective in cases of managerial or labor-managed  taking technology and factor 
+prices as given, to an organization that must tackle manifold problems of internal governance and incentives. 
+Analysis of the process of policy implementation promises similar progress." 
+4We refer to Weber’s notion of a bureaucracy with meritocratic recruitment and security of tenure, where 
+o apply their technical expertise in the impartial execution of assigned tasks, to maximize e. 
+2 
+
+========5========
+
+reputation for expertise and independent judgement or just those that are loyal to his party? 
+How will junior bureaucrats with career concerns respond to these incentives? Our theoretical 
+framework examines these mechanisms, and highlights two major sources of ine. One 
+stems from the fact that not all important posts are  with the most skilled bureaucrats, 
+due to the politician’s preference for a degree of control over bureaucrat outcomes. The 
+other is that politician’s assignment practices result in underinvestment in skill by junior 
+bureaucrats with career concerns, since investing in loyalty to speci politicians provides 
+an alternative path to career success. 
+Our framework generates several testable hypotheses, which we test empirically using 
+a unique data set on the career histories of 2800 o in the Indian Administrative Service 
+(IAS) between 1980 and 2004. We combine these data with data on political changes in 
+major Indian states over the same period, proxy measures of bureaucrats’ ability at the 
+initial and later stage of their career, and a measure of the relative importance of dit 
+posts as viewed by bureaucrats themselves. 
+Our empirical  on bureaucrat assignment patterns are highly consistent with the 
+ine implied by our theoretical framework. First, we  that politicians do a 
+the process of bureaucrat assignment. A change in the identity of a state’s Chief Minister 
+(the de facto executive head of the state government) results in a signit increase in 
+the probability of bureaucrat reassignments in that state. Second, we  that o 
+with higher initial ability face less frequent political transfers and lower variability in the 
+importance of their posts. Third, over their entire career, we  that oers of high initial 
+ability are no more likely to be assigned to important posts than other (loyal) o This 
+con the model’s view that there are alternative routes to success { it is not expertise 
+3 
+
+========6========
+
+alone that politicians value. Further support for this view comes from the  that o 
+are more likely to be appointed to important positions when they belong to the same caste 
+as the Chief Minister’s party base. Fourth, consistent with the model’s prediction that not 
+all junior bureaucrats will invest in developing a reputation for expertise, we  that it is 
+o with high initial ability (i.e. a comparative advantage in developing expertise) who 
+spend signitly more time acquiring training during the course of their career. They are 
+also more likely to be recommended for senior positions in the central government, suggesting 
+that they have developed a greater reputation for expertise. 
+We conduct a separate analysis of district level bureaucrat transfers. We  these 
+to be signitly less likely in places where the district-level politicians are from the Chief 
+Minister’s party { suggesting that local politicians serve as an an alternative channel through 
+which the Chief Minister exercises political control over bureaucrats. Thus, unlike the case 
+of a new CEO bringing in his own team, bureaucrat transfers are not driven by e 
+considerations about the personal \match" between the bureaucrats and the new Chief 
+Minister; nor are they driven by a desire for experimentation and type revelation since we 
+would not expect this motive to di by the party identity of the local politicians. Further, 
+since local politicians and bureaucrats appear to be \substitutes" from the Chief Minister’s 
+point of view, we should not expect outcomes to di systematically across districts with 
+and without bureaucrat transfers. Data on speci policy implementation outcomes such as 
+road construction and immunization rates are consistent with this implication.5 
+Our work is related to the few systematic empirical analyses of the relationship be- 
+5See Bardhan and Mookherjee (2006) for a detailed model of the implications of delegating authority to 
+bureaucrats versus local politicians in developing countries. 
+4 
+
+========7========
+
+tween politicians and bureaucrats. Ramseyer and Rasmusen (2001) examine the impact of 
+politically salient judicial decisions on the careers of judges in Japan; Park and Somanathan 
+(2004) document explicit links between Korean politicians and public prosecutors, and their 
+impact on bureaucrat assignments. The length of bureaucratic tenures has been shown to 
+be an important determinant of long-term investments (Rauch, 1995) and the degree of pro- 
+fessionalization of a bureaucracy (Evans, 1995). There is a larger empirical literature which 
+compares the policy decisions made by appointed versus elected public o or the e 
+of rent-seeking opportunities, monetary incentives and term limits for politicians.6 Previ- 
+ous empirical work on the Indian bureaucracy has been mostly descriptive (Wade, 1982; de 
+Zwart, 1994; Potter, 1996; Das, 2001). 
+The rest of the paper is structured as follows: Section 2 describes the characteristics 
+of the Indian Administrative Service and the political setting in India, and Section 3 sets 
+up our theoretical framework. Section 4 describes our data, Sections 5 and 6 present our 
+empirical results, and Section 7 concludes. 
+6On comparing decisions of appointed versus elected o see Besley and Coate (2003), Besley and 
+Payne (2003), Khemani (2003), Lim (2008) and Weingast and Moran (1983). Di Tella and Fisman (2004), 
+Besley, Pande and Rao (2007), Ferraz and Finan (2008) and Smart and Sturm (2008) analyze the incentives 
+for elected o 
+5 
+
+========8========
+
+2 Bureaucrats and Politicians in India 
+2.1 The Indian Administrative Service 
+The Indian Administrative Service (IAS) is the top-most layer of the government bureaucracy 
+in India, consisting of fewer than 5000 o in 2005. IAS bureaucrats sta the most 
+important positions in district administration, state and central government secretariats, 
+and state-owned enterprises. A particularly important position is that of a District O 
+who is responsible for ensuring law and order, providing certain judicial functions, organizing 
+relief and rehabilitation in cases of natural disasters, implementing development policies 
+and overseeing all aspects of administration in a speci district.7 These are positions of 
+considerable importance: the median population of a district in 2001 was 1.5 million people, 
+and District O frequently administer budgets of the order of $2 million. Lower levels 
+of administration are sta by members of State Civil Services. 
+IAS o are career civil servants, and political neutrality is a requirement of their 
+position. IAS o cannot join political parties or be involved in any political events. On 
+the other side, politicians are not involved in the hiring process of IAS o Recruitment is 
+either through extremely competitive nationwide examinations conducted by an independent 
+Commission (\direct recruits"), or by promotion of the best-performing o from the 
+lower State Civil Services (\SCS promotees"), the latter category being restricted to not 
+more than one-third of o in a state.8 
+After recruitment and initial training, direct 
+7These o are variously known as District Collectors, District Magistrates and Deputy Commissioners 
+in dit parts of India. 
+8Nearly 50% of all posts are reserved for members of historically disadvantaged sections of society. 
+6 
+
+========9========
+
+recruits are assigned to speci state cadres, where they typically spend most of their careers. 
+This assignment of o to states is done by a rigid (rather complicated) bureaucratic rule, 
+resulting in a quasi-random assignment of o to states. In particular, it is very di 
+for elected politicians or the bureaucrats themselves to a this assignment.9 Not more 
+than one-third of the direct recruits assigned to a state can be natives of that state. 
+The Constitution of India provides IAS o considerable immunity from state- 
+level politicians by stipulating that an IAS o \holds o during the pleasure of the 
+President," and cannot be \dismissed or removed by an authority subordinate to that by 
+which he was appointed" (Articles 310 and 311). This means that IAS o cannot be 
+dismissed or demoted by state-level elected representatives. 
+2.2 Bureaucrat Careers 
+IAS o start by holding positions at the sub-district level, and move on to higher posi- 
+tions within the district, the state secretariat or state-owned enterprises. O are usually 
+appointed as District Oers after attaining e to ten years of experience (this varies by 
+state). Promotions are based on years of service for the  few years, and have a merit- 
+based component for the higher level positions. IAS o are evaluated by their superior 
+9Broadly, the assignment rule is as follows: each state is  assigned an o who is from that state, 
+then two o from other states. A recruit can specify whether he wants to be assigned to his home state 
+or not. Even if he expresses the desire to go to his home state, it may not happen if the state in question does 
+not need any more o if the previous o assigned to the state was from that state, if the reservation 
+criteria for the disadvantaged sections of society have to be satis and if too many top-ranked o 
+have already been assigned to that state. An o who is not assigned to his home state is assigned to the 
+next available state in alphabetical order. 
+7 
+
+========10========
+
+o in Annual Contial Reports. Wages and salaries are set by independent Pay 
+Commissions, and are determined by the bureaucrat’s rank within the hierarchy. 
+IAS o are subject to a comprehensive career review approximately twenty years 
+after they join the service. This review is conducted by senior bureaucrats, who decide 
+whether the o is eligible to hold positions of Joint Secretary and higher in the cen- 
+tral government at New Delhi; such positions are usually considered very prestigious. The 
+selected o are put on a panel from which they can be selected for such positions, as 
+and when the need arises in the central government. This process is called \empanelment" 
+and being \empaneled" is widely regarded as a signal of superior competence within the 
+bureaucracy. 
+2.3 India’s Political System 
+India is a parliamentary democracy in which elections are held every e years, both for the 
+central government in New Delhi and for the 28 states that constitute the Indian Union. The 
+head of the state executive is the Governor, who acts on the advice of the Chief Minister and 
+the Council of Ministers. The Chief Minister is usually the leader of the party which wins 
+a majority of seats in the state legislature (similar to the Prime Minister at the national 
+level). If the current Chief Minister loses the support of his party (due to internal party 
+politics), or the parties in a coalition government fall apart, es are made to form another 
+government, either by choosing a new leader from the same party, or by putting together 
+another coalition. If these e fail, the central government often steps in to declare 
+\President’s Rule" in the state, when the administration of the state is brought under the 
+8 
+
+========11========
+
+central government until fresh elections are held. The election calendar resets to a e-year 
+one after any such midterm poll. Di incidence of midterm polls across states has now 
+resulted in states’ calendars being dit from each other and from the national election 
+calendar. For instance, the last national elections were in 2004, but e states had state 
+elections in 2006. 
+2.4 Transfers of IAS Bureaucrats 
+As described in section 2.2, IAS o cannot be hired or  by state-level politicians. 
+However, o can be reassigned or transferred from one post to another. Such transfer 
+orders are signed by the Chief Secretary (the top bureaucrat) who reports directly to the 
+Chief Minister of the state. While bureaucrats can request speci assignments, they have 
+very little power to a the outcome of such requests. These transfers are almost always 
+within the state, or sometimes between the state and central governments; transfers across 
+states are extremely rare. 
+In our data, we  that IAS bureaucrats are transferred quite frequently: over the 
+period 1980-2000, the probability that an o experiences a transfer in a given year is 53% 
+(Table 1, Panel B). The average tenure of IAS o in a given post is 16 months and only 
+56% of District O spend more than one year in their jobs. This is in violation of the 
+recommendations, put forward by the Ministry of Personnel and the Fifth Pay Commission, 
+for a three-to-ve year tenure in each post. 
+Interestingly, frequent transfers of bureaucrats has been a long-standing feature of the 
+Indian bureaucracy. For instance, using data from the British colonial period, Potter (1996) 
+9 
+
+========12========
+
+ that two-thirds of all District O in 1936 had held their posts for less than one year. 
+Gilmour (2005, p 220) provides a vivid example from an even earlier period: \...between 1879 
+and 1885 Colonel Tweedie did three stints in Gwalior, two in Baghdad, two in Ajmer, one 
+in Jodhpur, one on the road between Peshawar and Kabul as Political O during the 
+invasion of Afghanistan, and another as Political O in charge of Jalalabad." 
+Consistent with our hypothesis that such transfers are used as a control mechanism 
+by politicians, we  that the average rate of bureaucrat transfers in a state increases 
+signitly when there is a new Chief Minister in that state (see Figure 2 for a graphical 
+illustration of bureaucrat transfers in Tamil Nadu state). Such alleged \politicization" of the 
+bureaucracy has become a major public policy issue in India. A Public Services Bill currently 
+exists in draft form, which proposes explicit limits on the political executive’s ability to 
+transfer bureaucrats before they complete two years of service.10 However, politicians seem 
+to value the ability to reassign bureaucrats frequently: during initial consultations regarding 
+the Bill, only eleven states agreed to have a minimum two-year tenure for District O 
+and ten states refused outright! 
+3 Theoretical Framework 
+Our stylized framework captures how politicians facing short-term electoral pressures could 
+use job assignments as a tool to control bureaucrats with long-term career concerns, as 
+well as how bureaucrats’ career investment decisions would respond to such incentives. We 
+use this framework to derive testable hypotheses for our empirical work. In keeping with 
+10http://persmin.nic.in/EmployeesCorner/Acts 
+Rules/DraftPublicServiceBill/PublicServiceBill 2007.pdf 
+10 
+
+========13========
+
+the Indian setting, we assume that politicians do not have access to the standard incentive 
+mechanisms, such as hiring and  o or changing their wages. Our model has three 
+key building blocks: (i) the politician seeks to control bureaucrats’ output (ii) bureaucrats 
+care about the prestige and importance of their jobs and (iii) junior bureaucrats can invest 
+either in expertise or loyalty to a speci politician for career success. We lay out the basic 
+features of our model here, and refer the reader to the Appendix for technical details. 
+3.1 Bureaucrats 
+Junior o enter the bureaucracy with an ideological leaning, jB 2 f0;1g, and an initial 
+ability ai that has a distribution f(ai): They can hold posts that are of two types, impor- 
+tant or unimportant, where important posts are scarce. They derive positive utility from 
+holding important positions (because they provide opportunities to make intial policy 
+decisions, say), but nothing from unimportant ones. Hence o de career success by 
+the importance of their post assignments. 
+Given politician’s preferences (described below), bureaucrats early in their career have 
+two alternative routes to future success: either develop a reputation for expertise or build 
+on loyalty to the politician whose ideology they share. Developing expertise requires e 
+although such e is less costly for o with higher initial ability ai. Provided there 
+are incremental rewards to developing expertise, it follows that ocers with a high enough 
+initial ability will invest e in becoming high-skilled o those with lower initial ability 
+would prefer to build on their intrinsic loyalty to further their career concerns. Thus, starting 
+with an initial ability ai and ideological leaning jB, bureaucrats emerge as one of three types 
+11 
+
+========14========
+
+b 2 fH; L0; L1g: those who are high-skilled, those loyal to party 0 and those loyal to party 
+1. 
+Bureaucrats who do not invest in skill generate a low output yL in important posts, 
+irrespective of party loyalty. High-skilled bureaucrats vary in their productivity, but they 
+are each at least as productive as the other two types: yH = yL +  where   U[0;1]. 
+The productivity advantage  realized by a high-skilled o does not depend upon his/her 
+initial ability a(i): In unimportant posts, we normalize output of all o to zero. 
+3.2 Politician 
+As with bureaucrats, politicians are a to one of two parties (ideologies); jP 2 f0;1g. 
+The politician’s ultimate goal is to have political power, and he cares about bureaucratic 
+output because it in his chances of remaining in power. We assume that his prospects 
+for success would depend both upon the size of the bureaucracy’s total public good output 
+that he can garner for his constituents, as well as overall public good e.11 We use 
+sb 2 [0;1] to represent the share of bureaucrats’ output that he can control (or channel 
+in favor of his supporters). He makes assignments nb = fnH; nL 
+1; nL0g 
+of bureaucrats of 
+dit types across important posts optimally, given his preferences. The assumption 
+here is that bureaucrats’ ability is known to the politician i.e. that there is no asymmetric 
+information.12 The output of the bureaucrat is determined by his type. The politician’s 
+11Given that nearly half of the cases of political turnover in our data occur in the absence of elections, we 
+have chosen not represent the politician’s preferences in terms of utility from winning elections, per se. 
+12This is a realistic assumption in our context, given that at most a few hundred o o serve at 
+a time in each state, and each of them over several decades. 
+12 
+
+========15========
+
+problem is therefore purely a matter of assignment of bureaucrats across posts, and does not 
+involve considerations of adverse selection or moral hazard. 
+The share sb that the politician can control varies with the bureaucrat’s type. With 
+respect to o loyal to his own party, he has complete control over their output, but 
+he has little control over the output of o loyal to the other party i.e. sL 
+0 
+= 1 and 
+sL 
+1 
+= 0 for a politician of type 0; sL 
+0 
+= 0 and sL 
+1 
+= 1 for a politician of type 1. As for 
+high-skilled o the politician can control a fraction sH 2 (0;1) of their output. This is 
+because the policy decisions of high-skilled o are ideologically neutral, coinciding with 
+the politician’s interests some of the time, but not always.13 A typical scenario of this is 
+one where funds have been earmarked for the construction of say, seven schools in a district. 
+A bureaucrat who is loyal to the politician in power would agree to build all the schools in 
+areas preferred by the latter, whereas one who is not loyal to this politician may disagree 
+entirely on where the schools should be located in the district. An o with a reputation 
+for expertise would base his decision on a judgement of where the schools are most needed. 
+As a result, he may end up allocating resources to some areas preferred by the politician, 
+but not all of them. 
+Note that the case where o choose to invest in skill and loyalty to both political 
+parties is simply a special case of a type H o with sH = 1 in our present framework. 
+We have chosen to assume sH 2 (0;1) because it is more consistent with the basic transfer 
+patterns observed in our data: as will become clear in description of equilibrium below, if 
+13This is a \reduced form" version of the preferences of bureaucrats and politicians modeled in Mueller 
+(2007), where both parties’ utilities depend upon the e and ideological match of policies chosen by 
+the bureaucrat. 
+13 
+
+========16========
+
+all o chose to be of type H, there would be no reason for politically induced transfers. 
+3.3 Timing 
+Our model consists of three time periods. The  period is an \incubation" period. Ju- 
+nior o enter the bureaucracy, receive training and make decisions on investments that 
+in their career prospects. The bureaucrats’ type is realized after these investments 
+are made, and the politician currently in o makes an initial assignment of o across 
+posts of varying importance (period 2). In period three, the incumbent faces elections (or 
+other similar pressures against his remaining in o If he manages to retain power, there 
+is no change in bureaucrat assignments. If, however, he loses power, the new politician who 
+assumes o re-assigns bureaucrats across posts, so as to maximize gains to himself (or his 
+constituency of voters). Bureaucrats retire from the service at the end of period three and 
+the game ends. 
+3.4 Equilibrium 
+An equilibrium in our framework consists of a cut o initial ability for bureaucrats and an 
+assignment rule for the politician such that (i) bureaucrats at or above this ability level 
+invest in skill, (ii) both politicians and bureaucrats maximize their respective utilities and 
+(iii) all posts are  We sketch out the equilibrium outcome of this game below. The 
+appendix provides a more formal exposition. 
+Politicians of either party will prefer to assign high-skilled o to important posts 
+over type L o as long as sHyH > yL. Since yH = yL + ,   U[0;1] bureaucrats 
+14 
+
+========17========
+
+with a high enough realized skill level will get priority in important posts. The rest of the 
+important posts will be  by o loyal to the politician in power, while o loyal 
+to the other party get unimportant posts. The ine here is that some loyal o 
+are favored over more productive, high-skilled o for important posts. 
+In period 3, reassignment of ocers happens only if the incumbent is ousted by the 
+other party’s politician, but not otherwise. The new politician has an incentive to reassign 
+(transfer) at least some bureaucrats from important to unimportant posts, and vice versa.14 
+Since high-skilled o have been assigned to important posts only if sH yH > yL; the 
+new politician has little incentive to reassign them out of important posts. However, he 
+will prefer to replace o loyal to the other party with those loyal to his own. In other 
+words, political change induces bureaucrat transfers across important versus unimportant 
+posts under the presence of o loyal to either party. Hence restrictions on the politician’s 
+ability to transfer os will reduce the value of loyalty, on the margin. Over the long run, 
+limits on politician’s ability to transfer o will positively a productivity by raising 
+the incentive to invest in high skill. 
+3.5 Testable Hypotheses 
+The testable hypotheses that emerge from our framework are: 
+Hypothesis 1: Given bureaucrats who are loyal to either party ideology, political change 
+induces bureaucrat transfers. 
+14Since output does not di among posts at the same level of importance, transfers occur only across 
+posts of diring importance. Transfer transaction costs (due to dislocation or inexperience of newly assigned 
+o on their jobs) would lower the incidence of transfers further. 
+15 
+
+========18========
+
+Hypothesis 2: Irrespective of the type of politician in oce, high-skilled (type H) o 
+face fewer transfers, compared to loyal o (type L0 and type L1). 
+Hypothesis 3: Over the course of their career, the variation in the importance of the posts 
+held by type H o is lower. 
+Hypothesis 4: Given the politician’s preferences, bureaucrats with high initial ability will 
+be more likely to invest in expertise and hence become type H o 
+4 Data 
+4.1 Bureaucrat Transfers 
+Our main data set contains detailed information on the career histories of all os serving 
+in the Indian Administrative Service (IAS) as of October 2005, obtained from the website 
+of the Ministry of Personnel, Public Grievances and Pensions. Our analysis will focus on 
+2802 o recruited directly (i.e. on the basis of a competitive examination) in 19 major 
+states in or before the year 2000.15 This is because we have information on both the initial 
+examination rank and a long career path for these o which enables us to test key 
+features of our model. O recruited after 2000 have not had time to invest in their 
+15http://persmin.nic.in/ersheet/startqryers.asp, accessed October-December 2005. The states are Andhra 
+Pradesh, Assam, Bihar, Chhattisgarh, Gujarat, Haryana, Himachal Pradesh, Jharkhand, Karnataka, Kerala, 
+Madhya Pradesh, Maharashtra, Orissa, Punjab, Rajasthan, Tamil Nadu, Uttar Pradesh, Uttaranchal and 
+West Bengal. These states comprised 96% of India’s population in 2001. Chhattisgarh, Jharkhand and 
+Uttaranchal were carved out of Madhya Pradesh, Bihar and Uttar Pradesh respectively, in November 2000. 
+There were a total of 4047 o serving in these states, of which 2802 are directly recruited on or before 
+2000. 
+16 
+
+========19========
+
+careers and develop a reputation, and have also experienced fewer instances of politician 
+change.16 15% of the o in our data set are female and 33% hold appointments in their 
+home state, consistent with the o assignment rule described in footnote 10 (Table 1, 
+Panel A). 
+We have information on the start and end dates of each post held by the o 
+the exact designation, the level of seniority, and the department. 7% of all posts are the 
+particularly powerful District O positions. Based on the start and end dates of each 
+post, we construct a transfer dummy variable which equals one if an o is recorded as 
+starting a new post in a given year. If he does not start a new post in that year, the transfer 
+dummy is zero. Multiple transfers within the same calendar year are coded as one as well, 
+so that our measure is an underestimate of the actual transfer probability. We  that IAS 
+o experience very frequent transfers: the average transfer probability for an o in 
+a given year is 53%.17 
+Since this data set consists of all currently serving o it excludes o who 
+retired in earlier years and is thus less comprehensive for the earliest cohorts. However, 
+attrition due to non-retirement reasons is very small in our data. Based on administrative 
+records, we  that about a quarter of ocers recruited before 1979 are no longer present in 
+our data, but only 4% of o recruited between 1979 and 2000 are absent. We address the 
+attrition issue in three ways: st, we include o  e in all of our speci 
+This would control for factors such as the characteristics or size of speci cohorts. Second, 
+1640% of the oers recruited after 2000 have not experienced a single politician change, and less than 
+2% of their positions are important ones. 
+1711% of the transfers in our data are caused by o taking up more than one new job in a given year. 
+17 
+
+========20========
+
+all our results are robust to excluding the cohorts prior to 1979. Third, we constructed a 
+second position-level data set on District O In this speci we have a panel data 
+set for a set of speci positions over time, thereby alleviating concerns of selective attrition 
+of o from our data set. Transfer probabilities in our District Ocer data set are very 
+similar to the overall data set, about 52% in a given year.18 
+4.2 Importance of Posts 
+Based on detailed interviews with several IAS o we constructed a measure of whether 
+certain departments were considered more important, more prestigious or more desirable 
+than others, by the bureaucrats themselves.19 
+We should note that in our context, it is 
+precisely such subjective measures of the importance of posts that are required. After all, it 
+is only these perceptions of o that allow politicians to use assignment across posts as 
+\carrots and sticks."Constitution precludes formal demotion of IAS o by state politi- 
+cians, but a move from the Department of Finance to, say, the Department of Youth A 
+would be regarded as a de facto demotion by most o 
+We currently identify the following departments as important (out of a list of 50 de- 
+partments): excise and sales tax,  food and civil supplies, health, home, industries, 
+irrigation, public works and urban development. We should note that departments were 
+18We constructed the District O data set by using the data on career histories from the  data set 
+to identify District O positions. We then  in the gaps in this data by collecting information from 
+the printed copies of the annually published IAS Civil List, which lists the position held by each o at 
+the beginning of the year. 
+19A department is coded as important if the majority of the o who did the ranking regarded it as 
+important. 
+18 
+
+========21========
+
+identi as desirable for several dit reasons: the Home Ministry is considered impor- 
+tant because it is a prominent position with responsibility for law and order, the Sales Tax 
+department because it gives o access to a lot of state funds, and Finance because this 
+department controls the budgets of all other departments.20 We classify all District O 
+positions and central government positions as important. Overall, 51% of our observations 
+involve o holding important positions (Table 1, Panel B). Approximately three- 
+of all transfers (31% out of 53%) take place between posts of similar importance, while the 
+rest involve a move from an important position to a non-important one or vice versa. 
+4.3 Bureaucrat Ability and Loyalty 
+We measure a bureaucrat’s initial ability by the o rank within his/her cohort after 
+initial recruitment and training. Using this, we created dummies for whether the o 
+was among the top 10, top 20 and top 30 members of his/her cohort. We measure career 
+investments in expertise by the total number of weeks spent in training, and the number of 
+weeks spent in foreign training; the latter requires more e by the bureaucrat to secure 
+funds and o leave, signalling a greater willingness to acquire competence. The ex-post 
+measure of expertise is a dummy for whether the oer has been \empaneled" i.e. reviewed 
+and deemed eligible for senior central government positions in New Delhi (see Section 2.2). 
+20These diverse considerations make it di to use more \objective" measures of importance, such as 
+the share of that department in the state’s budget. For instance, the Finance Department does not command 
+a large share of the budget, while Education, which accounts for up to one- of state expenditure, is not 
+considered very prestigious by the bureaucrats themselves. This is probably because most of the budget is 
+earmarked for teacher salaries, leaving very little room for bureaucratic discretion. 
+19 
+
+========22========
+
+For the cohorts recruited between 1979 and 1987, approximately 65% of the ocers are 
+empaneled (Table 1, Panel A). 
+In order to examine the presence of a \loyalty" route to career success, we obtained 
+data on caste identity for the o of Uttar Pradesh and Uttaranchal cadres. Politics in 
+the state of Uttar Pradesh have been dominated by caste-based appeals by most parties in 
+the 1990s (Chandra, 2004; Banerjee and Pande, 2007). We compute a measure of whether 
+the o caste is the same as that of the Chief Minister’s party base. In terms of our 
+framework, being of the same caste as that of the party base should make it easier for an 
+o to invest in \loyalty" to that politician.21 
+4.4 Political Events 
+We gathered data on changes in the identity of the Chief Minister in the 19 major states over 
+the period 1980-2004.22 
+We also collected information on the dates of state and national 
+elections, as well as the party identity of the elected representative in each constituency, 
+from the website of the Election Commission of India. 
+Over the years 1980-2004, states had an election about once every ve years, but a 
+new Chief Minister once in three years (Table 1, Panel C). This is because a change in 
+the Chief Minister of a state can happen in several ways:  the incumbent party might 
+21We obtained this information for 80% of the directly recruited o in the states of Uttar Pradesh 
+and Uttarakhand. We have currently assigned party-wise caste bases as follows: the Samajwadi Party (SP) 
+is associated with appeals to Yadavs, Backward Castes and Muslims, the Bahujan Samaj Party (BSP) with 
+the Scheduled Castes, and the Bharatiya Janata Party (BJP) with the Forward Castes (Brahmins, Rajputs, 
+Banias and Kayasths). 
+22This information is available from the o websites of the relevant State Governments in most cases. 
+20 
+
+========23========
+
+lose a state election. Second, it might happen that the incumbent party is re-elected, but 
+chooses a dit leader to become the Chief Minister. Third, there can be a change in 
+the Chief Minister even without elections, if his government loses a vote of con in 
+the state legislature (see Section 2.3). Finally, in rare cases, there can be a change in the 
+Chief Minister due to the death or resignation of the incumbent for reasons apart from losing 
+legislative support. In our data, about 52% of new CMs come to power as a result of a new 
+party coming to power, and only 54% of new CMs come to power as a result of elections. 
+5 Politician Change and Bureaucrat Transfers 
+5.1 Are Bureaucrats Transferred when the Politician Changes? 
+We quantify the relationship between political and bureaucratic turnover using the following 
+linear regression speci 
+T ransferijt = ai + bt + cNewCMjt + X0ijtd + uijt 
+(1) 
+where T ransferijt is a dummy variable for whether o i of state j was transferred in year 
+t, ai is a xed e for the o bt is a  e for the year, NewCMjt is a dummy 
+indicating whether a new Chief Minister came to power in state j in year t, and Xijt is a 
+vector of controls for other time-varying o and state characteristics (years of experience, 
+state and general elections). Since transfers within the same state might be correlated over 
+time, we cluster our standard errors at the state level (Bertrand, Du and Mullainathan, 
+2004). 
+We  that, despite the strong constitutional provisions for insulating the bureau- 
+21 
+
+========24========
+
+cracy from politics, bureaucrat transfers signitly increase when a new Chief Minister 
+(CM) takes o in the state (Table 2, Column 1). In terms of magnitude, this represents 
+an increase of 10% over the baseline transfer probability of 0.53. This result is robust to 
+controlling for other time-varying state characteristics such as the timing of state-level and 
+national elections (Column 2) as well as controlling for real state domestic product, crime 
+rates and the incidence of riots (Column 3). Note that there could also be reverse causality 
+in the sense that frequent transfers of bureaucrats might result in a deterioration of law and 
+order or poor implementation of economic policies; hence, we present this specition only 
+as a robustness check.23 Figure 3 shows that most of these transfers take place in the  
+four months after a new Chief Minister takes over, rather than before the political change. 
+Our results thus con Hypothesis 1. 
+A Chief Minister who comes to power along with a new party in power is twice as 
+likely to transfer bureaucrats than a Chief Minister who comes to power without a change 
+in the party in power, an increase of 7.6% points in transfer probability compared to 3.7%, 
+although this dience is not statistically signit (Table 2, Column 4). In contrast, Chief 
+Ministers who come to power as a result of elections are only slightly more likely to transfer 
+bureaucrats, compared to those who come to power in other circumstances (Table 2, Column 
+5). While the timing of elections is anticipated, non-election based Chief Minister changes 
+are unlikely to be. Hence this last  clari that the rise in transfers associated with 
+political turnover is not driven by o transfers being bunched up around an expected 
+23Kingston (2004) examines the relationship between riots and transfer frequency in the 1980s, and s 
+ambiguous results: transfers are negatively correlated with riots in the cross-section, but positively related 
+in the panel speci 
+22 
+
+========25========
+
+Chief Minister change, for pure administrative convenience. Further con of this is 
+provided by the fact that the majority of CM-induced transfers are \lateral" transfers i.e. 
+not accompanied by a promotion, so that the reassignments we observe are not a reward 
+for past performance or routine promotions that merely coincide with a new CM coming 
+into o (Columns 6 and 7). Finally, we show that our results on the relationship between 
+political change and bureaucratic turnover are not driven by selective attrition across cohorts 
+or changes in hiring over time. The results remain essentially unchanged when we drop all 
+cohorts prior to 1979, where retirement-related attrition is highest, or when we include 
+o who are hired through promotion from lower-level State Civil Services (Columns 8 
+and 9). 
+5.2 Are High-skilled Bureaucrats Less Likely to be Transferred? 
+We test Hypothesis 2 by extending the regression equation 1 to include the interaction of 
+political change and o ability as follows: 
+T ransferijt = ai + bt + cNewCMjt + fNewCMjt  Abilityi + X0ijtd + uijt 
+(2) 
+where Abilityi represents a measure of o ability, and Xijt is a vector of controls for other 
+time-varying o and state characteristics (years of o experience, state and general 
+elections, as well as the interactions of political change and other o characteristics such 
+as gender, years of experience and whether s/he serves in his/her home state). Our measures 
+of ability are based on the within-cohort ranks of the o as described in Section 4:3. 
+We construct dummies for whether the o was among the top 10, top 20 or top 30 people 
+23 
+
+========26========
+
+in his/her cohort.24 Our theory predicts that the coet on NewCMjt  Ability will be 
+negative. As in all the other regressions, standard errors are clustered at the level of the 
+state. 
+Our o-level regressions strongly support our hypothesis that high-skilled o 
+are signitly less likely to be reassigned when a new politician comes into o (Table 
+3, Columns 1 and 2). In particular, an o who was ranked among the top 20 in his/her 
+cohort is 2.3 percentage points less likely to be transferred when a new politician takes o 
+Given that the average e of an incoming politician is to increase transfer probability by 
+4.9 percentage points, this points to a 47% lower transfer probability for high-skilled o25 
+These results remain signit, and the magnitudes in fact become larger, when we exclude 
+cohorts prior to 1979 (Columns 4-6). The magnitudes are much larger and also statistically 
+signit when we use a logit specion rather than OLS (Columns 7-9).26 
+These regressions also illustrate di across other types of o characteristics. 
+Most interesting is the fact that o serving in their home state are signitly more 
+likely to be reassigned by incoming politicians. Ex-ante, it is not clear what to expect 
+here: home state o have some inherent advantages, such as familiarity with the local 
+24These ranks are slightly dint from \top 10% in cohort" due to the di in cohort sizes across 
+the years. We prefer this speci since o are typically known by their rank, rather than their 
+percentile rank. These ranks are highly correlated with percentile ranks (correlations>0.80). 
+25We d similar results if we include all the o (not just the direct recruits), and use the length of 
+tenure in the previous post as a proxy for greater ability. O who have spent a longer time in their 
+previous post are less likely to be transferred when a new Chief Minister takes oe (results available upon 
+request). 
+26We run the logit regressions without o  e but with controls for the o  charac- 
+teristics such as ability, gender and whether they serve in their home state. 
+24 
+
+========27========
+
+language and culture, which may decrease their marginal cost of becoming an \high-skilled" 
+type. On the other hand, they may have pre-existing ties with speci state politicians, or 
+may nd it easier to develop such ties and thus have a lower cost of becoming a \loyal" 
+type. The empirical results suggest that the latter ect dominates over the former. More 
+experienced o are signitly more likely to be reassigned by an incoming politician, 
+which is consistent with our model in the sense that these are the o who have developed 
+a specic reputation i.e. whose type has been revealed. 
+5.3 Do \Able" Bureaucrats Have More Even Career Paths? 
+We test Hypothesis 3 by classifying our transfer dummy into two types: transfer between 
+posts of similar importance (important-important or unimportant-unimportant) and transfer 
+between posts of dissimilar importance (important-unimportant or unimportant-important). 
+We de importance as described in Section 4.2. We then run the following speci 
+T ransfertoDifferentImportanceijt 
+= ai + bt + cNewCMjt + fNewCMjt  Abilityi 
++X0ijtd + uijt 
+(3) 
+where T ransfertoDifferentImportanceijt is a dummy variable which equals one if o i 
+of state j was transferred to a post of a dit importance in year t (i.e. transferred from 
+an important post to an unimportant one, or from an unimportant post to an important 
+one), and all other variables are the same as in equation 2. Our theory predicts that the 
+coet on NewCMjt  Ability will be negative. 
+We  clear support for the hypothesis that the \high-skilled" types will have more 
+even career paths. The coet on NewCMjt  Ability is negative and statistically 
+25 
+
+========28========
+
+signit, both in the OLS and in the logit speci for o in the top 20 ranks 
+in their cohort (Table 4, Columns 2 and 8). We note that of the 2.3 percent percentage 
+points lower transfer probability of o in top 20 ranks (reported in table 3, column 2), 
+1.9 percentage points or over 80 percent, is because they are less likely to be moved to posts 
+of dit importance. Qualitatively, this is consistent with our model, where the main 
+reason for politically induced transfers is the movement of loyal, rather than able o 
+from important to unimportant posts. The results are in the same direction for o 
+in the top 30 ranks in their cohort (Columns 3 and 9). The coets change very little 
+when we exclude cohorts prior to 1979, though the standard errors are a little larger and 
+the statistical signie decreases (Columns 4-6). Overall, we  conon for our 
+hypothesis that the possibility of getting important positions is an important tool used by 
+politicians to motivate bureaucrats in this setting. 
+5.4 Bureaucrats’ Career Concerns 
+We  assess whether bureaucrats of higher initial ability invest more in developing ex- 
+pertise, a key assumption in our model. We use the extent of training undergone by the 
+bureaucrat as a proxy for such investment in expertise, and run regressions of the form: 
+T rainingic = c + Abilityic + X0ic + uic 
+(4) 
+where T rainingic measures the weeks of training (domestic and foreign) undergone by o 
+i of cohort c, ac is a  e for the cohort (so that we are only comparing each oer to 
+others of his cohort), Abilityic is the initial within-cohort rank of o i, and Xic represent 
+26 
+
+========29========
+
+other characteristics of the o In our model, we expect the coet on Ability to be 
+positive, because of able o comparative advantage in developing expertise. 
+We  that bureaucrats of higher initial ability undergo longer durations of training 
+over the course of their career, and particularly so for periods of foreign training (Table 5). 
+The foreign training variable is particularly relevant as a measure of investment in expertise, 
+since foreign training is not required (unlike certain types of domestic training courses), and 
+o would need to expend greater e in order to  training opportunities outside the 
+country, as well as to arrange funding and the necessary leave from their duties. This provides 
+support for our Hypothesis 4 that these o are more willing to invest in developing a 
+reputation for expertise. These regressions are robust to excluding the cohorts prior to 1979. 
+The coets on ability for these training regressions become larger in magnitude and 
+retain statistical signi if we employ a Tobit model instead of a linear one (results 
+available upon request). 
+Are there career rewards to such investments? We  that oers of higher initial 
+ability are signitly more likely to be \empaneled" about twenty years into their careers 
+(Table 6, Columns 1-3) i.e. recommended for senior positions in the central government. 
+This strongly suggests that their career investments have resulted in a perception of them 
+as competent o as viewed by senior bureaucrats. Central government positions are 
+considered prestigious, and only empaneled o are eligible for these important posts. 
+Our model suggests that there is another path to obtaining important positions{by 
+developing \loyalty" to speci politicians. We provide empirical support for the existence 
+of such a \loyalty" track as follows: as described in section 4.3, we computed a measure of 
+whether the o belongs to the same caste as that of the Chief Minister’s party base, on 
+27 
+
+========30========
+
+the assumption that it is easier to develop loyalty links if the politician and the bureaucrat 
+share the same caste identity. We check whether this helps their career concerns by running 
+the following regression: 
+OfficerinImportantP ostijt = ai + bt + hOfficerSameCasteijt + X0ijtd + uijt 
+(5) 
+where OfficerinImportantP ostijt is a dummy variable for whether ocer i of state j holds 
+an important post in year t, ai is a  e for the o bt is a  e for the year, 
+OfficerSameCasteijt is a dummy which equals one if the o belongs to the caste base of 
+the current Chief Minister’s party and Xijt is a vector of controls for other time-varying oer 
+and state characteristics. Our theory predicts that the coet on OfficerSameCaste 
+should be positive. 
+We  strong support for this hypothesis: being of the same caste as the Chief 
+Minister’s party base signitly increases an o probability of being in an important 
+post by 6.6 percentage points (Table 6, Columns 4-6). We should note that since this 
+regression is run with o  e it compares the same o at dit points of 
+time: when his \preferred" Chief Minister is in power, and when he is not. This is the  
+empirical analysis of the role of caste in the public sector that we are aware of.27 
+Having provided some evidence that o have two potentially viable paths to ob- 
+taining better career positions, we investigate whether the expertise track yields better career 
+success overall. The answer is no: the average importance of the posts held by an o 
+over the course of his or her career does not vary signitly with the initial ranking (Table 
+27See Munshi and Rozenzweig (2006) for an empirical analysis of the in of caste networks on 
+education investments and labor market outcomes in the private sector. 
+28 
+
+========31========
+
+6, Columns 7-9). This is very much in keeping with our framework which emphasizes that 
+o have alternative routes to career success; investment in expertise is not the only one. 
+6 District Level Transfers and Outcomes 
+6.1 Extending our Framework: the Role of Local Politicians 
+We introduce a subordinate (district-level) politician as a \middleman" M between the 
+politician and the bureaucrat at the district level. These subordinate politicians belong to 
+one of the two parties, so jM 2 f0;1g. We assume that subordinates from the same party 
+are motivated to act in the interests of the politician and his constituents i.e. sM = 1 if 
+jM = jP; and sM = 0 otherwise. 
+As described in Section 2.1, we consider District O positions as important posts 
+in our framework. We showed that a politician of type 0 will assign only type L0 and type H 
+bureaucrats to these posts; when he comes into o he would thus thus want to reassign 
+type L1 o in district posts to unimportant ones. However, this can change with the 
+presence of subordinate politicians, depending on whether the subordinate politician and 
+the bureaucrat are \complements" or \substitutes" in determining the politician’s control 
+over output at the district level. Of course, if local politicians have no eect on politician’s 
+control over bureaucrats, their presence should not impact transfers in any way. 
+If subordinate politicians and bureaucrats are complements (say sdist = minfsM; sbg), 
+a newly elected politician will assign all oers loyal to him in districts where the local 
+politician is from his own party i.e. we expect to see more bureaucrat transfers in districts 
+29 
+
+========32========
+
+where the local politician belongs to the same party as the Chief Minister. If subordinate 
+politicians and bureaucrats are substitutes (say sdist = maxfsM; sbg), either a loyal district 
+politician or a loyal bureaucrat is enough to ensure that the politician’s interests in the 
+district are well-served. This predicts more bureaucrat transfers in districts where the local 
+politicians are not from the same party as the Chief Minister. 
+We therefore generate the following hypotheses to take to the data: 
+Hypothesis 5: Following political change, district o transfer patterns will depend on 
+the proportion of local politicians who belong to the new Chief Minister’s party. 
+Hypothesis 6: If there is a change in the politician (Chief Minister) without a change in 
+the party in power, then there is no e of local politicians from the CM’s party on transfer 
+patterns. 
+What does this imply for district level outcomes? If, in fact, local politicians and local 
+bureaucrats are good substitutes, it means that outcomes in districts where bureaucrats are 
+transferred will not be systematically dit from those in districts where bureaucrats are 
+not transferred. We test this speci implication of our framework in section 6.3 below. 
+6.2 District Level Bureaucrat Transfers 
+We use our data set of District O transfers to test these predictions, by running the 
+following regression: 
+T ransferdjt = ad + bt + cNewCMjt + fNewCMjt  DistrictChardjt + X0jtd + udjt 
+(6) 
+where T ransferdjt is a dummy variable for whether the District O of district d of state 
+j was transferred in year t, ad is a  e for the district, bt is a  e for the year, 
+30 
+
+========33========
+
+NewCMjt is a dummy indicating whether a new Chief Minister came to power in state j in 
+year t, DistrictChardjt represent dit district characteristics (in particular, the fraction 
+of local politicians who belong to the same party as the CM) and Xijt is a vector of controls 
+for other time-varying state characteristics (state and national elections). For this analysis, 
+we aggregate electoral outcomes to the administrative district level. State electoral districts 
+are usually subsets of administrative districts, with one administrative district containing on 
+average 10 electoral districts.28 
+We  document that District O are indeed signitly likely to be reassigned 
+when a new Chief Minister takes o (Table 7, Column 1). The probability of reassignment 
+depends strongly on the presence or absence of local politicians from the CM’s party (Column 
+2), consistent with Hypothesis 5. If none of the politicians in a district belong to the CM’s 
+party, then the probability that the bureaucrat is transferred rises by nearly 14% points when 
+a new CM comes into o In contrast, if all the local politicians are from the CM’s party, 
+this probability rises by only 3.7 percentage points (0.137-0.100), which is not signitly 
+dit from zero. This strongly favors the interpretation that local level politicians and 
+local bureaucrats are viewed as \substitutes" by the Chief Minister. 
+We also nd strong support for Hypothesis 6: If there is a change in the Chief Minister 
+without a change in the party in power, then there are no signit reassignments of district 
+bureaucrats (Table 7, Column 3). Finally, we verify that the e we document are not 
+28All variables are further aggregated to the 1988 administrative district boundaries, to account for splits 
+in districts over time. This makes our transfer dummy to lie between 0 and 1 in a few cases; we verify that 
+our results are robust to recoding all transfer probabilities greater than 0.5 as 1 and those less than 0.5 as 0. 
+31 
+
+========34========
+
+simply a function of political turnover or the extent of anti-incumbent voting (Column 4).29 
+While the results of our district level analysis are interesting in their own right, they 
+also help to rule out some alternative hypotheses about why political change may trigger an 
+increase in bureaucrat transfers, not all of which may be associated with greater ineciency 
+as portrayed in our framework. For instance, it is not uncommon for a new boss to bring in 
+his own team of subordinates for key positions, simply because there is an et personal 
+match between them which enhances productivity. However, we observe that the presence 
+of local politicians matters, and that there are very few transfers if the party in power does 
+not change. Thus, the motivation for these transfers is more political control rather than 
+the e of the personal \match" between the o and the new Chief Minister. 
+Another alternative motivation for transfers could be experimentation to reveal et 
+oost match. However, there is no a priori reason to explain why such experimentation 
+is only valuable (a) when there is a change in the political party and (b) in districts that are 
+not represented by a subordinate politician from the Chief Minister’s party. Further, such 
+experimentation is likely to be most valuable for junior o whose type has not been 
+revealed. In fact, our earlier results show that it is o with greater experience who are 
+more likely to be transferred, following political change. This weakens the support for the 
+experimentation hypothesis. 
+6.3 Are District Outcomes A by Bureaucrat Transfers? 
+We examine two speci measures of district-level policy implementation outcomes: im- 
+munization coverage in the year 2001, and the completion status of road projects in 2007. 
+29See Linden (2003) for details on the increasing incumbency disadvantage in Indian politics. 
+32 
+
+========35========
+
+The major caveat with using these outcomes is that these are only a subset of the district 
+administrator’s purview. To get a more comprehensive picture of the e on district out- 
+comes, we use an overall measure of well-being: poverty reduction over a twelve year period 
+(1987-1999), based on district-level poverty estimates from Topalova (2005). 
+In immunization coverage and road completion, we  no signit di in 
+outcomes in areas with a higher frequency of politician-induced transfers (Table 8, columns 
+1-3).30 In contrast, with the comprehensive measure of long term poverty reduction (1987- 
+1999), we do observe somewhat greater success in districts with lower politically induced 
+transfers (Column 4). Poverty rates declined by 0.9 percentage points less in districts which 
+had a 10 percentage point higher probability of politically induced transfer. This is similar 
+to the e for poverty reduction over a shorter period 1993-1999, though the latter is not 
+statistically signit (Column 5). These results suggest that the cost of political transfers 
+in terms of longer-term outcomes can be quite high. It is possible, of course, that the observed 
+associations are driven by variables which a both the extent of political transfers and 
+the rate of poverty reduction. Our results should therefore be treated as suggestive, rather 
+than conclusive. 
+7 Conclusion 
+In this paper, we have opened up the \black box of government" by providing one of the 
+ micro-economic analyses of the the interaction between politicians and bureaucrats, 
+30Here we de \politician-induced" transfer as one which happens to coincide with a change in the 
+identity of the Chief Minister. 
+33 
+
+========36========
+
+using unique data from the Indian Administrative Service (IAS). We  signit political 
+in on the bureaucracy, despite the constitutional insulation provided to them against 
+political pressures. The patterns of bureaucrat transfers across posts is consistent with the 
+predictions of our model, and indicates the presence of two types of ine One results 
+from the fact that not all important posts are given to the most competent bureaucrats, and 
+the second arises endogenously due to the career concerns of junior bureaucrats: given that 
+competence is not the only consideration for obtaining important positions, junior o 
+underinvest in developing competence. 
+What are the implications of our analysis for et governance? Our framework 
+suggests that instituting limits on the politician’s power to frequently transfer bureaucrats, 
+such as those in a proposed Public Services Bill in India, will reduce the politician’s abil- 
+ity to appoint loyal bureaucrats to important positions. This, in turn, will favorably a 
+junior o incentives to invest in expertise. Similarly, an increase in the politician’s 
+transactions costs of reassignment (for instance, through a review process requiring him to 
+justify his choice of speci bureaucrats) may limit the likelihood of less competent bureau- 
+crats obtaining important posts. Our analysis is also relevant for multilateral agencies that 
+channel funds for public projects through the existing bureaucratic machinery of individual 
+countries. An increase in the funds channeled through bureaucracies may increase the value 
+of o loyalty to politicians, with adverse long term consequences for bureaucratic com- 
+petence. Measures to curtail opportunities for such rent-seeking, perhaps by limiting the 
+role of the state in such projects, could be one way to maintain incentives for bureaucratic 
+e. 
+34 
+
+========37========
+
+8 Appendix: Theoretical Framework Details 
+8.1 Politician 
+The politician seeks to maximize the size of total bureaucrat output he can control as well 
+overall public good e.31 If we denote his relative weight on control and e by 
+the parameters  2 [0;1] and (1 
+ ) respectively and the shares of bureaucrats’ output that 
+he controls sb 2 [0;1] , he seeks to maximize Z =  sb:n 
+byb 
++ (1  ) yb:n 
+b: 
+For our analysis 
+b b 
+below, we consider the case where  = 1.32 Accordingly, the politician’s preferences can be 
+represented by 
+Max sn 
+b 
+b:n 
+byb 
+b 
+(7) 
+where nb = fnH; nL 
+0; nL1g 
+is the assignment of bureaucrats to important posts in a given 
+time period. 
+8.2 Bureaucrats 
+Junior bureaucrats are of two ideologies and the initial number of o of the two ideologies 
+are N0 and N1, such that N0+N1 = N, the total number of o (and posts). Posts are of 
+31The implicit assumption here is that politicians’ probability of remaining in power is a direct (linear) 
+function of the output they control. There could be several reasons for this: greater control over output would 
+allow them to direct its allocation strategically towards citizen blocs, so as to maximize their probability of 
+staying in power. Under elections, it could also increase their access to campaign funds. 
+32When 
+ = 0, the politician cares about e alone, and bureaucratic assignment by politicians of 
+either party is based solely on o productivity. Political change will therefore not trigger bureaucrat 
+transfers. All our results would still be true for  2 (0;1), albeit in a weaker manner. 
+35 
+
+========38========
+
+two types, important and unimportant, important posts being scarce. Bureaucrats derive 
+positive utility from being assigned to important posts. 
+Junior bureaucrats can allocate e into developing a reputation for expertise, or 
+choose loyalty to particular politicians/parties as the route to career success. O can 
+choose between high e eh or low e el in developing expertise; greater et increases 
+their chances of becoming a type H o but it is more costly too. The ee cost of 
+such e c(e)  0 is lower for those with higher initial ability, i.e. the ee e cost 
+c(e):g(ai) is decreasing in initial ability ai, g0(ai) < 0: 
+Let us denote the lifetime expected utility of o of types H and L by UH and UL 
+respectively. A bureaucrat will choose high et eh if and only if the expected utility net 
+of the cost of e is greater for high e than for low e i.e.: 
+ehUH + (1 
+ eh)UL 
+ c(eh):g(ai) > elUH + (1 
+ el)UL 
+ c(el):g(ai) (8) 
+To simplify matters, we set eh = 1 and el = 0; c(el) = 0. In the above equation then, the 
+bureaucrat chooses high e in developing expertise if and only if: 
+(UH 
+ UL) 
+ c(1):g(ai)  0; 
+(9) 
+and zero e otherwise. 
+8.3 Equilibrium 
+An equilibrium consists of a cut o ability threshold aamong bureaucrats and an assignment 
+rule nb for the politician such that: 
+36 
+
+========39========
+
+(1) All ors with initial ability above a certain threshold a optimally choose the 
+high e level eh and those with ability below a optimally choose e level el = 0. 
+(2) Politicians and bureaucrats both maximize their individual utility and 
+(3) All o are assigned among the N posts available, i.e. nb 
+b 
+= N; b = fH; L0; L1): 
+We solve for the equilibrium outcome of the  two periods of this game backwards.33 
+Let us begin with the politicians’ optimal assignment rule that will maximize equation(7) 
+for a politician of type j, given the number of o of each type b = fH; L0; L1g. Since 
+sH 2 (0;1); sL 
+j 
+= 1 and sL 
+)j( 
+= 0 and yH = yL + ;   U[0;1], the optimal assignment rule 
+for important posts is: 
+1. First assign type H o for whom sHyH() > yL , which implies that the number 
+of type H o assigned to important posts in period two, nH > 0 irrespective of 
+the type of politician in o 
+2. Then assign other important posts to type Lj o which implies that nL 
+b=j 
+ 0 
+3. Do not assign type Lb=j 
+6 
+o to important posts (since the politician can control 
+none of their output), implying that nL 
+b=j 6 
+= 0: 
+This assignment rule gives rise to a corresponding probability q(I jb; j) of an important 
+post I for an o of type b when a politician of type j is in o So for instance, 
+if a politician of type 0 is in o these probabilities for dit types of o are 
+as follows: 
+33Period three of the game is a repeat of period two, for a given initial assignment of bureaucrats to posts. 
+37 
+
+========40========
+
+q(I jH;0) = minf1; 
+NI 
+(1  )[(1  F(a))N0 + (1 
+I 
+q(I jL0;0) = maxf0; 
+N  nH 
+N0:F(a)g 
+ F(a))N1]g 
+= q(I jH;1) (10a) 
+(10b) 
+q(I jL1;0) = 0 (10c) 
+where is the cuto value of  above which politicians prefer able o over loyal ones 
+for important posts, a is the equilibrium level of initial ability above which o invest in 
+becoming type H in period one and F(:) is the c.d.f. for o ability ai. Once important 
+posts have been assigned to all type H and L0 o as per the optimal assignment rule, 
+there will be no important posts left for type L1o This is because NI < N0 by 
+assumption and the combined total number of the  two types of o must exceed N0. 
+Let pwinj represent the probability of party j winning power in a given time period. 
+Naturally, o determining their lifetime utilities take this probability as exogenous to 
+their own career investment decisions. Given the above expressions for o probability 
+of getting important posts q(:), we can write UH and UL as: 
+UH = (1 + )uIMP[pwin0 : q(I j0; H) + pwin1 : q(Ij1; H)] and 
+UL = (1 + )uIMP[pwin0 : q(I j0; Lj) + pwin1 :q(I j1; L)] 
+where is  the per-period discount factor and uIMP represents per-period utility to a 
+bureaucrat from an important post. The components of UH within square brackets indicate 
+the likelihood of a bureaucrat of type H being assigned to an important post, conditional 
+on a politician of type j = f0;1g being in o The expression for UL is similar. 
+Plugging the probabilities q(:) back into equation (9) and using the expressions for UH 
+and UL, we can solve for a in period one by imposing equality, as follows: 
+38 
+
+========41========
+
+uIMP[pwin0 q(I j0; H) + pwin1 q(I j1; H) 
+ pwin0 q(I j0; L0)] = c(1):g(ai) (11) 
+The right hand side of equation (11) is decreasing in ai whereas the left-hand side is 
+constant in ai. As a result, there exists a unique intersection between the LHS and RHS, 
+giving us a unique equilibrium ability level aabove which all o invest high e in 
+expertise in period one. This gives rise to three types of ocers, where the number of each 
+type nH = (N0 + N1)(1 
+ F(a)); nL 
+1 
+= F(a)N1 and nL 
+0 
+= F(a)N0: 
+We can now predict the pattern of transfers in period three as follows. If the incumbent 
+in period two retains power, no bureaucrats are transferred, irrespective of their type. What 
+happens when a politician of type 0 assumes o in this period (with probability pwin0 = 
+(1 
+ pwin1 )), when the incumbent in period two was of type 1? At the beginning of period 
+three, we have initial assignments n2b = fn2H; n2L 
+1; n 
+2 
+L0g, which were the outcome of the 
+maximization of equation (2) by politician of type 1 in period two. We can infer that these 
+assignments are such that n2H > 0; n2L 
+1 
+ 0 and n2L 
+0 
+= 0. 
+Transfers are a function of the initial allocation n2b relative to politician 0’s optimal 
+assignments n3b as outlined above. The optimal assignment for politician of type 0 are 
+n2H > 0; n2L 
+0 
+ 0 and n2L 
+1 
+= 0. This implies that, when a type 0 politician takes over from a 
+type 1 politician in period three, 
+1. All type L1 o in important posts are transferred to unimportant posts. 
+2. They are replaced  with type L0 o and then type H o as needed. 
+3. Type H o who initially had important posts under politician from party 1 are 
+retained by politician of party 0. 
+39 
+
+========42========
+
+References 
+Alesina, Alberto, and Guido Tabellini (2007) `Bureaucrats and politicians? Part I: A single 
+policy task.’ American Economic Review 97(1), 169{179 
+Banerjee, Abhijit V., and Rohini Pande (2007) `Parochial politics: Ethnic preferences and 
+politician corruption.’ Working Paper 
+Bardhan, Pranab, and Dilip Mookherjee (2006) `Decentralization and accountability in in- 
+frastructure delivery in developing countries.’ Economic Journal 116(January), 101{127 
+Bertrand, Marianne, Esther Du and Sendhil Mullainathan (2004) `How much should we 
+trust di estimates?’ Quarterly Journal of Economics 119(1), 249{ 
+276 
+Besley, Timothy, and Abigail Payne (2003) `Judicial accountability and economic policy 
+outcomes:evidence from employment discrimination charges.’ Working Paper 
+Besley, Timothy, and Maitreesh Ghatak (2005) `Competition and incentives with motivated 
+agents.’ American Economic Review 95(3), 616{636 
+Besley, Timothy, and Stephen Coate (2003) `Elected versus appointed regulators.’ Journal 
+of the European Economics Association 1(5), 1176{1206 
+Besley, Timothy, Rohini Pande, and Vijayendra Rao (2007) `Just rewards? Local politics 
+and public resource allocation in South India.’ Working paper 
+Calvert, R. McCubbins, and Barry Weingast (1989) `A theory ofpolitical control and agency 
+discretion.’ American Journal of Political Science 33(3), 588{611 
+40 
+
+========43========
+
+Chandra, Kanchan (2004) Why Ethnic Parties Succeed: Patronage and Ethnic Headcounts 
+in India (Cambridge: Cambridge University Press) 
+Das, S.K. (2001) Public Oe, Private Interest:Bureaucracy and Corruption in India (New 
+Delhi: Oxford University Press) 
+de Zwart, Frank (1994) The Bureaucratic Merry-go-round: Manipulating the transfer of 
+Indian civil servants (Amsterdam University Press) 
+Dewatripont, Mathias, Ian Jewitt, and Jean Tirole (1999) `The economics of career concerns, 
+part II: Application to missions and accountabilityof government agencies.’ Review of 
+Economic Studies 66(1), 199{217 
+di Tella, Rafael, and Ray Fisman (2004) `Are politicians really paid like bureaucrats?’ Jour- 
+nal of Law and Economics 47(2), 477{514 
+Dixit, Avinash (2008) `Democracy, autocracy, and bureaucracy.’ Working paper 
+Epstein, David, and Sharyn O’Halloran (1999) DelegatingPowers: A Transactions Cost Ap- 
+proach to Policymaking under Separate Powers (Cambridge University Press) 
+Evans, Peter (1995) Embedded Autonomy: States and Industrial Transformation (Princeton: 
+Princeton University Press) 
+Ferraz, Claudio, and Frederico Finan (2008) `Motivating politicians: The impacts of mone- 
+tary incentives on quality and performance.’ Working paper 
+Gilmour, David (2005) The Ruling Caste: Imperial Lives in the Victorian Raj (New York: 
+Farrar, Straus and Giroux) 
+41 
+
+========44========
+
+Holmstrom, Bengt, and Paul Milgrom (1991) `Multi-task principal-agent problems: Incentive 
+contracts, asset ownership and job design.’ Journal of Law, Economics and Organization 
+7(Special Issue), 24{52 
+Khemani, Stuti (2003) `Partisan politics and intergovernmental transfers in india.’ World 
+Bank Policy Research Working Paper 3016 
+Kingston, Christopher (2004) `Corruption and social structure: Theory, and evidence from 
+India.’ BREAD Working Paper 075 
+Lim, Claire S.H. (2008) `Turnover and accountability of appointed and elected judges.’ Work- 
+ing Paper 
+Linden, Leigh (2003) `Are incumbents always advantaged? the preference for non-incumbents 
+in India.’ Working paper 
+Maskin, Eric, and Jean Tirole (2004) `The politician and the judge: Accountability in gov- 
+ernment.’ American Economic Review 94(4), 1034{1054 
+Mueller, Hannes (2007) `Patronage, meritocracy and political competition: exploring an 
+empirical puzzle.’ Working paper 
+Munshi, Kaivan, and Mark Rozenzweig (2006) `Traditional institutions meet the modern 
+world: Caste, gender, and schooling choice in a globalizing economy.’ American Eco- 
+nomic Review 96(4), 1225{1252 
+42 
+
+========45========
+
+Park, No-Wook, and Rohini Somanathan (2004) `Patronage in public administration: Pres- 
+idential connections, position assignments and theperformance of Korean public prose- 
+cutors, 1992-2000.’ Working paper 
+Potter, David C. (1996) India’s Political Administrators:From ICS to the IAS (New Delhi: 
+Oxford University Press) 
+Prendergast, Canice (2007) `The motivation and bias of bureaucrats.’ American Economic 
+Review 97(1), 180{196 
+Ramseyer, Mark, and Eric Rasmusen (2001) `Why are Japanese judges so conservative in 
+politically charged cases?’ American Political Science Review 95(2), 331{344 
+Rauch, James (1995) `Bureaucracy, infrastructure and economic growth: Evidence from U.S. 
+cities during the Progressive era.’ American Economic Review 85, 968{979 
+Rauch, James, and Peter Evans (2000) `Bureaucratic structure and bureaucratic performance 
+in less developed countries.’ Journal of Public Economics 75, 49{71 
+Smart, Michael, and Daniel Sturm (2008) `Term limits and electoral accountability.’ CEPR 
+Discussion paper No. 4272 
+Topalova, Petia (2005) `Trade liberalization, poverty and inequality: Evidence from Indian 
+districts.’ NBER Working Paper 11614 
+Wade, Robert (1982) `The system of administrative and political corruption: Canal irrigation 
+in South India.’ Journal of Development Studies 18(3), 287{328 
+43 
+
+========46========
+
+Weingast, Barry, and Moran (1983) `Bureaucratic discretion or Congressional control? Reg- 
+ulatory Policymaking at the FTC.’ Journal of Political Economy 91(5), 765{800 
+44 
+
+========47========
+
+Table 1: Descriptive Statistics 
+Sample: Direct recruits who joined the service on or before 2000 
+# Obs Mean s.d. Minimum Maximum Panel A: Bureaucrat characteristics 
+Year of joining service 2802 1984 8.11 1968 2000 Proportion female 2802 0.15 0.35 0 1 Proportion of home state officers 2796 0.33 0.47 0 1 Proportion in top 10 ranks of cohort 2797 0.12 0.32 0 1 Proportion in top 20 ranks of cohort 2797 0.23 0.42 0 1 Proportion in top 30 ranks of cohort 2797 0.34 0.47 0 1 Total weeks of training 2791 28.5 30.6 0 192 Weeks of foreign training 2788 15.9 23.6 0 172 Proportion empaneled for central government posts 1048 0.65 0.48 0 1 (1979-1987 cohorts) 
+Proportion same caste as Chief Minister's party base 3595 0.42 0.49 0 1 (Uttar Pradesh officers, 1990s) 
+Panel B: Bureaucrat transfers (1980-2004 annual data) 
+Transfer dummy 54798 0.53 0.50 0 1 Proportion in District Officer posts 54798 0.07 0.26 0 1 Important post based on officer interviews 54798 0.51 0.50 0 1 Transfer to a post of similar importance 54248 0.31 0.46 0 1 Transfer toa post of different importance 54248 0.21 0.41 0 1 District Officer transfer dummy (1985-2004) 6692 0.52 0.48 0 1 
+Panel C: State-level political variables (1980-2004) 
+New Chief Minister (CM) dummy 415 0.32 0.47 0 1 New party in power dummy 415 0.17 0.37 0 1 State election year dummy 415 0.23 0.42 0 1 General election year dummy 415 0.32 0.47 0 1 
+
+========48========
+
+Table 2: Does a politician change result in bureaucrat turnover? 
+Dependent variable: bureaucrat transfer dummy 
+Control  
+for  New CM elections 
+Controls for  SDP and crime  (1991-2003) 
+How did CM come to  
+power 
+With party  change 
+With  elections 
+Transfers with and  
+without promotion Robustness Checks 
+Exclude  
+Transfers  cohorts  Include  
+with  Lateral  prior to  non-direct  promotion transfer 1979 recruits 
+(1) (2) (3) (4) (5) (6) (7) (8) (9) 
+New Chief Minister dummy 0.051*** 0.049*** 0.046** 0.004 0.046*** 0.050** 0.047*** 
+(0.014) (0.015) (0.017) (0.005) (0.015) (0.019) (0.014) New CM, new party in power 0.076*** 
+(0.022) 
+New CM, no new party in power 0.037** 
+(0.017) 
+New CM after election 0.055*** 
+(0.015) 
+New CM, no election 0.047** 
+(0.017) 
+State election dummy 0.006 0.017 -0.012 0.002 0.008 -0.002 0.003 0.006 
+(0.016) (0.021) (0.017) (0.013) (0.005) (0.014) (0.019) (0.017) General election dummy -0.024** 0.014 -0.035** -0.024** -0.016** -0.007 -0.038** -0.021 
+(0.011) (0.020) (0.014) (0.011) (0.006) (0.007) (0.016) (0.013) Years of experience 0.191*** 0.083 0.196*** 0.191*** 0.143*** 0.035** 0.673*** 0.310*** 
+(0.020) (0.058) (0.019) (0.020) (0.010) (0.015) (0.035) (0.016) Years of experience (squared) -0.066*** -0.029*** -0.066*** -0.066*** -0.054*** -0.010** -0.215*** -0.101*** 
+(0.005) (0.010) (0.005) (0.005) (0.003) (0.004) (0.012) (0.005) 
+Officer fixed effects YES YES YES YES YES YES YES YES YES Year fixed effects YES YES YES YES YES YES YES YES YES Observations 54798 54798 32752 54798 54798 53741 53741 33398 68553 R-squared 0.05 0.05 0.08 0.05 0.05 0.04 0.06 0.09 0.10 
+Robust standard errors in parentheses, corrected for state-level clustering * significant at 10%; ** significant at 5%; *** significant at 1% 
+Sample for columns 1-7: Direct recruits who joined the service on or before 2000 
+
+========49========
+
+Table 3: Are Able Officers Less Likely to be Transferred by Politicians? 
+Dependent variable =1 if officer was tranferred during the year 
+Base sample, OLS Excluding cohorts prior to 1979 Base sample, logit (1) (2) (3) (4) (5) (6) (7) (8) (9) 
+New CM dummy 0.006 0.007 0.008 -0.001 0.001 0.001 0.050 0.058 0.058 
+(0.010) (0.011) (0.011) (0.013) (0.014) (0.015) (0.053) (0.056) (0.058) New CM * top 10 rank in cohort -0.026* -0.034** -0.135** 
+(0.014) (0.015) (0.055) 
+New CM * top 20 rank in cohort -0.023** -0.030** -0.111** 
+(0.011) (0.012) (0.048) 
+New CM * top 30 rank in cohort -0.014 -0.018 -0.064* 
+(0.009) (0.013) (0.039) New CM * female dummy -0.026* -0.026* -0.025* -0.015 -0.015 -0.014 -0.111** -0.110** -0.109** 
+(0.013) (0.013) (0.013) (0.012) (0.012) (0.012) (0.047) (0.048) (0.049) New CM * Years of experience 0.029*** 0.030*** 0.029*** 0.048*** 0.048*** 0.048*** 0.116*** 0.116*** 0.116*** 
+(0.010) (0.010) (0.010) (0.016) (0.016) (0.016) (0.037) (0.037) (0.037) New CM * home state 0.035*** 0.036*** 0.034*** 0.035* 0.036* 0.034* 0.134*** 0.137*** 0.126*** 
+(0.010) (0.011) (0.010) (0.017) (0.018) (0.018) (0.037) (0.039) (0.039) 
+Year fixed effects YES YES YES YES YES YES YES YES YES Officer fixed effects YES YES YES YES YES YES 
+Officer characteristics YES YES YES  Quadratic for years of experience   YES YES YES YES YES YES YES YES YES Control for state & general elections YES YES YES YES YES YES YES YES YES Observations 54606 54606 54606 33256 33256 33256 54606 54606 54606 R-squared 0.05 0.05 0.05 0.09 0.09 0.09 
+Robust standard errors in parentheses, corrected for state-level clustering * significant at 10%; ** significant at 5%; *** significant at 1% Base sample: Direct recruits who joined the service on or before 2000 
+
+========50========
+
+Table 4: Do Able Bureaucrats have Less Variation in Job Quality? 
+Dependent variable: Transfer to a post of different importance 
+Base sample, OLS Excluding cohorts prior to 1979 Base sample, Logit 
+(1) (2) (3) (4) (5) (6) (7) (8) (9) 
+New CM dummy 0.004 0.006 0.006 -0.008 -0.005 -0.006 0.047 0.058 0.062 
+(0.011) (0.011) (0.011) (0.011) (0.011) (0.011) (0.063) (0.063) (0.066) New CM * top 10 rank in cohort -0.011 -0.010 -0.070 
+(0.011) (0.012) (0.059) 
+New CM * top 20 rank in cohort -0.019** -0.018* -0.119** 
+(0.008) (0.009) (0.054) New CM * top 30 rank in cohort -0.013* -0.010 -0.087** 
+(0.007) (0.007) (0.038) New CM * female dummy -0.021* -0.021* -0.021* -0.017 -0.017 -0.017 -0.148** -0.148** -0.146** 
+(0.011) (0.011) (0.011) (0.012) (0.012) (0.012) (0.058) (0.059) (0.060) New CM * Years of experience 0.012** 0.013** 0.013** 0.023** 0.023** 0.023** 0.070** 0.071** 0.071** 
+(0.005) (0.005) (0.005) (0.010) (0.010) (0.010) (0.031) (0.031) (0.031) New CM * home state 0.008 0.010 0.009 0.019 0.021 0.019 0.044 0.060 0.053 
+(0.009) (0.009) (0.009) (0.012) (0.012) (0.012) (0.048) (0.050) (0.047) 
+Year fixed effects YES YES YES YES YES YES YES YES YES Officer fixed effects YES YES YES YES YES YES 
+Officer characteristics YES YES YES  Quadratic for years of experience   YES YES YES YES YES YES YES YES YES Control for state & general elections YES YES YES YES YES YES YES YES YES Observations 54058 54058 54058 33254 33254 33254 54058 54058 54058 R-squared 0.06 0.06 0.06 0.08 0.08 0.08 
+Robust standard errors in parentheses, corrected for state-level clustering. * significant at 10%; ** significant at 5%; *** significant at 1% Base sample: Direct recruits who joined the service on or before 2000 
+
+========51========
+
+Table 5: Initial Abililty and Investments in Expertise 
+Dependent variable 
+Total weeks of training Weeks of foreign training (1) (2) (3) (4) (5) (6) 
+Rank in top 10 of the cohort 1.565 3.207** 
+(1.494) (1.198) 
+Rank in top 20 of cohort 1.611 1.964* 
+(1.198) (1.042) Rank in top 30 of cohort 1.447 1.920*** 
+(0.933) (0.622) Female 1.239 1.242 1.216 1.643 1.650 1.614 
+(1.464) (1.466) (1.458) (1.163) (1.181) (1.174) Home state dummy -1.862* -1.972* -1.946* -0.556 -0.479 -0.485 
+(1.043) (1.077) (1.075) (1.042) (1.032) (1.006) 
+Year of recruitment fixed effects YES YES YES YES YES YES No. of observations 2780 2780 2780 2777 2777 2777 R-squared 0.37 0.37 0.37 0.24 0.24 0.24 
+Robust standard errors in parentheses. * significant at 10%; ** significant at 5%; *** significant at 1% Base sample: Direct recruits who joined the service on or before 2000 
+
+========52========
+
+Table 6: Bureaucrats' Career Progression: The Role of Skill and (Caste) Loyalty 
+Dependent variable 
+Mean Importance of officer's  Empanelment dummy Officer holds an important post posts over career 
+Uttar Pradesh and Uttaranchal  
+Base sample officers Base sample 
+(1) (2) (3) (4) (5) (6) (7) (8) (9) 
+Rank in top 10 of the cohort 0.089** 0.006 
+(0.042) (0.012) 
+Rank in top 20 of cohort 0.143*** 0.007 
+(0.021) (0.010) 
+Rank in top 30 of cohort 0.138*** 0.006 
+(0.028) (0.009) Female 0.033 0.034 0.029 -0.055*** -0.055*** -0.055*** 
+(0.058) (0.060) (0.059) (0.012) (0.012) (0.012) Home state dummy -0.003 -0.022 -0.024 -0.031*** -0.031*** -0.031*** 
+(0.035) (0.035) (0.036) (0.009) (0.009) (0.009) Officer belongs to the caste base of  0.066*** 0.066*** 0.067*** 
+CM's party (0.021) (0.022) (0.021) 
+New CM 0.094 0.093 0.092 
+(0.087) (0.087) (0.087) 
+New CM * top 10 rank in cohort 0.003 
+(0.044) 
+New CM * top 20 rank in cohort -0.006 
+(0.038) 
+New CM * top 30 rank in cohort 0.016 
+(0.036) 
+Year of recruitment fixed effects YES YES YES YES YES YES Year and officer fixed effects YES YES YES 
+No. of observations 1044 1044 1044 3499 3499 3499 2791 2791 2791 R-squared 0.07 0.08 0.08 0.22 0.22 0.22 0.15 0.15 0.15 
+Robust standard errors in parentheses. * significant at 10%; ** significant at 5%; *** significant at 1% 
+Regressions (4)-(6) are for 1990s only, and include controls for the years of experience (quadratic) and interactions of New CM  with years of experience, gender dummy and home state dummy. 
+Base sample: Direct recruits who joined the service on or before 2000 
+
+========53========
+
+Table 7: Do Local Politicians Influence Bureaucrat Transfers? 
+Dependent variable =1 if the district gets a new District Officer in that year 
+Presence of local  Local politicians +  Political  
+politicians party change turnover (1) (2) (3) (4) 
+New CM dummy 0.084** 0.137*** 0.079* 
+(0.039) (0.034) (0.045) New CM * %local politicians  from CM's party -0.100** 
+(0.044) 
+New CM, new party 0.232*** 
+(0.042) 
+New CM, no new party 0.048 
+(0.043) 
+New CM, new party * % local politicians from CM's party -0.157** 
+(0.067) 
+New CM, no new party * % local politicians from CM's party 0.008 
+(0.097) 
+% local politicians from CM's party 0.033 0.035 
+(0.036) (0.035) 
+New CM * political turnover 0.040 
+(0.108) Political turnover -0.048 
+(0.103) 
+Year fixed effects YES YES YES YES District fixed effects YES YES YES YES Control for state and general elections YES YES YES YES Observations 6679 6679 6679 6679 # districts 356 356 356 356 R-squared 0.07 0.07 0.07 0.07 Robust standard errors in parentheses, corrected for state-level clustering. 
+* significant at 10%; ** significant at 5%; *** significant at 1% 
+"Political turnover" is measured as the proportion of incumbents in the district who lost in the most recent election. 
+
+========54========
+
+Table 8: Bureaucrat Transfers and District Outcomes 
+Proportion of  
+children 
+completely  immunized 2001 
+Completion of road  
+projects 2007 Sanctioned in  Sanctioned  
+2000 in 2003 
+Change in  Change in  poverty 1987-99 poverty 1993-99 
+(1) (2) (3) (4) (5) 
+Mean political transfers in last 5 years -0.013 0.131 0.181 0.085 
+(0.067) (0.188) (0.204) (0.049) Mean other transfers in last 5 years -0.037 0.055 -0.011 0.045 
+(0.072) (0.136) (0.163) (0.027) Mean political transfers in last 10 years 0.087* 
+(0.049) 
+Mean other transfers in last 10 years 0.032 
+(0.040) 
+Initial poverty level  -0.787*** -0.764*** 
+(0.055) (0.042) 
+State FE yes yes yes yes yes Mean of dep var 0.58 0.71 0.34 -0.13 -0.07 Observations 363 330 328 350 350 R-squared 0.70 0.54 0.28 0.69 0.65 
+Robust standard errors in parentheses, clustered at state-level * significant at 10%; ** significant at 5%; *** significant at 1% 
+"Completion of road projects 2007" is a dummy which equals one if the road projects sanctioned in a  
+given year was completed by June 2007. 
+"Change in poverty" is the change in the head count ratio. 
+
+========55========
+
+FigureFigureFigureFigure    1:1:1:1:    MeanMeanMeanMean    transfertransfertransfertransfer    ratesratesratesrates    inininin    majormajormajormajor    statesstatesstatesstates    1980198019801980‐‐‐‐ 
+2004200420042004 
+0.60.60.60.6 
+0.550.550.550.55 
+0.50.50.5 
+0.450.450.45 
+0.40.40.4 
+0.350.35 
+0.30.3 
+
+========56========
+
+FigureFigure  2:2:  ChiefChief  MinisterMinister  changeschanges  inin  TamilTamil  NaduNadu 
+.7.7 
+.6.6 
+.5.5 
+Mean transfers 
+Mean transfers 
+.4.4 
+.3.3 
+19801980 
+19851985 
+19901990 
+yearyear 
+19951995 
+20002000 
+20052005 
+FigureFigure  3: Monthly3: Monthly  BureaucratBureaucrat  TransfersTransfers 
+0.060.06 
+bility 
+0.04 
+0.02 
+Transfer Probability 
+  
+0 
+‐5 
+‐4 
+‐3 
+‐2 
+‐1012345 
+Bureaucrat 
+‐0.02 
+Months after new Chief Minister takes office 
+
+========57========
+

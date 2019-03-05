@@ -1,0 +1,869 @@
+December 2010 
+No.37 
+Behavioural Decisions & Policy 
+Patricio Dalton and Sayantan Ghosal CentRE, Tillburg University and University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Behavioral Decisions and Policy 
+Patricio S. Dalton CentER, Tilburg University 
+Sayantan Ghosal CAGE, University of Warwick 
+1st November, 2010 
+Abstract 
+We study the public policy implications of a model in which agents do not fully internalize all the conscequences of their actions. Such a model uni–es seemingly disconected models with behavioral agents. We evaluate the scope of paternalistic and libertarian-parternalistic policies in the light of our model, and propose an alternative type of approach, called soft-libertarian, which guides the decision makers in the internalization of all the conscequences of their ac- tions. Psychotherapy is one example of a soft-libertarian policy. Moreover, we show that in our behavioral framework, policies that increase the set of oppor- tunities or provide more information to the agent may not longer be individual welfare improving. 
+JEL Classi–cation numbers: D03, D60, I30. 
+Keywords: Behavioral Decisions, Revealed Preferences, Normative Prefer- ences, Paternalism, Soft-Libertarian, Autonomy, Psychotherapy. 
+This paper was prepared for the special issue of CESIfo Economic Studies on "Behavioral Welfare Economics" and builds on results presented in Dalton and Ghosal (2010a). We are grateful to the comments received from participants at the CESifo Venice Summer Institute Workshop on Behav- ioural Welfare Economics. Address for correspondance: p.s.dalton@uvt.nl; s.ghosal@warwick.ac.uk 
+1 
+
+========2========
+
+1 Introduction 
+"Most powerful is he who has himself in his own power" (Seneca, 5 
+BC - 65 AD) 
+There is already accumulated evidence showing that the standard model of hu- 
+man decision-making provides an inadequate positive description of human behavior. 
+People make systematic mistakes in identi–able circumstances. People save less than 
+what they would like; fail to take advantage of low interest loans available through 
+life insurance policies; unsuccessfully attempt to quit smoking; maintain substantial 
+balances on high-interest credit cards; etc. 
+To account for this evidence, behavioral economists have proposed alternative 
+models that incorporate insights from psychology. Typically, these models predict 
+outcomes that are suboptimal from the decision maker™s (DM) point of view. Such 
+concerns inevitably challenge the way in which welfare economics and policy analysis 
+have been conducted since Samuelson™s (1938) doctrine of revealed preferences. Ac- 
+cording to the revealed preferences approach, planners infer what people want from 
+what they choose. When evaluating policies, planners use the ranking inferred from 
+choices as a welfare standard to evaluate the e¤ect of policies on welfare. However, 
+in a world in which individual™s choices do not reveal what is best for the person, 
+how should welfare and policy analysis be performed? Can choices alone inform us 
+whether the person is behaving sub-optimally or optimally? Under what conditions 
+can choices remain as foundations for compelling welfare standards? What are the 
+policy implications in a world in which people make systematic mistakes? 
+In a recent paper, Dalton and Ghosal (2010a) (Henceforth DG (2010a)) proposed 
+a framework to answer the –rst three questions above. Their approach highlights a 
+typical mistake that leads decision-makers (DMs) to systematically end up in sub- 
+optimal outcomes. In their model, DMs do not fully anticipate the consequences 
+of their actions. While in some cases DMs may correctly forecast the near-term 
+consequences of their actions (e.g. getting a nicotine rush from smoking a cigarette), 
+they may fail to predict their more delayed consequences (e.g. developing nicotine 
+2 
+
+========3========
+
+dependency or lung cancer from smoking). Assuming partial prediction of changes in 
+psychological states or reference points is su¢ cient to unify seemingly disconnected 
+models in behavioral economics. 
+DG (2010a) show that all the behavioral economics models reduced in their frame- 
+work are testable by a simple condition on observable choice data. This condition 
+(introduced by Cherno¤, 1954 and Sen, 1971) requires that if an alternative is chosen 
+in a set, it must be chosen in all subsets of it to which the alternative belongs. If 
+observed behavior is consistent with this condition, we know that the DM is not fully 
+internalizing all the consequences of her actions1. Moreover, they show that typically, 
+when this condition is satis–ed, the outcome is sub-optimal. 
+This paper builds on these results and addresses the implications of behavioral 
+decisions for policy analysis. We ask how public policy should be conducted in the 
+presence of behavioral DMs. In standard welfare analysis, the planner assumes that 
+the DM makes the right choices according to her own normative preferences, so the 
+only information needed to evaluate public policies is derived from observed choices. 
+We now know that in a world with behavioral DMs, choices alone can identify whether 
+the DM is internalizing all the consequences of her actions. What we cannot know by 
+observing choices alone, however, is the normative preferences of the behavioral DM. 
+More information is needed to provide the planner with a road map on how to perform 
+policy analysis. The aim of this paper, thus, is to asses the existing policy approaches 
+in a world in which the planner has incomplete information about the normative 
+preferences of the DM. We show that the desirability of paternalistic interventions 
+are limited by the information a planner has. We argue in favour of an alternative 
+policy approach, labelled "soft-libertarian", which does not require knowledge of the 
+1Note that, contrary to the recent literature of behavioural welfare economics (Bernheim and Rangel (2009) and Salant and Rubinstein (2008)), Dalton and Ghosal™s (2010a) focus is on iden- tifying the way people make decisions, instead of dealing with the inconsistencies on choice corre- spondence (e.g preferences reversal). The main point is that even when the ranking derived from choices is acyclic (which is su¢ cient for welfare analysis in Bernheim and Rangel (2009), it may still not represent what is best for the individual, and therefore, that acyclic ranking may not be an appropriate measure for welfare analysis. 
+3 
+
+========4========
+
+normative preferences of the DM. We conclude proposing a concrete road map for 
+the planner which incorporates the four policy approaches (libertarian, paternalistic, 
+soft-paternalistic and soft-libertarian). 
+Brie⁄y, the road map we propose is as follows. If observed choices are consistent 
+with Arrow™s (1959) axiom of choice, behavior is consistent with a DM who is fully in- 
+ternalizing her feedback e¤ect. In such cases, standard revealed preferences approach 
+should be applied for welfare analysis and a planner should choose whatever a person 
+would choose for herself. If, however, observed choices violate Arrow™s (1959) axiom 
+and are consistent with Cherno¤™s (1954) axiom then the planner knows that the DM 
+is typically making a suboptimal decision: there is scope for intervention. 
+How should the planner intervene in those cases? We –rst consider the two most 
+prominent existing policy approaches: hard-paternalism and libertarian-paternalism 
+(Thaler and Sustein, 2003) and evaluate them in light of our framework. A pa- 
+ternalistic planner will either choose the optimal action for the DM or induce the 
+DM to choose that optimal action via taxes. A libertarian-paternalistic planner will 
+choose the reference point (or the distribution of reference points) such that the DM 
+is induced to choose the optimal action. 
+In order to be implemented, both approaches require the planner to have informa- 
+tion about the DM™s normative preferences and the intensity of her mistake. The cost 
+of acquiring this information varies across di¤erent situations. There are situations, 
+for example, in which the DM will choose suboptimally with high probability (e.g. 
+children, adolescents or adults incapable of engaging in contracts). In these extreme 
+cases the cost is almost zero and paternalistic interventions make perfect sense. Also, 
+there are situations where DMs (even highly educated adults) choose systematically 
+suboptimal outcomes and where their normative preferences are clear for the plan- 
+ner. An example of this situation that has received considerable research attention 
+is default options for 401(k) retirement plans. If it is objectively bene–cial to invest 
+in a 401k plan (i.e. normative preferences are clear), but people tend to stick with 
+the status quo (i.e. the mistake is also clear), then it may make sense to change the 
+usual default from not contributing (with the possibility of signing up) to contribut- 
+4 
+
+========5========
+
+ing (with the possibility of opting out). In this cases, the libertarian paternalistic 
+approach proposed by Thaler and Sustein is the most cost-e¤ective intervention. 
+However, in most of the cases, the probability that the planner knows the individ- 
+ual normative preferences is very low, so the applicability of hard or soft paternalistic 
+policies is, at least, contentious. For instance take the case of smoking. Clearly, there 
+are smokers who don™t want to quit smoking and whose behavior is perfectly aligned 
+with their normative preferences. There are also smokers who wish to quit smoking, 
+who attempt to do so, but who fail. In such cases, paternalistic policies will inevitably 
+violate the autonomy of some DMs (those who do not wish to quit smoking). 
+We propose an alternative policy approach labelled ﬁsoft-libertarianﬂwhich does 
+not require the planner to know or impose the normative preferences of the individual. 
+We argue in favour of interventions that directly target the abilities needed to inter- 
+nalize the feedback from actions to psychological states. In most cases, such abilities 
+are not simply learned with a lea⁄et informing about the consequences of actions. 
+The mechanism behind may be very subtle, and it may require the arrangement of 
+institutional structures such as behavioral therapies that enhance emotional intelli- 
+gence for anger control, to reduce anxiety or to control temptations. The role of the 
+planner should be to create the institutional structure to assist the DM™s in achieving 
+her own normative preferences. For that, the DM should be aware of the (sometimes 
+unconscious) mechanisms guiding her behavior and determining her wellbeing. 
+The remainder of this paper is organized as follows. Section 2 brie⁄y presents a 
+special case of the model of DG (2010a), paper to which we refer the reader for addi- 
+tional details. Section 3 evaluates the scope of existing public policies and proposes the 
+soft-libertarian approach. Section 4 provides philosophical and psychological grounds 
+for the normative approach proposed. Section 5 concludes. 
+5 
+
+========6========
+
+2 The model 
+Let p be a psychological state (with P the corresponding set) and a the action chosen 
+by the DM (with A the corresponding set2). The preferences of the DM are repre- 
+sented by a utility function u : A  P ! <. In addition, there is a feedback e¤ect 
+from a to p represented by the function ˇ : A ! P. A consistent decision state is a 
+pair (a; p) such that p = ˇ(a). 
+In a standard decision problem (SDP), the DM fully internalizes the feedback 
+e¤ect via the map ˇ : A ! P and solves: 
+Maxfa2Agv (a) 
+where v (a) = u(a; ˇ (a)). 
+The FOC characterizing an interior solution a to a SDP is 
+@av(a) = @au(a; ˇ(a)) + @ 
+pu(a 
+; ˇ(a))@aˇ(a) = 0 
+In a Behavioral decision problem (BDP) the DM doesn™t internalize the feedback 
+from actions to the psychological state. At a solution to a BDP, we require that (a) 
+given the utility parameter, the action is optimal for the decision maker and (b) the 
+utility parameter is generated, via the feedback e¤ect, by the chosen action. Formally, 
+for given p, let  (p) = arg maxa2A u(a; p). A solution to a BDP is a pair (^a;p^) such 
+that (i) Given p^, a^ 2  (^p) and (ii) p^= ˇ (^a). 
+The FOC characterizing an interior solution (^a;p^) to a BDP is 
+@au(^a; ˇ(^a)) = 0 and p^= ˇ(^a) = 0 
+In a BDP, DMs choose a pair (a; p = ˇ(a)) such that u(a; p = ˇ(a))  u(a0; p = 
+ˇ(a)): Note that a0 is now paired with p = ˇ(a) and not with p0 = ˇ(a0). This 
+‚mispairing™is the decision-making mistake. Behavioral DMs compare actions using 
+the psychological state associated with their chosen action, p = ˇ(a) instead of varying 
+the psychological state as they consider alternative actions. 
+2In what follows we will assume that both 
+P and A are compact convex subset of a –nite dimen- sional Euclidian space. 
+6 
+
+========7========
+
+Following Harsanyi (1954), in order to make welfare assessments in this setting, 
+we will assume intrapersonal comparability of preferences. Formally, in our setting, 
+the pair (a; p) dominates the decision state (a0; p0) when u(a; p) > u(a0; p0). A consis- 
+tent decision state (a; p) is e¢ cient if there is no other consistent decision state that 
+dominates it. 
+Clearly, except in exceptional cases, the outcomes of a BDP will be welfare dom- 
+inated by the SDP outcome. In that sense, in a BDP the decision maker imposes an 
+(internal) constraint on his decision problem as he does not internalize the feedback 
+e¤ect from one component of his object of choice into the other. Because of this ad- 
+ditional constraint, behavioral equilibria are likely to be sub-optimal, which explains 
+self-defeating behavior. 
+How strong is the assumption of an internal constraint? Psychological states can 
+have di¤erent interpretations. They must a¤ect DM™s preference ranking over actions 
+and, in turn, they must be a¤ected by the DM™s actions (at least partially). Examples 
+of endogenous psychological states are aspirations, beliefs, moods, states of mind, 
+temptations, motivations, self-con–dence, reference points, the same environment, 
+life styles, etc. 
+Our framework is closely related to the literature on a¤ective forecasting and pro- 
+jection bias (Loewenstein et al, 2003), where people make systematic inaccurate pre- 
+dictions about how they will feel in situations, even if the situation people experience 
+objectively matches the situation they imagined. It is shown that people misjudge 
+self capacities to carry out certain actions (Baumeister and Scher, 1988), mispredict 
+a¤ective reactions overestimating regret and rejoicing (Sevdalis and Harvey, 2007) 
+and fail to bear in mind that they will adapt (Fagerlin et al, 2005).3 
+In sum, we model people who fail to fully internalize how their own psychological 
+states will change with their own actions. This assumption alone is su¢ cient to unify 
+3Our model is consistent with the approach from social psychology called "reciprocal determin- ism" (Bandura 2001). This approach sustain that the way people interpret the results of their own behaviour informs and alters their environments and personal factors which, in turn, inform and alter subsequent behaviour through an "environmental feedback e¤ect." 
+7 
+
+========8========
+
+seemingly disconnected models in behavioral economics. These models include sit- 
+uations where the preference parameter corresponds to the decision maker™s current 
+state (Tversky and Kahneman, 1991), beliefs (Geanakoplos et al, 1989; Akerlof and 
+Dickens, 1982), emotional states (Loewenstein, et al, 2003; Bracha and Brown, 2007), 
+reference points (Shalev, 2000, Koszegi, 2005; Koszegi and Rabin, 2006, 2007), aspi- 
+rations (Ray, 2006; Dalton et al, 2010) or past consumption (Von Weizsacker, 1971; 
+Hammond, 1976; Pollak, 1978). 
+From DG (2010a) we know that each of these behavioral economics models are 
+testable by a single condition on observable choice data. This condition (introduced by 
+Cherno¤, 1954 and Sen, 1971) requires that if an alternative is chosen in a set, it must 
+be chosen in all subsets of it to which the alternative belongs. If observed behavior 
+is consistent with this condition, we know that the DM is not fully internalizing all 
+the consequences of her actions. Moreover, from DG (2010a) we also know that when 
+this condition is satis–ed, the outcome is typically sub-optimal. 
+In the following section we build on these results and study the implications of 
+behavioral decisions for policy analysis. 
+3 Behavioral Public Policy 
+What are the policy implications of behavioral decision making, i.e. assuming that 
+people don™t necessarily follow their own best interests? 
+The goal of any public policy ought to be to maximize people™s well-being. The 
+route a social planner chooses to take in order to achieve that goal will depend on 
+the social planner™s beliefs, her information on underlying normative preferences and 
+on the way the individual chooses i.e. whether the DM is solving a BDP or a SDP. 
+From DG (2010a) we know that we can infer only from choices whether the DM 
+is solving a BDP or a SDP. If observed choices are consistent with Arrow™s axiom 
+of choice, behavior is consistent with a DM who is solving a SDP. In such cases, 
+standard revealed preferences approach should be applied for welfare analysis and 
+a planner should choose whatever a person would choose for herself. If, however, 
+8 
+
+========9========
+
+observed choices violate Arrow™s (1959) axiom and are consistent with Cherno¤™s 
+(1954) axiom then the planner knows that the DM is solving a BDP and, typically, 
+making a suboptimal decision. In such cases, there is scope for intervention. Which 
+type of intervention is more desirable will depend on the information a social planner 
+has about a DM™s preferences. Below we introduce some additional notation to clarify 
+this argument. 
+Fix (A; P; ˇ). As before, let v(a) = u(a; ˇ(a)). We assume that the social plan- 
+ner™s goal is to maximize v(a) choosing an action a 2 A. We consider a world in 
+which information is incomplete in two ways. First, the social planner may have in- 
+complete information about the intensity of the mistake of the DM. We assume that 
+the planner attaches a probability  (respectively 1 
+ ) to the DM solving a SDP (re- 
+spectively BDP). Second, the social planner may have incomplete information about 
+the normative preferences of the DM (i.e. preferences and feedback e¤ect). We as- 
+sume he attaches a probability 0 to correct preferences and feedback e¤ect but with 
+probability (1 
+ 0) he uses a completely wrong set of preferences or feedback e¤ect 
+resulting in attaching a weight (1 
+ 0) to some function v0 : A ! R, v0() = 6 v() 
+where v0(a) = u0(a; ˇ0(a)). 
+In this scenario, we distinguish between four di¤erent kinds of interventions: 
+(A) direct paternalism: to impose a choice a on the DM; 
+(B) indirect paternalism: to impose a tax or a subsidy on the DM; 
+(C) liberarian-paternalism: to choose the initial p0 (e.g. reference point) for the DM; 
+(D) soft-libertarian: to use psychological therapies that allow the DM to internal- 
+ize the feedback e¤ect. 
+In what follows, we review these four approaches in a world with behavioral DMs. 
+We –nish the section showing that policies such as increasing opportunities or provid- 
+ing information that in a standard economic framework are known to be individual 
+welfare improving, may not longer be in a world with behavioral DMs. 
+9 
+
+========10========
+
+3.1 Direct paternalism 
+Dworkin (2002) de–nes paternalism as "the interference of a state or an individual 
+with another person, against their will, and justi–ed by a claim that the person inter- 
+fered with will be better o¤ or protected from harm." 
+This de–nition assumes that (a) the planner has complete information about the 
+DM™s normative preferences (i.e. 0 = 1) and (b) the planner knows that the DM 
+is solving a BDP, so typically, she wouldn™t choose optimally in the absence of the 
+intervention (i.e. 0 <  < 1). In which case, the planner believes that the individual 
+solves: 
+Maxfa2Agv(a) + (1 
+ )u(a; p) 
+where with some probability  she takes the feedback e¤ect from actions to preference 
+parameters into account, and with some probability (1 
+is: 
+" 
+ 
+@au(~a; ˇ(~a)) +@pu(~a; ˇ(~a))@aˇ(~a) 
+p~= ˇ(~a) (4) 
+ ) she does not. The FOC 
+# 
++ (1 
+ ) [@au(~a;p~)] = 0 
+where (~a();p~()) denote the solution of the problem. Note that (~a(1);p~(1)) = 
+(a; p), the outcome of the SDP while (~a(0);p~(0)) = (^a;p^), an outcome of the BDP. 
+Suppose now a more realistic scenario, in which we allow the planner to have in- 
+complete information about the DM. The planner attaches a probability 0 to correct 
+preferences and feedback e¤ect but with probability (1 
+ 0) he uses a completely 
+wrong set of preferences or feedback e¤ect resulting in attaching a weight (1 
+ 0) to 
+some function v0 : A ! R, v0() = v() where v0(a) = u0(a; ˇ0(a)). Then, the the social 
+6 
+planner maximizes: 
+Maxfa2Ag0v(a) + (1 
+The FOC is:" 
+0 
+@au(a0; ˇ(a0)) 
++@pu(a0; ˇ(a0))@aˇ(a0) 
+# 
++ (1 
+ 0) 
+ 0)v0(a) 
+" 
+# 
+@au0(a0; ˇ0(a0)) +@pu0(a0; ˇ0(a0))@aˇ0(a0) 
+= 0 (5) 
+10 
+
+========11========
+
+Let [a0(); p0 ()] denote the solution. Note that [a0(1); a0 (1)] = [a; p]:4 
+It follows that the extent of direct paternalism is limited by the trade-o¤ between 
+ and 0. If the DM is solving a SDP with very high probability (high ) and the so- 
+cial planner has relatively imprecise information about the individual (low 0), then 
+intervention may cause more harm than good. On the other hand, if it is highly 
+likely that the DM is solving a BDP ( is low) and the social planner has precise 
+information about the individual (high 0) then intervention could lead to welfare 
+improvements. This trade-o¤ explains, for example, why the sale of cigarettes and 
+alcohol is legal for adult decision-makers (who are supposed to be of high ) but 
+prohibited to minors. Children do not know what is on their best interest and their 
+actions often fail to re⁄ect valid preferences, probably because they give insu¢ cient 
+weight to consequences. Therefore, few economists will reject the view that a libertar- 
+ian approach is appropriate when the DM is a "responsible" adult and a paternalistic 
+approach is suitable when the DM is a child. However, the spectrum of DMs in real 
+world is not only determined by these two types of DMs. We know from empirical 
+work in psychology and behavioral economics that (highly educated) adults make 
+suboptimal choices. As highlighted by Bernheim and Rangel (2007) "it™s di¢ cult to 
+justify, objectively, the sense in which the revealed preferences of an irresponsible 
+nineteen-year-old are legitimate, whereas those of a fourteen-year-old are not. While 
+turning eighteen has profound legal signi–cance, it doesn™t discontinuously change the 
+mechanics of decision-making." Usually, the planner has vague information about  
+and 0; which weakens the case for libertarian and paternalistic policies. We will ar- 
+gue later on for an alternative approach, soft-libertarian, as solution to this problem. 
+But before we embark on this route, we will discuss the cases for indirect paternalism 
+and libertarian-paternalism. 
+4In the extreme case in which the planner had complete information about normative preferences and also believed that the DM solves a SDP ( = 1 and 0 = 1) we would be back to the standard welfare economics approach, in which the planner would simply choose a 2 arg maxa2A v(a), i.e. what the person would choose for herself. So our framework incorporates standard welfare analysis as a special case. 
+11 
+
+========12========
+
+3.2 Indirect paternalism 
+In the transferable utility case, instead of imposing an action directly on the indi- 
+vidual, the social planner could impose a per unit tax (or a subsidy) which would 
+induce the individual to make the right choice. If –rst-order conditions are valid in 
+characterizing an optimum for both a SDP or a BDP, then the tax t 2 < would work 
+as follows. The outcome (^a;p^) of a BDP with a tax t 2 < satis–es the –rst-order 
+condition: 
+@au(^a;p^) + t = 0; 
+p^= ˇ(^a): 
+(6) 
+By setting t =  @pu(a; ˇ(a))@aˇ(a), that is, at a level in which the marginal bene–t of choosing a suboptimal action equals the marginal internal damage that 
+DM imposes on herself, the planner would ensure that at a BDP, the DM chooses the 
+same action as in a SDP. Clearly, such a tax is equivalent to a Pigouvian tax per-unit, 
+but instead of internalizing externalities producing on others, the tax ensures that 
+the DM internalizes the externalities produced on herself. 
+Note, however, that the above solution relies on the social planner not only having 
+information about the underlying preferences and feedback e¤ect but also on whether 
+the individual is solving a BDP or a SDP. 
+Suppose that the social planner has incomplete information about the DM™s way 
+of solving the problem and attaches a probability  to the DM solving a SDP. It 
+follows from (5) that by imposing a tax t() =  (1  ) [  @pu(a; ˇ(a))@aˇ(a)], the social planner ensures that [~a();p~()] = [a; p]. Note that the absolute value 
+of t is decreasing in  and will be a function of the degree of uncertainty the social 
+planner has about whether the DM is solving a SDP or a BDP. However, for any –xed 
+value of t(), the decision-maker never achieves a SDP outcome. If the DM is solving 
+a SDP, there will be distortion; further, by substitution in (6), the actual outcome of 
+a BDP will not coincide with that of a SDP. 
+Suppose now the social planner attaches a probability 0 to the correct pref- 
+erences and feedback e¤ect and with probability (1 
+ 
+0) the social planner uses 
+a completely wrong set of preferences or feedback e¤ect resulting in attaching a 
+12 
+
+========13========
+
+weight (1 
+ 
+0) to some function v~ : A ! R, v~() 6 = v(): Then, the target for 
+the social planner is [a0(0); p0 (0)]. If the social planner believes that the individ- 
+ual is solving a BDP with probability 1, the social planner will set a tax t0() = 
+ (1 
+ ) [  @pu(a0(0); ˇ(a0(0))@aˇ(a0(0))] which will distort matters further a con- 
+clusion reinforced if, in addition, the social planner believes with probability 1 
+  
+the individual is solving a BDP. 
+As in the case of direct paternalism, the extent, and usefulness, of indirect pater- 
+nalism is limited by the information available to the social planner. 
+3.3 Libertarian-paternalism 
+So far we have considered only the case of "hard" paternalism, in which the social 
+planner chooses an action instead of the individual or sets a tax to induce the in- 
+dividual to choose a particular action. Intermediate forms of soft-paternalism have 
+recently emerged as a compromise between fully libertarian and hard-paternalistic 
+views5. The ultimate goal of soft-paternalistic policies is to guide individual™s behav- 
+ior in directions that will promote individual™s welfare while minimizing coercion. 
+Thaler and Sustein (2003) recommend a type of soft-paternalism labelled liber- 
+tarian paternalism. They argue that, in the cases in which the choice is reference- 
+dependent (e.g. status quo bias or default option bias), the social planner should 
+choose the reference point or default option in order to steer people™s choices in desir- 
+able directions. In this way, the social planner would achieve her goal of maximizing 
+people™s welfare without forcing anybody to do anything they wouldn™t do. 
+To what extent are their conclusions a¤ected when reference points are endoge- 
+nous? Note that if there is a unique outcome of a BDP, then the initial policy- 
+determined reference point will not have an impact on the steady state preferences 
+to which the DM with adaptive preferences converges to. On the other hand, if the 
+BDP has multiple behavioral outcomes, then the initial policy-determined reference 
+5See Loewenstein and Haisley (2008) for a review of methodological issues that arise in designing, implementing and evaluating the e¢ cacy of "soft" paternalism. See also Koorman and Prast (2010) for discussion of libertarian paternalistic policies related to health and saving behaviour. 
+13 
+
+========14========
+
+point might have an impact by selecting which steady-state preferences the decision- 
+maker converges to. Consider the following example. Suppose p is the label attached 
+to objects of choice (such as "default option"). Let A = fa; a0g and P = fp = "a is 
+the default option", p0 = "a0is the default option"g. Consistency requires that if the 
+chosen action is a the default option is p while if the chosen action is a0 the default 
+option is p0. In a BDP, the individual will take the label as given (without taking 
+into account that it is a characteristic pertaining to the object) and may choose a 
+over a0 at p and a0 over a at p0. In a SDP, the individual will consider the label as a 
+characteristic of the available object of choice and will choose the optimal pair which 
+without loss of generality we may set as (a; p). Solving a SDP in this setting requires 
+DM to be aware that frames (such as labels or defaults) can mislead her decision, so 
+she should internalize that when making her optimal choice. We acknowledge that 
+this is a strong assumption to make. In fact, in some cases (like the default options 
+for 401(k) retirement plans), the planner knows the normative preferences of the DMs 
+(it is objectively bene–cial to invest in a 401k plan), and knows that most of the DMs 
+make the same mistake (they tend to stick with the status quo). So in those cases, it 
+makes sense to change the usual default from not contributing (with the possibility 
+of signing up) to contributing (with the possibility of opting out). 
+However, there are many other cases in which the planner has incomplete informa- 
+tion about the normative preferences, the feedback e¤ect and the mistake the person 
+makes. In such situations, we argue that the libertarian-paternalistic approach can 
+be misleading. 
+To justify our claim, consider the following example where an internal state of 
+the individual (such as self-con–dence) adjusts to her actions. The payo¤-relevant 
+variables are: 
+(i) a set of actions A = fa;ag, a < a, where a represents maintaining the existing 
+status quo and a represents changing the existing status quo by undertaking higher 
+e¤ort (e.g. going to College) and 
+(ii) a set of psychological states P where p 2 P represents the internal state of 
+the DM (e.g. self-con–dence level). 
+14 
+
+========15========
+
+The preferences of the DM are represented by a utility function u(a; p) = b(a) 
+ 
+c(a; p); where b(a) is the bene–t the individual obtains from her new social status and 
+c(a; p) is the perceived cost of e¤ort, which is decreasing in p but increasing in a. For 
+simplicity, assume that u(a; p), the DM™s utility from preserving the status quo, is 
+normalized to zero for all values of p and for each p; u(a; p) is the perceived net gain 
+(or loss) to the DM in deviating from the status quo. Then, under the assumptions 
+made so far, u(a; p0) > u(a; p), for p0 > p. For example, if a is interpreted as going to 
+College, and a as staying at home, this inequality implies that the higher the person™s 
+self-con–dence, the more she enjoys College. In addition, assume that u(a; p) is 
+continuous in p. 
+For each p; the DM solves the maximization problem maxa2A u(a; p). This gener- 
+ates an optimal action correspondence  (p) = arg maxa2A u(a; p). Under our assump- 
+tions, there is a unique solution p^ to the equation u(a; p) = 0. The threshold p^ is the 
+level of self-con–dence that makes the DM indi¤erent between going to College and 
+staying in the status-quo. Given p, the optimal action correspondence is determined 
+as follows: 
+(i) whenever p < p^, a =  (p); 
+(ii) whenever p > p^, a =  (p); 
+(iii) whenever p = ^p, fa;ag =  (p). 
+Therefore, a DM with su¢ ciently low p will prefer to remain in status-quo, whereas 
+an individual with su¢ ciently high p will see it as convenient to exert e¤ort to change 
+her status-quo. 
+The feedback e¤ect from actions to p is captured by an increasing function ˇ : 
+fa;ag ! P; that assigns a p to each action. For example, the fact that the DM goes 
+to College generates a higher p. Let p = ˇ (a) and p = ˇ (a), p < p, be the lowest 
+and highest values of the psychological variable consistent with the actions available. 
+That is, going to College is consistent with endorsing high self-con–dence, and staying 
+at home is consistent with endorsing low self-con–dence. 
+In a SDP, the DM internalizes the e¤ect of her actions on her self-con–dence and 
+then chooses a 2 argmaxa2Au(a; ˇ(a)). In other words, the standard DM is able to 
+15 
+
+========16========
+
+predict how it will feel to be a student. She anticipates that by going to College she 
+will gain con–dence, and given that con–dence, she will make her decision. 
+In a BDP, the DM takes as given the e¤ect of her actions on her con–dence and 
+then chooses a 2 argmaxa2Au(a; p) given p 2 P. The initial level of con–dence is crucial to predict the outcome of a behavioral DM as the DM will not foresee that 
+going to College will give her a higher con–dence, maybe needed to make the decision 
+to go to College in the –rst place. 
+Suppose p  p^  p: Then, there is a unique SDP outcome (a;p), but two BDP 
+outcomes f(a; p);(a;p)g6. Call (a; p) a type I equilibrium and (a;p) a type II equi- 
+librium. In a type I equilibrium, there is no change in the status quo while in a type 
+II equilibrium there is a change in the status quo: observe that a type II equilibrium 
+welfare dominates a type I equilibrium. 
+If the social planner knows the preferences and the feedback e¤ect, by –xing p0 > p^, irrespective of whether the individual is solving a SDP or a BDP, the individual will 
+end up choosing a: the social planner can always ensure that the individual will always 
+end up at a type II equilibrium. 
+However, for this to be e¤ective, the planner must know the correct value of p^ 
+which, in turn, requires the planner to know the underlying preferences. If the social 
+planner does not know this, she could end up choosing a value of p0 that is too low and therefore, ine¤ective. 
+Again, as in the cases of direct and indirect paternalism, the extent, and useful- 
+ness, of soft paternalism is limited by the information available to the social planner. 
+In light of this problem, we propose an alternative policy approach labelled ﬁsoft- 
+libertarianﬂ which does not require the planner to know or impose the normative 
+preferences of the individual. We argue in favour of interventions that directly target 
+the abilities needed to internalize the feedback from actions to psychological states. 
+6The two other cases are: 
+(i) if p < p;^ there exists a unique standard and behavioural equilibrium: (a; p) = (a; p); (ii) if p > p;^ there exists a unique standard and behavioural equilibrium: (a; p) = (a;p): 
+16 
+
+========17========
+
+3.4 Soft-libertarian 
+Finally, we consider a soft-libertarian approach which directly addresses the point that 
+in a BDP, the individual doesn™t internalize the feedback e¤ect. A soft-libertarian 
+policy stands in between a fully libertarian and a libertarian-paternalistic approach. 
+Instead of being the social planner the ﬁarchitect of the decision-maker choiceﬂ as 
+proposed by the libertarian-paternalistic approach, we propose the DM herself to 
+become the ﬁarchitect of her own choiceﬂ or, in Elster™s (1983) words, her ﬁown 
+character plannerﬂ. In that sense, the approach is not coercive. Moreover, it does 
+not require the social planner to have information about underlying preferences, the 
+feedback e¤ect or the decision making procedure. If observed choices satisfy Cherno¤ 
+axiom (which characterizes a BDP and violates SDP) then helping the DM to learn 
+how to internalize his own feedback e¤ect will improve her welfare (at least weekly). 
+Note however, that in order to internalize the feedback e¤ect, the DM must ac- 
+knowledge the existence of a feedback map, understand which actions and how they 
+impact on her psychological states, and –nally internalize it. We acknowledge that 
+this may not be an easy task for the DM. It requires capacities and information that 
+may seem unimportant with the lens of standard economic theory but they are crucial 
+in the framework proposed here. 
+An important policy question is how a DM gets to learn to internalize her feedback 
+e¤ects. The answer to this question depends very much on the type of decision 
+problem at hand. Simple feedback e¤ects can be learned with personal experience or 
+the experiences of similar others (e.g. role models)7. For example, as highlighted in 
+Beshears et al. (2008), only after paying late fees video renters learn to return their 
+videos on time (Fishman and Pope, 2007) and credit card account holders learn to pay 
+their bills on time (Agarwal et al., 2007). In a similar vein, sex workers begin using 
+condoms only when the information about the use of condoms is provided by other 
+trained sex workers and no behavioral change is observed when the information is 
+7Dalton et al (2010) propose a behavioural decision model with aspirations failure where it is shown the way role models can impact aspirations and help the DM to scape from a lack of aspirations/poverty trap. 
+17 
+
+========18========
+
+provided by bureaucrats (Rao and Walton, 2004). There is also empirical evidence of 
+sophisticated people who actually implement strategies that show an internalization 
+of a feedback e¤ect. For example, some people with self-control problems choose 
+activities that reduce the likelihood of encountering cues that trigger binges. They 
+purchase costly pre-commitment devices like small packages of junk food even when 
+the unit price is lower for larger packages (Wertenbroch, 1998) or self-impose costly 
+deadlines to overcome procrastination (Ariely and Wertenbroch, 2002). 
+More complex feedback e¤ects (such as those involving emotions), however, may 
+require some sort of expert advice in order to be learned and internalized. One class 
+of expert advice consistent with our framework is psychological therapies (such us 
+Cognitive Behavioral Therapy)8. Most if not all psychological therapies are about 
+identifying the appropriate coping strategies (i.e. the feedback e¤ects) to modify 
+thoughts, beliefs, behavior and environments to improve people™s psychological states 
+(Hawton et al, 1989). Clinical psychologists know why people make mistakes in the 
+–rst place (they know possible feedback e¤ects), and, more importantly, they apply 
+this understanding in their daily practice. A key normative principle of psycholog- 
+ical therapies is not to force the DM to undertake any action that the DM doesn™t 
+want. The main aim is to help the DM to achieve what the own DM considers the 
+good life. In that sense, individual autonomy is not only fully respected but also en- 
+hanced. Psychological therapies have been shown to be e¤ective in helping people to 
+cope with depression, stress, anger, fear, anxiety or low self-con–dence. They either 
+change the DMs response to a situation (emotion-focused problem) or change the 
+environment (problem-focused coping) (Lazarus, 1984; Hawton et. al, 1989). In the 
+case of addiction, behavioral therapies teach cue-avoidance without providing new 
+information (Bernheim and Rangel, 2007). As argued by Baron (2006), emotions are 
+(partly) under people™s control and individuals can "induce or suppress emotions in 
+themselves almost on cue." Some people may even reshape their character, so that 
+their emotional responses change. 
+8Lowenstein and Haslie (2008) mention therapy as a methaphore for the new type of behavioural economics policies. We don™t consider it as a metaphore, but as a policy tool itself. 
+18 
+
+========19========
+
+What types of institutions can provide the capacities needed to internalize the 
+feedback e¤ect? As Mullainathan (2006) argues, good institutions also help to reduce 
+problems that arise within a person. An example of such institution is ﬁThe Improv- 
+ing Access to Psychological Therapiesﬂ programme (IAPT) initiated in 2006 in the 
+UK. IAPT aims at o¤ering evidence based psychological therapies and psychological 
+support to a wide range of the population. Layard et al. (2008) argue that IAPT 
+does not only improve individual wellbeing but also social wellbeing by reducing other 
+public costs associated with psychological disorders (e.g. welfare bene–ts and med- 
+ical costs) and increasing revenues (e.g. taxes from return to work and increased 
+productivity). 
+3.5 Other standard policies 
+To conclude this section, we highlight other typical policies that are thought to be 
+(at least weakly) welfare improving, but they can also be misleading in a behavioral 
+framework. For instance, it easy to construct examples where providing more infor- 
+mation or more opportunities to the DM may make her worse-o¤. Below we present 
+two of these examples. 
+More information may make the decision-maker worse-o¤ 
+Consider a decision problem with payo¤ relevant uncertainty, with two states of 
+the world f1; 2g where preferences are 
+1 ! 
+a1 
+a2 
+p1  1 
+p2 0 
+p3 0 
+a3 
+0 1 
+3 4 
+1 2 1 
+2 ! 
+a1 
+a2 
+p1 1 
+p2 4 
+p3 1 
+a3 
+1 2 0 
+3 0 
+0  1 
+where ˇ(ai) = pi. Suppose, to begin with, the DM has to choose before uncertainty is resolved. At the time when she makes the decision, the individual attaches a 
+19 
+
+========20========
+
+probability 
+1 
+2 
+to 1 and 
+1 
+2 
+to 2. In this case, expected payo¤ matrix is 
+a1 
+p1 0 
+p2 2 
+a2 
+a3 
+1 4 1 2 
+3 2 
+p3 1 2 1 4 0 
+It follows that the unique BDP outcome is (a2; p2) with expected payo¤ 3. 
+Next, suppose that the DM knows with probability one the true state of the world. 
+Then, when the state of the world is 1, a3 strictly dominates all other actions and 
+the unique BDP outcome is (a3; p3) with payo¤ 1 and when the state of the world 
+is 2, a1 strictly dominates all other actions and the unique BDP outcome is (a1; p1) with payo¤ 1. Therefore, the decision-maker is worse-o¤ with more information910. 
+More actions may make the decision-maker worse-o¤ 
+Consider –rst a situation where the payo¤ table is 
+a1 
+a1  1 
+a2 0 
+a2 
+0 
+3 
+where ˇ(ai) = pi. The outcome of the BDP is (a2; p2) with payo¤ 3. Now, expand the set of choices so that the following payo¤ table represents the decision problem 
+a1 
+a1  1 
+a2 0 
+a3 0 
+a2 
+a3 
+0 1 
+3 4 
+1 2 
+where ˇ(ai) = pi. Note that the unique BDP outcome is (a3; p3) with payo¤ 2 < 3. This means that although the action set of the decision-maker has been expanded so 
+that (a) the ranking of existing actions is una¤ected and (b) the new action strictly 
+dominates all existing actions, the individual is made worse-o¤. 
+9Note that in this example we are referring only to information that solves the uncertainty about exogenous states of the world. Our statement "the decision-maker is worse-o¤ with more information" would not be right in the case in which additional information helps the decision- maker to learn about the feedback. 
+10The example is consistent with Carrillo and Mariotti™s (2000) results, although we don™t need a dynamic model with time-inconsistent preferences to make the point. 
+20 
+
+========21========
+
+4 Normative grounds 
+The policy approach advocated in this paper is based on autonomy as a normative 
+criterion for welfare evaluation. As argued by philosopher Friednman (2003, p. 4) 
+ﬁautonomous behavior is based on the deeper wants and commitments of the person, 
+is partly caused by her re⁄ections on and rea¢ rmations of them.ﬂTo realize auton- 
+omy a person must –rst somehow re⁄ects on her wants and takes up an evaluative 
+stance with respect to them. Friednman (2003, p. 4) makes very clear the endo- 
+geneity of psychological states when she argues that ﬁfor choices and actions to be 
+autonomous, the choosing and acting self as the particular self she is must play a role 
+in determining them [...] When wants and desires lead to choice or action without 
+having been self-re⁄ectively endorsed by the person, the resulting choices and actions 
+are not autonomous.ﬂThe notion of self-government (the capacity to govern oneself) 
+is central to the concept of autonomy (Trout, 2005). A standard DM, as de–ned in 
+our framework, captures precisely that notion. As Ryan and Deci (2006) illustrate, a 
+man who decides to "have another drink" would not be autonomous unless, in re⁄ect- 
+ing on this motive, he could fully endorse it. The preferences that the standard DM 
+maximizes are exactly the preferences that Elster (1983, p.22) de–nes as autonomous 
+preferences: ﬁthose that have been deliberately chosen, acquired or modi–ed Œeither 
+by an act of will or by a process of character planning.ﬂ 
+The soft-libertarian approach, therefore, advocates interventions that promotes 
+the autonomy of the DM. The way in which the autonomy is enhanced is by helping 
+the DM to internalize her feedback e¤ects and thus to become a standard DM. 
+5 Final Remarks 
+We have addressed the implications of behavioral decisions for policy analysis. We 
+have proposed a concrete road map for the planner which incorporates the four policy 
+approaches (libertarian, paternalistic, soft-paternalistic and soft-libertarian). 
+The desirability of paternalistic interventions are limited by the information a 
+21 
+
+========22========
+
+planner has about an individual™s normative preferences. We argued in favour of an al- 
+ternative policy approach labelled "soft-libertarian" which does not require knowledge 
+of the normative preferences of the DM. Consistent with autonomy being the norma- 
+tive criterion to adopt, soft-libertarian interventions aim at enhancing or sustaining 
+individual autonomy. Examples of such interventions are cognitive and behavioral 
+therapies that teach how to manage stress, anxiety, temptation and self-con–dence or 
+correct maladaptive beliefs that can lead to systematic self-defeating behavior. In- 
+terventions with this type of aims are not only restricted to psychotherapies, though. 
+Social programs aiming at increasing participants™self-con–dence or aspirations can 
+also be autonomy supportive. In general, these interventions have the explicit ob- 
+jective of empowering people, i.e. to help them to increase the sense of control over 
+their lives. Policies such as fostering empowerment or emotional intelligence have 
+been largely advocated in other social disciplines but somehow disregarded in the 
+literature of Economics. In this paper we have derived those policy implications from 
+a framework that reduces many existing seemingly disconnected models in behavioral 
+economics. 
+References 
+[1] Agarwal, S., Driscoll, J.C., Gabaix, X., Laibson, D. (2007) "Learning in the 
+Credit Card Market," Harvard University Working Paper. 
+[2] Akerlof G. A. and W. T. Dickens (1982) "The Economic Consequences of Cog- 
+nitive Dissonance," American Economic Review, 72, 3, 307-319. 
+[3] Ariely, D. and K. Wertenbroch (2002) "Procrastination, deadlines, and perfor- 
+mance: Self-control by pre-commitment" Psychological Science 13(3), 219Œ224. 
+[4] Arrow K. (1959) "Rational Choice Functions and Orderings," Economica, 26, 
+121-127 
+22 
+
+========23========
+
+[5] Bandura A. (2001) "Social Cognitive Theory: an Agentic Perspective," Annual 
+Review of Psychology, 52, 1-26. 
+[6] Baron J. (2006) Thinking and Deciding, Cambridge University Press, 4th edition, 
+N.Y. 
+[7] Baumeister, R. and S. Scher (1988) "Self-defeating Behavior Patterns among 
+Normal In-dividuals: Review and Analysis of Common Self-destructive Tenden- 
+cies" Psychological Bulletin 104(1), 3Œ22 
+[8] Bernheim D. and A. Rangel (2007) "Behavioral Public Economics: Welfare and 
+Policy Analysis with Non-Standard Decision-Makers," in Behavioral Economics 
+and its Applications, edited by Peter Diamond and Hannu Vartiainen, Princeton 
+University Press, 
+[9] ______________________ (2009) "Beyond Revealed Preference: 
+Choice-Theoretic Foundations for Behavioral Welfare Economics" Quarterly 
+Journal of Economics, 124, 51-104. 
+[10] Beshears J., J.J. Choi, D. Laibson, B.C. Madrian (2008) "How are preferences 
+revealed?," Journal of Public Economics, 92, 1787-1794 
+[11] Bracha A. and D. Brown (2007) "A¤ective Decision Making: A Behavioral The- 
+ory of Choice," Cowles Foundation Discussion Paper No. 1633. 
+[12] Carrillo J. D. and T. Mariotti (2000) "Strategic Ignorance as a Self-Discipline 
+Device," Review of Economic Studies, 67, 3, 529-44. 
+[13] Cherno¤ H. (1954) "Rational selection of decision functions, Econometrica, 22, 
+422-443 
+[14] Dalton P.S. and S. Ghosal (2010a) "Behavioral Decisions and Welfare," CentER 
+Discussion Paper 2010-22, Tilburg University 
+[15] Dalton P.S. and S. Ghosal (2010b) "Decisions with Endogenous Frames," CentER 
+Discussion Paper 2010-21, Tilburg University 
+23 
+
+========24========
+
+[16] Dalton P.S., A. Mani and S. Ghosal (2010) "Poverty and Aspirations Failure," 
+CAGE Working Paper Series, 2010-22 
+[17] Dworkin, G. (2002) "Paternalism" in Edward N. 
+Zalta (ed.), 
+The Stanford Encyclopedia of Philosophy, 
+http://plato.stanford.edu/archives/win2002/entries/paternalism/ 
+[18] Elster, J. (1983) Sour Grapes: Studies in the Subversion of Rationality, Cam- 
+bridge University Press. 
+[19] Fagerlin, A., B. Zikmund-Fisher, and P. Ubel (2005). Cure me Even if it Kills 
+me: Preferences for Invasive Cancer Treatment. Medical Decision Making 25(6), 
+614. 
+[20] Fishman, P. and Pope D.G. (2007) "Punishment-Induced Deterrence: Evidence 
+from the Video-Rental Market," Wharton mimeo. 
+[21] Friedman, M. (2003) Autonomy, Gender and Politics, New York: Oxford Uni- 
+versity Press. 
+[22] Geanakoplos, J., D. Pearce and E. Stacchetti (1989) "Psychological Games and 
+Sequential Rationality," Games and Economic Behavior, 1, 60-79. 
+[23] Hammond, P.J. (1976) "Endogenous Tastes and Stable Long-Run Choice," Jour- 
+nal Economic Theory, 13, 329-340. 
+[24] Harsanyi J. S. (1954) "Welfare Economics of Variable Tastes," Review of Eco- 
+nomics Studies, 3, 21, 204-13. 
+[25] Hawton, K., P. Salkovskis, J. Kirk, and D. Clark (1989). Cognitive Behavior 
+Therapy for Psychiatric Problems: A Practical Guide. Oxford University Press, 
+Oxford. 
+[26] Koorman P and H. Praast (2010) "What does Behavioral Economics Mean for 
+Policy? Challenges to Savings and Health Policies in the Netherlands," De 
+Economist, 158:101Œ122 
+24 
+
+========25========
+
+[27] Koszegi, B. (2005) "Utility from Anticipation and Personal Equilibrium," mimeo, 
+University of California, Berkeley. 
+[28] Koszegi, B. and M. Rabin (2006) "A model of reference-dependent preferences," 
+Quarterly Journal of Economics, 121, 4, 1133-1165. 
+[29] _____________________ (2007) "Reference-Dependent Risk Atti- 
+tudes," American Economic Review,. 97(4), 1047-1073 
+[30] Layard R., D. Clark, M. Knapp and G. Mayraz (2008) "Cost-bene–t analysis of 
+psychological therapy," National Institute Economic Review, no. 202. pp. 90-98. 
+[31] Lazarus and Folkman (1984) Stress, appraisal and coping, New York, Springer. 
+[32] Loewenstein G., T. O™Donoghue and M. Rabin (2003) "Projection Bias In Pre- 
+dicting Future Utility," Quarterly Journal of Economics, 118(4),1209-1248 
+[33] Loewenstein G. and E. Haisley (2008) "The Economist as Therapist: Method- 
+ological issues raised by light Paternalism," in Caplin A., Schotter A. (Eds.), 
+Perspectives on the Future of Economics: Positive and Normative Foundations, 
+volume 1, Handbook of Economic Methodologies, Oxford University Press, Ox- 
+ford, UK. 
+[34] Loewenstein G. and P. Ubel (2008) "Hedonic Adaptation and the role of Decision 
+and Experience Utility in Public Policy," Journal of Public Economics, 92, 1795- 
+1810 
+[35] Mullainathan S. (2006) "Development Economics through the Lens of Psychol- 
+ogy," mimeo, MIT 
+[36] Pollak R. A. (1978) "Endogenous Tastes in Demand and Welfare Analysis," 
+American Economic Review, 68, 2, Papers and Proceedings, 374-379. 
+[37] Rao, V. and M. Walton (2004) ﬁCulture and Public Action: Relationality, Equal- 
+ity of Agency, and Development,ﬂin V. Rao and M. Walton (eds.), Culture and 
+25 
+
+========26========
+
+Public Action, The International Bank for Reconstruction and Development, 
+The World Bank, Washington, DC. 
+[38] Ray, D. (2006) ﬁAspirations, Poverty and Economic Change,ﬂ in A. Banerjee, 
+R. Benabou and D. Mookherjee (eds) Understanding Poverty, Oxford University 
+Press 
+[39] Ryan R. M. and E. L. Deci (2006) "Self-Regulation and the Problem of Hu- 
+man Autonomy: Does Psychology Need Choice, Self-Determination and Will?," 
+Journal of Personality, 74, 6, 1557-1585 
+[40] Salant Y and Rubinsten A (2008) "(A,f): Choice with Frames," Review of Eco- 
+nomic Studies, 75, 4, 1287-1296. 
+[41] Samuelson Paul A. (1938) "A note on the pure theory of consumer™s behavior." 
+Economica, 5(17):61Œ71, 1938. 
+[42] Sen, A. (1971) "Choice Functions and Revealed Preferences," Review of Eco- 
+nomic Studies, 38, 307-317 
+[43] Sevdalis, N. and N. Harvey (2007) "Biased forecasting of postdecisional a¤ect," 
+Psychological Science 18(8), 678Œ681. 
+[44] Shalev, J. (2000) "Loss Aversion Equilibrium," International Journal of Game 
+Theory, 29, 269-87. 
+[45] Trout J.D. (2005) "Paternalism and Cognitive Bias," Law and Philosophy, 24, 
+393-434 
+[46] Thaler R. and C. R. Sustein (2003) "Libertarian Paternalism," American Eco- 
+nomic Review, Papers and Proceedings, 93, 2, 175-179 
+[47] Tversky, A. and D. Kahneman (1991), "Loss aversion in Riskless Choice: A 
+reference-dependent model", Quarterly Journal of Economics, Vol. 106(4), 1039- 
+1061 
+26 
+
+========27========
+
+[48] von Weizsacker C., (1971) "Notes on Endogenous Change of Tastes," Journal of 
+Economic Theory, 3, 345-72. 
+[49] Wertenbroch, K. (1998) "Consumption Self-control by Rationing Purchase Quan- 
+tities of Virtue and Vice" Marketing Science 4(17), 317Œ337. 
+27 
+
+========28========
+

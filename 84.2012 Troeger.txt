@@ -1,0 +1,1570 @@
+March 2012 
+                No. 84 
+DE FACTO CAPITAL MOBILITY, EQUALITY, AND TAX POLICY IN OPEN ECONOMIES 
+Vera E. Troeger- University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+De Facto Capital Mobility, Equality, and Tax Policy in Open Economies 
+Vera E. Troeger 
+University of Warwick, CAGE, v.e.troeger@warwick.ac.uk 
+Preliminary Draft: do not circulate. Comments welcome. 
+Summary 
+This paper attempts at giving theoretical and empirical answers to the remaining puzzles in the literature on tax competition: the persistently high tax rates on mobile capital and the large variation in domestic tax systems. I argue that governments face a political trilemma, in which they cannot maintain the politically optimal level of public good provision, reduce capital taxes to competitive levels and implement a political support-maximizing mix of tax rates on capital and labour simultaneously. In particular, while legal restriction on capital flows have been eliminated by virtually all OECD countries, de facto capital mobility falls short of being perfect. Limits to full capital mobility result from ownership structures: the higher the concentration of capital, the higher the de facto mobility of capital and the lower the equilibrium tax rate. Second, the demand for the provision of public goods further constraints governments’ choices of the capital tax rate. If revenue from taxation of mobile factors declines, politicians cannot necessarily cut back spending without losing political support. Policy makers, accordingly, do not face a simple optimization problem when deciding on capital taxation. Rather, they have to choose a tax system which allows them to supply an appropriate level of public goods. Policy makers finally face a trade-off resulting from the redistributive conflict between capital-owners and workers. This conflict does not resemble a mere zero-sum game, because lower levels of capital taxation are likely to improve aggregate welfare, but the decision on capital taxation also cannot be analyzed in isolation from the distributive effects of reducing taxes on mobile factors. This political logic of tax competition generates important predictions which are tested empirically for 23 OECD countries over 30 years within a spatial econometrics framework. 
+1 
+
+========2========
+
+1. Introduction 
+Taxation provides the bloodstream for governments. Without tax revenues, the supply of public goods and the redistribution of income would not be possible. Yet, the steep increase in capital mobility and the almost complete integration of financial and product markets has reduced governments’ discretion in collecting taxes. While – contrary to some early globalization doom theories – international market integration did not entirely wipe out the policy maker’s autonomy and her ability to produce public goods and to redistribute income, claims that all governments adjusted the national tax systems to the changing rules of the global economy are certainly no exaggeration. 
+Nevertheless, actual adjustments fell short of the predictions formulated by the early literature on tax competition. Most of these early models suggested that governments will find it impossible to redistribute income from capital-owners to workers and to maintain the high level of social security and income redistribution developed in the 1960s and 1970s and defended and reformed in the 1980s. Virtually all first generation models of tax competition claimed that tax rates on capital income under perfect capital mobility would converge to zero. These predictions have been proven wrong. No “race to the bottom” in capital tax rates has occurred and there are little signs that it will occur in the foreseeable future. Actual tax rates in most OECD countries remain high and the tax systems continue to vary greatly between different jurisdictions. 
+This paper aims at providing an answer to both puzzles: the persistently high tax rates on mobile capital and the large variation in domestic tax systems. I argue that governments face a political trilemma, in which they cannot maintain the politically optimal level of public good provision, reduce capital taxes to competitive levels and implement a political support- maximizing mix of tax rates on capital and labour simultaneously. 
+In particular, while legal restriction on capital flows have been eliminated by virtually all OECD countries, de facto capital mobility falls short of being perfect. Limits to full capital mobility result from ownership structures: the higher the concentration of capital, the higher the de facto mobility of capital and the lower the equilibrium tax rate. Second, the demand for the provision of public goods further constraints governments’ choices of the capital tax rate. If revenue from taxation of mobile factors declines, politicians cannot necessarily cut back spending without losing political support. Increases in revenue from immobile factors such as 
+2 
+
+========3========
+
+labour or consumption need to match losses in collected taxes from capital in order to maintain a satisfactory level of public good provision. Policy makers, accordingly, do not face a simple optimization problem when deciding on capital taxation. Rather, they have to choose a tax system which allows them to supply an appropriate level of public goods. 
+Policy makers finally face a trade-off resulting from the redistributive conflict between capital-owners and workers. This conflict does not resemble a mere zero-sum game, because lower levels of capital taxation are likely to improve aggregate welfare, but the decision on capital taxation also cannot be analyzed in isolation from the distributive effects of reducing taxes on mobile factors. 
+This political logic of tax competition generates important testable predictions: First, governments in countries with low de facto mobility of capital will maintain a relatively high level of capital taxation, a high level of public good provision, and a low difference between tax rates on mobile and immobile factors. Second, governments facing a low demand for public good provision will reduce the tax rate on capital without necessarily changing the gap between taxes on capital and wage income. Finally, governments in countries in which the voters' concerns about tax symmetry remain weakly developed will lower capital taxation. At the same time, they will push taxes on immobile factors upwards in order to maintain a high level of public good provision. 
+Importantly, these three political considerations work simultaneously and are also influenced by the intensity of international competition for mobile capital. Therefore, the lower the capital tax rates in other countries, the more severely governments feel the pressure from the three trade-offs in tax competition. 
+The sketched argument can straightforwardly be generalized. Domestic policy makers face several domestic and international trade-offs. In deciding upon tax policy they can only reach two of the three policy goals ‘maintaining a solid capital base despite international tax competition’, ‘generating a sufficiently high tax revenue’, and ‘avoiding social injustice’. Since governments face a trilemmatic situation and cannot achieve all policy aims simultaneously, they choose a combination of tax rates on mobile and immobile tax bases and public good provision that maximizes their political support under these constraints. The degree of budget rigidities and the strength of societal equity needs is country specific and the severity of tax competition pressures depends on the de facto ability of capital owners to move capital through jurisdictions. Based on this argumentation a convergence of capital 
+3 
+
+========4========
+
+tax rates and national tax systems cannot be expected. The theory instead predicts persistently high tax rates on mobile sources and high variation between domestic tax mixes. 
+The reminder of this paper puts this theoretical argument into the context of the extant economic and political science literature (section 2) and section 3 attempts to identify the cornerstones of a more comprehensive theory of tax policy making. In section 4 I will provide a formal account of the argument which generates testable predictions for capital and labour taxation as well as the tax system. Section 5 puts the implications of the theoretical to an empirical test with data from 23 OECD countries between 1975 and 2004. Section 6 concludes. 
+2. Tax Competition and Tax Policy Making: A short Literature Review 
+When consumers or production factors are mobile, tax systems in different jurisdictions are not independent of one another. A lower tax rate in one country provides an incentive to locate business activities in this jurisdiction. Of course, if one country is better off by lowering tax rates, we should expect other countries to follow suit. By undercutting the neighbours' tax rates, a country does not only attract additional business activities but at the same time it triggers a downward-spiral of tax rates. As soon as this downward spiral reaches its equilibrium, all domestic tax rates on mobile business activities equal zero. As an unintended side effect, government revenues in all countries sharply decline, and public good provision must be cut back. 
+This, in a nutshell, is the logic of first generation models on tax competition.1 More specifically, first generation models assume perfectly mobile capital, a single tax base (mobile capital) and a single tax instrument, and typically two equally-sized countries. If these conditions are met, tax rates on capital will converge to zero. 
+On closer examination, the assumptions underlying first generation models remain far from being realistic and, therefore, we should not be too surprised to observe that the predictions of these early models fell short of becoming true. While tax rates on mobile capital in the OECD 
+1 Zodrow and Mieszkowski (1986) demonstrate in their early model the basic mechanism of tax base 
+competition in the simplest possible way. This model has become the benchmark analysis for much of the 
+later work. For different accounts of first generation models see also Wilson 1986, Hoyt 1991, Bucovetsky/ 
+Wilson 1991, Chamley 1986, and Lucas 1990. Razin and Sadka (1991) show that tax competition between 
+two infinitely small countries leads to a zero tax rate on capital. They demonstrate that this outcome is even 
+constraint efficient because a coordinated tax policy would still lead to a zero tax rate on mobile capital. 
+4 
+
+========5========
+
+world have moderately declined over the last three decades, the current tax rates remain significantly higher than zero percent (see Swank and Steinmo 2002, Ganghof 2004, Genschel 2002, Basinger and Hallerberg 2004 among others). 
+Figure 1: Mean Top Corporate Tax Rate, Mean Efficient Labour and Capital Tax Rate of 22 OECD Countries 
+s 
+e 
+i 
+r 
+t 
+marginal corporate tax rate 
+n 
+u 
+o 
+c 
+ 
+D 
+C 
+E 
+O 
+ 
+3 
+2 
+ 
+ lab 
+o 
+ur 
+ o 
+n AETR 
+f 
+o 
+ 
+n 
+a 
+e 
+m 
+ 
+y 
+l 
+r 
+a 
+e 
+y 
+ 
+: 
+e 
+t 
+a 
+r 
+ 
+x 
+a 
+t 
+48 46 44 42 40 38 36 34 32 30 28 26 24 22 20 18 16 14 12 
+AETR on capital 
+1975 1980 1985 1990 1995 2000 2005 
+year 
+Figure 1 displays the mean top rate on retained profits of corporations and the mean effective labour and capital tax rates (own calculations based on the formula suggested by Volkerink and De Haan 2001) for 23 OECD countries between 1975 and 2004. While top corporate tax rates were successively reduced from the mid-1980s onwards, effective labour tax rates grew steadily. However, effective rates on capital did not decrease significantly. They remained relatively stable over time and rather increased a little since the early 1970s. From this follows that governments implemented a strategy of "tax-cut-cum-base-broadening" in order to maintaining public revenue (Swank and Steinmo 2002, Steinmo 1994, Ganghof 2000a, 2007, Hicks and Swank 1992, Keen and Marchand 1997). 
+There are three ways to deal with this misfit between the theoretical predictions and empirical evidence: 
+First, proponents of the first generation models could argue that everything is in order, because these models were never intended to make point predictions on actually implemented 
+5 
+
+========6========
+
+tax rates but merely predict the global tendency towards lower tax rates. And this prediction, indeed, can not easily be rejected.2 
+Second, critics can assert that the dire predictions of the first generation model result from its apparent simplicity. First generation models obviously cut deep into the real world, and propose a causal mechanism, which can only be true once we carefully control for all other influences on capital taxation. These critics, hence, add additional variables to the first generation models to generate predictions which are closer to reality. 
+And third, critics can also hold that the assumptions underlying first generation models are unrealistic at best if not wrong. If we relax the assumption of full capital mobility, the equilibrium tax rates tend to be positive. If we also relax the assumption of equally sized countries, equilibrium tax rates remain not only positive but also vary across countries, with the smaller country implementing lower tax rates. Moreover, if we alter the assumption about the behaviour of policy makers from welfare maximization to the more realistic assumption of vote maximization, politicians might have incentives not to implement zero tax rates on capital depending on preferences of the majority of voters. 
+In short, it looks as if there is much explanatory power to win from making the standard assumptions more realistic. Still, this is not the way in which scholars usually try to explain non-zero tax rates on capital. With very little exceptions, researchers typically choose the second option and add additional explanatory variables to their models. Specifically, second generation models amended earlier approaches by a second tax instrument on immobile factors and incorporated public good provision. The most important results of these studies include a capital tax rate of zero in equilibrium while fiscal authorities shift the tax burden towards labour income. Since it is impossible to replace all capital tax revenue with government income gathered from wage earners these models also predict lower provision of public goods as compared to the closed economy case.3 The main lesson to be drawn from 
+2 While moderate versions of the tax competition model – versions that predict reductions of taxes on mobile 
+capital – have by and large been confirmed by empirical research (Devereux et al. 2002, Altshuler and 
+Goodspeed 2002), the more radical versions – those predicting convergence of capital systems (Tanzi 1995), 
+and a complete abolition of taxes on mobile capital – found little if any empirical support. Nevertheless, 
+researches widely agree that due to higher capital mobility policy makers are forced to take capital tax rates 
+in other countries into account while deciding upon domestic taxation (Devereux et al. 2002, Altshuler and 
+Goodspeed 2002, Hallerberg and Basinger 1998, 1999, Basinger and Hallerberg 2004, Hays 2003, Plümper 
+et al. 2008). The strategic effect of tax competition finds support in a number of empirical studies. Capital tax 
+rates in competitor countries exert a significant positive effect on domestic capital taxation (Hays 2003, 
+Basinger and Hallerberg 2004, Egger et. al 2005, 2006, Plümper et. al 2008 among others). 
+3 Sinn 2003, Rodrik 1997, Schulze/ Ursprung 1999, Webb 1998, Bretschger/ Hettich 2002, Steinmo 1996. 
+6 
+
+========7========
+
+this literature is that the attempt to redistribute from capital to labour is costly and ineffective if capital is mobile (Sinn 2003).4 Yet, these models inherit most of the deficiencies of the first generation literature and, unsurprisingly, equally predict a zero tax rate on mobile factors in equilibrium. 
+In comparison, third generation scholars are dedicated to the explanation of non-zero capital taxation and try to deal with the unrealistic predictions of the first generation models by increasing their complexity. Economists working in this tradition argue for example that governments compensate capital owners by providing services like infrastructure. Hence, a country's tax burden is not the only important factor driving location decisions of capital owners, but the infrastructure provided by governments also serves as decision making device (Wildasin 1986, Wellisch 1995, Oates 1996). If taxes are seen as the price for the publicly provided infrastructure, capital owners and investors will accept this cost (Sinn 2003, p. 30). Setting the price for the consumption of one unit, however, is hardly possible. 
+A second stream of the economic literature relaxes the assumption of symmetric countries competing for mobile capital in order to explain persisting variance in capital tax rates. A symmetric account of tax competition eliminates possible terms of trade effects and a conflict of interest between the competing jurisdictions cannot arise. Therefore, scholars study the effect of differences in country size on capital tax competition (Bucovetsky 1991, Wilson 1991, Peralta and van Ypersele 2005). 
+Within the asymmetric tax competition model, the small country faces a more elastic tax base and undercuts the tax level of the large country in an asymmetric Nash equilibrium. The predictions of asymmetric tax competition find ample empirical support. All else equal, larger countries tend to impose higher tax rates on mobile capital than small countries (Bucovetsky 1991, Wilson 1991, Kanbur and Keen 1993). Still, convergence remains far from perfect even after controlling for country-size (Plümper and Schulze 1999). 
+Political scientists have provided more convincing attempts to explain non-zero tax rates on mobile factors by arguing that political, institutional and economic restrictions prevent governments from implementing the welfare optimum of very low or even zero capital tax rates. These models predict non-zero tax rates on mobile assets and a pattern of tax rates which highly covaries with the pattern of political constraints. 
+4 See also MacDougall 1960 and Richman 1963, Perrson / Tabellini 1995. 
+7 
+
+========8========
+
+One of the most prominent arguments in this tradition is that the well-being of the domestic economy impacts governments' decisions on tax policies (Swank 2006, Swank and Steinmo 2002, Rodrik 1997, 1998, Garrett 1998a,c among others). For example, high unemployment rates prevent policy makers from shifting large parts of the tax burden from mobile to immobile factors or to cut social expenditure (Genschel 2002, Ganghof 2000a,b). In addition, high levels of pre-committed spending and debt compromise the adjustment to tax competition since the maintenance of tax revenue is crucial for governments to provide a certain amount of public goods and compensate losers of global economic integration (Genschel 2002, Rodrik 1998). 
+In another line of argument several scholars hold that institutional and political constraints to the government's executive power are crucial for understanding tax policy outcomes. Any tax reform inevitably leaves at least some parts of the society worse off and therefore, it is argued that these political costs erase the race to the bottom in capital taxation (Basinger and Hallerberg 2004). Hence, domestic political institutions (Hays 2003, Hallerberg and Basinger 1998, 1999, Basinger and Hallerberg 2004, Swank and Steinmo 2002, Swank 2006) and voter preferences (Ganghof 1999b, 2004, Genschel 2002) counterbalance the downward pressure induced by international competition for mobile tax sources and domestic trade-offs prevent convergence of tax systems. These political costs are either modelled as the number of veto players able to block reforms (Hallerberg and Basinger 1998, 1999, Basinger and Hallerberg 2004, Genschel 2002, Wagschal 1999a,b)5 or by constituency costs which different parties face because of their differing voter clienteles (Garrett 1995, Garrett and Mitchell 2001, Garrett 1998b, Basinger and Hallerberg 2004)6. Hallerberg and Basinger (2004) for example show that tax cuts are deeper in countries where the number of veto-players is small. This explanation differs from previous ones as governments are not constraint by voters or interest- groups objecting an economic loss. Rather, in Hallerberg and Basinger’s view, some governments lack the political autonomy to decide on and implement tax reforms. The varieties-of-capitalism literature combines the partisan politics argument with other features of the political system such as the strength of labour unions and corporatist decision 
+5 
+For a more detailed discussion of the impact of veto players on policy making see Tsebelis 1995, 1999, 2002. 
+6 
+For a more detailed discussion of the partisan argument see Hibbs 1977/ 1992, and in combination with globalization and the welfare state see Allan/ Scruggs 2004, Amable/ Gatti/ Schumacher 2006, Cusack 1997, Alesina 1989/ 1991, Boix 1998/ 2000, Franzese 2002a,b, Iversen 2001, Garrett and Lange 1991, and Kitschelt 1994. 
+8 
+
+========9========
+
+making (Kitschelt, Lange, Marks and Stephens 1999, Hall and Soskice 2001). Representatives of this approach further maintain that the existence of left-wing governments in addition to corporatist labour market institutions lead to high capital taxation since the government's main interest lies in the redistribution of wealth to its core constituency (Garrett 1995, Garrett and Mitchell 2001). Hays (2003) builds on the varieties-of-capitalism literature but criticizes its predictions. He argues that in proportional systems minority preferences are over-represented and corporate tax rate, therefore, remain lower while in majoritarian democracies labour is taxed at a smaller rate. 
+While the discussion of political and institutional factors provides valuable insights into domestic constraints to tax policy making, all presented approaches suffer from a common flaw. Researchers only focus on the explanation of non-zero capital taxation by including additional variables to the right hand side of their explanatory models without challenging the main assumptions of first and second generation approaches to tax competition. These studies mostly fail to simultaneously analyze taxation of mobile and immobile factors and can, therefore, only provide partial accounts of domestic decision making on taxation. 
+More specifically, an implicit assumption of the veto player reasoning seems to be that only some actors adapted their preferences to the changes in the international system and the increased competitive pressures (Ganghof 1999b). The argument that some players interfere with the attempt of other political actors to implement lower taxes would otherwise not be plausible. If we extend the analysis to tax rates on immobile factors the same causal mechanism should be in place and reforms should be the less probable the more veto players are involved in the political decision making process. Yet, empirical evidence shows that in most countries tax rates on capital and labour develop in opposite directions. 
+Even though the varieties-of-capitalism literature allows explaining differences in tax policy outcomes by differences in political systems, these explanations are problematic because of the time invariance of most features of political systems. Indeed, factors like electoral arrangements or the corporatist structure have rarely changed in the past. Still, they are used to explain tax systems which were frequently reformed in most OECD countries over the last 20 years. 
+Even though the discussion of more recent approaches to tax competition must remain sketchy and is by no means exhaustive it reveals that the main difference of the recent literature to early models consists in the inclusion of domestic and economic constraints 
+9 
+
+========10========
+
+limiting policy makers in their ability to implement very low tax rates on capital. Thus, these models achieve more realistic predictions about the level of capital taxation by increasing the complexity and adding additional factors to basic tax competition models. Yet, they mostly fail to challenge the main underlying assumptions. For example, if we relax the assumption of perfect capital mobility, equilibrium tax rates will diverge from zero. This also holds true if we abandon the unrealistic assumption of homogeneous countries.7 Furthermore, if we change the assumption about the behaviour of policy makers from welfare maximization to the more realistic assumption of vote maximization, politicians might not only be unable to implement zero tax rates on capital but even unwilling to do so because of the propensity to stay in office. 
+3. Towards a Comprehensive Theory of Tax Competition 
+Theories ought to simplify the real world. Yet, little consensus exists on how far this simplification should go. Ockham’s razor as well as the widely accepted principle of parsimony both advice scholars to simplify as much as possible, but not more. But how much is ‘as much as possible’? 
+The previous discussion of the literature has revealed that researchers typically face six important modelling decisions: 
+1. Does the government maximize social welfare, revenues or its political support? 2. Are countries homogeneous or do models allow some form of heterogeneity, for 
+example size differences? 
+3. Are capital markets perfectly integrated and is capital thus fully mobile? 
+4. Are governments the only actors or are other actors explicitly incorporated? 5. Do governments command over a single or more than one policy instrument? 6. How many countries are considered in the model, two or more? 
+We have seen that the three generations of tax competition models can easily be distinguished along these criteria. First generation studies model two welfare maximizing governments, which command over the capital tax rate to compete over a fully mobile capital base. Countries are homogeneous. Second generation models assume two governments in homogeneous countries which command over two tax instruments to compete for perfectly 
+7 
+The literature on asymmetric tax competition gives a first hint (Bucovetsky 1991, Wilson 1991, Kanbur/ Keen 1993). Yet, country size is not the only attribute we can and should vary. 
+10 
+
+========11========
+
+mobile capital. These models disagree on the behavioural assumption underlying government actions: some scholars assume welfare maximization, others revenue maximization. Finally, third generation models either relax the assumption that the government is the sole actor or that countries are homogeneous. 
+Thus, scholars working on tax competition seem to agree that capital is fully mobile and that there is no necessity to consider a third country. Yet, while the second assumption has little impact on the implications of the model, the consequences of the first are considerable. If capital is imperfectly mobile, separating equilibria emerge in which one government implements lower capital tax rates than the other and neither of the two reduces capital taxation to zero. In other words, relaxing the only crucial assumptions that all recent models hold constant already does the trick and “solves” the puzzle of non-zero tax rates on mobile capital. 
+But is this assumption of perfect capital mobility realistic? And what about the other assumptions commonly entering tax competition models? 
+This section discusses how scholars should think about taxation in open economies. In short, I argue that a theory of domestic taxation which explains the variation in tax reforms over the last decades, the non-convergence of tax rates, and the moderate shift from capital to labour taxation, must become more realistic. First, the absence of capital controls does not lead to perfect capital mobility. Second, governments consider the whole tax system rather than a single tax rate when they maximize government revenues, aggregate welfare, or political support. Third, countries are not equal, and though simplifying assumptions are always necessary, the impact of this seemingly innocent assumption on the model’s predictions is too significant to be ignored. Finally, opportunistic governments maximize political support in order to stay in office. This crucial behavioural assumption allows the direct incorporation of governments' incentives into the decision making process. 
+Following from these assumptions I further argue that governments face a political trilemma when choosing domestic tax rates in which they cannot simultaneously reach the three policy goals of 'providing a satisfactory amount of public goods', 'maintaining a solid capital tax base by reducing tax rates on capital income' and 'adhering to societal demands for tax equality'. This line of argumentation implies that we have to analyze the decisional trade-offs politicians face when trying to reach these political aims. 
+11 
+
+========12========
+
+De Facto Capital Mobility 
+During the last 30 years most OECD countries have abolished legal restrictions to capital account transactions. (Lee 1997, Janeba 2000, and Ganghof 2000a). Different measures of legal capital controls provide evidence for a trend towards lower restrictions and higher mobility (Quinn 1997, Lane and Milesi-Ferretti 2001, Miniane 2004) although persisting variance between OECD countries can still be observed (Li and Smith 2002a, b). While we can act on the assumption that legal capital controls do not exist, the de facto mobility can greatly vary across countries depending on the ownership and concentration of domestic mobile factors.8 This observation significantly influences the outcome of tax competition models. 
+De facto mobility as compared to legal restrictions to capital transactions depicts the actual costs capital owners incur when shifting capital to other locations. These transactions costs result from two different sources. First, relocating production sites and plants induces relatively high costs since it involves not only the physical relocation but also a large amount of administrative and bureaucratic effort: firing and hiring employees, building connections with local infrastructure, transportation, packaging, cooperating with the local bureaucracy and administration etc. In addition to these physical transactions costs, capital owners have to gather information about tax rates, tax credit structures and exemption rules in other countries in order to decide where to shift capital to. 
+The ownership structure of domestic capital determines the costs of moving capital through jurisdictions. The higher the concentration of capital the lower the transaction costs of shifting profits to low-tax countries because owners of capital can benefit from economies of scale. The costs of moving capital to another location decrease with the degree of concentration since the costs of information gathering remain stable and do not accelerate with an additional unit of capital to be shifted to a low-tax country. If capital is rather equally distributed throughout society then the costs for capital owners to engage in tax arbitrage increases. In the extreme, were capital is perfectly concentrated, transaction costs approach zero per unit of 
+8 In the literature on tax competition most studies assume perfect capital mobility. Some take differences in 
+legal capital restrictions into account. The influence of the characteristics of domestic capital on capital 
+taxation remains largely un-discussed and – as far as I am aware of – no theoretical model incorporating de 
+facto mobility of domestic capital as a decisive factor exists. 
+12 
+
+========13========
+
+capital. The ownership-structure of domestic capital therefore translates into de facto capital mobility.9 
+The actual ability of capital owners to shift profit to low tax countries can be empirically observed. Multinationals with high capital concentration use preferential tax regimes as a platform for international tax planning. These large companies with subsidiaries all over the world have the capabilities and means of engaging in large-scale tax arbitrage and avoidance with instruments and strategies such as transfer pricing, thin capitalization, and debt reallocation.10 They engage in international transfer pricing to minimize their global tax liabilities (Grubert and Mutti 1991, Hines jr. 2001). Thus, transfer pricing is used as a tax saving device (Schjelderup and Sorgard 1997). 
+Multinational enterprises (MNEs), hence, dispose of a much higher de facto mobility. Transaction costs of shifting mobile assets remain low since on the one hand MNEs can easily collect and compare information on foreign tax systems. On the other hand, and what is more important, they can engage in tax avoidance without physically moving production sites but virtually shifting profits and debts to benefit from different tax arrangements. This argument gains support from the finding of abusive transfer pricing to be one of the main determinants of international FDI flows (Azémar et al. 2006). 
+Medium and small firms do not have the same ability to engage in large-scale tax avoidance strategies. Transaction costs per unit of capital remain much higher as compared to MNEs for several reasons. Firstly, capacities for collecting and comparing information on different foreign tax systems are limited. Secondly, small and medium firms must shift physical capital like production plants since they are less able to virtually shift profits and debts through transfer pricing and other tax avoidance strategies. 
+The possibilities of tax arbitrage for smaller firms were additionally diminished by actions taken by the EU and the OECD against discriminatory taxation (European Commission 2001, European Council 1998, OECD 1998). These actions mainly include the abstention from preferential taxation of non-residents and – more importantly – not granting tax advantages to 
+9 Moreover, large enterprises normally dispose of huge administrative departments which allow for easy 
+gathering and processing of information. 
+10 Multinational corporations have the capabilities to engage in various tax avoidance strategies such as shifting 
+revenues to low-tax countries by transfer pricing, shifting deductions including interest expense to high-tax 
+countries, and reallocating debts (Zodrow 2006, Stöwhase 2005). Several empirical studies have highlighted 
+that after-tax profitability tends to be higher in low-tax countries, suggesting that multinationals shift profits 
+to such countries (Grubert and Muttin 1991, Harris at al., 1993, Hines and Rice 1994). Overall, most results 
+support the argument that multinational corporations typically engage in international tax avoidance activity. 
+13 
+
+========14========
+
+firms with no real economic activity in the country ('real seat' doctrine). These strategies aim at preventing the use of mere holdings and letterbox companies in tax havens created in order to reduce the tax burden of a business.11 
+As a consequence, governments in countries with a high share of FDI and multinational corporations are more prone to play the tax competition game. Undercutting foreign capital rates in such a case appears to be reasonable from two perspectives: Foreign capital can be attracted and highly mobile domestic capital is less likely to leave the economy. 
+The effects of the de facto capital mobility and the domestic capital structure lead governments to focus more strongly on preventing MNEs from shifting capital to other jurisdictions than attracting capital from abroad. This especially holds true for large countries because the mobile tax base in these jurisdictions tends to be larger than the foreign tax base that can possibly be attracted by engaging in tax competition. Policy makers in deciding upon public spending and the overall size of the budget need some certainty about the taxes they are able to collect from domestic sources. The possibilities for attracting foreign sources to boost the domestic tax base and increase the productivity of the immobile production factor remain rather uncertain for two reasons. First, underbidding foreign burdens on corporate income requires the evaluation of a multitude of different features of national tax systems in a large number of foreign jurisdictions. Second, policy makers cannot be sure of whether the tax base effect of attracting foreign sources exceeds the tax rate effect of cutting back capital taxation. Thus, whether the overall amount of levied taxes after the tax cut exceeds the status quo or falls short of it remains doubtful. In case the reduction in capital taxes does not lead to an inflow of a sufficient amount of foreign tax bases, governments might even loose from engaging in tax competition because the collected revenue from mobile sources declines. Accordingly, targeting domestic capital and setting capital tax rates to reduce incentives for mobile capital to leave seems to be a more suitable strategy for national policy makers.12 
+11 Rammeloo (2001) and Charny (1991) argue that because of the 'real seat' doctrine smaller firms react much 
+less elastic to changes in regulations (including taxation). Cheffins (1997), Edwards (1999), and McCahery/ 
+Vermeulen (2005) claim that the 'real seat' doctrine prevents a Delaware-effect in Europe. 
+12 The empirical finding that statutory tax rates in parent countries mostly impact the amount of outbound FDI 
+but not FDI inflows, lends strong support to this line of argumentation (Egger et al. 2006). Inbound FDI 
+flows depend to a large extend on revenue induced investment incentives such as publicly provided 
+infrastructure and supply of high skilled workers. 
+14 
+
+========15========
+
+Policy Instruments and Tax Mixes 
+If competition for mobile capital restricts the government’s ability to gather revenue from mobile bases, it is inclined to shift parts of the tax burden towards more immobile bases such as labour income and consumption in order to maintain public income and public good provision. Hence, budgetary concerns in combination with tax competition pressures can lead to a shift of the tax burden from capital to labour (Sinn 2003, Rodrik 1997, Schulze/ Ursprung 1999, Steinmo 1996). 
+Looking at this strategy from a purely welfare-maximizing perspective, it is pareto efficient if wage earners bear the higher tax burden as the net (after tax) labour income remains higher with complementary capital. From a single voter's view, however, this burden shift implies problematic distributional consequences since capital receives a net subsidy at the expense of immobile taxpayers. As a consequence, shifting the tax burden towards wage income creates political costs (Genschel 2002, Ganghof 1999b, 2004). 
+The median voter in most – even capital rich – countries is a wage earner rather than a capital owner and perceives this burden shift as unjust and unfair. It is not in the interest of workers to subsidize capital, even though the productivity of the factor labour would still be higher. The notion of inequality and unfairness leads the majority of the electorate to withdraw political support in case the government attempts to shift large parts of the tax burden towards the immobile factor. Thus, the strength of societal equality demands prevents a large gap between the tax rates imposed on mobile and immobile taxpayers. 
+How strongly the needs for equality and tax symmetry are enrooted in the society largely depends on the political culture of a country. Long-lasting political practice shapes voters' expectations regarding the equity and symmetry of the tax system and, hence, influences the utility function of governments. For example, the different development of welfare states may have formed different preferences with respect to compensation of risks and redistribution of income. Social democratic welfare states institutionalized income redistribution from rich to poor via taxation much more strongly than liberal market democracies. The electorate in continental and Scandinavian welfare states, therefore, should demand higher tax symmetry than voters in free market economies. 
+Based on this argument, we can expect large differences in the demand for tax justice and equality across societies. Indeed, while we can observe increasing inequality in market 
+15 
+
+========16========
+
+income, redistribution activities by governments and the distribution of disposable income vary greatly across OECD countries (Beramendi and Cusack 2004).13 
+The use of redistributive measures differs across countries and policy makers, depending mainly on persisting institutional settings. Some researchers argue that the degree of unionization (Hibbs and Dennis 1988, Freeman 1980) and corporate wage setting (Esping- Andersen 1990, Korpi 1983, Korpi and Palme 2003, Stephens 1979) impact governments' willingness to redistribute income. The degree of wage coordination is conventionally regarded as a crucial difference between Liberal and Coordinated Market Economies (Hall and Soskice 2001). Thus, redistributive patterns are strengthened by long lasting features and settings in a specific democracy. These patterns shape voters expectations and demands with respect to equality, redistribution, and tax symmetry. In some societies, therefore, a much more egalitarian legacy prevails and voters' require political intervention in case the market produces high inequality. In liberal market economies, in comparison, the ideal of free market activity without governmental interference dominates preferences of the electorate. Accordingly, the pressure on governments to implement symmetric tax rates on capital and labour varies with the strength of equality needs in a society. Opportunistic policy makers take electoral demands for tax symmetry into consideration. The higher the equality expectations of voters, the less likely a government is to play the tax competition game hard. In such a case, governments may gain higher voter support from not reducing capital taxation too strongly or cutting back wage taxation accordingly, than they can win from attracting foreign capital bases. 
+13 
+The observable pattern in pre-tax inequality over the last three decades is consistent for most OECD 
+countries. Without government intervention the inequality in income reached high levels throughout. Even in 
+an egalitarian society such as Sweden, the degree of pre-tax inequality in market outcome is extremely high 
+and close to the inequality levels in the UK and the US (Beramendi and Cusack 2004). Direct government 
+intervention produces a far more equitable distribution of income. Still, the scope and the breadth of the 
+reduction of market induced inequality differ significantly. The effective levels of redistribution vary 
+dramatically between states such as Sweden (18 % of total income on average) and the US (8 % of total 
+income). In Germany, for example, the pre-government income inequality increased sharply over the last 
+thirty years – from 0.31 in 1978 to 0.45 in 2002 – but the post intervention disposable income inequality 
+remained constant on a much lower level – 0.24 in 1978 and 0.26 in 2002. The same development can be 
+observed for France and the Netherlands. In comparison, government intervention in countries like the UK 
+and the US appears much less evident and inequality of post-government income rose significantly over the 
+last three decades: from 0.27 to 0.35 in the UK and from 0.30 to 0.38 in the US. 
+16 
+
+========17========
+
+4. A Formal Model of Taxation and Tax Competition 
+The previously outlined arguments highlight the interdependence of policy goals governments attempt to achieve with taxation and the decisional trade-offs they face when choosing domestic tax levels. Thereby different pressures work simultaneously and political aims are not always compatible. To be able to examine these different forces, I formalize the presented theoretical argument. In analyzing the relationships between tax competition, budget constraints, demands for tax symmetry and the domestic capital structure, I propose a formal theoretical model where incumbents are only interested in their re-election and in order to reach this goal they have to maximize voter support.14 The policy maker must find the optimal mix of tax burdens on mobile and immobile factors, the level of public spending, and the degree to which societal equality needs are fulfilled. 
+The model combines standard political economy reasoning (Persson and Tabellini 1995, Drazen 2000a) with arguments on tax system effects of capital liberalization. My theoretical model transcends existing models in important aspects. I will show that international forces do not necessarily lead to a race to the bottom, but are restricted by domestic considerations of governments who face budged constraints, try to satisfy societal equity needs by maintaining tax symmetry and take the domestic structure of capital and de facto capital mobility into consideration. 
+The theoretical model formalizes this underlying logic by generating a loss function a representative government faces when choosing domestic tax rates. Loss thereby is associated with political support. Implemented political strategies generate costs and benefits for different parts of the electorate, whereby costs enter the loss function positively since they reduce political support and benefits influence the overall loss negatively. The model examines the strategic game between two countries or one country and the weighted influence of the rest of the world, and allows comparing the homogeneous and heterogeneous country case.15 
+I analyze the outcome of the model within a comparative static framework by computing the optimal domestic labour and capital tax rates a government should choose as a reaction to 
+14 For textbook accounts of similar models see Drazen (2000a); Persson and Tabellini (2000, 2002), Mueller 
+(2003), Grossman and Helpman (2001), Persson and Tabellini (1992). 
+15 Plümper et. al (2008) analyze a 3 country model by simulation techniques which produce dynamic Markov 
+chain equilibria. 
+17 
+
+========18========
+
+different domestic and international factors. More specifically, I vary the values of 5 crucial parameters of the model: a) domestic demands for tax symmetry, b) elasticities of labour and different forms of capital to taxation, c) budget rigidities, d) ownership structure of domestic capital, and e) domestic and foreign attractiveness for mobile capital in combination with legal domestic and foreign restrictions to capital flows. 
+The Model 
+Consider an open economy j where citizens dispose over two sources of income: mobile capital M and income from immobile labour N. Gross national income Y is then the accumulation of all individual income from the mobile and immobile factors: Y=M+N. The government of country j generates revenue by taxing the income from the mobile base with a 
+rate of  
+c j, 
+and the income from wage income by  
+l j, 
+, where c in the subscripts stands for capital and l for labour. The government's share of the economy equals 
+ 
+c j j l j j, ,M N 
+ 
+. 
+Following straightforward political economy modelling, the domestic policy maker minimizes a loss function in which taxation of both income types enters positively so that higher taxation augments governments' loss. Capital and labour owners react with certain elasticities ( and respectively) to taxation. Moreover, voters value the provision of public goods but 
+punish the government for creating large deficits so that an increase in the difference between tax based revenue and government spending adds to governments' loss accordingly. Equation (1) formalizes these different influences and displays a government's loss function in a closed economy: 
+Ljg c j l j c j l j c j l j j c j j l j j 
+, , , , , , , ,, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+2 
+ 
+G M N 
+ 
+  
+ 
+2 
+ 
+(1) 
+0 , , 1     
+ denotes the level of equity needs in a society. It depicts how much the difference between the two tax rates influences government's loss in voter support; the larger  the more policy makers must care about tax symmetry in order to satisfy voters' demands. G stands for government spending and an increasing gap between public spending and public revenue  
+c j j l j j, ,M N 
+ 
+impacts the loss positively. 
+18 
+
+========19========
+
+One restriction has to be imposed, though. Governments can only minimize the deficit but 
+they cannot save: 
+G M Nj c j j l j j 
+, , 
+  
+0 
+(2) 
+the inequality in equation (2) must be satisfied for the model to generate a unique solution. To model the strategic interaction between governments in open countries who engage in tax competition the model has to be augmented by one important aspect: capital is assumed to be (partly) mobile between jurisdictions. From this follows that politicians have an incentive to take capital tax rates in other countries into account in order to attract mobile capital from abroad and prevent domestic capital from fleeing the country. Revenue from taxing capital then increases if the tax reduction effect falls short of the tax base effect resulting from inflow of foreign direct investments. The utility of the government is greater than in the closed economy case only if the inequality in equation (3) holds. 
+ 
+ 
+N j 
+c j c j j c j c j c j j, , , , , 
+ 
+M M 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ j1 
+(3) 
+The effect of tax competition is captured by the difference in capital tax rates in the domestic 
+economy j and countries abroad –j. If the domestic capital rate  
+c j, 
+is lower than the tax rate 
+on the mobile factor in the rest of the world  
+ 
+c j, 
+capital flows in. However, in case the 
+domestic tax rate exceeds the tax rate abroad, capital leaves the country. The parameters  
+and  can be interpreted as elasticities of domestic and foreign capital – respectively – 
+towards tax differences16. M denotes domestic capital and M 
+j 
+j 
+stands for foreign capital. 
+As compared to the closed economy case I introduce two different types of domestic capital 
+bases to account for the degree of capital concentration and the de facto capital mobility. M 
+1j 
+denotes a more mobile capital base such as multinational enterprises and their subsidiaries, 
+whereas M 
+2 j 
+depicts less mobile firms which are rather medium sized or small and can be 
+characterized by a lower ability to move capital through jurisdictions. Mobile companies M 
+1j 
+16 
+Theses parameters serve mainly the purpose to ensure that the two tax differences are always positive, so that 
+capital flows in when the domestic tax rate undercuts the foreign tax rate and leaves the economy when the 
+domestic rate exceeds the rate in the rest of the world. 
+19 
+
+========20========
+
+are willing to pay taxes to the degree of  
+1 
+and the less mobile capital basis M 
+2 j 
+accepts 
+taxation with a probability of  
+2 
+.17 Setting  
+1 
+>  
+2 
+implies that it is easier for multinationals 
+to engage in tax arbitrage and for the mobile capital base M 
+1j 
+to leave the country if tax rates 
+on capital are lower abroad. I assume that policy makers cannot differentiate between different degrees of mobility of capital since they can only set one corporate tax rate. The 
+overall elasticity of capital is a weighted mean of the two elasticities  
+1 
+and  
+2 
+. The weights 
+depend on the relative shares of M 
+1j 
+and M 
+2 j 
+in the total capital base. The underlying 
+assumption is  
+1 2 
+   , so that the more mobile tax bases react more strongly to higher tax rates. 
+Shifting capital still induces costs of arbitrage and transport. Hence, more remote countries should be less attractive for capital owners than more similar and less remote trading places. Distance and attractiveness of a location impact the actual willingness of capital to move. Therefore, competitive pressures on governments to lower tax rates on capital should be moderated by these factors. In addition to distance countries which are able to attract mobile capital signal attractiveness to capital owners and success to other governments. Consequently, tax rates in these countries should impact the location decision of capital over- proportionally. I model these effects with two parameters:  denotes the attractiveness of a 
+country capturing both location decisions of capital and learning of policy makers.  
+captures distance and capital restrictions that work both towards hindering capital from moving. Equation (4) presents the loss function for a representative government in an open economy facing a competitive international environment. 
+min c j l j, ,, 
+L 
+j 
+ 
+ 
+1 1 2 2j j 
+M M 
+g c j l j c j l jM M 
+ 
+, , , , 
+   
+1 2j j 
+ 2 
+ 
+ 
+ 
+ 
+G Nj l j j c j , ,  
+ 
+2 
+ 
+ 
+M M 
+ 
+ 
+ 
+ 
+ j j j jM M 
+ 
+ 
+  
+ 
+1 2 , ,j j c j c j 
+ 
+1 1 2 2 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+j 
+ 
+ 
+ 
+  
+ 
+j jM 
+ 
+ 
+ 
+  
+ 
+c j c j, , 
+ 
+ 
+ 
+ j 
+(4) 
+17 
+I linearize the model from the beginning so that  
+1 
+, 
+2 
+and  measure the acceptance of taxation by the 
+two capital bases and wage earners and not elasticities. 
+20 
+
+========21========
+
+0 , , , , , , , 1  1 2       
+(5) 
+Equation (4) combines competitive pressures in international taxation with domestic constraints of governments. Budget rigidity and the strength of voters' equality demands limit the government’s abilities to engage in tax competition. The ability of mobile capital to flee the country and the possibility of attracting foreign capital impact the size of the base a government can collect revenue from. Taxing the larger tax base more heavily still remains reasonable in order to reduce deficit spending. Yet, budget constraints become more severe, ceteris paribus, when mobile capital leaves the country and grow less problematic in case foreign capital is attracted by lower domestic tax rates. From equation (4) the first order conditions for optimal domestic labor and capital tax rates can be derived (See Appendix C for formal derivation). The first order conditions have to be solved simultaneously since capital taxation depends on labour taxation and vice versa. Since this is algebraically impossible I evaluate the impact of changes in different parameters on the optimal choice of capital taxation by simulating possible outcomes for optimal tax rates on both mobile capital and immobile labour. All simulations employ the settings in equation (4). 
+Simulation Results 
+Table 1 depicts the parameter values for variables held constant throughout the different simulations. 
+21 
+
+========22========
+
+Table 1: Parameter Settings for Variables Held Constant Throughout Different Simulations 
+Parameters Table 2 Table 3 Table 4 Table 5 M1j 
+0.2 0.2 0.2 M2j 
+0.2 0.2 0.2 Nj 
+0.3 0.3 0.3 0.3 Mj 
+0.3 0.3 0.3 1 
+0.6 0.6 0.6 2 
+0.3 0.3 0.3 0.3  
+0.2 0.2 0.2 0.2  0.5 0.5 0.5 j 
+0.7 0.5 0.5 
+1j 
+0.5 0.5 0.5 
+2j 
+0.1 0.325 0.3 
+j 
+0.5 0.5 0.5 0.5 j 
+0.5 0.5 0.5 0.5  
+0.5 0.5 0.5 0.5  
+0.5 0.5 0.5 0.5 Gj 
+1 1 1 c j, 
+0.2 0.3 
+j 
+1.4 1 1 
+j 
+1j 
+1 1 1 
+j 
+2j 
+0.2 0.65 0.6 
+j 
+The first simulation generates the optimal capital and labour tax rates contingent upon the domestic factors strength of societal equality demands and size of government spending (table 2). Column 2 in table 1 shows the values of the parameters which remain unchanged for this simulation. 
+22 
+
+========23========
+
+Table 2: Optimal Domestic Capital and Labour Tax Rates Dependent on Government Spending and Strength of Tax Symmetry Considerations in an Open Economy 
+ 
+0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 Gj 
+Optimal capital tax rate 
+0.55 0.08 0.1 0.11 0.11 0.11 0.12 0.12 0.12 0.12 0.12 0.6 0.1 0.12 0.13 0.13 0.13 0.14 0.14 0.14 0.14 0.14 0.65 0.12 0.14 0.15 0.15 0.15 0.15 0.15 0.15 0.15 0.16 0.7 0.14 0.15 0.16 0.16 0.16 0.16 0.16 0.16 0.17 0.17 0.75 0.15 0.16 0.17 0.17 0.17 0.17 0.17 0.17 0.17 0.17 0.8 0.16 0.17 0.17 0.17 0.18 0.18 0.18 0.18 0.18 0.18 0.85 0.16 0.17 0.18 0.18 0.18 0.18 0.18 0.18 0.18 0.18 0.9 0.17 0.18 0.18 0.18 0.18 0.18 0.18 0.18 0.18 0.18 0.95 0.17 0.18 0.18 0.18 0.18 0.18 0.4 0.41 0.41 0.42 1 0.18 0.18 0.18 0.42 0.44 0.45 0.46 0.46 0.47 0.47 Gj 
+Optimal labour tax rate 
+0.55 0.32 0.24 0.21 0.19 0.17 0.17 0.16 0.16 0.16 0.15 0.6 0.39 0.29 0.25 0.23 0.21 0.21 0.2 0.19 0.19 0.18 0.65 0.46 0.35 0.3 0.27 0.25 0.24 0.23 0.22 0.21 0.21 0.7 0.54 0.41 0.35 0.31 0.28 0.26 0.25 0.24 0.24 0.23 0.75 0.62 0.46 0.39 0.34 0.32 0.29 0.28 0.27 0.26 0.25 0.8 0.7 0.52 0.43 0.38 0.35 0.32 0.31 0.29 0.28 0.27 0.85 0.78 0.57 0.47 0.41 0.37 0.35 0.32 0.31 0.3 0.28 0.9 0.86 0.62 0.51 0.44 0.4 0.37 0.34 0.32 0.31 0.3 0.95 0.94 0.68 0.55 0.47 0.42 0.39 0.54 0.54 0.52 0.52 1 0.99 0.73 0.59 0.68 0.65 0.63 0.61 0.6 0.59 0.58 
+As depicted in table 2 both optimal domestic capital and labour tax rates increase with the size of public spending. Yet, the effect is larger for taxation of labour because wage earners are less mobile than capital and react less strongly when the labour tax rate goes up. Moreover, societal equity norms exert a strong impact on both tax instruments. Governments tax capital more heavily if symmetry demands become stronger and labour taxation declines with higher equality expectations resulting in a reduction of the gap between the two tax instruments. Again, this effect is stronger for labour taxation originating from the fact that keeping the domestic capital tax rate below the foreign tax rate of 0.2 is rational for policy makers in order to attract capital. However, if domestic constraints are very strong, if the budget is very rigid and tax symmetry demands are dominant (see the grey shaded area in table 2) undercutting the foreign capital tax rate becomes impossible and would cut government support significantly. As a consequence, the optimal domestic capital tax rate exceeds the foreign rate and the government must significantly raise both capital and labour taxation to compensate 
+23 
+
+========24========
+
+for capital outflows. Despite this development, increasing budget rigidities and strong equity demands exert the earlier discussed effects.18 
+In the next step, I analyze the dependence of optimal taxation on the structure of domestic capital. To do so, I alter the relative sizes of the more mobile domestic tax base M1 and the less mobile base M2. Additionally, I change the relative willingness of the more mobile firms 
+to pay taxes  
+1 
+. A larger  
+1 
+indicates that these firms react more strongly to higher tax rates and become more willing to engage in tax evasion. Column 3 of table 1 depicts the values of unchanged parameters. Table 3 provides the simulation results for changes in the domestic capital structure and the reaction parameter of the more mobile base: 
+Table 3: Optimal Domestic Capital and Labour Tax Rates Dependent on the Mobility of M1 and the Relative Sizes of the More and Less Mobile Capital Bases 
+1 
+0.4 0.6 0.8 1 M M1 2j j/ 
+Optimal capital tax rate 
+0.5/0.01 0.29 0.28 0.25 0.21 0.4/0.1 0.29 0.28 0.27 0.24 0.3/0.2 0.29 0.28 0.28 0.26 0.2/0.3 0.29 0.29 0.28 0.28 0.1/0.4 0.29 0.29 0.29 0.29 0.01/0.5 0.62 0.61 0.6 0.6 M M1 2j j/ 
+Optimal labour tax rate 
+0.5/0.01 0.51 0.5 0.48 0.45 0.4/0.1 0.51 0.5 0.49 0.47 0.3/0.2 0.51 0.5 0.5 0.49 0.2/0.3 0.51 0.51 0.5 0.5 0.1/0.4 0.51 0.51 0.51 0.51 0.01/0.5 0.76 0.76 0.75 0.75 
+Two predictions can be immediately drawn from the results in table 3. First, the more strongly the mobile tax base M1 reacts to capital taxation the lower the government’s optimal capital tax rate. This effect becomes stronger the larger the more mobile base M1 as compared to the less mobile capital base M2. Thus, if multinationals and their subsidiaries dominate the domestic economy, governments have to be more careful in setting the capital tax rate and must worry about possible capital outflows due to arbitrage activities. Consequently, the larger the share of more mobile firms the higher the average de facto capital mobility and the 
+18 
+In case the competitive pressure is eased, it is always rational for the domestic government to undercut 
+foreign tax rates on capital. See Tables A1 and A2 in the appendix for simulation results. 
+24 
+
+========25========
+
+lower the optimal domestic capital tax rate. In most situations it is rational for the domestic fiscal authority to undercut the foreign capital tax rate or set a domestic rate close to the foreign rate in order to avoid an outflow of mobile capital. This is especially true if the international tax competition is not too fierce and tax symmetry demands and budget rigidities are not too high. 
+In case the share of the more mobile base M1 becomes small as compared to the less mobile base M2 (grey shaded area in table 3) undercutting the international rate is no longer advisable because small and medium firms react less elastically to tax differences and capital outflows are restricted. Still, the government must counterbalance even the restricted capital outflows by higher tax rates for both mobile and immobile factors. 
+Tables 2 and 3 jointly demonstrate that fiscal externalities induce a tax system effect. Since the mobility of all forms of capital exceeds the mobility of labour and wage earners react less strongly to higher taxation, tax competition leads to a shift of some of the burden to the immobile factor. This trend, however, highly depends on domestic factors such as public spending and the need for tax symmetry. 
+I now turn to discussing the influence of international factors on optimal domestic tax policy making. The level of capital tax rates abroad determines the severity of international tax competition. Tax setting in other countries determines how easy it is for domestic policy makers to attract capital and how far they can go to prevent domestic capital from leaving the country. In table 4, I change two international variables, the foreign tax rate imposed on mobile capital and the size of the capital base that can be attracted from abroad. Column 4 in table 1 displays the constant values for the other parameters in the model. 
+For the given domestic settings governments do not always have the ability to undercut tax rates abroad and engage in tax competition. If domestic constraints are too severe the price of playing the tax competition game would be too high with respect to voter support (grey shaded area). If countries engage in tax competition, optimal capital taxation declines in accordance with reductions of tax rates abroad. This effect is the stronger the larger the foreign capital bases. Fiscal authorities tend to undercut foreign capital tax rates the more, the bigger the pie from which they can obtain slices by engaging in tax competition. 
+The same effect can be observed for optimal domestic labour taxation which is mainly a result of the tax symmetry demands that force labour taxation down if capital tax rates decrease. 
+25 
+
+========26========
+
+Moreover, budget rigidities put the screws on governments to generate revenue mostly by taxing wages since wage earners are much less mobile. 
+Table 4: Optimal Domestic Capital and Labour Tax Rates Dependent on the Capital Tax Rate Abroad and the Size of the Foreign Capital Basis 
+c j, 
+0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 0.5 0.6 
+Mj 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 0.45 0.5 Mj 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 0.45 0.5 
+0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 
+0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 
+0.58 0.58 0.58 0.58 0.58 0.58 0.58 0.58 0.58 0.58 
+0.58 0.58 0.58 0.58 0.58 0.58 0.58 0.58 0.58 0.58 
+Optimal capital tax rate 
+0.33 0.2 0.25 0.3 0.35 0.4 0.49 0.58 0.33 0.2 0.25 0.29 0.34 0.39 0.48 0.56 0.33 0.19 0.24 0.29 0.34 0.38 0.47 0.54 0.33 0.19 0.24 0.29 0.33 0.38 0.45 0.52 0.33 0.19 0.24 0.28 0.33 0.37 0.44 0.5 0.33 0.19 0.24 0.28 0.32 0.36 0.43 0.49 0.33 0.19 0.23 0.27 0.32 0.35 0.42 0.48 0.33 0.19 0.23 0.27 0.31 0.35 0.41 0.47 0.33 0.18 0.23 0.27 0.31 0.34 0.41 0.46 0.33 0.18 0.22 0.26 0.3 0.34 0.4 0.46 
+Optimal labour tax rate 
+0.57 0.47 0.5 0.53 0.56 0.6 0.65 0.71 0.57 0.47 0.5 0.52 0.56 0.59 0.64 0.69 0.57 0.46 0.49 0.52 0.56 0.58 0.64 0.68 0.57 0.46 0.49 0.52 0.55 0.58 0.62 0.66 0.57 0.46 0.49 0.51 0.55 0.57 0.61 0.64 0.57 0.46 0.49 0.51 0.54 0.56 0.6 0.63 0.57 0.46 0.48 0.5 0.54 0.55 0.59 0.62 0.57 0.46 0.48 0.5 0.53 0.55 0.58 0.61 0.57 0.45 0.48 0.5 0.52 0.54 0.57 0.6 0.57 0.45 0.47 0.49 0.52 0.54 0.56 0.59 
+In a final stage I analyze the theoretical effect the attraction parameters have on capital flows 
+and domestic taxation.19 Table 5 shows simulation results for different values of  
+j 
+measuring the attractiveness of other countries including the willingness and ability of 
+domestic firms to move capital and  
+j 
+depicting the attractiveness of the domestic economy 
+for foreign capital, as well as different foreign capital tax rates. Column 5 in table 1 again displays the parameter settings for the variables held constant throughout the simulations. 
+Because the distance and capital restriction parameters ( 
+j 
+and  
+j 
+) remain unchanged only 
+19 
+I combine  
+1  j 
+and  
+2  j 
+into one parameter  
+j 
+since the two capital bases have the same size and the 
+combined parameter is then just the mean of  
+1  j 
+and  
+2  j 
+. 
+26 
+
+========27========
+
+j 
+and  
+j 
+account for differences in willingness and ability to move capital through 
+jurisdictions. 
+Table 5: Optimal Domestic Capital and Labour Tax Rates Dependent on the Capital Tax Rate Abroad and on the Attractiveness of the Foreign and the Domestic Economy 
+c j, 
+0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 0.5 0.6 
+Optimal capital tax rate 
+0.67 0.56 0.43 0.33 0.25 0.19 
+0.67 0.56 0.44 0.33 
+0.66 0.56 0.44 
+0.66 0.56 
+0.66 0.65 0.3 0.33 0.4 0.45 0.55 0.26 0.3 0.34 0.4 0.46 
+0.44 0.23 0.27 0.31 0.35 0.41 0.47 
+0.33 0.19 0.23 0.27 0.31 0.35 0.42 0.48 
+0.25 0.14 0.19 0.24 0.28 0.32 0.36 0.43 0.49 
+0.19 0.14 0.19 0.24 0.28 0.33 0.37 0.44 0.51 0.15 0.1 0.15 0.19 0.24 0.29 0.34 0.38 0.46 0.53 0.12 0.1 0.15 0.2 0.24 0.29 0.34 0.39 0.48 0.55 0.1 0.1 0.15 0.2 0.25 0.3 0.35 0.39 0.49 0.58 
+Optimal labour tax rate 
+0.79 0.73 0.65 0.58 0.52 0.48 
+0.79 0.73 0.65 0.58 
+0.78 0.73 0.65 
+0.78 0.73 
+0.78 0.77 0.51 0.53 0.56 0.58 0.72 0.49 0.52 0.54 0.57 0.59 
+j j/ 0.9/0.1 0.8/0.2 0.7/0.3 0.6/0.4 0.5/0.5 0.4/0.6 0.3/0.7 0.2/0.8 0.1/0.9 j j/ 0.9/0.1 0.8/0.2 0.7/0.3 0.6/0.4 0.5/0.5 0.4/0.6 0.3/0.7 0.2/0.8 0.1/0.9 
+0.65 0.48 0.5 0.53 0.55 0.58 0.61 
+0.57 0.46 0.48 0.5 0.53 0.55 0.59 0.62 
+0.52 0.43 0.46 0.49 0.51 0.54 0.56 0.6 0.63 
+0.48 0.43 0.46 0.49 0.51 0.55 0.57 0.61 0.65 0.45 0.4 0.44 0.46 0.49 0.52 0.55 0.58 0.63 0.67 0.43 0.4 0.44 0.47 0.49 0.52 0.56 0.59 0.64 0.69 0.41 0.4 0.44 0.47 0.5 0.53 0.56 0.59 0.65 0.71 
+The grey shaded area in table 5 depicts instances in which a government cannot engage in tax competition and must maintain capital tax rates well above the international capital tax rate. The reason for this is twofold. On the one hand, domestic restrictions keep policy makers from underbidding foreign capital tax rates if these are very low and tax competition becomes too brutal. On the other hand, governments can impose higher tax rates without loosing large parts of the domestic capital base if other countries do not appear to be very attractive and firms have a strong home bias. Yet, the larger the incentive for mobile capital to leave the country the more governments try to mach the foreign tax rate in order to prevent capital from 
+fleeing (see columns 2 and 3 in table 7). 
+Another mechanism can be observed as well: in case fewer domestic constraints and less severe tax competition enable domestic policy makers to undercut the foreign capital tax rate, they do so the higher the attractiveness of the own country and the less able or willing 
+27 
+
+========28========
+
+domestic capital is to leave (columns 3 – 10 in table 7). Thus, the stronger the signal of another country displaying its capability to attract FDI, the stronger the tax competition effect for the domestic economy. As a consequence if a domestic government faces a successful country it should adapt its own tax policy much more to the tax policy of this country than to tax policy making in other countries. The simulation results in table 7 also suggest that the government’s interest lies mostly in keeping mobile tax bases from leaving the country. The combined effect of tax rates on mobile factors abroad, attractiveness of other countries, and the share of highly mobile capital in the domestic economy shape the severity of tax competition. 
+Hypotheses 
+The sketched political logic of domestic taxation leads to clear predictions of my theoretical model. These propositions result from the differences in and the simultaneous influence of the strength of domestic budget rigidities, tax symmetry considerations and the ownership structure of the domestic capital base. The following hypotheses can be derived from the formal theoretical model: 
+H1: Capital tax rates set in other countries exert a positive effect on capital tax rates in the domestic economy (tax competition effect). In addition there is a positive tax competition effect on the domestic labour tax rate. 
+H2: Foreign attractiveness and the willingness and ability of domestic capital to move increase the tax competition effect. Therefore, policy makers adapt domestic tax policy closer to countries successful in attracting mobile tax bases. 
+H3: The presence of societal demands for tax symmetry counterbalances the tax competition effect. The stronger the equality needs of the electorate, ceteris paribus, the higher domestic capital tax rates, the lower domestic labour tax rates and the smaller the gap between capital and labour tax rates. 
+H4: Budget rigidities counteract the downward pressure of international tax competition. Higher government spending induces both domestic capital and labour tax rates to rise and has a slight increasing effect on the tax ratio.20 
+20 
+In a dynamic 3 country model Plümper et. al (2008) even can conclude that a combination of both budget 
+constraints and fairness norms reduces the severity of tax competition (if all governments are constraint) or 
+the ability of countries to compete (if some governments are constraint). 
+28 
+
+========29========
+
+H5: A higher domestic share of highly mobile capital increases the de facto capital mobility and, thus, exerts a downward pressure on the domestic capital tax rate which widens the gap between capital and labour taxation. 
+Table 6 gives a summary of all predictions generated by the formal theoretical model. These predictions are put to a quantitative empirical test in the next chapter. 
+Table 6: Summary of Hypotheses21 
+Capital Taxes Labour Taxes Tax ratio 
+Labour/capital Equity needs + – – – – Share of highly mobile – NA + capital 
+Spending/ budget rigidities + + + + Tax competition + + + + Foreign 
+attractiveness*foreign tax + + + NA rate 
+5. Empirical Analysis 
+Levels of domestic tax rates on capital and labour are the result of strategic interaction between governments and domestic trade-offs politicians face while making decisions. This political logic has to be translated into the appropriate statistical model in order to test the underlying mechanisms. The quantitative model I am proposing accounts for strategic interaction between governments, but allows policy makers to weight tax rates set in other jurisdictions differently. I subject the theoretical arguments of the previous section to a rigorous empirical test by examining the hypotheses quantitatively with yearly data for 23 OECD countries over thirty years (1975 – 2004).22 The empirical analysis should provide evidence to whether the arguments brought forward find support in the real world. 
+21 
++ positive effect, ++ strong positive effect, – negative effect, – – strong negative effect, NA – no predicted 
+effect. 
+22 
+This sample is significant larger than samples used in earlier analyses of domestic taxation especially in 
+terms of included countries. Most studies include 12-14 OECD countries dependent on the endogenous 
+variables used (see Hays 2003, Swank and Steinmo 2002, Basinger and Hallerberg 2004). The 23 countries 
+are: Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Greece, Iceland, Ireland, 
+Italy, Japan, Luxembourg, the Netherlands, Norway, New Zealand, Portugal, Spain, Sweden, Switzerland, 
+the UK, and the US. Due to missing values in the OECD National Account Statistics I was unable to compute 
+effective capital tax rates for Japan. The maximal number of observations is 688 for effective labour tax 
+rates, 689 for top corporate tax rates, 638 for effective capital tax rates and 637 for the tax ratio. For 
+29 
+
+========30========
+
+The statistical approach models the strategic nature of the tax competition game by employing a spatial panel data approach where included spatial lags of the dependent variable are instrumented to control for possible endogeneity bias. As Franzese and Hays (2007) argue, including spatial lags is necessary for examining the strategic effects of tax competition. Not incorporating this important aspect leads to upward biased coefficients of domestic effects (Franzese and Hays 2007). Using spatial capital tax lags as an additional explanatory variable, though, creates an endogeneity problem because tax rates on mobile factors in one country hinge on tax rates in other jurisdictions and vice versa. Not taking adequate measures to control for endogeneity might lead to a downward bias of domestic effects (Franzese and Hays 2007). By estimating a two stage least squares (2SLS and spatial MLE) model including spatial tax lags instrumented with adequate economic and political variables the econometric model specifically addresses spatial interdependence and possible endogeneity problems. I do not treat the spatial lag variable as merely nuisance because I am interested in the substantial effects of foreign capital taxation. Accordingly, I employ not only arbitrarily weighted spatial lags but theoretically informed weights following work of Franzese and Hays (2007) and Basinger and Hallerberg (2004). These substantial weights also allow testing the hypothesis that governments learn from countries successful in attracting foreign capital bases. I formalize the learning aspect by suggesting that policy makers learn from countries which prove to be successful in attracting mobile capital.23 
+Most empirical studies only analyze capital tax rates and neglect the effect of international pressure on the tax system and taxation of the immobile factor. As discussed in the theoretical section, only a simultaneous analysis of tax rates on mobile and immobile sources can provide a satisfactory account of the emergence of different tax systems across OECD countries. 
+Luxembourg and Iceland I could not gather information for some right hand side variables. Italy does not 
+provide information on political variables and for Switzerland no data on executive constraints was available. 
+Some economic variables only start in 1980 or don't have observations after 2000. I only look at advanced 
+economies for two reasons. First, the theoretical argument is tailored to democratic regimes where the 
+government depends on voter support in order to stay in office. All OECD member states adhere to 
+democratic norms and rules. They are similar enough for the theoretical model to be applicable, yet, divers 
+enough to provide sufficient variance for employing inference-statistical techniques. Second, information 
+needed for calculating efficient tax rates on capital and labour are only available in a comprehensive way for 
+OECD member states. Third, adequate data for operationalizing societal demands for tax symmetry as well 
+as the domestic capital structure can be obtained solely for these countries. 
+23 
+Moreover, I suggest that governments care more about policy making in geographically closer jurisdictions. 
+I, thus, use foreign direct investment, the capital formation, GDP per capita (Basinger and Hallerberg 2004) 
+and distance as weights for the spatial lags of capital tax rates. Do to space constraints these results are 
+available from the author upon request. 
+30 
+
+========31========
+
+Since the theoretical arguments apply not only to capital taxation but also labour taxation and the ratio between labour and capital taxation, I run separate empirical tests for these different dependent variables. I also use different operationalizations of the dependent capital tax rate as to take different aspects of the theoretical predictions into account. Various sets of political and economic control variables are included to assess the robustness of the estimation results. In order to examine the predictions with regard to domestic constraints and voter preferences, I incorporate government spending, tax symmetry considerations and measures for the de facto mobility of the domestic capital into the right hand side of the econometric model. Furthermore, I control for political and institutional variables found to exert a significant impact on capital taxation (Hays 2003, Basinger and Hallerberg 2004). 
+Even though I include a variety of domestic factors into the right hand side of the estimation equation, the probability remains relatively high that other cultural or institutional variables – unique to each country but immeasurable – influence policy outcomes and are correlated with other right hand side variables. In order to control for country specific effects I include country dummies to the explanatory side of the statistical model. I add country fixed effects despite the widely discussed disadvantages of doing so (Beck and Katz 2001, Plümper et al. 2005, Plümper and Troeger 2007). On the one hand not including fixed effects can induce serious bias if explanatory variables are correlated with the country specific effects. On the other hand including fixed effects can produce highly inefficient and, thus, unreliable point estimates (Plümper and Troeger 2007). Acknowledging the arguments in these debates, I estimate a fixed effects model for two reasons: First, the Hausman-test (Hausman 1978) suggests that not employing fixed effects could bias the estimation results and second, all interesting explanatory variables are characterized by a large enough within standard deviation.24 
+I estimate all models for capital, labour taxation and the tax ratio in levels,25 based on the following thoughts: The theory presented in the previous section suggests that governments 
+24 However, as Plümper and Troeger (2007) show the performance of the FE estimator mainly depends on the 
+ratio of between to within SD of the explanatory variables. Some of the explanatory variables, e.g. the ISSP 
+variable, government consumption, trade openness and share of elderly people have a substantially larger 
+between than within SD. I therefore also estimate the fixed effects vector decomposition model (Plümper/ 
+Troeger 2007) where these variables are included into the second stage of the FEVD model. The main 
+conclusions, however, remain unchanged. 
+25 Researchers looking at reactions to tax reforms abroad normally employ a differenced dependent variable 
+(Basinger and Hallerberg 2004). In comparison, analysing governments' decisions about actual taxation 
+requires the use of tax rates in levels (Plümper et al. 2008, Hays 2003). 
+31 
+
+========32========
+
+orient their tax policy decisions at levels of tax rates set in other countries. It is not only the case that domestic policy makers react to tax reforms – thus changes in tax rates abroad – but they also slowly adapt the domestic tax rates to tax levels dominating the international competition. Looking at changes would prevent testing this part of the story. Moreover, it would be neither reasonable nor manageable for governments to react to every tax reform implemented in other countries. Yet, they react to the overall level of taxation abroad.26 Another problem occurs as the Wooldridge test (Wooldridge 2002) for serial correlation in the idiosyncratic errors of a linear panel data model reveals that the estimation suffers from arbitrary serial correlation. Moreover, the Pagan and Hall (1983) test of heteroskedasticity for instrumental variables estimation as well as the Breusch-Pagan (1979) and Cook-Weisberg (1983) tests for heteroskedasticity in linear regressions indicate that we face arbitrary heteroskedasticity in both stages of the estimation model.27 To control for theses problems I implement heteroscedastic and autocorrelation consistent (HAC) Newey-West type (Newey and West 1987) standard errors and variance-covariance estimates. Doing so accounts for the increased inefficiency of the estimation caused by spatially and/or timely correlated observations of the residuals. 
+The specification of the empirical model accounts for major problems in the data generating process and the characteristics of the variables, such as spatial interdependence and endogeneity. I am confident that the employed statistical specifications create sound and reliable estimation results which help to shed additional light on the discussion of tax policy making under international pressures. 
+Variables 
+Since I want to explain the effects of international tax competition and domestic factors on both the capital taxation and the tax system simultaneously, I analyze labour tax rates, capital tax rates and the ratio of labour taxes divided by capital taxes to account for tax system effects. Estimation results can be contingent on the operationalization of the dependent variable. In order to avoid this problem I employ two different measures to account for taxation of mobile capital: First, I use average effective tax rates as proposed by Mendoza et 
+26 From an econometric point of view using levels and not differences reduces the sensitivity of the results to 
+the right lag structure which increases the probability of producing sound regression results (Plümper et al. 
+2005). 
+27 See also Koenker (1981), White (1980), Godfrey (1978). 
+32 
+
+========33========
+
+al. (1994) and further developed by Volkerink and De Haan (2001). And second, I analyze marginal corporate tax rates which can be gathered from the World Tax Database and the OECD.28 
+For operationalizing tax rates on wage income, I follow the suggestion of Volkerink and De Haan (2001) who provide a method to calculate effective tax rates on labour. In this case I do not use marginal personal income tax rates as personal taxes are not only based on wage income but also on capital income, e.g. distributed corporate profits. Accordingly, only average effective tax rates allow a direct comparison between capital and labour tax burdens. Therefore, I also employ average effective labour and capital rates to compute the tax ratio which approximates the implemented tax system.29 
+In order to account for tax competition effects I include instrumented spatial lags of effective capital tax rates into the right hand side of models using effective tax rates as dependent variable and spatial lags of top corporate rates for models with marginal tax rates as left hand side variable. The spatial lags are either arbitrarily weighted by just taking averages of all foreign tax rates per year or substantially weighted by FDI operationalized FDI as actual net inflows of foreign direct investment as percentage share of GDP to account for the signalling effect (WDI 2006).30 
+I proposed two variables for the operationalization of de facto capital mobility: First, the stock of foreign direct investment in a country – as opposed to actual flows of foreign direct investments – seems to be a good approximation of the share of highly mobile capital in an 
+28 For cases where data from both sources is available the tax rates correspond perfectly. I, therefore use OECD 
+data mainly to fill in missing values in the data gathered from the World Tax Database. Effective tax rates are 
+widely used in research on tax competition because they allow not only comparing capital and labour 
+taxation but they also account for tax-cut-cum-base-broadening strategies. Still, the employment of this 
+measure remains not uncontested. Especially information on national tax revenue used to compute effective 
+tax rates is often considered inadequate to capture real taxation. Devereux et al. (2002) give an exhaustive 
+overview over advantages and disadvantages of analyzing effective tax rates. I try to overcome these 
+critiques by using both effective and statutory tax rates to operationalize capital tax burdens. Statutory tax 
+rates serve as a signal for effective tax rates. Tax-cut-cum-base-broadening policies are widely applied by 
+governments in order to react to international tax competition pressures and counterbalance possible revenue 
+losses. Consequently, the effect of tax competition for marginal corporate tax rates should be stronger than 
+for effective capital tax rates since effective tax rates account for base broadening strategies such as reducing 
+the possibilities of tax exemptions. 
+29 
+See Appendix B for a discussion of the calculation of Average effective tax rates. 
+30 
+One might say that FDI inflows are endogenous to domestic capital tax rates and therefore the weight is 
+endogenous to the spatial lag. This is certainly true, yet, this endogeneity still wouldn't bias the coefficient of 
+the spatial lag but only render the estimation a less efficient. 
+33 
+
+========34========
+
+economy. We can obtain data on FDI stocks from the UNCTAD31. Moreover, in order to test robustness of the relationship I include the percentage share of multinationals in national turnover which is available from the OECD Globalization database. Including these variables raises the question of the direction of causality and possible endogeneity. The major problem is to empirically distinguish whether capital tax rates are reduced because governments face high de facto mobility of domestic capital bases or whether they are able to attract FDI by reducing capital tax rates. Looking at stock rather than flow variables, resolves the problem at least partially. Stock variables are much stickier than flow variables and should react to changes in tax rates only with a substantial time lag. Since governments can decide at any time to reform taxation and are therefore highly flexible, I expect the direction of causality to go from 'share of highly mobile capital in an economy' to 'governmental decisions about tax rates'. Furthermore, I conduct endogeneity tests (Wu-Hausman and Durbin-Wu-Hausman) for both variables which detect borderline significant endogeneity of both factors if included contemporaneously. Lagging both variables by one year leads to a rejection of the Null- Hypothesis of endogeneity and we can conclude that both variables are at least statistically exogenous.32 
+Societal demands for tax symmetry and their strength are measured by survey data from the International Social Surveys Program (ISSP). Specifically I use the country means (medians) and standard deviations of the answers to the question whether "it is the responsibility of the government to reduce the differences in income between people with high incomes and those with low incomes".33 This question was asked in both the Role of Government Surveys I, II and III which took place in 1985, 1990 and 1996 and the Social Inequality Surveys I, II, and III in 1987, 1992 and 1999. These surveys cover between 6 and 24 OECD and Non-OECD countries and offer, therefore, sufficient variation across space and time.34 To increase the number of observations and as a robustness check I also use the pre-tax Gini coefficient measuring income inequality provided by Mahler and Jesuit (2006, Fiscal Redistribution Data Set) which is based on data from the LIS project (Luxembourg Income Study). The Gini 
+31 United Nations Conference on Trade and Development (2006): Foreign Direct Investment Database 
+32 Yet, we know that endogeneity tests are very sensitive to specification and produce highly volatile results 
+contingent on included instruments and other features of the model (Sanders and Troeger 2008). 
+33 The answering categories are 1 – strongly agree, 2 – agree, 3 – neither agree nor disagree, 4 – disagree, 5 
+strongly disagree, so that a lower value indicates a higher demand for redistribution. 
+34 Yet, only 17 of the 23 countries in the sample are covered at most. 
+34 
+
+========35========
+
+coefficient ranges between 0 and 1, whereby 0 indicates complete equality – all members of society dispose of the same share of income – and 1 denotes complete inequality – one individual receives all income. Since this data is only available for 13 OECD countries and up until 2002, I use own calculations with data from the LIS project and the University of Texas Inequality Project (UTIP 2002) to fill in the missing values.35 In addition I measure fiscal redistribution as absolute difference between the Pre-government-intervention and the post- government-intervention Gini coefficients. Government intervention includes taxation and transfers via the social security and pension systems.36 Fiscal redistribution highly covaries with the ISSP data measuring the electoral demand for income redistribution. 
+Final government consumption expenditure as percentage share of GDP proxies budget rigidities (OECD 2006). Lagging the variable one year ensures that governments orient taxation at previous spending and do not spend more because they collected higher tax revenue. The latter relationship is rather implausible since government consumption remains very sticky and largely depends on prior commitments. Endogeneity tests confirm that one year lagged government consumption can be considered as exogenous and estimation results are unlikely to be biased. 
+In addition to the main interesting explanatory variables I include some economic, political and institutional control variables that have been found to be theoretically interesting or to exert a statistically significant impact on domestic taxation. I add the one year lagged domestic unemployment rate, the one year lagged annual growth rate of GDP to account for economic size and wealth effects and the population share of elderly people (all WDI 2006). I also control for trade openness (overall trade as percentage of GDP) and overall legal restrictions to capital mobility (Quinn 1997). In addition, I add the partisanship of government to the right hand side of the model (Keefer 2005) and control for executive constraints to policy making (Henisz 2005). Finally, I include a trend variable to capture dynamic effects. 
+35 
+Admittedly, this is not a perfect match of equity norms enrooted in a society, yet, these measures give us an 
+idea of how much inequality a society does allow and how much governments feel obliged to decrease the 
+initial inequality. We would expect for example that initial inequality as well as fiscal redistribution is much 
+lower in liberal market economies than in social democratic welfare states. 
+36 One might argue that this variable measures output of government intervention and is, therefore, likely to be 
+endogenous to the dependent variables. Yet, this measure does not only account for redistribution via taxes 
+but also via other transfers via pension and social security systems. From this perspective absolute 
+redistribution should present at least some indication for the pressure put on governments by society in terms 
+of equality demands. 
+35 
+
+========36========
+
+A proper estimation of the 2SLS model requires adequate instruments uncorrelated with the error term but highly correlated with the endogenous variables – the differently weighted spatial lags of the capital tax rate. Following standard tax competition reasoning, I use mainly economic variables known to influence capital taxation as instruments. Since the endogenous right hand side variable is the differently weighted spatial lag of capital taxation, I construct spatial lags of all instruments with according weights. Thus, instruments for the FDI weighted spatial lag are also FDI weighted and in case the spatial capital tax lags are weighted with distance the instruments are as well. Specifically, I employ the spatial lags of the 'Quinn- measure' (Quinn 1997) for capital mobility the pre-tax Gini coefficients (LIS, UTIP), the GDP per capita, Government consumption as percentage of GDP, trade openness and total population (all WDI) as instruments. As mentioned earlier, from this list I only include those instruments into the first stage regression that pass the Hansen-Sargan test for over- identification and the redundancy test for instruments. 
+Empirical Results 
+Table 1 displays the estimation results for capital taxation (The results for corporate taxation can be found in Appendix A, table A3). Both the Wu-Hausman test for endogeneity of the spatial tax lags and the Anderson statistic for relevance of instrumental variables suggest that the model choice is adequate and coefficients should be free from endogeneity bias. The R- squared is overall relatively high implying a good model fit. Country fixed effects are jointly significant in all models and an exclusion of fixed effects might induce omitted variable bias. Substantially, the empirical findings support the main theoretical predictions. In particular, the pre-tax Gini coefficient exerts a negative and highly significant impact on both effective capital rates and marginal corporate rates throughout all eight models regardless of the weighting of the spatial lag. The higher the pre-government inequality permitted by a society the lower the taxes on capital. More importantly the other equality variable – absolute redistribution – exerts a significant positive impact on capital and corporate taxation throughout. The results for the ISSP survey measure support this finding. The higher the demand for redistribution (lower value) the lower the tax rate on capital. Yet, the larger the dispersion of the answers throughout respondents the more leeway the government enjoys and the lower is the tax rate on capital. Policy makers can engage more strongly in tax competition since the demand for income redistribution highly varies for different parts of the electorate. Overall, if demands for tax symmetry are stronger in a society and voters require a 
+36 
+
+========37========
+
+higher level of equality, governments have to factor this societal need into their policy making by increasing redistribution and they do so by not reducing tax rates on capital. Since international tax competition exerts a downward pressure especially on capital taxation, the demand for more equality and higher tax symmetry counterbalances this effect by putting an upward pressure on capital tax rates. This conforms strongly with the theoretical argument. The impact of highly mobile capital dominating the domestic economy reveals an equally clear picture. Models 1, 2, 4 and 5 include the one year lagged stock of foreign direct investment and Model 3 the one year lagged turnover produced by multinationals. Endogeneity tests indicate no problems of including these one year lagged variables. Both, the FDI stock and turnover of multinationals have a negative and significant effect on capital taxation. Governments have not only to be concerned with attracting mobile capital from abroad to enlarge the domestic tax base, they also try to prevent capital from leaving their jurisdictions to find better conditions elsewhere. Both, effective capital rates and statutory corporate rates (see table A3 in Appendix A) are reduced if the share of highly mobile capital in the domestic economy goes up and, thus, the average de facto mobility increases. Multinationals and their subsidiaries can much more easily profit from tax arbitrage and, hence, governments try to provide them with favourable conditions. This has two effects, preventing capital from fleeing allows gathering at least some revenue and a higher capital endowment per unit labour augments the productivity of labour and fosters employment. If public spending is high governments need to levy tax revenue in order to avoid public deficits. Government spending might remain on high levels due to stickiness of the budget or induced by more severe pressure on social security funds. The need to gather revenue causes governments not to implement tax reducing reforms in order to comply with international pressures and maintain higher tax rates on capital as compared to countries with lower budget rigidities. Rigid public spending, which is sticky and cannot easily be cut down, reduces the ability of policy makers to engage in international tax competition. 
+The effect of the spatial capital lag on effective capital tax rates clearly supports the theoretical predictions. The arbitrarily weighted spatial lag is positive but turns out to be only marginally significant in Model 1. This indicates that governments care about tax policy abroad; however, they cannot take the tax rates of all other countries equally into account. If we weight the foreign effective capital rates by FDI inflows, the coefficient turns out to be 
+37 
+
+========38========
+
+highly significant and positive (Models 2 - 5).37 This finding lends strong support to the idea that policy makers learn from successful players and adapt their own capital tax rates to those in jurisdictions where governments are able to attract mobile capital. Policy makers also keep domestic tax rates closer to successful countries to prevent capital from moving there. Domestic firms might use the ability of other countries to attract capital as decision making device for their own location choices. 
+Turning to the interpretation of the control variables, we can conclude that higher unemployment rates decrease capital taxation in all models and the coefficient for unemployment turns out to be significant for effective capital tax rates. This rather sustains the argument that unemployment creates an incentive for governments to engage in tax competition in order to benefit from the employment effects of additional capital (Huang 1992). Economic growth seems to increase effective and statutory rates. Nevertheless, only the effect on effective capital taxation turns out to be significant, indicating that faster growing economies do not have to engage in wasteful tax competition. The domestic economy is doing well and mobile capital needs higher incentives in terms of tax differences to leave the country. The share of elderly people significantly pushes the effective rate on capital upwards supporting the compensation hypothesis. Globalization boosts the demand for public compensation of external risks and puts pressure on the social security systems. Accordingly, governments need to collect more tax revenue in order to finance the higher demand for public goods. 
+Surprisingly, the overall levels of legal restrictions to capital account transactions as well as trade openness do not impact the decision on capital taxation significantly. The same holds true for the time-trend variable and the partisanship of the government. Only institutional constraints to the executive seem to exert a positive significant effect on capital tax rates. This finding supports the arguments of the veto player literature holding that governments who face stronger constraints are less able to engage in international competition for mobile capital (Basinger and Hallerberg 2004). 
+Testing the implications of the formal model for capital tax rates lends strong empirical support to the theoretical predictions. Final tax policy outcomes depend on a combination of 
+37 
+Table A4 in Appendix A gives standardized coefficients for the main effects and shows that the impact of 
+the FDI weighted spatial capital tax lag is much stronger than the influence of the arbitrarily weighted spatial 
+lag. 
+38 
+
+========39========
+
+international strategic forces, domestic societal demands, and economic constraints that are simultaneously considered by governments while deciding upon tax policy. 
+39 
+
+========40========
+
+Dependent Variable: RHS Variables: 
+Pre-tax Gini 
+Table 1: Empirical Results for Average Effective Capital Tax Rates: Average Spatial Lags and FDI Weighted Spatial Lags 
+Model 1: Capital Model 2: Capital Model 3: Capital Model 4: Capital Model 5: Capital 
+Arbitrarily weighted FDI weighted FDI weighted FDI weighted FDI weighted Spatial lag 0.425* 0.015*** 0.013*** 0.011** 0.013*** 
+(0.244) (0.004) (0.004) (0.005) (0.005) 
+-65.480*** 
+(15.962) 
+22.150** 
+(10.218) 
+Absolute fiscal redistribution 
+ISSP: Redistribution (Mean) 
+ISSP: Redistribution (SD) 
+FDI stock (t-1) 
+-0.011*** (0.003) 
+Turnover of MNEs(t-1) 
+-63.075*** (15.685) 19.050* (9.827) 
+-74.351*** (14.256) 26.404*** (8.983) 
+-0.011*** (0.003) 
+-0.055* (0.031) 
+-16.498*** (4.622) 7.424* (3.892) -0.011*** (0.003) 
+-19.675*** (4.636) 10.654*** (4.076) -0.009** (0.004) 
+Share of elderly people 1.987*** 1.918*** 1.862*** 1.429*** 2.100*** 
+(0.404) (0.361) (0.330) (0.398) (0.514) Budget rigidities (t-1) 1.171*** 1.195*** 1.383*** 1.425*** 1.347*** 
+(0.262) (0.265) (0.275) (0.288) (0.304) Unemployment (t-1) -0.418*** -0.468*** -0.480*** -0.795*** -0.696*** 
+(0.136) (0.135) (0.143) (0.138) (0.153) GDP growth (t-1) 0.610*** 0.600*** 0.598*** 0.588*** 0.527*** 
+(0.143) (0.140) (0.135) (0.160) (0.160) trend  -0.316 
+(0.235) 
+Trade openness (t-1)  0.015 
+(0.054) 
+Capital Restrictions (world)  2.041 
+(3.715) 
+40 
+
+========41========
+
+Partisanship of government  -0.364 
+(0.347) Constraints to executive  5.274** 
+(2.288) Intercept 9.325 20.309*** 22.437*** 38.667*** 1.639 
+(8.095) (7.075) (6.749) (12.022) (20.510) Adj. R² 0.754 0.766 0.780 0.759 0.765 N (obs) 593 569 576 452 449 F 40.844*** 41.916*** 34.145*** 37.382*** 31.650*** Anderson test: relevance of instr. 470.853*** 3265.422*** 3249.114*** 2528.613*** 2732.262*** DWH-test endogeneity of SL: 2 7.421*** 4.607** 4.949** 5.469** 0.082 
+41 
+
+========42========
+
+The analysis of tax rates on mobile capital lends ample support to the theoretical arguments. Whether this holds true for labour taxation and tax system effects is examined in the present section. Table 2 depicts the empirical findings for labour taxation and tax system effects depending on tax competition and domestic factors. The model specifications are identical to those in table 1. For all models the fit is satisfying and particularly high for labour tax models indicating that the included domestic factors highly account for tax setting with respect to the immobile tax base. Country specific effects are highly significant supporting the inclusion of unit dummies in order to account for unit heterogeneity. The spatial lag of capital tax rates turns out to be endogenous to tax rates on wage income which underlines the need for instrumental variables 2SLS estimation procedures to avoid endogeneity bias. 
+Capital tax rates abroad exert a positive significant effect on effective labour tax rates. Still, we would theoretically rather expect that policy makers use labour tax rates to compensate for losses from capital taxation if tax competition is severe and governments are able to engage in international competition for mobile capital. Some support for the prediction that incumbents set higher taxes on labour to counterbalance competition induced cuts in capital taxation can be found in the fact that the spatial capital tax lag increases the tax ratio between labour and capital taxation (Model 10). This finding suggests that labour tax rates exceed tax rates on mobile factors throughout. If tax competition is severe, governments seem to be forced to cut back capital tax rates, though, they do not equally reduce tax rates on wage income in order to counterbalance the revenue loss caused by lower capital taxation. The effect of FDI weighted spatial capital tax rates remains positive for labour tax rates but turns insignificant in the fully specified model (Model 9). 
+The strength of societal equity needs produces the expected effects on labour taxation and – what is more important - has strong tax system effects. The pre-government income inequality pushes labour tax rates upwards. Since the pre-tax Gini impacts capital taxation negatively the gap between effective labour and capital tax rates amplifies and tax symmetry declines. With more voters being concerned about equality the pressure on governments to compensate for income inequality and to redistribute income increases. Implementation of societal equity needs by policy makers is expressed as absolute fiscal redistribution and the demand for income redistribution (ISSP). Thus, higher equality demands lead to lower labour taxes (Models 9 and 10) and higher capital taxes (table 1) which results in significantly higher tax symmetry (Models 6-9, though the ISSP measure remains insignificant). The gap between 
+42 
+
+========43========
+
+labour and capital tax rates reduces. The estimated coefficient for absolute fiscal redistribution is negative (positive for the ISSP measure since lower values signify a higher demand for redistribution) and significant with respect to both the effective labour tax rate as well as the tax ratio. In line with the theoretical model it seems that societal tax symmetry demands counterbalance tax competition forces. Governments facing stronger equity norms enrooted in society are less able to engage in international tax competition because they cannot largely shift the tax burden from capital owners to workers. 
+Higher government spending worsens budget rigidities and the upward pressure on taxation augments. Labour tax rates rise if budget rigidities become stronger; the coefficient turns out positive and highly significant. Governments are less likely to engage in tax competition when facing higher budget constraints. Societal tax symmetry expectations prevent policy makers from shifting most of the tax burden to the immobile factor. Accordingly, the gap between the two tax instruments decreases significantly with the size of government spending (Models 10-13). Yet, we would rather expect tax symmetry to decline with public spending. As workers' mobility falls short of capital mobility and wage earners react less elastic to higher taxation, budget rigidities should impact labour taxation more strongly and labour has to bear most of the burden. Empirically we can observe tax rates on wage income to be higher throughout. The latitude for pushing labour taxes further up is relatively small even though budget constraints are severe. Therefore, capital taxes increase relatively more with public spending leading to higher tax symmetry. 
+The empirical results for capital taxation show that the structure of domestic capital strongly influences governments' decisions about effective and marginal capital tax rates. Nevertheless, this does not result in a shift of the tax burden to the immobile factor as suggested by the insignificant estimate (except in Model 8) for the share of highly mobile capital in the domestic economy in table 2. Still, incumbents do not match a sharp decline in capital taxation with cutting back tax rates on the immobile factor accordingly. Policy makers allow for growing tax asymmetry if highly mobile capital dominates the domestic economy. They are forced to cut back tax rates on mobile capital if the share of highly mobile firms and the de facto mobility increases but they have to maintain revenue and keep tax rates on wage income on a higher level leading to a larger tax gap and higher tax unfairness (Models 10-13). Turning to the remaining control variables reveals that higher unemployment results in a significant rise of tax rates on wage income. If a larger share of the domestic workforce stays 
+43 
+
+========44========
+
+jobless the immobile base that can be taxed diminishes and policy makers raise the tax rate on this factor to compensate for the loss in revenue. In combination with reduced tax rates on the mobile factor – in order to attract capital which might boost employment – this leads to lower tax equity and the gap between labour and capital taxation becomes larger (Models 10-13).38 The positive relationship between unemployment and tax rates on wage income lends support to empirical evidence in the literature on tax competition (e.g. Swank and Steinmo 2002). As expected, labour taxation significantly rises with the share of elderly people caused by higher pressures on pension systems. However, the latitude for decreasing capital taxes as a reaction to competitive forces, when demands for public compensation grow, appears to be lower. This results in a significant decline of tax asymmetry when the share of elderly people increases. Finally, labour taxation does not seem to be contingent on economic growth since the estimates mostly turn out insignificant. We learned from table 1 that effective capital taxation reacts positively to GDP growth resulting in a significant reduction of inequality between the two tax instruments. 
+Institutional constraints to the executive and partisanship of the government do not seem to significantly affect either the tax rate on wage income or the ratio between labour and capital taxes. Yet, overall capital mobility leads governments to raise tax rates on wage income which sustains the argument that stronger competitive forces caused by international financial liberalization lead policy makers to shift the tax burden from capital to labour. The impact of trade openness completes this picture since higher economic openness leads to an increase in the tax rates on immobile production factors. Apparently, it is not the actual strategic interaction between countries – measured as spatial capital tax lags – but the potential for competitive pressures which leads to a shift of the tax burden from mobile to immobile factors. Governments use these changes in international financial markets to rationalize and justify higher tax rates on wage income. 
+38 Though, this might not be the right interpretation of the empirical findings. Even though unemployment in 
+the regression analysis is one period lagged and endogeneity tests do not rejected the Null of exogeneity, the 
+path of causality remains unclear. Higher labour taxation could increase unemployment (Tullio 1987). Daveri 
+and Tabellini (2000) find that the link between high labour taxes and high unemployment is particularly 
+strong in continental Europe. 
+44 
+
+========45========
+
+Table 2: Empirical Models for Average Effective Labour Tax Rates and Tax System Effects: Average Spatial Lags and FDI Weighted 
+Spatial Lags Dependent Variable: 
+Model 6: Labour 
+Model 7: Labour 
+Model 8: Labour 
+RHS Variables: 
+Arbitrarily weighted 
+FDI weighted 
+FDI weighted 
+Model 9: Labour 
+FDI weighted 
+Model 10: Taxratio Lab/Cap Arbitrarily weighted 
+Model 11: Taxratio Lab/Cap 
+FDI weighted 
+Model 12: Taxratio Lab/Cap 
+FDI weighted 
+Model 13: Taxratio Lab/Cap 
+FDI weighted 
+Spatial lag 0.594*** 0.007*** 0.007** -0.002 0.038** -0.000 -0.001 -0.001** 
+(0.118) (0.002) (0.003) (0.003) (0.019) (0.000) (0.000) (0.000) 
+Pre-tax Gini 
+Absolute fiscal redistribution 
+26.445*** (7.996) -8.425* (5.190) 
+32.367*** (8.117) -12.489** (5.065) 
+ISSP: Redistribution (Mean) 
+ISSP: Redistribution (SD) 
+FDI stock (t-1) 
+-0.001 (0.002) 
+0.001 (0.002) 
+1.622 (2.536) -1.595 (2.065) 0.003* (0.002) 
+5.020*** (1.213) -1.851** (0.768) 
+4.162*** (1.284) -1.247 (0.807) 
+2.024 (2.335) 0.340 (1.975) -0.001 (0.002) 
+0.001* (0.000) 
+0.001** (0.000) 
+1.374*** (0.400) -0.144 (0.323) 0.001* (0.000) 
+1.471*** (0.407) -0.285 (0.345) 0.001 (0.000) 
+Share of elderly people 0.306* 0.598*** 0.575*** -0.217 -0.215*** -0.170*** -0.163*** -0.232*** 
+(0.164) (0.159) (0.177) (0.201) (0.031) (0.029) (0.034) (0.046) Budget rigidities (t-1) 0.588*** 0.675*** 0.596*** 0.770*** -0.065*** -0.105*** -0.121*** -0.108*** 
+(0.126) (0.138) (0.154) (0.148) (0.020) (0.023) (0.025) (0.028) Unemployment (t-1) 0.413*** 0.310*** 0.368*** 0.144* 0.066*** 0.065*** 0.087*** 0.075*** 
+(0.069) (0.071) (0.076) (0.077) (0.010) (0.011) (0.011) (0.013) GDP growth (t-1) 0.014 0.120* 0.108 0.037 -0.062*** -0.057*** -0.057*** -0.059*** 
+(0.066) (0.072) (0.085) (0.078) (0.011) (0.012) (0.014) (0.014) trend  -0.202* 0.018 
+(0.117) (0.022) 
+Trade openness (t-1) 0.099*** 0.003 
+(0.026) (0.005) 
+Capital Restrictions (world) 6.831*** -0.057 
+(1.847) (0.342) 
+Partisanship of government -0.134 0.000 
+45 
+
+========46========
+
+(0.174) (0.029) Constraints to executive 1.333 0.014 
+(1.150) (0.201) Intercept -17.739*** -8.041** 2.484 -22.734** 0.908 2.555*** 0.394 0.462 
+(3.916) (3.668) (6.506) (10.274) (0.657) (0.614) (1.050) (1.888) Adj. R² 0.909 0.905 0.895 0.914 0.748 0.745 0.730 0.733 N (obs) 676 595 478 475 556 492 380 377.000 F 133.488*** 118.106*** 98.969*** 101.180*** 38.938*** 35.001*** 29.289*** 24.181*** Anderson test: rel. of instr. 548.38*** 3394.03*** 2687.08*** 2895.56*** 421.86*** 2816.82*** 2148.94*** 2302.48*** DWH-test endogeneity of SL 31.772*** 46.921*** 53.355*** 9.257*** 0.813 0.450 0.850 0.053 
+46 
+
+========47========
+
+The empirical findings in tables 1 and 2 lend, overall, strong support to the predictions of the theoretical model. International tax competition plays a role in domestic tax policy making and impacts not only efficient capital and marginal corporate tax rates but has also tax system effects. Still, the pressures induced by a change in the international game do not wipe out domestic factors and constraints. Budget rigidities and societal equity demands largely constrain the ability of fiscal authorities to engage in tax competition. Moreover, the ownership structure of the domestic capital base drives governments' decision on how much to engage in tax competition. In case highly mobile capital of multinational corporations dominates the domestic economy, policy makers have a higher incentive to play the tax competition game not primarily to attract capital from abroad but to stop domestic capital owners from shifting capital to other jurisdictions. If domestic firms are less mobile and to a lesser extent able to use tax avoidance strategies, governments can impose higher taxes without fearing an immediate outflow of mobile tax bases. 
+6. Conclusion 
+Since the markets for goods and services, skilled labour and capital are not longer dominantly domestic but increasingly international, the business of politicians has arguably become more difficult. Parties competing for votes in order to win elections now need to understand how to please the interests of voters without loosing sight of their countries international economic ‘competitiveness’. 
+Taxation is the stone with which politicians typically try to catch most of their birds: taxes shall ensure a fair and just division of income, reduce poverty not only of the country’s citizens but in many countries around the globe, also help saving the global environment, increase the incentive to have children, and so on. At the very same time, taxation is also the instrument used by politicians to create an economic environment which generates business opportunities, fosters economic growth, and secures the country’s attractiveness for international investors. 
+Governments cannot simultaneously reach all political goals they need to achieve in order to ensure the continuous support of their constituents. Politics is all about finding compromises – compromises not so much between the government and opposition, not so much between the agenda setter and the veto players, but rather compromises between policy goals which at the first glance all look similarly important. 
+47 
+
+========48========
+
+This research has explored some of the trade-offs governments face when they simultaneously try to offer an attractive location for international investors, maintain tax fairness, and produce a sufficient amount of public goods. With tax policies being twisted, policy makers need to respond flexibly to domestic demands and international constraints to achieve their policy goals and stay in office. The increase in capital mobility has beyond doubt reduced the government's ability to collect revenue from mobile sources, but at the same time the demands from voters have not been relaxed. Voters still vote with their wallets as much as footloose capital ‘votes’ with its feet. 
+Accordingly, globalization and market integration caused governments to adjust the national tax systems. However, early doom theories predicting that governments loose all policy autonomy have not been met in reality, simply because these models ignored the domestic constraints governments face. But with politics being twisted, governments can neither maximize their support solely based on domestic considerations, nor can they simply maximize the attractiveness of their country for global investors. Of course, this is a trivial truth, but one that is more often ignored than accepted in the rapidly growing literature on tax competition. 
+More substantively, this paper makes three contributions to this literature. My argument that policy makers face a trilemmatic choice when setting domestic taxes is perhaps the most obvious contribution. Governments cannot simultaneously reach the three policy goals of providing a satisfactory amount of public goods, reducing tax rates on the mobile factor to globally competitive levels and at the same time implementing a tax mix of tax rates on capital and labour which maximizes political support by adhering to societal demands for equality. 
+My second contribution consists in relaxing the assumption of perfectly integrated capital markets. Reducing legal restrictions to capital transactions does not necessarily imply full capital mobility. De facto capital mobility rather depends on the willingness and ability of capital owners to move capital through jurisdictions. I have argued that transaction costs are influenced by the ownership structure and concentration of capital. Actual capital mobility, therefore, falls short of being perfect and varies highly across countries. 
+Both, the notion of the trilemma and that of de facto capital mobility contribute to solving the puzzle of non-zero capital taxation. Specifically, my model generates several hypotheses 
+48 
+
+========49========
+
+which find strong support in the empirical evidence gathered through a rigorous statistical analysis. 
+I believe the empirical model is my third contribution to the literature. The statistical model takes the problems of the data generating process such as contemporaneous interaction, endogeneity and unit heterogeneity fully into account. The strategic nature of the tax competition game is directly modelled through spatial dependence of national tax policy setting. 
+Based on the theoretical predictions and empirical findings, we should not expect full convergence of capital tax rates and an equilibrium capital tax rate of zero is neither theoretical nor empirical sustainable. From this also follows that domestic tax mixes and national tax systems should not converge either in the near or in the far future. 
+49 
+
+========50========
+
+References 
+Alesina, Alberto. 1989. Politics and Business Cycles in Industrial Democracies. Economic Policy 4: 
+55-98. 
+Alesina, Alberto. 1991. Evaluating Rational Partisan Theory: A Response. Economics and Politics 3: 
+63-72. 
+Allan, James P., and Lyle Scruggs. 2004. Political Partisanship and Welfare State Reform in 
+Advanced Industrial Societies. American Journal of Political Science 48: 496-512. Altshuler, Rosanne and Timothy J. Goodspeed. 2002. Follow the Leader? Evidence on European and 
+U.S. Tax Competition. Mimeo, City University of New York. 
+Amable, Bruno, Gatti, Donatella and Jan Schumacher. 2006. Welfare State Retrenchment: The 
+Partisan Effect Revisited. Oxford Review of Economic Policy 22: 634-647. 
+Azémar, Céline, Corcos, Gregory and Andrew Delios. 2006. Taxation and the International Strategy of 
+Japanese Multinational Enterprises. Working Paper Nr. 2006-28, Paris-Jourdan Sciences 
+Economiques, Paris. 
+Basinger, Scott J. and Mark Hallerberg. 2004. Remodeling the Competition for Capital. How 
+Domestic Politics Erases the Race to the Bottom. American Political Science Review 98: 261- 
+276. 
+Beck, Nathaniel and Jonathan Katz. 2001. Throwing Out the Baby with the Bath Water: A Comment 
+on Green, Kim, and Yoon. International Organization 55: 487-495. 
+Beck, Thorsten, Clarke, George, Groff, Alberto, Keefer, Philip and Patrick Walsh. 2001. New Tools 
+and New Tests in Comparative Political Economy: The Database of Political Institutions. 
+World Bank Economic Review 15:165-176. 
+Beramendi, Pablo and Thomas R. Cusack. 2004. Diverse Disparities: The Politics and Economics of 
+Wage, Market and Disposable Income Inequalities, Discussion Paper SP II 2004 – 08, 
+Wissenschaftszentrum Berlin. 
+Boix, Carles. 1998. Political Parties, Growth and Equality: Conservative and Social Democratic 
+Economic Strategies in the World Economy. Cambridge: Cambridge University Press. Boix, Carles. 2000. Partisan Governments, The International Economy, and Macroeconomic Policies 
+in Advanced Nations, 1960-1993. World Politics 53: 38-73. 
+Brady, David, Beckfield, Jason and John D. Stephens 2004. Comparative Welfare States Data Set: 
+Update. University of North Carolina, Chapel Hill. 
+Bretschger, Lucas and Frank Hettich. 2002. Globalisation, Capital Mobility and Tax Competition: 
+Theory and Evidence for OECD Countries, European Journal of Political Economy 18: 695- 
+716. 
+Breusch, T. S. and A. R. Pagan. 1979. A Simple Test for Heteroskedasticity and Random Coefficient 
+Variation. Econometrica 47:1287-1294. 
+Bucovetsky, Sam and John D. Wilson. 1991. Tax Competition with Two Tax Instruments. Regional 
+Science and Urban Economics 21: 333-350. 
+Bucovetsky, Sam. 1991. Asymmetric Tax Competition. Journal of Urban Economics 30: 167-181. Chamley, Christophe. 1986. Optimal Taxation of Capital Income in General Equilibrium with Infinite 
+Lives. Econometrics 54: 607-622. 
+Charny, David. 1991. Competition among Jurisdictions in Formulating Corporate Law Rules: An 
+American Perspective on the ‘Race to the Bottom’ in the European Communities. Harvard 
+International Law Journal 32: 423-456. 
+Cheffins, Brian R. 1997. Company Law: Theory, Structure, and Operation. Oxford: Clarendon Press. Cook, R. Dennis and Sanford Weisberg. 1983. Diagnostics for Heteroscedasticity in Regression. 
+Biometrika 70: 1-10. 
+Cusack, Thomas R. 1997. Partisan Politics and Public Finance. Public Choice 91: 375-395. 
+50 
+
+========51========
+
+Daveri, Francesco and Guido Tabellini. 2000. Unemployment, Growth and Taxation in Industrial 
+Countries. Economic Policy 30: 47-104. 
+Devereux, Michael P., Griffith, Rachel and Alexander Klemm. 2002. Corporate Income Tax Reforms 
+and International Tax Competition. Economic Policy 35: 450-495. 
+Drazen, Allan. 2000a. Political Economy in Macroeconomics. Princeton: Princeton University Press. Dranzen, Allan. 2000b. The Political Business Cycle After 25 Years. NBER Macroeconomic Annual 
+Conference. April 7 - 8 2000. 
+Edwards, Vanessa.1999. EC Company Law. Oxford: Clarendon Press. 
+Egger, Peter, Pfaffermayr, Michael and Hannes Winner. 2005. An Unbalanced Spatial Panel Data 
+Approach to US State Tax Competition. Economics Letters 88: 329–335. 
+Egger, Peter, Loretz, Simon, Pfaffermayr, Michael and Hannes Winner. 2006. Corporate Taxation and 
+Multinational Activity. CESIFO Working Paper No. 1773. 
+Esping-Andersen, Gosta. 1990. The Three Worlds of Welfare Capitalism. Princeton: Princeton 
+University Press. 
+European Commission. 2001. Tax Policy in the European Union - Priorities for the Years ahead 
+(COM (2001) 260 final). Brussels: European Commission. 
+European Communities-Council. 1998. Conclusions of the ECOFIN Council Meeting on 1 December 
+1997 Concerning Taxation Policy (Including Code of Conduct for Business Taxation). Official 
+Journal of the European Communities 98/ C 2/ 01. Brussels. 
+Franzese, Robert J. Jr. 2002a. Macroeconomic Policies of Developed Democracies. New York: 
+Cambridge University Press. 
+Franzese, Robert J. Jr. 2002b. Electoral and Partisan Cycles in Economic Policies and Outcomes. 
+Annual Review of Political Science 5:369-421. 
+Franzese, Robert J. Jr and Jude C. Hays. 2007. Spatial Econometric Models of Cross-Sectional 
+Interdependence in Political Science Panel and Time-Series-Cross-Section Data. Political 
+Analysis 15: 140-164. 
+Freeman, Richard B. 1980. Unionism and the Dispersion of Wages. Industrial and Labor Relations 
+Review 34: 3-23. 
+Ganghof, Steffen. 1999a. Adjusting National Tax Policy to Economic Internationalization: Strategies 
+and Outcomes. MPIfG Discussion Paper 99/6. 
+Ganghof, Steffen. 1999b. Steuerwettbewerb und Vetospieler: Stimmt die These der blockierten 
+Anpassung? Politische Vierteljahresschrift 40: 458–72. 
+Ganghof, Steffen. 2000a. Adjusting National Tax Policy to Economic Internationalization Strategies 
+and Outcomes. In: From Vulnerability to Competitiveness. Welfare and Work in the Open 
+Economy, edited by Fritz W. Scharpf and Vivien A. Schmidt. Oxford: Oxford University 
+Press, 597-646. 
+Ganghof, Steffen. 2000b. Corporate Tax Competition, Budget Constraints and The New Trade-Offs in 
+Domestic Tax Policy: Germany and Italy in Comparative Perspective. Mimeo, MPI Cologne. Ganghof, Steffen. 2004. Progressive Income Taxation in Advanced OECD Countries Revisiting the 
+Structural Dependence of the State on Capital. Mimeo, MPI Cologne. 
+Garrett, Geoffrey. 1995. Capital Mobility, Trade, and the Domestic Politics of Economic Policy. 
+International Organization, 49: 657-687. 
+Garrett, Geoffrey. 1998a. Global Markets and National Politics: Collision Course or Virtuous Circle? 
+International Organization 52: 787–824. 
+Garrett, Geoffrey. 1998b. Partisan Politics in the Global Economy. Cambridge: Cambridge University 
+Press. 
+Garrett, Geoffrey. 1998c. Shrinking States? Globalization and National Autonomy in the OECD. 
+Oxford Development Studies 26: 71–97. 
+Garrett, Geoffrey and Peter Lange. 1991. Political Responses to Interdependence: What's 'Left' for the 
+Left? International Organization 45:539-564. 
+Garrett, Geoffrey and Deborah Mitchell. 2001. Globalization, Government Spending and Taxation in 
+the OECD. European Journal of Political Research 39: 145-177. 
+51 
+
+========52========
+
+Genschel, Philipp. 2002. Globalization, Tax Competition, and the Welfare State, Politics and Society 
+30: 245-275. 
+Godfrey, L. G. 1978. Testing for multiplicative heteroskedasticity. Journal of Econometrics 8: 227- 
+236. 
+Grossman, Gene M. and Elhanan Helpman. 2001. Special Interest Politics. Cambridge, MA: MIT- 
+Press. 
+Grubert, Harry and John Mutti. 1991. Taxes, Tariffs and Transfer Pricing in Multinational Corporate 
+Decision Making. The Review of Economics and Statistics 73: 285-293. 
+Hall, Peter A., and David Soskice (eds.). 2001. Varieties of Capitalism: The Institutional Foundations 
+of Comparative Advantage. Oxford: Oxford University Press. 
+Hallerberg, Mark and Scott J. Basinger. 1998. Internationalization and Changes in Tax Policy in 
+OECD Countries: The Importance of Domestic Veto Players. Comparative Political Studies 
+31: 321-353. 
+Hallerberg, Mark and Scott J. Basinger. 1999. Globalization and Tax Reform: An Updated Case for 
+the Importance of Veto Players. Poltische Vierteljahresschrift 40: 618–627. 
+Harris, David, Morck, Randall, Slemrod, Joel and Bernhard Yeung. (1993). Income Shifting in U.S. 
+Multinational Corporations. In: Studies in International Taxation, edited by Alberto 
+Giovannini, R. Glenn Hubbard and Joel Slemrod. Chicago: University of Chicago Press, 277– 
+302. 
+Hausman, Jerry A. 1978. Specification Tests in Econometrics. Econometrica 46: 1251-1271. Hays, Jude C. 2003. Globalization and Capital Taxation in Consensus and Majoritarian Democracies. 
+World Politics 56: 79-113. 
+Henisz, Witold J. 2005. Political Constraints Dataset. University of Pennsylvania. 
+Hibbs, Douglas A. Jr. 1977. Political Parties and Macro Economic Policy. American Political Science 
+Review 71: 1467-1487. 
+Hibbs, Douglas A. Jr. 1992. Partisan Theory after Fifteen Years. European Journal of Political 
+Economy 8: 361-373. 
+Hibbs, Douglas A. Jr. and Christopher Dennis. 1988. Income Distribution in the United States. 
+American Political Science Review 82:467-490. 
+Hicks, Alexander M. and Duane H. Swank. 1992. Politics, Institutions, and Welfare Spending in 
+Industrialized Democracies, 1960-82. American Political Science Review 86, 658-674. Hines, James R. Jr. and Eric M. Rice. 1994. Fiscal Paradise: Foreign Tax Havens and American 
+Business. Quarterly Journal of Economics 109: 149–182. 
+Hines, James R. Jr. 2001. ‘Tax Sparing’ and Direct Investment in Developing Countries. In: 
+International Taxation and Multinational Activity, edited by James R. Hines Jr. Chicago: 
+University of Chicago Press, 39–66. 
+Hoyt, William H. 1991. Property Taxation, Nash Equilibrium, and Market Power. Journal of Urban 
+Economics 34: 123-131. 
+Huang, Yophy. 1992. Tax Competition with Involuntary Unemployment. Ph.D. diss. Bloomington: 
+Indiana University. 
+Huber, Evelyne, Ragin, Charles and John D. Stephens. 1997. Comparative Welfare States Data Set. 
+University of North Carolina, Chapel Hill. 
+Iversen, Torben. 2001. The Dynamics of Welfare State Expansion: Trade Openness, 
+Deindustrialization, and Partisan Politics. In: the New Politics of Welfare State, edited by Paul 
+Pierson. New York: Oxford University Press. 
+Janeba, Eckhard. 2000. Tax Competition When Governments Lack Commitment: Excess Capacity as 
+a Countervailing Threat. American Economic Review 90: 1508-1519 
+Kanbur, Ravi and Michael Keen. 1993. Jeux Sans Frontier: Tax Competition and Tax Coordination 
+when Countries Differ in Size. American Economic Review 83: 877-892. 
+Keefer, Philip. 2005. DPI 2004: Database of Political Institutions: Changes and Variables Definitions. 
+Development Research Group. The World Bank. 
+Keen, Michael and Maurice Marchand. 1997. Fiscal Competition and the Pattern of Public Spending. 
+Journal of Public Economics 66: 33-53. 
+52 
+
+========53========
+
+Kitschelt, Herbert, Lange, Peter, Marks, Gary and John D. Stephens. 1999. Continuity and Change in 
+Contemporary Capitalism. New York: Cambridge University Press. 
+Koenker, Roger. 1981. A Note on Studentizing a Test for Heteroskedasticity. Journal of Econometrics 
+17: 107-112. 
+Korpi, Walter. 1983. The Democratic Class Struggle. London: Routledge and Kegan Paul. 
+Korpi, Walter and Joakim Palme. 2003. New Politics and Class Politics in the Context of Austerity 
+and Globalization: Welfare State Regress in 18 Countries, 1975-95. American Political 
+Science Review 97: 425-446. 
+Lane, Philip and Gian Milesi-Ferretti. 2001. The External Wealth of Nations: Measures of Foreign 
+Assets and Liabilities for Industrial and Developing Countries. Journal of International 
+Economics 55: 263-294. 
+Lee, Kangoh. 1997. Tax Competition with Imperfectly Mobile Capital. Journal of Urban Economics 
+42: 222-242. 
+Li, Quan and Dale L. Smith 2002a. Testing Alternative Explanations of Capital Control Liberalization. 
+The Review of Policy Research 19: 28-52. 
+Li, Quan and Dale L. Smith 2002b. The Dilemma of Financial Liberalization: State Autonomy and 
+Societal Demands. Journal of Politics 64: 764-790. 
+Lijphart, Arend. 1999. Patterns of Democracy: Government Forms and Performance in Thirty-Six 
+Countries. New Haven: Yale University Press. 
+Lijphart, Arend and Markus Crepaz. 1991. Corporatism and Consensus Democracy in Eighteen 
+Countries: Conceptual and Empirical Linkages. British Journal of Political Science 21: 235- 
+246. 
+LIS 2006. Luxembourg Income Study. 
+Lucas, Robert E., Jr. 1990. Supply-Side Economics: An Analytical Review. Oxford Economic Papers 
+42: 293-316. 
+MacDougall, George Donald A. 1960: The Benefits of Private Investments from Abroad: A 
+Theoretical Approach. Economic Record 36: 13-35. 
+Mahler, Vincent A. and David K. Jesuit. 2006. Fiscal Redistribution in the Developed Countries: New 
+Insights from the Luxembourg Income Study. Socio-Economic Review 4: 483-511. McCahery, Joseph A. and Erik P.M. Vermeulen. 2005. Does the European Company Prevent the 
+'Delaware Effect'? European Law Journal 11: 785-801. 
+Mendoza, Enrique G., Razin, Assaf and Linda L. Tesar. 1994. Effective Tax Rates in 
+Macroeconomics: Cross Country Estimates of Tax Rates on Factor Income and Consumption. 
+Journal of Monetary Economics 34: 297-323. 
+Miniane, Jacques. 2004. A New Set of Measures on Capital Account Restrictions. IMF Staff Papers 
+51: 276-308. 
+Mueller, Dennis C. 2003. Public Choice III. Cambridge et al.: Cambridge University Press. Newey, Whitney K. and Kenneth D. West. 1987. A Simple, Positive Semi-Definite, 
+Heteroskedasticity and Autocorrelation Consistent Covariance Matrix. Econometrica 55: 703- 
+708. 
+Oates, Wallace E. 1996. The Invisible Hand in the Public Sector: Interjurisdictional Competition in 
+Theory and Practice. College Park, MD. Working Paper Series. 
+OECD. 1998. Harmful Tax Competition. An Emerging Global Issue. Paris: Organization for 
+Economic Development and Cooperation. 
+OECD. 2006. National Accounts, Volume II, Detailed Accounts 1975-2005. Various Issues. Paris: 
+Organisation for Economic Co-operation and Development. 
+OECD. 2006. Revenue Statistics 1975-2005. Various Issues. Paris: Organisation for Economic Co- 
+operation and Development. 
+OECD. 2006. Globalisation Database. Paris: Organisation for Economic Co-operation and 
+Development. 
+Peralta, Susana and Tanguy van Ypersele. 2005. Factor Endowments and Welfare Levels in an 
+Asymmetric Tax Competition Game. Journal of Urban Economics 57: 258-274. 
+53 
+
+========54========
+
+Persson, Torsten and Guido Tabellini. 1992. The Politics of 1992: Fiscal Policy and European 
+Integration. Review of Economic Studies 59: 689-701. 
+Persson, Torsten and Guido Tabellini. 1995. Double-edged Incentives: Institutions and Policy 
+Coordination. In: Handbook of International Economics, Vol. III, edited by Gene M. 
+Grossman and Kenneth S. Rogoff. Amsterdam: North Holland. 
+Persson, Torsten and Guido Tabellini. 2000. Political Economics. Cambridge: MIT Press. 
+Persson, Torsten, and Guido Tabellini. 2002. Political Economics: Explaining Economic Policy. 
+Cambridge, London: MIT Press. 
+Plümper, Thomas and Günther G. Schulze. 1999. Steuerwettbewerb und Steuerreformen. Politische 
+Vierteljahresschrift 40: 445-457. 
+Plümper, Thomas, Vera E. Troeger, and Philip Manow. 2005. Panel Data Analysis in Comparative 
+Politics: Linking Method to Theory. European Journal of Political Research 44: 327-354. Plümper, Thomas, Troeger, Vera E. and Hannes Winner. 2008. Why is there no Race to the Bottom? 
+Tax Competition among Countries of Unequal Size, Different Levels of Budget Rigidities and 
+Heterogeneous Fairness Norms. International Studies Quarterly, forthcoming. 
+Plümper, Thomas and Vera E. Troeger. 2007. Efficient Estimation of Time-Invariant and Rarely 
+Changing Variables in Finite Sample Panel Analyses with Unit Fixed Effects. Political 
+Analysis 15: 124-139. 
+Quinn, Dennis. 1997. The Correlates of Change in International Financial Regulation. American 
+Political Science Review 91: 531-551. 
+Rammeloo, Stephan F. G. 2001. Corporations in Private International Law: A European Perspective. 
+Oxford: Oxford University Press. 
+Razin, Assaf and Efraim Sadka. 1991. Intemational Tax Competition and Gains from Tax 
+Harmonization. Economics Letters 37: 69-76. 
+Richman, Peggy B. 1963. Taxation of Foreign Investment Income. Baltimore: Johns Hopkins Press. Rodrik, Dani. 1997. Has Globalization gone too far? Washington, DC: Institute for International 
+Economics. 
+Rodrik, Dani. 1998. Why do More Open Economies have Bigger Governments? Journal of Political 
+Economy 106: 997-1032. 
+Sanders, David and Vera Troeger 2008. Trouble with Exogeneity Tests: An Empirical Illustration. 
+Mimeo, University of Essex. 
+Schjelderup, Guttorm and Lars Sorgard. 1997. Transfer Pricing as a Strategic Device for Decentralized 
+Multinationals. International Tax and Public Finance 4: 277-290. 
+Schulze, Günther G. and Heinrich W. Ursprung. 1999. Globalization of the Economy and the Nation 
+State. The World Economy 22: 295-352. 
+Sinn, Hans-Werner. 2003. The New Systems Competition. Berlin: Blackwell Publishing Ltd. Steinmo, Sven. 1994. The End of Redistribution? International Pressures and Domestic Tax Policy 
+Choices. Challenge 37: 9-17. 
+Steinmo, Sven. 1996. The New Political Economy of Taxation: International Pressures and Domestic 
+Policy Choices. Working Paper 19. Berkeley: Center for Western European Studies, 
+University of California. 
+Stephens, John D. 1979. The Transition from Capitalism to Socialism. London: Macmillan Press. Stöwhase, Sven. 2005. Asymmetric Capital Tax Competition with Profit Shifting. Journal of 
+Economics 85: 175-196. 
+Swank, Duane. 2006. Tax Policy in an Era of Internationalization: An Assessment of a Conditional 
+Diffusion Model of the Spread of Neoliberalism. International Organization 60: 847-882. Swank, Duane and Sven Steinmo. 2002. The New Political Economy of Taxation in Advanced 
+Capitalist Democracies. American Journal of Political Science 46: 642-655. 
+Tanzi, Vito. 1995. Taxation in an Integrated World. Washington, DC: Brookings Institution. Tsebelis, George. 1995. Decision Making in Political Systems: Veto Players in Presidentialism, 
+Parliamentarism, Multicameralism, and Multipartyism. British Journal of Political Science 25: 
+289–325. 
+54 
+
+========55========
+
+Tsebelis, George. 1999. Veto Players and Law Production in Parliamentary Democracies: An 
+Empirical Analysis. American Political Science Review 93: 591-608. 
+Tsebelis, George. 2002. Veto Players: How Political Institutions Work. Princeton, NJ: Princeton 
+University Press. 
+Tullio, Giuseppe 1987. Long Run Implications of the Increase in Taxation and Public Debt for 
+Employment and Economic Growth in Europe. European Economic Review 31: 741-780. UNCTAD. 2006. Foreign Direct Investment Database. Geneva: United Nations Conference on Trade 
+and Development. 
+UTIP-UNIDO. 2002. Wage Inequality. The University of Texas Inequality Project. Austin: University 
+of Texas. 
+Volkerink, Bjorn and Jakob de Haan. 2001. Tax Ratios: A Critical Survey. OECD Tax Policy Studies 
+No. 5, Paris: Organization for Economic Development and Cooperation. 
+Wagschal, Uwe. 1999a. Schranken staatlicher Steuerungspolitik: Warum Steuerreformen scheitern 
+können. In: Nationaler Staat und internationale Wirtschaft, edited by Andreas Busch and 
+Thomas Plümper. Baden-Baden: Nomos, 223–47. 
+Wagschal, Uwe. 1999b. Blockieren Vetospieler Steuerreformen? Politische Vierteljahresschrift 40: 
+628–640. 
+Webb, Michael C. 1998. Global Markets and State Power: Explaining the Limited Impact of 
+International Tax Competition. Mimeo. Victoria, B.C.: University of Victoria. 
+Wellisch, Dietmar. 1995. Dezentrale Finanzpolitik bei hoher Mobilität. Tübingen: J.C.B. Mohr (Paul 
+Siebeck). 
+White, Halbert. 1980. A heteroskedasticity-consistent Covariance Matrix Estimator and a Direct Test 
+for Heteroskedasticity. Econometrica 48: 817-838. 
+Wildasin, David E. 1986. Urban Public Finance. Chur, London, Paris and New York: Harwood 
+Academic Publishers. 
+Wilson, John D. 1986. A Theory of Interregional Tax Competition. Journal of Urban Economics 19: 
+296-315. 
+Wilson, John D. 1991. Tax Competition with Interregional Differences in Factor Endowments. 
+Regional Science and Urban Economics 21: 423-451. 
+Wooldridge, Jeffrey M. 2002. Econometric Analysis of Cross Section and Panel Data. Cambridge, 
+MA: MIT Press. 
+World Bank, 2006. World Development Indicators, CD-ROM. Washington D.C.: The World Bank. Zodrow, George R. and Peter Mieszkowski. 1986. Pigou, Tiebout, Property Taxation and the 
+Underprovision of Local Public Goods. Journal of Urban Economics 19: 356-370. Zodrow, George R. 2006. Capital Mobility and Source-Based Taxation of Capital Income in Small 
+Open Economies. International Tax and Public Finance 13: 269-294. 
+55 
+
+========56========
+
+Appendix A 
+Table A1: Parameter Settings for Variables Held Constant in Table A2 
+Parameters Table A1 M1j 
+0.2 M2j 
+0.2 Nj 
+0.3 Mj 
+0.3 1 
+0.6 2 
+0.3  
+0.2  
+j 
+0.7 1j 
+0.5 2j 
+0.1 j 
+0.5 j 
+0.5  
+0.5  
+0.5 Gj 
+c j, 
+0.5 j 
+1.4 j 
+1j 
+1 j 
+2j 
+0.2 j 
+56 
+
+========57========
+
+Table A2: Optimal Domestic Capital and Labour Tax Rates Dependent on Government Spending and Strength of Tax Symmetry Considerations in an Open Economy 
+ 
+0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 Gj 
+Optimal capital tax rate 
+0.55 0.16 0.17 0.18 0.18 0.18 0.18 0.18 0.18 0.18 0.18 0.6 0.19 0.21 0.21 0.22 0.22 0.22 0.22 0.22 0.22 0.22 0.65 0.22 0.24 0.25 0.25 0.25 0.26 0.26 0.26 0.26 0.26 0.7 0.25 0.27 0.28 0.28 0.29 0.29 0.29 0.29 0.29 0.29 0.75 0.28 0.3 0.31 0.31 0.32 0.32 0.32 0.32 0.32 0.32 0.8 0.3 0.33 0.34 0.34 0.34 0.35 0.35 0.35 0.35 0.35 0.85 0.32 0.35 0.36 0.36 0.37 0.37 0.37 0.37 0.37 0.37 0.9 0.34 0.37 0.38 0.38 0.39 0.39 0.39 0.39 0.39 0.39 0.95 0.36 0.38 0.39 0.4 0.4 0.4 0.4 0.4 0.41 0.41 1 0.37 0.4 0.41 0.41 0.41 0.41 0.42 0.42 0.42 0.42 Gj 
+Optimal labour tax rate 
+0.55 0.26 0.23 0.22 0.21 0.2 0.2 0.2 0.2 0.19 0.19 0.6 0.33 0.28 0.27 0.26 0.25 0.25 0.24 0.24 0.24 0.24 0.65 0.4 0.34 0.32 0.3 0.3 0.3 0.29 0.29 0.28 0.28 0.7 0.47 0.4 0.37 0.35 0.34 0.34 0.33 0.33 0.32 0.32 0.75 0.54 0.46 0.42 0.4 0.39 0.38 0.37 0.37 0.36 0.36 0.8 0.62 0.51 0.47 0.45 0.43 0.42 0.41 0.41 0.4 0.4 0.85 0.69 0.57 0.52 0.49 0.47 0.46 0.45 0.44 0.43 0.43 0.9 0.77 0.63 0.57 0.53 0.51 0.49 0.48 0.47 0.46 0.46 0.95 0.85 0.69 0.61 0.57 0.54 0.52 0.51 0.5 0.49 0.49 1 0.93 0.75 0.66 0.61 0.58 0.55 0.54 0.53 0.52 0.51 
+57 
+
+========58========
+
+Dependent Variable: RHS Variables: 
+Table A3: Empirical Results for Top Corporate Tax Rates: Average Spatial Lags and FDI Weighted Spatial Lags 
+Corporate Corporate Corporate Corporate Corporate 
+Arbitrarily weighted FDI weighted FDI weighted FDI weighted FDI weighted Spatial lag 1.120*** -0.009*** -0.010*** -0.011*** -0.004* 
+(0.095) (0.002) (0.002) (0.002) (0.002) 
+-50.761*** 
+Pre-tax Gini 
+(13.276) 
+Absolute fiscal redistribution 
+28.490*** 
+(8.522) 
+ISSP: Redistribution (Mean) 
+ISSP: Redistribution (SD) 
+FDI stock (t-1) 
+-0.002 (0.003) 
+Turnover of MNEs(t-1) 
+-61.006*** (15.003) 38.723*** (9.388) 
+-75.520*** (14.497) 44.652*** (8.897) 
+-0.010*** (0.003) 
+-0.122*** (0.031) 
+-5.237 (4.761) 5.733 (3.747) -0.013*** (0.003) 
+-9.043** (3.981) 5.867* (3.274) -0.001 (0.003) 
+Share of elderly people 0.501* -1.286*** -0.447* -1.591*** 1.056** 
+(0.293) (0.295) (0.275) (0.327) (0.428) Budget rigidities (t-1) 0.253 0.852*** 0.803*** 1.294*** 0.804*** 
+(0.225) (0.255) (0.253) (0.289) (0.265) Unemployment (t-1) -0.088 -0.210 -0.311** -0.432*** 0.133 
+(0.115) (0.134) (0.136) (0.143) (0.130) GDP growth (t-1) 0.106 0.068 0.128 0.058 0.227* 
+(0.116) (0.135) (0.135) (0.159) (0.138) trend  0.139 
+(0.204) 
+Trade openness (t-1)  -0.071* 
+(0.041) 
+Capital Restrictions (world)  -14.452*** 
+(3.191) 
+Partisanship of government  -0.020 
+(0.299) 
+Constraints to executive  -0.867 
+58 
+
+========59========
+
+(1.967) Intercept 7.479 62.114*** 62.230*** 46.906*** 83.795*** 
+(7.376) (6.835) (6.828) (12.248) (17.460) Adj. R² 0.714 0.662 0.649 0.678 0.791 N (obs) 635 601 604 484 454 F 35.622*** 26.184*** 24.851*** 26.548*** 38.389*** Anderson test: relevance of instr. 998.313*** 4543.498*** 4639.857*** 3545.780*** 3217.512*** DWH-test endogeneity of SL: 2 32.293*** 13.749*** 19.481*** 15.944*** 1.766 
+Table A4: Standardized Effects of the Main Variables 
+Standardized effects AETR on Capital Top Corp. Rate AETR on Labour Tax Ratio Independent Variables: 
+Spatial lag 0.066* 0.528*** 0.113*** 0.075** FDI*SL 0.095*** -0.106*** 0.054*** 0.008 Pre-tax Gini -0.156*** -0.188*** 0.100*** 0.144*** Absolute fiscal redistribution 0.080** 0.184** -0.059** -0.084** ISSP: Redistribution (Mean) -0.625*** -0.348* 0.063 0.611*** ISSP: Redistribution (SD) 0.170*** 0.113* -0.031 -0.059 Share of highly mobile capital (t-1) -0.152*** -0.200*** 0.017 0.180*** Budget rigidities (t-1) 0.378*** -0.280*** 0.249*** -0.253*** Share of elderly people 0.324** -0.260*** 0.104*** -0.507** 
+Unemployment (t-1) -0.147*** -0.078 0.121*** 0.257*** GDP growth (t-1) 0.092*** 0.012 0.021 -0.110*** 
+59 
+
+========60========
+
+Appendix B 
+Mendoza et al. (1994) calculate the average effective tax rates by classifying tax revenues according to the macroeconomic tax base from which they derive – capital, labour and consumption – and then expressing them as a share of this tax base. This ensures that personal tax revenues are considered according to the tax base from which they are gathered and that tax base effects are controlled for. These effective tax rates can be constructed by comparing measures of aggregate post and pre-tax incomes and prices. Volkerink and De Haan (2001) give a detailed overview of different strategies to calculate effective tax rates and discuss advantages and disadvantages of all measures. Building on previous work of Mendoza et al. (1994) they provide a new method and formulas for calculating average effective capital and labour tax rates. I base my own calculations for the 23 countries in my sample on their method and compute effective capital and labour tax rates. All data needed to construct these variables can be obtained from the OECD Revenue Statistics (various issues) and National Accounts (Volume II, detailed tables, various issues).39 
+Equations (1) and (2) depict the formulas for constructing effective capital and labour tax rates as Volkerink and De Haan suggest: 
+LAB 
+ 
+1100 2100 2200 3000   
+CoE  3000 
+(1) 
+CAP 
+ 
+(1 )1100 1200 4000 5125 5212 6100      
+OS  3000 
+(2) 
+where  denotes the fraction of the revenue from personal income taxation (1100) that can be attributed to (employed) labour income. Consequently, (1 ) is the fraction that can be 
+attributed to capital income. However, this information is not available for all countries and years and splitting the personal income tax revenue into capital and labour income presents a major difficulty. Volkerink and De Haan (2001) suggest approximating  by 
+ 
+ 
+CoE OSPUE CoE 
+(3) 
+39 Different editions of the Revenue and National accounts statistics slightly differ in the provided figures. 
+Volkerink and De Haan (2001) discuss difficulties of the OECD data and provide a guide how to deal with 
+missing data. I follow their suggestions. 
+60 
+
+========61========
+
+This approach seems to be adequate since for countries allowing for an exact distinction between tax revenue from labour and capital income the correlation coefficient between  
+and  equals 0.91. The numerical codes in the formulas correspond to the OECD classification in the OECD Revenue Statistics: 1100 – Taxes on income, profits, and capital gains of individuals; 1200 – Corporate taxes on income, profits, and capital gains; 2100 – Social security contributions of employees; 2200 – Social security contributions of employers; 3000 – Taxes on payroll and workforce; 4000 – Taxes on property; 5125 – Taxes on investment goods; 5212 – Motor vehicle duties, not paid by households; and 6100 – Other taxes solely paid by business. For the OECD National Accounts Mendoza et al. (1994) and Volkerink and De Haan use abbreviations in capital letters: OS – Total operating surplus of the economy; OSPUE – Operating surplus of private unincorporated enterprises; CoE – Compensation of employees which includes wages and salaries plus social security contributions of employers and employees. 
+As the included categories show, not only direct taxation of capital and labour income enters the calculation of effective tax rates but also social security contributions. The social security contributions payable by employers increase the costs per unit of labour and higher contributions decrease the attractiveness of the location. 
+Volkerink and De Haan (2001) provide data which is relatively limited in terms of covered countries and years. Effective labour and capital tax rates are calculated until 1996 for nine, respectively eight OECD countries. I calculated effective capital and labour tax rates for 23 OECD countries between 1975 and 2005. Since the data provided by the OECD differs slightly from edition to edition and the definition of revenue and national account categories was changed for later editions, my calculations do not perfectly match the results of Volkerink and De Haan. The correspondence is relatively high, though.40 
+40 The correlation between effective capital tax rates constructed by Volkerink and De Haan as well as by me 
+amounts to 0.73 and reaches 0.93 for effective labour tax rates. 
+61 
+
+========62========
+
+Appendix C 
+Equation (C1) generates the first order conditions for the optimal capital tax rate in an open economy: 
+Lg j j 
+j 
+1 1 2 2M M 
+ c j j j, 1 2M M  
+2c j l j, , 
+ 
+  
+ 
+M M 
+ 
+ 
+ j j j jM M 
+  
+1 2 , ,j j c j c j 
+ 
+ 
+  
+  
+1 1 2 2  
+ 
+   
+G N  
+ 
+ 
+   2 
+j 
+ 
+ 
+ 
+ 
+ 
+j c j  l j j ,  ,  
+j jM 
+  
+   
+ 
+ 
+ 
+ 
+c j c j, , 
+  
+ 
+ 
+  
+ 
+ 
+j 
+  
+ M M 
+ 
+ 
+1 1 2 2  j j j j jM M M 
+ 
+ 
+ 
+1 2 , ,j j c j c j 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ j 
+ 
+ 
+ 
+c j c j, , 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+j 
+ 
+ j  
+0 
+ 
+ 
+1  11 1 2 2  
+ 
+ 
+  
+ 
+  
+ 
+   
+ j j j j j j 
+M M M  
+ 
+   
+ 
+  
+ 
+ 
+c j c j c j c j c j, , , , ,  
+  
+ 
+ 
+ 
+ 
+j j 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+(C1) 
+and equation (C2) gives the first partial derivative of government loss with respect to labour taxation which is the first order condition for a domestically optimal tax rate imposed on the immobile factor: 
+ L 
+j 
+g 
+ 
+  2c j l j, , 
+ 
+l j, 
+G Nj l j j c j 
+, , 
+  
+ 
+     
+ 2 0 N 
+ 
+M M 
+ 
+1 1 2 2  j j j j 
+M M   
+ 
+ 
+1 2 , ,j j c j c j 
+ 
+ 
+  
+j 
+ 
+ 
+j 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+j jM 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+c j c j, , 
+ 
+ 
+ 
+ j 
+(C2) 
+62 
+
+========63========
+

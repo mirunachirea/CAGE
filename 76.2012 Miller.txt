@@ -1,0 +1,538 @@
+February 2012 
+No.76 
+Prudent Banks and CreativeMimics:  
+Can we tell the difference? 
+Andrew Powell, Antonia Maier and Marcus Miller Inter-American Development Bank &University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Prudent Banks and Creative Mimics: can we tell the di 
+Andrew Powell, Antonia Maier and Marcus Miller Inter American Development, University of Warwick and University of Warwick 
+Abstract 
+The recent  crisis has forced a rethink of banking regulation and supervision and the role of ancial innovation. We develop a model where prudent banks may signal their type through high capital ratios. Capital regulation may ensure sepa- ration in equilibrium but deposit insurance will tend to increase the level of capital required. If supervision detects risky be- haviour ex ante then it is complementary to capital regulation. However,  innovation may erode supervisors’ ability to detect risk and capital levels should then be higher. But regu- lators may not be aware their capacities have been undermined. We argue for a four-prong policy response with higher bank cap- ital ratios, enhanced supervision, limits to the use of complex  instruments and Coco’s. Our results may support the institutional arrangements proposed recently in the UK. 
+Key Words: Bank Regulation, Financial Crises, Information, Signaling. 
+JEL Codes: D82, G21, G38, L51 
+1 Introduction 
+The recent ancial crisis has placed  innovation under a new light. While before the crisis, many analysts considered that  
+We would like to thank Ron Anderson, Charles Goodhart, Andy Haldane, Al- berto Martin, Alaistair Milne and participants of the LSE Regulatory Policy Work- shop for very useful comments. We are grateful to  support from the ESRC funded Research Centre of Competitive Advantage in the Global Economy. The paper re the opinion of the authors only and not that of the Inter American De- velopment Bank or any other institution. All mistakes remain our own. Comments welcome. Corresponding author is Andrew Powell at andrewp(at)iadb.org 
+1 
+
+========2========
+
+innovation was making  more et by separating, re-bundling and spreading risks to dit investors with dit risk-bearing ca- pacities, in hindsight much of this innovation is now seen more as a means to arbitrage regulations or simply to hide risks from the relevant regulators. Indeed the fact that this has truly only been revealed in hindsight illustrates the asymmetric information nature of the problem. The regulators appeared to be unaware of the implications of what was happening. The general public and the large number of investors includ- ing depositors in those  institutions that eventually either failed or required public money to stay a also did not appear to know or understand the consequences. The rating agencies, charged precisely with attempting to analyse bank risk also appeared to be unaware of the problem. For example, Sinn (2010) details the 2007 Standard and Poor’s ratings of Bear Sterns (A), Lehman Brothers (A+) and Merryl Lynch (AA+); all bankrupt before the end of 20081. 
+In general, the literature on banking has stressed information asym- metries and in particular the role of \relationships" between banks and their clients. On the one hand, these relationships may a banks supra-normal pro but on the other hand it surely also poses signi cant problems for depositors and bank regulators to know what the bank is doing. Banks know their own risks better than anyone including regu- lators and no doubt there are competent banks that both calculate and manage their risks eely. But the information asymmetries also al- low for banks who may take greater risks and yet pass themselves o as one of the more prudent institutions, at least until their luck runs out2. 
+Financial innovation has exacerbated this problem. The development of derivatives, structured products such as CDO’s and SDO’s and the possibility of securitisation essentially allows banks to modify at will the probability distribution of the returns of their loan portfolios. Given the extent and the complexity of these transactions, it has become more and more di for the regulator to be able to distinguish between a well- managed, prudent bank with a safe loan book and one that gambles3. 
+The existence of deposit insurance may also amplify the problem as with deposit insurance the reliance on supervisory discipline, as opposed to market discipline, is much greater. But given the information asym- metries, supervisory discipline is particularly di Having said that, 
+1Moody’s ratings reveal a similar story: Bear Sterns (A2), Lehman (A1) and Merrill Lynch (A1). An alternative view is that the rating agencies knew the risks but due to their own incentive problems did not wish to reveal the problem. 
+2These ideas follow closely those of Beliamin (2005), Hughes (1997), Hellman et al (2000), Sinn (2010) and Miller et al (2011) applying the classic lemons model of Ackerlof (1970) and signalling model of Spence (1973) to banking. 
+3On a somewhat related view of  innovation see for example Rajan (2010). 
+2 
+
+========3========
+
+it is not clear whether market discipline can fare much better. Arguably, an important role of market discipline is to control supervisory forbear- ance - the case where the supervisor does realise that an entity may have problems but delays to act. 
+In this paper we develop a signalling type model of banking where su- pervisors cannot distinguish between prudent banks that operate a safe loan book and risky banks that may mimic the prudent ones until their luck runs out. We argue that the regulator may allow prudent banks to ditiate themselves from the mimics by establishing minimum capital requirements. Still, regulators may prefer a pooling equilibrium depending on parameter values and in that case supervision is com- plementary to capital regulation. However, we suggest that  innovation may have undermined supervision. The model suggests that regulators may need to limit banks’ use of complex instruments in order to be able to supervise eely and hence can adopt lower capital requirements or adopt very high minimum capital requirements to drive out risky banks from the market. 
+In a broader discussion regarding regulatory alternatives we argue for a four-prong approach (a) core banks should be much more restricted in the instruments that they use and both institutional and instrument complexity should be severely reduced (b) banks should be subject to signitly higher capital requirements (c) supervision needs to be con- sidered in a dit light, as complementary to capital requirements, and if supervisors do not feel comfortable assessing the overall risk of an institution then this indicates that the rules limiting complexity are not strong enough and (d) we advocate for the use of Coco’s and suggest that market discipline should be seen as complementary to supervisory discipline. The paper is organised as follows. In the next section we develop a simple benchmark model. In stages, we then include banking (capital) regulation, deposit insurance, banking supervision and ,  innovation. In a concluding section we discuss the policy im- plications of the analysis. 
+2 The model 
+2.1 On the role of capital regulation 
+Let us suppose that there are a continuum of identical banks [0;1]. Each bank has access to 1 unit of depositors’ funds and the banks’ owners contribute k units of capital. All funds are employed to make loans such that the capital to assets ratio of the bank is then k=(1 + k). We assume there is an exogenous gross cost of capital of  > r where r is the gross riskless rate of interest, r  1. There are two types of banks. 
+3 
+
+========4========
+
+Prudent banks have identid good borrowers and can lend to them with no risk at a gross lending rate , where  >  > r: These assumptions follow Hellman et al (2000) - henceforth HMS. However there are other banks that do not have access to such good borrowers. They may only attempt to mimic the good banks. We assume that they may make risky loans or make risky bets that yield the riskless rate of interest in expected terms. With probability p the payo from such activities is  but with probability (1  p) the payo is 0 and the condition p = r= ensures that the expected return is equal to the riskless rate with 0 < p < 1;  > r. We assume that ;  are the returns on the bank’s entire loan portfolio and that p is the overall probability of the overall loan portfolio failing. Let us assume that there are ! prudent banks in the population and (1  !) risk-taking banks. We assume that depositors do not know which banks are the prudent ones and which are the risk taking ones, however as we assume that equity is all insider-equity we assume that the equity-holders are aware of the nature of their own bank. We assume that depositors are aware of the amount of capital, deposits and assets and they are aware of the potential returns in the population ( and ); they are only unaware whether the loans made from a particular bank are the safe or the risky type. 
+If there is a pooling equilibrium then the risky banks must set  =  so that they mimic the prudent banks and can go undetected. This then implies that they obtain a gross return of  on their assets with proba- bility p and zero otherwise. In the absence of deposit insurance, in the pooling equilibrium the minimum deposit rate required by depositors, rd, assuming their opportunity cost is the riskless rate of interest, would be given by the equation, r = !rd + (1  !)prd where we assume that if each bank’s loans pay zero then the bank defaults and pays deposi- tors zero, and hence rd = r=(! + (1  !)p). It can be shown that for ! < 1, rd < . We will assume that rd is indeed the deposit rate which implies that banks may potentially earn supra-normal rents in equilib- rium which we assume are not dissipated through entry. We consider that the information asymmetries in relationship banking also constitute a barrier to entry for new banks, at least for the case of prudent banks. We understand there is less justi for such entry costs for the risk taking banks, especially as we assume that their return technology is simply a fair bet on the riskless rate4. The net pro for the prudent bank and for the risky bank respectively under pooling would be given 
+4In future work we plan to investigate further the possibility of free entry for mim- ics but entry barriers for prudent banks. In this paper we assume a  proportion of risky institutions. 
+4 
+
+========5========
+
+by the following expressions: 
+P = ((1 + k) 
+R =p((1 + k) 
+ rd)  k  rd)  k 
+(1) (2) 
+And the return on equity for the two types of banks (prudent and 
+risky respectively) would be: 
+RoEP = ((1 + k) RoER =p((1 + k) 
+ rd)=k  rd)=k: 
+(3) (4) 
+Proposition 1 Bank capital is a costly signal and potentially allows a prudent bank to separate from risky banks in equilibrium. 
+To see this note that it is costly for both prudent and risky banks to increase their capital but that the cost of increased capital for a risky bank is greater than that of a prudent bank. In particular it can be 
+shown that: 
+@R @k 
+= 
+ ( 
+ ( 
+ ) < 0 (5) 
+ p)L(1 
+ !) where (1 
+ p) is the 
+ p) < 
+@P 
+@k 
+= 
+In order to introduce capital regulation to the analysis, it is useful to consider the objective function of a regulator. One objective of the bank- ing regulatory authorities is normally to minimise the expected losses for the deposit insurance system imposed on society if banks fail. A natural de of those losses would be (1 
+probability of risky bank loans failing, ! is the proportion of safe banks in the population and L is the leverage of banks L = (1 + k)=k. Hence as the proportion of safe banks, !, declines, the losses move towards 
+ p)L. Suppose a bank regulatory authorities wish to minimise the amount of expected losses to the deposit insurance scheme but with the minimum use of bank capital. Hence the regulators’ 
+a maximum value of (1 
+loss function would be given by: 
+ = (1 
+ p)(1 
+ !)L(k) +  
+(6) 
+where  is a preference parameter of the regulator representing the disutility of an extra unit of capital in banks. Note that Lk < 0 and 
+5 
+
+========6========
+
+Lkk > 0. Minimising this loss function with respect to capital, for the case of a pooling equilibrium regulators would then set an optimal level of capital as follows: 
+q 
+k = 
+(1 
+ p)(1 
+ !)= 
+(7) 
+For a set of particular parameter values, an optimal bank capital level that minimises the loss function, assuming risky and prudent banks co- exist, is illustrated in Figure 1. 
+Bank Capital Level that  minimizes the loss function  
+Loss Function  
+0 
+0.1 
+0.2 
+0.3 
+0.4 
+0.5 
+0.6 
+0.7 
+0.8 
+0.9 
+1 
+Bank Capital, k  
+Figure 1: The Regulator’s Loss Function Assuming Prudent and 
+Risky Banks Co-Exist 
+Proposition 2 Bank capital regulation may allow for a separating equi- librium with return on equity maximising banks with a rule that sets minimum capital less than that of the "no-gambling constraint", but a pooling equilibrium may also be feasible depending on parameter values 
+6 
+
+========7========
+
+The regulator could simply set minimum capital requirements to as- sure separation and drive out the risky banks from the market. This is the approach taken by HMS. Let us call this level of capital: 
+k = 
+p(  rd) 
+  p 
+(8) 
+Minimum capital requirements would then be set at this level such that banks would have to satisfy this "no-gambling constraint", and risky banks would be driven out from the market. We illustrate this in Figure 2, where for the parameter values we have chosen the level of capital which leads to separation, k, is around 0.43 or a capital to assets ratio (k=(1 + k)) of about 30%. However, setting this high level of capital is not strictly necessary. Minimum capital requirements could be set at a lower level but such that the prudent banks would still prefer to have capital higher than the no gambling constraint rather than this lower capital level and with risky and prudent banks co-existing (compare Figure 2). For return on equity maximising banks, the critical lower level of capital, kmin, where pro with pooling would be equal to that of separation at the capital level of k would be given by the following equation: 
+(1 + k)  r 
+k 
+= 
+(1 + kmin) 
+kmin Manipulating this equation we  that: 
+ rd 
+(9) 
+kmin = k 
+ rd  r 
+(10) 
+which is clearly less than k as 
+  rd 
+  r 
+< 1. Hence the regulator may set minimum capital requirements at kmin, prudent banks would set their capital to k and risky banks would be driven out of the  system. In Figure 2, the minimum capital requirement to ensure separation, kmin, is around 0.255 or a capital to assets ratio of 20%. 
+7 
+
+========8========
+
+1. Regulators could set  this level for minimum  capital requirements, kmin,  and prudent banks would  prefer to separate  
+2. Prudent banks would  have capital at this  level to separate   
+Capital of prudent banks above min. capital requirements  
+Figure 2: A Minimum Capital Requirement Could Prompt 
+Prudent Banks to Separate 
+Regulators who set capital requirements may wish to consider three possibilities in order to determine the optimal capital regulation, a) no capital regulation b) capital regulation that results in a pooling equilib- rium and c) tougher capital regulation that prompts prudent banks to set capital requirements such that risky banks exit the market. If banks maximise rates of return on equity, then for the case with no regulation and assuming a  proportion of risky banks it can be shown that leverage and hence the regulator’s loss function would actually tend to iny so the regulator would always prefer to have some level of capital regulation5. In case (c), where risky banks are driven out of the system, the value of the loss function would be . Let us call the optimal capital requirement under pooling to be kp < k. This would then be preferred to the separating equilibrium if (1  p)(1  !)L(kp)+p <  which would be the case if the disutility of capital were high enough. In particular the pooling equilibrium would be preferred if: 
+ > 
+(1 
+ p)(1 
+k 
+ !)L(kp)  kp 
+(11) 
+5In our set up with a  amount of deposits this is not the case for pro maximising banks. However, if there are constant or increasing returns to scale, banks may expand and earn more pro and again prudent banks may prefer to be large with low equity in a pooling equilibrium compared to having higher equity and separation. In further work, we plan to investigate the implications of dit objectives and scale. 
+8 
+
+========9========
+
+Hence, to put this another way, if the regulator’s preference function gives enough weight to the expected losses relative to the disutility of bank capital, regulators would  a relatively high minimum capital requirement and banks would hold excess capital over those requirements and risky banks would be driven out of the system. 
+2.2 Introducing deposit insurance 
+Introducing deposit insurance changes the results above. With full de- posit insurance banks would drive rd down to the riskless rate, r and the deposit interest rate is then invariant to the share of the population of banks that are risky. To force separation, prudent banks now need to set their capital levels higher than the critical level of capital given by: 
+k = 
+p(  r) 
+  r 
+(12) 
+where k > k. 
+Proposition 3 In the case of deposit insurance a minimum capital rule may also force separation but in this case the regulator must  the min- imum capital rule equal to the no-gambling constraint 
+Note that in this case separation brings no special bene to the pru- dent banks as all banks pay the riskless rate for deposits. The proposition then follows directly, in order for a bank regulator to force separation, minimum capital requirements must be set at: 
+k = 
+p(  r) 
+  p 
+(13) 
+such that risky banks are forced out of the market. The banking regulator in this environment must now compare the value of the loss function of forcing out the risky banks, namely  = , with the value of the loss function setting minimum capital to the optimal level assuming pooling, 
+ = (1  p)(1  !)L(kp) + p Hence the pooling equilibrium is preferred if: 
+(14) 
+ > 
+(1 
+ p)(1 
+k 
+ !)L(kp)  kp 
+(15) 
+9 
+
+========10========
+
+ 
+ 
+ 
+ 
+ 
+ 
+Note that 
+(1 p)(1 !)L(kp) 
+< 
+(1 p)(1 !)L(kp) 
+k kp K kp 
+. In other words the pooling equilibrium may be preferred at lower values of  in the presence of deposit insurance. This follows because if there is deposit insurance, then higher capital is required to force out the risky banks and ensure 
+there is separation. 
+2.3 The role of banking supervision 
+However, banking oversight consists of supervising as well as regulating, or in other words supervisors conduct on-site as well as o inspec- tions to check on banks’ activities. In this model we assume capital is observable and hence supervisors do not need to spend resources to check capital levels. Rather, we suggest that a role of bank supervision is to detect directly if banks are prudent or they are risky. Let us suppose that banking regulators inspect all banks at cost c and with a probability s detect if each bank is a risky bank and in that case can close the bank down without further costs. The loss function of the regulator may be 
+represented as follows, 
+ = (1 
+ p)(1 
+ !)(1 
+ s)L(k) +  + c: 
+(16) 
+The bene of detecting risky banks ex ante is that risky banks are closed without further costs thus reducing expected losses6. In this sec- tion we take the case where there is deposit insurance. Now reconsider the optimal minimum capital rule that the regulator would adopt assum- ing a pooling equilibrium and assuming that the authorities would also wish to supervise. Minimising the loss function with respect to capital, the relevant  order condition is now (1 
+ p)(1 
+ 1=k2. Hence we  that the optimal capital 
+or in other words,  =  Lk(1 L = (1 + k)=k, Lk = level for the regulator would be: 
+s 
+ks = 
+(1 
+ p)(1 
+ p)(1  !)(1  s)Lk + = 0  !)(1  s). Remembering that 
+ !)(1  
+ s) 
+(17) 
+where ks is the optimal capital level of the regulator assuming pooling in the existence of banking supervision. Note that 
+@ks 
+@s 
+< 0 or in other words, if the technology of supervision improves such that the detection 
+6It is clearly an extreme assumption that risky banks can be closed down ex ante without further costs. In a more complex model supervisors may weigh the costs of closing a bank ex ante versus the risks of higher closing costs ex post if risky banks are allowed to continue to operate. The probability that a risky bank may not need to be closed at all, also raises the issue of regulatory forbearance that we discuss in 
+the conclusions below. 
+10 
+
+========11========
+
+rate s increases, at the same level of costs, then the optimal capital level decreases. For a positive detection rate, s > 0, it is clear that ks < kp. Banking supervision is then complementary to a minimum capital ratio. Figure 3 compares the optimal capital regulation under pooling with and without supervision. As can be seen as the technology of supervision improves (higher s for a constant c), optimal capital requirements fall. 
+ 
+Figure 3: Banking Supervision is Complementary to Capital 
+Regulation 
+Now regulators must determine if it is better to opt for a high capital ratio that drives out the risky banks or a lower capital ratio such that there is pooling and use a combination of supervision and capital require- ments7. Note that supervision changes the minimum capital level that the regulator must x to force the risky banks to exit. With banking supervision, risky banks’ expected profts may be written as follows R = (1  p)(1  s)((1 + k)  rd)  k. The minimum capital requirement that then forces the ex ante expected pro of the risky banks to zero is given by: 
+7We assume that under the pooling equilibrium it is better for the regulator to invest in supervision rather than rely solely on capital regulation, in other words we assume that (1  p)(1  w)(1  s)L(ks) +s +c < (1  p)(1  !)(1  s)L(kp) +p 
+11 
+
+========12========
+
+ 
+ s)(  r) 
+ s) 
+(18) 
+k = 
+p(1 
+ p(1 
+Note that 
+@k 
+@s 
+< 0 and so as the technology of supervision improves (a higher s assuming costs remain constant) then the minimum capital that the regulator must set to ensure separation decreases. It follows that k (derived in the previous section) is simply a special case of k when the detection rate, s, is equal to zero. For positive s, it follows 
+that k < k. 
+The regulator must then compare the value of the loss function set- ting minimum capital regulations to a level that would drive out the risky banks and eliminate expected losses, which would be given by,  = ; with the value of the loss function if capital is set at a lower level, ks < k , where ks is the optimal capital ratio assuming pooling in the presence of supervision. The value of the regulator’s loss function 
+in that case will be  = (1 
+ p)(1 
+ !)(1 
+ s)L(ks) + s + c. The 
+regulator will prefer to opt for the pooling equilibrium when: 
+ > 
+(1 
+ p)(1 
+ s)L(ks) + c  ks 
+(19) 
+ !)(1 
+k 
+Note that ks < kp and hence L(ks) > L(ks) and so formally it is ambiguous whether the regulator would prefer the pooling equilibrium with lower levels of  when there is banking supervision compared to the case where there is no banking supervision. However, if under pooling the loss function of the regulator is reduced by introducing banking 
+ s)L(ks)+s+c < (1 
+s)L(kp)+p, then it must also be the case that the pooling equilibrium 
+supervision ie: if (1 
+ p)(1 
+ !)(1 
+is preferred for higher levels of 8. 
+2.4 Financial innovation 
+ p)(1 
+ !)(1 
+ 
+In the above we have discussed the case of prudent and risky banks where prudent banks have access to good clients whereas risky banks are as- sumed not to have these relationships and can only take fair gambles on the riskless rate of interest. In the absence of regulation and supervi- sion and even if there is no deposit insurance, the presence of such risky lenders imply risks for depositors or if they are insured, the deposit in- surance system. Capital regulation and ex ante bank supervision may be used, even in the presence of deposit insurance, to counteract these 
+8The proof of this is to be included in an appendix to be completed. 
+12 
+
+========13========
+
+problems. However, the explosion of new  products and instru- ments to transform risks has surely had a dramatic impact on traditional  On the one hand  innovation may create value but on the other hand new instruments may also be used to transform return distributions in ways that may be very hard for banking supervisors (or bank depositors) to be aware of, making ex ante detection of risk-taking much more problematic. In this section we therefore model  innovation as both potentially a good but also potentially as exacerbat- ing the information problems. To be speci we suppose that  innovation leads to two e  it adds value by increasing , the return available to the prudent banks, but second it also decreases the detection probability, s, of the banking supervisor. 
+To model this we now assume that the detection probability is s(1  (1  )), 0    1,  > 0, and that the return available to the prudent bank is now (1 + ). Hence  may be interpreted as the amount of  innovation and  may be interpreted as the extent to which  innovation adds value. For  = 1,  innovation is only a good, whereas for  = 0,  innovation adds no value and only serves to undermine the detection technology of the regulator. Note that if the return of prudent banks rise due to "good"  innovation, then risky banks must also increase their returns to mimic the prudent institutions. Hence we now have that p(1 + ) = r or p = 
+r 
+(1+): Hence it follows that even if  innovation only adds value (and does not undermine supervision), then  innovation increases the probability that the risky banks will fail. The regulator’s loss function now becomes: 
+ = (1 
+ p)(1 
+ !)(1 
+ s(1 
+ (1 
+ ))L(k) +  + c 
+(20) 
+If there is a pooling equilibrium then the optimal minimum capital ratio for the regulator to set would be such that,  = (1  p)s(1  !)(1  (1  ))Lk or we can write the optimal capital ratio as: 
+s 
+ki = 
+(1  p)(1  !)(1  s(1  (1  ))) 
+ 
+(21) 
+where ki is the optimal minimum capital for the regulator in the presence of  innovation. Note that assuming pooling, the opti- mal capital ratio rises as  falls or in other words if  innovation is more related to avoiding detection by the supervisor, then optimal capital requirements will rise. On the other hand, 
+ki 
+ 
+> 0, i.e. an in- crease in the amount of cial innovation leads to an increase of the 
+13 
+
+========14========
+
+(1  p)(1  !)(1  s(1  (1 and (28) in the Appendix). 
+optimal minimum capital. This still holds even if  = 1, i.e. even when  innovation is only about adding value (see the Appendix). Why is this the case? As mentioned above, an increase in  leads to an in- crease in the probability that risky banks will fail. Financial innovation, even if it is only a good, will lead to higher risks in the nancial system and therefore higher expected losses for the regulator, represented by 
+ ))L(k) in the loss function (equation (27) 
+Once again, the regulator must decide whether it is better to set minimum capital levels such that risky banks are driven out of the mar- ket or at lower capital levels such that risky and prudent banks coexist. The capital level that drives the prots of the risky banks to zero and so ensures separation is now given by: 
+k = 
+p(1 
+ (1 + )p(1 
+ s(1 
+ (1 
+ 
+ )))((1 + )  r) 
+ s(1  (1  )) 
+(22) 
+and if bank capital were set at that level, then the value of the regulator’s loss function would be . It can be shown that k increases with both an increase in  and is increasing in . If regulators set the minimum capital level at ki then the value of the loss function 
+ s(1 
+it can be shown that the latter would be preferred when: 
+would be,  = (1 
+ p)(1 
+ !)(1 
+ > 
+(1 
+ p)(1 
+ !)(1 
+ p)(1 
+ !)s(1 
+ (1 
+ )))L(ki) + i + c and 
+ (1  ki 
+ )))L(ks) + c 
+(23) 
+ )L(ki) > 0. Hence for  < 1 and 
+ s(1 
+k 
+Let us assume that parameters are such that the regulator would prefer the pooling equilibrium to that of separation. It can be shown that the change in the value of the regulator’s loss function given a change in  is given by 
+d 
+d 
+= (1 
+for s > 0, greater  innovation (higher ) leads to higher values of the loss function of the regulator. For small changes in  this direct e is the only one as the loss function is minimised with respect to the optimal level of bank capital. However, for  < 1 and for s > 0 and for large changes in , the optimal level of bank capital from the regulator’s standpoint would also rise in an attempt to counteract the declining power of banking supervision to detect risky banks. In Figure 4, we illustrate how optimal minimum bank capital requirements increase as  innovation advances. We plot the relationship for two levels of theta. For high theta where  innovation is largely a good, optimal capital requirements are higher and increase faster with the 
+14 
+
+========15========
+
+amount of cial innovation. Even though  innovation is of higher quality, capital requirements need to be higher, as expected losses increase with the increase in . This also a the losses positively through an increase in (1  p). At low levels of theta, even though  innovation is largely about undermining the detection powers of supervisors, capital requirements still rise but at a lower level and with a lower gradient. 
+ 
+Figure 4: Optimal Capital Requirements given Financial 
+Innovation 
+In Figure 5, we plot the values of the regulator’s loss function. Again we plot the relationship for high and for low theta. As is expected, the loss function increases as  innovation advances. And the loss function is at a higher level and increases faster for high , where the probability of failure decreases compared to the low  case. We plot two schedules for each value of . The lower schedules correspond to the case where the supervisor realises her detection powers are being undermined and so adjusts capital requirements accordingly, as illustrated in re 5. The higher schedules correspond to the case where the supervisor does not adjust capital requirements as  innovation progresses, 
+15 
+
+========16========
+
+as they do not realise their powers of detection are reduced or perhaps for legal or other reasons. Note that in this case the loss function is at a higher level and increases more rapidly as  innovation proceeds. 
+Figure 5: Regulator Loss Function with Financial Innovation: 
+When Innovation has High and Low Value Added 
+ 
+Let us assume parameters are such that the regulator prefers to sepa- rate prudent banks from the risky institutions. As mentioned above both increases in v and  lead to an increase in the level of capital required to ensure separation, k. As the amount of  innovation increases the return of prudent banks rise and it becomes more di for the supervisor to detect risky banks and hence the rate of return for risky institutions also increases. Prudent banks therefore need to accumulate a higher level of k in order to push risky banks rate of return below their cost of capital, i.e. to zero pro Financial innovation then increases the social ine of signalling and the more innovation that has occurred then the more likely it is for the supervisor to opt for pooling. 
+16 
+
+========17========
+
+3 Conclusions 
+In this paper, we have developed a relatively simple signaling model to investigate the potential implications of l innovation for banking regulation and supervision. We argue that capital regulation may aid prudent banks to separate from their risky peers. Indeed regulators may set minimum capital levels such that prudent banks would wish to hold capital bu over these requirements to ensure separation. However, with deposit insurance the capital required for separation is higher and the regulator would have to set capital levels to directly ensure that a "no gambling" constraint is met. It is assumed that the regulatory authorities trade o the expected losses on a deposit insurance scheme against the level of capital held by banks. Depending on parameter values, pooling may be preferred to separation. If prudent and risky banks co-exist, supervision (i.e. the ability to detect and close risky banks ex ante) is shown to be complementary to regulation and better supervision (a higher detection rate of risky banks) would lead to lower optimal minimum capital ratios from the standpoint of the regulator. 
+We model two e of  innovation; namely that it adds value but secondly that it makes the job of supervisors more dilt by undermining their powers to detect risky institutions. We argue that before the global economic crisis, ncial innovation had precisely this dual impact as while it may have helped diversify risks and improved e in terms of allowing risks to be held by those best able to bear them, it also allows institutions to arbitrage regulations or other- wise hide relevant risks from the regulator. We show that to the extent that  innovation undermined supervision, optimal capital levels should be higher in the pooling equilibrium. Moreover, as  inno- vation increases the returns for prudent banks, risky banks that attempt to mimic prudent ones have to take greater risks. Hence even if ial innovation has been all about increasing returns and not about under- mining supervisory detection capabilities, al innovation still leads to an increased risk of bank failures. Moreover, if innovation under- mines the powers of detection of banking supervisors, there is a question as to whether the supervisor is aware that this has happened. If the supervisor is aware then optimal capital regulation would adjust but if not then capital regulation may be set too low. We have not considered here the possibility that supervisors were aware that  innovation had undermined their supervisory power, however, decided not to act by increasing capital requirements9. 
+9This might be due to regulatory capture or forbearance, which are cited for ex- ample in the case of the Savings and Loans crisis in the US. Capture and forbearance 
+17 
+
+========18========
+
+One might conclude from our results that capital regulations do not work and we should leave  institutions themselves demonstrate their solvency and allay investors’ fears. Our model cautions against this approach. Capital regulation, even without the existence of de- posit insurance, may be required to rule out both prudent and risky banks maximising returns through very high leverage. However, with deposit insurance, higher levels of capital requirements may be needed to force separation of prudent banks from their counterparts. Moreover,  innovation strongly increases the amount of capital required to force separation, increasing the social ine of signaling to ensure separation. 
+In our view the issues discussed in this paper are highly relevant to the period preceding the recent global  crisis, which was marked by the co-existence of prudent as well as risky banks. Financial innova- tion and the explosion of complex  instruments allowed banks to adjust the riskiness of their asset portfolios at will and mimic high re- turns. Regulators appeared to be unaware of the actual risks being taken and supervisors were unable to distinguish between prudent banks and risky institutions, at least until the latter’s luck ran out. 
+We suggest policy implications in four directions: 
+First, we argue that institutional arrangements that limit the use of complex instruments may be appropriate, in particular for core banks that have large amounts of insured liabilities. In this regard it is inter- esting to note that many emerging economies including those of Latin America escaped the worst of the recent  crisis. One view is that this was simply because their  systems were less developed and so the stock of complex instruments issued had not grown to the extent witnessed in developed countries’  markets. However, a second view is that the legal and cultural environment is very dit. To a  approximation, Latin American banks are not allowed to trade new products unless they are speci authorised to do so. This is in contrast to the Anglo-Saxon approach, where banks are allowed to trade new instruments unless they are prohibited from doing so. This observa- tion, while crude and likely too extreme, suggests a somewhat dit explanation. Namely, banks in Latin America resemble more the "utility company" model rather than a sophisticated investment banking model due largely to the legal and regulatory culture and indeed this has been 
+are also considered as a serious problem in the work by Barth, Caprio and Levine (2006). Following this perspective, the market may be employed as a further disci- plining device, and in fact should be seen as complementary to supervisory discipline. Or, to put it another way, market mechanisms may help to discipline the supervisor and ensure prompt corrective action is actually prompt. 
+18 
+
+========19========
+
+an important factor in limiting the development of those markets, per- haps to their advantage. This suggestion is also in line with the latest report of the UK’s Independent Commission on Banking (ICB) chaired by Sir John Vickers, which not only recommends to ring-fence, i.e. to insulate vital banking services on which households and SMEs depend from problems elsewhere in the nancial system, but also ban those ring-fenced banks from providing a wide range of risky activities (ICB 2011). 
+Second, we do suggest that higher levels of bank capital are required in order to limit the incentives for risk-taking and limit the number of risk-taking banks. This also follows the suggestions by the ICB re- port, which require ring-fenced banks to accumulate a capital backing of roughly 10 % of assets at risk in equity and 10 % in the form of Cocos. 
+Third we suggest that supervision should be seen as complementary to capital requirements and that banking supervisors should evaluate, not just whether banks are complying with particular regulations, but rather assess the overall riskiness of the operations of banks. To the ex- tent that banking supervisors do not feel comfortable with assessing the risk of a particular institution, this is in itself evidence that the institu- tional rules limiting complexity are insut and capital requirements should be raised further. 
+Finally, we advocate the potential use of Cocos, as a means for banks to obtain higher levels of equity but also as an automatic market-based trigger, perhaps set at levels where the bank remains solvent, to guard against problems of regulatory forbearance. 
+References 
+Akerlof, G. (1970): The Market for "Lemons": Quality Uncertainty 
+and the Market Mechanism. The Quarterly Journal of Economics, 
+Vol. 84, issue 3, pp. 488-500. 
+Bank for International Settlement (BIS) (2005): Basel Committee on 
+Supervision: The Joint Forum. Credit Risk Transfer. March 2005. 
+Bank for International Settlement (BIS) (2008): Credit fundamentals, 
+ratings and value-at-risk: CDOs versus corporate exposures. BIS 
+Quarterly Review, March 2008. 
+Bank for International Settlement (BIS) (2010): Press Release: Group 
+of Governors and Heads of Supervision announces higher global 
+minimum capital standards. 12.9.2010. Ref no: 35/2010. 
+19 
+
+========20========
+
+Barth, J., G. Caprio and R. Levine (2006): Rethinking Bank Regula- 
+tion: till angels govern, Cambridge University Press, New York. 
+Belianin, A.V. (2005): Signaling bank quality: an evolutionary ap- 
+proach to money market in transition. International College of 
+Economics and Finance,Higher School of Economics, Moscow, Rus- 
+sia. 
+Besancenot, D.; Vranceanu, R. (2010): Bank’s Risk Race: A Signaling 
+Explanation. Centre de Recherche, ESSEC, Business School Paris- 
+Singapore. DR09007. 
+Deutsche Bundesbank (2011): Return on equity by category of bank, 
+available on http://www.bundesbank.de/statistik/statistik banken 
+tabellen.en.php. 
+Farrell, D.; Folster, C. S.; Lund, S. (2008): Long-Term Trends in 
+the Global Capital Markets. McKinsey&Company, The McK- 
+insey Quarterly, Economics Studies, Februrary 2008. Online on 
+http://www.stern.nyu.edu/eco/B012303/Backus/Writing samples 
+/McKinsey%20Quarterly%2008.PDF, accessed on 13.8.2011. 
+Federal Reserve Bank of St. Louis Research Department (2011): Re- 
+turn on Average Equity for all U.S. Banks (USROE), available on 
+http://research.stlouisfed.org/fred 2/series/USROE/downloaddat 
+a?cid=93. 
+Garrett, E.H.; Macey, J.R.; (1988): Market Discipline by Depositors: 
+A Summary of the Theoretical and Empirical Arguments. Yale 
+Journal on Regulation: Vol. 5: pp. 215-239. 
+Global-Rates.com (2011): Euro and US LIBOR 1994-2006, available 
+on http://www.global-rates.com/. 
+Gropp, R.; Hakenes, H.; Schnabel, I. (2010): Competition, Risk-shifting, 
+and Public Bail-out Policies. The Review of Financial Studies. 
+(2011) 24 (6): pp. 2084-2120. 
+Hellman, T.F.; Murdock, K.C.; Stiglitz, J.E. (2000): Liberalization, 
+Moral Hazard in Banking, and Prudential Regulation: Are Capital 
+Requirements Enough? The American Economic Review. Vol. 90, 
+No.1. March 2000. pp. 147-165. 
+Hughes, J.; Lang, W.,; Moon, C-G.; Pagano, M. (1997): Measuring 
+E of Capital Allocation in Commercial Banking. Federal 
+Reserve Bank of Philadelphia. 
+20 
+
+========21========
+
+IMF International Financial Statistics (2011): Short-Term Bond Yields, 
+available on http://www.esds.ac.uk/international. 
+Independent Commission on Banking (2011): Final Report: Recom- 
+mendations, London: ICB. 
+Longsta F.A; Rajan, A. (2006): An Empirical Analysis of the Pricing 
+of Collateralized Debt Obligations. NBER Working Paper Series, 
+Vol. w12210, 2006 
+Maier, A. (2011): A Game Theoretic Approach to Regulative Capital 
+and Bailout Policies. University of Warwick, Unpublished MSc in 
+Economics and International Financial Economics Dissertation. 
+Maskin, E.S. (2008): Mechanism Design: How to Implement Social 
+Goals. American Economics Review 2008, 98:3, pp. 567-576. 
+Miles, D.; Yang, J.; Marcheggiano, G. (2011): Optimal bank capital. 
+Discussion Paper No. 31. External MPC Unit, Bank of England. 
+Miller, M.; Zhang, L. and Li, H. (2011): When bigger isn’t better: bail 
+outs and bank behaviour. CEPR DP 8602 (October) 
+Noldeke, G.; Samuelson, L. (1997): A Dynamic Model of Equilibrium 
+Selection in Signaling Markets. Working papers 9518r, Wisconsin 
+Madison - Social Systems. 
+Rajan, R.G. (2010): Fault Lines. How Hidden Fractures Still Threaten 
+the World Economy. Princeton University Press. Princeton and 
+Oxford. 
+Rochet, J.-C. (2008): Why are there so many banking crisis? In: Why 
+are there so many banking crisis? by J.-C. Rochet (editor), Prince- 
+ton University Press, Princeton. 
+Sinn, H. W. (2001): Risk-Taking, Limited Liability and the Competi- 
+tion of Banks Regulators. NBER Working Paper. 
+Sinn H. W. (2010): Casino Capitalism. Oxford University Press. 
+Spence, M. (1973): Job Market Signaling. The Quarterly Journal of 
+Economics. Vol. 87, No. 3. (Aug., 1973), pp. 355-374. 
+21 
+
+========22========
+
+Appendix: Behaviour of minimum capital ratio ki in 
+pooling equilibrium 
+The regulator’s loss function is: 
+ = (1 
+ p)(1 
+ !)(1 
+ s(1 
+Optimal capital ratio is: 
+s 
+ki = 
+(1 
+ p)(1 
+ !)(1 
+First derivative of ki w.r.t. theta: 
+ki 
+= 
+(! 
+ 
+2( + 1)2 
+ 1)(s( + 1)2r 
+This is negative as ! < 1. 
+First derivative of ki w.r.t. : 
+ki v 
+= 
+(!  1)((r 2( + 1)2 
+ 1)s( + 1)2 + r(s 
+(! 1)(s(( 
+ 
+For  < 1, this is positive, as ( s < . If  = 1, this becomes 
+ki  
+= 
+(! 
+r 
+2( + 1)2 
+which is still > 0. 
+ (1 
+ ))L(k) +  + c 
+(24) 
+ s(1  
+ (1 
+ ))) 
+(25) 
+ r(vs + 1)) 
+< 0 (26) (!  1)(+  r) 
+(+1) 
+ )) 
+> 0 (27) 
+ 1)+1)  1)(+  r) (+1) 
+ 1) < 0, (! 
+ 1) < 0 and assuming 
+ 1)r(s 
+ 1) 
+(28) 
+(!  1)(s  1)(+  r) 
+(+1) 
+22 
+
+========23========
+

@@ -1,0 +1,1016 @@
+June 2010 
+             No.17 
+Transport Cost and Endogenous Quality Choice Volodymyr Lugovskyy (Georgia Institute of Technology) and  
+Alexandre Skiba (University of Wyoming)  
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Transportation Cost and Endogenous Quality Choice.* 
+Volodymyr Lugovskyy  (Georgia Institute of Technology)  
+Alexandre Skiba  (University of Wyoming)  
+June 1, 2010  
+This  paper  examines  how  the  quality  of  exports  depends  on  relative  country  size  and  its  remoteness. Specific transportation cost is the key  variable in our analysis as it gives rise to the  Alchian-Allen  effect.  In  the  model,  we  allow  for  endogenous  quality  choice  by  a  producer  serving  many  international  locations.  Higher  quality  comes  at  higher  marginal  cost  of  production,  but  can  be  delivered  at  the  same  absolute,  and  thus  proportionally  lower,  transportation cost to a given destination. Our model complements the well documented demand- side response to the distribution of transportation  costs (known as the Alchian-Allen effect) by  the  supply  side  response.  We  show  that,  ceteris  paribus,  equilibrium  quality  decreases  in  the  domestic country size and increases in remoteness from foreign markets. This happens because a  larger  portion  of  the  demand  is  affected  by  the  Alchian-Allen  effect  for  smaller  countries’  producers,  and  the  Alchian-Allen  effect  is  stronger   for  remote  countries.  We  confirm  our  predictions  empirically  on  a  detailed  product  level   dataset  of  all  exporters  worldwide  into  a  sample of Latin American importers.    
+JEL  F1, R1   
+                                                 
+* 
+ We thank David Hummels, Johannes Moenius, Richard  Pomfret, the seminar audiences at the ANU, GA Tech, Kyiv School of Economics, Monash U, Purdue U, U Melbourne, UNSW, U of Wyoming, and the participants of  the  2009 EITI Conference in Tokyo, and 2009 EITG Conference in Melbourne.   
+
+========2========
+
+1.  Introduction  
+In the ‘new trade’ literature transportation cost is typically expressed in ad-valorem terms  
+as a Samuelson’s iceberg.  Traditionally, this choice is justified on the grounds of analytical  
+simplicity and limited empirical evidence on the functional form of transportation cost.  Recent  
+empirical literature, however, clearly shows that the transportation cost is not ad-valorem. A  significant component of the transportation cost is  instead specific 
+1.  Moreover, Hummels and  
+Skiba argue theoretically and show empirically that  the iceberg assumption is also not  
+innocuous: the specific component changes the relative prices of traded goods and shifts relative  
+demand in favor of the higher quality goods consistent with the Alchian-Allen conjecture.  As a  
+result, the relative demands across importers are not symmetric, and importers choose different  
+relative quantities from a given exporter.  
+While the Alchian-Allen conjecture is about the demand-side response to the specific  
+transportation cost, this paper complements the analysis by modeling the supply-side response.    
+Does the specific nature of transportation cost affect the quality of a nation’s output and exports?   
+In a simple general equilibrium model of trade with  endogenous quality choice, we show that a  
+specific transport cost provides incentives to produce higher quality goods, even though higher  
+quality is more costly to produce, and thus higher priced.  This is due to the fact that the  
+delivered relative price of the higher priced goods  is lower than the domestic one.  As first  
+pointed out by Alchian and Allen, this creates an incentive to “ship the good apples out.”  We  
+show that if the exports to output ratio decreases with country size, firms in smaller countries  
+have stronger incentives to “grow better apples,” since a larger share of their output faces a  
+transport cost.  Our theory can be anecdotally intuited by notorious examples of small countries  
+specializing in high quality goods such as Swiss watches, Belgian chocolate, Swedish cars, or  
+Vietnamese Kopi Luwak coffee.    
+In the empirical exercise we use 6 digit HS classification product level imports into a  
+sample of Latin American countries from all exporters worldwide between 1999 and 2002 to  
+relate quality of exports to country size and its remoteness. We show that, ceteris paribus,  
+smaller and more remote countries tend to export higher priced goods. Both findings are  
+consistent with our theory of Alchian-Allen effect with endogenous quality choice. The effect of  
+                                                 
+1 
+ See, for example, Hummels and Skiba (2004), Hummel s, Lugovskyy, and Skiba (2009), Irrarazabal, Moxnes, and  Opromolla (2010).   
+1  
+
+========3========
+
+remoteness on quality is nuanced. On the one hand, the producers in remote countries face lower  
+foreign demand.  On the other hand, the relative demands are more distorted by high  
+transportation cost.   
+Our work contributes to several literatures.  First, it is closely related to the within- 
+industry specialization literature.  Krugman (1979,  1980) describes how specialization can occur  
+within increasing returns to scale industry or even  within a differentiated product.  An important  
+implication of his seminal work lies in a formal description of the home market effect.  It states  
+that specialization due to increasing returns can be detected by the relationship between the  
+quantity of exports and the market size.  The more than proportional correlation between exports  
+and size indicates that larger countries specialize  in the increasing returns sector.  Further  
+pursuing this line of research, Schott (2004) and Hallak (2003) detect substantial within-product  
+specialization and point out that richer countries specialize in higher quality products.  In  
+particular, Schott’s results highlight considerable  vertical, international specialization even  
+within the most narrowly defined product categories.  We extend this literature by showing that  
+the within-product and within-industry vertical specialization depend on the country size and  
+remoteness.  
+Second, we contribute to the literature on the Market Potential Index (henceforth MPI)  
+and trade, the foundations of which can be traced back to the seminal work of Harris (1954).   
+Harris emphasized the fact that the demand for goods produced in a given location is the sum of  
+demands in other locations, which are the functions  of the purchasing power in these locations,  weighted by transport costs. 
+2 
+  The MPI is widely used in the fast growing econom ic geography  
+literature (see, e.g., Davis and Weinstein, 1999, 2003; Hanson and Xiang, 2004; Hanson, 2005),  
+which is based on the idea that the firm’s decisions depend on the location and size of the firm’s  
+customers and suppliers.  We are the first to decompose the MPI into domestic and foreign  
+components and separate the effect of each of the components on the quality choice. In  
+particular, if a single quality is to be chosen for  all markets, quality then increases in the  
+domestic GDP but decreases in the GDP of the rest of the world.  Furthermore, domestic  
+transportation cost increases the optimal quality, while the effect of the international  
+transportation cost might have ambiguous effect on quality.     
+                                                 
+2 
+ While until recently the market potential function  was rather ad-hoc, Fujita et al. (1999) provided m icro  foundations for the market-potential index by showing how it can be derived from formal spatial models.    
+2  
+
+========4========
+
+Third, we contribute to the quality and productivity discussion in the heterogeneous firms  
+framework.  Melitz (2003) assumes away quality differentiation, which then makes the lowest  
+(marginal) cost firms the most productive firms.  Baldwin and Harrigan (2007) challenge this  
+assumption and propose a variant of Melitz model in  which higher productivity firms are both  
+higher cost and higher quality firms.    Empirically they show that the factory prices of exported  
+goods increase with the distance to the destination.   Following Hummels and Skiba (2004), we  
+show that the positive correlation between the distance to the destination and export prices can  
+be due to the Alchian-Allen effect under a constant  set of exporters, rather than the self-selection  
+of higher quality firms.  If the fixed cost of exporting are exporter-specific (rather than  
+destination market specific), a proper test of the Baldwin-Harrigan hypothesis, stemming from a  
+multi-country extension of their model, is to find the effect of the exporter remoteness on the  export prices. 
+3 
+     
+Our model abstracts from the firm heterogeneity model because our focus is on the  
+relative demands and not on the sorting of firms into exporters and non-exporters. The main  
+theoretical mechanism in the models with heterogeneous firms is that the cost of exporting  
+reduces the set of exporters. Depending on the relation between the profits and price, the  
+exporters can be either the low or high cost producers. The nature of transportation costs and  
+differences in relative demands for quality do not play a role. A notable exception is presented  
+by Irarrazabal, Moxnes, Opromolla (2010) which  studies the distributional effects of specific  
+trade cost. They find that the variation in distribution of firm export values is consistent with a  
+fairly substantial specific trade cost.  
+Recently, exporter’s quality choice has been studied by Verhoogen (2008). He analyzes  
+quality upgrading among Mexican exporters to the US. The quality difference among exporters  
+and non-exporters is driven by the American preference for quality and not the nature of  
+transportation cost. Our empirical exercise allows for quality preference by high income  
+countries, but the main focus is on transportation cost.  
+The rest of the paper is organized as follows: theoretical framework is described in  
+section 2, section 3 presents the empirical findings, and section 4 concludes.  
+2.  Theoretical Framework  
+                                                 
+3 
+ We discuss the various alternatives of modeling th e fixed costs of exporting in greater detail after Proposition 1.  
+3  
+
+========5========
+
+We model the quality choice of two monopolists, which produce differentiated goods  
+(one each) and face demands from  i I= 1,2,...,  countries. The monopolists have to incur both  
+production and shipping costs, and the chosen quality level is the same across all destinations.    
+Similar to the Samuelson iceberg, the shipping prices are posted in ad-valorem terms,  however,  
+the market values of the shipping prices (also referred to as “the tip of the iceberg”) are the same  
+across goods and quality levels.  As a result, our model allows us to simultaneously distinguish  
+between the Alchian-Allen effect and endogenous quality choice and preserve the analytical  
+convenience of the iceberg transportation cost.  
+   
+2.1. Preferences and Production Function  
+Preferences of a representative consumer in country i  are defined over a numeraire good   
+n  and two types of differentiated goods,  x  and  z:  
+∑ ∑ 
+I I 
+( ) 
+σ σ− −1 1 
+(1)  U x zi e ie e ie= + +λ θσ σ ( ) 
+ni 
+         
+e e= =1 1 
+γi 
+γi 
+> 0, σ > 1 ,   
+where λ 
+e 
+and  θ 
+e 
+are quality levels of goods  x  and  z  produced in country  e;  
+ni,  xie , and  zie  are consumption levels of goods  n,  x, and  z  by a representative consumer in  country  i, where the origin of production of goods  x  and  z  is indexed by  e.   
+Labor is the only factor of production and is supplied inelastically.  There are  Li  consumers in  country  I, and each consumer is endowed with one unit of labor.  The numeraire sector is  
+characterized by perfect competition and constant returns to scale.  One unit of labor can produce  wi 
+units of the numeraire in country  i.  The numeraire is traded at zero cost.  We assume  that the  
+numeraire sector is large enough for both countries  to have strictly positive output of the numeraire.    
+The introduction of the numeraire in the model simplifies the balance of trade calculation and ties  
+the wage to productivity in the numeraire sector.   
+The rest of the model is set from a perspective of one country, Home, indexed by  h.  For  
+brevity, we mostly omit indexing producer-specific variables, since both of the producers of interest  
+are located in Home. Differentiated goods are produced by monopolies.  In Home, the cost function  
+is characterized by marginal labor requirements, a  and  b, which are functions of productivity  parameters ( B , , 0 α β > ) and chosen quality levels for goods  x  and  z, correspondently:4    
+                                                 
+4 
+ A similar marginal cost function was first introdu ced by Flamm and Helpman (1987) and later used by Hummels  and Klenow (2005).    
+4  
+
+========6========
+
+(2)  a e(λ) = 
+λ α / θ β/ 
+          
+b Bb= .5 
+Technologically quality is bounded from above and below for both types of differentiated goods,  
+λ λ λ∈  , , θ θ θ∈   , .   
+2.2. Transportation Cost 
+Similar to the standard Samuelson iceberg form, the  transportation of a good requires a  
+fraction of the good itself, however, we deviate from assuming the “tip of the iceberg” to be the  
+same across goods.  Instead, we assume the price of  transportation, calculated in monetary terms  
+(at the market price of the transported good), to be the same across various goods and quality  
+levels.  That is, while producers of apples or oranges pay for transportation in units of those  
+goods, the dollar value of the transportation price  is the same across all types of apples and  
+oranges.  The difference between the traditional Samuelson iceberg and the modified iceberg is  
+illustrated in Figure 1.   
+Let us set the absolute (in monetary terms) price of transportation between Home and a  
+given destination  i  to be  ti.   Now, the transportation cost expressed in ad-valor em iceberg terms  will obviously depend on the price of the transported good, while the price itself might depend  
+on the transportation cost.  We assume that the shippers post their (ad-valorem) prices first.  For  
+a given good  x  of quality level  λ, transporters calculate the expected factory-gate price 
+6 
+E p  0(λ)  and for every destination  i  they post the value of the iceberg  τ λ 
+i 
+( )  such that the  
+market value of the tip of the iceberg evaluated at  the expected price is  ti:  (3)  
+(τ λ λ 
+i i( 
+)− =1)E p t   
+0 
+( ) .  
+Producers then take ad-valorem rates as given.  Similarly, to deliver a unit  z  of quality  θ ,  transporters require  
+(ρ θ 
+i 
+( )−1)  units of the corresponding quality, such that  (4)  
+(ρ θ θ 
+i i( 
+)− =1 ) E q t   
+0 
+( ) ,  
+where E q[ 
+0] 
+ is the expected factory gate prices of good  z, quality  θ .  The two-stage price  
+setting mechanism is also illustrated in Figure 2.     
+                                                 
+5 
+ Additional multiplier  B  is added to the functional form of the marginal co st of good  z,  b, to allow for differences in  the magnitudes of marginal costs  a  and  b  in equilibrium.   
+6 
+ Factory-gate prices are the prices charged under z ero transportation cost.   
+5  
+
+========7========
+
+  Consistent with the empirical literature on intern ational shipping we assume that, for a  
+given exporter, transportation cost increases in the distance to the destination:  
+(4)  
+t ti j>  if and only if   dist dist> 
+i j 
+,  
+where  dist 
+i 
+ and  dist 
+j 
+  are the distances from Home to countries  i  and  j, respectively.       
+2.3. Market Equilibrium  
+Monopolists located in Home face demands for their products from multiple countries  
+and maximize their respective profit functions:    
+I I 
+(5)  π τX i i i= −∑X p w a( ) π ρZ i i i= −∑Z q w b( ),  
+i=1 
+    
+i=1 
+where  Xi and  Zi  are the quantities of goods  x  and  z  delivered to country  i.   
+From the first order conditions with respect to the  quantity shipped to each destination,   (6)  
+d π 
+X 
+dpi i iτ 
+i 
+dX dX= − + =( )p w a X 
+0 
+d π 
+Z 
+dqi i iρ 
+i 
+i i 
+dZ dZ= − + =( )q w b Z 
+0 i I=1,2,..., , 
+i i 
+we find the optimal delivered prices to every location i :  
+(7)  pi = 
+σ τ wa 
+i 
+σ ρ wb 
+i 
+σ −1 
+        
+qi = 
+σ −1 
+        The expected factory-gate prices for goods  x  and  z  are then  
+(8)  E p we[ 
+/ 
+( 1)     E q wBe[ 
+0] 
+= −σ σθ β 
+/ 
+0] 
+= −σ σλ α ( 1).   
+i I=1,2,..., .  
+By plugging these results into equations (3) and (4) we find the equilibrium ad-valorem shipping  
+prices set by transporters:   
+(9)  τ λi i( )= +t e 
+− λ α/ 
+1 
+      
+ρ θi i( )= +t B e 
+− − 1 /θ β 
+1 
+Note that even though we allowed for market segmentation, in equilibrium, the f.o.b. prices are  
+the same across destinations, they do not depend on  the shipping charges, and the “no arbitrage”  
+condition holds.  Thus, despite the specific nature  of transportation cost, the analytical  
+convenience of the traditional Samuelson iceberg is  preserved.  
+The first order condition with respect to the quality level of good  x is given by  d π 
+I 
+X 
+ dX dX d 
+i i 
+  da τ 
+d d dp d dλ λ λ λ= + − + − + =∑ ξ τ ξ τ 
+  
+i i i i i i( )p w a X w a    = 
+i 
+ 
+i 1 
+i    
+ 
+0, 
+ 
+6  
+
+========8========
+
+where  ξ = + 
+dp dc dp di i iτ 
+i 
+dc d d dλ τ λ 
+.   Given the utility function (1), equilibrium price s (6), and  
+i 
+transportation costs (9), the above formula can be simplified to:  
+I 
+(10)  
+dπX  1 
+λ λ α= − =∑ 
+aw X 
+τi 
+d 
+i  i=1 
+0, 
+  
+The equilibrium quality level is then:   
+ i 
+(11)  λ α* .= 
+Xi iτ 
+ ∑ 
+  ∑ 
+i 
+X 
+i 
+Note that both Xi   and  τ 
+i 
+depend on quality, and thus equation (11) does not provide an explicit  solution for the profit-maximizing quality.  Nevertheless, it is a useful and intuitive result:  the  equilibrium quality level is a weighted average of transportation costs scaled by technological  parameter  α, where the weights are the corresponding quantities.  
+In interior equilibrium, the ratio of marginal utilities for any two goods equals to the ratio  of their prices.  By applying this condition to the  numeraire and good  x,  
+dU dU 
+i i 
+dx dn 
+= 
+pie 
+ie i 
+1 
+, we get  
+− 
+− 
+γ λσ 
+1( )σ 
+1 
+− 1 
+i i i ix x pσ 
+σ 
+= ,  
+from which the export per consumer to country  i  is   x pσ 
+σ σ − − 
+i i i= −γ σ σ λ 
+( ( )1 / ) 
+1 
+, and the  corresponding export per country-importer is  
+(12)  X L pi i i i= −(γ σ σ λ( )1 / .σ 
+) 
+σ σ− − 1 
+After plugging the above expression into (11) and rearranging terms we get:  
+∑ 
+− 
+(13)  λ α 
+i 
+Li i i i γ τ τσ σ* .= 
+∑ 
+i 
+Lγ τσ σ− 
+i i i 
+As indicated by the second order conditions,   
+(14)  
+d2 π σ σ1 1w e L− − −σ σ σ σλ γ τ− −( )σ λ α1 / 
+1 1 
+  d λ α ατ λ α= − −∑ 
+2 i i i i 
+   i 
+7  
+
+========9========
+
+there exists a range of parameters for which (13) is profit-maximizing quality. 
+7 
+  In the  
+comparative statics section we will focus on the interior equilibrium.  In the case of the corner  
+solution (either  λ λ*=  or  λ λ= * ), marginal variation in parameters will not affect  the optimal  
+quality choice.    
+The same derivations and discussion applies to the optimal quality choice for good  z,  
+with the optimal quality level being:  
+= 
+ −θ β 
+(15)  
+γ ρ τσ σ* .iL 
+ ∑ 
+i i i i 
+  ∑ 
+i 
+Lγ ρσ σ− 
+i i i 
+2.3. Predictions  
+We start by showing that the standard Alchian-Allen  effect holds in our model.  
+Proposition 1 (Alchian-Allen effect):  In equilibrium for a given exporter, a larger shar e of the  
+more expensive good is shipped to a more distant location.    
+Proof:   By applying equation (12) to both  x  and  z, we can find the equilibrium ratio of the two  
+goods shipped from a given exporter to country  i:  
+Z qθσ σ− −1= = 
+i i 
+θσ−1 X pλ λσ σ σ− − −1 1 
+i i 
+ Be t B eθ α θ β/ 1 /( )− −  i 
++1   + 
+e t eλ α λ α/ /( )−i 1 
+−σ 
+Next we calculate how this ratio compares between destinations  i  and  j:   
+Z t B eZ t B e − −1 /θ β 
++ 
+− − 1 /θ β X X t e t e− −λ α λ α/ /i j j i1 1 
+== 
+1 
+ + 
+1 
+σ 
+i 
+j j 
+i 
+  + + 
+Now if  z  is a higher marginal cost good ( Be eθ β λ α> 
+/ / 
+), the ratio is greater than one if and only if  
+t ti j> , which according to equation (4) is possible if and only if country  i  is further away from  
+Home than country  j.  ■ 
+  Next we show how the size and internal shipping co st of country-exporter affect quality.  
+Proposition 2:  Quality decreases in the internal (domestic) trans portation cost and increases in  
+the purchasing power of the country-exporter.   
+Proof:  The first result follows directly from applying the  implicit derivation to equation (10):  
+                                                 
+7 
+ An obvious case is for  σ τ< min ,{ 
+i} 
+but the range is much broader than that.   
+8  
+
+========10========
+
+dλ* 
+d wL( ) 
+= − − − − <  
+ τ γ τσ σh i i i1 1Iw 
+− 
+γ τ 
+σ σ − 
+  
+λ α ατ ατ α λi=1 
+∑ 
+L  σ σ 
+h h h 
+* 
+ h 
+0. 
+8 
+w Const= 
+i i   
+Intuitively, quality is a weighted average of transportation cost (scaled by α ).  When we  increase any of the bilateral transportation costs,  the direct effect on quality is positive.  The  indirect effect of higher transportation is negative for many foreign destinations since higher  transportation cost decreases the share of goods exported.  For the domestic market, however, the  indirect effect is also positive, since it decreases the share of output consumed domestically (and  thus increases the export share).   
+The second result also follows from applying the implicit derivation to equation (10):  
+dλ* 
+− 
+= − − − − − >    ( )σ γ τ1 L e wσ σ λ α− − 
+/ 
+1 1 1/ 1I − σ σ σh h h γ τσ σi i iL 
+ = 
+0. 
+9 
+dt 
+■ 
+h     ατ λ ατ ατ α λ∑ h 
+i 1 i i 
+h 
+Finally, we will examine how quality reacts to the remoteness of the country-exporter.    
+For this purpose we decompose the transportation cost parameter to foreign destinations, ti  ( i≠h),  into two components 
+10 
+. The first component, the overall exporter’s remoteness index  R, is a  
+measure of remoteness consistent with the Market Potential Index measure, widely used in the  
+economic geography literature (see, e.g., Hanson and Xiang 2004):   
+R = 
+∑ 
+i h≠ 
+GDP 
+(16)  
+i 
+∑ 
+( ) 
+0.92 
+. 
+GDP Dist 
+− 
+i h ≠ 
+i i 
+    
+The second component is the destination-specific multiplier, ti :  
+(17)  t Rt= 
+i. 
+i 
+Proposition 3:  Remoteness increases the average transportation co 
+                  
+st to foreign destinations  
+which creates stronger incentives to upgrade quality. At the same time, higher transportation  
+costs make goods less competitive on foreign markets, which decreases the volume of exports,  
+                                                 
+8 
+Note that from equation (11) λ α τ*= 
+∑ ∑ 
+i iX Xi i i 
+ , optimal quality is a weighted average of transpo rtation cost  (scaled by  α ).  Thus  λ ατ ατ> = * min ( 
+i h) 
+ and the expression in the round brackets is positi ve.  The denominator is  the second derivative of profit with respect to quality and is negative for the interior equilibrium.9 
+The same argument as in the previous footnote applies here. 
+10 
+ Such breakdown of the transportation cost can aris e from  a hub-and-spoke geography.  R  is the exporter's distance  to the hub and  
+t 
+i  is the distance from the hub to the destination.  
+9  
+
+========11========
+
+and thus decreases the optimal quality level.   The  total effect is ambiguous and depends on the  
+parameters of the model.  
+Proof:  After applying the implicit derivation to equation (10):  
+2 
+(18)  
+dλ σ* 
+= − − − +∑L 
+σ σ 
+( )1 , 1 1 1 
+di i i iγ τ τ− π  
+X 
+dR R 
+ ατ λ σλ λi 
+* * d 
+2 
+i h≠ 
+which can be both positive and negative.11 ■ 
+Intuitively, the direct effect of remoteness (higher transportation costs to all foreign  destinations) provides an incentive to choose higher quality.  However, the indirect effect (lower  share of output devoted for exports) makes firms more oriented on domestic market and  consequently favors choosing lower quality.  The higher the elasticity of substitution, the more  sensitive foreign markets are to changes in prices and the stronger the indirect effect.   
+2.5. Discussion  
+As follows from Proposition 1, an exporter ships a higher quality mix of goods to more  
+distant locations, even when its set of firms and quality levels are fixed.   This provides an  
+alternative explanation for the “larger distance – higher export price” empirical finding of  
+Baldwin and Harrigan (2007), who attribute it to the self-selection of higher quality exporters to  more distant locations. 
+12 
+    
+  Note also that while theoretical predictions of Ba ldwin and Harrigan (2007) are based on  
+the two-country model, their empirical exercise involves multiple countries.  The transition from  
+the two-country model to the multiple-country empirics crucially depends on the nature of the  
+fixed costs of exporting.   Using bilateral distances in the empirical part is consistent with  assuming that the fixed costs of exporting are destination-specific. 
+ 13 
+   The set of exporters in this  
+case will vary across destination.  The common fixed cost of exporting, on the other hand, will  
+result in the set of exporters being constant across destinations.  It will depend, though, on the  
+remoteness of a country-exporter from all foreign markets.  The empirical literature on the nature  
+                                                 
+11 
+ For example, the expression in equation (18) is ne gative (positive) for sufficiently high (low) values of  σ. 12 
+ Note that Baldwin and Harrigan assume traditional  iceberg trade barriers and according to their model, tariffs  should have the same (positive) effect on prices as  distance.  However, as shown by Hummels and Skiba  (2004),  tariffs actually have the opposite (negative) effect on prices. This supports the hypothesis that distance increases  export prices due to the specific nature of transportation cost, which triggers the Alchian-Allen effect.  13 
+Theoretical examples of modeling destination-specific fixed cost of exporting include Baldwin and Forslid  (2006), Chaney (2008), and Ardelean and Lugovskyy (2010).   
+10  
+
+========12========
+
+of the fixed cost of exporting is extremely scarce,14  which prevents us from picking one of the  
+alternatives with certainty.  If one, however, allows for the fixed cost of exporting to contain  
+both the exporter and destination-specific components, the interpretation of the effect of  
+remoteness on the average price of exports can be extended to the heterogeneous firms  
+framework.  In particular, the Baldwin and Harrigan  hypothesis of higher quality – higher  
+productivity will be supported if remoteness increases the average price of exports.  
+3. Empirics  
+3.1.  Data  
+Our data sample comes from the BTI trade database for 1999-2002.  We have multiple  
+Latin American importers (Argentina, Brazil, Chile,  Ecuador, Peru, Uruguay) and therefore  
+many importer-exporter pairs.  We employ data on Latin American imports in each year  t,  
+disaggregated by importer  i, exporter  k, product  s  (HS 6 digit data which includes roughly 5,000  
+product categories) and transport mode  m  (air, ocean). We observe value, weight, duties paid,  
+and shipment charges for each  i-k-s-m-t  observation. We only employ ocean shipping data, and  
+hereafter drop the mode  m  subscript.  
+The data on GDP per capita and population size are from the World Development  
+Indicators (1999-2002) and bilateral great circle distances between capital cities of trading  
+partners are from Head and Mayer (2002). 
+3.2.  Empirical specification  
+Our identification of quality in trade is based on the presumption that prices contain  
+information about the quality. Theory links observed average prices to quality through the cost  
+function, the price equation, and relative quantities.   
+p p q= +X Zi iX Z X Z+ + i i i 
+i i i i 
+Combining the expressions for quality and cost with  the pricing equation we get the  
+following expression for the average price:  
+                                                 
+14 
+ The only known empirical test of whether the fixed  cost is destination or exporter-specific is perfor med by  Hanson and Xiang (2008).  They find that in the US movie industry, the fixed cost of exporting is rather exporter- specific, but acknowledge that the movie industry is very particular and that this is not necessarily universal across  sectors.    
+11  
+
+========13========
+
+p w e Be= +σ 
+ λ α θ β/ /Z Xi i/ 1 
+i 
+σ − + +  Z X Z X 1 1 / 1 /i i i i 
+. 
+Close inspection of the average price equation reveals that the average price depends on cost  
+shifters, quality composition, and optimal quality levels. The cost shifters enter as wage and will  
+be approximated by the exporters GDP per capita. Exporter's income is likely to pick up some  
+variation in the quality productivity parameter. The quality composition effect due to the  
+Alchian-Allen effect works through the shares of goods x  and  z  in a way described by  
+Proposition 1. We follow closely the instrumenting strategy used by Hummels and Skiba (2004)  
+using distances and trade volumes to instrument for  the specific component of the transportation  
+cost. The main interest of our investigation lies however in the quality choice. Theory suggests a  
+set of plausible exporter specific exogenous quality shifters.  
+In order to arrive at the estimating equation we use the following procedure. First, we  
+condition on cost and the Alchian-Allen quality compositional effect by including exporter’s  
+GDP per capita and properly instrumented transportation cost. Second, we identify theoretically  
+important exporter specific exogenous size and geography shifters. Third, we construct  
+specification based on a reduced form approximation. And finally, we condition on other known  
+quality shifters not included in our model.  
+  From equations (11) and (15) the optimal quality i s a function of the exports weighted ad- 
+valorem equivalent of the transportation cost. The combined summation terms in both equations  
+are a function of the relative size of transportation cost and thus are determined by quality.  
+However the quality choice is driven by some factors that shift the combined term and are  
+outside the firms control. Those are relative country size and geographical variables. We have  
+explored these connections theoretically and verified that the size and geography variables have  
+the predicted effect under a reasonable set of assumptions. With the help of some analytical  
+simplifications we were able to find closed form solutions for quality and solve for the first and  
+second order conditions. Unfortunately there is no closed form structural solution for estimating  
+equation and therefore we rely on the first order logarithmic approximation to construct the  
+estimating equation.  
+  Chief among the size variables is country’s own si ze. Domestic GDP determines relative  
+size of the domestic demand. Notice that in our model the effect of size is very different from the  
+home market effect. Home market effect works by making a location with larger demand more  
+12  
+
+========14========
+
+attractive for the increasing returns to scale firm. Domestic size in our model affects the share of  
+the total output sold with the lower distortion due  to specific transportation cost. The basic  
+identifying assumption is that the international shipping has to incur domestic shipping and the  
+international shipping and thus domestic demand for  home goods is less distorted by the specific  
+transportation cost. One can easily find counter examples of producers in Seattle, Washington,  
+for whom shipping to Vancouver, British Columbia, is probably cheaper than shipping to Miami,  
+Florida. Such situations are however more likely in  geographically large countries with larger  
+domestic transportation cost.  
+There is an obvious role for internal distance. A producer in a large country needs to  
+incur higher transportation cost to reach domestic consumers and thus domestic consumers also  
+face some distortion in relative demands due to transportation cost. We know very little about the  
+exact size of the intra-national trade costs. The proxy for internal trade costs from the literature  
+on home market and market potential index is the land area. A producer in a larger country other  
+things being equal incurs a higher transportation cost to reach the consumers. There are  
+potentially numerous ways to improve on this variable by taking into account concentration of  
+population, average population density, features of  geography that may affect special  
+concentration of demand. We leave those considerations for future work and choose the most  
+commonly used measure. Using land area makes our results more compatible with the market  
+size variables used in the MPI literature.   
+Another exogenous quality shifter is the position of a country relative to the rest of the  
+world's demand or its remoteness. Remoteness is simple to model but hard to measure because it  
+is simultaneously a function of geography and market sizes. For example, intuitively we think  
+that South African is more remote than Belgium because Belgium is close to the largest  
+European countries while South Africa is far from all major large markets. A natural candidate  
+for the remoteness variable from the MPI literature  is the GDP weighted distance to the foreign  
+markets. This variable is inversely related to the foreign portion of the market potential index.   
+Our model suggests that the remoteness affects quality in two separate ways. First, the  
+market potential of the rest of the world can be thought of as the size of the foreign demand.  
+Larger foreign demand means that a higher share of output is sold subject to the non-iceberg  
+transportation costs. This gives producers incentive to upgrade quality. But at the same time the  
+market potential of the rest of the world is also a  measure of remoteness. An exporter that is  
+13  
+
+========15========
+
+further away from its importers has a stronger incentive to produce higher quality because the  
+relative demands are more biased in favor of the high quality due to higher transportation cost.  
+Consider the following thought experiment. Two countries with the same GDP have the same  
+GDP of the rest of the world. However, a producer in a remote country would face a lower  
+foreign demand measured by  MP 
+ROW 
+kt 
+ than a producer in a centrally located country. Th is creates  
+incentive for the centrally located producer to increase quality. The expected size on the foreign  
+demand variable is therefore positive. At the same time, the producer in the remote country has  
+incentive to upgrade quality due to costly transportation. In order to measure remoteness we  
+scale GDP of the rest of the world by the foreign demand: GDP MP 
+ROW ROW 
+kt kt/ 
+. If a country is  
+remote, the foreign market potential differs significantly from the size of the rest of the world.  
+The effect of this variable on quality is also expected to be positive. The land area captures effect  
+of internal distance. A producer in a larger country would face on average a larger non-iceberg  
+transportation cost than a producer in a smaller country.   
+It is likely that remoteness determines development  and thus market size but at any given  
+point in time we can treat them as unrelated from the standpoint of a given exporter of a given  
+product. Figure 3 plots country size against its remoteness. The plot is suggestive that there is a  
+sufficient amount of variation in the size and remoteness to identify separate effects.  
+In our theory there is no place for importer's income. In theory we abstracted from  
+importer's incomes by assumption to streamline the treatment of our main question. To hold  
+other things constant we explicitly condition on the importer's GDP per capita in the estimation.  
+Previous literature on quality and trade shows that  income differences are a significant  
+determinant of quality. Markusen (2010) offers a detailed overview of the related issues and  
+explores implications of non-homothetic preferences  for trade. Markusen sidesteps the issue of  
+quality but to the extent that we rely on variation  in prices to identify quality his paper is  
+relevant.  
+Our theory is about cross sectional differences. We  treat time dimension with time fixed  
+effects and time effects interacted with other fixed effects.  
+Combining above considerations we arrive at the estimating equation:  
+14  
+
+========16========
+
+(19)  
+MP 
+ROW ln ln ln ln ln VALikst = + + + +α α α α αs kt k kt1 2 3 4GDP AREA MP 
+ROW 
+  
+kt    
+WGT 
+   
+GDP 
+ROW 
+ikst kt 
++ + + +α α α νFRT GDP GDPikst it kt5 6 7ln ln ln           
+     WGT POP POP 
+ikst 
+ikst it kt 
+. 
+3.3.  Results  
+The results of the estimation are presented in Table 1.  The four specifications reported in  
+four columns differ in the detail of the error component accounted by the fixed effects and by  
+decomposition of the remoteness measure in the foreign demand and average distance  
+components. The main message of the table is that we find broad support for our main theoretical  
+hypotheses about the effect of size and remoteness on the price. As predicted quality decreases in  
+the GDP of the domestic market: doubling the size of the domestic market decreases the factory  
+gate price of exported goods by 6-7%.  There is a possibility that the larger domestic market  
+allows for better utilization of the increasing returns to scale, which lowers the production cost  
+and consequently the prices.  While we do not provide a direct test which would allow to  
+distinguish between the two hypotheses, according to the lower production cost story, the  
+proximity of the foreign markets should work in the  same direction and lower the prices.   
+Instead, we find that the proximity of the foreign market increases the prices, which contradicts  
+the lower cost intuition. Specifications 3 and 4 reveal a weak but significantly positive effect of  
+remoteness on quality implying that the quality upgrading effect of distorted demands dominates  
+the effect of smaller foreign demand. When we include both the foreign demand and the  
+remoteness the effect of remoteness becomes stronger by an order of magnitude because it is  
+counter acted by the direct measure of the foreign demand which has predictably a strong  
+positive effect..  The presence of the Alchian-Allen effect is confirmed by the positive “Freight  
+rate” coefficients.  The magnitudes are similar to the results obtained by Hummels and Skiba  
+(2004).  
+Consistently with the Proposition 2, factory prices  increase with the within-exporter  
+transportation cost, approximated by the land area of the country-exporter. Per capita incomes of  
+both importers and exporters are associated with higher quality.  
+15  
+
+========17========
+
+4. Conclusions  
+We find that when a good is exported by many countries, the average price of exports is  
+lower for larger countries. We show how this link between the size and average price can arise  
+from the interaction between the Alchian-Allen effect and the endogenous quality choice. The  
+empirical results are consistent with our theoretical predictions.  Quality decreases in the market  
+size and remoteness of the exporting country, while  increases in the internal transportation cost  
+(within the country-exporter) and the size and proximity of the foreign destinations.   
+There could potentially be other reasons why large countries have lower export prices.   
+Large countries might choose a “high fixed cost - low variable cost” technology due to the larger  
+size of the domestic market.  Alternatively, importers might consider a country of origin as an  
+additional factor of differentiation, which might force producers form large countries to charge  
+lower export markups due to higher competition with  similar varieties.  Unfortunately, with the  
+data in hand, we are not able to test for the mechanism that lowers the export prices for large  
+countries.    
+A useful, though not central contribution, of this paper is the new way to model  
+transportation cost that is price neutral but not quality neutral. This is a critical simplification that  
+allows for analytical treatment of endogenous quality choice in the multi-country setting.   
+In this paper we do not model a relation between elasticity of substitution and quality.  
+The elasticities of substitution for high and low qualities are identical. This assumption of  
+convenience is not always innocuous because it is the interaction between the iceberg  
+transportation cost and elasticity that determine existence and relative strength of the Home  
+market effect for high and low quality varieties.  
+16  
+
+========18========
+
+References  
+Ardelean, Adina and Volodymyr Lugovskyy (2010) “Domestic Productivity and Variety  Gains from Trade”  Journal of International Economics , 80 , pp. 280-291.   
+Chaney, Thomas (2008) “Distorted Gravity: the Intensive and Extensive Margins of  International Trade” American Economic Review,  98(4), 1707–1721 
+Baldwin, R. E. and R. Forslid (2006). “Trade Liberalization with Heterogeneous Firms.”   NBER WP 12192 
+Baldwin, R. and J. Harrigan (2007). "Zeros, Quality  and Space: Trade Theory and Trade  Evidence," NBER Working Papers 13214. 
+Broda, Christian and Weinstein, David E. (2006). “Globalization and the Gains from  Variety”,  Quarterly Journal of Economics,  121(2), 541-585  
+Choi, Yo Chul (2006) “Essays on Product Quality Differentiation and International  Trade”, Purdue University, Ph.D. Dissertation.  
+Eaton, Jonathan and Samuel Kortum (2002). “Technology, Geography, and Trade”,  Econometrica  70(5): 1741-1779 (September).  
+Feenstra, Robert C.,  James A. Markusen, and Andrew  K. Rose (1998). "Understanding  the Home Market Effect and the Gravity Equation: The Role of Differentiating Goods," NBER  Working Papers 6804, National Bureau of Economic Research  
+Flam, Harry, and  Elhanan Helpman (1987). "Vertical  Product Differentiation and North- South Trade,"  American Economic Review ,  vol. 77(5) , 810-22.    
+Fujita, Masahisa; Krugman, Paul and Venables, Anthony J. (1999).  The spatial economy:  Cities, regions, and international trade.  Cambridge, MA: MIT Press.  
+Goldberg, Pinelopi, and Michael M. Knetter. (1997) “Goods Prices and Exchange Rates:  What Have We Learned?”  Journal of Economic Literature,  35, 1243–72.  
+Feenstra, R. C. and H. L. Kee (2008).  “Export Variety and Country Productivity: Estimating  the Monopolistic Competition Model with Endogenous Productivity.”  Journal of International  Economics  74(2), 500-518   
+Hallak, Juan Carlos (2006). “Product Quality and the Direction of Trade.” Journal  of  International Economics  68(1): 238-265.  
+Hallak, Juan Carlos, and Peter Schott (2008) “Estimating Cross-Country Differences in  Product Quality.” NBER Working Paper 13807  
+Hanson, G. (2005)  “Market Potential, Increasing Returns, and Geographic  
+Concentration”  Journal of International Economics,  67(2005), 1-24  
+Hanson, G. and C. Xiang (2004): “The Home-Market Effect and Bilateral Trade  
+Patterns,”  The American Economic Review , Vol. 94, No. 4. pp. 1108-1129.   
+Hanson, Gordon and Chong Xiang (2008). "Testing the  Melitz Model of Trade: An  Application to U.S. Motion Picture Exports,"  NBER Working Papers 14461 
+Head, K. and T. Mayer (2002).  “Illusory Border Effects: Distance Mismeasurement Inflates  Estimates of Home Bias in Trade.”  CEPII WP  2002-01.  
+Helpman, Elhanan, and Paul R. Krugman (1985). Market Structure and Foreign Trade.  Increasing Returns, Imperfect Competition, and the International Economy , Cambridge, MA:  MIT Press.  
+Hummels, David (2001) “Toward a Geography of Trade Costs”, Purdue University,  mimeo   
+17  
+
+========19========
+
+Hummels, David, Peter J. Klenow (2002). "The Variety and Quality of a Nation's Trade,"  NBER Working Papers 8712, National Bureau of Economic Research  
+Hummels, David and Klenow, Peter J. (2005), “The Variety and Quality of a Nation’s  Exports”, American Economic Review  95, p704-723  
+Hummels, David, Lugovskyy, Volodymyr, and Skiba, Alexandre (2009).  “The Trade  Reducing Effects of Market Power in International Shipping”,  Journal of Development  Economics , vol. 89(1), pages 84-97  
+Hummels, David and Lugovskyy, Volodymyr (2009).  "International Pricing in a  Generalized Model of Ideal Variety,"  Journal of Money, Credit and Banking , Blackwell  Publishing, vol. 41(s1), pages 3-33, 02.  
+Hummels, David and Skiba, Alexandre (2004). "Shipping the Good Apples Out? An  Empirical Confirmation of the Alchian-Allen Conjecture,"  Journal of Political Economy ,  University of Chicago Press, vol. 112(6), pages 1384-1402.  
+Schott, Peter (2004): “Across-Product versus Within-Product Specialization in  International Trade.”  Quarterly Journal of Economics  119(2):647-678  
+Samuelson, P. A. (1954), “Transfer Problem and the Transport Cost, II: Analysis of  Effects of Trade Impediments,”  Economic Journal , 64, 264-289.  
+    
+18  
+
+========20========
+
+(a) Samuelson Iceberg Transport Cost: the  tip 
+of the iceberg  is the same across goods.  
+τ 
+Absolute Transport Cost, in $  
+1.4  
+4 
+8 
+12 
+Ad Valorem  
+Transport Cost  
+1  
+p0 = 
+10 
+p0 = 
+20 
+q0 = 
+30 
+Factory  price in $ 
+τ 
+(b) Modified Iceberg: the  market value  of  the tip of the iceberg is the same across  
+goods 
+Absolute Transport Cost, in $  
+1.4  1.2  1.33  1  
+4 
+4 
+4  
+p0 = 
+10 
+p0 = 
+20 
+q0 = 
+30 
+Factory  price in $ 
+Figure 1.  Samuelson Iceberg vs Modified Iceberg Transportation Cost.  
+Stage 1. Transporters  
+Transporters calculate the expected factory-gate prices for  all goods and quality levels.    
+They use this information to post the ad-valorem  transportation price for each good such that for a given  destination, the price of transportation expressed in dollar  terms is the same across all goods.  
+Stage 2. Producers  
+Producers take the schedule of ad- valorem transportation prices as given  and choose the profit-maximizing  quantities, prices and quality levels.   
+Figure 2.  Two-Stage Decision Making Process.  
+    
+19  
+
+========21========
+
+200 
+150 
+100 
+50 
+Exporter's GDP rank (low --> high) 
+0 
+United States 
+CanadaGermanyUnited KingdomItalySpain 
+France 
+China 
+Japan 
+Korea, Rep.Sweden 
+Mexico BrazilArgentina 
+Belgium 
+NetherlandsSwitzerland India 
+AustriaPoland TurkeyRussian Federation 
+DenmarkFinland 
+Hong Kong, ChinaThailand 
+Saudi Arabia 
+IndonesiaSouth Africa 
+Ireland 
+PortugalGreece 
+Egypt, Arab Rep. Iran, Islamic Rep.Venezuela, RB 
+Czech RepublicHungaryAlgeria 
+PakistanColombia 
+Philippines 
+MalaysiaChile 
+SingaporeUnited Arab Emirates 
+Romania 
+Kuwait 
+BangladeshNigeria 
+Peru 
+Slovak RepublicUkraineMoroccoLibyaLuxembourgSlovenia 
+Dominican RepublicIraq 
+OmanVietnam 
+Uruguay 
+CroatiaTunisia 
+Syrian Arab Republic 
+LebanonGuatemalaQatarKazakhstanEl SalvadorCosta RicaUzbekistan Sri Lanka 
+LithuaniaBulgaria 
+SudanEcuadorPanama 
+Cote d'IvoireCameroonAngola 
+Kenya 
+Iceland 
+Latvia 
+JordanCyprus 
+BahrainTrinidad and Tobago EthiopiaBoliviaUganda 
+Serbia and Montenegro 
+ParaguayBotswana 
+Bosnia and HerzegovinaMacao, ChinaBahamas, The 
+Estonia 
+AzerbaijanHonduras 
+Nepal 
+Gabon 
+Malta 
+Senegal 
+Ghana 
+West Bank and Gaza 
+Albania 
+Haiti 
+Nicaragua 
+Congo, Dem. Rep.MadagascarMauritius 
+GeorgiaArmenia 
+Barbados 
+Turkmenistan 
+Burkina FasoNigerMaliBenin 
+GuineaCambodia 
+Congo, Rep. 
+NamibiaPapua New GuineaMozambique 
+French Polynesia 
+Aruba 
+Moldova 
+Kyrgyz RepublicChadLao PDRTogo 
+MalawiSwazilandFiji 
+Mongolia 
+Tajikistan 
+MauritaniaBelize Equatorial Guinea 
+San Marino 
+Central African Republic 
+GuyanaSurinameAntigua and Barbuda 
+BurundiCape Verde 
+Lesotho 
+DominicaGrenada 
+Gambia, TheSierra LeoneLiberiaDjibouti 
+Seychelles 
+St. Vincent and the GrenadinesSt. Kitts and Nevis 
+Palau 
+Comoros 
+Kiribati 
+Tonga 
+Timor-Leste 
+Marshall IslandsSamoaVanuatu 
+0 
+50 
+100 
+Remoteness rank (low --> high) 
+150 
+200 
+Figure 3. Variation in the exporter GDP and remoteness      
+20  
+
+========22========
+
+Table 1. Effect of Relative Exporter Size on Quality of Exports  
+(1)  (2)  (3)  (4)  
+Exporter’s GDP  -0.063  -0.06  -0.061  -0.062  
+  (0.001)  (0.001)  (0.001)  (0.001)  
+Rest of the World Market Potential   0.352  0.473  0.415  0.468  
+  (0.013)  (0.013)  (0.014)  (0.013)  
+GDP 
+ROW 
+ /Market Potential  
+ROW 
+  0.406  0.535  0.474  0.529  
+  (0.014)  (0.014)  (0.015)  (0.014)  
+Land area  0.051  0.053  0.051  0.053  
+  (0.001)  (0.001)  (0.001)  (0.001)  
+Freight charge per unit of weight  0.687  0.72  0.688  
+0.717  
+  (0.001)  (0.001)  (0.001)  (0.001)  
+Exporter’s GDP per capita  0.192  0.185  0.193  0.187  
+  (0.001)  (0.001)  (0.001)  (0.001)  
+Importer’s GDP per capita  0.201  0.055  0.2    
+  (0.001)  (0.004)  (0.001)    
+HS6- 
+HS6- 
+Fixed effect  HS6  
+HS6-year  
+importer- 
+importer  
+year  
+No. groups  5,342  41,968  20,003  118,617  
+No. obs  1,051,101  1,047,532  1,050,766  1,031,733  
+Notes: 1) All coefficients are significant at 1% level; 2) All variables are in logarithms; 3) Robust standard errors are  reported in brackets; 4) Freight charge per unit of  weight is instrumented with the trade volume and d istance; 5)  Estimation is performed using  xtivreg2  routine in STATA by Mark Schaffer.  
+21  
+
+========23========
+

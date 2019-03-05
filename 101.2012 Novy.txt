@@ -1,0 +1,1138 @@
+September 2012 
+              No.101 
+International Trade without CES: Estimating Translog Gravity 
+Dennis Novy 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+International Trade without CES: Estimating Translog Gravity 
+Dennis Novy* 
+August 2012 
+Abstract 
+This paper derives a micro-founded gravity equation based on a translog demand system that  allows for flexible substitution patterns across goods. In contrast to the standard CES-based  gravity equation, translog gravity generates an endogenous trade cost elasticity. Trade is more  sensitive to trade costs if the exporting country only provides a small share of the destination  country’s imports. As a result, trade costs have a heterogeneous impact across country pairs, with  some trade flows predicted to be zero. I test the translog gravity equation and find empirical  evidence that is in many ways consistent with its predictions.  
+JEL classification:  F11, F12, F15 
+Keywords:  Translog, Gravity, Trade Costs, Distance, Trade Cost Elasticity, Import Share 
+* 
+University of Warwick, Department of Economics, Coventry CV4 7AL, United Kingdom,  Centre for Economic Policy Research (CEPR), Centre for Economic Performance (CEP) and  CESifo, d.novy@warwick.ac.uk. I am grateful for comments by Ana Cecília Fieler, Alberto  Behar, Jeffrey Bergstrand, Johannes Bröcker, Natalie Chen, Robert Feenstra, Kyle Handley,  Gordon Hanson, Christopher Meissner, Peter Neary, Krishna Pendakur, Joel Rodrigue, João  Santos Silva, Alan Taylor, Silvana Tenreyro, Christian Volpe Martincus, David Weinstein and  Adrian Wood. I am also grateful for comments by seminar participants at the Central European  University, the Chinese Academy of Social Sciences, Kiel, the London School of Economics,  Loughborough, Oxford, the Paris Trade Seminar, Shanghai University of Finance and  Economics, Valencia, Warwick, the 2010 CESifo Global Economy conference, the 2010  Econometric Society World Congress, the 2010 NBER Summer Institute, the 2010 Rocky  Mountain Empirical Trade conference and the 2011 European Meeting of the Urban Economics  Association. I gratefully acknowledge research support from the Economic and Social Research  Council, Grant RES-000-22-3112. 
+1 
+
+========2========
+
+1. Introduction 
+For decades, gravity equations have been used as a workhorse model of international  trade. They relate bilateral trade flows to country-specific characteristics of the trading partners  such as economic size, and to bilateral characteristics such as trade frictions between exporters  and importers. A large body of empirical literature is devoted to understanding the impact of  trade frictions on international trade. The impact of distance and geography, currency unions,  free trade agreements and WTO membership have all been studied in great detail with the help of gravity equations. 
+Theoretical foundations for gravity equations are manifold. In fact, various prominent  trade models of recent years predict gravity equations in equilibrium. These models include the  Ricardian framework by Eaton and Kortum (2002), the multilateral resistance framework by  Anderson and van Wincoop (2003), as well as the model with heterogeneous firms by Chaney  (2008). Likewise, Deardorff (1998) argues that a gravity equation also arises from a Heckscher- Ohlin framework where trade is driven by relative resource endowments.1 
+T he above trade models  all result in gravity equations with a  constant elasticity of trade  with respect to trade costs. This feature means that all else being equal, a reduction in trade costs – for instance a uniform tariff cut – has the same proportionate effect on bilateral trade regardless  of whether tariffs were initially high or low or whether a country pair traded a little or a lot. This  is true when the supply side is modeled as a Ricardian framework (Eaton and Kortum, 2002), as  a framework with heterogeneous firms (Chaney, 2008) or simply as an endowment economy  (Anderson and van Wincoop, 2003). 
+Recent research has drawn attention to the idea that a reduction in trade costs, for  example through a free trade agreement or falling transportation costs, may lead to an increase in  competition. Melitz and Ottaviano (2008) and Behrens and Murata (2012) demonstrate this  effect theoretically. Feenstra and Weinstein (2010) provide theory as well as evidence for the  US. Badinger (2007) as well as Chen, Imbs and Scott (2009) provide evidence for European  countries. This line of research emphasizes more flexible demand systems that respond to  changes in the competitive environment. 
+                                                  
+1 
+Also see Bergstrand (1985). Feenstra, Markusen and Rose (2001) as well as Evenett and Keller (2002) also show  that various competing trade models lead to gravity equations. 
+2 
+
+========3========
+
+In this paper, I adopt such a demand system and argue that it is fundamental to  understanding the trade cost elasticity. In particular, in section 2 I depart from the constant  elasticity gravity model and derive a gravity equation from homothetic translog preferences in a  general equilibrium framework.2 Translog preferences were introduced by Christensen,  
+-economy study of consumer demand. 
+they allow 
+. Th is flexibility breaks the constant link between trade flows and trade costs. 
+Jorgenson and Lau (1975) in a closed 
+translog preferences are more flexible in that varieties 
+the  resulting  translog gravity equation features an  
+3 
+In contrast to CES,  
+for richer  substitution patterns across  
+4 
+Instead, endogenous elasticity of trade with respect to  
+trade costs. The effect of trade costs on trade flows varies depending on how intensely two  countries trade with each other. Specifically, the less the destination country imports from a  particular exporter, the more sensitive are its bilateral imports to trade costs. Trade costs therefore have a heterogeneous trade-impeding impact across country pairs. Despite this increase  in complexity, the translog gravity equation is parsimonious and easy to implement with data. 
+In section 3, I attempt to empirically contrast translog gravity with the traditional constant elasticity specification. Based on trade flows amongst OECD countries, I find evidence that  seems inconsistent with the constant elasticity specification. The results demonstrate that ‘one- size-fits-all’ trade cost elasticities as implied by standard gravity models are typically not  supported by the data. Instead, consistent with translog gravity, in many applications I find that  the trade cost elasticity increases in absolute size, the less trade there is between two countries.  To be precise, all else being equal bilateral trade is more sensitive to trade costs if the exporting  country provides a smaller share of the destination country’s imports. An implication is that a  given trade cost change, for instance a reduction of trade barriers through a free trade agreement,  has a heterogeneous impact across country pairs. The translog gravity framework can therefore  
+                                                  
+2 
+An online appendix that accompanies this paper provides further details both on the theory and the empirics. 3 
+Recent applications of translog preferences include Feenstra and Weinstein (2010) who are concerned with  
+estimating the welfare gains from increased variety through globalization, Feenstra a 
+nd Kee (2008) who estimate the  
+rate pass 
+the productivity literature. See Christensen, Jorgenson and Lau (1971) for an early reference. 
+effect of expanding export variety on productivity, as well as Bergin and Feenstra (2009) who estimate exchange  
+-through. More generally, the translog functional form has been used widely in other fields, for example 
+preferences have CES 
+-like characteristics at th 
+in  
+4 
+Although Melitz and Ottaviano (2008) work with quadratic preferences at the individual product level, their  
+e aggregate level in the sense that their gravity equation also features  a constant trade cost elasticity. It has a zero income elasticity although population can be a demand shifter. Also see  
+Behrens, Mion, Murata and S 
+üdekum (2009) for a model with  
+non -homothetic preferences and variable markups but  
+a constant trade cost elasticity. The constant trade cost elasticity is also a feature of the ‘generalized gravity  equation’ based on the nested Cobb-Douglas/CES/Stone-Geary utility function in Bergstrand (1989). See Markusen  (1986) for an additional specification with non-homothetic preferences. 
+3 
+
+========4========
+
+shed new light on the effect of institutional arrangements such as free trade agreements or WTO  membership on international trade. For example, it can help explain why trade liberalizations  often lead to relatively larger trade creation amongst country pairs that previously traded  relatively little.5 
+Although not explored in this paper, another  potentially useful  feature of the translog  demand system  is that it is in principle consistent  with zero  demand . It is well -known that zero es  are widespread in large samples of aggregate bilateral trade, and even more so in samples at the  
+disaggregated level.  If bilateral trade costs are sufficiently high, the corresponding import share  
+in translog gravity  is zero. 
+6 
+This feature is a straightf orward implication of the fact that the price  
+elasticity of demand is increasing in price and thus increasing in variable trade costs. In contrast,  
+a CES -based demand system is not consistent with zero trade flows unless fixed costs of  
+exporting are assume d on the supply side (see Helpman, Melitz and Rubinstein, 2008). 
+The paper builds on the gravity framework by Anderson and van Wincoop (2003), but  
+instead of CES it relies on the homothetic translog demand system  employed by Feenstra (2003).  Another r elate d paper in the literature is by Gohin and F ém énia (2009) who develop a demand  
+equation based on Deaton and Muellbauer’s (1980) almost ideal demand system and estimate it  with data on intra-European Union trade in cheese products. They also find evidence against the  restrictive assumptions underlying the CES-based gravity approach and stress the role of variable  price elasticities. But in contrast to my paper, they adopt a partial equilibrium approach and  abstract from trade costs. Volpe Martincus and Estevadeordal (2009) use a translog revenue  function to study specialization patterns in Latin American manufacturing industries in response  to trade liberalization policies, but they do not consider gravity equations. Lo (1990) models shopping travel behavior in a partial equilibrium spatial translog model with variable elasticities  of substitution across destination pairs. But her approach does not lead to a gravity equation. 
+The theoretical note by Arkolakis, Costinot and Rodríguez-Clare (2010) examines the  relationship between translog gravity and gains from trade based on the continuous translog  expenditure function by Rodríguez-López (2011). They assume that firm productivity follows a  
+                                                  
+5 
+Komorovska, Kuiper and van Tongeren (2007) refer to the ‘small shares stay small’ problem as the inability of  CES-based demand systems to generate substantial trade creation in response to significant trade liberalization if  initial trade flows are small. In contrast, translog demand predicts large trade responses if initial flows are small.  Kehoe and Ruhl (2009) find evidence consistent with this prediction in an analysis of trade growth at the four-digit  industry level in the wake of the North American Free Trade Agreement and other major trade liberalizations. 6 
+The translog demand system allows for choke prices beyond which demand is zero. See Melitz and Ottav iano  (2008) for a specification with choke prices in a linear demand system. 
+4 
+
+========5========
+
+Pareto distribution. This parametric assumption is crucial in generating a log-linear gravity  equation with the standard constant trade cost elasticity. In contrast, my translog gravity equation  gives rise to variable and endogenous trade cost elasticities. 
+2. Translog preferences and trade costs 
+This section outlines the general equilibrium translog model and derives the theoretical  gravity equation based on an endowment economy framework.7 Following Diewert (1976) and  Feenstra (2003), I assume a translog expenditure function. As Bergin and Feenstra (2000) note,  
+the tran slog demand structure employed here is more concave than the CES. It can be  
+rationalized as a second -order approximation to an arbitrary expenditure system (see Diewert,  
+1976). 
+I assume there are  J countries in the world with j=1,…,J    and J ≥2. Each country is  endowed with at least one differentiated good but may have arbitrarily many, and the number of  goods may vary across countries.8 Let [ Nj-1+1,Nj] denote the range of goods of country j, with    Nj-1<Nj and N0≡0. NJ≡N denotes the total number of goods in the world. The translog  expenditure function is given by 
+N N N1 
+(1) ln( ) ln( ) ln( ) ln( )ln( ),E U p p pj j j m mj km mj kj     0 
+  
+m m k  2 1 1 1 
+where Uj is the utility level of country j with m and k indexing goods and γkm=γmk. The price of  good m when delivered in country j is denoted by pmj. I assume trade frictions such that  pmj=tmjpm, where pm denotes the net price for good m and tmj≥1 ∀ m,j is the variable trade cost  factor. I furthermore assume symmetry across goods from the same origin country i in the sense  that pm=pi if m ϵ [Ni-1+1,Ni], and that trade costs to country j are the same for all the goods from  origin country i, i.e., tmj=tij if m ϵ [Ni-1+1,Ni]. But I allow trade costs tij to be asymmetric for a  given country pair such that tij≠tji is possible. 
+As in Feenstra (2003), to ensure an expenditure function with homogeneity of degree one  I impose the conditions: 
+                                                  
+7 
+I follow Anderson and van Wincoop (2003) in calling this framework general equilibrium (also see section 3.5). 8 
+CES can be rationalized as an aggregator for a set of underlying goods so that the assumption of one differentiated  
+good per country as in Anderson and van Wincoop (2003) is reasonable. However, that assumption would not be  
+harmless with translog demand. The number of goods is therefore allowed to vary across countries . 
+5 
+
+========6========
+
+NN (2) 1, and 0.m km 
+mk11 
+In addition, I let all goods enter‘symmetrically’ in the γkmcoefficients. Following Feenstra  
+(2003), I therefore impose the additional restrictions: 
+(3) ( 1) and with 0.  mm km       NNN m k m It can be easily verified that these additional restrictions satisfy the homogeneity conditions in  
+(2).9 
+The expenditure share  smj of country j for good m can be obtained by differentiating the  
+expenditure function (1) with respect to ln(pmj): 
+N 
+(4) ln( ).spmj m km kj 
+k1 
+This share must be non-negative, of course. Let xij denote the value of trade from country i to  country j, and yj is the income of country j equal to expenditure Ej. The import share xij/yj is then  the sum of expenditure shares smj over the range of goods that originate from country i: 
+NNiiN 
+(5) ln( ) .xijy   spmj m km kj 
+   
+j m N m N k    ii111 1 1 
+To close the model, I impose market clearing: 
+J 
+(6) .y x ii ij 
+j1 
+2.1. The translog gravity equation 
+To obtain the gravity equation, I substitute the import shares from equation (5) into the  market-clearing condition (6) to solve for the general equilibrium. Using pkj=tkjpk, I then solve  for the net prices pk and substitute them back into the import share (5). This solution procedure is  similar to the one adopted by Anderson and van Wincoop (2003) for their CES-based model. Appendix A, which can be found in an online appendix that accompanies this paper, provides a  detailed derivation. 
+As the final result, I obtain a translog ‘gravity’ equation for import shares as 
+                                                  
+9 
+The assumption of γ>0 ensures that the price elasticity of demand exceeds unity. The estimation results below  confirm this assumption. The elasticity is also increasing in price (see Feenstra, 2003). 
+6 
+
+========7========
+
+(7) 
+xij 
+y 
+ 
+j 
+yi 
+yW 
+  n 
+i 
+ln(tij)  n 
+i 
+ln(Tj) 
+n  
+J 
+y 
+s 
+i 
+s 1 
+y 
+W 
+ln  tis   
+T 
+,s 
+ 
+where  yW denotes world income, defined as yyW  
+ 
+J 
+j  1 
+j 
+, and n N Ni i i 
+1 
+denotes the  
+number of goods of country  
+i. The variable ln( )Tjis a weighted average of (logarithmic) trade  
+costs over the trading partners of country jakin to inward multilateral resistance in Anderson and  van Wincoop (2003). As Appendix A shows, it is given by 
+NJ 
+(8) ln( ) ln( ) ln( ).T t t1 NN 
+nsj kj sj 
+ks11 
+Note that the last term on the right-hand side of equation (7) only varies acrossthe exporting  countries ibut not across the importing countries j. However, the third term on the right-hand  side of equation (7), nT, varies across 
+ijln 
+ 
+both. 
+To be clear, I refer to expression (7) as a ‘gravity’ equation although its appearance differs from traditional gravity equations in  two respects. First,  the left-hand side variable is the  import share  xij/yj and not the bilateral trade flow xij. Second, the right-hand side variables are not  multiplicatively linked. However, expression (7) and traditional gravity equations have in  common that they relate the extent of bilateral trade to both bilateral variables such as trade costs  as well as to country-specific variables such as the exporter’s and importer’s incomes and  multilateral resistance. 
+2.2. A comparison to gravity equations with a constant trade cost elasticity 
+The important feature of the translog gravity equation is that the import share on the left- hand side of equation (7) is specified in levels, while logarithmic trade costs appear on the right- hand side. This stands in contrast to ‘traditional’ gravity equations. For example, Anderson and  van Wincoop (2003) derive the following gravity equation: 
+(9) x 
+ij  
+y 
+i 
+yj  
+ 
+tij 
+ 
+1 y 
+W 
+ 
+i P 
+j 
+ 
+, 
+7 
+
+========8========
+
+where Πi and Pj are outward and inward multilateral resistance variables, respectively, and σ is  the elasticity of substitution from the CES utility function on which their model is based.10 To be  more easily comparable to the translog gravity equation (7), I divide the standard gravity  
+equation ( 9) by  yj and take logarithms to arrive at 
+(10) 
+ln 
+x 
+ 
+y 
+ij 
+   ln 
+y  
+ 
+i 
+y 
+W 
+  ( 
+ 1)ln(tij)( 
+ 1)ln( 
+i)( 
+ 1)ln( 
+Pj). 
+j 
+Although the dependent variable of gravity equations in the literature is typically ln(xij) as  opposed to the logarithmic import share ln(xij/yj), I will nevertheless refer to the CES-based  gravity equation (10) as the ‘standard’ or ‘traditional’ specification as opposed to the translog  specification in equation (7). 
+The log-linear form of equation (10) is the key difference to the translog gravity equation  (7). The log-linear form is also a feature of the Ricardian model by Eaton and Kortum (2002) as  well as the heterogeneous firms model by Chaney (2008).11 It implies a  trade cost elasticity η that is constant, where η is defined as12 
+(11) 
+  
+dln( xij / yj). 
+dln(tij) 
+Thus, the traditionalgravity equation (10) implies ηCES=-(σ-1).13 
+However,  translog gravity breaks this constant link between trade flows and trade costs.  The translog (TL) trade cost elasticity follows from equation (7) as 
+(12)  
+TL ij 
+ ni /( 
+xij / 
+yj). 
+It thus varies across observations. Specifically, ceteris paribus the absolute value of the elasticity,  
+TL 
+ij 
+, decreases as the import share grows larger. Intuitively, given the size yj of the importing  
+                                                  
+10 
+Note that in the absence of trade costs (tij=1∀i,j), the CES and translog gravity equations coincide as xij/yj=yi/yW.  With positive trade costs the models are non-nested (see section 3.3.3 for a discussion). 
+11 
+The trade cost coefficient in Eaton and Kortum (2002) is governed by the technology parameter  θ, which is the  shape parameter from the underlying Fréchet distribution. The trade cost elasticities in Chaney (2008) and Melitz  and Ottaviano (2008) are governed by the parameter that determines the degree of firm heterogeneity, drawn from a  Pareto distribution. Other differences include, for instance, the presence of bilateral fixed trade costs in the Chaney  gravity equation. 
+12 
+The elasticity  η as defined here focuses on the direct effect of tij on xij/yj. It abstracts from the indirect effect of tij on xij/yj through the multilateral resistance terms. These are general equilibrium effects that operate in both the CES  and the translog frameworks. See section 3.5 for a discussion. 
+13 
+The gravity equation by Eaton and Kortum (2002) implies  ηEK=-θ. Likewise, the gravity equations by Chaney  (2008) and Melitz and Ottaviano (2008) also imply a constant trade cost elasticity, given by the Pareto shape  parameter. 
+8 
+
+========9========
+
+country and the number of exported goods ni, a large trade flow xij means that the exporting  country enjoys a relatively powerful market position. Demand for the exporter’s goods is  buoyant, and consumers do not react strongly to price changes induced by changes in trade costs.  On the contrary, a small trade flow xij means that demand for an exporting country’s goods is  weak, and consumers are sensitive to price changes. As a result, small exporters are hit harder by  rising trade costs and find it more difficult to defend their market share. 
+3. Estimation  
+In this section, I first estimate a translog gravity regression as derived in equation (7), and  separately I also estimate a traditional gravity regression as in equation (10). I then proceed by  examining whether the trade cost elasticity is constant (as predicted by the traditional gravity  model) or variable (as predicted by the translog gravity model). 
+3.1. Data 
+I use exports amongst 28 OECD countries for the year 2000, sourced from the IMF  Direction of Trade Statistics and denominated in US dollars. These include all OECD countries  except for the Czech Republic and Turkey. The maximum number of bilateral observations is  28*27=756, but seven are missing so that the sample includes 749 observations in total.14 Income data  for the year 2000  are  taken from the IMF International Financial Statistics. 
+I follow the gravity literature by modeling the trade cost factor  tij as a log-linear function  of observable trade cost proxies (see Anderson and van Wincoop, 2003 and 2004). For the baseline specification, I use bilateral great-circle distance distij between capital cities as the sole  trade cost proxy, taken from www.indo.com/distance. For other specifications I add an adjacency  dummy adjij that takes on the value 1 if countries i and j share a land border. The trade cost  function can thus be written as 
+(13) ln(tij) 
+  ln( 
+distij) 
+ adjij, 
+where ρ denotes the distance elasticity of trade costs and δ is the adjacency coefficient. 
+                                                  
+14 
+The countries are Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Greece, Hungary,  Iceland, Ireland, Italy, Japan, Korea, Luxembourg, Mexico, the Netherlands, New Zealand, Norway, Poland,  Portugal, the Slovak Republic, Spain, Sweden, Switzerland, the United Kingdom and the United States. As some  data for the Czech Republic and Turkey were missing, these countries were dropped from the sample. 
+9 
+
+========10========
+
+To estimate translog gravity equation (7), I also require data on ni, the number of goods  that originate from country i. Naturally, such data are not easy to obtain and the theory does not  provide guidance as to how it should be measured. However, Hummels and Klenow (2005)  construct a measure of the extensive margin across countries based on shipments in more than  5,000 six-digit product categories from 126 exporting countries to 59 importing countries for the  year 1995. The extensive margin is measured by weighting categories of goods by their overall  importance in exports, consistent with the methodology developed by Feenstra (1994). Their  Table A1 reports the extensive margin of country i relative to the rest of the world. I use this  fraction as a proxy for ni. Hummels and Klenow (2005) document that the extensive margin  tends to be larger for big countries. For example, the extensive margin measure is 0.91 for the  United States, 0.79 for Germany and 0.72 for Japan but only 0.05 for Iceland. I will also go  through a number of robustness checks to ensure that my results do not solely depend on this  particular extensive margin measure. 
+3.2. Estimating translog gravity 
+The first and last terms on the right-hand side of equation (7) can be captured by an  exporter fixed effect Si since they do not vary over the importing country j: 
+Si  
+yi yW 
+n 
+J i  s1 
+ys W 
+lny  
+ 
+tis 
+T 
+.s 
+ 
+I substitute 
+th is  exporter fixed effect  
+in to equation ( 
+7 ) to  obtain 
+(14) 
+x 
+y 
+ij 
+ ni ln(tij) 
+ni ln(Tj) 
+Si 
+ij, 
+j 
+where Ialso add a mean-zero error term εij. Then I substitute the trade cost function (13) into the  multilateral resistance term (8). This yields 
+ln(Tj) 
+  ln( 
+Tdistj ) 
+ Tadjj , 
+wheretheterms on the right-hand side are defined as 
+(15) 
+ 
+J 
+ln( Tdistj )  
+s1 Using the trade cost function (1 as 
+ns N 
+ln( 
+distsj) and T 
+ 
+J adj j 
+ 
+s1 
+n s N 
+adjsj. 
+3) once  again for ln( 
+tij), the translog estimating equation follows  
+10 
+
+========11========
+
+(16) 
+x 
+y 
+ij 
+ ni ln( 
+distij) 
+ni ln( 
+Tdistj ) 
+n 
+i 
+adjij 
+n 
+i 
+Tadj 
+j 
+ Si 
+ij. 
+j 
+I constructthe explanatory variables n disti ijln( ) and n adj 
+i ij 
+by multiplying the underlying trade  
+cost variablesby the extensive margin proxyni taken from Hummels and Klenow (2005). The  ln( Tdistj ) and T 
+adj 
+j 
+terms are constructed for each country j according to equation (15) and then  
+multiplied by the extensive margin proxy ni. 
+Table 1 presents the regression results. Column 1 estimates equation (16) with bilateral  distance as the only trade cost proxy.15 As one would expect, import shares tend to be  
+significantly lower for more distant country pairs. Column 2 adds the adjacency dummy. As  
+typically found in gravity estimations, this  coefficient is positive and significant. The coefficients  of the individual regressors and the corresponding multilateral resistance regressors are similar in  
+magnitude as predicted by estimating equation  (16 ). For example, the distance coefficient in  
+column 1 is est imated at  -0.0296, whereas the corresponding trade cost index term is 0.0207.  
+These two values are reasonably close in absolute magnitude, although  a formal  test of their  equality is rejected (p -value=0.00). However, for the  two  adjacency regressors in col umn 2  a  test  of their equality in absolute magnitude cannot be rejected (p -value=0.8 1). 
+As an alternative to the Hummels and Klenow (2005) measure, I devise an unweighted  
+count of six -digit product categories to account for the extensive margin. The correl ation  between the two measures stands at 77 percent. 
+16 
+I use this alternative measure as a robustness  
+check to re -estimate columns 1 and 2 of Table 2, finding qualitatively very similar results.  
+Furthermore, in Appendix B .1 in the  online appendix I estimate equation (16) non -parametrically  in order to provide further robustness checks that do not rely on the Hummels and Klenow  
+(2005) measure. Overall, I yield results that are consistent with the translog model. 
+As an additional  specification , I  adopt a relat ed  estimating  equation  where  the dependent  variable  is the import share xij/yj divided by the extensive margin measure ni for the exporting  
+                                                  
+15 
+I cluster around bilateral country pairs. For example, one joint cluster is formed for the trade flows between the  United States and Canada, regardless of the direction.  
+16 
+I use UN Comtrade bilateral export data  at the six -digit level for the year 2000 (HS 1996 classification) . I exclude  very small bilateral trade flows ( those with values below  10,000 US dollars) since those tend to disappear  frequently  from  one  year to the  next . Following Hummels and Klenow (2005), I normalize the extensive margin measure by  
+constructing it relative to the total number of  six -digit product categories  that exist  across all countries (5130  categories). This alternative measure is 0.99 for the  US, 0.95 for Germany, 0.89 for Japan and 0.10 for Iceland. 
+11 
+
+========12========
+
+country. The resulting variable can be interpreted as the average import share per good of the  exporting country. From equation (16) I obtain 
+(17) 
+xij / y 
+j 
+ni 
+  ln( distij) adjij  Sˆi  Sˆj ij, where ij denotes the error term. The exporter fixed effect Sˆi  
+S 
+i 
+/ni now absorbs the extensive  
+margin measure ni, and the multilateral resistance terms associated with distance and adjacency  can be captured by an importer fixed effect Sˆ 
+j 
+given by 
+Sˆj 
+ ln( 
+Tdistj ) 
+Tadjj . 
+I prefer specification (17) to (16) because any possible measurement error surroundingni is  passed on to the left-hand side and estimation can be carried out with both exporter and importer  fixed effects, as is frequently done in the gravity literature. 
+The regression results are reported in columns 3 and 4. As before, distance enters with  the expected negative coefficient and adjacency with a positive coefficient.17 As an additional  check,  I refer to  Appendix B .2 in the online appendix  where  I estimate specifications similar to  equations (16) and (17) but with a multiplicative error term instead of the  additive error term.  Th at  estimation is carried out with nonlinear least squares. 
+As a final check, in columns 5 and 6 I make  the  simplifying  assumption that each country  is endowed with only one good (ni=1 ∀ i).18 Naturally, the magnitudes of the coefficients shift  
+but the y retain the ir signs and significance. O verall, g iven  an  R -squared of 50 percent or more , I conclude that the translog gravity equation passes  its first  test of being rea sonable. 
+Apart from transl og gravity, I also estimate the standard gravity specification. I substitute  
+the trade cost function (13) into equation (10) to arrive at the estimating equation for  traditional gravity: 
+(18) ln 
+x 
+ij 
+ 
+yj 
+ 
+ 
+  (  1)ln(  
+distij)  (  1) adj 
+ij 
+ S~ 
+i 
+ S~ 
+j 
+ij, 
+                                                  
+17 
+As an additional robustness check, I re-estimate columns 1-4 of Table 1 with an alternative measure of the  extensive margin. In particular, I use both yi and ln(yi) as measures of ni. The results are qualitatively similar and  therefore not reported here. 
+18 
+Alternatively, I could also set  ni=n where n is any arbitrary positive integer. Since the regression is linear, the  estimated coefficients would simply be scaled by the factor 1/n. 
+12 
+
+========13========
+
+where I add an error term ξij.19 S~ 
+i 
+and S~j are exporter and importer fixed effects defined as 
+S~ 
+ y 
+i 
+ 
+i 
+ ln 
+ 
+y 
+W ( 
+ 1)ln( i), 
+ 
+S~ 
+j 
+ (  1)ln( Pj). 
+The logarithmic form of the dependent variable is the key difference to the translog specification. 
+Regression results for equation (18) are presented in columns 1 and 2 of Table 2. As  usual, bilateraldistance is negatively related to import shares with a coefficient in the vicinity of  -1, whereas adjacency is associated with higher shares.20 Consistent with  the  gravity  literature,  the log -linear  regressions  in Table 2  have a high explanatory power with R -squared s close to 90  percent. 
+Although the R -squareds associated with the regressions in Table 1 are around 55 percent  
+and thus lower, they are not directly comparable to those in Tab le 2 because the dependent  
+variables are not the same. It is therefore use ful to get a visual impression of the fit of the two  
+models.  For that purpose,  I plot the fitted values against the actual values of import shares for  
+each model. For the translog specification, I use column 3 of Table 1. For the standard  
+specification, I use  a regression that corresponds to  column  1 of Table 2 but with ln(( xij/yj)/ni) as  the dependent variable (see footnote 20). These two specifications are similar in the sense that  apart from various fixed effects, the log of distance is the only regressor. The dependent variable  of the translog specification is (xij/yj)/ni. To generate visual impressions of the two models that  are more easily comparable, I exponentiate the fitted and actual values for the standard model. I  thus obtain import shares expressed in the same units for both specifications, that is, in units of  (xij/yj)/ni. 
+The results can be seen in Figure 1. The left panel is based on the translog model, and the  right panel is based on the standard model. Both models do fairly well in fitting small import  shares. For intermediate import shares in the range from 0.05 to 0.15 the translog model still  generates a reasonably good fit, whereas the residuals for the standard model tend to grow. For  
+                                                  
+19 
+An estimating equation based on the Eaton and Kortum (2002) model would merely replace  σ-1 by θ. Here, the  crucial feature is that the trade cost elasticity is constant. This feature would also arise for the other gravity models  mentioned above. 
+20 
+For completeness, I rerun the regressions in columns 1 and 2 of Table 2 with the log arithmic import share per  good of the exporting country, ln(( xij/yj)/ni)), as the dependent variable. The measure for ni is entirely absorbed by  the exporter fixed effects so that the coefficients of interests and their standard errors remain the same. However, the  R-squareds are reduced to 85 percent. 
+13 
+
+========14========
+
+large import shares both models produce larger residuals, and the translog model in particular  underpredicts the actual import shares. 
+Those large residuals can in part be explained by the nature of the dependent variable,  (xij/yj)/ni. Using xij/yj instead as in column 1 of Table 1 and column 1 of Table 2 implies a smaller  range of values for the dependent variable so that the residuals would be smaller. The reason is  that Hummels and Klenow (2005) express the extensive margin measure ni relative to the rest of  the world so that 0<ni<1, pushing up values for (xij/yj)/ni compared to xij/yj. For example, the  largest value for (xij/yj)/ni is 0.41 for imports to Luxembourg from Belgium but the  
+corresponding value for xij/yj would only be 0.19. 
+3.3. Comparing traditional and translog gravity 
+The next objective is to examine how the data relate to different aspects of the traditional  gravity model on the one hand and translog gravity on the other. The difficulty is that the two  competing models are non-nested. This problem arises because the traditional gravity model has  the logarithmic trade share as the dependent variable, whereas the dependent variable of the  translog model has the trade share in levels. Before I compare the performance of the two models  more directly at the end of this section, I first turn towards more informal checks that center on  the question of whether the trade cost elasticity is constant. 
+3.3.1. Does the trade cost elasticity vary? 
+As equation (12) shows, translog gravity implies that the absolute value of the trade cost  elasticity decreases in the import share per good, i.e., 
+  
+TL 
+ij 
+xij / yj  
+ 0. 
+ 
+ni 
+ 
+  
+In contrast, standard gravity equations imply a constant trade cost elasticity. I form two  hypotheses, A and B, to test whether the elasticity is indeed constantunder themaintained assumption of the log-linear trade cost function(13). Hypothesis A is based on the standard  gravity estimation as in equation (18), while hypothesis B is based on the translog gravity  estimation as in equation (17). 
+14 
+
+========15========
+
+The premise of hypothesis A is that the standard gravity model is correct and that trade  cost elasticities should not vary systematically. To implement this test, I allow the trade cost  coefficients in the traditional specification (18) to vary across import shares per good. Since  estimating a separate distance coefficient for each observation would leave no degrees of  freedom, I allow the distance coefficient to vary over intervals of import shares per good. That is,  I set the distance coefficient for observation ij equal to λh if this observation falls in the hth  interval with h=1,...,H. H denotes the interval with the largest import shares per good, and the  number of intervals is sufficiently small to leave enough degrees of freedom in the estimation. I  also add interval fixed effects. For simplicity, I drop the adjacency dummy from the notation so  that the estimating equation becomes 
+(19)  
+ln 
+x 
+ij 
+ 
+y 
+ 
+ h ln( distij)  S~ 
+i 
+ S~ 
+j 
+ S~ 
+h 
+ij, 
+j 
+ 
+where S~h denotes the interval fixed effect and ωij is an error term. Hypothesis A states – as  
+predicted by the traditional gravity model – that the λh distance coefficients should not vary  across import share intervals, i.e., λ1= λ2=...=λH. The alternative is – consistent with the translog  gravity model – that the λh distance coefficients should vary systematically across intervals as  implied by equation (12). Specifically, the absolute elasticity should decrease across the  intervals, i.e., λ1> λ2>...> λH.21 
+How exactly should the intervals be chosen?  If the intervals were chosen based on  
+observed values for import shares, this selection would be based on the dependent variable and  would lead to an endogeneity bias in the coefficients of interest, λh. More specifically, I carried  out Monte Carlo simulations demonstratingthat this selection procedure would lead to an  upward bias in the distancecoefficients (i.e., λh coefficients closer to zero)since both the  dependent variable and the intervalclassificationwould be positively correlated with the error  term.22 
+                                                  
+21 
+To be clear, equation (19) does not represent a formal test of non-nested hypotheses. 
+22 
+I simulated import shares under t he assumption that the Anderson and van Wincoop (2003) gravity equation (10)  
+is the true model, using distance as the trade cost proxy based on the trade cost function (13) and assuming various  
+arbitrary parameter values for the distance elasticity  ρ and the elasticity of substitution σ. The variance of the log- normal error term was chosen to match the R-squared of around 90 percent as in Table 2. I then divided the sample  into intervals based on the simulated import shares and ran regression (19) with OLS,replicating this procedure  1000 times. The resulting bias can be severe, in some cases halving the magnitudes of coefficients compared to their  true values.  
+15 
+
+========16========
+
+The endogeneity bias can be avoided if intervals are chosen based on predicted import  shares. In particular, I first estimate equation (18) and obtain trade cost coefficients that are  common across all observations. Based on those regression results I then predict import shares  and divide the sample into H intervals of predicted import shares. By construction, this interval  classification is uncorrelated with the residuals of regression (18). Indeed, Monte Carlo  simulations confirm that with this two-stage procedure, estimating equation (19) no longer  imparts a bias on the λh coefficients.23 
+Table 3 presents regression results for equation  (19 ) under the assumption of  H=5, i.e.,  with five import share intervals. Consistent with equation (12), the intervals in columns 1 and 2  are chosen based on predicted import shares per good, (xij/yj)/ni. As a robustness check, the  intervals in columns 3 and 4 are chosen based on predicted import shares only, xij/yj. 
+Columns 1 and 3 report results with distance as the only trade cost regressor. A clear  pattern arises: the λh distance coefficients decline in absolute value for intervals with larger  import shares, as consistent with the translog model. For example, in column 1 the distance  elasticity for the smallest import shares is -1.4960 whereas it shrinks in magnitude to -1.0790 for  the largest import shares. Hypothesis A, which states that the distance coefficients are equal to  each other, can be clearly rejected (p-value=0.01 in column 1, p-value=0.00 in column 3). 
+Columns 2 and 4 add adjacency. Since no adjacent country pair in the sample falls into  the interval capturing the smallest predicted import shares, the corresponding regressor drops  out. The addition of the adjacency dummies does not alter the pattern of distance coefficients.  Those still decline monotonically in magnitude across all specifications and their equality can be  rejected (p-values=0.00). There is no such monotonic pattern for the adjacency coefficients, but  their point estimates for intervals 2 and 3 are substantially larger than those for intervals 4 and  5.24 Overall,  their equality can be clearly rejected in column 2  (p -value= 0.00 ) although not in  column  4 (p-value= 0.34 ). But the specification in column 2  is  prefer able  since  it is  based on  intervals of predicted import shares per good, as warranted by equation (12). 
+I also experimented with different  interval numbers , in particular  H=3 and H=10 (not  reported here). The results are not qualitatively affected and the same coefficient patterns arise as  
+                                                  
+23 
+In Appendix B.3 in the online appendix I present an alternative stratification procedure in terms of right-hand side  variables, not in terms of predicted import shares. 
+24 
+A clear monotonic pattern for the adjacency coefficients does emerge in column 2 of Table 3 if the alternative,  
+unweighted measure is used for the extensive margin  ni. 
+16 
+
+========17========
+
+in Table 3. This suggests that the systematic inequality of trade cost elasticities across import  share intervals is a robust feature of the data. In summary, therefore, the results seem inconsistent  with the constant elasticity gravity specification, at least in combination with the log-linear trade  cost function (13).25 
+Hypothesis B is based on the translog gravity estimating equation (17). Its premise is that 
+the translog specification is correct and that  the  trade cost coefficien ts in that estimation should  not vary systematically across import shares. I adopt the same strategy as above in that I allow  
+the trade cost coefficients to vary across intervals. A more detailed description and the results 
+can be found in Appendix B.4 in the online appendix. I show that distance coefficients are  
+typically more stable in the translog specification although in most cases the hypothesis of  
+constant coefficients can be rejected at conventional levels of significance.  But at least  
+qualitatively , th ose results  seem in line with the predictions of the translog gravity model under  the maintained assumption of a log -linear trade cost function. 
+3.3.2. Comparing the goodness of fit 
+I now turn towards comparing the performance of the two models more directly.As their  dependent variables differ, their associated R-squareds are not directly comparable. To facilitate  a comparison I estimate the standard gravity equation in levels as opposed to logarithms. The  left-hand side variable then becomes the same as for the translog specification.  
+Specifically, I take the standard gravity equation (9), divide it by yj on both sides so that  the left-hand side variable becomes xij/yj. I carry out the estimation with nonlinear least squares,  using (exponentiated) exporter and importer fixed effects to absorb yi and the multilateral  resistance terms and using distance as the only trade cost regressor (based on the exponentiated  version of trade cost function 13). 
+I estimate two specifications. The first uses a multiplicative error term e 
+ij 
+where ij is  
+assumed normally distributed. As this specification is the levels analog of the logarithmic  regression in equation (18), it yields exactly the same results as reported in column 1 of Table 2.  In particular, this specification yields an R-squared of 0.89. The second specification is also  
+                                                  
+25 
+As I further discuss in section 3.6, a specification as in equation (19) combines two restrictions that are difficult to  separate: the log-linearized standard gravity equation on the one hand and a constant elasticity of trade costs with  respect to trade costs on the other. 
+17 
+
+========18========
+
+estimated in levels but with an additive error term. This makes it comparable to the translog  estimations reported in Table 1, which are also based on an additive error term. The result is a  slightly larger distance coefficient in absolute value (-1.4258 instead of -1.2390 in column 1 of  Table 2) but a similar R-squared of 0.88. In summary, the levels specification is characterized by  essentially the same degree of explanatory power as the logarithmic specification, regardless of  whether it is estimated with a multiplicative or an additive error term. 
+Which translog specifications are the relevant points of comparison? The relevant  comparison for the first specification is a translog regression with xij/yj as the dependent variable  and a multiplicative error term. This regression is reported in column 1 of Table B2 (see  Appendix B.2 for details). The associated R-squared is 0.91 and thus in the same ballpark as  0.89. The relevant comparison for the second specification is the translog regression in column 1  of Table 1 since it is also estimated with an additive error term. The R-squared there is only 0.52  and thus lower than 0.88. Overall, I therefore conclude that in terms of explanatory power, the  translog model performs worse with an additive error term but equally well as the standard  model when a multiplicative error term is used. 
+3.3.3. A Box-Cox transformation of the dependent variable 
+The difficulty in distinguishing the two models econometrically in a more formal way is  that they are non-nested with different functional forms of the left-hand side variable.  Specifically, as in equation (17) the translog model can be expressed with (xij/yj)/ni as the  dependent variable. Akin to equation (18) the standard model can be rewritten with ln((xij/yj)/ni)  as the dependent variable, in which case the exporter fixed effect absorbs the ni term. The two  specifications share the same right-hand side regressors in the estimation, i.e., logarithmic  distance as well as exporter and importer fixed effects (the adjacency dummy is dropped for  simplicity). Thus, they only differ on the left-hand side in terms of their functional form.  
+I adopt the popular Box-Cox transformation of the dependent variable according to 
+  
+xij / y ni 
+j ()   
+    
+xij / ni 
+yj  
+ 
+ 
+1 
+  
+. 
+The case 
+of θ=1 corresponds to the linear (translog) case, and θ=0 corresponds to log-linearity as 
+18 
+
+========19========
+
+ 
+ lim 
+ 0 
+xij / ni 
+yj  
+ 
+ 1 
+ 
+ ln 
+ 
+xij / ni 
+yj 
+. 
+ 
+The right -hand side variables are not transformed. A regression  with the Box -Cox transform as  the dependent variable and an additive error structure yields a point estimate of 0.1201 for  θ with  a standard error of 0.0108. This result means that θ is significantly different from 1 and 0, and  both the linear and log-linear cases are rejected (p-values=0.00).26 The coefficient on logarithmic  distance follows as  -0.6871 and is thus roughly in the middle of  the corresponding coefficients  for the translog model in column 3 of Table 1 (equal to  -0.0250) and the standard model in  
+column 1 of Table 2 (equal to  -1.2390). 
+Overall, from a purely statistical point of view the Box -Cox procedure therefore produces  an i nconclusive outcome.  Such outcomes often occur with non -nested tests as well as in Box - Cox applications (see the discussion in Pesaran and Weeks, 2007). The reason is that these tests  
+typically involve two different null hypotheses that can each be rejected , in this case the  
+hypot heses  θ=1 and θ=0. 
+However, from an economic point of view a common sense conclusion is that the  standard specification seems favored. The intuition is that the standard form with an additive  error term yields an R-squared in the region of 90 percent (see Table 2), whereas the translog  form with an additive term yields an R-squared in the region of only 50 percent (see Table 1). 
+My overall interpretation is that whilst the results certainly cannot be seen as an  endorsement of the translog model, they still highlight weaknesses of the standard log-linear  gravity model. While some features of the data are suggestive of the standard form, others are  more consistent with the variable elasticity specification implied by the translog functional form.  There are bound to be models that fit the data even better than the one-parameter translog model  developed in this paper. But nevertheless, the translog specification indicates the direction in  which the demand side of trade models could be sensibly modified to yield gravity equations  with variable trade cost elasticities. 
+                                                  
+26 
+Sanso, Cuairan and Sanz (1993) also estimate a generalized functional form of the gravity equation defined by a  Box-Cox transformation with transformed regressors. Consistent with my results, they find evidence against the  standard log-linear specification based on trade flows amongst 16 OECD countries over the period from 1964 to  1987. However, they do not provide a theory that might justify the non-loglinear functional form. 
+19 
+
+========20========
+
+3.4. Illustration: some numbers for trade cost elasticities 
+The crucial result from the preceding gravity estimations is that a constant ‘one-size-fits- all’ trade cost elasticity is inconsistent with the data. Instead, the trade cost elasticities vary with  the import share, as predicted by translog gravity. What are the implied values for these  elasticities? This question can be answered by considering the elasticity expression in equation  (12). The elasticities ηij depend on the translog parameter γ, the import share xij/yj and the number  of goods of the exporting country ni. 
+The values for xij/yj and ni are given by the data, and the translog parameter γ can be  retrieved from the estimated distance coefficient in a translog regression. As the translog  estimating equation (16) shows, the coefficient on the variable ni ln(distij) corresponds to the  negative product of the translog parameter γ and the distance elasticity of trade costs ρ. As an  illustration, I take 0.0296 from column 1 of Table 1 as an absolute value for this coefficient, i.e.,  γρ=0.0296. To be comparable to the gravity literature, I choose a value of ρ that is consistent  with typical estimates, ρ=0.177.27 The value of the translog parameter then  follows  as  
+γ=0.0296/ρ=0.167.28 To be clear, I only choose a value of  ρ for illustrative purposes. The  analysis below does not qualitatively depend on this particular value. 
+The trade cost elasticities can now be calculated across different import shares. I first  calculate the trade cost elasticity evaluated at the average import share in the sample. This  average share is xij/yj=0.01. The average of the extensive margin measure is ni=0.50. The trade  cost elasticity therefore follows as ηij =-γni /(xij/yj)=-0.167*0.50/0.01=-8.4.29 Thus, if trade costs  go down by one percent, ceteris paribus the average import share is expected to increase by 8.4  
+                                                  
+27 
+I obtain this value as follows. In standard gravity equations such as equation (18), the distance coefficient  corresponds to the parameter combination -(σ-1)ρ. It is typically estimated to be around -1 (see Disdier and Head,  2008), and in column 1 of Table 2 I obtain a reasonably close estimate of -1.239 for my sample of OECD countries.  Under the assumption of an elasticity of substitution equal to σ=8, the distance coefficient estimate implies  ρ=1.239/(8-1)=0.177. But one does not have to rely on a standard gravity regression to obtain a parameter value for ρ. Limão and Venables (2001, Table 2) report values for ρ in the range of 0.21-0.38 based on regressions of  logarithmic c.i.f./f.o.b. ratios on logarithmic distance. See Anderson and van Wincoop (2004, Figure 1) for further  evidence that ρ=0.177 is a reasonable value. 
+28 
+Based on an estimation of supply and demand systems at the 4 -digit industry level, Feenstra and Weinstein (2010)  
+yield a median translog coefficient of  γ=0.19. My value of γ=0.167 is reasonably close and would match Feenstra  and Weinstein’s (2010) estimate exactly in the case of ρ=0.156. 
+29 
+The extensive margin measure taken from Hummels and Klenow (2005) more closely corresponds to the fraction  
+ni/N since they report the extensive margin of country i relative to the rest of the world. However, this does not  affect the implied trade cost elasticities. The reason is that the elasticities as expressed in equation (12) depend on  the product γni. If ni is multiplied by a constant (1/N), the linear estimation in regression (16) leads to a point  estimate of γ that is scaled up by the inverse of the constant (i.e., scaled up by N) so that their product is not affected  (Nγ*ni /N = γni). 
+20 
+
+========21========
+
+percent. Under the assumption of an elasticity of substitution equal to σ=8, which falls  approximately in the middle of the range [5,10] as surveyed by Anderson and van Wincoop  (2004), this value would be close to the CES-based trade cost elasticity, ηCES=-(σ-1), which  equals 7.30 
+However, in contrast to the CES specification, the trade cost elasticities based on the  
+translog gravity estimati on vary across import shares. A given trade cost reduction therefore has  
+a heterogeneous impact on import shares. As an example, I illustrate this heterogeneity with  
+import shares that involve New Zealand as the importing country. I choose New Zealand beca use  its import shares vary across a relatively broad range so that the heterogeneity of trade cost  
+elasticities can be demonstrated succinctly. Of course, the analysis would be qualitatively similar  
+for other importing countries. 
+Specifically, t he Austral ian share of New Zealand’s imports is the biggest (7.2 percent),  followed by the US share (3.8 percent), the Japanese share (2.4 percent) and the UK share (0.9  percent). The corresponding trade cost elasticities, computed in the same way as before, are-1.3  for Australia, -4.0 for the US, -5.0 for Japan and -14.4 for the UK. Figure 2 plots these trade cost  elasticitiesin absolute valueagainst the import shares, adding various additional countries that  export to New Zealand.31 D ashe d lines represent 95 perc ent confidence intervals computed with  
+the delta method based on the regression in column 1 of Table 1. The figure shows that trade  
+flows are more sensitive to trade costs if import shares are small. The impact of a given trade  
+cost change is therefore het erogeneous across country pairs. This key feature stands in contrast to  
+the trade cost elasticity in the standard CES -based gravity model , wh ich  is simply a constant (σ-1=7 in this case). 
+3.5. General equilibrium effects  
+If bilateral trade costs tij change, this has a direct effect on the corresponding import share  xij/yj. But the change in tij also has an indirect effect on xij/yj through a change in price indices,  which is the famous multilateral resistance effect highlighted by Anderson and van Wincoop  
+                                                  
+30 
+Based on the above way of calculating ρ, for alternative values of σ it would also be true that the translog trade  cost elasticity evaluated at the average import share is close to the underlying CES-based trade cost elasticity. For  instance, under the assumption of σ=5, it follows ρ=0.31 and γ=0.095 so that the trade cost elasticity evaluated at the  average import share is -4.8. Under the assumption of σ=10, it follows ρ=0.138 and γ=0.214 so that the trade cost  elasticity is -10.7. 
+31 
+In order of declining import shares, the other countries are G ermany, Italy, Korea and France. 
+21 
+
+========22========
+
+(2003). Another indirect effect is through a change in income shares. I refer to the indirect effects  as general equilibrium effects. 
+The trade cost elasticity η as defined in equation (11) only captures the direct effect of a  change in tij on xij/yj. To illustrate the role of general equilibrium, I decompose how import  shares are affected by the direct and indirect effects and how this decomposition varies across  import share intervals. But as I clarify further below, general equilibrium effects are not able to  explain the pattern of declining distance coefficients as found in Table 3. 
+I demonstrate the role of general equilibrium effects based on the constant elasticity  gravity model in equation (10). As a simplification I assume trade cost symmetry such that  outward and inward multilateral resistance terms are equal (Πi = Pi ∀ i). As a counterfactual  experiment, I will assume a reduction in trade costs tij for a specific country pair. To understand  the effect on the import share, I take the first difference of equation (10) to arrive at 
+(20) ln 
+ x 
+ij 
+ 
+ 
+ 
+y 
+ 
+ 
+ (1 )ln(tij) ln 
+y 
+i 
+ 
+ W ( 
+ 1)ln( PPj). 
+i 
+j 
+y 
+The left-hand side of equation (20) indicates the percentage change of the import share. It can be  decomposed into three components. The first termon the right-hand sideis the direct effect of  the change in bilateral trade costs scaled by(1-σ). The second and third terms are the general  equilibrium effects, i.e., the change in the exporting country’s income share and the change in  multilateral resistance terms scaled by (σ-1). 
+I am interested in how the decomposition in equation (20) varies across import shares. To  that end, I first compute an initial equilibrium of trade flows based on the income data and  bilateral distance data for the 28 countries in the sample. Then, for each of the 28*27=756  bilateral observations I compute a counterfactual equilibrium under the assumption that all else  being equal, bilateral trade costs for the observation have decreased by one percent, i.e.,  Δln(tij)=-0.01, assuming an elasticity of substitution of σ=8. I use the trade cost function (13)  with distance as the only trade cost variable, assuming a distance elasticity of ρ =1/7.32 
+                                                  
+32 
+The counterfactual equilibria are computed in the same way as in Anderson and van Wincoop (2003, Appendix  B). The required domestic distance data are taken from the CEPII, see  
+http://www.cepii.fr/anglaisgraph/bdd/distances.htm. The distance elasticity is close to the value chosen in section 3.4  for illustrative purposes. The results are qualitatively not sensitive to alternative values. I also experimented with  alternative parameter assumptions for the substitution elasticity (σ=5 and σ=10) and different trade cost declines (5  percent and 10 percent). The overall results are qualitatively very similar. 
+22 
+
+========23========
+
+Table 4 presents the decomposition results that correspond to equation (20). The rows  report the average changes for each import share interval. Given the parameter assumption of  σ=8, the direct effect of a one percent drop in bilateral trade costs is an increase in the import  share of seven percent across all intervals (see column 2). While changes in the income shares in  column 3 do not vary systematically across import shares, the multilateral resistance effects in  column 4 are largest in absolute size for the interval capturing the largest import shares. In total,  the general equilibrium effects dampen the direct effect for larger import shares (see the total  effect in column 1). Intuitively, large countries like Japan and the US are less dependent on  international trade such that changes in bilateral trade costs have little effect on multilateral  resistance. As large countries are typically associated with small bilateral import shares (they  mainly import from themselves), the indirect general equilibrium effects are often negligible for  small import shares. However, for small countries like Iceland and Luxembourg a given change  in bilateral trade costs shifts multilateral resistance relatively strongly. As those countries are  typically associated with larger import shares, general equilibrium effects tend to be stronger in  that case so that the total effect is dampened. The trade cost elasticities in columns 5a and 5b  summarize these effects. Columns 6a and 6b report the implied distance elasticities. From  equation (18) the direct distance elasticity is simply given by -(σ-1)ρ, which equals -1 in this  case. 
+It is important to stress that the distance elasticities in Tables 2 and 3 only represent the direct elasticities. General equilibrium effects work in addition to the direct effectand are  absorbed by exporter and importer fixed effects. To verify this claim, I conduct Monte Carlo  simulations as in section 3.3.1 for the constant elasticity model.The simulations arenow based  on the counterfactual scenario that all bilateral trade costs decline by one percent, leaving  domestic distances unchanged. Thus, the simulated import shares are shifted by both direct and  indirect effects. I then re-estimate gravityregression (19), dividing the sample into five import  share intervals and allowing the distance elasticities to vary across these intervals.The results  show that the distance coefficients are consistently estimated as the parameter combination -(σ- 1)ρ across all five intervals. They do not reflect general equilibrium effects.Thus, general  equilibrium effects cannot account for the systematic pattern of distance elasticities reported in  Table 3. 
+23 
+
+========24========
+
+3.6. Alternative trade cost specifications 
+The log-linear trade cost function (13) is the standard specification in the gravity  literature. However, I also examine other specifications to ensure that the coefficient patterns in  the regression tables do not hinge on this particular functional form. 
+In Table 5 I add more trade cost variables apart from distance and adjacency. In  particular, I add three variables that are commonplace in the gravity literature: a common  language dummy, a currency union dummy and a dummy capturing a common colonial  history.33 The p urpose is to check whether the distance coefficient patterns in Table 3 are driven  
+by the omission of these trade cost variables. I therefore add them to those regressions. 
+In particular, for the standard gravity case I rerun the regression in column 1 of  
+with the added variables. The result is 
+the translog gravity case,  of distance  
+reported in column 1 of Table 5 
+eir equality is rejected (p 
+reported in column 2 of Table 5 
+Table 3  
+. Clearly, the pattern of  
+-value=0.00). The  
+. There is no clear pattern  
+declining absolute distance coefficients is still in place. The distance coefficients monotonically  decline in absolute value from 1.4463 to 0.8155. Th 
+added trade cost regressors have the expected (positive) signs but are not always significant. For  
+the result is 
+coefficients. For example, the distance coefficient in the second interval (equal to  -0. 0473) is larger in absolute value than the one in the first interval (equal to  
+than those in the third, fourth and fifth intervals (equal to  
+that there is no trend in the coefficients is consistent with the translog gravity prediction (see  Appendix B.4 in the online appendix for a more detailed discussion of this aspect) 
+Table 6 attempts to address a  trade with respect to distan 
+-0.046 4,  -0.0460 and  
+more fund 
+amental identification problem. 
+-0.0398) but smaller  -0.0447).  The fact  
+. The elasticity of  
+ce is the combination of the elasticity of trade with respect to trade  costs and the elasticity of trade costs with respect to distance. 
+dln( xij / yj) dln( distij) 
+ dln( xij / 
+dln(tij) 
+                                                  
+That is, 
+yj) dln(tij) 
+dln( dist ).ij 
+33 
+The language dummy takes on the value 1 if two countries have at least one official language in common  according to the CIA World Factbook. Given the countries listed in section 3.1 the currency union dummy only  captures the Euro, whose member countries irrevocably fixed their exchange rates in 1999. The colonial dummy  captures relationships between the United Kingdom as the colonizer and Australia, Canada, Ireland, New Zealand  
+and the United States. 
+24 
+
+========25========
+
+It is challenging to distinguish a standard constant elasticity gravity model with a more flexible  trade cost function on the one hand from a translog gravity model with a variable trade cost  elasticity on the other. Both these models could be observationally equivalent.34 
+Th e standard gravity case  
+yields  
+dln( 
+xij / 
+yj)/dln( tij )  ( 
+ 1). The basic trade cost  
+function (13) implies a constant distance elasticity, dln(tij 
+)/dln( 
+distij )  . But as can be seen in  
+equation (18), estimation only yields an estimate of their product, (  
+identify variation in dln(xij 
+/ 
+yj)/dln(tij) and dln(tij 
+1). To separately  
+)/dln( 
+distij) when I allowed for  
+heterogeneous distance coefficients in Table 3, some structure needed to be imposed on the trade  cost function. For that purposeI maintained the assumption that trade cost function (13) is  correct. That is, I held ρ constant. Due to this identifying assumption all variation in the distance  
+coefficients was attributed to variation in dln(xij 
+/ 
+yj)/dln(tij). A similar reasoning applies to the  
+translog case. Running regression (17) yields an estimate of  Given trade cost function (13)  
+. 
+all the variation across distance coefficients would therefore be attributed to variation in γ. 
+Of course, this identification procedure is only valid to the extent that trade cost function  (13) is correct. The purpose of Table 6 is to substitute an alternative, more flexible trade cost  function. Apart from logarithmic distance I add a quadratic in logarithmic distance: 
+(21) ln(tij) 
+ ln( 
+distij) 
+ ~ln(dist 
+ij )2. 
+The distance elasticity of trade costs follows as  
+dln(tij)/dln( 
+distij) 
+  2~ln( 
+distij) and is thus  
+no longer constant (a non-CES transport technology). For the standard gravity case the elasticity  
+of trade with respect to distance is therefore equal to (  
+1)  
+2~ln( 
+distij). 
+Methodologically, I want to be clear that equation (21) represents only one specific trade cost  function (albeit arguably a reasonable one) out of an infinite number of potential possibilities.  Since gravity estimates only yieldproducts of structural elasticity parameters and trade cost  parameters, identification in this context inevitably has to rely on a particular assumed functional  
+form. 
+Column 1 of Table 6 reports a standard gravity regression as in equation (18) but with the  additional quadratic distance term based on trade cost function (21). The estimate for ( 1 
+                                                  
+) 
+34 
+As an extreme example, it would always be possible to choose a matrix of trade costs such that the standard model  
+fits the data perfectly with an R-squared of 1. 
+25 
+
+========26========
+
+is negative at -0.2677 but not significant. The estimate for (  
+at the five percent level. 
+ 
+1)~ is -0.0644 and significant  
+Then, as insection 3.3.1, I allow the distance coefficients to vary across import share  intervals. The intervals are given by predicted import shares based on the results in column 1. As  before, the identifying assumption is that the trade cost function is correct. In the context of  specification (21) this means that I have to hold ρ and ~ constant. Of course, I do not know the  values for ρ and  ~ as column 1 of Table 6 only reveals their products with (  
+based on the point estimates I can calculate their ratio as  /~=-0.2677/-0.0644=4.16.35 To be  
+consistent with the identifying assumption of a constant  
+1). However,  
+ρ and a constant ~, I constrain the ratio  
+of the two distance regressors in each interval to this particular value. All variation in the  
+elasticity of trade with respect to distance is therefore attributed to dln(xij 
+standard gravity is the true model, the coefficients on ln(dist 
+across intervals. 
+/ ij 
+) and ln(dist 
+yj)/dln(tij). If  ij 
+)2 should not vary  
+Column 2 of Table 6 reports the results. To reduce the number of parameters to be  
+estimated, I only adopt three intervals instead of five. The ln(dist 
+ij 
+) coefficients are -0.3216,  
+-0.2942 and -0.2542, and the ln(dist 
+ij 
+)2 coefficients are -0.0773, -0.0707 and -0.0611. Thus,  
+their absolute values exhibit the same declining pattern as already found in section 3.3.1, and the  differences are statistically significant (p-value=0.00). As before, this result casts doubt on the  standard gravity specification but it is consistent with the translog model. 
+The remaining two columns of Table 6 go through the same procedure for the translog  specification as in equation (17) with the additional quadratic distance term. Based on the results  in column 3 the estimates for  and ~ are -0.0933 and 0.0045, respectively. Their ratio  follows as  / 
+~=-20.73. Column 4 allows the coefficients to vary across import share intervals,  
+ 
+ 
+with the ratio of the two distance regressors constrained to the value of -20.73. The ln(dist coefficients are -0.1182, -0.1407 and -0.1355, and the ln(dist 
+ij 
+) ij 
+)2 coefficients are 0.0057,  
+0.0068 and 0.0066. Although the differences are significant (p-values=0.00) as the coefficients  
+                                                  
+35 
+As ρ in particular is imprecisely estimated, a concern might be that the true ratio could be different. The 95  percent confidence interval for the ratio is given by the values -12.91 and 20.42. The results are qualitatively the  
+same based on either of those two values. 
+26 
+
+========27========
+
+are tightly estimated, there is no monotonic pattern. This finding is consistent with the translog  model. 
+4. Conclusion 
+Leading trade models from the current literature imply a gravity equation that is  characterized by a constant elasticity of trade flows with respect to trade costs. This paper adopts  an alternative demand system – translog preferences – and derives the corresponding gravity equation. Due to more flexible substitution patterns across goods, translog gravity breaks the  constant trade cost elasticity that is the hallmark of traditional gravity equations. Instead, the  elasticity becomes endogenous and depends on the intensity of trade flows between two  countries. 
+In particular, all else being equal, the less two countries trade with each other and the  smaller their bilateral import shares, the more sensitive they are to bilateral trade costs. I test the  translog gravity specification and find evidence that tends to support this prediction. That is,  trade cost elasticities appear heterogeneous across import shares under the standard assumption  of a log-linear trade cost function. 
+The empirical results presented in this paper are based on aggregate trade flows. A  natural extension would be an application to more disaggregated data. In that regard, I have  obtained some preliminary results based on import shares between OECD countries at the level  of 3-digit industries. When I allow gravity distance coefficients for individual industries to vary  across import shares in CES-based gravity equations, their absolute values are characterized by  the same declining pattern as in Table 3 for industries as diverse as food products, plastic  products and electric machinery. This additional evidence suggests that variable trade cost  elasticities might be a distinct feature of international trade data also at the industry level.  Exploring industry-level data in more detail along those lines is thus an important topic for future  research. 
+27 
+
+========28========
+
+References 
+Anderson, J., van Wincoop, E., 2003. Gravity with Gravitas: A Solution to the Border Puzzle.  
+American Economic Review 93, pp. 170-192. 
+Anderson, J., van Wincoop, E., 2004. Trade Costs. Journal of Economic Literature 42, pp. 691- 
+751. 
+Arkolakis, C., Costinot, A., Rodríguez-Clare, A., 2010. Gains from Trade under Monopolistic  
+Competition: A Simple Example with Translog Expenditure Functions and Pareto  
+Distributions of Firm-Level Productivity. Working Paper, Yale University. 
+Badinger, H., 2007. Has the EU’s Single Market Programme Fostered Competition? Testing for  
+a Decrease in Mark-up Ratios in EU Industries. Oxford Bulletin of Economics and  
+Statistics 69, pp. 497-519. 
+Behrens, K., Murata, Y., 2012. Trade, Competition, and Efficiency. Journal of International  
+Economics 87, pp. 1-17. 
+Behrens, K., Mion, G., Murata, Y., Südekum, J., 2009. Trade, Wages and Productivity. Centre  
+for Economic Policy Research Discussion Paper #7369. 
+Bergin, P., Feenstra, R., 2000. Staggered Price Setting, Translog Preferences, and Endogenous  
+Persistence. Journal of Monetary Economics 45, pp. 657-680. 
+Bergin, P., Feenstra, R., 2009. Pass-Through of Exchange Rates and Competition between  
+Floaters and Fixers. Journal of Money, Credit and Banking 41S, pp. 35-70. 
+Bergstrand, J., 1985. The Gravity Equation in International Trade: Some Microeconomic  
+Foundations and Empirical Evidence. Review of Economics and Statistics 67, pp. 474- 
+481. 
+Bergstrand, J., 1989. The Generalized Gravity Equation, Monopolistic Competition, and the  
+Factor-Proportions Theory in International Trade. Review of Economics and Statistics 71,  
+pp. 143-153. 
+Chaney, T., 2008. Distorted Gravity: The Intensive and Extensive Margins of International  
+Trade. American Economic Review 98, pp. 1707-1721. 
+Chen, N., Imbs, J., Scott, A., 2009. The Dynamics of Trade and Competition. Journal of  
+International Economics 77, pp. 50-62. 
+Christensen, L., Jorgenson, D., Lau, L., 1971. Conjugate Duality and the Transcendental  
+Logarithmic Function. Econometrica 39, pp. 255-256. 
+Christensen, L., Jorgenson, D., Lau, L., 1975. Transcendental Logarithmic Utility Functions.  
+American Economic Review 65, pp. 367-383. 
+Deardorff, A., 1998. Determinants of Bilateral Trade: Does Gravity Work in a Neoclassical  
+World? In: Jeffrey A. Frankel (Ed.), The Regionalization of the World Economy.  
+Chicago: University of Chicago Press. 
+Deaton, A., Muellbauer, J., 1980. An Almost Ideal Demand System. American Economic Review 
+70, pp. 312-326. 
+Diewert, W.E., 1976. Exact and Superlative Index Numbers. Journal of Econometrics 4, pp. 115- 
+145. 
+Disdier, A., Head, K., 2008. The Puzzling Persistence of the Distance Effect on Bilateral Trade.  
+Review of Economics and Statistics 90, pp. 37-48. 
+Eaton, J., Kortum, S., 2002. Technology, Geography and Trade. Econometrica 70, pp. 1741- 
+1779. 
+28 
+
+========29========
+
+Evenett, S., Keller, W., 2002. On Theories Explaining the Success of the Gravity Equation.  
+Journal of Political Economy 110, pp. 281-316. 
+Feenstra, R., 1994. New Product Varieties and the Measurement of International Prices.  
+American Economic Review 84, pp. 157-177. 
+Feenstra, R., 2003. A Homothetic Utility Function for Monopolistic Competition Models,  
+without Constant Price Elasticity. Economics Letters 78, pp. 79-86. 
+Feenstra, R., Kee, H.L., 2008. Export Variety and Country Productivity: Estimating the  
+Monopolistic Competition Model with Endogenous Productivity. Journal of  
+International Economics 74, pp. 500-518. 
+Feenstra, R., Markusen, J., Rose, A., 2001. Using the Gravity Equation to Differentiate Among  
+Alternative Theories of Trade. Canadian Journal of Economics 34, pp. 430-447. Feenstra, R., Weinstein, D., 2010. Globalization, Markups, and the U.S. Price Level. National  
+Bureau of Economic Research Working Paper #15749. 
+Gohin, A., Féménia, F., 2009. Estimating Price Elasticities of Food Trade Functions. How  
+Relevant is the CES-Based Gravity Approach? Journal of Agricultural Economics 60, pp.  
+253-272. 
+Helpman, E., Melitz, M., Rubinstein, Y., 2008. Estimating Trade Flows: Trading Partners and  
+Trading Volumes. Quarterly Journal of Economics 123, pp. 441-487. 
+Hillberry, R., Hummels, D., 2008. Trade Responses to Geographic Frictions: A Decomposition  
+Using Micro-Data. European Economic Review 52, pp. 527-550. 
+Hummels, D., Klenow, P., 2005. The Variety and Quality of a Nation’s Exports. American  
+Economic Review 95, pp. 704-723. 
+Kehoe, T., Ruhl, K., 2009. How Important is the New Goods Margin in International Trade?  
+Federal Reserve Bank of Minneapolis Research Department, Staff Report 324. Komorovska, J., Kuiper, M., van Tongeren, F., 2007. Sharing Gravity: Gravity Estimates of  
+Trade Shares in Agri-Food. Working Paper, OECD. 
+Limão, N., Venables, A., 2001. Infrastructure, Geographical Disadvantage, Transport Costs, and  
+Trade. World Bank Economic Review 15, pp. 451-479. 
+Lo, L., 1990. A Translog Approach to Consumer Spatial Behavior. Journal of Regional Science 
+30, pp. 393-413. 
+Markusen, J., 1986. Explaining the Volume of Trade: An Eclectic Approach. American  
+Economic Review 76, pp. 1002-1011. 
+Melitz, M., Ottaviano, G., 2008. Market Size, Trade, and Productivity. Review of Economic  
+Studies 75, pp. 295-316. 
+Pesaran, M., Weeks, M., 2007. Non-Nested Hypothesis Testing: An Overview. In: B. Baltagi  
+(Ed.), A Companion to Theoretical Econometrics. Malden, MA: Blackwell. 
+Rodríguez-López, J., 2011. Prices and Exchange Rates: A Theory of Disconnect. Review of  
+Economic Studies 78, pp. 1135-1177. 
+Sanso, M., Cuairan, R., Sanz, F., 1993. Bilateral Trade Flows, the Gravity Equation, and  
+Functional Form. Review of Economics and Statistics 75, pp. 266-275. 
+Volpe Martincus, C., Estevadeordal, A., 2009. Trade Policy and Specialization in Developing  
+Countries. Review of World Economics 145, pp. 251-275. 
+29 
+
+========30========
+
+Table 1: Translog gravity 
+Dependent variable 
+xij/yj (1) 
+ni ln(distij) 
+ni ln(Tdistj ) 
+-0.0296*** (0.0041) 0.0207*** (0.0049) 
+ni adjij 
+ni Tadjj 
+ln(distij) 
+adjij 
+R-squared Observations 
+0.52 749 
+Multiple goods per country 
+xij/yj (2) 
+(xij/yj)/ni 
+(3) 
+(xij/yj)/ni 
+(4) 
+-0.0190*** (0.0029) 0.0105*** (0.0034) 0.0510*** (0.0117) -0.0471** (0.0192) 
+-0.0250*** (0.0033) 
+-0.0159*** (0.0021) 0.0450*** (0.0090) 
+0.59 749 
+0.50 749 
+0.57 749 
+One good per country (ni=1) 
+xij/yj xij/yj 
+(5) (6) 
+-0.0149*** (0.0022) 
+-0.0094*** (0.0016) 0.0273*** (0.0053) 
+0.50 749 
+0.56 749 
+Notes: Robust standard errors clustered around country pairs (378 clusters) reported in parentheses, OLS  estimation. Columns 1 and 2: exporter fixed effects not reported. Columns 3 -6: exporter and importer fixed effects  not reported. ** significant at 5% level. *** significant at 1% level. 
+30 
+
+========31========
+
+Table 2: Constant elasticity gravity 
+Dependent variable 
+ln(xij/yj) (1) 
+ln(xij/yj) (2) 
+ln(distij) 
+-1.2390*** (0.0625) 
+adjij 
+-1.1697*** (0.0713) 0.3440** (0.1720) 
+R-squared 0.89 0.89 Observations 749 749 Notes: Robust standard errors clustered around country  pairs (378 clusters) reported in parentheses, OLS  estimation. Exporter and importer fixed effects not  reported. ** significant at 5% level. *** significant at 1%  level. 
+31 
+
+========32========
+
+Table 3: Testing constant elasticity gravity (Hypothesis A) 
+Intervals based on (xij/yj)/ni 
+Dependent variable 
+ln(xij/yj) (1) 
+ln(distij), h=1 
+ln(distij), h=2 
+ln(distij), h=3 
+ln(distij), h=4 
+ln(distij), h=5 
+-1.4960*** (0.1377) -1.4636*** (0.1223) -1.3668*** (0.1092) -1.2235*** (0.1024) -1.0790*** (0.1000) 
+adjij, h=2 
+adjij, h=3 
+adjij, h=4 
+adjij, h=5 
+R-squared Observations 
+0.90 749 
+ln(xij/yj) (2) 
+Intervals based on (xij/yj) ln(xij/yj) ln(xij/yj) 
+(3) (4) 
+-1.4490*** (0.1313) -1.3405*** (0.1117) -1.2502*** (0.1043) -1.0662*** (0.0968) -0.8297*** (0.1045) 1.9499*** (0.2279) 2.3218*** (0.2150) 0.7333*** (0.2345) 0.6221*** (0.1500) 
+-1.6523*** (0.1080) -1.3936*** (0.1180) -1.3369*** (0.1123) -1.3311*** (0.0947) -1.0662*** (0.0910) 
+-1.5970*** (0.1044) -1.3190*** (0.1140) -1.2131*** (0.1017) -1.1551*** (0.0946) -0.8251*** (0.0972) 1.1283* (0.6657) 1.6318*** (0.5925) 0.5197*** (0.1910) 0.6359*** (0.1556) 
+0.90 749 
+0.89 749 
+0.90 749 
+Notes: The index h denotes intervals in order of ascending predicted import shares. The  intervals in columns 1 and 2 are based on predicted import shares divided by n 
+i. The intervals in  columns 3 and 4 are based on predicted import shares only. The adj 
+ij 
+regressor for interval h=1  drops out since no adjacent country pair falls into this interval. Robust standard errors clustered  around country pairs (378 clusters) reported in parentheses, OLS estimation. Exporter and  importer fixed effects and interval fixed effects not reported. * s ignificant at 10% level. ***  
+significant at 1% level. 
+32 
+
+========33========
+
+Table 4: General equilibrium effects in response to a counterfactual decline in trade costs 
+Import share interval 
+Total effect Δ ln(xij/yj) 
+(1) 
+= 
+Direct effect (1-σ) Δ ln(tij) 
+h=1 h=2 h=3 h=4 h=5 
+0.0702 0.0699 0.0696 0.0690 0.0637 
+= = = = = 
++ 
+(2) 
+Indirect GE effect Δ ln(yi/yW) + (σ-1) Δ ln(PiPj) 
+(3) (4) 
+0.07 0.07 0.07 0.07 0.07 
++ + + + + 
+-0.0007 -0.0007 -0.0008 -0.0006 -0.0007 
++ + + + + 
+0.0009 0.0007 0.0003 -0.0003 -0.0056 
+Trade cost elasticity Total Direct (5a) (5b) 
+Distance elasticity Total Direct (6a) (6b) 
+-7.02 -6.99 -6.96 -6.90 -6.37 
+-7 -7 -7 -7 -7 
+-1.00 -1.00 -0.99 -0.99 -0.91 
+-1 -1 -1 -1 -1 
+Notes: This table reports logarithmic differences of variables between the initial equilibrium and the counterfactual equilib rium. The initial equilibrium is based  on country income shares yi/yW for the year 2000 and bilateral distance data for the 28 countries in the sample (28*27=756 bilateral observations). For each bilateral observation a counterfactual equilibrium is computed under the assumption that bilateral trade costs tij for this observation have decreased by one  percent all else being equal, yielding 756 counterfactual scenarios. The table reports the logarithmic differences between the initial and the counterfactual  equilibria averaged across five import share intervals denoted by h. Import share intervals are in ascending order and based on the initial equilibrium. Assumed  parameter values: σ=8 and ρ=1/7. Column 1: change in the import share; column 2: change in bilateral trade costs scaled by the substitution elasticity; column  3: change in the exporting country's income share; column 4: change in multilateral resistance scaled by the substitution elasticity; columns 5a and 5b: implied  trade cost elasticities based on total effect and direct effect (=1-σ); columns 6a and 6b: implied distance elasticities based on total effect and direct effect (=(1- 
+σ)*ρ). 
+33 
+
+========34========
+
+Table 5: Additional trade cost variables 
+Dependent variable 
+ln(distij), h=1 
+ln(distij), h=2 
+ln(distij), h=3 
+ln(distij), h=4 
+ln(distij), h=5 
+adjij 
+common languageij 
+currency unionij 
+colonialij 
+R-squared Observations 
+Constant elasticity gravity 
+ln(xij/yj) 
+(1) 
+-1.4463*** (0.1369) -1.3789*** (0.1168) -1.2841*** (0.1030) -1.0150*** (0.0992) -0.8155*** (0.1060) 0.5859*** (0.1711) 0.1999 (0.1356) 0.0159 (0.1128) 0.6286** (0.2509) 
+0.90 749 
+Translog gravity 
+(xij/yj)/ni 
+(2) 
+-0.0398*** (0.0061) -0.0473*** (0.0068) -0.0464*** (0.0068) -0.0460*** (0.0068) -0.0447*** (0.0072) 0.0292*** (0.0071) 0.0091** (0.0045) 0.0073** (0.0034) 0.0146 (0.0159) 
+0.69 749 
+Notes: The index h denotes intervals in order of ascending predicted import shares. The  adjij, common languageij, currency unionij and colonialij regressors do not vary across  intervals. Robust standard errors clustered around country pairs (378 clusters) reported in  parentheses, OLS estimation. Exporter and importer fixed effects and interval fixed effects  not reported. ** significant at 5% level. *** significant at 1% level. 
+34 
+
+========35========
+
+Table 6: Alternative distance specification 
+Dependent variable 
+ln(distij) 
+(ln(dist 
+ij)) 
+2 
+-0.0644** 
+ln(distij), h=1 
+ln(distij), h=2 
+ln(distij), h=3 
+(ln(dist 
+ij)) 
+2, h=1 
+(ln(dist 
+ij)) 
+2, h=2 
+(ln(dist 
+ij)) 
+2, h=3 
+R-squared Observations 
+Constant elasticity gravity ln(xij/yj) ln(xij/yj) 
+(1) (2) 
+-0.2677 (0.4176) 
+(0.0278) 
+-0.3216*** (0.0191) -0.2942*** (0.0196) -0.2542*** (0.0184) -0.0773*** (0.0046) -0.0707*** (0.0047) -0.0611*** (0.0044) 
+0.89 749 
+0.89 749 
+Translog gravity 
+(xij/yj)/ni 
+(3) 
+(xij/yj)/ni 
+(4) 
+-0.0933** (0.0442) 0.0045 (0.0028) 
+-0.1182*** (0.0209) -0.1407*** (0.0231) -0.1355*** (0.0284) 0.0057*** (0.0010) 0.0068*** (0.0011) 0.0066*** (0.0014) 
+0.52 749 
+0.59 749 
+Notes: The index h denotes intervals in order of ascending predicted import shares. Robust standard errors  clustered around country pairs (378 clusters) reported in parentheses, OLS estimation. Exporter and importer  fixed effects and interval fixed effects not reported. ** significant at 5% level. *** significant at 1% level. 
+35 
+
+========36========
+
+Translog gravity 
+Standard gravity 
+.4 
+.4 
+.3 
+.3 
+.2 
+.2 
+Fitted import shares 
+Fitted import shares 
+.1 
+.1 
+0 
+45 degree line 
+0 
+45 degree line 
+0 
+.1 .2 
+Actual import shares 
+.3 
+.4 
+0 
+.1 .2 
+Actual import shares 
+.3 
+.4 
+Figure 1: Fitted import shares plotted against actual import shares. The left panel is based on the  
+translog gravity model, and the right panel is based on the standard gravity model. 
+36 
+
+========37========
+
+Figure 2: Trade cost elasticities (in absolute value) plotted against import shares for the case of  
+New Zealand. The dashed lines represent 95 percent confidence intervals. 
+37 
+
+========38========
+

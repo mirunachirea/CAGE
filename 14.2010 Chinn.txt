@@ -1,0 +1,928 @@
+June 2010 
+             No.14 
+Supply Capacity, Vertical Specialisation andTrade Costs:  The Implications for Aggreagate US Trade Flow Equations Menzie D Chinn (University of Wisconsin, Madison and NBER) 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Supply Capacity, Vertical Specialization and Trade Costs:   The Implications for Aggregate U.S. Trade Flow Equations 
+by  
+Menzie D. Chinn  University of Wisconsin, Madison  
+and NBER   
+June 11, 2010  
+Abstract 
+This paper re-examines aggregate and disaggregate import and export demand functions  for the United States over the 1975q1-2010q1 period. This re-examination is warranted  because (1) income elasticities are too high to  be warranted by standard theories, and (2)  remain high even when it is assumed that supply factors are important. These findings  suggest that the standard models omit important factors. An empirical investigation  indicates that the rising importance of vertical specialization combined with changing  tariff rates and transportation costs explains some of results. Accounting for these factors  yields more plausible estimates of income elasticities.   
+Keywords:  imports, exports, elasticities, vertical specialization, production  fragmentation, trade costs  
+JEL Classification:  F12, F41  
+Acknowledgements:  Paper prepared for the conferen ce “Trade Costs and International  Trade Integration -- Past, Present and Future,” organized by Dennis Novy, David Jacks,  Christopher Meissner (Venice, June 25-26, 2010). I thank Matthieu Bussière, Ufuk  Demiroglu, Marcel Fratzscher, Joe Gagnon, Juann Hung, Catherine Mann, Jaime  Marquez, Kei-Mu Yi and seminar participants  at the ECB for very helpful comments, and  Tanapong Potipiti for assistance in collecting data. The author acknowledges the  hospitality of the Congressional Budget Office and of the European Central Bank where  portions of this paper were written while he  was visiting fellow at  the two institutions.  The views reported herein are solely those of the author’s, and do not necessarily  represent those of the institutions the author is currently or previously affiliated with.  Faculty research funds of the University of Wisconsin-Madison are gratefully  acknowledged. 
+Correspondence:   Robert M. LaFollette School of P ublic Affairs; and Department of  
+Economics, University of Wisconsin, 1180 Observatory Drive, Madison, WI 53706- 
+1393. Tel.: +1 (608) 262-7397. Email: mchinn@lafollette.wisc.edu  .     
+
+========2========
+
+1. Introduction  
+This analysis is motivated by the recent widening and narrowing of the U.S. trade  
+balance, illustrated in Figure 1, and three key stylized facts regarding U.S. trade flows.  
+The first stylized fact is the persistence of the Houthakker-Magee results, namely that the  
+income elasticity of U.S. imports exceeds that of exports. Over the past 30 years, the gap  
+is at least 0.3 for total goods and services, regardless of the method of estimation. In  
+Chinn (2005), the gap is as high as 0.65. Table 1 presents estimates obtained from OLS,  
+dynamic OLS, single equation error correction estimates and the Johansen maximum  
+likelihood procedures confirming that finding. Furthermore, there is little evidence that  
+the asymmetry is disappearing.   
+  The second stylized fact is that values  of the income elasticities are quite high,  
+and rising. In Table 1, the income elasticities are as high as 2.2 for imports, and 1.9 for  
+exports. In Figure 2, the income elasticities are shown for four subperiods over the last 32  
+years into four equal sub-periods. The income  elasticities are generally rising. Notice that  
+in Figure 3 there is no similar pattern for price elasticities. One outstanding feature of the  
+estimates is that the import price elasticity is typically quite low.  
+  These high income elasticities are diff icult to reconcile with the standard  
+differentiated goods model (see Goldstein and Khan, 1985). From a forecasting  
+standpoint, high income elasticities1  are not troubling; but – as  discussed below – from an  
+economic perspective, they are perplexing. The third stylized fact is that the variability of  
+trade flows is increasing over time. For instance, the behavior of trade flows during 1999- 
+                                                 
+1  
+ This phenomenon has been noted before (Rose, 1991).   
+1 
+
+========3========
+
+2000 is difficult to explain using standard models. As illustrated in Figure 3, both series  
+surge in this period.   
+  In this paper, I re-examine the behavi or of export and import flows, motivating  
+the analysis by referring to new theories of  trade behavior. These  include differentiated  
+goods models such as those forwarded by Krugman (1991). Several papers have  
+exploited the implications of these models in a cross-section context, with some success.  
+In this paper, I adopt a different approach. Disaggregating the data, one finds that some of  
+the odd behavior of goods exports and imports can be isolated to the peculiar behavior of  
+capital and durable goods; since such goods are often used to manufacture other capital  
+goods or consumer goods, it seems that growth  in such categories is “inflating” the  
+volume of such trade flows. Disaggregation is not sufficient, however. Various papers  
+have pointed out that the growth of trade in intermediate goods may be nonlinearly  
+related to the decline in trade barriers  and the heightened  importance of capital  
+expenditures during certain phases of the business cycle. More recently, Mann and Plück  
+(2007) have argued that disaggregation along category line and trading partner helps in  
+obtaining reasonable parameter estimates.  
+  Once one includes the variables that shoul d matter for such vertical specialization,  
+the parameter estimates become more plausible. That being said, the parameter estimates  
+for the auxiliary variables are not always in  the expected direction or statistically  
+significant, and the results cannot be construed as definitive.   
+   
+2 
+
+========4========
+
+2. The Standard Model and the Supply Side  
+2.1 The model specification  
+The empirical specification is motivated by the traditional, partial equilibrium view of  
+trade flows. Goldstein and Khan (1985) provide a clear exposition of  this “imperfect  
+substitutes” model. To set ideas consider the algebraic framework similar to that used by  
+Rose (1991). Demand for imports in the US and the Rest-of-the-World (RoW) is given  
+by:  
+DfYPUS US US 
+US 
+im 
+= 
+1 
+(,$im )      (1)  
+DfYPRoW RoW RoW 
+RoW 
+im 
+= 
+1(, 
+$im 
+)      (2)  
+where  P$imis the price of imports relative to the economy-wide price level. The supply of  
+exports is given by:  
+SfPZUS US 
+US US 
+ex 
+= 
+2 
+( 
+$ex 
+,)       (3)  
+SfPZRoW RoW 
+RoW RoW 
+ex 
+= 
+2( 
+$ex 
+,)      (4)  
+Where  P$ex  is the price of exports re lative to the economy-wide price level.  Note that the  
+price of imports into the US is equal to the price of foreign exports adjusted by the real  
+exchange rate.  
+PPEP P PQP$$$$US US 
+RoW RoW US RoW 
+im 
+×=× × ⇒ =ex 
+im ex 
+   (5)  
+where E  is the nominal exchange rate in US$ per unit of foreign currency, the real  
+exchange rate is   
+Q = 
+EPRoW 
+PUS 
+3 
+
+========5========
+
+where P  represents the  aggregate  level of prices of dome stically produced goods and  
+services. Z  is a supply shift variable, represen ting the productive capacity of the  
+exportables sector.   
+An analogous equation applies for imports  into the rest-of-the-world. Imposing  
+the equilibrium conditions that supply equals demand, one can write out import and  
+export equations (assuming log-linear functional forms, where lowercase letters denote  
+log values of upper case):2 
+im q y zUS RoWttt=+ + + +ββ β β ε01 2 3 2 
+t 
+   (6)  
+ex q y zRoW USttt=+ + + +δδ δ δ ε01 2 3 1 
+t 
+   (7)  
+Where β1  < 0,  β2  > 0,  β3  > 0 and  δ1  > 0,  δ2  > 0,   δ3  > 0.  
+  Notice that exports are th e residual of production over domestic consumption of  
+exportables; similarly imports are the residual of foreign production over foreign  
+consumption of tradables. The difference between this specification and the standard is  
+the inclusion of the exportables supply shift variable, z. In standard import and export  
+regressions, this term is omitted, implicitly holding the export supply curve fixed; in  
+other words, it constrains the relationship between domestic  consumption of exportables  
+and production of exportables to be constant (see Helkie and Hooper, 1988 for an  
+exception to this rule). A bout of consumption at home that reduces the supply available  
+for exports would induce an apparent structural break in the equation (6) if the z  term is  
+                                                 
+   
+2  As Marquez (1994) has pointed out, there are a number of problems with this  specification, in terms of assumptions regarding expenditure shares. A number of other  potentially important factors are also omitted, including other trend variables (e.g,  immigration as in Marquez (2002) or the rise  of services export s as in Mann (1999)).  
+4 
+
+========6========
+
+omitted. Similarly, omission of the rest-of-world export suppy term from the import  
+equation makes the estimated relationships  susceptible to structural breaks.   
+  Note that the supply term here is exp licitly partial equilibrium in nature. Unlike  
+the Krugman (1991) model, where balanced trade implies supply creates its own demand,  
+no specific presumptions are made regarding the source of this supply effect.   
+  The problem, of course, is obtaining good  proxies for these supply terms. In the  
+some previous studies, a measure of the U.S. capital stock has been used. Obvious  
+candidates, such as US industrial production for US exports, exhibits too much  
+collinearity with rest-of-world GDP to identify the supply effect precisely. That is why  
+this supply factor has typically been identified in panel cross section analyses (Bayoumi,  
+2003; Gagnon, 2004).   
+2.2 Data and Estimation  
+  Data on real imports and exports an d components of real GDP (2005 chain  
+weighted dollars) were obtained for the 1967q1-2010q1 period. Domestic economic  
+activity is measured by U.S. GDP in 2005 chain weighted dollars. Foreign economic  
+activity is measured by real Rest-of-World GDP, weighted by U.S. exports to major  
+trading partners. The real exchange rate measure is the Federal Reserve Board’s broad  
+trade weighted value of the dollar. This  index uses the CPI as the deflator.   
+5 
+
+========7========
+
+  The supply variables are more difficult  to identify. For the United States, two  
+candidate variables are used: (i) net private nonresidential capital, and (ii) manufacturing  
+production.3  For the rest-of-the-world, I use import-weighted rest-of-world GDP.   
+  The trade costs are proxied by two variable s: (i) the average tariff rate for major  
+economies, and (ii) the relative price of oil.  (Additional details on a ll these variables are  
+contained in Appendix 1.)  
+Estimation is implemented on data over  the period of 1975q1-2010q1. This period  
+spans three episodes of dollar appreciation and three episodes of dollar depreciation. It  
+also spans a period of tremendous volatility in trade flows, from 2008q3-09q3; in order to  
+maximize the span of data, I retain this data for the analysis. In addition, the variation in  
+the series should aid in identifying the relationships (as long as there are no structural  
+breaks associated with this the trade collapse).  
+The broad measure of dollar is used, as opposed to the major currencies measure,  
+which is unrepresentative of relative prices faced by the U.S. import competing sector in  
+recent years. In principle, it would be better to use a unit labor deflated index (Chinn,  
+2006). However, such an index is not available for a broad set of currencies; of which the  
+Chinese yuan would be the most important.4  In addition, by using this Divisia exchange  
+rate index (which weights growth rates  of exchange rates by trad e weights), I sidestep the  
+                                                 
+   
+3  Admittedly, industrial production is in some 
+ sense too “endogenous” a variable to  include in the regression. From a theoretical perspective, a more desirable measure is the  capital stock measures as a proxy of the supply capacity of exportables, as in Helkie and  Hooper (1988). The question is whether these variables are measured with too much  error. Certainly, this is an almost impossible task for the rest-of-the-world, especially to  the extent that one wants to capture the impact of the newly industrializing countries and  China.  
+4 
+ For an analysis of how different results ar e obtained using different  deflators, see Chinn  (2005). In that analysis, I examine the impact  of using alternatively CPI, PPI and unit  labor cost deflated real exchange rates on estimates of trade elasticities.  
+6 
+
+========8========
+
+question of whether the impact  of Chinese relative prices  are fully captured. For more  
+this issue, see Thomas and Marquez (2006).  
+In terms of estimation, there are a variety of alternative approaches to estimating  
+the long run relationships, include the Johansen maximum likelihood method, and single  
+equation error correction regressions. The advantage of such approaches is that they  
+provide information on short run dynamics. One of the disadvantages is that the estimates  
+are extremely sensitive to the treatment of  trends, and the selection of lag length. 
+5 
+   
+As a consequence, the cointegrating relationship is identified using dynamic OLS  
+(Stock and Watson, 1993). Two leads and four lags of the right hand side variables are  
+included. In a simple two variable cointegrating relationship, the estimated regression  
+equation is:  
+yx xutti=+ + +γγ 
+∑ 
+−4 
+01 
+i=+2 
+ΓΔ 
+ti t+ 
+This approach presupposes that there is only one long run relationship. This requirement  
+should not be problematic, as there is typically little evidence of more than one  
+cointegrating vector for these four-variable systems.   
+2.3 Empirical Results  
+2.3.1 The Basic Specification 
+First I consider equations (6) and (7) suppressing the z  terms. The long run export  
+elasticities are reported in Table 2. The income elasticity for total exports of goods and  
+services is 1.81 (Column [1]). This finding is not an artifact of the inclusion of services.  
+In fact, the goods only elasticity is 1.87 (Column [3]). The high coefficients hold for  
+                                                 
+5 
+  See Chinn (2005) for results using these approaches.  
+7 
+
+========9========
+
+different aggregates including goods ex Agricultural goods. The services elasticities are  
+slightly lower, at about 1.67.  
+  A similar result obtains for imports. As  reported in Table 3, Column [1], total  
+imports of goods and services also exhibit a long run elasticity of  2.19. However, in all  
+instances, there appears to be substantial sensitivity to the inclusion of time trends,  
+suggesting the omission of important variables. (Alternatively, a cointegrating  
+relationship is absent between these specific trade aggregates and the included income  
+and price variables.)  
+  In addition to the empirical motivation fo r examining different aggregates, there is  
+a standard convention to consider, for instance, an import aggregate excluding petroleum.  
+The trade equations in (6) and (7) are derived from an imperfect substitutes model, well  
+suited to manufactured goods. However, oil is  a natural resource co mmodity that does not  
+quickly respond to market signals, and exhibits trends due to resource depletion. A  
+similar argument might be used to motivate a focus on a non-agricultural goods export  
+variable. Figures 5 and 6 depict these alternative series and break out services.  
+  Interestingly, these remarkably high estimated income elasticity estimates persist,  
+for both export goods ex.-Agriculture and import goods ex.-oil (columns [3] in Tables 2  
+and 3). On the other hand, estimated price elasticities are  higher (in absolute value) for  
+these disaggregate components. These findings suggest some aggregation bias.  
+  These high estimated income elasticities  inform the debate over the durability of  
+the Houthakker-Magee (1969) findings. Exports involving goods respond 1.8 to 1.9  
+percent for each one percentage point increase in rest-of-world income. In contrast,  
+imports rise about 2.3 to 2.6 percentage points for each percentage point increase in US  
+8 
+
+========10========
+
+GDP. This set of findings suggests that the Houthakker-Magee income asymmetry  
+persists. Hence, even if U.S. and foreign growth rates were to converge, net exports  
+would continue to deteriorate even  starting from balanced trade.   
+2.3.2 A Supply Augmented Specification 
+All of the preceding specifications exclude a role for the supply side, suggested by  
+Equations (6) and (7). In Table 4, the results for specifications incorporating the supply  
+side are included, where the supply side  is proxied by manufacturing production. 
+6 
+ The  
+income elasticity of demand falls from 1.8 to 0.9, with the supply coefficient equal to  
+close to unity (Column [1]). Unfortunately, the results are sensitive to the inclusion of a  
+time trend. Counter-intuitively, exports of goods ex Agriculture are not as easily modeled  
+for this specification; the rest-of-world income is not statistically significant. Inclusion of  
+a time trend leads to a negative coefficient estimate on real GDP.  
+   On the import side, the inclusion of suppl y side effects is slightly less successful.  
+In this case, the supply side variable is import-weighted real GDP. In Table 4, Column  
+[5], the import income elasticity rises from 2.19 to 4.07, with the coefficient on foreign  
+GDP taking on a negative value. Excluding oil from the import aggregate leads to slightly  
+more sensible results, but the supply side variable is never significant.  
+  Unfortunately, in all these instances,  the demand and supply variables are so  
+collinear that the results are sensitive to the inclusion of the time trends.7  This is why  
+                                                 
+6 
+  The regressions incorporating private nonr esidential capital stock are unsuccessful to  the extent that the coefficient on the supply variable exhibits the wrong sign.  
+Interestingly, the two series exhibit similar trends, and according to certain tests, are  cointegrated.  
+7  
+ For a survey of research related to th e ongoing trade collapse and rebound, see Baldwin  (2009). Freund (2009) provides empirical evidence over time.  
+9 
+
+========11========
+
+cross-section and panel regressions such as Gagnon (2003)  and Bayoumi (2003) obtain  
+more supportive evidence of supply side effects.   
+3. Vertical Specialization and Tariffs  
+One hint of why the income elasticities are so large is provided by the surge in both  
+exports and imports during 1999-2000. In informal discussions, this jump is associated  
+with the investment boom; the category experiencing the largest jump is capital goods.  
+The fact that the surge and collapse occurred in both categories could be coincidence –  
+evidence of a synchronized worldwide investment boom. Or it could be a reflection that  
+the two are interlinked.   
+  Recent research has focused on the rise  of intermediate goods in international  
+trade. However, intermediate goods are not in and of themselves sufficient to explain the  
+rise in trade. It is intermediate goods trade used to produce other traded goods – in other  
+words vertical specialization (Hummels, et al., 2001; Yi, 2003; Chen et al., 2005) – that is  
+required. This process of importing in order to export has also  been termed the  
+“fragmentation” of the production process (Arndt, 1997). At this juncture, it is useful to  
+recognize that services exhibit less of this fragmentation.8  This explains in part the  
+differential import income elasticities: 2.62 for goods ex oil versus 1.64 for services.9    
+                                                 
+8  
+ Barrell and Dées (2005) and Camerero and  Tamarit (2003) address the issue of very  high income elasticities by incorporating FDI into the specifications. IMF (2007)  incorporates exports of intermediates in the import equation, and imports of intermediates  in the export equation, to account for vertical  specialization. This procedure reduces the  estimated income elasticities.   
+9 
+  Marquez (2005) obtains similar estimates,  but points out that further disaggregation of  services leads to different insights  on income and price elasticities.  
+10 
+
+========12========
+
+  Figures 7 and 8 show how differently di fferent goods aggregates behave. Note  
+that the series excluding capital goods exhibits much less of a pronounced hump. The  
+importance of vertical specialization was suggested, particularly for hi-tech goods, in  
+analyses around the time of the capital goods  surges (e.g., Council of Economic Advisers,  
+2001, Chapter 4).   
+The regression results in Column [1] of Table 5 repeat the results in Colum [3] of  
+Table 4. Adding in the trade costs – tariffs and transportation costs – leads to  
+substantially improved results. Foreign demand and home supply enter with roughly  
+equal coefficients, while the price elasticity is fairly high, at 0.744. The tariff factor and  
+the square both enter with statistical significance, indicating that lower tariffs increase  
+trade flows. However, as expected higher energy costs, as proxied by the relative price of  
+oil, also enters in. This result corroborates the findings  of Bergin and Glick (2006).  
+Qualitatively, the results are the same when examining the goods ex.-agriculture, ex.- 
+capital goods (column [3]), with the exception of a role for transport costs.   
+  An alternative breakdown is between  durables and nondurables. Durables exports  
+and imports are graphed in Figure 9, along with the tariff factor. Notice that as the tariff  
+factor flattens out, the trend growth rate of durables growth slows down. The estimates  
+for durables and nondurables aggregates on the export side are reported in columns [4]  
+and [5], respectively. Durables  exhibit the posited relations hip, while nondurables are not  
+apparently related to the supply variable, and transport costs.10  Finally, in line with  
+expectations, the coefficient on foreign income  is the highest for the capital goods exports  
+                                                 
+10  
+ In addition, the tariff factor coefficients  in the full specification exhibit the wrong  signs. I drop the level variable in the reported results.  
+11 
+
+========13========
+
+category. In this case, a one percent increase in foreign income is associated with a 1.3  
+percent increase in capital goods exports.  
+  In general, it is more difficult to fit the import data. The results in Column [8]  
+contrasts with the baseline results in Column [7], insofar as the income elasticities (for  
+demand and supply) are much more plausible. The coefficients on tariffs and  
+transportation costs enter with the correct sign, although the latter coefficient is not  
+statistically significant. Qualitatively similar results obtain for imports of goods ex.-oil,  
+ex.-capital goods.   
+  Using the alternative breakdown, one finds  that the coefficients for the durables  
+aggregate are correctly signed, although transportation costs are not significant. For  
+nondurables, foreign supply, the exchange rate and transportation costs fail to show up as  
+statistically significant.  
+  Finally, capital goods imports  are particularly difficult to model. Most of the  
+variables are not statistically significant or implausibly large in absolute value. The  
+standard error of regression is also large (0.061) relative to that for the other regressions  
+for the other aggregates. A similar result obtains for capital goods imports, where the  
+SER is 0.055.   
+  One feature of the results in Table 5 is  that when disaggregating, allowing for  
+supply effects, and changing trade costs, then the estimated price elasticities are typically  
+higher than for the specifications reported in  Tables 2 and 3.11 Future work will involve  
+aggregating up the price elasticities for the components to obtain a more accurate  
+measure of the aggregate price elasticity.  
+                                                 
+11 
+  One exception is for capital goods imports. In  that case, a statistic ally significant price  elasticity cannot be obtained.  
+12 
+
+========14========
+
+4. Summary  
+In this paper the data for U.S. trade flows up to 2010q1 are investigated. A variety of  
+different trade aggregates are examined. In addition, supply side factors and the  
+implications of vertical specialization are accounted for. A number of conclusions are  
+derived from this assessment.  
+First, the examination confirms that the Houthakker-Magee finding of income  
+asymmetries persists into the most recent period. This characterization applies most  
+strongly to specifications involving highly aggregated trade flows, and no role for supply  
+or other factors.   
+Second, the disaggregation of trade flows into services and some subcategory of  
+goods usually yields higher estimated price elasticities. This outcome suggests some role  
+for aggregation bias in driving down estimated price elasticities. A similar finding was  
+obtained in IMF (2007), but in that case, the results pertained to price elasticities for  
+relative prices, instead of the real exchange rate as  in this study.  
+Third, the inclusion of supply-side variables reduces the magnitude of income  
+elasticities for goods. However, the results are not robust to the inclusion of time trends.  
+Consequently, one can only make tentative conclusions regarding the importance of  
+supply side factors in driving the increasing volume of international trade. On the other  
+hand, cross-section studies of trade do suggest that the finding of a supply side role is not  
+completely coincidental.  
+Fourth, capital goods and non-capital goods imports, or alternatively, durable and  
+nondurable goods, appear to behave differently. However, because the results are  
+sensitive to the sample period and trade flow  measure, additional work is required to  
+13 
+
+========15========
+
+identify the channels by which trade barriers and vertical specialization interact. In  
+particular, one might want a better measure of trade barriers for trade in capital goods.  
+Finally, it appears that disaggregation – even of a limited extent – might prove  
+helpful in improving predictions of aggregate trade flows. One key dividing line appears  
+to be between non-oil non-capital goods and capital goods, and between durables and  
+nondurables (particularly on the export side).12 
+  The results so far suggest further avenues of research.   
+1. Checking the sensitivity of the results to alternative specifications, including  
+additional activity variables pertaining to  specific trade fl ows (e.g., capital goods  
+imports as a function of business fixed investment).  
+2. Investigating the results obtained from the Johansen methodology and single  
+equation error correction specifications.  
+3. Incorporating different or estimated measures of trade costs.   
+4. Focus on the short run dynamics of the components of trade flows, such as  
+durables versus nondurables. This point is related to item (1), since there is some  
+evidence that the extreme movements in  durable goods was associated with a  
+particularly sharp movement in (highly procyclical) durable good production  
+(Francois and Woerz, 2009).  
+   
+                                                 
+12 
+ In previous versions of this paper, I’ve  reported results that indicate that sums of  predicted import sub-aggregates appear to yield smaller prediction errors than using a  predicted aggregate import variable. This finding – while not definitive – suggests that  one can improve our forecasts of trade flows without resorting to modeling many very  highly disaggregated trade series.  
+14 
+
+========16========
+
+References 
+Baldwin, Richard (editor), 2009, The Great Trade Collapse: Causes, Consequences and  Prospects  (London: CEPR).   
+Barrell, Ray and Stephane Dées, 2005, “World Trade and Global Integration in  Production Processes: A Re-assessment  of Import Demand Equations,”  ECB Working  Paper  No. 503 (Frankfurt: European  Central Bank, July).   
+Bayoumi, Tamim, 2003, “Estimating Trade Equations from Aggregate Bilateral Data,”  mimeo  (Washington, D.C.: IMF, December).   
+Bayoumi, Tamim, Jaewoo Lee, and Sarma Jayantha, 2005, “New Rates from New  Weights,” Working Paper  No. WP/05/99 (Washington, DC: IMF, May).  
+Bergin, Paul and Reuven Glick, 2006, “Global Price Dispersion: Are Prices Converging  or Diverging?” Working Paper  2006-50 (San Francisco: Federal Reserve Bank of San  Francisco, December).  
+Camarero, Mariam and Cecilio Tamarit, 2003, “Estimating the export and import demand  for manufactured goods: The role of FDI,” Leverhulme Center Research Paper Series No. 2003/34 (Nottingham: University of Nottingham).   
+Chen, Hogan, Matthew Kondratowicz and Kei-Mu Yi, 2005, “Vertical Specialization and  Three Facts about U.S. International Trade,” North American Journal of Economics and  Finance 16: 35–59.  
+Chinn, Menzie D., 2006, “A Primer on Real Effective Exchange Rates: Determinants,  Overvaluation, Trade Flows and Competitive Devaluations,” Open Economies Review 17(1)  (January): 115-143. 
+Chinn, Menzie D., 2005, “Doomed to Deficits? Aggregate U.S. Trade Flows Re- examined,” Review of World Economics  141(3): 460-85.  
+Council of Economic Advisers, 2001, Economic Report of the President, 2001 (Washington, D.C.: U.S. GPO, January).  
+Francois, Joseph and Julia Woerz, 2009, “Follow the bouncing ball -- trade and the  great recession redux,” in Richard Baldwin (editor), 2009, The Great Trade Collapse:  Causes, Consequences and Prospects  (London: CEPR).  
+Freund, Caroline, 2009, “The Trade Response to Global Downturns: Historical  Evidence,” Policy Research Working Paper  No. 5015 (Washington, D.C.: World Bank,  August).   
+15 
+
+========17========
+
+Gagnon, Joseph E., 2003, “Productive Capacity, Product Varieties, and the Elasticities  Approach to the Trade Balance,” International Finance and Discussion Papers  No. 781  (October).  
+Goldstein, Morris, and Mohsin Khan, 1985, Income and Price Effects in Foreign Trade,  in R. Jones and P. Kenen (eds.), Handbook of International Economics, Vol. 2,  (Amsterdam: Elsevier).  
+Helkie, William and Peter Hooper, 1988, “The U.S. External Deficit in the 1980’s: An  Empirical Analysis,” in R. Bryant, G. Holtham and P. Hooper (eds.) External Deficits  and the Dollar: The Pit and the Pendulum. Washington, DC: Brookings Institution.  
+Hooper, Peter, Karen Johnson and Jaime Marquez, 2000, Princeton Studies in  International Economics  No. 87 (Princeton, NJ: Pr inceton University).  
+Houthakker, Hendrik, and Stephen Magee, 1969, Income and Price Elasticities in World  Trade, Review of Economics and Statistics 51: 111-25.  
+Hummels, David, Jun Ishii, and Kei-Mu Yi, 2001, “The Nature and Growth of Vertical  Specialization in World Trade,” Journal of International Economics 54: 75-96.  
+IMF, 2007, “Chapter 3: Exchange Rates and the Adjustment of  
+External Imbalances,” World Economic Outlook  (IMF: Washington, D.C., April).  
+Jacks, David, Christopher Meissner and Dennis Novy, 2009, “Trade Booms, Trade Busts,  and Trade Costs,” mimeo (August 2009).  
+Johansen, Søren, 1988, Statistical Analysis of Cointegrating Vectors. Journal of  Economic Dynamics and Control 12: 231-54.  
+Johansen, Søren, and Katerina Juselius, 1990, Maximum Likelihood Estimation and  Inference on Cointegration - With Applications to the Demand for Money. Oxford  Bulletin of Economics and Statistics 52: 169-210.  
+Lawrence, Robert Z., 1990, “U.S. Current  Account Adjustment: An Appraisal,” Brookings Papers on Economic Activity  No. 2: 343-382.  
+Leahy, Michael P., 1998, New Summary Measures of the Foreign Exchange Value of the  Dollar. Federal Reserve Bulletin  (October): 811-818.  
+Loretan, Mico, 2005, “Indexes of the Foreign Exchange Value of the Dollar,” Federal  Reserve Bulletin  (Winter): 1-8.  
+Mann, Catherine, 1999, Is the U.S. Trade Deficit Sustainable  (Washington, DC: Institute  for International Economics).  
+16 
+
+========18========
+
+Mann, Catherine, and Katharina Plück, 2007, “The U.S. Trade Deficit: A Disaggregated  Perspective,” in Richard Clarida (ed.), G7 Current Account Imbalances: Sustainability  and Adjustment  (U.Chicago Press).  
+Marquez, Jaime, 2005, “Estimating Elasticities for U.S. Trade in Services,” International  Finance Discussion Papers  No. 836 (Washington, D.C.: Board of Governors of the  Federal Reserve System, August).  
+Marquez, Jaime, 2002, Estimating Trade Elasticities, Advanced Studies in Theoretical  and Applied Econometrics, Vol. 39 (Boston; Dordrecht and London: Kluwer Academic).  
+Marquez, Jaime, 1994, “The Econometrics of Elasticities or the Elasticity of  Econometrics: An Empirical Analysis of the Behavior of U.S. Imports,” Review of  Economics and Statistics 76(3) (August): 471-481.  
+Meade, Ellen, 1991, “Computers and the Trade Deficit:  the case of the falling prices,” in  Peter Hooper and David Richardson, (eds.) International Economic Transactions:  Issues  in Measurement and Empirical Research, NBER Studies in Income and Wealth vol. 55.  
+Rose, Andrew K., 1991, “The role of exchange  rates in a popular m odel of international  trade : Does the ‘Marshall–Lerner’ condition hold?”  Journal of International Economics  Volume 30, Issues 3-4, (May): 301-316.   
+Stock, James H. and Mark W. Watson, 1993, “A  Simple Estimator of Cointegrating  Vectors in Higher Order Integrated Systems,” Econometrica 61(4): 783-820.  
+Thomas, Charles P. and Jaime Marquez, 2006, “Measurement Matters for Modeling U.S.  Import Prices,” International Finance and Discussion Papers No. 863 (Washington, D.C.:  Board of Governors of the Federal Reserve System, December).  
+Whelan, Karl, 2000, “A Guide to the Use of Chain Aggregated NIPA Data,” Finance and  Economics Discussion Papers  No. 2000-35 (Washington, DC: Board of Governors of the  Federal Reserve System).  
+Yi, Kei-Mu, 2003, “Can Vertical Specialization Explain the Growth of World Trade?”  Journal of Political Economy  111(1): 53-102.  
+17 
+
+========19========
+
+Table 1: Estimates of Export and Import Elasticities, 1975q1-2010q1  
+Exports of Goods and  Imports of Goods and  
+   Services   Services    
+   OLS  DOLS 
+a/ 
+ ECM  
+b/ 
+ VECM  OLS  DOLS 
+ a / 
+ ECM  
+b/ 
+ VECM  
+  [1] [2] [3] [4] [5] [6] [7] [8]  
+           
+Income  1.780 1.811 1.820 1.991 2.174 2.190 2.171 2.222  
+(Demand)  [0.032] [0.031] [0.056] [0.042] [0.036] [0.028] [0.052] [0.035]  
+Exchange rate  0.435 0.568 0.944 0.947 -0.197 -0.151  -0.308 -0.163  
+   [0.094] [0.095] [0.259] [0.166] [0.074] [0.086]  [0.200] [0.126]  
+                  
+                           
+Adj. R2  0.99 0.99 0.37  Na  0.99 0.99 0.41  Na  
+SER  0.066 0.052 0.019  Na  0.055 0.047 0.024  Na  
+N  140 138 141 141 141 139 141 141  Coint. Vectors Na na  1 1,1 na na  1 1,1  
+Notes: Point estimates and HAC standard errors for OLS and DOLS in [brackets], implied long  run coefficients from ECM and cointegrating vector coefficients for VECM [asymptotic standard  errors in brackets]. SER is standard error of  regression. N is number of observations.  
+Cointegrating vectors is the number of indicated cointegrating vectors; under VECM, {#,#}  indicates the number of vectors as indicated by the trace and maximal eigenvalue statistics at the  5% level, using the asymptotic critical values. [bold face]  indicates significance at the 10% level.  a/ 
+ Includes 2 leads and 4 lags of the first differenced right hand side variables.   
+b/ 
+ Includes 3 lags of the first differenced variables.  
+18 
+
+========20========
+
+Table 2: Export Equations, 1975q1-2010q1  
+Total  Total  
+Total  Total  goods  goods  
+goods &  goods &  Total  Total  ex.  ex.  Total  Total  
+   svcs.  svcs.  goods  goods  Agric.  Agric.  svcs.  svcs.  
+   [1] [2] [3] [4] [5] [6] [7] [8]  
+           
+Income  1.811 3.795 1.873 4.153 1.848 3.454 1.666 2.883  
+(Demand)  [0.032] [0.783] [0.037] [1.051] [0.054] [1.782] [0.030] [0.682]  
+Exchange Rate  0.568 0.399 0.591 0.398 0.826 0.690 0.467 0.364  
+   [0.095] [0.092] [0.128] [0.123] [0.205] [0.221] [0.095] [0.101]  
+time  -0.017  -0.019  
+ -0.013  
+-0.010  
+     [0.006]  [0.009]  
+ [0.015]  
+[0.006]  
+        
+   
+   
+               
+   
+      
+Adj. R2  0.99 0.99 0.99 0.99  .98  98  0.99 0.99  
+SER  0.052 0.048 0.064 0.060 0.094 0.093 0.052 0.050  
+N  138 138 138 138 138 138 138 138  
+       
+   
+   
+       
+   
+   
+Notes:  Point estimates and HAC standard errors for OLS and DOLS in [b rackets]. SER is standard error of regression. N is number of  observations. Regressions include 2 leads and 4 lags  of first differenced right hand side variables.  [bold face]  indicates significance at the 10%  level.  
+
+========21========
+
+Table 3: Import Equations, 1975q1-2010q1  
+Total  Total  Total  Total  
+goods &  goods &  Total  Total  goods  goods  Total  Total  
+   svcs.  svcs.  goods   goods   ex oil  ex oil  svcs.  svcs.  
+  [1] [2] [3] [4] [5] [6] [7] [8]  
+            
+Income  2.190 2.891 2.306 3.221 2.612 2.537 1.650 1.219  
+(Demand)  [0.028] [0.337] [0.035] [0.434] [0.017] [0.332] [0.029] [0.404]  
+Exchange Rate  -0.151 -0.138 -0.120 -0.103 -0.445 -0.446 -0.289 -0.296  
+   [0.086] [0.067] [0.116] [0.094] [0.075] [0.075] [0.110] [0.106]  
+time   -0.005  -0.007   0.001  0.003  
+    [0.003]  [0.003]   [0.003]  [0.003]  
+            
+                           
+Adj. R2  0.99 0.99 0.99 0.99 0.99 0.99 0.99 0.99  
+SER  0.047 0.045 0.061 0.059 0.038 0.038 0.056 0.056  
+N  139 139 139 139 139 139 139 139  
+Notes:  Point estimates and HAC standard errors for OLS and DOLS in [b rackets]. SER is standard error of regression. N is number of  observations. Regressions include 2 leads and 4 lags  of first differenced right hand side variables.  [bold face]  indicates significance at the 10%  level.  
+20 
+
+========22========
+
+Table 4: Supply Augmented Specifications, 1975q1-2010q1  
+   Exports  Imports  
+Total  Total  
+goods,  goods,  Total  Total  
+Total  Total  ex.  ex.  Total  Total  goods  goods  
+goods,  goods,  Agric.,  Agric.,  goods  goods  ex Oil,  ex Oil,  
+supply  supply  Supply  Supply  supply  supply  supply  supply  
+   side  side  side  side  side  side  side   side   
+   [1] [2] [3] [4] [5] [6] [7] [8]  
+            
+Income  0.890 2.451 0.193 -0.111 4.073 3.707 2.213  2.251  
+(Demand)  [0.184] [0.787] [0.178] [4.012] [0.308] [0.267] [0.312]  [0.323]  
+Output  1.048 0.977 1.766 1.789 -1.416 -4.711 0.328 0.672  
+(Supply)  [0.186] [0.177] [0.178] [0.198] [0.261] [0.783] [0.248] [0.598]  
+Exchange Rate  0.711 0.575 1.026 1.052 0.049  0.386 -0.477 -0.508  
+   [0.080] [0.101] [0.073] [0.117] [0.077]  [0.094] [0.081] [0.094]  
+time  -0.013   0.002   0.034   0.006  
+     [0.016]   [0.007]   [0.008]   [0.006]  
+                     
+                         
+Adj. R2  0.99 0.99 0.99 0.99  .99  .99  0.99 0.99  
+SER  0.044 0.042 0.048 0.048 0.052 0.039 0.037 0.037  
+N  138 138 138 138 138 138 138 138  
+Notes:  Point estimates and HAC standard errors for OLS and DOLS in [b rackets]. SER is standard error of regression. N is number of  observations. Regressions include 2 leads and 4 lags  of first differenced right hand side variables.  [bold face]  indicates significance at the 10%  level.  
+   
+21 
+
+========23========
+
+Table 5: Vertical Specialization and Trade Flows: 1975q1-2010q1  
+   
+Exports  of  goods  ex.  Agric.  
+Exports  of  goods  ex.  Agric  
+Exports  of goods  ex  Agric.,   Capital  goods  
+Exports  of  Durable  goods  
+Exports  Exports  of Non-  of  durable  Capital  goods  goods  
+Imports  of  goods  ex oil  
+Imports  of  goods  ex Oil  
+0.657  [0.314]  
+0.328  [0.248]  
+1.033  [0.330]  
+Imports  of goods  ex Oil,  ex  Capital  goods  
+Imports  of  Durable  goods  
+Imports  of Non- durable  goods   
+Imports  of  Capital  goods   
+0.206  [0.270]  
+0.988  [0.433]  
+-0.703  [0.457]  
+2.842  [0.652]  
+   [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [11]  
+                Income 0.193 0.920 0.671 1.293 0.787 1.341 2.213 0.903 1.736 1.047  2.836 -0.618  (Demand) [0.178] [0.217] [0.207] [0234] [0.189] [0.284] [0.312] [0.448] [0.386] [0.586]  [0.632]  [0.880]  
+1.766 0.744 0.760 0.552 0.081  
+[0.178] [0.257] [0.253] [0.247] [0.111]  
+1.026 0.914 0.747 0.916 0.541 1.131  -0.477 -0.428 -0.560 -0.365  0.040 -0.084  
+[0.073] [0.150] [0.120] [0.187] [0.126] [0.228] [0.081] [0.104] [0.088] [0.131]  [0.163] [0.192]  
+-389.49 -392.14 -332.89  
+   [119.88] [106.74] [128.12]  
+183.34 188.71 154.80 -2.887 143.59  
+[55.43] [49.71] [59.13] [1.107] [76.18]  
+Income  
+ (Supply)  
+Exchange Rate     
+Tariff rate    
+Tariff rate (sq.)    
+     Transport cost    
+-0.076  
+-0.003  
+-- -316.81  -- [165.11] 
+      
+-208.65  [86.02]  95.48  [39.84]  
+-0.139  
+0.031  
+-0.186  
+ -0.030  0.032  
+-88.78  -192.75 -525.44 240.18  [71.70]  [111.19] [129.59]  [166.65] 42.18 -86.55 253.60 -128.09  [32.91] [51.16] [60.53] [77.68]  
+-0.031 -0.010 -0.199  
+   [0.022]  [0.019] [0.025]  [0.022] [0.032]   [0.021]  [0.016]  [0.027] [0.025] [0.039]  
+                 
+                                       
+Adj. R2  0.99 0.99 0.99 0.99 0.99 0.99 0.99 0.99 0.99 0.99  0.99  0.99  
+SER  0.048 0.038 0.031 0.043 0.033 0.055  0.037 0.033 0.027 0.042  0.039  0.061  
+N  138 138 138 138 138 138 138 138 138 138  138  138  
+Notes:  Point estimates and HAC standar d errors for OLS and DOLS in [brackets].. SER is standard error of regression. N is number of  
+observations. Regressions include 2 leads and 4 lags of the first difference terms of the right hand side variables. [bold face]  indicates  
+significance at the 10% level.  
+22 
+
+========24========
+
+.02 
+.4 
+.01 
+.3 
+.00 
+Log USD broad real exchange rate [right axis] 
+.2 
+-.01 
+.1 
+-.02 
+.0 
+-.03 
+-.1 
+-.04 
+Net Exports to GDP ratio [left axis] 
+-.2 
+-.05 
+-.3 
+-.06 
+-.4 
+-.07 
+-.5 
+70 
+75 
+80 
+85 
+90 
+95 
+00 
+05 
+10 
+Figure 1:  Net Exports of goods and services to  GDP ratio, SAAR (left axis) and log US  dollar real exchange rate against broad basket of currencies (right axis). Shaded areas  denote recession dates, assumes last recession ended at 2009Q2. Source: BEA (2010Q1  2nd  release) and NBER.   
+3.6 
+3.2 
+2.8 
+2.4 
+Imports 1975-2010 
+2.0 
+Exports 1975-2010 
+1.6 
+1.2 
+1975-83        1984-1992        1993-2001        2002-2010 
+Figure 2:  Income Export (EXPY) and Import  (IMPY) Elasticities for Subperiods.  Source: Columns [2] and [6] from Table 1, and DOLS regressions on the indicated  subperiod.  
+   
+
+========25========
+
+1.2 
+0.8 
+Exports 1975-2010 
+0.4 
+0.0 
+-0.4 
+Imports 1975-2010 
+-0.8 
+-1.2 
+1975-83          1984-92          1993-2001          2002-2010 
+Figure 3:  Price Export (EXPY) and Import (IMPY)  Elasticities for Subperiods. Source:  Columns [2] and [6] from Table 1, and DOLS regressions on the indicated subperiod.  
+2,400 
+2,000 
+Imports 
+1,600 
+1,200 
+Exports 
+800 
+400 
+0 
+70 
+75 
+80 
+85 
+90 
+95 
+00 
+05 
+10 
+Figure 4:  Real Exports and Imports of Goods  and Services, in billions 2005 Ch$  (SAAR). Gray shading denotes NBER recession dates. Dashed lines denote beginning  and end of regression sample. Source: BEA (2010Q1 2nd release).   
+24 
+
+========26========
+
+7.2 
+Goods Exports 
+6.8 
+6.4 
+6.0 
+Goods Exports ex. Agric. 
+5.6 
+5.2 
+Services Exports 
+4.8 
+4.4 
+4.0 
+3.6 
+70 
+75 
+80 
+85 
+90 
+95 
+00 
+05 
+10 
+Figure 5:  Log Real Exports of Goods,  Goods ex Agricultural Goods, Goods ex  Agricultural and Capital Goods, billions of 2005 Ch.$, SAAR. Source: BEA (2009Q3  2nd release), and author’s calculations.  
+7.6 
+7.2 
+Goods Imports 
+6.8 
+6.4 
+Goods Imports ex. Petro. 
+6.0 
+5.6 
+Services Imports 
+5.2 
+4.8 
+4.4 
+4.0 
+70 
+75 
+80 
+85 
+90 
+95 
+00 
+05 
+10 
+Figure 6:  Log Real Imports of Goods, Goods ex  Petroleum, and Services, billions of  2005 Ch.$, SAAR. Source: BEA (2010Q1 2nd release), and author’s calculations.  
+25 
+
+========27========
+
+8 
+7 
+6 
+Goods Exports ex. Agric., Capital 
+Goods Exports ex. Agric. 
+5 
+4 
+Durable Goods 
+Nondurable Goods Exports 
+3 
+Capital Goods Exports 
+2 
+70 
+75 
+80 
+85 
+90 
+95 
+00 
+05 
+10 
+Figure 7: Real Exports of Goods ex. Agriculture, ex. Agriculture and Capital, of Durable  Goods, of Nondurable Goods, and of Capital Goods, billions of 2005 Ch.$, SAAR.  Source: BEA (2010Q1 2nd release).  
+8 
+7 
+Goods Imports ex. Petro. 
+6 
+Goods Imports ex. Petro., Capital 
+5 
+4 
+Nondurable Goods Imports 
+Capital Goods Exports 
+3 
+Durable Goods Imports 
+2 
+1 
+0 
+70 
+75 
+80 
+85 
+90 
+95 
+00 
+05 
+10 
+Figure 8: Real Imports of Goods ex. Petroleum, ex. Petroleum and Capital, of Durable  Goods, of Nondurable Goods, and of Capital Goods, billions of 2005 Ch.$, SAAR.  Source: BEA (2010Q1 2nd release).  
+26 
+
+========28========
+
+1.18 
+7.2 
+1.16 
+Average tariff factor [left axis] 
+Imports of Durable Goods [right scale] 
+6.8 
+1.14 
+6.4 
+1.12 
+6.0 
+1.10 
+Exports of Durable Goods [right axis] 
+5.6 
+1.08 
+5.2 
+1.06 
+4.8 
+1.04 
+4.4 
+1.02 
+4.0 
+1.00 
+3.6 
+70 
+75 
+80 
+85 
+90 
+95 
+00 
+05 
+10 
+Figure 9:  Average Tariff Factor, and Exports of Durable Goods and Imports of Durable  Goods, in 2005 Ch.$. Source: Kei-Mu Yi, BEA and author’s calculations.  
+27 
+
+========29========
+
+Appendix 1: Data Sources and Description  
+Exchange Rate Indices  
+• 
+US  “broad” trade weighted exchange rate (CPI deflated). Source: Federal  Reserve Board website,  
+http://www.federalreserve.gov/releases/H10/Summary/indexbc_m.txt  . Data  accessed June 2010. See Loretan (2005) for details.   
+Trade Flows, Economic Activity  
+• Real and nominal imports and exports of  goods and services, and gross domestic  
+product (2005 chain weighted dollars).  Source: BEA, 2010Q1 2nd release.  
+• Goods exports ex Agricultural and Capital Goods, and Goods imports ex Oil and  
+Capital Goods calculated using Tornqvist approximation. See Whelan (2000) for  
+an explanation of the procedure.   
+• For foreign demand: Rest-of-World GDP (base year). U.S. exports weighted rest- 
+of-world GDP, ends 2009Q4.  Source: personal communication, Federal Reserve  
+Board, series obtained May 2010.   
+• For foreign supply: Rest-of-World GDP. U.S. import weighted growth rate for  
+Rest-of-World, using annual data from International Financial Statistics, World  
+Economic Outlook, Asian Development Bank, and World Development Indicators.  
+Weights are listed at http://www.federalreserve.gov/releases/h10/Weights/  .   
+• For home supply. For US, manufacturing industrial production, seasonally  
+adjusted. Source: BEA via St. Louis Fed, accessed June 2010.  
+• For home supply: U.S. capital stock. US net private nonresidential capital stock  
+from BEA. 2009 data extrapolated using a regression of net investment on gross  
+investment and lagged capital stock (in logs, over 2001-08 period).   
+• Transport costs. Proxied by log oil price deflated by core US CPI. Source: BLS  
+and Fed via St. Louis Fed, accessed June 2010.  
+   
+28 
+
+========30========
+
+Tariffs  
+• Tariff rates, average of U.S., Japan and European Union, provided by Kei-Mu Yi,  
+and described in Yi (2003). Annual data interpolated by moving average to create  
+quarterly data.   
+29 
+
+========31========
+

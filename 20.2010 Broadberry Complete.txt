@@ -1,0 +1,1200 @@
+September 2010 
+No. 20 
+British Economic Growth and the Business Cycle, 
+1700-1870: Annual Estimates 
+Stephen Broadberry and Bas van Leeuwen  
+(University of Warwick) 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+BRITISH ECONOMIC GROWTH AND THE BUSINESS CYCLE, 1700-1870: 
+ANNUAL ESTIMATES 
+Stephen Broadberry and Bas van Leeuwen 
+Department of Economics, University of Warwick, Coventry CV4 7AL, United 
+Kingdom 
+S.N.Broadberry@warwick.ac.uk Bas.vanleeuwen1@googlemail.com 
+14 July 2010 File: AnnualGDP9 
+Abstract: This paper provides the first annual GDP series for Great Britain over the period 1700-1870. The series is constructed in real terms from the output side, using volume indicators and value added weights. Sectoral estimates are provided for agriculture, industry and services, and for a number of sub-sectors. Estimates of nominal GDP are also provided, based on a benchmark for 1841 and projected back to 1700 and forward to 1870 using the real output series and sectoral price indices. The new data are used to provide a consistent account of economic growth and the business cycle. The results are broadly consistent with the long run path of real output suggested by Crafts and Harley, although growth rates for sub-periods differ, largely as a result of changes in the growth of agriculture. Nominal GDP increased more rapidly than suggested by Lindert and Williamson during the eighteenth century, and more slowly than suggested by Deane and Cole during the first half of the nineteenth century, as a result of differences in the price indices. We also refine the business cycle chronologies of Ashton and Gayer, Rostow and Schwartz. 
+JEL classification: N13, E01, O52, E32 
+Key words: Economic growth, business cycle, Great Britain, annual data 
+Acknowedgements: This paper forms part of the project “Reconstructing the National Income of Britain and Holland, c.1270/1500 to 1850”, funded by the Leverhulme Trust, Reference Number F/00215AR. It is also part of the Collaborative Project HI- POD supported by the European Commission's 7th Framework Programme for Research, Contract Number SSH7-CT-2008-225342. A pilot study was conducted with the financial support of the European Commission’s 6th Framework Programme via the Research Training Network “Unifying the European Experience: Historical Lessons of Pan-European Development”, contract no. MRTN-CT-2004-512439, during which Péter Földvári provided excellent research assistance. We are grateful to Bob Allen, Bruce Campbell, Mark Overton, Solomos Solomou and Jan Luiten van Zanden for helpful comments and advice. 
+
+========2========
+
+2 
+I. INTRODUCTION 
+This paper provides an annual series of gross domestic product for Great Britain over 
+the period 1700-1870, built up from the output side. For the period 1700-1830, the 
+estimates of Crafts and Harley (1992) provide observations of sectoral and aggregate 
+output only for a small number of benchmark years, while for the period 1830-1870, 
+Deane’s (1968) annual estimates are available only by category of expenditure. 
+Sectoral estimates are provided here for agriculture, industry and services, and also 
+for a number of sub-sectors, built up using volume series available on an annual basis, 
+and aggregated using value added weights. Estimates of nominal GDP are also 
+constructed by combining the real output series with price indices to project 
+backwards to 1700 and forwards to 1870 from an 1841 benchmark. 
+We use the new annual series to provide a consistent account of growth and 
+the business cycle in Britain over this period. The results are broadly consistent with 
+the long run path of real output suggested by Crafts and Harley (1992), although 
+growth rates for sub-periods differ, largely as a result of changes in the growth of 
+agriculture. Nominal GDP increased more rapidly than suggested by Lindert and 
+Williamson (1982) during the eighteenth century, and more slowly than suggested by 
+Deane and Cole (1967) during the first half of the nineteenth century, as a result of 
+differences in the price indices. We also refine the business cycle chronologies of 
+Ashton (1959) and Gayer, Rostow and Schwartz (1953). A sister paper by Broadberry 
+et al (2010) provides annual estimates of GDP for England covering the period 1270- 
+1700. The current paper thus forms a convenient link between this account of 
+medieval and early modern economic growth and the more familiar accounts of 
+British economic growth since 1870, based on the annual data of Feinstein (1972). 
+
+========3========
+
+3 
+The paper proceeds as follows. Sections II to IV describe the procedures for 
+estimating real output in agriculture, industry and services, respectively. For 
+benchmark years, we demonstrate broad consistency of long run growth rates with the 
+widely-accepted approach of Crafts and Harley (1992). For each of the main sectors, 
+annual observations are graphed, while more information is also provided on the main 
+sub-sectors within agriculture, industry and services. Section V presents annual 
+estimates of GDP in current as well as constant prices. The constant price GDP series 
+is combined with population in section VI to provide estimates of GDP per capita. 
+Section VII conducts an analysis of the business cycle in aggregate GDP and 
+compares it to previous business cycle chronologies. The conclusion is followed by a 
+data appendix, setting out detailed data sources. 
+II. AGRICULTURE 
+1. Overview of sources and methods 
+Deane and Cole (1967) measured agricultural output by assuming constant corn 
+consumption per capita and making a small adjustment for foreign trade. This was 
+criticised by Crafts (1976), who regarded the assumption of constant per capita 
+consumption of corn as indefensible while real incomes were rising and the relative 
+price of corn was changing. Crafts (1985: 39-42) used a hybrid method to calculate 
+the growth of agricultural output over the period 1700-1830. For the period 1700-60, 
+he used the demand approach with an assumed income elasticity of demand of 0.7 and 
+an iterative procedure for ensuring consistency between agricultural income and 
+national income growth. For the period 1760-1801, and also for 1801-31, he allowed 
+for relative price changes with an assumed price elasticity of demand of -0.8, and 
+
+========4========
+
+4 
+checked the results against an alternative method of deflating agricultural incomes 
+with an agricultural price index. 
+Allen (1994) showed that it was possible to construct estimates of agricultural 
+output directly using volume and price data published in the Agrarian History of 
+England and Wales by Chartres (1985), Bowden (1985), Holderness (1989) and John 
+(1989). He also showed that for the period 1700-1850 as a whole, the volume method 
+yields a similar increase in output between 1700 and 1850 as the demand-based and 
+deflated value-added methods employed by Crafts. Allen (2005) provides alternative 
+estimates for benchmark years covering the longer time span of 1300-1850, but with a 
+somewhat slower output growth over the period 1700-1850 than suggested by Allen 
+(1994). 
+The approach taken in this paper is the estimation of value added in 
+agriculture on an annual basis, built up from quantity and price information for 
+individual products. Results are presented for individual products and for the arable 
+and pastoral sub-sectors, as well as for total agriculture. The data are taken largely 
+from the Modern Farm Accounts Database assembled by Turner et al. (2001) and the 
+Early Modern Probate Inventories Database of Overton, Whittle, Dean and Haan 
+(2004), supplemented with additional information from Clark (2004), and the 
+Agrarian History of England and Wales. For arable farming we have annual gross 
+yields for all products for most years, although there are significant gaps for rye as it 
+became less and less important over time. 
+
+========5========
+
+5 
+For the pastoral sector, the data are drawn from the Early Modern Probate 
+Inventories Database between 1700 and 1750. Animal stocking densities (the number 
+of animals per sown acre) are multiplied with the sown acreage to yield estimates of 
+the total numbers of animals in England. After 1750, benchmark estimates of the 
+numbers of animals from John (1989) and Allen (2005) are interpolated with data on 
+the sale of animals at Smithfield from Mitchell (1988: 708-709). Multiplying the 
+resulting numbers of animals with the percentages of animals producing and the 
+production per animal results in total production in the pastoral sector. 
+2. Arable farming 
+The starting point for any estimate of arable sector output must be the total sown 
+acreage and its breakdown by crop, shown here in Table 1. The acreage by crop in 
+benchmark years is taken from Holderness (1989: 145) and Chartres, (1985: 444), 
+with the absolute level pinned down by Prince’s (1989: 41) interpretation of the 1801 
+Crop Returns. 
+The next step is to estimate average grain yields per acre. Weighted national 
+average yields per acre, gross of tithe and seed can be obtained from the Early 
+Modern Probate Inventories Database and the Modern Farm Accounts Database. Each 
+dataset has been divided into seven regional groupings and separate chronologies 
+have been constructed fro each region before being combined into a single weighted 
+master chronology for the country as a whole. Due to the discontinuous nature of 
+much of the data, the regional chronologies are derived using regression analysis with 
+dummy variables for each farm and for each year, as suggested by Clark (2004). 
+
+========6========
+
+6 
+Grain yields gross of seed as well as tithe are shown in Figure 1 for wheat, rye, 
+barley, oats and pulses. From these gross yields it is necessary to subtract grain used 
+as seed to derive the net yields shown in Table 2 for all the major crops. From these 
+gross yields it is necessary to subtract grain used as seed to derive the net yields 
+shown in Table 2. Net yields increased strongly for all grains, with oats and wheat 
+showing bigger increases than barley and rye. 
+In addition to making allowance for grain used as seed, the derivation of net 
+output in arable farming requires the subtraction of grain used to feed working 
+animals. For the first half of the eighteenth century, estimates of the numbers of 
+working animals per sown acre can be obtained from the Early Modern probate 
+inventories Database, which can be multiplied with the sown acreage to produce 
+estimates of the numbers of working animals in Table 3. From the mid-eighteenth 
+century, oxen numbers are assumed to decline steadily to zero by 1870, while horses 
+are estimated from Allen (1994). Using assumptions about consumption of oats and 
+pulses by mature and immature animals, it is possible to derive estimates of farm 
+animal consumption, which are then subtracted from gross output to arrive at arable 
+output net of seed and animal consumption in Table 4. The output of wheat, the 
+principal bread grain, increased steadily until the mid-nineteenth century, while the 
+output of rye, an inferior bread grain, declined in absolute as well as relative terms. 
+Barley, the principal brewing grain saw a rapid growth from the mid-eighteenth 
+century, while oats, which came to be used increasingly as horse fodder, fluctuated 
+more erratically. The output of potatoes increased dramatically throughout the period, 
+while the output of pulses increased much more gradually. 
+
+========7========
+
+7 
+3. Pastoral farming 
+The starting point for the estimation of pastoral farming output is the numbers of non- 
+working animals in Table 5. For the first half of the eighteenth century, these are 
+derived from the stocking densities in the Early Modern Probate Inventories Database. 
+For later years, estimates for benchmark years are derived from Allen (2005), John 
+(1989), Mitchell (1988) and Turner (1998), and interpolated using data on annual 
+sales at Smithfield and the \metropolitan Cattle market from Mitchell (1988: 708) and 
+Perren (1975: 388). All animal types increased in number, leading to a substantial 
+increase in livestock units per 100 acres. 
+The proportions of animals assumed to have been producing milk, meat and 
+wool are set out in Table 6. A high proportion of cows are assumed to have produced 
+milk and a high proportion of sheep to have yielded wool. Meat, however, was 
+produced only by those animals that were slaughtered. Slaughter rates for 1700 and 
+1850 are derived from Holderness (1989) and Clark (1991). The next step in the 
+calculation of pastoral output involves the estimation of yields of milk, meat and wool 
+per animal, set out in Table 7. Data between benchmark years were interpolated using 
+information on the relative prices of pastoral products and the animals from which 
+they were derived. Table 8 then combines the information on numbers of animals, 
+percentages producing and yields per animal to arrive at the estimates of total output 
+in the pastoral farming sector. 
+Further assumptions are needed to derive output estimates for hay, hides and 
+skins and dairy products. Hay output is derived from the numbers of non-farm horses, 
+on the assumption that each horse consumed 2.4 tons of hay per year (Allen, 2005). 
+
+========8========
+
+8 
+Output of hides and skins is derived from the numbers of working and non-working 
+animals, using assumptions on the percentages of each animal producing and yields 
+per animal from Clark (1991) and Clarkson (1989). In the dairy sector, output is split 
+between cheese, butter and fresh milk using data from Holderness (1989). 
+4. Total agricultural output 
+Multiplying the output volumes by their prices yields the total value of net output. 
+The price data are taken largely from Clark (2004), who synthesises the published 
+data of Beveridge (1939), Thorold Rogers (1866-1902: volumes 1-30) and the multi- 
+volume Agrarian History of England and Wales, as well as integrating new archival 
+material. Output can be valued in both current prices and in constant 1700 prices. 
+Figure 2 plots arable, pastoral and total agricultural output in constant prices 
+on a logarithmic scale. Pastoral output grew at a faster rate than arable output, 
+particularly from the mid-eighteenth century. The pastoral sector thus increased its 
+share of agricultural output in constant prices. In Table 9, we see that the share of 
+pastoral products in current prices also increased substantially from the mid- 
+eighteenth century, as relative prices changed only over relatively short periods. 
+One finding from Table 9 that is worth emphasising is the high share of the 
+pastoral sector in agricultural value added, even at the beginning of the eighteenth 
+century. Its subsequent growth meant that by the late nineteenth century, the pastoral 
+sector accounted for nearly 60 per cent of agricultural output. This meant that 
+although the British people did not have a particularly generous diet if viewed in 
+
+========9========
+
+9 
+terms of kilocalories, it was a varied diet, with meat, dairy produce and ale to 
+supplement the less highly processed grain products that made uo the bulk of the diet. 
+Table 10 presents the total agricultural output index from Figure 2 in growth 
+rate for, using both annual data and 10-year averages to capture long run trends. Over 
+the 1700-1830 period as a whole, our agricultural growth rate is very similar to that of 
+Crafts (1985) and Crafts and Harley (1992), although there are considerable 
+differences over shorter periods. In particular, in common with the volume indices 
+calculated by Allen (1994: 102) and Overton (1996: 75), we do not find the marked 
+slowdown in the third quarter of the eighteenth century suggested by Crafts and 
+Harley. 
+III. INDUSTRY 
+1. Overview of sources and methods 
+Industry is the one sector for which data have previously been analysed at annual 
+frequency, building on the pioneering work of Hoffmann (1955). However, as Crafts 
+(1985) and Harley (1982) pointed out independently, Hoffmann (1955) inadvertently 
+overstated the growth rate of industrial output during the Industrial Revolution as a 
+result of his weighting procedures. The problem is that a few industrial branches, 
+most notably cotton and iron, grew much more rapidly than the rest of industry, and 
+these branches are included in Hoffmann’s data set. However, the available time 
+series cover only 56 per cent of industrial output, and the weights of these industries 
+are increased proportionally to achieve 100 per cent coverage of industrial output. But 
+this means that the unrepresentative, rapidly growing branches of cotton and iron 
+effectively have their weights doubled. Harley (1982) and Crafts et al. (1989) propose 
+
+========10========
+
+10 
+that only the weights of industries other than cotton and iron should be increased to 
+arrive at 100 per cent coverage. 
+In addition to changing the weighting scheme, Harley (1982) and Crafts et al. 
+(1989) also replaced some of the older series used by Hoffmann (1955), drawing on 
+the latest scholarship. We use these series, together with some later additions, the 
+most important of which are the new series of bar iron output from King (2005), 
+Feinstein’s (1988: 446) series of investment in total buildings and works for output of 
+the building industry, and an index of new English language book titles derived from 
+the English Short Title Catalogue and the British Library for the output of the printing 
+industry. Our weighting scheme is very similar to that of Crafts et al. (1989), but 
+modified to allow for the inclusion of the printing industry. 
+2. Results for total industry 
+Figure 3 presents our series for industrial output, together with the “revised best 
+guess” series of Crafts and Harley (1992) and Hoffmann’s (1955) original index for 
+contrast. The biggest difference is between the Hoffmann index and the other two 
+indices, as a result of the excessive weight given to cotton textiles and iron in the 
+former. Our series shows slightly slower growth than the Crafts-Harley index during 
+the early eighteenth century, largely as a result of the inclusion of new series, 
+particularly King’s (2005) data for the iron industry. From the mid-eighteenth century 
+onwards, differences between the two series are relatively minor, and essentially 
+confirm the picture originally presented in Crafts et al. (1989). Output growth 
+accelerated from around 1740 to 1840 before tapering off. Again, there is quite a 
+substantial cyclical dimension to industrial output. Table 12 presents the annual 
+
+========11========
+
+11 
+growth rates of industrial output over the conventional sub-periods calculated using 
+both the raw annual data and 10-year averages, together with the Crafts-Harley 
+estimates for comparison. 
+3. Results for industrial sub-sectors 
+Part A of Figure 4 provides a breakdown of industrial production into manufacturing, 
+building and mining. Both mining and building grew more rapidly than total 
+manufacturing over the period as a whole. Part B of Figure 4, however, shows that 
+total manufacturing output included some very rapidly growing branches. The most 
+rapid growth was in metal production, driven by the iron industry. The next most 
+rapid growth was in textiles, driven by the dramatically expanding cotton industry, but 
+slowed down by the relative decline of the more traditional textile industries. Food 
+drink and tobacco and other manufacturing grew more slowly. 
+IV. SERVICES 
+1. Overview of sources and methods 
+The service sector has received much less attention from economic historians than 
+agriculture and industry, and there have been no previous attempts to provide annual 
+frequency data. The first estimates for benchmark years were provided by Deane and 
+Cole (1967), but have been revised downwards by Crafts (1985), particularly for the 
+early nineteenth century. For the eighteenth century Deane and Cole (1967: 76-78) 
+assumed that “commerce” grew at the same rate as industry, that “rent and 
+miscellaneous services” increased in line with population, and that “government and 
+defence” could be measured by real public expenditure. Crafts (1985: 35-37) made 
+only minor changes here. For the nineteenth century, however, Deane and Cole (1967: 
+
+========12========
+
+12 
+166) derived estimates of income in “trade and transport”, “domestic and personal”, 
+“housing”, “government, professional and other services” and deflated them by the 
+Rousseaux price index. Crafts (1985: 31) showed that this produces an implausibly 
+high rate of growth for commerce, and assumed instead that commerce grew in line 
+with national income, thus introducing an element of iteration into the estimates. 
+Crafts (1985: 35-37) used employment growth for domestic and personal services and 
+new estimates of the housing stock for housing. He also revised the growth rate of 
+government using new data on employment growth. 
+Our estimates are broadly consistent with those of Crafts (1985), but make a 
+few changes to reflect the need for annual data. The most important difference is in 
+commerce, where we measure the growth of output using volume series covering 
+distribution, transport, finance and other commerce. This produces results which are 
+not far out of line with the Deane and Cole (1967) assumption for the eighteenth 
+century, that commerce grew in line with industry. This also avoids the iterative 
+element in the Crafts (1985) assumption that commerce grew in line with national 
+income during 1801-30, and ensures consistency of treatment throughout the whole 
+period. 
+For government, we use civil government and defence expenditure throughout 
+the whole period, deflated using the Schumpeter-Gilboy and Rousseaux price indices 
+from Mitchell (1988: 719-723). For housing, we use the stock estimates of Feinstein 
+(1988: 389), using a regression relationship between housing stock and population to 
+fill in gaps. Output of domestic and personal services is assumed to rise in line with 
+population throughout the whole period, following Deane and Cole (1967) and Crafts 
+
+========13========
+
+13 
+(1985). This inevitably produces a relatively stable path for output in domestic and 
+personal services, which is consistent with most assessments of this sector. 
+2. Results for total services 
+Our annual index of service sector output is plotted in Figure 5. The trend pattern is of 
+an increase in the growth rate from around 1780. As is usually the case, fluctuations 
+in services were milder than in industry or agriculture. Table 13 presents the annual 
+growth rates of services output over the conventional sub-periods calculated using 
+both the raw annual data and 10-year averages, together with the Crafts-Harley 
+estimates for comparison. Our growth rate estimates are very close to the Crafts- 
+Harley data over both the whole period 1700-1830 and individual sub-periods, and 
+using both annual data and 10-year averages. 
+3. Results for service sub-sectors 
+Figure 6 provides more detail on the service sector. Part A provides information on 
+commerce, government, housing and domestic services, while Part B breaks down 
+commerce into transport, distribution, finance and other commerce. In Part A, we see 
+that government grew most rapidly during the eighteenth century, albeit in a sharply 
+cyclical fashion as a result of warfare. During the nineteenth century, commerce was 
+clearly the fastest growing sector. Housing and domestic services grew more slowly 
+but more steadily than government or commerce. The former two series coincide in 
+the chart because domestic services were assumed to grow in line with population, 
+whilst we found a unit elasticity between housing and population. In Part B, we see 
+that distribution and finance grew more rapidly than transport and other commerce, 
+
+========14========
+
+14 
+with finance particularly dynamic during the eighteenth century, but distribution more 
+dynamic during the nineteenth century. 
+V. GDP IN CONSTANT AND CURRENT PRICES 
+The next step is to construct an index of real GDP from the above output series for 
+agriculture, industry and services, using an appropriate set of weights. Table 14 sets 
+out the weighting scheme, derived from the reconstruction of nominal GDP by sector. 
+Real output trends from the sectoral series described earlier in the paper are 
+transformed into current price trends using sectoral price deflators, with absolute 
+levels of GDP in current prices established using an input-output table for 1841, 
+derived from Horrell et al. (1994), but adjusted from a United Kingdom to a Great 
+Britain basis. 1700 weights are use for the period 1700-1740, 1759 weights for 1740- 
+1780, 1801 weights for 1780-1820 and 1841 weights for 1820-1870. Details of the 
+derivation of the sectoral weights are provided in Broadberry and van Leeuwen 
+(2010). 
+Putting the three main sectors together using the weights from Table 14, we 
+arrive at the annual index of real GDP shown in Figure 7 and presented in growth rate 
+form in Table 15, together with the Crafts-Harley data for comparison. Our series 
+shows much the same pattern of trend growth acceleration as the Crafts-Harley data, 
+although there are some minor differences over shorter sub-periods, largely as a result 
+of differences in agriculture. Figure 7 shows clearly that the fastest growth was in 
+industry and the slowest growth in agriculture, with services exhibiting an 
+intermediate growth rate. 
+
+========15========
+
+15 
+These estimates of real GDP in index number form can be stated in constant 
+prices simply by linking them to a benchmark estimate of GDP. We work with 1841 
+as the benchmark year, based on our reworking of the Horrell et al. (1994) input- 
+output table. Current price GDP can be obtained by reflating the real output indices by 
+sector-specific price indices. For agriculture we construct a price index based on a 
+weighted average of price series for individual agricultural products, taken largely 
+from Clark (2004). The price index for the industrial sector is based on a weighted 
+average of price series for industrial products from Clark (2004) and Beveridge 
+(1939). For service sector prices, the key data are wage rates and house rents from 
+Clark (2004), with some limited information on transport prices from Harley (1988) 
+and Bogart (2005), and with distribution prices derived as a weighted average of 
+agricultural and industrial prices. Using the price series for agriculture, industry and 
+services to reflate real output in each sector yields the values for current price GDP 
+shown in Figure 8. 
+For comparison, we also show Deane and Cole’s (1967) current price GDP 
+estimates for benchmark years in the nineteenth century, together with Lindert and 
+Williamson’s (1982) benchmark figures for the eighteenth century. There is broad 
+agreement over the long run trends, but our estimates suggest a higher nominal GDP 
+in most years. A closer examination of the data for benchmark years in Table 2 
+reveals that during the nineteenth century our estimates of nominal GDP grow 
+substantially more slowly than the Deane and Cole (1967) estimates between 1801 
+and 1851, but more rapidly after 1851. For the eighteenth century, our estimates grow 
+substantially more rapidly than those of Lindert and Williamson (1982). 
+
+========16========
+
+16 
+Figure 9 plots the price indices for the three main sectors together with the 
+aggregate price index. Agricultural and service sector prices increased substantially 
+during the second half of the eighteenth century, rising to a peak at the end of the 
+Napoleonic Wars before falling back during the postwar deflation. By contrast, 
+industrial prices increased much less during the eighteenth century and fell 
+substantially more after 1815. Figure 10 therefore shows the expected pattern for the 
+inter-sectoral terms of trade during the Industrial Revolution, with the relative price of 
+agricultural goods increasing substantially, particularly from around 1780. 
+Figure 10 plots real and nominal GDP together with the aggregate price level 
+over the period 1700-1870. Most of the increase in nominal GDP was the result of 
+real growth, with only a modest increase in the price level. Although there was a 
+period of substantial inflation during the French and Napoleonic Wars, this was 
+followed by a period of postwar deflation. 
+VI. PER CAPITA INCOMES 
+To see what happened to per capita incomes, it is necessary to provide estimates of 
+the total population of Great Britain. From 1801 onwards, annual data on the 
+population of England, Wales and Scotland are available from Mitchell (1988: 9). For 
+the period before 1801, the population of England has been reconstructed firmly by 
+Wrigley and Schofield (1989) and Wrigley et al. (1997) for the period since the 
+compulsory registration of births, marriages and deaths. Since less information is 
+available for Wales and Scotland, we assume that the ratio of the population of Wales 
+to England remained the same for the period 1700-1801. For Scotland, we have 
+
+========17========
+
+17 
+population estimates for 1700 and 1750 (Schofield 1994: 93). Other years are 
+interpolated using the population of England. 
+Combining the GDP series with the population data produces our estimates of 
+per capita income in Figure 12. Table 17 presents the same material in growth rate 
+form. The main findings are that per capita income growth accelerated considerably 
+between 1780 and 1801, and then slowed down between 1801 and 1830, before 
+accelerating again after 1830. For the period 1700-1870 as a whole, per capita income 
+grew at an annual rate of 0.48 per cent using the 10-year average data. 
+VII. BUSINESS CYCLE CHRONOLOGY 
+The conventional business cycle chronology for the period 1700-1870 was established 
+by Ashton (1959) for the eighteenth century and by Gayer et al. (1953) and Rostow 
+(1972) for the nineteenth century, based on the NBER methodology of Burns and 
+Mitchell (1946). This involved checking a large number of microeconomic time series 
+and establishing turning points in “general business activity” as a “consensus of 
+statistical data rather than turning-points in any particular magnitude such as national 
+income” (Matthews, 1954: 2). The peak and trough years obtained with this 
+methodology are shown in Table 18. The minor disagreements over turning points in 
+the overlap period can be put down to the difficulties of assigning tuning points on an 
+annual basis when monthly data would be more appropriate. Since growth rates are 
+conventionally calculated between peaks, Table 18 suggests that there is likely to be 
+some bias in the conventional periodisation used in the analysis of British economic 
+growth. Picking peak years on the basis of the NBER methodology, the appropriate 
+
+========18========
+
+18 
+periodisation would be 1701, 1761, 1783, 1802, 1831 and 1866 rather than 1700, 
+1760, 1780, 1801, 1831 and 1870. 
+Table 19 sets out the business cycle chronology obtained from the real GDP 
+series constructed above, using the Hodrick-Prescott filter, with the smoothing 
+parameter λ set equal to 100, following Backus and Kehoe (1992).1 Using a lower 
+value of λ equal to 6.25, as suggested by Ravn and Uhlig (2002), reduces the 
+amplitude but not the frequency of the business cycle. The cycle with λ equal to 100 
+is graphed in Figure 13. If GDP can be taken as a more appropriate summary measure 
+of “general business activity”, the correct periodisation would be 1701, 1761, 1780, 
+1802, 1832, 1868. Given the disagreements on the precise dates of the turning points, 
+we have taken 10-year averages based on the years traditionally analysed in the 
+growth literature. 
+VIII. CONCLUSIONS 
+This paper provides the first estimates of GDP on an annual basis for Great Britain 
+during the period 1700-1870. This enables us to analyse economic growth and the 
+business cycle within a consistent framework. The results are broadly consistent with 
+the long run path of real output suggested by Crafts and Harley (1992), although 
+growth rates for sub-periods differ, largely as a result of changes in the growth of 
+agriculture. Nominal GDP increased more rapidly than suggested by Lindert and 
+Williamson (1982) during the eighteenth century, and more slowly than suggested by 
+Deane and Cole (1967) during the first half of the nineteenth century, as a result of 
+1 
+See Hodrick and Prescott (1997). 
+
+========19========
+
+19 
+differences in the price indices. We also refine the business cycle chronologies of 
+Ashton (1959) and Gayer, Rostow and Schwartz (1953). 
+
+========20========
+
+20 
+TABLE 1: English arable land use (millions of acres) 
+1700 1750 1800 1830 1871 
+Wheat Rye/ Barley/ Oats Pulses Potatoes Other Total Fallow Total 
+Maslin Dredge crops sown arable arable 2.02 0.43 1.85 1.17 0.99 0.00 1.31 7.76 1.94 9.70 1.96 0.06 1.51 1.83 0.98 0.09 2.63 9.06 1.62 10.67 2.59 0.06 1.46 2.05 0.83 0.17 3.07 10.23 1.29 11.52 3.33 0.06 1.96 1.56 0.59 0.28 5.09 12.86 1.33 14.19 3.32 0.06 1.96 1.45 0.90 0.39 5.66 13.35 0.48 13.83 
+Sources: Overton and Campbell (1996: Tables III, V); Early Modern Probate Inventory Database; Holderness (1989); Overton (1996). 
+FIGURE 1: English weighted national average grain yields per acre, gross of tithe and seed (bushels, log scale) 
+A. Wheat 
+
+========21========
+
+21 
+FIGURE 1 (continued): English weighted national average grain yields per acre, gross of tithe and seed (bushels, log scale) 
+B. Rye 
+C. Barley 
+
+========22========
+
+22 
+FIGURE 1 (continued): English weighted national average grain yields per acre, gross of tithe and seed (bushels, log scale) 
+D. Oats 
+E. Beans & peas 
+Sources: Early Modern Probate Inventories Database and Modern Farm Accounts Database. 
+
+========23========
+
+23 
+TABLE 2: English mean yields per acre gross of tithes, net of seeds in bushels (10-year averages) 
+Wheat 1700-1709 14.38 1750-1759 17.75 1800-1809 19.43 1850-1859 25.25 1861-1870 28.19 
+Rye 15.94 17.26 16.56 20.06 19.99 
+Barley 17.33 20.93 23.62 26.13 27.15 
+Oats 11.54 22.66 25.28 30.60 31.69 
+Pulses 9.88 10.36 16.13 16.58 17.35 
+Potatoes 150.00 150.00 150.00 150.00 150.00 
+Sources and notes: Gross yield per acre taken from the Early Modern Probate Inventories Database and the Modern Farm Accounts Database. Seed sown per acre from the Modern Database. Pulses are taken from Overton and Campbell (1996), Allen (2005). 
+TABLE 3: Working animals in England in millions (10-year averages) 
+Oxen 1700-1709 0.10 1750-1759 0.07 1800-1809 0.03 1850-1859 0.00 1861-1870 0.00 
+Horses 
+0.57 
+0.78 
+0.89 
+1.25 
+1.26 
+Sources: Derived from the Early Modern Probate Inventories Database; Allen (1994); John (1989); Turner (1998). 
+TABLE 4: English arable output net of seed and animal consumption in million bushels (10-year averages) 
+Wheat 1700-1709 29.75 1750-1759 38.63 1800-1809 48.54 1850-1859 68.36 1861-1870 70.75 
+Rye 6.41 1.12 1.01 1.12 1.07 
+Barley 30.78 30.36 34.56 68.18 83.16 
+Oats 5.21 16.36 31.16 13.97 12.91 
+Pulses 7.29 7.50 9.10 8.56 9.61 
+Potatoes 
+1.31 
+13.91 
+25.98 
+47.90 
+50.14 
+Source: Output gross of tithe and net of seed were derived by multiplying sown area from Table 1 with net yields from Table 2. The sown area from Table 1 was interpolated where necessary. Consumption by working animals was derived from the numbers of working animals shown in Table 3. For oats, outlying observations based on a very small number of inventories were dropped in 1700-09 and 1750-59, to eliminate excessive volatility. 
+
+========24========
+
+24 
+TABLE 5: Numbers of non-working animals in England in millions (10-year 
+averages) 
+Milk cattle 
+Beef cattle 
+Calves 
+Sheep 
+Swine 
+Livestock units per 100 acres 
+1700-1709 0.36 0.33 0.36 15.68 0.97 35.04 1750-1759 0.47 0.42 0.47 14.86 1.12 32.44 1800-1809 0.83 0.75 0.83 19.82 1.75 46.18 1850-1859 1.15 1.04 1.15 22.62 2.20 46.49 1861-1870 1.30 1.17 1.30 25.39 2.19 51.46 
+Sources and notes: Derived from Early Modern Probate Inventory Database; Allen (2005); John (1989 Tales III.1 and III.2), Mitchell (1988); Turner (1998). 
+* Livestock units compare different animals on the basis of relative feed 
+requirements. Ratios from Campbell (2000: 104-107): (adult cattle for beef and milk x 1.2) + (immature cattle x 0.8) + (sheep and swine x 0.1). 
+TABLE 6: Percentages of English animals producing specific products 
+Milk 1700 90 1850 90 
+Beef 25 33 
+Veal 21.1 25.0 
+Mutton 
+26 40 
+Pork 49 100 
+Wool 
+90 
+80 
+Sources: Holderness (1989: 147); Clark (1991: 216). 
+TABLE 7: English yields per animal (10-year averages) 
+Years Milk 
+(gallons) 1700-1709 272.01 1750-1759 316.69 1800-1809 368.72 1850-1859 429.29 1861-1870 443.90 
+Beef 
+(lb) 384.98 440.22 503.37 575.59 592.82 
+Veal 
+(lb) 67.12 76.84 87.96 100.69 103.73 
+Mutton 
+(lb) 46.39 52.53 59.49 67.36 69.22 
+Pork 
+(lb) 86.56 98.78 112.72 128.63 132.42 
+Wool (lb) 2.51 2.91 3.38 3.92 4.05 
+Sources and notes: Milk, beef, mutton, pork, and wool are obtained from Clark (1991: 216), while veal is taken from Allen (2005: Table 6). The missing years were interpolated in line with the ratio of product to animal prices. 
+
+========25========
+
+25 
+TABLE 8: Output in English pastoral farming (10-year averages) 
+Years Milk 
+(m.gals) 1700-1709 89.16 1750-1759 133.51 1800-1809 275.67 1850-1859 443.26 1861-1870 517.47 
+Beef (m. lb) 31.91 51.51 114.30 196.73 228.77 
+Veal (m. lb) 5.54 8.59 18.27 28.88 33.59 
+Mutton (m. lb) 191.86 237.29 414.29 609.29 703.05 
+Pork (m. lb) 49.67 78.30 167.54 282.94 290.31 
+Wool (m. lb) 35.34 37.32 55.53 70.85 82.19 
+Hides (m. lb) 14.65 20.59 38.03 53.48 59.69 
+Hay (m. tons) 
+0.32 
+0.51 
+1.37 
+1.93 
+1.94 
+Sources: Total output estimates are derived by multiplying animal numbers from Table 5 with the percentage of animals producing in Table 6. The resulting numbers of producing animals are then multiplied with the animal yields from Table 7. 
+FIGURE 2: Indexed output in English arable and pastoral agriculture (log scale, 
+1700=100) 
+Sources: See text. 
+
+========26========
+
+26 
+TABLE 9: Output shares in English agriculture, in current prices, 10-year 
+averages (%) 
+A. Arable products 
+Year Wheat Rye Barley Oats Pulses Potatoes Total arable 
+1700-09 1750-59 1800-09 1861-70 
+31.1 32.0 28.8 17.4 
+4.4 0.6 0.4 0.2 
+18.3 13.5 10.3 14.3 
+B. Pastoral products Year 
+0.9 8.4 6.5 1.5 
+5.3 4.0 3.4 1.9 
+0.3 4.1 3.1 7.6 
+products 
+60.2 
+62.5 
+52.6 
+42.8 
+Dairy Beef Pork Mutton Hay Wool Hides 
+1700-09 1750-59 1800-09 1861-70 
+8.3 9.4 11.6 16.1 
+2.8 3.2 5.1 7.1 
+4.4 4.6 5.6 7.9 
+13.3 10.9 13.7 14.9 
+4.0 4.8 7.6 6.2 
+5.7 3.4 2.9 4.3 
+1.3 1.2 0.8 0.9 
+Total pastoral products 
+39.8 
+37.5 
+47.4 
+57.2 
+Sources: Derived from Early Modern Probate Inventories Database; Modern Farm 
+Accounts Database. 
+TABLE 10: Output growth in agriculture 
+Annual data 
+1700-1760 1760-1780 1780-1801 1801-1830 1830-1870 
+Crafts- Harley 
+0.60 
+0.13 
+0.75 
+1.18 
+-- 
+Present estimates 
+0.73 
+0.74 
+1.11 
+0.45 
+0.82 
+1700-1830 1700-1870 
+0.68 
+-- 
+0.73 0.75 
+1700/09 - 1760/69 1760/69 - 1780/89 1780/89 - 1801/10 1801/10 - 1830/39 1830/39 - 1861/70 
+10-year averages Present estimates 
+0.38 
+0.96 
+1.03 
+0.81 
+0.75 
+1700/09 - 1830/39 1700/09 - 1861/70 
+0.67 0.68 
+Sources: Crafts (1985: 45; Crafts and Harley (1992: 715); see text. 
+
+========27========
+
+27 
+FIGURE 3: British industrial output in real terms, 1700-1870 (log scale, 1700=100) 
+Sources: Crafts and Harley (1992); Hoffmann (1955); see text. 
+TABLE 12: Output growth in British industry, 1700-1870 (% per annum) 
+Crafts- Present 
+Harley estimates 
+(annual 
+data) 
+1700-1760 0.71 0.49 1700/09 - 1760/69 1760-1780 1.29 1.00 1760/69 - 1780/89 1780-1801 1.96 2.18 1780/89 - 1801/10 1801-1830 2.78 2.59 1801/10 - 1830/39 1830-1870 3.06 3.01 1830/9 - 1861/70 
+Present estimates (10-year averages) 0.58 1.04 2.01 2.87 2.91 
+1700-1830 1.39 1.33 1700/09 - 1830/39 1700-1870 1.78 1.72 1700/09 - 1861/70 
+1.41 1.93 
+Sources: Crafts (1985: 32); Crafts and Harley (1992: 715); see text. 
+
+========28========
+
+28 
+FIGURE 4: Industrial output by sub-sector (1700=100, log scale) 
+A. Mining, building and manufacturing 
+B. Metals, textiles, FDT, other manufacturing 
+Source: see text. 
+
+========29========
+
+29 
+FIGURE 5: British service sector output in real terms, 1700-1870 (log scale, 1700=100) 
+Sources: See text. 
+TABLE 13: Output growth in British services, 1700-1870 (% per annum) 
+Crafts- Harley 
+1700-1760 0.74 1760-1780 0.77 1780-1801 1.31 1801-1830 1.68 1830-1870 -- 
+Present 
+estimates 
+(annual 
+data) 
+0.71 1700/09 - 1760/69 0.66 1760/69 - 1780/89 1.40 1780/89 - 1801/10 1.79 1801/10 - 1830/39 2.58 1830/39 - 1861/70 
+Present estimates (10-year averages) 0.56 0.85 1.90 1.67 2.71 
+1700-1830 1.05 1700-1870 -- 
+1.07 1700/09 – 1830/39 1.61 1700/09 - 1861/70 
+1.08 1.58 
+Sources: Derived from Crafts (1985: 16-17, 32, 37); Crafts and Harley (1992: 715); see text. 
+
+========30========
+
+30 
+FIGURE 6: Services output by sub-sector (1850=100, log scale) 
+A. Commerce, government, housing and domestic service 
+B. Transport, distribution, finance and other commerce 
+Source: see text. 
+
+========31========
+
+31 
+TABLE 14: British sectoral weights, 1700-1850 (%) 
+1700 Agriculture 28.0 Industry 37.8 Services 34.2 GDP 100.0 
+1759 26.1 38.6 35.3 100.0 
+1801 30.9 31.9 37.2 100.0 
+1841 22.1 36.4 41.5 100.0 
+Sources and notes: Derived from reconstruction of nominal GDP by sector. Real output trends above are transformed into current price trends using sectoral price deflators, with absolute levels of GDP in current prices established using an input- output table for 1841, based on Horrell et al. (1994). 1700 weights are used for the period 1700-1740, 1759 weights for 1740-1780, 1801 weights for 1780-1820 and 1841 weights for 1820-1870. 
+FIGURE 7: British GDP in real terms, 1700-1870 (log scale, 1700=100) 
+Sources: See text. 
+
+========32========
+
+32 
+TABLE 15: British GDP growth, 1700-1870 (% per annum) 
+Annual data 
+Crafts- 
+Harley 1700-1760 0.69 1760-1780 0.64 1780-1801 1.38 1801-1830 1.90 1830-1870 -- 
+Present estimates 
+1700-1830 1.06 1700-1870 -- 
+0.63 0.81 1.54 1.69 2.40 
+1700/09 - 1760/69 1760/69 - 1780/89 1780/89 - 1801/10 1801/10 - 1830/39 1830/39 - 1861/70 
+10-year averages Present estimates 
+0.52 
+0.89 
+1.66 
+1.86 
+2.40 
+1.04 1.36 
+1700/09 – 1830/39 1700/09 - 1861/70 
+1.06 1.31 
+Sources: Crafts (1985: 45); Crafts and Harley (1992: 715); see text. 
+FIGURE 8: Nominal GDP, Great Britain 1700-1870 (£ million, log scale) 
+Sources: Deane and Cole (1967); Lindert and Williamson (1982); see text. 
+
+========33========
+
+33 
+TABLE 16: British GDP in current prices (£ million) 
+This 
+paper 1700 80.12 1759 104.89 1801 348.36 1811 392.02 1821 348.21 1831 382.44 1841 473.80 1851 504.89 1861 774.62 1871 1,136.07 
+Deane & Lindert & 
+Cole Williamson 
+75.76 
+75.33 
+232.0 223.80 
+301.1 
+291.0 
+340.0 
+452.3 
+523.3 
+668.0 
+916.6 
+Sources and notes: See text; Deane and Cole (1967); Lindert and Williamson’s (1982) estimates for England converted to a Great Britain basis using data on the population share of Scotland and Scottish per capita incomes as a percentage of the average for Great Britain from income tax data in Lee (1986: 127, 131). 
+FIGURE 9: Aggregate and sectoral price indices, Great Britain 1700-1870 (1700=100, log scale) 
+Sources: see text. 
+
+========34========
+
+34 
+FIGURE 10: Inter-sectoral terms of trade between agriculture and industry, Great Britain 1700-1870 (1700=100) (log scale) 
+Sources: see text. 
+FIGURE 11: Real and nominal GDP, Great Britain 1700-1870 (1700=100, log scale) 
+Sources: see text. 
+
+========35========
+
+35 
+FIGURE 12: British real GDP per capita, 1700-1870 (log scale, 1700 = 100) 
+Sources: See text. 
+TABLE 17: Average annual growth rate of British population and per capita 
+income, 1700-1870 (% per annum) 
+Annual data 
+Population Per capita 
+growth GDP 
+growth 1700-1760 0.32 0.31 1760-1780 0.62 0.19 1780-1801 0.97 0.56 1801-1830 1.43 0.25 1830-1870 1.18 1.22 
+1700-1830 0.72 0.32 1700-1870 0.83 0.53 
+1700/09 – 1830/39 
+1700/09 - 1760/69 1760/69 - 1780/89 1780/89 - 1801/10 1801/10 - 1830/39 1830/39 - 1861/70 
+10-year averages Population Per capita 
+growth GDP 
+growth 
+0.31 0.21 
+0.68 0.20 
+1.10 0.56 
+1.44 0.42 
+1.21 1.20 
+1700/09 - 1861/70 
+0.75 0.83 
+0.31 0.48 
+Sources: Mitchell (1988), Wrigley and Schofield (1989), Schofield (1994) and 
+Wrigley et al. (1997); see text. 
+
+========36========
+
+36 
+TABLE 18: Business cycle chronology based on sectoral indicators 
+A. Eighteenth Century 
+Peak Trough Peak Trough 1701 1702 1751 1755 1704 1706 1761 1763 1708 1712 1764 1769 1714 1716 1771-72 1775 1717-18 1722 1777 1781 1724-25 1727 1783 1784 1728 1730 1787 1789 1733 1734 1792 1794 1738 1742 1796 1798 1743 1746 1799 1800 1746 1748 1802 
+B. Nineteenth Century 
+Peak Trough Peak Trough 1792 1793 1828 1829 1796 1797 1831 1832 1800 1801 1836 1837 1802 1803 1839 1842 1806 1808 1845 1848 1810 1811 1854 1855 1815 1816 1857 1858 1818 1819 1860 1862 1825 1826 1866 1868 
+Sources: Ashton (1959: 172); Gayer et al. (1953: 348); Rostow (1972: 77). 
+
+========37========
+
+37 
+TABLE 19: Business cycle chronology based on GDP series 
+Peak Trough 
+1701 1703 
+1704 1706 
+1708 1710 
+1712 1713 
+1714 1715 
+1718 1719 
+1722 1724 
+1725 1729 
+1731 1732 
+1734 1737 
+1738 1740 
+1743 1744 
+1746 1747 
+1748 1750 
+1752 1754 
+1755 1756 
+1758 1759 
+1761 1763 
+1764 1765 
+1766 1768 
+1769 1770 
+1771 1774 
+1777 1779 
+1780 1784 
+1786 1788 
+1790 1791 
+1792 1794 
+Sources: see text. 
+Peak Trough 
+1796 1797 
+1798 1799 
+1800 1801 
+1802 1804 
+1805 1806 
+1807 1808 
+1810 1812 
+1813 1814 
+1815 1817 
+1818 1819 
+1820 1822 
+1824 1826 
+1827 1829 
+1830 1831 
+1832 1833 
+1836 1837 
+1838 1839 
+1840 1842 
+1845 1847 
+1848 1850 
+1852 1853 
+1854 1855 
+1856 1858 
+1860 1862 
+1866 1867 
+1868 
+
+========38========
+
+38 
+FIGURE 13: Cyclical component of the log of the GDP index (1850=100) after Hodrick-Prescott filter (λ=100) 
+Sources: see text. 
+
+========39========
+
+39 
+APPENDIX 1: DATA SOURCES AND METHODS 
+A. REAL OUTPUT SERIES 
+1. Agriculture 
+The weighting scheme is given in Table 9, and data sources are listed in the notes to Tables 1-8. 
+2. Industry 
+The weighting scheme presented in Table A1 is based on Hoffmann (1955), but modified as discussed in the text. The basic data are obtained from Hoffmann (1955), apart from the modifications listed below: 
+Mining: coal: Pollard’s (1980) decadal estimates, interpolated using the Hoffmann series. 
+Metals: Iron, steel and machine building: Hoffmann’s series is replaced for the period before 1839 using bar iron output from King (2005). The yearly data can be downloaded from the Economic History Society website at http://www.ehs.org.uk/ehs/Datasets/datasets.asp. Shipbuilding: Gross capital formation in ships from Feinstein (1988: 446), interpolated using the Hoffmann series. 
+Textiles: Silk thread and goods: Mitchell (1988: 343) reports the imports of raw, thrown and waste silk for 1700-1825. These are used to extend the Hoffmann series. Linen yarn and cloth: Hoffmann’s series extended using linen yarn imports from Schumpeter (1960: 52). 
+Food, Drink & Tobacco: Beer: Prior to 1787, the data are brought back in time by connecting an index of small, strong, and table beer charged with duty (Mitchell 1988: 404-405) to the Hoffmann index. Tobacco products: This series is extended back to 1700 with the value of imported tobacco at official prices from Mitchell (1988: 462-463). 
+Other Manufacturing: Paper: Paper charged with duty from Mitchell (1988: 413). Printed matter: Index of new English language book titles (1700-1800) from the English Short Title Catalogue (http://www.rlg.org/estc.html). This is extended from 1800 to 1870 with an index of new titles from the Integrated Catalogue of the British Library (http://catalogue.bl.uk/F/?func=file&file_name=login-bl-list). The overlapping years show a high correlation, thus these two series can be linked together. Leather: Hoffmann’s series is extended back from 1801 to 1722 with an index of hides and skins charged with duty from Mitchell (1988: 416). Soap and candles: For the period prior to 1821, separate series are available for soap and candles from Mitchell (1988: 412, 415). Soap charged with duty is available back to 1713, while tallow candles charged with duty are available back to 1711. 
+Building: The Hoffmann series is replaced with a constant price series of total buildings and works from Feinstein (1988: 446), available for 1761-1870 but with gaps. Timber imports from Mitchell (1988: 462) were used to interpolate. 
+3. Services 
+Weights of the four main service sectors are given as shares of total services in Table A2. These shares are taken from Crafts (1985: 16-17). Data sources are as follows: 3.1. Commerce 
+Transport: We used shipping tonnage from Mitchell (1988: 534), the length of railways from Mitchell (1988: 541), total investment in waterways and roads from Ginarlis and Pollard (1988: 217-219) and the number of weekly passenger road 
+
+========40========
+
+40 
+services from Bogart (2005: 487), which we interpolated assuming constant rates of growth. The index is created from the unweighted average of the available series. Financial services: We used the number of country banks from Pressnell (1956: 11), available for 1784, 1793, 1796, 1798, 1800-1842. These points were interpolated using the drawing accounts of the Bank of England from Mitchell (1988: 665) for 1720-1844, extended to 1870 with total deposits from Mitchell (1988: 658). The period 1700-1720 was projected using an exponential trend. We also used Pearson’s (2004: 374-375) series on fire insurance (real sum insured). The composite index was obtained as the unweighted average of the banking and insurance indices. 
+Distribution: In the spirit of Deane and Cole’s (1967) work on the eighteenth century, we assumed that the growth of distribution is a weighted average of the growth of foreign trade and industry, with weights of 0.6 and 0.4 respectively. Checking the sensitivity of the results to changing the weights, we found that reducing the share of foreign trade to 30 per cent reduced the growth rate over the period 1700-1870 by just 0.2 percentage points. The data on exports and imports are taken from Mitchell (1988: 448-450). 
+Other commerce: We assume that other commerce grew in line with industry. 
+3.2 Domestic and personal services 
+We assume that domestic and personal services grew in line with population, following the assumption of Deane and Cole (1967: 77) for the eighteenth century. 
+3.3 Government 
+We use civil government and defence expenditure from Mitchell (1988: 578, 587), deflated using the Schumpeter-Gilboy price index to 1800 and the Rousseaux price index after 1800, both from Mitchell (1988: 719, 722). 
+3.4 Housing 
+We use housing stock data from Feinstein (1988: 389), using a regression relationship between housing stock and population to fill in gaps. 
+B. PRICE SERIES 
+1. Agriculture 
+Data are from Clark (2004, 2005, 2007), and can be downloaded from: http://www.iisg.nl/hpw/data.php#united. 
+2 Industry 
+Unless otherwise specified, data are from Clark (2004, 2005, 2007), and can be downloaded from: http://www.iisg.nl/hpw/data.php#united. Commodities used are as follows: 
+Textiles: cotton, cotton cloth, wool, wool cloth, silk thread, linen cloth. 
+Metals: iron manufactures, pewter. 
+Other manufacturing: wood, paper-foolscap, books, leather (Beveridge, 1939; the average of Naval Stores leather, backs and hose), soap, candles, lamp oil, coal gas. Construction: bricks, tiles (Beveridge, 1939; the average of Winchester, Eton, Westminster, Sandwich, Greenwich, Office of Works, Naval Stores. We used paving, roof, and plain tiles but omitted ridge and paving tiles from the Naval Stores because these were outliers compared to the other series), laths (Beveridge, 1939; the average of Greenwich and Office of Works), lime (Beveridge, 1939; the average of Winchester, Eton, Westminster, Sandwich, Greenwich, Office of Works, Naval 
+
+========41========
+
+41 
+Stores), sand (Beveridge, 1939; the average of Westminster, Office of Works, Naval Stores; we used masons’ sand and gravel, and sand, cement and tarras (Beveridge 1939; the average of cement, mortar, and tarras from Greenwich and Westminster), lead (Beveridge, 1939; the average of lead, milled sheet, sheet and cast, pipe from Westminster, Greenwich, Office of Works, and Naval Stores), building labourer’s wage. 
+Mining: coal. 
+Foodstuff: wheaten flour, bread, bacon, treacle, sugar, beer, malt (Beveridge, 1939; the average of Winchester, Eton, Westminster, Greenwich and Navy Victualling in London, Portsmouth, and Plymouth), spirits, tobacco. 
+3 Services 
+Unless otherwise specified, data are from Clark (2004, 2005, 2007), and can be downloaded from: http://www.iisg.nl/hpw/data.php#united. Series used are as follows: 
+Housing: rent. 
+Domestic service: wages of building labourers. 
+Government: wages of craftsmen. 
+Financial services: fire insurance (Pearson, 2004: 374-380) 
+Transport: comprised of shipping (Harley, 1988; 873-875); goods road transport (Bogart 2005: 505, interpolated decadal figures, 1700-1830); passenger road transport (Bogart 2005: 506, interpolated decadal figures, 1750-1830). 
+Distribution: weighted average of agriculture and industry prices. 
+
+========42========
+
+42 
+TABLE A1: Industrial output weights (%) 
+1700-1711 Coal, 11.4; Iron, steel and machine building, 11.8; Tin, 1.7; Cotton 
+yarn and cloth, 8.8; Silk thread and goods, 11.4; Linen yarn and cloth, 
+21.2; Sugar, 0.8; Beer, 14.0; Malt, 4.4; Tobacco products, 2.1; Printed 
+matter, 3.6; Building, 8.7 
+1711-1713 Coal, 10.7; Iron, steel and machine building, 11.8; Tin, 1.6; Cotton 
+yarn and cloth, 8.2; Silk thread and goods, 10.7; Linen yarn and cloth, 
+19.7; Sugar, 0.7; Beer, 13.0; Malt, 4.1; Tobacco products, 2.0; Printed 
+matter, 3.6; Candles, 5.2; Building, 8.7 
+1713-1722 Coal, 11.3; Iron, steel and machine building, 13.2; Tin, 1.4; Cotton 
+yarn and cloth, 7.3; Silk thread and goods, 9.5; Linen yarn and cloth, 
+17.7; Sugar, 0.6; Beer, 11.7; Malt, 3.6; Tobacco products, 1.8; Paper, 
+0.8; Printed matter, 4.0; Soap, 2.6; Candles, 4.7; Building, 9.7 1722-1727 Coal, 5.9; Iron, steel and machine building, 8.2; Tin, 0.8; Cotton yarn 
+and cloth, 4.6; Silk thread and goods, 5.9; Linen yarn and cloth, 10.8; 
+Sugar, 0.3; Beer, 7.1; Malt, 2.2; Tobacco products, 1.0; Paper, 0.5; 
+Printed matter, 4.1; Leather and leather goods, 34.1; Soap, 1.6; 
+Candles, 2.9; Building, 9.9 
+1727-1739 Coal, 5.8; Copper ore, 0.5; Iron, steel and machine building, 8.1; Tin, 
+0.8; Cotton yarn, 4.5; Silk thread and goods, 5.8; Linen yarn and 
+cloth, 10.7; Sugar, 0.3; Beer, 7.1; Malt, 2.2; Tobacco products, 1.0; 
+Paper, 0.5; Printed matter, 4.1; Leather and leather goods, 33.9; Soap, 
+1.6; Candles, 2.9; Building, 9.9 
+1739-1761 Coal, 4.0; Copper ore, 0.4; Iron, steel and machine building, 5.6; Tin, 
+0.5; Cotton yarn and cloth, 2.4; Woollen and worsted yarn and cloth, 
+27.5; Silk thread and goods, 4.0; Linen yarn and cloth, 7.4; Sugar, 0.3; 
+Beer, 5.0; Malt, 1.5; Tobacco products, 0.8; Paper, 0.3; Printed matter, 
+4.1; Leather and leather goods, 23.2; Soap, 1.1; Candles, 2.0; 
+Building, 9.9 
+1761-1771 Coal, 3.9; Copper ore, 0.4; Iron, steel and machine building, 6.5; Tin, 
+0.5; Cotton yarn and cloth, 6.7; Woollen and worsted yarn and cloth, 
+27.1; Silk thread and goods, 3.9; Linen yarn and cloth, 7.3; Sugar, 0.3; 
+Beer, 4.9; Malt, 1.5; Tobacco products, 0.8; Paper, 0.3; Printed matter, 
+3.4; Leather and leather goods, 19.7; Soap, 1.1; Candles, 2.0; 
+Building, 9.8 
+1771-1780 Coal, 3.8; Copper ore, 0.3; Iron, steel and machine building, 6.5; 
+Copper, 0.4; Tin, 0.5; Cotton yarn and cloth, 6.7; Woollen and 
+worsted yarn and cloth, 27.0; Silk thread and goods, 3.9; Linen yarn 
+and cloth, 7.2; Sugar, 0.3; Beer, 4.9; Malt, 1.5; Tobacco products, 0.8; 
+Paper, 0.3; Printed matter, 3.4; Leather and leather goods, 19.6; Soap, 
+1.1; Candles, 1.9; Building, 9.8 
+1780-1787 Coal, 3.8; Copper ore, 0.3; Iron, steel and machine building, 6.5; 
+Copper, 0.4; Tin, 0.5; Cotton yarn and cloth, 6.7; Woollen and 
+worsted yarn, 12.2; Woollen and worsted cloth, 14.8; Silk thread and 
+goods, 3.9; Linen yarn and cloth, 7.2; Sugar, 0.3; Beer, 4.9; Malt, 1.5; 
+Tobacco products, 0.8; Paper, 0.3; Printed matter, 3.4; Leather and 
+leather goods, 19.6; Soap, 1.1; Candles, 1.9; Building, 9.8 
+
+========43========
+
+43 
+TABLE A1 (continued): Industrial output weights (%) 
+1787-1789 Coal, 3.8; Copper ore, 0.3; Iron, steel and machine building, 6.5; 
+Copper, 0.4; Tin, 0.5; Cotton yarn and cloth, 6.7; Woollen and 
+worsted yarn, 12.2; Woollen and worsted cloth, 14.7; Silk thread, 1.3; 
+Silk goods, 3.0; Linen yarn and cloth, 7.2; Sugar, 0.3; Beer, 4.9; Malt, 
+1.5; Tobacco products, 0.8; Paper, 0.3; Printed matter, 3.4; Leather 
+and leather goods, 19.5; Soap, 1.1; Candles, 1.9; Building, 9.7 1789-1801 Coal, 3.7; Copper ore, 0.3; Iron, steel and machine building, 6.5; 
+Copper, 0.4; Tin, 0.5; Shipbuilding, 1.9; Cotton yarn and cloth, 6.7; 
+Woollen and worsted yarn, 11.9; Woollen and worsted cloth, 14.4; 
+Silk thread, 1.2; Silk goods, 2.5; Linen yarn and cloth, 7.0; Sugar, 0.3; 
+Beer, 4.8; Malt, 1.4; Tobacco products, 0.8; Paper, 0.3; Printed matter, 
+3.4; Leather and leather goods, 19.1; Soap, 1.1; Candles, 1.9; 
+Building, 9.8 
+1801-1831 Coal, 8.6; Copper ore, 1.0; Iron, steel and machine building, 11.5; 
+Copper, 0.9; Copper products, 0.9; Tin, 0.4; Shipbuilding, 2.6; Cotton 
+yarn, 5.1; Cotton cloth, 10.1; Woollen and worsted yarn, 6.9; Woollen 
+and worsted cloth, 6.9; Silk thread, 0.6; Silk goods, 1.4; Linen yarn 
+and cloth, 5.3; Wheaten flour, 1.4; Bread and cakes, 3.0; Sugar, 0.5; 
+Beer, 0.9; Malt, 0.6; Spirits, 1.4; Tobacco products, 0.6; Paper, 1.9; 
+Printed matter, 3.9; Leather, 1.3; Leather goods, 8.8; Soap and 
+candles, 2.0; Building, 11.5 
+1831-1850 Coal, 10.7; Tin ore, 0.3; Copper ore, 0.8; Lead ore, 0.6; Iron, steel and 
+machine building, 12.2; Copper, 0.6; Copper products, 1.0; Lead, 0.3; 
+Tin, 0.1; Shipbuilding, 1.4; Furniture, 2.6; Timber products, 4.3; 
+Cotton yarn, 11.3; Cotton cloth, 6.3; Woollen and worsted yarn, 3.8; 
+Woollen and worsted cloth, 4.1; Silk thread, 1.0; Silk goods, 2.3; 
+Linen yarn and cloth, 2.5; Hemp products, 0.1; Wheaten flour, 2.4; 
+Bread and cakes, 1.6; Confectionary, 0.4; Sugar, 0.4; Beer, 2.3; Malt, 
+0.4; Spirits, 0.6; Tobacco products, 0.5; Paper, 1.5; Printed matter, 
+3.1; Leather, 1.1; Leather goods, 7.0; Soap and candles, 1.0; 
+Vegetable oils, 0.1; Building, 11.4 
+Source: derived from Hoffmann (1955: 18-19) as described in the text. 
+
+========44========
+
+44 
+TABLE A2: Service sector output weights (%) 
+1688 & 1759 Commerce 37.2 Domestic & personal 32.6 Government 16.3 Housing 14.0 
+1801 38.1 30.9 16.7 14.3 
+Source: derived from Crafts (1985: 16-17). 
+
+========45========
+
+45 
+REFERENCES 
+Allen, R.C. (1994), “Agriculture during the Industrial Revolution”, in Floud, R. and 
+McClosky, D.N. (eds.), The Economic History of Britain since 1700, Second 
+Edition: Volume 1: 1700-1860, Cambridge: Cambridge University Press, 96- 
+122. 
+Allen, R.C. (2005), “English and Welsh Agriculture, 1300-1850: Output, Inputs, and 
+Income”, Oxford. 
+Ashton, T.S. (1959), Economic Fluctuations in England, 1700-1800, Oxford: 
+Clarendon. 
+Backus, D.K. and Kehoe, P.J. (1992), “International Evidence on the Historical 
+Properties of Businesss Cycles”, American Economic Review, 82, 864-888. 
+Beveridge, W.H. (1939), Prices and Wages in England from the Twelfth to the 
+Nineteenth Century, Vol. I, Price Tables: Mercantile Era, London: Longmans, 
+Green. 
+Bogart, D. (2005), “Turnpike Trusts and the Transport Revolution in 18th century 
+England”, Explorations in Economic History, 42, 479-508. 
+Bowden, P.J. (1985), “Appendix III: Statistics”, in Thirsk, J. (ed.), The Agrarian 
+History of England and Wales, Volume V.II, 1640-1750: Agrarian Change, 
+Cambridge: Cambridge University Press, 827-902. 
+Broadberry, S.N., Campbell, B., Klein, A., Overton, M. and van Leeuwen, B. (2010), 
+“British Economic Growth, 1270-1870”, University of Warwick, 
+http://www2.warwick.ac.uk/fac/soc/economics/staff/faculty/broadberry/wp. 
+Broadberry, S.N. and van Leeuween, B. (2010), “The Sectoral Distribution of Output 
+and the Labour Force in Britain, 1300-1870”, University of Warwick. 
+Burns, A.F. and Mitchell, W.C. (1946), Measuring Business Cycles, New York: 
+National Bureau of Economic Research. 
+Chartres, J.A. (1985), “The Marketing of Agricultural Produce”, in Thirsk, J. (ed.), 
+The Agrarian History of England and Wales, Volume V.II, 1640-1750: 
+Agrarian Change, Cambridge: Cambridge University Press, 406-502. 
+Clark. G. (1991), “Labour Productivity in English Agriculture, 1300-1860”, in 
+Campbell B.M.S and Overton, M. (eds.), Land, Labour and Livestock: 
+Historical Studies in European Agricultural Productivity, Manchester: 
+Manchester University Press, 211-235. 
+Clark, G. (2004), “The Price History of English Agriculture, 1209-1914”, Research in 
+Economic History, 22, 41-125. 
+Clark, G. (2005), “The Condition of the Working Class in England, 1209 to 2004”, 
+Journal of Political Economy, 113, 1307-1340. 
+
+========46========
+
+46 
+Clark, G. (2007), “The Long March of History: Farm Wages, Population and 
+Economic Growth, England 1209-1869”, Economic History Review, 60, 97- 
+135. 
+Clarkson, L.A. (1989), “The Manufacture of Leather”, in Mingay, G.E. (ed.), The 
+Agrarian History of England and Wales, Volume VI: 1750-1850, Cambridge: 
+Cambridge University Press, 466-483. 
+Crafts, N.F.R. (1976), “English Economic Growth in the Eighteenth Century: A Re- 
+examination of Deane and Cole’s Estimates”, Economic History Review, 29, 
+226-235. 
+Crafts, N.F.R. (1985), British Economic Growth during the Industrial Revolution, 
+Oxford: Oxford University Press. 
+Crafts, N.F.R. and Harley, C.K. (1992), “Output Growth and the Industrial 
+Revolution: A Restatement of the Crafts-Harley View”, Economic History 
+Review, 45, 703-730. 
+Crafts, N.F.R., Leybourne, S.J. and Mills, T.C. (1989), “Trends and Cycles in British 
+Industrial Production, 1700-1913”, Journal of the Royal Statistical Society, 
+Series A, 152, 43-60. 
+Deane, P. (1968), “New Estimates of Gross National Product for the United Kingdom 
+1830-1968”, Review of Income and Wealth, 14, 95-112. 
+Deane, P. and Cole, W.A. (1967), British Economic Growth, 1688-1959, Second 
+Edition, Cambridge: Cambridge University Press. 
+Feinstein, C.H. (1972), National Income, Expenditure and Output of the United 
+Kingdom, 1855-1965, Cambridge: Cambridge University Press. 
+Feinstein, C.H. (1988), “National Statistics, 1760-1920: Sources and Methods of 
+Estimation for Domestic Reproducible Fixed Assets, Stocks and Works in 
+Progress, Overseas Assets, and Land”, in Feinstein, C.H. and Pollard, S. 
+(eds.), Studies in Capital Formation in the United Kingdom, 1750-1920, 
+Oxford: Oxford University Press, 257-471. 
+Feinstein, C.H. (1998), “Pessimism Perpetuated: Real Wages and the Standard of 
+Living in Britain during and after the Industrial Revolution”, Journal of 
+Economic History, 58, 625-658. 
+Gayer, A.D., Rostow, W.W. and Schwartz, A.J. (1953), The Growth and Fluctuation 
+of the British Economy, 1790-1850, Oxford: Oxford University Press. 
+Ginarlis, J. and Pollard, S. (1988), “Roads and Waterways, 1750-1850”, in Feinstein, 
+C.H. and Pollard, S. (eds.), Studies in Capital Formation in the United 
+Kingdom, 1750-1920, Oxford: Oxford University Press, 182-224 
+
+========47========
+
+47 
+Harley, C. K. (1982) “British Industrialization Before 1841: Evidence of Slower 
+Growth During the Industrial Revolution”, Journal of Economic History, 42, 
+267-289. 
+Harley, C. K. (1988) “Ocean Freight Rates and Productivity, 1740-1913: The Primacy 
+of Mechanical Invention Reaffirmed”, Journal of Economic History, 48, 851- 
+876. 
+Hodrick, R.J. and Prescott, E.C. (1997), “Postwar U.S. Business Cycles: An Empirical 
+Investigation”, Journal of Money, Credit and Banking, 29, 1-16. 
+Hoffmann, W.G. (1955), British Industry 1700-1950, Oxford: Blackwell. 
+Holderness, B.A. (1989), “Prices, productivity, and Output”, in Mingay, G.E. (ed.), 
+The Agrarian History of England and Wales, Volume VI: 1750-1850, 
+Cambridge: Cambridge University Press, 84-189. 
+Horrell, S., Humphries, J. and Weale, M. (1994), “An Input-Output Table for 1841”, 
+Economic History Review, 47, 545-566. 
+John, A.H. (1989), “Statistical Appendix”, in Mingay, G.E. (ed.), The Agrarian 
+History of England and Wales, Volume VI: 1750-1850, Cambridge: 
+Cambridge University Press, 972-1155. 
+King, P. (2005), “The Production and Consumption of Bar Iron in Early Modern 
+England and Wales”, Economic History Review, 58, 1-33. 
+Lee, C.H. (1986), The British Economy since 1700: A Macroeconomic Perspective, 
+Cambridge: Cambridge University Press. 
+Lindert, P.H. and Williamson, J.G. (1982), Revising England’s Social Tables 1688- 
+1913”, Explorations in Economic History, 19, 385-408. 
+Matthews, R.C.O. (1954), “The Trade Cycle in Britain, 1790-1850”, Oxford 
+Economic Papers, 6, 1-32. 
+Mitchell, B.R. (1988), British Historical Statistics, Cambridge: Cambridge University 
+Press. 
+O'Brien, P. K. (1985), “Agriculture and the Home Market for English Industry, 1660- 
+1820”, English Historical Review, 100, 773-800. 
+Overton, M. (1996), Agricultural Revolution in England: The Transformation of the 
+Agrarian Economy 1500-1850, Cambridge: Cambridge University Press. 
+Overton, M. and Campbell, M.S. (1996), “Production et productivité dans 
+l’agriculture anglais, 1086-1871”, Histoire et Mesure, XI-3/, 255-97. 
+Overton, M., Whittle, J., Dean, D. and Haan, A. (2004), Production and Consumption 
+in English Households, 1600-1750, London: Routledge. 
+
+========48========
+
+48 
+Pearson, R. (2004), Insuring the Industrial Revolution: Fire Insurance in Great 
+Britain, 1700-1850, Aldershot: Ashgate. 
+Perren, R. (1975), “The Meat and Livestock Trade in Britain, 1850-70”, Economic 
+History Review, 28, 385-400. 
+Pollard, S. (1980), “A New Estimate of British Coal Production, 1750-1850”, 
+Economic History Review, 33, 212-235. 
+Pressnell, L.S. (1956), Country Banking in the Industrial Revolution, Oxford: 
+Clarendon. 
+Prince, H.C. (1989), “The Changing Rural Landscape, 1750-1850”, in Mingay, G.E. 
+(ed.), The Agrarian History of England and Wales, Volume VI: 1750-1850, 
+Cambridge: Cambridge University Press, 7-83. 
+Ravn, M.O. and Uhlig, H. (2002), “On Adjusting the Hodrick-Prescott Filter for the 
+Frequency of Observations”, Review of Economics and Statistics, 84, 371-375. 
+Rostow, W.W. (1972), “Cycles in the British Economy: 1790-1914”, in Aldcroft, 
+D.H. and Fearon, P. (eds.), British Economic Fluctuations 1790-1913, 
+Basingstoke: Macmillan, 74-96. 
+Schofield, Roger (1994), “British population change, 1700-1871”, in Floud, R. and 
+McClosky, D.N. (eds.), The Economic History of Britain since 1700, Second 
+Edition: Volume 1: 1700-1860, Cambridge: Cambridge University Press, 60- 
+95. 
+Schumpeter, E.B. (1960), English Overseas Trade Statistics, 1697-1808, Oxford: 
+Clarendon. 
+Thorold Rogers, J.E. (1886-1902), A History of Agriculture and Prices in England, 
+Volumes 3-7, Oxford: Clarendon Press. 
+Turner, M.E. (1998), “Counting Sheep: Waking up to New Estimates of Livestock 
+Numbers in England”, Agricultural History Review, 46, 142-161. 
+Turner, M.E., J.V. Beckett, and B. Afton (2001), Farm Production in England 1700- 
+1914, Oxford and New York: Oxford University Press. 
+Wrigley, E.A., Davies, R.S., Oeppen, J.E. and Schofield, R.S. (1997), English 
+Population History from Family Reconstitution, 1580-1837, Cambridge: 
+Cambridge University Press. 
+Wrigley, E.A. and Schofield, R.S. (1989), The Population History of England, 1541- 
+1871: A Reconstruction, Cambridge: Cambridge University Press. 
+
+========49========
+

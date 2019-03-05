@@ -1,0 +1,1051 @@
+September 2012 
+                No.98 
+Business Training and Female Enterprise Start-up, Growth  
+and Dynamics: Experimental evidence from Sri Lanka 
+Suresh de Mel, David McKenzie and Christopher Woodruff 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Business Training and Female Enterprise Start-up, Growth, and Dynamics:  
+Experimental evidence from Sri Lanka* 
+Suresh de Mel, University of Peradeniya 
+David McKenzie, World Bank 
+Christopher Woodruff, University of Warwick 
+June, 2012 
+Abstract 
+We conduct a randomized experiment  among women in urban Sri Lanka to measure the impact  of  the most  commonly  used  business  training  course  in  developing  countries,  the Start-and- Improve Your Business (SIYB) program. We work with two representative groups of women: a  random sample of women operating subsistence enterprises and a random sample of women who  are out of the labor force but interested in starting a business. We track impacts of two treatments  – training only and training plus a cash grant – over two years with four follow-up surveys and  find  that  the  short- and  medium-term  impacts  differ. For  women  already  in  business, training  alone leads to some changes in business practices but has no impact on business profits, sales or  capital stock. In contrast the combination of training and a grant leads to large and significant  improvements in business profitability in the first eight months, but this impact dissipates in the  second year. For women interested in starting enterprises, we find that business training speeds  up entry  but  leads  to  no  increase  in  net  business  ownership  by  our  final  survey  round.  Both  profitability  and  business  practices  of  the  new  entrants  are  increased  by  training,  suggesting  training may be more effective for new owners than for existing businesses. We also find that the  two  treatments  have  selection  effects,  leading  to  entrants  being  less  analytically  skilled  and  poorer.  
+Keywords: Business training; female self-employment; randomized experiment; business start- up; trajectory of treatment effects. 
+JEL codes: O12, J16, L26, M53.  
+                                                            
+* 
+We thank the World Bank’s Gender Action Plan and Research Support Budgets for funding for this project, and  the CAGE Centre at the University of Warwick for providing a part of Woodruff’s time, Matthew Groh for valuable  research assistance, and Alan de Brauw and various seminar audiences for helpful comments. For logistical support  on  the  project,  we  thank  the  Sri  Lankan  Business  Development  Council  for  delivering  the  training  program  and  especially the Kandy Consulting Group Pvt) Ltd for (once again) providing exceptional service conducting baseline  and follow-up surveys and providing logistical assistance in the implementation of treatments.  
+1 
+
+========2========
+
+1. Introduction 
+Self-employment accounts for a large share of female employment in most developing  countries,  and  it  is  considered  an  important  avenue  for  women’s  economic  empowerment.  However, the majority of female-owned enterprises are small in scale with commensurately low  earning  levels  (Kevane  and  Wydick,  2001;  Banerjee  and  Duflo  2008;  de  Mel  et  al,  2009a).  Moreover, in much of South Asia and the Middle East, the majority of women remain out of the  labor force. These facts frame the central question addressed in this paper: Can business training,  by itself or combined with a grant, raise the income of women in self employment? We examine  this question in two different samples of women in urban Sri Lanka. One group was engaged in  low-earning self-employment activities at baseline, and the other was out of the labor force but  contemplating re-entering. For the first group, we examine the effect of training on income, and  for the second, the effect of training on the decision to re-enter the labor force, and the earnings  and type of job (wage work vs. self-employment) conditional on re-entry.  
+In  previous  experiments  in  Sri  Lanka  (de  Mel  et  al,  2008,  2009a)  and  in  Ghana  (Fafchamps  et  al,  2011)  we  have  found  that  physical  capital  alone is  not  enough  to  raise  the  incomes  of  subsistence-level  female  businesses.  One  reason  for  this  is  that  labor  market  imperfections may draw women with low levels of business skills into self-employment rather  than wage work (Emran et al, 2007). These women may have a very low optimal efficient scale.  A  common  policy  response  is  to attempt  to improve  the skill level  of  these  women  through  business  training.  As  a  result,  business  training  programs  have  been  widely  used  as  a  development policyfor more than 30 years. 
+We evaluate the impact of the most common training course in developing countries, the  International  Labor  Organization  (ILO)’s  Start-and-Improve  Your  Business  (SIYB)  program.  Using  a randomized design,  we test  whether  the  impact  of  training  alone  differs  from  that  of  training coupled with access to capital in the form of a grant. We work with two samples. The  first sample consists of 624 women operating a business at the time of the project baseline and  earning an income of less than $2 per day.1 The second sample consists of 628 women who were  
+out of the labor force at baseline, but who expressed interest in starting a business within the next  
+year.  We  refer  to  the  first  sample  as  “current  business  owners”  and  the  second  as  “potential  
+                                                            
+1 
+We describe the manner in which the sample was selected below. The median earnings in this sample was 4000  Sri Lanka Rupees (Rs), or just over $1 per day. About 7 percent of the sample reported income the previous month  above 7000 Rs, which is about $2 per day.  
+2 
+
+========3========
+
+business owners.” Each sample is randomized into three groups:  a control group, a group invited  to attend training, and a group invited to receive training and a grant of around $130 conditional  on  completing  training.  Individuals are not told  whether  they are  eligible  to receive  the  grant  until the completion of training, so that the grant does not differentially alter the composition of  who attends training between the two groups. 
+Among the sample of current business owners, we find that training alone leads to some changes  in  business  practices, but has  no effect on  business  profits,  sales  or  capital  stock.  In  contrast  the  combination  of  training  and  a  grant  leads  to  large  and  significant  short-run  improvements in business performance for the current enterprises, but these gains appear to have  dissipated two years after completion of the training.  
+Among  the  sample  of  potential  business  owners,  training – and  especially  training  combined with a grant – speeds up the process of starting a business and has longer-term effects  on the type of women who enter. Women assigned to either training treatment are more likely to  be operating a business four months and eight months after the training course, but this entry  effect disappears 16 months after training. Instead, later surveys show that training – either with  or without the grant – causes women with lower initial analytical ability to open a businesses; the  combination of training and the grant leads to entry by women with lower levels of household  assets at baseline. Even with these selection effects, we find that the potential entrants assigned  to training have higher  profits and better management practices two  years after completion of  training. Business training therefore appears to enable more successful businesses to be started. 
+This  study  contributes  to  an  existing  and  concurrent  literature  of business  training  experiments with women (or with men and women) in developing countries. Examples include  Field et al. (2010) in India,  Karlan and Valdivia (2011) and Valdivia (2011) in Peru, Drexler et  al. (2011) in the Dominican Republic, Berge et al. (2011) in Tanzania, Bruhn and Zia (2011) in  Bosnia-Herzegovina, and Gine and Mansuri (2011) in Pakistan. These studies typically involve microfinance clients – most of them existing business owners – whose progress is evaluated by a  single follow-up survey measuring outcomes six months to one year after training. The stylized  finding is that training leads to improvements in business practices, but no detectable effects on  profitability or employment, with Karlan and Valdivia (2011) and Drexler et al. (2010) finding  some evidence to suggest training helps improve sales in bad weeks or bad months, even if there  is no impact on the average month. 
+3 
+
+========4========
+
+Our  study  builds  on  and  differentiates  itself  from  this  extant  literature  in  several  key  respects. First, ours is the only study of which we are aware of to consider the impact of business  training on a general population of female business owners, and on potential business owners,  rather than solely on existing microfinance clients. This is important for generalizability, as well  as for understanding the potential demand for such training among people who are not implicitly  or explicitly compelled to participate by their lender. Second, our intervention employs the ILO’s  SIYB program, which has been used to train over 4.5 million people in more than 95 countries  worldwide.  While  the  content  of  many  of  the  training  courses  used  in  other  studies  appears  similar in broad terms, each has some element of customization that makes comparability across  studies  difficult.  Given  that  the  SIYB  program  is  the  most  widely  applied  microenterprise  training  program,  evaluating  its  effectiveness  is  of  particular interest.  Third,  we  measure  outcomes at four points in time post-training over the course of two  years. This enables us to  examine the trajectory of impacts, which turns out to be very important in practice, especially for  potential business owners for whom we would infer very different impacts of the training in the  short-term vs. medium-term.   Finally,  the use  of  grants  along  with  training  enables  us  to  test  whether the impact of business training differs with access to capital.2 
+The remainder of the paper is structured as follows: Section 2 describes the sample and  
+randomization procedure; Section 3 the co ntent of the training and determinants of training take - up; Section 4 provides a simple model for thinking about how training and grants might affect  
+the  selection  of  who  operates  a  business;  Section  5  provides  our  main  results;  and  Section  6  
+concludes. 
+2. Context, the sample and randomization  
+The urban labor force participation rate for women aged 20 to 40 in Sri Lanka was 38  percent in 2009, compared to rates over 90 percent for prime-aged men (Department of Census  and Planning, 2010). Twenty-eight percent of women in paid work were self-employed, mostly  in small  and  marginally  profitable enterprises.  Our  own  representative  survey  of  795  female  enterprises in 2008 in the 31 largest urban areas found median profits of only 5000 Rs per month  
+                                                            
+2 
+Berge  et  al.  (2010)  also  consider  the  impact  of  training  plus  grants.  However,  their  sample  is  of  microfinance  clients, who may be less credit constrained in the first place, and the grants they give average only approximately 20  percent of monthly profits (compared to 375% of mean monthly profits in our case), making it unlikely that the  grants they give are sufficiently large to have an effect (and they find none). 
+4 
+
+========5========
+
+(US$43),  and  showed  that  only  5  percent  of  female  firms  had  any  paid  workers.  The  most  common activities, accounting for 40 percent of the women earning below the median profits, are female-dominated industries of apparel manufacture (sewing) and processed food production  sold  in local  markets.    Given  this  context,  our  goal  was  to  investigate  the  effectiveness of  business training to increase female labor force participation rates and to raise the income levels  of  low-earning  women  already  in  business.  The  first  step  in  this  process  therefore  involved  putting together samples of these two groups. 
+2.1 Generating a sample 
+In selecting the sample we balanced the goals of creating a representative sample with logistical concerns. We chose to sample in the two largest urban areas in Sri Lanka – greater  Colombo and greater Kandy.3 Within  each of  the two urban areas we  selected 5 D.S. divisions in  urban and semi -urban areas. We located a training venue in  each  of the ten D.S. Divisions, thus  minimizing the required travel time for project participants.  Within each D.S. divisi on we  then  conducted  a  door -to -door screening exercise  in  selected  G.N.  Divisions. 
+4 
+The  short  screening  survey gathered employment informat ion on females aged 25 to 45 living in the household. 
+For  self -employed  women,  our  screening  survey  identif ied women  who  worked  more  than  20  hours  per  week  in  self -employment,  were  involved  in  a  sector  other  than  seasonal  
+agriculture or fisheries, and had  monthly profits of 5000 Rs or less (the median in the general  
+population of female self -employed). We refer to this as our  current business owner sample. 
+The second group of interest was women who were out of the labor force, but who were  likely  to  enter  the  labor  force  within  the  next  year.  For  females  out  of  the  labor  force  and  between 25 and 45 years of age, the screening survey asked directly whether the woman planned  to enter self employment in the next year, as well as the nature of the business that she planned to  start. As a signal of seriousness of intent, we sampled only women who were able to identify the  type of business that they planned to start. Since the ability to participate in full-day business  training program was important for the proposed intervention, respondents were also asked about  the availability of child care for any children younger than five years of age. Those with children  
+                                                            
+3 
+The project area includes seven of Sri Lanka’s 25 districts: Colombo, Kalutara, Gampaha, Kandy, Matale, Kegalle  and Kurunegala. 
+4 
+The G.N.  Division  is  the  smallest  of  the four  administrative  levels  in  Sri  Lanka:  Provinces  (9),  Districts  (25),  Divisional Secretariat (DS) Divisions (324), and Grama Niladari (GN) Divisions (14,008). 
+5 
+
+========6========
+
+under five years of age were included in the sample only if they had access to other arrangements  for child care. We refer to this as our potential business owner sample.  
+Based on this screening exercise, we selected a sample of 628 current business owners and 628 potential business owners. This sample was stratified to take approximately 63 of each  type in each D.S., in order to have equal sized groups at each training location. A baseline survey  of these 1256 individuals was conducted in January 2009. (See timeline in Figure 1.) 
+Table 1 provides summary statistics on the two subsamples. The current business owner sample consists of women in a wide range of industries typical of female self-employment in Sri  Lanka,  such  as  tea  (snack)  shops,  beauty  shops,  bag  and  mat  manufacturing,  tailoring  and  sewing, selling fruit  and  vegetables or groceries,  making  and  selling  lunch  packets  and  string  hoppers, baking cakes, and flower shops. The typical owner in our sample is 36, married, with ten years of schooling, and has been running the business for just over six years. Mean monthly  business income is around 4000 Rs (US$34, or around a dollar a day at market exchange rates),  and constitutes about one-quarter of total household income for the median and mean business owners. At baseline few enterprises were implementing the types of business practices taught in  the SIYB training program. Our business practices index measures the marketing, costing and  record-keeping,  stock  control,  and  financial  planning  practices  used  in  the  firm,  with  higher  scores indicating better management practices (see appendix 1). The mean firm has a baseline  score of only  4.6 out of a possible 29. Only 17 percent of firms keep  written records, only 4  percent had done any advertising in the last six months, only 9 percent have a sales target for the  next year and only 3 percent had made a budget of what costs are likely to be over the next year. 
+Only 18 percent of these current business owners reported ever having had any form of  business training, and the majority of this was technical training. Fewer than 4 percent of owners  had  ever  taken  a  training  course  which  covered  record-keeping,  marketing,  customer  and  supplier relations, or management of employees.  
+Among  the  potential business  owners,  only  18  percent  have  never  worked  before,  but  only 8 percent have previously engaged in self-employment. Half of them claim to have taken  concrete steps towards opening a business in the past year. These women are about two years  younger on average than the current business owners, but are otherwise similar in many respects.  In particular, the potential and current business owners have similar levels of education, similar  cognitive ability (as measured by digitspan recall and raven tests), similar attitudes towards risk,  
+6 
+
+========7========
+
+and  similar  numbers  of  children  on  average.  The  household income  of  the  potential  business  owners is about 1100 Rs less per month than the households of current business owners, and they  are a bit less likely to own refrigerators or sewing machines. In terms of household assets that  could potentially also be used for business purposes, 53 percent live in households with a sewing  machine and 41 percent in households with a refrigerator, but only 25 percent have a gas cooker  and only 7 percent an oven. 
+2.2 Randomization into treatment and control groups 
+Our  goal is  to  determine  the  impact of  business  training  for  these  women,  and  to  see  whether this training has more effect when coupled with a capital grant. We therefore randomly  selected  400  current owners and  400  potential owners to  be  offered  business  training; half  of  these were pre-selected to receive a grant of 15,000 Rs (US$129) conditional on finishing the  training. We wanted to use the possibility of receiving a grant as an incentive to attend training  but did not want the selection of people into training to be affected by the grant. Therefore at the  time  of  offering  the  business  training,  individuals  were  told  only  that  half  of  those  who  completed the training (evidenced by receiving the training completion certificate which requires  80% attendance) would be randomly chosen to receive a 15,000 Rs grant. 
+For the current owners, we dropped four enterprises with either missing profits or profits  above 10,000 Rs.5 Randomization to treatment was then stratified by D.S. (10) and by whether or  
+not  there  were children  under age 18  for  whom there  was no other person to look after  them  while the mother worked (54%). Within each stratum we then formed triplets of firms on the  basis of baseline p rofits, and randomly allocated two out of three firms in each triplet to receive  training,  and  one  of  these  two  to  get  a  grant  conditional  on  completing  training,  subject  to  a  
+quota of 40 firms per D.S.  being chosen to be offered tr aining. 
+6 
+For  the  potential  business  owners ,  in  addition  to  D.S.,  we  stratified  on  whether  or  not  
+they had taken any steps in the past year towards starting a business (50% said they had), and  
+whether they had never worked at all before, even as an unpaid f amily worker (18% had not).  
+                                                            
+5 
+The screening survey asked about profits in a “normal” month, while the baseline survey asked about profits in a  specific month. All women in the sample had stated that their profits were below 5000 Rs in the screening survey, but 17% of these reported profits above 5000 Rs in the more detailed baseline survey referring to December 2008.  Most of these were in the 5000-7000 Rs range.  
+6 
+This form of randomization is done to increase power (see Bruhn and McKenzie, 2009). We then always control  for the randomization strata in our analysis. 
+7 
+
+========8========
+
+Within the 38 non-empty stratum we then randomly allocated one-third  to training only, one- third to training with a grant conditional on completion, and one-third to control, again subject to  a quota of 40 firms per D.S. getting chosen to be offered training. 
+Randomization was done by the authors by computer, so any differences are due to pure  chance. Table  1  shows  that  randomization  succeeded  in  generating  groups  with  similar  observable characteristics.  
+3.  The training and take-up 
+3.1 Training content 
+The  training  program  we  use  is  the  International  Labour  Organization  (ILO’s)  Start  and  Improve Your Business (SIYB) program. This program is designed to meet the needs of small- scale entrepreneurs in developing countries, and started in Eastern Africa in 1977 (ILO, 2003).  More than 4.5 million people in 95 countries have participated in SIYB training.7 In each country  the materials are custom ized to local languages and context. We use the three main packages in  
+the SIYB program:  
+Generate Your Business (GYB) is a three day training course designed to help potential  entrepreneurs decide if they should start a business, to generate feasible business ideas,  and to choose the best idea from among this set of choices. 
+Start Your Business (SYB) training works with potential entrepreneurs who want to start  their own business and already have a feasible business idea. The training is a five day  course covering the main aspects of starting a business, including selection of products  and pricing, organization of staff, purchasing of equipment and other inputs needed to get  started, and financial planning. Participants produce a business plan that they can use as a  step-by-step guide to starting their business. 
+Improve Your Business (IYB) is a five day course which trains existing business owners  who want to develop their business. The modules covered are marketing, buying, costing,  stock control, record keeping, and financial planning.   
+In addition to these core modules, we added one day of training of a more technical nature.  The purpose of this was to provide exposure to some relatively high-return sectors in which it is  
+                                                            
+7 
+See: http://www.ilo.org/empent/areas/start-and-improve-your-business/WCMS_159435/lang--fr/index.htm.  
+8 
+
+========9========
+
+perceived  to  be  socially  acceptable  for  women  in  Sri  Lanka  to  work.  These included  food  manufacturing,  beauty  culture  (hair  dressing,  beauty  treatments  and  bridal  dressing),  sewing  clothes,  plant  nursery,  and  soap  manufacturing.  Based  on  participant  interest,  at  least  two  of  these modules were offered at each training location and participants could select their preferred  technical  training  option.    The most  popular  choices  were food  manufacturing  (40%),  sewing  clothes (26%) or beauty culture (17%).  
+We  contracted  the  Sri  Lanka  Business  Development  Centre  (SLBDC),  a  Sri  Lankan  non- profit  training  institution  established  in  1984,  to  provide  the  business  training.8 SLBDC  introduc ed the  SIYB  program  to  the  Sri  Lankan  market  in  2001,  and  is  a  leading  partner  
+organization of this program. At the time of our intervention  SLBDC had eight years experience  delivering  SIYB to the local market.  All of the SLBDC train ing staff involved in the project we re  university qualified and  trained under the national -level SIYB t rainin g programs conducted by  the ILO. A s such, they are all certified by the  SIYB Association of Sri Lanka  as SIYB Trainers.  Each had  a minimum of five years experience deliveri ng SIYB training . Therefore , any failure to  find impacts should not be due to low quality trainers or inexperience with the materials.  
+Th ose selected  for  training  were  sent  a  letter  explaining  the  details  of  the  course  and  the  
+offer. Project staff also visited them in -person visit and made phone calls to make sure they had  
+received  and  understood  the  training  offer.  The  potential  owners  were  of fered  a  package  consisting of the GYB and SYB courses, followed by the technical training. The resulting course  
+was  nine days, with seven hours of instruction per day. The current business owners were offered  a  package  consisting  of  a  compacted  refresher  GYB  course  to  help  them  think  about  new  products  they  might  offer or  sectors  they  might  work  in,  followed  by  the  IYB  course  and  technical  training.  Overall  to  they  received seven days  of  training,  with  seven hours  of  instruction per day. The training locations were very central and easy to find within each D.S.,  and close to public transport routes.  
+The cost of the training to us was between $126-$131 per current business owner and $133- $140  per  potential  business  owner.  The  training was  offered  to  participants  for  free,  which  mimics  the  approach  used  by  many  NGOs  and  microfinance  institutions.  In  the  baseline, participants were asked their interest in subsidized business training and the amount they would  be willing to pay to attend a general business training course. The majority (89% of potentials,  
+                                                            8 
+http://www.slbdc-lk.org/ 
+9 
+
+========10========
+
+80%  of  current)  said  they  were  interested,  but  the  expressed  willingness  to  pay  was  low:  the  median was 500 Rs for both groups, and 82% of potentials and 85% of current business owners  said  the  most  they  would  pay  would  be  1000  Rs  or  less.  Since  we  did  not  use  an  incentive- compatible  revelation  mechanism,  this  could  well  be  an  understatement  of  true  willingness  to  pay. But it is still notable in that even the 80th percentile response is an order of magnitude lower  than what the market cost of the training. 
+Most existing evaluations of business training programs have targeted microfinance clients.  Since  group  members  meet  regularly,  and  since  the  training  is  something  that  their  lending  organization  often  explicitly  encourages  them  to do,  such  experiments  are  typically  able  to  achieve  quite  high  take-up  of  the  training  offered. Whether  the  average  potential  or  existing  business owner will show up for training if offered is a much more open question. 
+We began by offering the training to an initial group of 40 of the potential enterprises in two D.S.  locations.  This  offer  did  not mention  the  cash  grants  at  all  (since  they  were  still  being  finalized at the time). Participants were told the training was free, and that they only needed to  pay  transportation  costs  to  the  nearby  training  venues.  Only seven out  of  the  40  women  who  were offered this training showed up on the first day. The remainder gave reasons such as illness,  no one to look after their children, or lack of interest.  We therefore revised our offer to include a  400 Rs per day attendance payment to cover the cost of basic transport (estimated at 50 Rs per  day)  and  the  opportunity  cost  of  attending.  We explained this in  personalized  visits  to  each  individual in the treatment group. After finalizing our financing for the grants, we also told the  treated sample that half of those completing training would be randomly chosen for a 15,000 Rs  grant. This information was then provided to all individuals in this first training group, and to individuals selected for later training groups as well.9 
+3.2 Take-up of Training 
+Training took place in April and May 2009 and the cash grants were dispersed in June  2009. There was very little drop-out among those who began the courses, and take-up rates were  similar  among  the  potential  and  current  groups.  Overall, 282  of  the  400  potential  business  
+                                                            
+9 
+The potential business owners in this training group were later offered a second chance to attend training with  the per diem payment and the understanding that half of those completing the training would receive a grant. The  rates of take-up in the two D.S. Divisions involved in the first training offer do not appear to have been affected  significantly.  
+10 
+
+========11========
+
+owners (70.5%) offered training attended at least one training session, and 261 (65.3%) received  completion certificates. Among the 400 current business owners offered training, 279 attended at  least one session (69.8%) and 268 individuals (67.0%) received completion certificates.  
+We asked those who did not attend the main reason for their absence. The most common  answer among current business owners was that they or a family member was sick (25%), or that  they had no one to look after their business (17%) or their children (16%). Only 4.5% said they  did not think the training would be valuable and 3.6% said they could not get transport to the  location. Among the potential owners, the most common answers for not attending were again  sickness of themselves or a family member (23%), not finding anyone to look after their children  (20%), and having to help children with school work (17.6%), with less than 1% reporting it was  due to transportation issues, to not thinking the training would be valuable, or to changing their  mind about wanting to start a business. One should treat these responses with some skepticism,  since people who are not interested may think it is easier to just say they were sick or had to look  after others than to say they weren’t interested. We therefore turn to probit analysis of take-up.    
+The first three columns of Table 2 examine which current owners attended the training  amongst  those receiving  the offer.  Column  1  shows  married  and  more  educated  women, and  those  running  younger  firms,  were  more  likely  to  attend  the  training.  Contrary  to  our  prior  expectation, having no one else to care for  young children is not significantly associated with  attendance. Owners of manufacturing and retail firms were more likely to attend than services  firms.  Baseline  business  practices  do  not  predict  take-up, and  there  is  no  association  between  baseline elicited willingness to pay for such training and actual attendance. The opportunity cost  of time seems to matter: women earning higher profits at baseline are less likely to attend, as are  women working more than 40 hours per week, and those from wealthier households. Column 2  then adds controls for being in Colombo or Kandy (urban) districts, while Column 3 adds fixed  effects at the D.S. level for the 10 D.S.s. Only 34 percent of those invited completed training in  central Colombo,  compared  to  69  to  80  percent  completion  rates  in  the  other  districts.  These  Colombo  firms  earned  higher  profits.  Controlling  for  district  fixed  effects  eliminates  the  predictive effect of profits, but does not change the size or significance of the other variables.  
+The last three columns of Table 2 examine take-up of training for potential owners. We  find that take-up increases with the age of the woman, and with the score on a Raven non-verbal  reasoning test.  But take-up is unrelated to household wealth, expressed  willingness to pay for  
+11 
+
+========12========
+
+training,  marital  status,  or  willingness  to  take  risks.  As  with  existing  enterprises,  take-up  is  lowest in Colombo. 
+In both qualitative interviews and direct survey questions, those who attended appeared  satisfied with the course. Among current enterprise owners surveyed in round two who had taken  the  course,  78 percent said  they  would  strongly  recommend,  and  17  percent said  they  would  somewhat recommend, the course to a friend currently running a business; 86 percent said that  the  course  was  more  helpful  than  they  had  expected.  Similarly, 81 (17)  percent of  potential  owners said  they  would  strongly  (somewhat)  recommend  the  training to  someone  starting  a  business, and 85 percent said it had been more helpful than they had expected.  
+3.3 Follow-up surveys 
+Four  rounds  of  follow-up  surveys  were  conducted  in  September  2009,  January  2010,  September 2010, and June 2011 - corresponding to 3-4 months, 7-8 months, 15-16, and 24-25 months after the training. We refer to these as rounds 2, 3, 4 and 5 surveys, respectively. The  follow-up  surveys  asked  detailed  information  about  business  outcomes,  including  the  key  performance measures of business profits in the last month, sales in the last month, and capital  stock (including raw materials and inventories). Business profits were asked directly, following  the recommendations of de Mel et al. (2009b). Nominal values were converted into real values  using  the  Colombo  consumer  price  index. Appendix  3  addresses  the  possibility  that  training  affected how profits were reported; we find that this is not driving any of our results.  
+Overall attrition was low – of the 624 (628) current owners (potential owners) selected  for the experiment, 584 (588) were interviewed in the second round, 591 (587) in the third round,  580 (560) in the fourth round, and 575 (556) in the fifth round surveys. We cannot reject equality  of  attrition  rates  across treatment  groups  by  round  5  for  the  current  enterprises  (p=0.25),  but  attrition rates are slightly lower for the training only group amongst the potential enterprises – a  test  of  equality  of  attrition  rates  by  round  5  has  p-value  of  0.085  for  this  group.  Appendix  2  shows that the results from the sample of potential owners are robust to this attrition. In addition,  in the case of refusals or inability to conduct an interview in the fifth round, proxy reports and  direct observation were used to assess whether or not the owner was running a business, with  information on this outcome available for 97 percent of firms. 
+12 
+
+========13========
+
+As a final point of context, it is worth noting that on May 18, 2009, towards the end of  our training sessions, the Sri Lankan  government formally declared the end of a 25-year civil  war. GDP growth was 8.0 percent in 2010 and 8.3 percent in 2011, the highest growth level since  Sri  Lanka’s  independence.10 Growth  was  widespread  through  manufacturing  and  services.  As  such, our interventions took part in an environment in which the economy was growing and there  may have been possibilities for firms to start-up and/or expand. 
+4.  Theory:  how  might  business  training and  grants affect  who  runs  a  business  and  the  profitability of these businesses? 
+Training and grants may have effects on both the intensive and extensive margins. That  is, they may affect business outcomes conditional on operating a business, and also affect the  likelihood that an individual of a given type operates a business. In thecontext of our project, the  effects  at  the  extensive  margin  are  particularly  likely  in  the  sampleof  potential  entrants.  To  clarify these selection effects, we sketch a simple model of occupational choice.11 
+We  start  by  assuming  that  individuals  are  endowed  with  wealth  A,  and  innate  entrepreneurial ability, θ.  If they pay a start-up cost x(θ), which is declining in θ, they are able to  combine their single unit of labor, capital k, and their ability to produce according to the common  production function  . The production function is assumed to be strictly increasing in both  arguments, and strictly concave. We assume there is no borrowing, so individuals must finance  the start-up cost out of their initial wealth. Individuals not starting an enterprise can earn w as a  wage  worker or  opt  out  of  the  labor  market.  In  the  latter  case,  we  assume  they obtain  wage- equivalent  utility  of  w from  leisure  and  household  production.12 W ealth  not  invested  in  the  business earns return  r, which reflects either the interest rate on savings or the opportunity cost  of funds for household uses. We assume r is low enough that individuals with sufficient wealth  and ability find starting a business worthwhile. Let e denote the entry choice, with e=1 if the individual starts a firm, and e=0 otherwise. The individual chooses e and k to maximize: 
+                                                            
+10http://www.statistics.gov.lk/national_accounts/Press%20Release/PRESS%20NOTE%20%202011%20Annual%20 English.pdf [accessed 23 May, 2012]. 
+11 
+This model is related to that in Lloyd -Ellis and Bernhardt (2000), but one key difference is that we allow not just  
+the start -up cost of operating an enterprise, but also the output produced conditional on opening, to depend on  θ. 12 
+Since we are focused  on the decision of whether or not to operate a business, we abstract from the decision of  
+whether to be in wage work versus exit the labor force. 
+13 
+
+========14========
+
+s.t.  
+Let θ* denote a high-level of ability such that x(θ*)=0, and A* denote a high-level of wealth such  that x(0)=A*. i.e. very high ability individuals can enter with zero wealth, and very high wealth  individuals  can  enter  with  zero  ability.  Assume  also  that  so  that  talented  individuals find it profitable to enter even if they have no wealth, but that  so that  individuals who have no talent and just enough wealth to pay the start-up costs but not buy any  capital k do not want to enter. We assume that the marginal return to invested capital exceeds r  even  for  those  with  zero  ability.  This  implies  that  there  is  a  well  defined minimum  level  of  wealth  A**,  which makes it  worthwhile  to  start  a  firm  with  zero  ability.  A**is  defined  by  
+.  
+Figure  2 shows  the  occupational  choice  by  ability  and  wealth  level. Individuals  with  relatively low levels of wealth or entrepreneurial ability are “no-choice” wage workers- they are  unable to meet the start-up costs of opening a firm, and so must be wage workers (or household  production workers). Workers with an intermediate range of ability and wealth are wage workers  by choice – they can afford to open a business, but find wage or household work more rewarding  given that they do not have sufficient wealth or ability to earn large profits in any business they  would open. Workers with either high wealth and/or high ability become self-employed. 
+Consider then what the model tells us about the impact of business training on business  entry. Suppose business training builds business skills by amount T, so that individuals now only  need talent θ*-T to enter with zero wealth. Moreover, they now need only A1 < A* to be able to  enter with innate talent 0, where x(T)=A1, and would prefer self-employment to wage work when  they have zero innate talent and wealth of at least A2, where  . A2 < A** for two  reasons  – training  reduces  the  entry  cost,  leaving  more  wealth  to  be  invested  as  productive capital, and training increases the earnings at any given level of invested capital. 
+Figure 3 shows that training lowers the innate talent required to start an enterprise. As a  result, we  should expect  training  to  increase  entry  among individuals  whose ability  level was  previously too low given their wealth to start a business. That is, training will induce entry by both relatively poor but high ability individuals (lower right of the shaded area), and relatively  wealthy but low ability individuals (upper right of the shaded area).13 W hether the average innate  
+                                                            
+13 
+If training were offered on a mass scale, then we would need to worry about general equilibrium effects as w age  workers enter self employment. Our sample is dispersed enough that we can safely ignore these effects.  
+14 
+
+========15========
+
+skill level of business owners will rise or fall will depend on the distribution of wealth and ability  in  the  underlying  population. Likewise, giving  individuals  a  cash  grant in  addition  to training  will reduce the initial assets required to start a business, rotating the two curves down so that  they cross the wealth index at lower points. This will draw into business individuals who were  previously too  poor  given  their  abilities. Thus, we  should also expect  the  training  and  grants  combination to  affect the selection of who operates a business.14 
+What  about  individuals  who  would  have  started  businesses  even  in  the  absence  of  
+training?  Initially these individuals would have chosen capital stock  k* such that  
+where  is  the  lagrange  multiplier  which  determines the  individual’s  credit constraint. Now these individuals will choose capital stock k** given by  
+.  Higher  entrepreneurial  skills  reduces  the  start-up  cost, giving  them  more  money  they could invest in either the business or other assets. If capital and skills are complements in  production, then the trainees will wish to invest more, and so k** > k* and the profitability of  these firms who would have started anyway will increase. In contrast, if capital and skills are  substitutes  in  production,  individuals  may  invest  less  capital  in  the  business  and  more  in  the  outside option.  There is then a possibility that profits actually decrease as a result of the training,  though in most cases the net effect of the higher level of effective labor and the lower capital  stock will still result in higher profits.  
+Taken  as  a  whole,  business  training  should  therefore  change  the  selection  among  potential business owners of who open a business. There is some theoretical ambiguity in the  impact of training on average profits for those who do open a business due to the selection effect  and also some uncertainty in the effect for those who would have opened a business anyway.  
+Finally, consider existing firm owners in this context. They have already paid the start-up  cost x, and so business training works only through increasing the productivity of a given capital  stock and by causing the firm to change its optimal capital stock. As with the entrants, if capital  and labor are substitutes for one another it is possible to construct production functions which  
+                                                            
+14 
+The model is a one-period model for simplicity of exposition.  But allowing individuals to save their wage earnings  over multiple periods would not have much effect on the predictions with respect to training and grants. The long - run  impact  on  entry  would be  less  than  the  short-run  impact,  since  credit-constrained  high  ability  individuals  should over time save their wage earnings and enter . As a result, in the longer-term, the impact on entry would come from individuals for whom it is profitable to run a business with skill level  θ+T, but who would prefer wage  work if their skill level is  θ. That is, training should bring into business ownership indiv iduals with relatively low  initial ability levels. 
+15 
+
+========16========
+
+result  in  a  decrease  in  profits  following  the  training.  However,  if  skills  and  capital  are  complements then profits will increase.  
+5. What was the impact of the training and grants? 
+We want to estimate the impact of being assigned to training only, or to training plus a  cash  grant,  on  business  outcome  for  firm  i in  follow-up  time  period  t. We  estimate  the  following Ancova model using the follow-up surveys: 
+       (1) 
+where  
+is  the  baseline  value  of  the  outcome  of  interest,  and  
+is  a  dummy  for  being  in  
+randomization strata s. The Ancova specification includes the lagged outcome variable and so is  possible only for the current enterprises (since potential owners did not have baseline business  outcomes).  Ancova offers  more  power  than  either  difference-in-differences  or  analysis  using  only the follow-up data, especially  when looking at outcomes like microenterprise profits and  sales which are not highly autocorrelated (McKenzie, 2011). We estimate equation (1) round-by- round to determine how the treatment effects vary over time.  
+In addition, we can estimate the average treatment effect over all follow-up rounds.  In  doing so we gain additional power by pooling together several rounds of follow-up surveys. We estimate the following regression: 
+(2) 
+Where q is the number of follow-up surveys, and the  are survey round dummies. Standard  errors are then clustered at the firm level. 
+Estimation of equations (1) and (2) give the intention-to-treat (ITT) effect, which is the  effect of being assigned to receive training only, or being assigned to receive training and cash.  Under the assumption that the offer of training does not affect the outcomes of interest for those  
+16 
+
+========17========
+
+who do not take up the training, we can also estimate the treatment-on-the-treated (TOT) effect – the effect of training for those who take it up. The required assumption seems plausible if we  define take-up as going to at least one training session, but could be violated if we try to measure the  effect  of  finishing  the  training  course,  since  training  may  have  an  effect  on  businesses  of  owners who start training  and drop-out. We therefore look at the TOT for having attended  at  least  one training session.  Since  almost  all  individuals who  attended  at  least  one  session  completed the training, in practice the distinction will not matter much. We estimate the TOT by  instrumenting receipt of some training with assignment to training only, and receipt of training  plus cash with assignment to this treatment. 
+5.1 Impact on the business practices of women who were already in business 
+In Table  3  we  examine whether  the  training  led  to  any  improvements  in  business  practices taught in the course. These practices were measured in the baseline, and again in the  round 2, 4 and 5 surveys. The first three columns show that the use of these practices increased  in both the short-term (3-4 months post training), and medium-term (15-16 months after training and  24-25  months  after  training),  with  the magnitude  of  the increase  similar  at all  follow-up intervals. In the last survey round,  and for all rounds combined, we can reject equality of the  training  and  training  plus  cash  treatments  at  the  10  percent  level,  with  the  improvement in  practices slightly higher for those receiving the training plus grant treatment. 
+The magnitude of the increase is large relative to the low baseline levels, with the TOT  showing an increase of two to three total practices relative to a baseline mean of five practices.  However, given the maximum possible practices score is 29, the treated firms are still clearly a  long  way  from  implementing  all  the  practices  taught  in  the  SIYB  training.  Columns  three through  seven pool  together  the  different  rounds  and  show  that  the  training  programs  significantly  improved  each  subcomponent  of  the  overall  business  practice  score,  with  improvements in marketing, stock control, financial planning, and record-keeping.  
+5.2 Impact on the Business outcomes of existing business owners 
+Eighty-three percent of the current business owners remain in business by the round 5  survey, and we cannot reject that survival is unrelated to treatment status (p=0.37). Moreover, the  treatments do not appear to have affected which firm survived: treatment status is unrelated to  
+17 
+
+========18========
+
+observable characteristics among surviving firms. Although a part of the training was intended to  encourage women to expand into other lines of business, in the round 5 data we find only a small  and statistically insignificant impact of the training or training plus grant on change in product  lines,  introduction  of new  products  or  services,  or  starting a  second  business  since  baseline.15 Given these findings, w e proceed to analyze business outcomes for the group of surviving firms. 
+Table 4 examines whether the improvements in business practices f ollowing the training,  along with the cash  grants , lead to improvements in business outcomes. We examine the impact  of the two treatments on monthly profits (panel A), monthly sales (panel B), and capital stock  
+(including  inventories  and  raw  materials  but  excluding  land  and  buildings ,  panel  C).  Panel  D   examines  changes in hours worked in the business by the owner . For each outcome we first show  the  results  using  all  follow -up  rounds  pooled  together  to  achieve  greatest  power,  and then  examin e the  effects  round -by -round. Profits, sales and capital stock are all noisy variables, and  
+so in addition to showing th e impact on the raw levels in column (1), we use two measures which  
+are less susceptible to outliers. The first, in column (2), involves truncating the data at the 99 
+th percentile of reported levels. The second, in column (3) takes the log of the outcome of interest.  In panel A, we report both the ITT and the TOT for profits. For sales, capital stock, and hours we  just report the ITT estimates. Approximate TOT estimates can be obtained by dividing the ITT by the proportion of firms attending some training (0.70). Finally, Figures 4A and 4B show the  cumulative  distribution  functions  of  profits  by  treatment  status  for  round  2  and  round  5  respectively. These allow us to better assess in which parts of the distribution effects occur. 
+The results show that business training alone does not improve profits, sales, or capital  stock of current firm owners, or change the number of hours the owners spend working in their  businesses. The CDF for profits of the training only group lies almost entirely on top of that of  the control group, and the point estimates of the impact on profit are actually negative in most  survey  rounds.  We  do  not  find  firms  assigned  to  training  only  using  significantly  more,  or  significantly less, capital stock, with the point estimates small relative to the mean. The fact that  profit does not increase suggests the owners are not substituting skills for capital. Instead, they  appear to be using the same amount of capital to generate the same level of sales and profits.  
+                                                            
+15 
+The point estimates are 5.7-6.7 percentage point increases in the likelihood of changing or adding product lines  relative to a control group mean of 16.9 percent. An F-test that the two treatment effects are jointly zero has p-value  0.22, and neither is individually significant at standard significance levels. 
+18 
+
+========19========
+
+These  conclusions  hold in  each  of  the  follow-up  rounds,  suggesting that  this  is  not  a  case  of  training taking time to show impact. 
+In  contrast,  the  combination  of  training  and  the  cash  grant  does  have  positive  and  significant impacts on capital stock, which hold across survey rounds. Truncated capital stock  increases by an ITT of 10,000 Rs, with the TOT for the pooled rounds of 15,357. Thus capital  stock appears to have increased by the same amount as the grant for those who completed the  training  and  received  the  15,000  Rs. There  is  a  significant  increase  in  profits  when  using  the  pooled  sample  with  truncated  or  log  profits.  This  effect  comes from  the  round  2  and  3  data.  However, it appears that this increase in profits is only temporary; the point estimate on profits is  much smaller by the rounds 4 and 5 surveys.16 This is seen also in Figure 4B, where the CDF of  
+profits  in round 5 alm ost on top of that of the other two groups. The sales data are noisier than  
+the  profits  data,  and  we  generally  see  a  positive,  but  not  significant,  impact  on  sales.    Hours  worked are higher in the round 2 survey, but not significantly different from hours  worked in the  control group in subsequent rounds. 
+The combination of tr aining and a grant therefore have immediate  effects  which appear to  dissipate a year later. S ince we wanted to be able to compare the impact of training and cash to  
+that of training alo ne, cash grants are only given to those who completed training. Ex ante it  wa s  not possible to tell who would  complete training , precluding the inclusion of a treatment group  
+receiving  only  cash  conditional  on  being  the  sort  of  person  who  would  complete training  if  offered it.  To learn whether the short -term impact on profits is due just to the cash grants, or to  
+the  combination  of  the  cash  and  training,  we  therefore  re -estimate  the  impact  on  profits,  controlling  directly  for  capital  stock.  Th e  control  for  capital  stock nets  out  both  the  liquidity  effect of the  grant and the effect  of training on  the optimal capital stock that might arise, for  
+example,  through learning about how to access credit, or through re -invest ing profits . Under a  sequential  ignorability assumption (Imai et al, 2010),  controlling for capital therefore give s us a  lower bound on the impact  of  training  among the sample of individuals receiving the grant. 
+Controlling for capital stock reduces the coefficient for the impact of the joint treatment  on truncated profits from 1207 in the pooled sample to 425 (s.e. 544), suggesting that  as much as  two -thirds of the effect is due to the grant. Looking just at the round 2 profits,  the control  for  
+                                                            
+16 
+However, a test of equality of the impact on truncated profits over rounds 2 and 3 and the impact over rounds 4  and 5 has p-value 0.16 (p=0.0998 for log profits), so we can at best marginally reject no decline in profits.  
+19 
+
+========20========
+
+capital  stock  reduces  the  coefficient  on  the  training  /  grant  treatment  from  1758  to  971,  suggesting that as much as half of the initial effect is due to the grant. As a final check, given the  grant was 15,000 Rs, the TOT of 1786 Rs in the pooled sample would represent a monthly return  on the grant of 11.9 percent if the effect was due to the grant alone. This is similar to the return  on  capital found  for  the  average  male  microenterprise  owner  in  Sri  Lanka,  but  considerably  higher than average returns for female business owners found in de Mel et al. (2008, 2009a). It  therefore appears plausible that some of the short-term effect may be due to the combination of  training and the cash grant, rather than just the cash grant alone. However, the fact that this effect  appears  to  only  be  temporary  suggests  that  the  combination  is  speeding  up  convergence  to  a  steady state, but not dramatically changing the trajectory of the enterprise. 
+5.3 Impact on Starting a Business among Potential Business Owners 
+We  now  turn  to  the  potential  business  owner  group.  Table  5  examines  whether  the  treatments  affect  the  likelihood  that an individual  enters self-employment  or  engages in  wage  work during our various survey rounds. We present ITT estimates from a regression of equation  (1)  with  self-employment  as  the  dependent  variable  (and  no  lagged  dependent  variable  since  none of this group operated a business at baseline), and TOT estimates instrumenting receipt of  the treatment with random assignment. 
+We see that 38 percent of the control group operates a business at the time of the round 2  survey, increasing to 56 percent by the round 4 survey and 57 percent by the round 5 survey. This high rate of start-ups may reflect both the screening of our sample, and the rapid growth of  the economy during this period, improving the environment for starting a new business. 
+The  combination  of  cash  and  training  results in  a  29 percentage  point  increase  in  the  likelihood of running a business in round 2 for those treated, and a 20 percentage point increase  in the likelihood in round 3. But the gap closes completely in rounds 4 and 5. This suggests that  the treatment sped up entry markedly, but had no longer term effect. Those receiving the cash  and  training  treatment are 10 percentage  points  more  likely  to  have  opened  a  business at  any  point since baseline, and 9 percentage points more likely to have opened a business and then  closed it – with these two effects netting out to give the near zero  and insignificant effect on  round 5 business ownership. 
+20 
+
+========21========
+
+Training alone leads to a smaller, but still significant, 12 percentage point increase in the   business ownership rate in round 2 for those attending training. The impact falls in magnitude  and loses statistical significance in the subsequent survey rounds. The last columns show that the  higher incidence of self-employment in rounds 2 and 3 comes in part from a lower incidence of  wage work for both treatment groups. As with self-employment rates, however, by rounds 4 and  5 there is no significant difference in wage employment rates by treatment status. 
+The treatments therefore seem to have sped up entry into business ownership, but had no long-term impact on ownership rates. But our model predicts that in addition to affecting the rate  of  ownership,  training  and  grants  should  also  affect  the  selection  of  who  owns  a  business,  drawing  in  relatively  less-skilled  and/or  poorer  individuals. We  examine  this by allowing for  heterogeneity in treatment effects by two measures of skill – Raven score and digitspan recall – and by our baseline household wealth index. Table 6 shows the results of ITT estimation of the  likelihood of having a business in each survey round. Panel A shows little in the way of selection  according to ability as measured by the raven test in the early survey rounds, but a significant  negative interaction by round 5 for both treatments.  
+Figure  5A illustrates  the  effect  of  ability  on  selection  by  graphing  lowess  lines  of  business  ownership  against  Raven  score  by  treatment  group.  The  figure  shows that  entry  increases in the Raven score throughout the distribution for the control group, in line with our  theoretical model. Business ownership rates are relatively constant across skill levels for the two  treatment groups both because of higher entry rates among those with the lowest baseline ability,  as  predicted  by  our  model,  and  because  of  lower  entry  rates  among  those  with  the  highest  baseline ability.  
+That  more  skilled  women  have  lower  rates  of  business  ownership  by  the  last  round  survey in the treated groups compared with the control is something of a puzzle. The last four  columns  of  Table  6  examine  this  from  two  perspectives.  First,  columns  5  and  6  look  at  heterogeneity  in  terms  of  whether  individuals  have  ever  started  a  business  and  have  closed  a  business by round 5. Neither interaction between treatment and ability is statistically significant  when  we  look  at  the  two  treatment  effects  separately,  but  we  do  find  an  effect  on  business  closure which is significant at the 10 percent level if we pool the two treatments (p= 0.085). The  results suggest that skilled women are no less likely to have ever started a business if they are  trained, but are more likely to have closed a business. The last two columns of Table 6 show that  
+21 
+
+========22========
+
+higher ability treated women are no more likely to be wage workers, but are more likley to be out  of the labor force. This is particularly true among those eligible for both training and cash.  Panel  B of Table 6 shows no significant heterogeneity with respect to our other measure of ability, the  digitspan recall. The correlation between Raven score and digitspan in this sample is only 0.18.  The Raven score is a measure of analytical reasoning, whereas the digitspan recall is a measure  more closely related to short-term memory. Plausibly, business training is more of a substitute  for the types of business skills analytical reasoning would otherwise be employed for. 
+Panel C of Table 6  examines heterogeneity  with respect to baseline household wealth.  We find a negative interaction effect, with this being largest and most significant for the cash and  training treatment in rounds 4 and 5. Figure 5B shows the pattern of business ownership in round  5 against baseline household wealth. We see that the control group and training only group show  similar  patterns,  with  business  ownership  increasing  in  wealth  for  wealth  levels  above  the  median. In contrast, the pattern is reversed for the cash plus training group. The cash and training  treatment appears to have induced poorer individuals to start a business – a pattern consistent  with the model - but also to have reduced business ownership in round 5 among individuals from  richer households. The last four columns provide some suggestive evidence that the cash grant  led women from higher wealth households to be more likely to close a business and be out of the  labor force in round 5, but neither effect is significant at the 10 percent level (the interaction with  the cash treatment has p-value 0.138 for being out of the labor force). 
+5.4 Impact on Business Outcomes for Businesses Started by Potential Owners 
+The treatments led to more business entry in the short-run. In the medium-term, the effect  of treatment on the entry rate disappears, but treatment appears to affect the characteristics of  entrants.  This  complicates  the  comparison  of  the  business  outcomes  for  treatment  and  control  groups, and so we employ different approaches to assessing impacts. 
+We begin by looking at the impact of the treatments on total work income from profits (if  they own a business) and wages (if they work in wage work) combined. This income is zero for  women who are not working.17 By this definition, income is not subject to issues of selection into  
+employment,  and  we  can  obtain  experimental  estimates  as  we  did  for  the  current  enterprise  sample. We pool together rounds 2 and 3 to give a short -term effect, and rounds 4 and 5 to give a  
+                                                            
+17 
+Thus, in this analysis we ignore the utility from household production or other non -market activities.  
+22 
+
+========23========
+
+medium-term effect. Column 1 shows that despite the two treatments having significant impacts  on the likelihood of self-employment in the short-term, the treatments have no significant effect  on  total  earnings.  In  part  this  reflects  the  lower  likelihood  of  wage  employment.  The  point  estimates are positive, but are equivalent to only about 7 percent of the control group’s income.  In contrast, the impacts are larger in the medium-term, with increases in work income of 1494 Rs  for the training only group (significant at the 10 percent level), and 697 Rs (not significant) for  the training plus cash group. We also can not reject that the possibility that the two treatments  have effects which are equal in magnitude. The medium-run point estimates reflect increases in  income of 14 to 30 percent relative to the control group mean. The estimates suggest that the  training-only treatment costs of approximately 18,600 Rs per person would be repaid after 12  months  of  the  medium-term  treatment  effect,  but  the  training  plus  cash  cost  would  take  48  months of the medium-term treatment effect to be repaid.  
+The remainder of panel A looks at the impact of the treatments on business profits, sales,  capital stock, and business practices. These results are all conditional on running a business. We  asked  the  potential  business  owners  about  business  practices  only  in  rounds  4  and  5.  We  can  never reject equality of the two treatment effects, but the point estimates on profits and sales are  higher for the training only treatments, the impact on business practices is similar in magnitude  for the two treatments, and the point estimate of the effect on capital stock is larger for the cash  plus training treatment. The results for the training only intervention show significant impacts on  profits and sales in the rounds 4 and 5 surveys, with the magnitudes equivalent to a 43 percent  increase in profits and a 40 percent increase in sales, both relative to the control mean.  
+There is no difference in the rates of business ownership by rounds 4 and 5 of the survey,  but our analysis has shown that both treatments led to women with lower Raven scores starting  businesses  and  the  cash  plus  training  treatment led  to  women  with  lower  wealth  starting  businesses. We would expect this selection to bias the OLS estimates downwards, since lower  ability and poorer individuals might be expected to earn lower profits. In this sense, the estimates  in panel A might be considered lower bounds for the treatment effect. 
+How sensitive our results are to this selection? To provide some indication, we use the  sample of business owners to estimate a multinomial logit for the probability of being in each of  our  three  treatment  groups. We  use  the  set  of variables that  were  used in  Table  2  to  predict  training take-up, including wealth, ability, risk attitudes, interest in attending training, interest in  
+23 
+
+========24========
+
+running a business, and personal characteristics like age, marital status and education. We use  these predicted probabilities to form a generalized propensity score (Imbens, 2000), and re-run  our treatment regressions after reweighting by the inverse of this generalized propensity score (GPS).  We  do  this  after  restricting  the  analysis  to  the  subsample such  that  the  GPS  is  in  a  common range across the three treatments.18 Since the initial sample was randomized and the  
+selection  was  not  extreme,  the  GPS  distributions  look  quite  similar  across  the  three  treatm 
+groups ; trimming dissimilar observations removes  
+Panel B of Table 7 shows  
+ent  
+only  a few observations. 
+are reasonably similar to those in  
+that the resulting estimates 
+panel A, suggesting that the selection on observed ability and wealth is not driving the estimates.  
+We still find  that  the training only intervention  both t reatments have relatively large but insignificant result in better business practices.  
+Taken  as a whole, the results  for the potential  interventions  sped  up  the  process  of  starting  a  busi employed slightly more business practices and  
+selection  on  unobservables  c 
+has a significant impact on monthly profits,  
+impacts on sales, and  that  both treatments  
+that  
+business owner sample  suggest that the  
+ness ,  and  that  the  firms  that  were  created  are somewhat more profitable.  This conclusion  
+should  be  caveated  by  the  lack  of  significance  of  some  outcomes,  and  by  the  possibility  that  
+ould  be  driving  the  higher  profitability  of  the  firms  created  by  individuals  assigned  to  training.  Nevertheless,  the  higher  total  work  income  for  this  group  
+suggests that individuals are on average better off as a result of th 
+5. Discussion and Conclusions 
+e intervention. 
+Existing  business  training  experiments  have  typically  found  rather  limited  impacts  of  business  training  on  female  microfinance  clients  who  already  own  businesses.  The  stylized  finding is that women completing training undertake a few more of the practices taught by the  training  in  their  enterprises,  but  this is  generally  found not  to  have  measurable  impacts  on  business profitability or employment levels. Our results with a representative sample of existing  poor female business owners provide a similar picture, and suggest training alone is not enough  to get subsistence businesses run by women to grow. Adding capital leads to a temporary boost  in profitability in the first year following training, but these enterprises are no more profitable 
+                                                            
+18 
+We  look  at  the  GPS  distributions  for  each  of  the  three  treatment  groups,  and  take  the  maximum  of  the  1st percentile,  and the  minimum  of the  99th percentile over these three groups. We  then trim observations  which lie  
+outside this range.  
+24 
+
+========25========
+
+than the control group two years after training. These results highlight the challenge in getting  subsistence-level  female-owned microenterprises  to  grow,  and  suggest  that  the  binding  constraints on their growth may lie outside the realm of capital and skills. One option is more  intensive  (and  expensive)  one-on-one personalized mentoring  and  consulting,  which  Valdivia  (2011)  finds  to  increase  sales  by  18  percent.  Another  is  addressing constraints  to  female  participation in wage work, as these labor market failures are potentially the reason that many  women are operating businesses in the first place (Emran et al, 2007). 
+In contrast, our results are more encouraging for using business training to help women  who are out of the labor force start enterprises more quickly, and for improving the management  and profitability of these businesses. The impact on business start-ups is consistent with results  from recent randomized experiments with microfinance  (Banerjee et  al,  2011; Attanasio et al,  2011) which find that giving microfinance to poor women with a high propensity for business  ownership leads to  some  new  business  start-ups. Taken  together,  these  results  suggest  getting women to start a subsistence businesses is easier than getting these businesses to grow. 
+A final point is that our study highlights the importance of tracing out the trajectory of  impacts and not just relying on a single follow-up survey. The impacts of business training vary  over the time frame in which they are measured, particularly for potential enterprise owners.  
+References 
+Attanasio,  Orazio,  Britta  Augsburg,  Ralph  de  Haas,  Emla  Fitzsimons,  and  Heike  Harmgart (2011)  “Group  lending  or  individual  lending?  Evidence  from  a  randomized  field  experiment in Mongolia”, BREAD policy paper no. 27. 
+Banerjee, Abhijit and Esther Duflo (2008) “What is middle class about the middle classes  around the world?”, Journal of Economic Perspectives 22(2): 3-28. 
+Banerjee,  Abhijit,  Esther  Duflo,  Rachel  Glennerster  and  Cynthia  Kinnan (2011)  “The  miracle of microfinance? Evidence from a randomized evaluation”, Mimeo, MIT. 
+Berge,  Lars  Ivar  Oppedal  Kjetil  Bjorvatn  and  Bertil  Tungodden  (2011)  “Human  and  financial  capital  for  microenterprise  development: Evidence  from  a  field  experiment  in  Tanzania”, Mimeo. 
+Bruhn, Miriam and David McKenzie, (2009), “In Pursuit of balance: Randomization in  Practice in Development Field Experiments,” American Economic Journal: Applied Economics 1(4): 200-232. 
+Bruhn,  Miriam  and  Bilal  Zia  (2011)  “Business  and  Financial  Literacy  for  Young  Entrepreneurs: Evidence from Bosnia-Herzegovina”, Mimeo. World Bank. 
+De  Mel,  Suresh,  David  McKenzie,  and  Christopher  Woodruff  (2008).  “Returns  to  Capital:  Results  from  a  Randomized  Experiment.”  Quarterly  Journal  of  Economics 123(4):  1329–72. 
+25 
+
+========26========
+
+De Mel, Suresh, David McKenzie, and Christopher Woodruff (2009a) “Are Women more  Credit Constrained? Experimental Evidence on Gender and Microenterprise Returns.” American  Economic Journal: Applied Economics 1(3): 1-32. 
+De  Mel,  Suresh,  David  McKenzie  and  Christopher  Woodruff  (2009b)  “Measuring  microenterprise  profits:  Must  we  ask  how  the  sausage  is  made?”,  Journal  of  Development  Economics 88(1): 19-31 
+Drexler,  Alejandro,  Greg Fischer  and  Antoinette  Schoar  (2010) “Keeping  it  simple:  Financial Literacy and Rule of Thumbs”, mimeo. LSE. 
+Emran, M. Shahe, AKM Mahbub Morshed and Joseph Stiglitz (2007) “Microfinance and  Missing Markets”, Mimeo. 
+Fafchamps,  Marcel,  David  McKenzie,  Simon  Quinn  and  Christopher  Woodruff  (2011)  “Female Microenterprises and the Fly-paper Effect: Evidence from a Randomized Experiment in  Ghana”, Mimeo. World Bank. 
+Field, Erica, Seema Jayachandran, and Rohini Pande (2010) “Do traditional institutions  constrain female entrepreneurship? A field experiment on business training in India”, American  Economic Review Papers and Proceedings 100(2): 125-29. 
+Gine,  Xavier  and  Ghazala  Mansuri  (2011)  “Money  or  ideas?  A  field  experiment  on  constraints to entrepreneurship in rural Pakistan”, Mimeo. 
+Imai, Kosuke, Luke Keele, Dustin Tingley and Teppei Yamamoto, (2011). “Unpacking  the black box: Learning about causal mechanisms from experimental and observational studies”,  Mimeo. Princeton University. 
+Imbens, Guido (2000) “The Role of the Propensity Score in Estimating Dose-Response  Functions”, Biometrika 87(3): 706-710. 
+Karlan,  Dean,  and  Martin  Valdivia (2011).  “Teaching  Entrepreneurship:  Impact  of  Business  Training  on  Microfinance  Institutions  and  Clients”.  Review  of  Economics  and  Statistics, 93(2): 510-27. 
+Kevane,  Michael  and  Wydick,  Bruce  (2001),  "Microenterprise  Lending  to  Female  Entrepreneurs:  Sacrificing  Economic  growth  for  Poverty  Alleviation?",  World  Development,  Volume 29(7): 1225-1236.   
+Lloyd-Ellis,  Huw  and  Dan  Bernhardt  (2000)  “Enterprise,  inequality,  and  economic  development”, Review of Economic Studies 67: 147-68. 
+McKenzie,  David  (2011)  “Beyond  baseline  and  follow-up:  The  case  for  more  T  in  experiments”, Journal of Development Economics, forthcoming. 
+Valdivia,  Martin  (2011)  “Training  or  technical assistance  for  female  entrepreneurship:  Evidence from a field experiment in Peru”, Mimeo. 
+Appendix 1: Business Practices Score 
+The total score – the composite business practice score -- ranges from a minimum of -1 to a maximum of  29. The total is  the  sum  of  the  following  component  scores:  the marketing  score,  the stock  score,  the  record s score, and the financial planning score.   
+The marketing score ranges from 0 to 7, and it is calculated by adding one point for each of the following  that the business has done in the last 3 months: 
+- 
+Visited at least one of its competitor’s businesses to see what prices its competitors are charging 
+26 
+
+========27========
+
+- 
+- 
+- 
+- - - 
+Visited  at  least  one  of  its  competitor’s  businesses  to  see  what  products  its  competitors  have  available for sale 
+Asked  existing  customers  whether  there  are  any  other  products  the  customers  would  like  the  business to sell or produce 
+Talked with at least one former customer to find out why former customers have stopped buying   from this business 
+Asked a supplier about which products are selling well in this business’ industry 
+Attracted customers with a special offer 
+Advertised in any form (last 6 months) 
+The stock score ranges from -1 to 2, and it is calculated by subtracting one point  
+- 
+If the business runs out of stock once a month or more 
+And adding one point for each of the following that the business has done in the last 3 months 
+- - 
+Attempted to negotiate with a supplier for a lower price on raw material 
+Compared the prices or quality offered by alternate suppliers or sources of raw materials to the  business’ current suppliers or sources of raw material 
+The records score ranges from 0 to 8, and it is calculated by adding one point for each of the following  that the business does 
+- - - - 
+- - - 
+- 
+Keeps written business records 
+Records every purchase and sale made by the business 
+Able to use records to see how much cash the business has on hand at any point in time Uses records regularly to know whether sales of a particular product are increasing or decreasing  from one month to another 
+Works out the cost to the business of each main product it sells 
+Knows  which goods you make the most profit per item selling 
+Has a written budget, which states how much is owed each month for rent, electricity, equipment  maintenance, transport, advertising, and other indirect costs to business 
+Has  records  documenting  that  there  exists  enough  money  each  month  after  paying  business  expenses to repay a loan in the hypothetical  situation that this business wants a bank loan  
+The financial planning score ranges from 0-12, and it is calculated by adding up to three points for each  of the following two questions  
+- 
+- 
+How  frequently  do  you  review  the  financial  performance  of  your  business  and  analyze  where  there are areas for improvement 
+How frequently do you compare performance to your target 
+o Zero points for “Never” 
+o One point for “Once a year or less” 
+o Two points for “Two or three times a year” 
+o Three points for “Monthly or more often” 
+And adding one point for each of the following that the business has 
+27 
+
+========28========
+
+A target set for sales over the next year 
+- - - - - - 
+A budget of the likely costs your business will have to face over the next year 
+An annual profit and loss statement An annual statement of cash flow An annual balance sheet An annual income/expenditure sheet 
+Appendix 2: Bounding the Start-up Results among the Potential Sample  
+Attrition rates in our study are low, but among potential business owners they are marginally lower for the  training only group than they are for the training plus grant and control groups. To assess the sensitivity  of our results to this attrition, in Appendix Table 1 we provide conservative bounds for the impact of the  treatments on business ownership. We create a lower bound for the treatment impact by assuming that all  control group individuals whose ownership status is unknown had started businesses whereas all treated  individuals  with  unknown  status  had  not;  an  upper  bound  reverses  this  assumption.  The  bounds  are  reasonably narrow and the conclusion that there is a large treatment effect in the short-term which closes  
+in the medium-term is robust to this attrition.  
+Appendix Table 1: Bounding the Impact of Business Training on Business Start-up  Dependent Variable: Whether the individual owns a business in a given survey round 
+Round 2 Lower Upper Bound Bound 
+Assigned to Cash if finish Training 
+0.157*** 0.244*** 0.0953** 0.192*** 
+(0.0455) 0.0540 (0.0461) 628 
+(0.0456) 
+Assigned to Training only 
+0.119*** 
+Individuals 
+(0.0457) 628 
+Round 3 Lower Upper Bound Bound 
+(0.0469) 0.0163 (0.0480) 628 
+(0.0472) 0.106** (0.0478) 628 
+Round 4 Lower Upper Bound Bound -0.0419 0.111** (0.0477) (0.0483) -0.0408 0.108** (0.0482) (0.0477) 628 628 
+Round 5 Lower Upper Bound Bound -0.00521 0.0586 (0.0475) (0.0478) -0.0495 0.00799 (0.0481) (0.0481) 628 628 
+Notes: Results shown are for OLS regressions of outcome on treatment assignment. All specifications include  
+randomization strata dummies. Robust standard errors in parentheses , clustered at the firm level.  *** p<0.01, ** p<0.05, * p<0.1 Lower bound assigns all control individuals with missing current business status as business owners and all treatment individuals  with missing  status as non-business owners. Upper bound does the reverse. 
+Appendix 3: Are the results due to business training changing measurement? 
+A  key  challenge  for  evaluations  of  business  training  programs  is  the  possibility  that  training  causes owners to better understand the finances of their firm, leading to changes in how profits and other  financial  outcomes  are  reported  in  surveys.  We  use  two approaches  to  explore  the  robustness  of  our  
+results to this concern. 
+The first  approach  is to  control  directly  for the  record-keeping  practice  score in  our  treatment  regression. Columns 1 and 2 of appendix Table 2 shows our treatment impacts on truncated profits for the  combined round 4 and round 5 data without and with this control, respectively. We do find that better  record keeping is positively and significantly associated with higher profits. This might reflect causation  in either direction – faster growing firms may use more record-keeping, or record-keeping may help firms  earn more profits or to report a larger share of profits. However, controlling for record keeping does not  change  our  conclusions  for  the  impacts  of  the  treatments  on  profits  for  the  current  or  potential  firm  groups. This  suggests that the failure to find an increase in profits among the current enterprises is not  due  to  improvements  in  record  keeping  leading  them  realize  profits  are  lower  than  they  thought.  
+28 
+
+========29========
+
+Similarly, the finding of a significant positive effect for potential enterprise owners does not appear to be  caused by better record-keeping making them realize profits are higher than they thought. 
+The  second  approach  is  to  check  whether  training  affects  the  difference  between self-reported  profits  (elicited  via  a  direct  question),  and  business  revenue  minus  expenses.  De  Mel  et  al.  (2009b)  discuss several reasons why these two measures of profits may differ, such as mismatches in the timing of  input purchases and sales based on those purchases. Nevertheless, if the training causes individuals to  keep better track of their finances and start calculating profits differently with greater reference to revenue  and  expense  records,  we  would  expect  training  to  reduce  the  absolute  difference  between  these  two  measures. Column 3 of appendix Table 2 shows that this is not the case – training leads to an insignificant  increase in the absolute difference between the two measures. 
+Taken together, these two approaches suggest that our results are not being driven by changes in  
+reporting of profits. 
+Appendix Table 2: Are Impacts Being Driven by Better Record-Keeping? 
+Panel A: Current Enterprises 
+Truncated Profits  in rounds 4 and 5 
+Absolute difference between revenue-expenses and reported profits (R4 and R5) 
+Assigned to Cash if finish Training 
+Assigned to Training only 
+Record-keeping Score 
+Observations 
+Panel B: Potential Enterprises 
+Assigned to Cash if finish Training 
+Assigned to Training only 
+Record-keeping Score 
+Observations 
+274.6 (809.0) -543.9 (868.8) 
+-230.1 (797.5) -769.2 (872.4) 
+493.5*** 
+(169.1) 
+1017 
+1017 
+804.7 (830.2) 2,244** (975.9) 
+743.1 (827.3) 
+2,020** 
+(940.8) 
+718.4*** 
+(171.4) 
+675 
+675 
+1,892 (1,371) 1,432 (1,409) 
+1016 
+839.9 (858.5) 1.067 (785.9) 
+675 
+Notes: Regressions in columns 1 and 2 also control for baseline profits and baseline 
+record-keeping score for the current enterprises. Standard errors in parentheses, clustered at the firm level. *, **, and *** indicate significance at the 10, 5 and 1 percent levels respectively. Absolute difference between profits and revenue minus expenses truncated at the 99th percentile. 
+Figure 1: Timeline 
+29 
+
+========30========
+
+Jan 2009 
+April 
+Sept  2009 
+Jan  2010 
+Baseline 
+/May 
+Sept  2010 
+June 2011 
+2009 
+Round  
+2  survey 
+Round  
+3 survey 
+Training 
+Round  
+4 survey 
+Round  
+5 survey 
+30 
+
+========31========
+
+Figure 2: Occupation choice by entrepreneurial ability and wealth 
+A (wealth) 
+A** 
+Self-employed 
+Wage workers by choice  
+A* 
+Wage workers 
+No-choice wage  workers 
+Wage workers 
+θ* 
+θ (ability) 
+Figure 3: Impact of business training on occupational choice 
+A 
+A** 
+A* A2 
+A1 
+θ*-T 
+θ* θ 
+              Shaded area shows individuals who newly become entrepreneurs because of business training. 
+31 
+
+========32========
+
+Figure 4A: CDF of Monthly Profits of Current Enterprises at First follow-up Survey 
+1 
+.8 
+.6 
+.4 
+Cumulative Distribution 
+.2 
+0 
+0 
+20000 40000 60000 
+Real Monthly Profits in Round 2 
+80000 
+100000 
+Control Training only 
+Cash 
+Figure 4B: CDF of Monthly Profits of Current Enterprises at Last follow-up Survey 
+1 
+.8 
+.6 
+.4 
+Cumulative Distribution 
+.2 
+0 
+0 
+20000 40000 60000 
+Real Monthly Profits in Round 5 
+80000 
+Control Training only 
+Cash 
+32 
+
+========33========
+
+Figure 5A: Round 5 Business Ownership – Ability Profile by Treatment Status 
+.8 
+.7 
+.6 
+.5 
+Proportion owning a business in Round 5 
+.4 
+0 
+2 
+4 
+Baseline Raven test score 
+6 
+8 
+Cash+Training Control group 
+Training only 
+Lines shown are lowess best-fit lines; Graph shows up to the 99th percentile of Raven test score. Median score is 2. 
+Figure 5B: Round 5 Business Ownership – Wealth Profile by Treatment Status 
+.7 
+.6 
+.5 
+Proportion owning a business in Round 5 
+.4 
+-2 
+0 Baseline Wealth Index 
+2 
+Cash+Training Control group 
+Training only 
+Lines shown are lowess best-fit lines; Graph shows 1st to  99th percentile of Baseline wealth. Median score is -0.1. 
+33 
+
+========34========
+
+Table 1: Baseline Characteristics of the Sample by Treatment Group 
+Control 
+Variables stratified on 
+Total Monthly Profits (Rs.) 
+Have no children or have someone to look after them Colombo district 
+Kandy district 
+Has taken concrete steps to opening business Has never worked before 
+3987 0.55 0.20 0.21 
+Variables not stratified on 
+Age  
+Married 
+Number of children under 18 
+Years of Education 
+Risk-seeking score 
+Digitspan Recall 
+Raven test score 
+Total household income from all sources Wealth index (principal component) Household has a fridge 
+Household has a sewing machine 
+Household has an oven 
+Household has a gas cooker 
+Age of Firm (years) 
+Ever had a loan from financial institution Total Monthly Sales (Rs.) 
+Capital Stock excluding land and buildings (Rs.) Truncated Capital Stock (Rs.) 
+Business Practices Score 
+35.94 0.89 1.55 10.16 6.81 6.00 2.58 17192 0.01 0.45 0.56 0.08 0.25 6.47 0.23 12523 28649 28649 4.59 
+Number of Firms 
+224 
+Current Enterprises 
+Training  Training +  
+only Cash 
+Potential Enterprises 
+Training  Training +  Control only Cash 
+3981 0.54 0.20 0.20 
+4001 0.55 0.20 0.20 
+0.19 0.20 0.51 0.18 
+0.20 0.20 0.50 0.17 
+0.21 0.20 0.51 0.19 
+37.71 0.86 1.47 10.34 6.87 6.04 2.75 18245 0.05 0.53 0.60 0.08 0.23 6.88 0.18 12485 27418 27418 4.99 
+36.58 0.80 1.40 10.51 6.53 6.01 2.68 17595 0.28 0.51 0.60 0.12 0.30 6.35 0.20 12640 35187 34997 4.98 
+34.38 0.84 1.40 10.51 6.73 6.03 2.76 16422 -0.09 0.39 0.51 0.09 0.28 
+34.05 0.91 1.47 10.56 6.82 5.93 2.59 16690 -0.12 0.41 0.54 0.05 0.24 
+33.72 0.89 1.59 10.53 6.75 6.06 2.81 16393 -0.11 0.43 0.55 0.08 0.24 
+200 
+200 
+228 
+200 
+200 
+34 
+
+========35========
+
+Table 2: Determinants of Training Take-up  
+Marginal effects from Probit estimation of Attending Training among those offered 
+Owner characteristics 
+Current Enterprises 
+Potential Enterprises 
+Has no children or has someone to look after children0.0171 
+Age 
+-0.0460 (0.0475) (0.0476) 0.00614 0.00617 
+-0.0204 0.00373 -0.00589 0.0146 (0.0493) (0.0523) (0.0522) (0.0544) 0.00403 0.00956**0.00827**0.00759* 
+Married 
+Years of Education 
+Risk-seeking Attitude  
+(0.00409) (0.00408) (0.00418) (0.00395) (0.00397) (0.00398) 
+0.128* 0.169** (0.0658) (0.0679) 0.0290*** 0.0184 (0.0109) (0.0113) -0.0189 -0.00868 (0.0133) (0.0133) 
+0.152** -0.0993 (0.0693) (0.0705) 0.0171 0.0122 (0.0118) (0.0110) -0.0111 -0.0105 (0.0140) (0.0132) 
+-0.0835 -0.0760 (0.0734) (0.0730) 0.00820 0.00754 (0.0113) (0.0115) -0.00195 -0.000607 (0.0138) (0.0141) 
+Raven test score 
+Digit-span Recall 
+0.000541 0.000168 -0.00425 0.0282** 0.0310** 0.0312** 
+(0.0141) (0.0147) -0.0110 0.00665 (0.0200) (0.0198) 
+(0.0149) (0.0133) 0.00691 -0.0309 (0.0213) (0.0195) 
+(0.0135) (0.0139) -0.0209 -0.0289 (0.0200) (0.0209) 
+Wealth index (principal component) 
+-0.0441***-0.0381** -0.0379** -0.00556 -0.00337 0.00362 
+Says would pay 500 Rs or more for a training course 
+(0.0168) (0.0169) -0.0115 -0.0239 (0.0496) (0.0531) 
+Has taken concrete steps to opening a business 
+Has never worked before 
+Firm Characteristics Log of monthly profits 
+Firm is in Manufacturing 
+Firm is in Retail Trade 
+(0.0174) (0.0152) (0.0153) (0.0159) -0.0492 0.0439 0.0367 0.0368 (0.0540) (0.0507) (0.0505) (0.0522) 
+0.0635 0.0338 0.0472 
+(0.0484) (0.0502) (0.0552) 
+-0.0157 -0.0358 -0.0523 
+(0.0625) (0.0639) (0.0666) 
+Works more than 40 hours a week at baseline 
+Baseline Business Practices Score 
+Firm is younger than 5 years old 
+Geography Colombo District 
+Kandy District 
+D.S. (locality) fixed effects 
+Number of firms 
+-0.0677* 0.0267 (0.0399) (0.0385) 0.126* 0.119* (0.0666) (0.0693) 0.0650 0.0356 (0.0676) (0.0737) -0.0899* -0.0889* (0.0488) (0.0503) 0.00670 0.00801 
+(0.00681) (0.00729) (0.00790) 0.0969* 0.141*** 0.136*** 
+(0.0505) (0.0527) 
+No 
+-0.446*** (0.0676) 0.0762 (0.0636) 
+No 
+400 
+400 
+0.0125 (0.0420) 0.121* (0.0697) 0.0331 (0.0748) -0.0766 (0.0504) 0.0116 
+(0.0529) 
+Yes 
+No 
+-0.152** (0.0694) 0.0317 (0.0610) 
+No 
+Yes 
+400 
+399 
+399 
+399 
+Robust standard errors in parentheses, *** p<0.01, ** p<0.05, * p<0.1 
+35 
+
+========36========
+
+Table 3: Impact on Business Practices of Current Enterprises 
+Total Practices Score 
+Marketing Stock Control Record keeping Financial Planning 
+Round 2 Round 4 Round 5 All rounds All rounds 
+Intent-to-Treat Effects Assigned to Cash if finish Training 
+Assigned to Training only 
+2.530*** 1.936*** 2.109*** (0.555) 
+1.719*** 1.708*** (0.555) 
+Treatment on the Treated Received Training & Cash 
+Received Training Only 
+3.588*** 2.790*** 3.122*** (0.591) 
+2.192*** 2.261*** 1.489** (0.540) 
+Observations 
+Firms 
+p-value for testing two treatments equal Baseline Mean: 
+544 544 0.154 4.96 
+(0.567) 
+(0.560) 
+(0.570) 1.075* (0.568) 
+2.087*** (0.326) 1.524*** (0.326) 
+0.379*** (0.109) 0.433*** (0.113) 
+(0.607) 
+(0.631) 
+(0.546) 
+(0.580) 
+3.059*** (0.429) 2.031*** (0.389) 
+0.552*** (0.147) 0.574*** (0.136) 
+513 513 0.690 5.02 
+506 506 0.080 4.98 
+1,563 573 0.099 4.96 
+1,563 573 0.622 1.66 
+All rounds 
+All rounds 
+All rounds 
+0.230*** (0.0603) 0.125** (0.0638) 
+0.872*** (0.154) 0.483*** (0.148) 
+0.628*** (0.132) 0.535*** (0.140) 
+0.338*** (0.0819) 0.167** (0.0783) 
+1.281*** (0.204) 0.645*** (0.178) 
+0.917*** (0.174) 0.711*** (0.168) 
+1,563 573 0.091 0.53 
+1,563 573 0.011 2.10 
+1,563 573 0.533 0.64 
+Robust standard errors in parentheses clustered at the firm level when all rounds used, *** p<0.01, ** p<0.05, * p<0.1 
+All specifications also include baseline outcome value and controls for randomization strata, and columns 4-8 also include survey  round dummies. Business practices were not measured in round 3. 
+36 
+
+========37========
+
+Table 4: Impact on Firm Performance for Current Enterprises 
+Round 3 
+Round 4 
+Round 5 
+Panel A: Monthly Profits ITT Effects 
+Assigned to Cash if finish Training 
+Assigned to Training only 
+TOT Effects 
+Received Training & Cash 
+Received Training Only 
+Baseline Mean: 
+All rounds pooled 
+Truncated Levels Levels Logs 
+Round 2 
+Truncated Truncated Truncated Truncated Levels 
+724.9 (839.9) -695.7 (920.7) 
+1,207** (593.0) -171.3 (626.2) 
+0.168** (0.0716) 0.0240 (0.0752) 
+1,758* (932.6) 11.75 (889.5) 
+1,079 (1,169) -912.9 (1,152) 
+1,786** (827.5) -217.3 (782.4) 
+0.248** (0.100) 0.0333 (0.0949) 
+2,526** (1,032) 6.206 (882.4) 
+Levels 
+Levels 
+Levels 
+1,910** (898.5) -76.47 (912.4) 
+432.5 (1,123) -460.3 (1,148) 
+169.9 (1,099) -760.6 (1,241) 
+2,819*** (1,023) -86.50 (924.0) 
+642.0 (1,233) -605.9 (1,141) 
+249.6 (1,220) -1,042 (1,276) 
+p-value for equality of treatment effects 
+Panel B: Monthly Sales ITT Effects 
+Assigned to Cash if finish Training 
+Assigned to Training only 
+Baseline Mean: 
+4014 0.089 
+4014 0.035 
+8.14 0.056 
+4004 0.069 
+5,171 (4,686) -2,941 (4,422) 
+4,436 (3,500) -1,786 (3,512) 
+0.143 (0.0932) -0.0414 (0.0967) 
+6,818* (4,020) -1,718 (3,845) 
+4023 0.041 
+4016 0.446 
+3994 0.437 
+3,284 (5,366) -1,519 (5,386) 
+3,079 (6,534) -3,884 (5,993) 
+2,129 (6,482) -2,248 (7,177) 
+p-value for equality of treatment effects 
+Panel C: Capital Stock ITT Effects 
+Assigned to Cash if finish Training 
+Assigned to Training only 
+Baseline Mean: 
+12659 0.090 
+12659 0.102 
+9.09 0.054 
+12198 0.065 
+17,221** 10,379*** 0.155** (7,815) (3,583) (0.0691) -700.2 -490.7 -0.0671 (5,616) (3,338) (0.0629) 
+9,535* (4,893) -3,476 (4,192) 
+12520 0.411 
+12600 0.316 
+12548 0.514 
+7,270 (4,932) -278.1 (4,596) 
+12,195* (6,379) -4,452 (5,921) 
+11,374** (5,760) 3,389 (6,474) 
+p-value for equality of treatment effects 
+Panel D: Hours Worked in Last Week ITT Effects 
+Assigned to Cash if finish Training 
+Assigned to Training only 
+Baseline Mean: 
+31272 0.017 
+31272 0.003 
+9.48 0.001 
+30137 0.005 
+1.932 (1.433) 1.685 (1.436) 
+1.751 (1.382) 1.889 (1.399) 
+-0.0211 (0.0320) -0.0130 (0.0340) 
+4.537* (2.411) 3.337 (2.534) 
+30359 0.113 
+30538 0.009 
+30350 0.257 
+1.855 (2.504) 4.130 (2.802) 
+1.120 (2.579) 0.561 (2.570) 
+-1.717 (2.701) -2.038 (2.687) 
+p-value for equality of treatment effects 
+Observations Firms Notes: 
+43.5 0.866 
+43.4 0.921 
+4.0 0.799 
+43.3 0.621 
+2,097 587 
+2,097 587 
+2,019 581 
+43.5 0.414 
+43.5 0.826 
+43.6 0.904 
+538 538 
+542 542 
+512 512 
+505 505 
+Robust standard errors in parentheses clustered at the firm level when all rounds used, *** p<0.01, ** p<0.05, * p<0.1 All specifications also include survey round dummies, baseline outcome value, and controls for randomization strata. Truncated levels truncate at the 99th percentile. 
+37 
+
+========38========
+
+Table 5: Impacts on Business Ownership and Wage Work for Potential Owners 
+Currently Own a Business 
+Round 2 Round 3 Round 4 Round 5 
+ITT 
+Assigned to Cash if finish Training 
+Assigned to Training only 
+0.201*** 0.140*** (0.0465) (0.0483) 0.0904* 0.0628 (0.0466) (0.0490) 
+0.0261 (0.0501) 0.0364 (0.0499) 
+TOT 
+Received Training & Cash 
+Received Training Only 
+0.290*** 0.203*** (0.0628) (0.0658) 0.122** 0.0848 (0.0606) (0.0638) 
+0.0384 (0.0704) 0.0495 (0.0652) 
+Firms 
+P-value for testing equality of treatments Control group mean 
+607 0.020 0.381 
+601 0.113 0.477 
+582 0.842 0.555 
+Ever own Closed   a business Business Round 5 Round 5 
+Currently a Wage Worker Round 2 Round 3 Round 4 Round 5 
+0.0244 (0.0485) -0.0217 (0.0488) 
+0.0708 (0.0436) 0.0123 (0.0446) 
+0.0634* (0.0383) 0.0166 (0.0365) 
+-0.0309 -0.0587** -0.00920 -0.000515 (0.0282) (0.0281) (0.0325) (0.0317) -0.0252 -0.0753*** -0.0210 -0.0180 (0.0286) (0.0275) (0.0327) (0.0311) 
+0.0360 (0.0689) -0.0298 (0.0643) 
+0.104* (0.0614) 0.0161 (0.0584) 
+0.0935* (0.0548) 0.0219 (0.0478) 
+-0.0449 -0.0862** -0.0138 -0.000779 (0.0392) (0.0394) (0.0465) (0.0450) -0.0338 -0.102*** -0.0286 -0.0244 (0.0370) (0.0357) (0.0428) (0.0406) 
+609 0.357 0.573 
+620 0.173 0.688 
+609 0.244 0.155 
+588 0.830 0.096 
+587 0.470 0.116 
+547 0.714 0.116 
+606 0.584 0.115 
+Notes: Results shown are for OLS regressions of outcome on treatment assignment. All specifications include randomization strata dummies. TOT instruments receipt of treatment with random assignment. Robust standard errors in parentheses , *** p<0.01, ** p<0.05, * p<0.1 
+38 
+
+========39========
+
+Table 6: Do the grants affect the selection of who owns a business? 
+Panel A: Interaction with Raven score Assigned to Cash if finish Training 
+Assigned to Training only 
+Assigned to Cash * Raven Score 
+Assigned to Training * Raven Score 
+Panel B: Interaction with Digitspan recall Assigned to Cash if finish Training 
+Assigned to Training only 
+Assigned to Cash * Digitspan recall 
+Assigned to Training * Digitspan recall 
+Currently Own a Business 
+Round 2 Round 3 Round 4 
+Round 5 Round 5 Round 5 
+0.232*** (0.0840) 0.0640 (0.0835) -0.0111 (0.0254) 0.0105 (0.0261) 
+0.149* (0.0892) 0.0163 (0.0857) -0.00344 (0.0274) 0.0188 (0.0271) 
+0.0956 (0.0916) 0.0450 (0.0894) -0.0246 (0.0269) 
+0.161* 
+(0.0869) (0.0769) 
+0.101 
+(0.0860) (0.0799) 
+-0.0492* -0.00500 0.0308 
+(0.0253) (0.0221) -0.00248 -0.0451* -0.00708 0.0246 
+(0.0255) (0.0241) 
+(0.0267) 
+0.220 (0.229) 0.189 (0.224) -0.00315 (0.0371) -0.0167 (0.0365) 
+0.0472 (0.234) 0.244 (0.240) 0.0153 (0.0379) -0.0304 (0.0395) 
+-0.147 (0.244) 0.163 (0.249) 0.0283 (0.0393) -0.0212 (0.0408) 
+-0.141 
+(0.232) (0.218) 
+0.168 
+(0.238) (0.222) 
+0.0273 
+(0.0375) (0.0353) -0.0316 -0.00728 0.0221 (0.0390) (0.0364) 
+Ever Own 
+Closed Business 
+Wage Not  Work working Round 5 Round 5 
+0.0846 
+0.0320 
+-0.0224 (0.0711) -0.0503 (0.0633) 
+(0.0211) 
+(0.0178) 
+0.0406 (0.0550) -0.0645 (0.0550) -0.0147 (0.0144) 0.0180 (0.0176) 
+-0.195** (0.0822) -0.0187 (0.0841) 0.0586** (0.0242) 0.0209 (0.0240) 
+-0.117 
+0.0560 
+0.0310 
+0.0699 0.0640 (0.185) (0.147) -0.115 -0.105 (0.199) (0.137) -0.00106 -0.0107 (0.0297) (0.0234) 
+0.0144 (0.0327) (0.0222) 
+0.0762 (0.222) -0.0766 (0.237) -0.0178 (0.0360) 0.0197 (0.0389) 
+Panel C: Interaction with household wealth index 
+Assigned to Cash if finish Training 
+Assigned to Training only 
+Assigned to Cash * Household Wealth 
+0.0198 (0.0500) 0.0344 (0.0500) 
+0.0177 
+0.0696 
+0.0684* (0.0386) 0.0174 (0.0368) 0.0356 (0.0227) 
+Assigned to Training * Household Wealth 
+Number of Firms 
+0.198*** 0.137*** (0.0468) (0.0487) 0.0855* 0.0652 (0.0466) (0.0492) -0.0369 (0.0293) (0.0295) -0.0515* 0.00990 (0.0302) (0.0309) 
+(0.0484) (0.0438) 
+-0.0226 0.0121 
+(0.0492) (0.0447) -0.0276 -0.0594** -0.0540* -0.0144 
+(0.0282) (0.0254) 
+-0.0142 -0.00663 0.00817 
+(0.0298) (0.0258) 
+(0.0289) -0.0290 (0.0299) 
+607 
+601 
+582 
+609 
+(0.0222) 
+-4.25e-06 -0.0249 (0.0314) (0.0454) -0.0187 0.0423 (0.0305) (0.0473) 0.0185 0.0385 (0.0184) (0.0259) 0.00815 0.00904 (0.0179) (0.0283) 
+620 
+609 
+606 
+606 
+Notes: Results shown are for OLS regressions of outcome on treatment assignment.  Robust standard errors in parentheses , *** p<0.01, ** p<0.05, * p<0.1 
+All specifications include randomization strata dummies and level effect of interacting 
+39 
+
+========40========
+
+Table 7: Impacts on Total Work Income and Business Outcomes for Potential Group 
+Outcomes Conditional on Operating a Business 
+Profits 
+Sales 
+Capital Stock 
+Total Work Income 
+R2 and R3 R4 and R5 R2 and R3 R4 and R5 R2 and R3 R4 and R5 R2 and R3 R4 and R5 
+Panel A: Experimental ITT Estimates Assigned to Cash if finish Training 
+Assigned to Training only 
+266.7 (556.5) 211.5 (545.4) 
+Observations 
+Firms 
+p-value for testing treatment equality Control group mean 
+1,175 
+0.920 3516 
+696.7 (728.5) 1,494* (773.9) 
+-161.0 (741.7) 484.9 (785.3) 
+804.7 (830.2) 2,244** (975.9) 
+165.5 (3,059) 397.5 (2,989) 
+601 
+1,119 585 0.327 4940 
+615 359 0.398 5001 
+675 393 0.165 5209 
+616 359 0.939 14739 
+Business Practices 
+R4 and R5 
+6,043 (3,841) 6,248* (3,638) 
+7,179 (7,324) -2,293 (6,885) 
+3,959 (8,255) 1,048 (8,326) 
+0.999** (0.489) 0.870 (0.559) 
+675 393 0.961 15292 
+615 357 0.218 25489 
+665 385 0.723 34940 
+676 394 0.819 8.33 
+Panel B: Generalized Propensity Score Reweighted Estimates to account for selection into who operates a business 
+Assigned to Cash if finish Training 
+Assigned to Training only 
+Observations 
+Firms 
+p-value for testing treatment equality 
+59.12 (692.6) 374.3 (772.0) 590 345 0.6702 
+767.2 (846.0) 2,171** (1,072) 651 380 0.2127 
+512.5 (3,060) -349.7 (2,979) 591 345 0.7728 
+5,840 (3,698) 5,950 (3,749) 651 380 0.9784 
+6,820 (7,467) -1,664 (7,336) 590 344 0.2766 
+6,083 (8,852) 3,341 (8,490) 641 372 0.7533 
+1.173** (0.502) 0.971* (0.567) 652 381 0.7282 
+Notes: Results shown are for OLS regressions of outcome on treatment assignment. All specifications include randomization strata dummies. Robust standard errors in parentheses , clustered at the firm level.  *** p<0.01, ** p<0.05, * p<0.1 
+R2 and R3 denotes survey rounds 2 and 3, 4 and 8 months after training; R4 and R5 denote survey rounds 4 and 5, 16 and 25 months post-training. All outcomes are truncated at the 99th percentile to reduce the influence of outliers. 
+40 
+
+========41========
+

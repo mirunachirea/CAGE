@@ -1,0 +1,931 @@
+October 2011 
+             No.59 
+Accounting for Secrets 
+Prof Mark Harrison University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Accounting for Secrets* 
+Mark Harrison** 
+Department of Economics and CAGE, University of Warwick Centre for Russian and East European Studies, University of Birmingham Hoover Institution on War, Revolution, and Peace, Stanford University 
+Abstract 
+The Soviet state counted people, resources – and secret papers. The need to account for secrets was a transaction cost of autocratic government. This paper finds archival evidence of significant costs, multiplied by secrecy’s recursive aspect: the system of accounting for secrets was also secret and so had to account for itself. The evidence suggests that most Soviet officials complied most of the time. Numerous instances also imply that careless handling could take root and spread locally until higher authorities intervened. The paper uses the case of a small regional bureaucracy, the Lithuania KGB, to estimate the aggregate costs of handling secret paperwork. Over the period from 1954 to 1982, accounting for secrets makes up around one third of this organization’s archived records. This figure is surprisingly large, and is the main new fact contributed by the paper. There is much time variation, some of it not easily explained. 
+Keywords: Accounting, Dictatorship, Norms, Secrecy, Soviet Union, Transaction Costs. 
+JEL Codes: K42, L14, M48, N44, P26. 
+* This is a paper to the national convention of the Association for Slavic, East European, and Eurasian Studies, November 17-20, 2011, Washington, DC. I thank Golfo Alexopoulos, Inga Arlauskaitė, Andrei Markevich, Leonora Soroka, and Amir Weiner for advice; the University of Warwick for research leave and the Centre on Competitive Advantage in the Global Economy for research support; the Hoover Institution and the Hoover Archive summer workshop for generous hospitality; and the staff of the Hoover Archive for excellent assistance. 
+** Mail: Department of Economics, University of Warwick, Coventry CV4 7AL, United Kingdom. Email: mark.harrison@warwick.ac.uk. 
+First draft: September 26, 2011. This version: October 17, 2011. 
+
+========2========
+
+Accounting for Secrets 
+It is no secret in Berlin, the German capital that once boasted the greatest concentration of cold war spies in the world, that a huge office block on the downtown Chausseestrasse is being built as the new headquarters of Germany’s own international espionage agency. Unfortunately for the spies and spymasters of the Bundesnachrichtendienst, the location of their HQ is not the only thing that is no longer secret. According to reports in the German capital on Monday, the agency appears to have lost the entire masterplan for the office complex itself. (“German spy agency loses blueprint for building,” by Quentin Peel, The Financial Times, July 11, 2011.) 
+Accounting is a core function of the modern state. Ancient states designed the first great censuses to count people so as to trace them and tax them. The Soviet Union accounted for people and resources in the considerable detail that matched its totalitarian objectives. This is not to say that they did so perfectly. Much has been written about the defects of Soviet censuses of population, the registration of births, marriages, deaths, and multi-level accounts for public finance, production, and consumption (Treml and Hardt 1972; Davies and Wheatcroft 1994). But there is no doubt that these were important instruments of government. 
+Soviet officials counted more than people, money, and resources. They also counted sheets of paper, tracking them from creation to destruction. The once classified documents that now fill millions of files in the former Soviet archives had their own lives. Each moment in the life of such documents was meant to be recorded from creation through copying, sharing, and transmission to destruction or assignment to the archive. 
+Evidence of the existence of the Soviet system of accounting for secrets is both direct and indirect. Directly, the tracking of paperwork left its paper trail. In some parts of some archives, such traces account for a surprising large proportion of the total of documentation. This is of interest because it suggests that accounting for secrets was costly: it consumed time and effort that was unavailable, therefore, for other uses. The costs of accounting for secrets deserve investigation, because a willingness to incur non-trivial costs is prima facie evidence of non-trivial motivation. 
+Indirectly, the system of accounting for secrets is evident in many records of its failure. The tracking of paperwork was vulnerable to human frailty. 
+First draft: September 26, 2011. This version: October 17, 2011. 
+
+========3========
+
+2 
+Some person was charged with individual responsibility for every sheet of every secret document throughout its lifetime. Such a person was called, in Russian, a sekretonositel’ (secret-bearer). The bearers of secrets lost or mislaid secret papers in a variety of conditions and contexts, or failed to pass them on as expected or required of them. These failures could have adverse personal consequences. Such cases are of interest, partly because they reveal the system, and partly as evidence of incentives misaligned between principals and agents in the Soviet hierarchy, and of attempts to correct this. 
+This topic throws light on wider issues in political science and political economy. In the summer of 2011, Washington DC and Brussels began to wake up to looming fiscal disasters. Chinese leaders, already praised for their swift response to the global banking crisis of 2007, lectured European and American politicians on the paralysis of the democracies.1 In fact, autocracy is widely thought to have the advantage over democracy in the possibility of decisive action that does not have to be negotiated among competing parties and wavering voters. Wintrobe (2000, pp. 247-279), for example, identifies democracy’s DNZ (“do nothing zone”) where bargaining fails because the costs and risks of negotiated agreement are too high. 
+While democracy’s transaction costs are real enough, autocratic decision making is not without its frictions. We don’t see these frictions at times of crisis, when dictators make decisions easily; the problem then is the decisions that they make. The transaction costs of autocracy are more clearly at work in normal times, when secretive administration has to grind out the thousands of little decisions that make for everyday government. 
+This paper is about the costs of Soviet administration that arose directly from secrecy. It is part of a wider project aimed at understanding Soviet secrecy. The direct costs of accounting for secrets were not the only transaction costs that arose from secrecy. Transaction costs were also occasioned by the behavioural responses of Soviet officials to the fear and mistrust associated with enforcing secrecy. Although difficult to quantify, these indirect costs were no less real (Harrison 2011). 
+This paper is chiefly an exercise in description, with analysis to come later. At a later stage, we may be able to compare document handling in Soviet institutions with other institutional contexts. At that point, we will surely find similarities as well as differences. Comparisons will reveal 
+1 
+“China urges US to ‘live within its means’,” by Leslie Hook, The Financial Times, August 7, 2011; “Wen sets preconditions to help Europe,” by Jamil Anderlini and Lifen Zhang, The Financial Times, September 14, 2011. 
+
+========4========
+
+3 
+patterns. Comparative analysis of differing practices across states and historical periods is a desirable goal. At this stage, however, it is premature. 
+In the first part of the paper I set out how business was in the “conspirative” Soviet state. Second, I describe the procedures and practices that governed the life course of the secret document in Soviet administration from the 1940s. Third, I use the example of a regional Soviet bureaucracy, specifically a small republican KGB, to try to measure the management burden of the system of accounting for secrets, and I show that the burden was large. The fourth part concludes. 
+1. Doing Business in the “Conspirative” State Until it collapsed, the Soviet system of secrecy was the single most important limit on the progress of scholarly research on the Soviet Union itself. While scholars felt their way around particular secrets with great effort, they gave relatively little attention to the system of secrecy itself, both and after the fall (exceptions include Bone 1999; Fitzpatrick 1990; Harrison 2008; Hutchings 1987; Maggs 1964; Rosenfeldt 1978; 1989; 2009). Here I describe a few of its basic principles. 
+Conspirativeness 
+A defining feature of Soviet single-party government was konspiratsiia (conspirativeness). All officials were obliged to conduct the business of government by following norms of conspirativeness that limited the business of leading councils and committees to the narrowest possible set of participants and distributed information about their decisions on the basis of minimal need-to-know (Rosenfeldt 2009, pp. 66-76). These norms originated in the pre-revolutionary underground practices of the Bolshevik Party, and had been written down as a formal code of governance by the late 1920s. On May 16, 1927, for example, the Politburo passed a resolution “On conspirativeness” which also reaffirmed previously adopted rules on the handling of secret documents “based on the old, well-tested principle that secret matters should be disclosed only to those for whom it is absolutely necessary to know” (Khlevniuk et al. 1995, pp. 74-77). 
+Despite Gorbachev, perestroika, and glasnost’ (“openness”), these principles remained intact until the last days of the Soviet system. In March 1991, for example, senior officials of the CPSU central committee complained that Moscow’s party correspondence was being systematically leaked to the public. Until the situation was stabilized, they proposed, members of the Politburo, central committee, and “leading organs” of the party would have to familiarize themselves with “documents of a secret character” within the four walls of the central committee building in Moscow. Only in “extreme 
+
+========5========
+
+4 
+necessity” would secret documents be sent outside the building by courier, marked “person to person,” and immediately returned.2 But the 
+circumstances that forced this expedient did not prove temporary. 
+The system of accounting for secret paperwork that I will describe is that of the war and postwar period. It is a reasonable question whether this system was significantly different from that of earlier years, or whether there was any substantial change under Khrushchev and Brezhnev from that which prevailed under Stalin. There were clear changes over time in the scope of Soviet secretiveness. For example, less information reached the public from the late 1930s to the mid-1950s than in any period before or after (Harrison 2008). Secrecy violations were also penalized more severely at this time, and new regulations were issued with each change in coverage and penalization (Harrison 2011). These things do not imply any fundamental alteration to the underlying system of secret file management, however. My guess is that little changed from 1930 to 1990, but on present knowledge it is only a guess. 
+Archives under Conspirative Rule 
+The role of archives was transformed by conspirative rule (with major implications for the practice of history). The transformation was driven by the all-consuming interest of the regime in citizens’ past political activities and connections. When a person fell under suspicion, a search of historical records in the archives for “compromising evidence” (kompromat) was always among the first steps of the investigation. “In the Soviet state the main task of archives is to expose class enemies and to destroy them,” an NKVD official (cited by Weiner and Rahi-Tamm 2012) told the director of the Estonian state archives in 1940. 
+Khorkhordina (2009, pp. 68-72) describes the securitization of the historical archives. No longer governed by their own “rezhim” (a set of autonomous professional norms), she writes, the archives became “rezhimnye” (instruments of an arbitrary, autocratic regime). From a guardian of historical records, the archivist became the keyholder of “an arsenal of political weaponry.” Since archival documents were now weapons of political struggle, the first requirement was to deny them to the enemy. Extreme secrecy and the rigid exclusion of outsiders from access to documentation were the necessary outcome. 
+2 
+Hoover/RGANI, 89/21/66, 1 (CPSU Central Committee general departments deputy chief Laptev P. and organization department deputy chief Ryzhov Iu., “K voprosu o poriadke oznakomleniia s dokumentami i materialami TsK KPSS chlenov TsK KPSS i rukovoditelei partiinykh komitetov regionov so slozhnoi obshchestvennoi obstanovke,” March 5, 1991). 
+
+========6========
+
+5 
+Whether for this or some other reason, however, the archiving of documents was not irreversible. Lithuania KGB files, for example, have many gaps where placeholders show that documents were later retrieved and transferred to “letter-coded” (liternye) operational files classified as “of special importance.” 
+Degrees of Secrecy 
+The Russian language distinguishes between the information that is made secret (taina) and the secrecy classification (grif sekretnosti) of the document that expresses it (Nikitchenko 1972, pp. 75, 323-324). The Soviet state maintained two general classes of secrecy, each with two subdivisions. At the higher level were state secrets (gosudarstvennia taina), the loss of which could cause damage to the interests of the state as a whole. Such secrets were classified as “of special importance” (osoboi vazhnosti) or by the lesser grade of “top secret” (sovershenno sekretno). Matters that were state secrets were listed in government decrees enacted from time to time (which were themselves state secrets), for example a decree of the USSR Council of Ministers dated September 15, 1966; subject to agreement of the KGB, particular ministries could also declare aspects of their spheres of activity to be state secrets. The intentional disclosure or negligent loss of a state secret was always a criminal offence. 
+At the lower level were administrative secrets (sluzhebnaia taina), classified either “secret” (sekretno) or “for administrative use” (dlia sluzhebnogo pol’zovaniia). Ministries and sub-ministerial agencies could determine the scope of administrative secrecy for themselves. The loss of an administrative secret could damage the interests of a particular agency or enterprise belonging to the state, but did not threaten the state itself. The intentional disclosure or negligent loss of an administrative secret could be a criminal offense but was more likely to be an administrative violation, depending on circumstances. Responsibility for determining the level of classification of the individual document lay with the author. 
+How important were the differences between classes of secrecy? To an outsider it is often unclear why one document was classified secret and another top secret. It was common for auditors and stock-takers to refer to “secret and top secret” documents in the same breath. Documents that were only secret were counted just as obsessively as those of higher classifications. 
+The difference between grades of classification mattered in two ways. First, it determined access. Associated with the system of secrecy was a hierarchy of access to documents. The KGB cleared every government employee for some level of access (or none). The level of clearance depended on a range of factors from professional qualification to personal and family 
+
+========7========
+
+6 
+background, including political loyalty. Denial of clearance to the next level, or to have an existing clearance taken away, was a block to personal advancement. The system of clearance for access to documents of different security classes was therefore a potent mechanism of social control (Grybkauskas 2007). 
+Second, a document’s level of classification mattered when it came to determining the punishment for a violation. An anecdote illustrates at least one circumstance in which the distinction between “secret” and “top secret” became critical.3 In August 1973, while drinking in a bar, a police lieutenant managed to lose both the personal file and operational file of a police informer. Taken together, these two files gave access to the informer’s code name, real name, address, life story, associates, criminal activities, and police contacts. The question that arose was whether these files, taken in combination, constituted a state secret, which would lead to criminal charges, or merely an administrative secret. A local group of interior ministry experts favoured the more serious charge, but was twice overruled by Moscow. On the second occasion, the Lithuanians were told: 
+The organization or operational methods of the organs of internal affairs are not covered by the List of Most Important Information Constituting State Secrets, confirmed by decree of the USSR Council of Ministers of 15 September 1966 no. 747-236. The personal and working files of agents to some degree expose the organization and operational methods of the organs of internal affairs and constitute an administrative secret (sluzhebnaia taina). The simultaneous loss of the personal and working files of agent “Gerasov” can present only heightened danger to his life and health … The personal and working files of agent “Gerasov” do not constitute a state secret (gosudarstvennaia taina). 
+The officer lost his job, but the criminal charges were dropped for lack of evidence of a crime. 
+Secrecy is Recursive 
+We will find that Soviet secrecy had a recursive property. This is grasped more easily in Russian than in English. We have seen that the Russian language distinguishes between “taina,” the intangible information that is secret, and “grif sekretnosti,” the security classification of the tangible 
+3 
+Hoover/LYA K-1/10/405, 24-26 and 27-28 (memos to USSR KGB investigation department chief Volkov A. F., both signed by Lithuania KGB investigation department chief Kismanis E., November 6, 1973 and March 1, 1974 respectively). 
+
+========8========
+
+7 
+document that expresses it. When “taina” was written down, the result was a secret document. In turn, the existence of the document became a new “taina.” Inevitably, therefore, the paperwork that accounted for secret documentation contained new “taina” and was itself secret, and so also had to be accounted for in audits and inspections, the results of which had to be kept secret too, and in turn became new entries in the system of accounting for secret paperwork, and so on and on, potentially ad infinitum. 
+Infinite recursion does not mean expansion without limit. Real life shows many recursive processes that have bounded or convergent outcomes. The Soviet system of accounting for secrets was evidently one of these processes. It does mean that there is a multiplier at work; one more secret document increased the total cost of secrecy by more than its own cost. Much of what we find in the Soviet archives cannot be explained without this multiplier. 
+Below I will exploit the recursive aspect of secrecy for purposes of measurement. I will define first-order recursion as the initial registration of incoming and outgoing secret instructions and correspondence in (secret) ledgers. Higher orders of recursion involved the subsequent inventorization, transfer, audit, and destruction of secret documentation, including that created in the first recursion. 
+2. The Secret Document’s Life Course 
+In this section, I describe the most important moments in the life of the secret document. I state what seems to be generally true, and where possible I give examples. Examples do not prove a rule, and I first discuss the representativeness of my evidence base. I go from examples to data and evaluation in the section following this one. 
+The Medium is the Message 
+This paper is based on the results of a limited search. My evidence is drawn primarily from three microfilm collections at the Hoover Institution, relating to the KGB (committee of state security) of the Lithuanian Soviet Socialist Republic, the KPK (commission of party control), and the Gulag (chief administration of labour camps of the Soviet interior ministry).4 One 
+4 
+The Lithuania KGB records are found at the Hoover Archive in the Lietuvos SSR Valstybės Saugumo Komitetas (KGB) Selected Records collection; the Gulag records are in the Archives of the Soviet Communist Party and Soviet State Microfilm collection, State Archives of the Russian Federation (GARF, Gosudarstvennyi arkhiv Rossiiskoi Federatsii), 1903-1990, and the KPK records are in the same collection, but from the Russian State 
+
+========9========
+
+8 
+important question is whether these provide a representative basis for evidence on the Soviet system of secrecy. I will discuss this, and I will show that microfilm has an unexpected bearing on the subject. 
+How did records become available for this study? The Hoover Institution has invested considerable resources in microfilm holdings from former Soviet archives relating to core agencies of the Soviet state and party (and continues to do so). The KGB, the KPK, and the Gulag certainly qualify as core agencies. From the beginning to the end of Soviet rule, such agencies were managed on conspiratorial lines. “All letters, all the correspondence we maintain, are secret work … All our work is secret,” stated KPK chairman Shkiriatov on March 18, 1950.5 For the KGB, paperwork was its most valuable tangible asset. “Information is the alpha and omega of our work,” the Cheka told its operatives as early as 1920/21 (Holquist 1997, p. 415). 
+The selection of core agencies means that we don’t have easy ways to compare directly the burdens of managing secrecy in peripheral agencies or central agencies of lower status. At the same time the regime of secrecy applied everywhere. During the 1920s the principle was laid down that every Soviet agency and enterprise had to maintain a first (secret) department for secret communications and secret record keeping, staffed exclusively by party members and effectively under the direct supervision of state security (Rosenfeldt 2009, pp. 98-99). In the records we have, many examples suggest that the secrecy regime imposed on government agencies in remote regions or with primarily civilian functions such as the supply of foodstuffs was similar to that prevailing within the core of power. 
+How did the secret records of Soviet organizations come to be archived in the first place? In principle, they passed through two filters: an archived document must have lost operational significance, but retained some noticeable historical value. Criteria for archiving were no doubt applied subjectively and with considerable variation. An element of randomness is helpful here, because it let us glimpse the character of records that now seem relatively ephemeral, at the cost of losing some that were not. But we just don’t know how much was thrown away compared to what was retained. We do have many records of the burning of documents, as will be shown, but many of these may have been destroyed in turn at some later date. If what was archived is a small residual of the total of paperwork 
+Archive of Contemporary History (RGANI, Rossiiskii gosudarstvennyi arkhiv noveishei istorii) 1903-1990. 
+5 
+Hoover/RGANI, 6/6/57, 13 (KPK chairman Shkiriatov M. F., in verbatim minutes of meeting with KPK technical staff held March 18, 1950). 
+
+========10========
+
+9 
+created and later destroyed, then it is less likely that what we see is representative. 
+The final stage of selection is by the researcher. Because, no one person can read a million pages in a reasonable period of time, the researcher must scan and skip. Here, microfilm has a terrific advantage over paper records. The researcher who goes to Moscow to consult the original records goes with a project. You have clearly formulated aims and objectives. On the basis of the documentary catalogue and the archivist’s advice, you make requests and files arrive on your desk. Everything is purposeful, and selection is systematic; it is also slow. You don’t get to walk around the shelves and pull files out randomly. In any case, you don’t have time. 
+Visiting a secondary repository, you enter the same process, but the important difference lies in what you get. You ask perhaps for a specific file, but what you get is much more than you asked for. A box of microfilm holds eight reels, meaning 20 to 100 files. The structure of the reel is linear; you can’t help but scan the material in the files before and after the one you selected. You scan the other reels too. You begin to notice the frequency of files that seemingly contain junk material: “Deed of acquisition and transfer of documentary materials”; “Deed of the destruction of documents;” “Ledger of decrees and decisions.” Each sheet comprises endless lists in smudged type or minute handwriting. You pause for a moment and try to follow the text. It fills you with boredom, so you move on. 
+When I first saw such files, and for some time afterwards, I thought of them as junk material, to be passed over quickly. Then I realized that I was looking at something I was already interested in and was trying to find: the documentary trail of secret file management. But if I had worked in Moscow with the original records, if I had not been working with microfilm, I might never have known that these documents even existed. In this way, the accident that I happened to be working with microfilm cancelled out the selection bias that might have applied to a more purposeful research agenda. 
+To summarize, the medium was the message. The microfilm record brought the system of accounting for secrets to light. At earlier stages, however, other selection biases may have been at work in deciding which documents entered the particular archive or were thrown away. For this reason, it remains very hard to know whether our data are representative of the Soviet bureaucracy as a whole. 
+In the current section I show that the life course of the secret document had a limited number of fixed points: production, distribution, filing and storage, inventorization, transfer of ownership, and destruction or archiving. I describe and exemplify in some detail. In the following section, I try to 
+
+========11========
+
+10 
+measure. I will suggest ways in which we might assess the burden, and my provisional conclusion will be that the burden was relatively weighty. 
+Production 
+The original document was usually typed with a fixed number of carbon copies. More rarely they were handwritten. On February 7, 1965, for example, deputy chief Juozas Petkevičius of the Lithuania KGB signed a six- page report to Moscow on popular responses to Khrushchev’s dismissal in 1964. The front page shows that we have copy no. 2 of a document classified “top secret.” A standard block of information on the back of the last page, reproduced below at (A), confirms that two copies were made. Copy no. 1 went to Moscow and copy no. 2 to “file no. 236.” The person responsible for executing the document is identified as Baltinas, and the typist as Kuzina. The date of typing is February 6, one day before the signature. This information was standard although not absolutely uniform. The next document in the file shows minor variations (B). Copy 1 went to Moscow, but the file destination of the second copy is not completed; we see this quite often. The last line states additionally that the draft was destroyed. 
+(A) (B) 
+Source: Hoover/LYA, K-1/3/639, 6. Source: Ibid., 15ob. 
+Distribution 
+Every office maintained ledgers of outgoing and incoming secret and non- secret documentation. Some ledgers recorded ordinary correspondence; others were used to inventorize the decrees that cascaded down from above. Since almost anyone charged with responsibility for subordinates could issue a decree, the burdens of recording the latter were considerable. In October 1947, for example, we find Gulag chief Dobrynin issuing a “top secret” decree no. 139 warning camps against issuing too many decrees on trivial subjects, a practice “that leads to the disclosure of secret information.”6 The example is given of the Temlag administration which had issued no less than 400 decrees in the first seven months of 1947. Dobrynin warned camp 
+6 
+Hoover/GARF, R9414/1/85, 170 (Gulag chief Dobrynin, Decree no. 139, October 17, 1947). 
+
+========12========
+
+11 
+commanders especially to withdraw non-secret decrees that revealed the existence of secret ones or their content. 
+In April 1974, in a similar vein, overseers of the Lithuania KGB warned of the growing burdens of paperwork logged in the KGB’s own ledgers of correspondence. Across the Lithuania KGB as a whole, but excluding its first (secret) department, secret and top secret communications both incoming and outgoing totalled 1,257,429 in 1972 and 1,312,820 in 1973 – a year-on- year increase of more than 4 percent.7 The total for 1973 represented more than 8,000 documents per weekday of the year or perhaps 2,000 (on an annual basis) per salaried employee of the KGB.8 
+The ledgers could amount to substantial documentation in their own right. Many have been archived. Ledgers were typically bound volumes of 100 double-sided sheets with handwritten entries. We have, for example, ledger no. 221 of the Lithuania KGB, which listed decrees, directives and instructions of the USSR KGB through 1972, divided into sections: top secret (pages 1 to 30), secret (31 to 90), non-secret (121 to 180), and “for personnel” (po lichnomu sostavu) (181-200). Each entry recorded an item received, copies made, to whom they were distributed, by whom acknowledged, returned, and whether destroyed, with dates of each event.9 
+There were many such ledgers. On January 7, 1953, the USSR MVD Gulag secretary changed hands. The deed of transfer noted 343 ledgers of correspondence (under various headings) incoming from 1951 to 1953, of 
+7 
+Hoover/LYA K-1/3/786, 28-38 (report “On the condition of and measures to improve work with documents in the LSSR KGB,” signed by chief of inspection Rupshis, chief of information and analysis division Andriatis, and chief of secretariat Grakauskas, April 8, 1974) on page 33. This report also gave figures for the Lithuania KGB second (counter-intellligence) 
+administration alone (30,965 items of secret and top secret correspondence in 1971, 31,236 in 1972, and 33,000 in 1973) and for the Kaunas city department of the KGB (4,658 items in 1973 up to April 10, and 5,456 in the same period of 1974, an increase of 12 percent). 
+8 
+Burinskaitė and Okuličiūtė (2010, p. 9), give the total of Lithuania KGB employees in 1988 as 769. One supposes a smaller figure for the early 1970s. To these might be added 4,182 agents and 7,491 trusted persons reported in 1971 (p. 15). 
+9 
+Hoover/LYA K-1/10/403, 1-110 (Zhurnal registratsii. Sekretno. Zhurnal no. 221 ucheta prikazov, ukazaniia i instruktsii KGB pri SM SSSR 1/1- 31/12/1972). 
+
+========13========
+
+12 
+which 189 (more than half) dealt with secret items.10 It also listed 15 ledgers itemizing more than 11,000 incoming coded telegrams and more than 2,000 outgoing in 1952 alone. 
+Secret documents were supposed to be distributed through one of two channels, the agency’s own courier service (if it had one) or the “special service” of the ministry of communications. The documentation I have seen does not shed any light on how these operated. 
+The system was prone, apparently, to various mishaps, for which both sender and receiver might be responsible. In the following story, the sender was responsible for the recipient’s pain. You’re sitting at a desk in Kemerovo. The courier arrives from Moscow, 3,600 kilometers by train, with a secret packet addressed to you. You sign for it. Opening it, you get that sinking feeling: what’s inside is not what you signed for. But you signed, so now you are responsible; who can say it’s not your fault? Immediately you call your colleagues together to witness the discrepancy. Together you swear an affidavit that today you received a packet from MVD Gulag via the ministry of communications special service based in Myski (Kemerovo province); the document inside is numbered 9/9/7-98, not 79, as indicated on the packet.11 
+10 
+Hoover/GARF R9414/1a/193, 4-40 (deed of transfer signed by former chief of USSR MVD GULAG Chirkov and deputy chief Kovalev, January 7, 1953). 
+11 
+Hoover/GARF R9414/1/2575, 107 (deed signed by military unit 7557 chief of secret unit Kozyrevskii, manager of archival file office Iakushev, and secret unit despatcher Ludtsev, November 10, 1951). The same file contains a number of similar documents: ibid., 28 (deed signed by MVD security administration chief of secretariat Polovnev and filing officer Laskina, June 13, 1951) – a document with the wrong number of sheets appended; ibid., 31 (deed signed by MVD Sakhalin ITL administration, chief of secret unit Sil’vanovskii, senior inspector Karpukhina, and senior inspector Kovbasa, July 31, 1951) – a document lacking “secret” classification; ibid., 33 (deed signed by Riazan oblast UMVD, chief of secretariat Aleshin, filing officer Gracheva, and typist Kochetygova, August 13, 1951) – a document intended for another recipient; ibid., 35 (deed signed by MVD Gulag senior operational 
+commissioner of secretariat Shaposhnikov, assistant Petrova, and assistant inspector of secretariat Baranova, August 17, 1951) – documents wrongly numbered and wrongly addressed. From another archive, Hoover/LYA K- 1/10/308, 56 (deed signed by 301 training parachute regiment captain Sliadnev, junior sergeant Shlezinger, and servicewoman Os’kina, addressed to USSR KGB special department chief, copied to Lithuania KGB second administration, March 22, 1963) – a document wrongly classified and wrongly addressed. 
+
+========14========
+
+13 
+Alternatively, the sender could be the victim of the recipient’s lack of care. Here is a tale with which every student can empathize. At the end of 1971 a Lithuania KGB lieutenant returned a borrowed book to the training department, but the inspector failed to record it.12 The book, snappily entitled Criminal Responsibility for Anti-Soviet Organized Activity and Participation in Anti-Soviet Organization, on loan from the KGB Dzerzhinskii higher school in Moscow, was classified “secret.” Repeated searches failed to find it in Vilnius. The lieutenant faced disciplinary proceedings, but was saved when the book showed up – in Moscow. 
+The intervention of a third party could blur responsibility. In 1944, Stalin’s war cabinet issued a secret directive in the form of a coded telegram to Balakhna paper combine former director Izvekov.13 Since Izvekov was temporarily absent, it was delivered to Balakhna city party secretary Morozov for safe keeping. The telegram should have been returned in due course, but was not. In 1949, at a time of heightened concern for secrecy, someone set out to track it down. Conflicting accounts emerged. Morozov, the intermediary, insisted he had given the telegram to Izvekov, but confessed to not having obtained a receipt. Izvekov, now deputy minister of the timber and paper industry in Moscow, denied receiving it and insisted that he would have given a receipt if he had. 
+This story has several notable features: the five years taken to follow up the missing telegram, the two further years taken to investigate it, the fact that it was important enough for the final report to go to Stalin’s own chief of secretariat, and the finding that after investigation no guilt could be assigned. 
+Further mishaps arose because the proper channels and procedures for distributing secret paperwork were evidently cumbersome, so people used workarounds. When they did so, momentary lapses of attention led to documents being lost or stolen en route. We find a series of reports to this 
+12 
+Hoover/LYA K-1/10/406, 1-2 (memo to Lithuania KGB deputy chairman Aleksandrov, signed by seventh department chief Bukauskas and seventh department second section chief Abramov, March 14, 1972); ibid., 16 (memo to Lithuania KGB acting deputy chairman for personnel Armonavichus, signed by USSR KGB training department chief Ivanov, March 21, 1972); ibid., 17 (memo signed by Lithuania KGB chairman Petkevičius, March 29, 1972); ibid., 18-19 (finding of investigation, signed by Lithuania KGB investigation department senior investigator Urbonas and chief Kismanis, March 3, 1972; confirmed by Petkevičius, April 4, 1972). The proceedings were dropped and the inspector was severely reprimanded. 
+13 
+Hoover/RGANI, 6/6/1575, 33-34 (report to Poskrebyshev, signed by KPK chairman Shkiriatov, April 16, 1951). 
+
+========15========
+
+14 
+effect from the Gulag after the war, accompanied by repeated warnings that secret correspondence should be sent out only by courier or special service.14 
+Filing and Storage 
+Government agencies maintained filing systems under headings that were periodically reviewed and approved. For 1953, for example, the MVD GULAG security administration had a list of 492 file titles (with 8 titles in reserve, taking the total up to 500), classified “top secret,” covering 27 pages, including directives, plans, and correspondence with each of the Gulag’s units and subunits.15 Each file was listed as either secret or top secret, with its term of conservation (usually 3 years), and the name of the responsible official. 
+The existence of files did not ensure that documents were placed in them. An inventory of incoming and outgoing secret correspondence of the MVD security administration in November 1952 found documents not yet filed, going back to January, with delays in filing in all departments.16 A Lithuania KGB report on security in ministries and state organizations in April 1969 noted that the Kėdainiai raiispolkom secretary was failing to keep files in good order.17 
+14 
+Hoover/GARF, R9414/1a/145 (Gulag chief Nasedkin to chiefs of camps of republics, regions, and provinces, July 1, 1946); Hoover/GARF, 
+R9414/1a/84, 6 (acting Gulag chief Dobrynin, decree no. 4, January 13, 1947); Hoover/GARF, R9414/1a/91, 00 (Gulag chief Dolgikh to minister Kruglov, May 22, 1951). 
+15 
+Hoover/GARF R9414/1dop/194, 2-28 (nomenklatura of secret files of the MVD GULAG security administration for 1953, signed by security administration chief of secretariat Teterevenkov and acting chief of security administration Egnarov, December 22, 1952). For similar documents see Hoover/GARF R9414/1dop/194, 80-82 (nomenklatura of 32 secret files of the MVD GULAG secretariat for 1953, signed by deputy chief of secretariat Kovalev, no date but December 1952, classified “secret”) and ibid., 83-84 (excerpt from nomenklatura of 16 secret files of the MVD GULAG secretariat, cryptography division, for 1953 (second half), signed by chief of cryptography division Malakhov, August 29, 1953, classified “secret”). 
+16 
+Hoover/GARF R9414/1/2588, 90 (deed of inventorization, signed by GULAG MVD security administration senior lieutenant of the internal service Babinskii and four others, dated November 6, 1952). 
+17 
+Hoover/LYA K-1/3/670, 67-73 (report “On the status of provision of preservation of state secrets in ministries and institutions of the republic,” signed by LSSR SM chief of administration Petrila, April 1969) on pages 67-68. 
+
+========16========
+
+15 
+Secure file storage involved structures and equipment as well as paperwork. The first (secret) department of every establishment required secure accommodation where safes could be located and staff could work unobserved. Safes and doors were generally supposed to be sealed as well as locked outside working hours. Such provisions were not always observed. The Lithuania KGB report of April 1969 recorded that the safe for secret documents belonging to the Kėdainiai raiispolkom was often left unsealed.18 It also criticized the ministries of household services, furniture and woodworking industry, and communal services, the combines of the paper and pulp industry, and especially the Hydrometeorological Institute for lack of separately enclosed office space for those executing secret paperwork. 
+Inventorization 
+In the Gulag, secret correspondence was inventorized on the first of each month. Many particular files contain long sequences of affidavits enumerating hundreds of secret and top secret items incoming and outgoing from various offices and certifying all present and correct.19 
+18 
+Hoover/LYA K-1/3/670, 67-73, on pages 68 and 70. 
+19 
+For example: Hoover/GARF R9414/1/2575, 12 (deed signed by MVD GULAG security administration chief of organizational department Koriukin, senior lieutenant Grigor’ev and junior sergeant Safronova, May 10, 1951), counting secret and top secret documents, 737 incoming and 371 outgoing; ibid., 13 (deed signed by MVD GULAG security administration senior assistant to chief of quartermaster’s division Ziuzin and secretary of quartermaster’s division Ragina, May 8, 1951), counting secret and top secret documents for April, incoming 130, outgoing 73; ibid., 14 (deed signed by MVD GULAG security administration senior instructor of political unit Bartkevich and secretary of political unit Karmanenkova, May 15, 1951) counting secret and top secret documents for April, incoming 281, outgoing 88; ibid., 15 (deed signed by MVD GULAG security administration secretary of department of combat readiness Demushkina and senior assistant of the chief of department Taran, May 8, 1951) counting secret and top secret documents for April, incoming from no. 736 to no. 907, outgoing from no. 3/46 to no. 3/74; ibid., 16 (deed signed by MVD GULAG security administration filing officer of secretariat Laskina and cryptographer of secretariat Chernenko, May 10, 1951) counting secret and top secret documents for April, not numbered but all present and correct; ibid., 18 (deed signed by MVD GULAG security administration senior veterinary officer Kuz’kin and secretary of operations department Kalmykova, May 25, 1951), counting secret and top secret documents for April, incoming 805, outgoing 167; ibid., 19 (deed signed by MVD GULAG security administration senior instructor of political unit Kuriachii and secretary of political unit Karmanenkova, June 5, 1951) 
+
+========17========
+
+16 
+These files give the impression of an orderly system of record keeping and tracking where mistakes were exceptional. In all cases, deeds of 
+inventorization were signed off by at least two officials who had to agree that the records were in order, or share the consequences if not. It was worthy of note when one document in a thousand or ten thousand went astray. 
+Transfer of Ownership 
+When one official replaced another in a position of responsibility, both persons acknowledged the transfer of responsibility for secret paperwork by signing a joint affidavit to that effect. These documents could range in length from one to many dozens of pages. Here is a not untypical case. When the first (secret) department of the Lithuania KGB second administration changed hands in June 1965, two senior lieutenants signed a six-page deed of transfer (typed the same day in one copy.20 The document listed: 
+counting secret and top secret documents for May, incoming 185, outgoing 30; ibid., 20 (deed signed by MVD GULAG security administration filing officer of secretariat Laskina and cryptographer of secretariat Chernenko, June 8, 1951), counting secret and top secret documents for April; ibid., 21 (deed signed by MVD GULAG security administration senior instructor of political unit Bartkevich and secretary of political unit Karmanenkova, May 15, 1951), counting secret and top secret documents for June 1 to 10, incoming 69, outgoing 27; ibid., 22 (deed signed by MVD GULAG security administration senior assistant to chief of quartermaster’s division Ziuzin and assistant to chief of quartermaster’s division Ovechkin, June 12, 1951), counting secret and top secret documents for May, incoming 106, outgoing 89; ibid., 23 (deed signed by MVD GULAG security administration senior assistants to chief of orgstroi department Sorokin and Kurzikova, department secretary Safronova, June 16, 1951), counting secret and top secret documents for May, incoming 748, outgoing 311; ibid., 24 (deed signed by MVD GULAG operations department officers Kuz’kin, Pvlov, Usatov, Rudnev, and Salo, June 14, 1951) counting secret and top secret documents for May to June 10, incoming 1137, outgoing 259, and from the first of the year, incoming 4028, outgoing 868. 
+20 
+Hoover/LYA, K-1/3/636, 155-161 (deed of transfer, signed by LSSR KGB second administration first department, outgoing operational commissioner Marma and incoming Kirichenko, June 11, 1965:). From earlier years see also Hoover/LYA K-1/10/34, 348-351 (deed of transfer of LSSR MGB decrees held by Department “B”, signed by outgoing department secretary Nesytykh and incoming Litvinova, December 8, 1947. 1945), listing 234 decrees and directives of the Lithuania MGB including 69 top secret, 47 secret, and 117 nonsecret and other, noting that two are in the possession of comrades Andreev and Obukauskas; at the level of a parish office, Hoover/LYA K- 1/10/35, 192-228 (deed of transfer, signed by LSSR MGB Zarasai parish 
+
+========18========
+
+17 
+  
+           
+  
+ 
+Eleven files totaling more than 1,400 pages. 
+One letter-coded file (liternoe delo) with five volumes of 
+supplementary material. 
+One special file (osobaia papka) with 44 documents totaling 71 pages. Twelve ledgers of documentation at hand or incoming and outgoing. Six decrees and instructions. 
+Five personal files. 
+Twenty two items of correspondence. 
+Around 140 personnel records (and 18 blank ones). 
+Twenty six “most wanted” notices. 
+Eleven notices of “no longer wanted.” 
+Twelve alphabetical lists of “most wanted.” 
+A collection of information about German intelligence. 
+Lists of traitors living abroad and foreign agents, participants in anti- Soviet organizations, war criminals, and state criminals. 
+Forms to request undercover documentation and wire taps. Records of undercover documentation issued to more than 50 officers. 
+The second administration card indexes of agents, “safe house” keepers, and active cases. 
+This deed of transfer illustrates clearly the recursive aspect of secrecy: it itemized not only secret documents but also ledgers that itemized secret documents. Classified “secret,” the deed of transfer would enter into future inventories in its turn. 
+Changeovers sometimes exposed the loss of documents. When paperwork changed hands, the incentive must have been strong for the incoming chief not to cover for items that had gone missing under the old boss, because this would risk becoming co-responsible for them. In February 1948, for example, Gulag chief Dobrynin wrote to Interior minister Kruglov to report that a change in responsibility for the Gulag secretariat had revealed 
+outgoing division secretary Sukhorukova and incoming Shishin, July 12, 1949), listing 1,393 decrees, instructions and circulars of USSR and Lithuania MGB issued since 1939, of which 798 were top secret or secret; from the same period, Hoover/GARF R9414/1/2575, 1 (deed of transfer signed by MVD GULAG security administration secretary of quartermaster’s division Ragina and deputy chief of quartermaster’s division Ovechkin, May 16, 1951); Hoover/GARF R9414/1a/193, 4-40 (deed of transfer signed by former chief of USSR MVD GULAG Chirkov and deputy chief Kovalev, July 7, 1953); ibid., 64- 99 (deed of transfer signed by Gulag secretariat first division outgoing deputy chief Savina and incoming Konovalov, July 7, 1953). 
+
+========19========
+
+18 
+loss of a secret decree.21 At this time the entire Soviet bureaucracy was in a state of high anxiety over the June 1947 law which explicitly criminalized the accidental or negligent disclosure of state secrets (“taina”) (Harrison 2011). The missing document was traced to former Gulag chief Nasedkin, who admitted that he had taken it and could no longer find it. A search had not been productive. The loss was taken seriously. The memo bears Dobrynin’s handwritten note: “The minister has been informed. He has decreed to search again for the aforementioned decree. Dobrynin. 2.2.48.” 
+However strong the incentive for the incoming chief to check the integrity of the secret records left by his predecessor, it was sometimes overridden by other factors. In November 1943, for example, the NKVD administration chief for prisoners of war and internees wrote to all camp commandants.22 He warned them about cases where newly appointed chiefs had taken over “on the go,” not bothering with inventories and deeds of transfer, and then encountered problems because they had accepted responsibility for documents that turned out to be missing. 
+Audit and Inspection 
+Regular internal inventories of secret paperwork were supplemented by external audits and inspections carried out by the MVD or KGB. They provide something of a contrast to the records of routine documentary accounting. The former typically indicate a tidy operation, with few or no loose ends. In contrast, the records of inspection that have been preserved more often suggest a culture of carelessness and negligence. 
+The Gosplan affair of 1949 provides the most notorious case of slipshod document handling. Until March of that year Nikolai Voznesenskii, in charge of planning, was Stalin’s younger favourite. Part of a high level intrigue that caused Stalin to lose confidence in him was the discovery that many secret and top secret papers were missing from Gosplan – 236 since 1944. The report notes that no one was prosecuted “as the law demands.” In addition, 33 documents listed as destroyed turned up in the possession of an official of the secret department (Khlevniuk et al. 2002, pp. 293-300). 
+23 
+21 
+Hoover/GARF R9414/1a/193, 60 (Gulag chief Dobrynin to Interior minister Kruglov, February 2, 1948). 
+22 
+Hoover/GARF R9414/1dop/1382, 56 (memo to all chiefs of camps, signed by NKVD administration for prisoners of war and internees chief Petrov, November 10, 1943). 
+23 
+Voznesenskii was afterwards arraigned and executed for treason and undermining the economy (Gorlizki and Khlevniuk 2004, pp. 83-89). 
+
+========20========
+
+19 
+I give three lesser examples, far separate in time and space. In August 1944, the chief of Gulag complained of secrecy violations in camps and colonies.24 He cited reports from camps in the Khabarovsk region, listing files with top secret papers, ledgers of secret correspondence, and stamps and seals openly accessible on office desks, and top secret papers and topographical maps in cupboards open to prisoners. 
+In 1952, an MGB inspection of Gosprodsnab, the state committee for supply of consumer and industrial goods, found officials were passing top secret documents from hand to hand without receipt.25 Staff were copying secret and top secret details in their notebooks. Some were failing to return top secret documents at the end of the working day, storing them in safes to which uncleared personnel had access. Four secret documents were missing. (But no one was executed.) 
+In July 1968, the Lithuania KGB reported to the republican party central committee in alarming terms on local failures to preserve secret 
+documentation.26 KGB chairman Petkevičius noted that five organizations had lost 15 separate documents between July 1968 and March 1969. These included a secret civil defence magazine and two secret packets from the Panevėžys local government office; seven secret documents, instructions on the reservation of employees liable for military service, and a secret road atlas from the Šilutė office of the ministry of road transport and highways; a secret pamphlet from the Taurage grain procurement point of the state committee of the grain and fodder industry; five aerial photographic maps 
+24 
+Hoover/GARF, R9414/1/324, 84 (Gulag chief Nasedkin to chiefs of ITL, UITL, and OITK of republics, regions, and provinces, August 19, 1944). For a more detailed review, critical of understaffing but finding fewer faults in terms of process, Hoover/GARF R9414/1/2575, 132-4 (deed of inspection of secret file keeping and the storage of state secrets at MVD Gulag, 69th militarized security detachment, signed by Karaganda province MVD administration, operational commissioner Tret’ian, November 26, 1951). 
+25 
+These facts are given at second hand in the files of the KPK. Hoover/RGANI, 6/6/1650, 21-23 (report to KPK chairman Shkiriatov, signed by responsible controller Byshov, June 1953). 
+26 
+Hoover/LYA K-1/3/670, 55-61 (report to the Lithuanian party central committee, signed by KGB chair Petkevičius, March 31, 1969); ibid., 67-73 (report “On the status of provision of preservation of state secrets in ministries and institutions of the republic,” signed by LSSR SM chief of administration Petrila, April 1969); ibid., 88-91 (to Lithuanian council of ministers chairman Maniushis I. A., signed by LSSR KGB chair Petkevičius, April 1, 1969). 
+
+========21========
+
+20 
+from the ministry of agriculture’s institute for land organization and a map case from the Kaunas filial of the same institute. In two years, more than 400 security passes had been lost at five research and design organizations. Related reports noted failures to receipt, safely store, and limit access to secret documentation, particularly in local government offices. 
+Destruction 
+The final moment of the secret document’s life course involved selection, either for destruction or for the archive. Numerous records of this stage populate the archives. They take the by-now familiar form of an affidavit signed by two or more officers, listing files identified as having lost operational significance and not retaining any historical value, and destroyed by burning. The document is in some cases brief (today we destroyed so many files) and in others at length, listing every record destroyed.27 
+It seems inevitable that, in the immense volume of paperwork to be burned each year, mistakes were made. Omissions from the record were a nightmare for honest officials, and an opportunity for dishonest ones, with little possibility of telling the difference with hindsight. Previously I mentioned the MGB investigation of secrecy violations at Gosprodsnab in Moscow in 1952, which found four secret documents to be missing.28 Two of these were lost on account of Gosprodsnab deputy chairman Rudnitskii, who blamed the inexperience of new first department personnel, a third on 
+27 
+Hoover/GARF R9414/1/2575, 17 (deed of file destruction signed by MVD GULAG security administration cryptographer of secretariat Chernenko and filing officer of secretariat Ivanova, May 17, 1951); Hoover/GARF R9414/1/2588, 13-37 (deed of file destruction signed by MVD GULAG security administration operation department chief of third division Shipkov, senior operational commission Kharchevnikov, and secretary of operations department Kalmykova, April 1, 1952); ibid, 63-69 (deed of destruction, signed by MVD GULAG security administration operations department, senior operational commissioner Kharchevnikov, senior veterinary officer Kuz’kin, and secretary Kalmykova, July 26, 1952); ibid., 78-79 (deed of destruction, signed by MVD GULAG security administration, operations department deputy chief Khanevskii, senior operational commissioner Dmitriev, senior veterinary officer Kuz’kin, August 14, 1952), referring to a 332-page appendix listing each document destroyed); Hoover/GARF R9414/1/2590, 29-30 (selection of documentary materials of the USSR MVD GULAG security administration subject to destruction, signed by chief of secretariat Teterevenkov and four others, December 16, 1952). 
+28 
+Hoover/RGANI, 6/6/1650, 21-23 (report to KPK chairman Shkiriatov, signed by controller Byshov, June 1953). 
+
+========22========
+
+21 
+account of former Gosprodsnab chair Pavlov, who blamed his deputy Selivanov, and the fourth on account of Gosprodsnab secretary Polievktov, who blamed the current chairman Rybakov, who again blamed the secret department. In all cases, those closest to the event maintained that the missing documents had actually been destroyed without a record being kept. Thus, they confessed to procedural violations, not to losing state secrets. 
+Conversely, one might ask whether the process of destruction offered opportunities to cover up the loss of documents by recording them as incinerated. If this happened, it could be detected only if a document listed as destroyed, but in reality missing, subsequently turned up intact. As described above, this happened at least once in the Gosplan affair. 
+Norms and Deviations 
+The overall balance of the archival records gives a mixed impression. There was an elaborate system of control over secret paperwork. A mass of documents suggests conformity and compliance. In many offices, it seems, years went by without a single sheet going missing. Apparently isolated violations were reported to Moscow. When a police officer lost an agent’s files, and failed to report it, the loss was uncovered in less than a month. When a rising industrial manager appeared to have lost an important cable, he was pursued for it seven years after the event. 
+In contrast to this are the cases, some notorious (such as the Gosplan affair), some identified here for the first time, when entire organizations degenerated into slipshod practices, giving rise to multiple, repeated violations over considerable periods of time. 
+It is tempting to ask which of these was nearer to the truth. Was the impression of compliance left by thousands of individual records just a façade, behind which officials hid systematic infringements and abuses? Were the organizations that gave rise to periodic reports of systematic violations just a few “bad apples”? 
+Plausibly, the truth was a combination (but not an average) of the two. In the Soviet system, secrecy was a fundamental norm. The value of secrecy was signaled by stringent procedures and fearsome penalties for violating them, though these were not always imposed. Officials of any status needed to win the trust of their superiors, whether they were ambitious for promotion or just wished to be left alone to sleep peacefully. The first requirement was to be trusted with secrets. Thus incentives to comply with secrecy rules were high-powered, and it would not be surprising if most officials were careful with secrets most of the time. 
+At the same time, human beings being as they are, compliance with the basic norms of secrecy must have been vulnerable to small, individual 
+
+========23========
+
+22 
+deviations that, if tolerated, could spread infectiously by example and so create local “peer” or “neighbourhood” effects. Nobody was perfect; minor infractions were inevitable. Faced with some discrepancy between an exacting rule book and the shortcuts adopted by predecessors and peers, any official could be tempted to compromise and copy others to save effort and preserve goodwill. In this way, examples of rule-breaking could propagate themselves, at least locally. This appears to be the case in most kinds of offending, so it was probably the case in the Soviet bureaucracy as well.29 
+The result would be multiple equilibria. In the “good” equilibrium, compliance would be nearly universal, and individual deviations would be quickly exposed and punished. If one person’s backsliding was tolerated, however, with some probability it would be copied through the organization, shifting the locality towards the “bad” equilibrium until it met some external resistance. Hence, frequent inspection and occasional scandals. 
+As a working hypothesis, I propose that personal adherence to Soviet rules for secret file management was intrinsically heterogeneous: skewed towards compliance by career incentives that were high-powered but not consistently enforced, with instances of deviant behaviour that broke out, spread infectiously on an epidemiological model, and were exposed, checked, and eradicated only when career concerns were reawakened. 
+3. Measuring Transaction Costs 
+Control and evaluation are distinct functions of accounting. Financial and production accounts allow corporate executives to control the activities of middle managers and employees. In addition, such accounts can be collated and aggregated or sampled so as to evaluate the economic health of the firm, the government, or the entire economy. Demographic accounts have the same dual purpose. Nearly all countries control migration at national borders, and some control residence in major cities. China controls births at the family level through the one-child policy. Beside control, there is always evaluation; combined with migration records, for example, local registers of births and deaths can be added up to find the net rise or decline of the regional or national population and evaluate the health of families and populations. 
+29 
+Glaeser, Sacerdote, and Scheinkmann (1996) show that variations in crime rates across U.S. cities and precincts have been much larger than any associated variations in economic conditions. They associate this with social interactions that cause personal choices over law-breaking versus honest citizenship to become locally aligned. Empirically, they find that petty crime is more susceptible to such neighborhood effects than major crimes such as homicide. 
+
+========24========
+
+23 
+In the Soviet Union, the system of accounting for secrets was used almost exclusively to control middle managers and employees, with little or no evaluation. Only one instance has come to light when officials set out to aggregate data across an agency and calculate the year on year trend.30 
+I make use of the electronic catalogue of the Lithuania KGB collection at the Hoover Institution to make the first estimate of the proportional burden of accounting for secrets in a regional Soviet bureaucracy, specifically a small republican KGB. I assume that the relative importance of a given activity to an organization is related to the proportion of paperwork left in its archive that is devoted to that activity. This assumption is critical. 
+A micro-level example illustrates. School no. 303 of the USSR Council of Ministers KGB, located in Vilnius, provided a two-year training course for operative workers of the Lithuania KGB from 1946 to 1960. It had 70 to 80 staff and an annual intake of 150, with student numbers rising therefore to 300 per year. Staff and students were obliged to observe “strict 
+conspirativeness” in their training activities; for example, students attending lectures were permitted to take notes only in special notebooks issued and registered by the school library.31 The archival collection of this school comprises 99 files in total, of which 1 to 75 deal with management of the school year by year; the files numbered 76 to 99 deal with student records. Consider the 75 management files. To judge from their descriptions in the electronic inventory, 15 files, or 20 per cent of the total, are predominantly devoted to deeds of inventorization, transfer, and destruction of documents and files. Based on my critical assumption, in a working week of five days, the entire staff of the school could on average have spent a whole day doing nothing but account for secret documentation. 
+How much is a lot? Without comparators we have no scholarly criterion. One criterion could be how much it takes to excite the public. At the end of 
+30 
+This was cited above: Hoover/LYA K-1/3/786, 28-38 (report “On the condition of and measures to improve work with documents in the LSSR KGB,” signed by chief of inspection Rupshis, chief of information and analysis division Andriatis, and chief of secretariat Grakauskas, 8 April 1974). 
+31 
+Hoover/LYA, “Fond K-27, School number 303 of the committee of state security (KGB) under the USSR council of ministers records.” The introduction to this holding of the Hoover Archive is found at 
+http://media.hoover.org/sites/default/files/documents/lithuanian_kgb_k27_ op01_intro.pdf, and the file register (providing the basis for the calculations in the text) is found at 
+http://media.hoover.org/sites/default/files/documents/lithuanian_kgb_k27_ op01_register.pdf (both accessed on July 20, 2011). 
+
+========25========
+
+24 
+2006 it was revealed that in the previous financial year London’s 
+Metropolitan police had spent around 5 percent of its £3.2 billion budget on “non-incident linked paperwork” (£122.2 million) and “checking paperwork” (£26.5 million). This was enough to create newspaper headlines.32 The figures here are larger by a factor of four (and below are some that are larger still). 
+Files could vary in size (in the case of School no. 303, from 2 to 377 sheets). We can make the same calculation in numbers of pages. If we assign all the pages in each file to the predominant activities featured in its description, it appears that 1,289 archived pages, or 17.1 percent of the total of 7,524 pages in the archive of School no. 303, could have been devoted to secret document handling. This measure, 17.1 percent of the pages, seems more precise than one fifth of the files, because a page is a more invariant unit than a file. But the gain in precision is more apparent than real. Not every document in a given file was dedicated to the same activity. Therefore, to assign all the pages in each file to the predominant activities featured in its description is an approximation. For these reasons, a rough measure based on the predominant content of the file may mislead less than the false precision gained when pages are counted, but all pages in a file are assigned to its predominant subject. 
+In that spirit, I turn to a much larger collection. By May 2011 the Hoover Archive had acquired more than five thousand files of Lithuania KGB containing just over one million microfilmed pages. These files, listed in Table 1, all belonging to fond K-1, are organized in five opisi: 2 (counter-intelligence departments of the NKVD-NKGB- MVD-KGB up to 1954), 3 (counter- intelligence departments from 1945), 10 (the KGB secretariat), and 14 (the KGB city administrations); and 45 (operational case files). 
+The operational case files consist to a significant extent of personal rather than management data, and many files remained open for 45 years (from 1940 to 1985). With the aim of focusing on the year to year management of the Lithuania KGB (and putting some limits on heterogeneity in the data) I exclude opis 45 from analysis. Below I refer to opisi 2, 3, 10, and 14 as the “management files” and the data I use are taken from them. 
+It will prove difficult to make sense of this material without paying close attention to time variation. Figure 1 shows how the 668,000 pages of the management files are distributed over time. This distribution is remarkably uneven. 
+32 
+“Police paperwork costs hit £625m,” by Ben Leapman, The Telegraph, December 3, 2006. The figure of £625 million extrapolated the Met’s figures across the country. 
+
+========26========
+
+25 
+Table 1. The Lithuania KGB collection at Hoover, April 2011: files, pages, and years opened and closed 
+Number of: 
+Opis First year Last year Files Pages 
+2 1941 1954 39 8,959 
+3 1945 1996 1,983 415,985 
+10 1940 1991 750 166,888 
+14 1944 1986 662 76,004 
+45 1926 1991 1,878 370,267 
+Total … … 5,312 1,038,103 
+Average … … … 194.5 
+Standard 
+deviation … … … 115.7 
+Source: Lietuvos SSR Valstybės Saugumo Komitetas selected records, 1940– 91, held at the Hoover Archive and described at 
+http://www.hoover.org/library-and-archives/collections/east- 
+europe/featured-collections/lietuvos-ssr (accessed April 8, 2011). 
+Figure 1. Lithuania KGB management files, 1940 to 1989: file pages by year file was opened 
+70000 
+60000 
+50000 
+40000 
+s 
+e 
+g 
+a 
+P 
+30000 
+20000 
+10000 
+0 
+1940 1945 1950 1955 1960 1965 1970 1975 1980 1985 
+Source: As Table 1 (management opisi only). 
+Measured by the number of pages, nearly two thirds of the entire collection was laid down in a single decade from 1944 to 1953. A prominent spike is also seen in 1984 and 1985; more pages were accumulated in these two years than in the preceding decade from 1974 to 1983. 
+In order to understand the contribution of secret file management to the Lithuania KGB archive in different historical periods, it has been necessary to conduct a wider examination of the content of the files, and then extract 
+
+========27========
+
+26 
+results relevant to this study. The methods and results of the wider analysis are set out in the data appendix. Here I extract the most relevant findings. 
+The spirit of the exercise is to assign the records in the archive to different subject categories that are non-overlapping as far as possible. This is done file by file (not by document or page), based on the file description in the Hoover archive’s electronic file catalogue. As shown in the data appendix, two categories account for more than 70 percent of all the records: counter- insurgency, and paper tracking. All other operational concerns, including the suppression of foreign intelligence activities, nationalism, dissent, cultural deviations, the investigation of worker discontent and industrial accidents, and so forth, are limited to the remaining files. 
+Figure 2. Lithuania KGB management files, 1940 to 1989: Composition by selected keyword clusters and year 
+300 
+250 
+200 
+s 
+150 
+Counter-insurgency 
+e 
+l 
+i 
+F 
+100 
+Other Paper Tracking 
+50 
+0 
+0 
+5 
+0 
+5 
+0 
+5 
+0 
+5 
+0 
+5 
+4 
+4 
+5 
+5 
+6 
+6 
+7 
+7 
+8 
+8 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+Source: See the data appendix, Table A-4. 
+We find that counter-insurgency and paper tracking account for nearly all the time variation visible in Figure 1. The fine grain of annual variation is shown in Figures 2 and 3. Figure 2 closely resembles Figure 1 in outline, although the unit of measurement in Figure 2 is files, not pages. Figure 2 shows clearly that the main factor in the high rate of KGB file creation in the years up to 1953 was the war and the postwar armed struggle over the Sovietization of Lithuania (described vividly by Reklaitis 2007; Statiev 2010; Weiner and Rahi-Tamm 2012). 
+It is notable that 1953, the year of Stalin’s death, saw a spike of paperwork in all dimensions of Lithuania KGB activity. After that, the KGB settled down to more normal operations. Paper-tracking documentation appears to have been significant in nearly all years, but declined gradually 
+
+========28========
+
+27 
+from the 1950s through the 1970s. This decline was broken by an extraordinary upturn, beginning in 1984, that spiked sharply in 1985. After that, everything collapsed to very low levels and then zero. 
+To understand the time variation in paper tracking activities, I distinguish orders of recursion. First-order recursion is the initial registration of incoming and outgoing secret instructions and correspondence in (secret) ledgers. Higher orders of recursion involved the subsequent tracking of secret documentation, including that created in the first recursion. 
+Figure 3. Lithuania KGB management files, 1940 to 1989: Composition of paper-tracking files by first and second order 
+250 
+200 
+150 
+s 
+e 
+l 
+i 
+F 
+100 
+First Order Higher Order 
+50 
+0 
+0 
+5 
+0 
+5 
+0 
+5 
+0 
+5 
+0 
+5 
+4 
+4 
+5 
+5 
+6 
+6 
+7 
+7 
+8 
+8 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+Source: See the data appendix, Table A-4. 
+Figure 3 isolates the files that recorded paper tracking activity, broken down between the first and higher orders. This figure shows that first order documentation took up relatively little archive shelving until 1984. The spike of 1984 to 1985 consists entirely of correspondence ledgers, that is, of first order accounting for secrets. The figure confirms that higher order paper tracking was in slow decline from the 1950s and this decline continued through the 1980s. 
+The 249 ledgers archived in 1984 and 1985 are something of a mystery. They total 7 percent of all material in the Lithuania KGB management files. One possibility must be that similar numbers of ledgers were created in every normal year, were kept for limited periods, and were then destroyed (as lacking historical interest) rather than archived, with the exception of 1984 and 1985 for some reason. This possibility is disturbing: if ledgers were more much likely to be incinerated than other documents, then they would be 
+
+========29========
+
+28 
+greatly underrepresented in the archive as a whole and the present estimate of their contribution to the total of paperwork could be much too low. 
+Setting this concern to one side, I focus on the contribution of paper tracking to the normal or “peacetime” activities of the Lithuania KGB. Table 2 distinguishes three sub-periods: the counter-insurgency (1944 to 1953), post- Stalin normality (1954 to 1982), and after Brezhnev (1983 to 1989). Our interest is in the time of post-Stalin normality. We see that in these years the tracking of secret paperwork accounted for 34 percent of all management files left by the Lithuania KGB. Within that subtotal, most records were of higher than first order (but this might reflect a relatively high rate of attrition 
+of first order documentation). 
+Table 2. Lithuania KGB management files, 1940 to 1996: number and distribution by keyword cluster and period 
+Year Files, Counter- 
+total insurgency 
+(1) (2) Total 3434 1638 Percent 100% 48% Selected periods, annual average: 1944/53 196.5 154.6 1954/82 34.6 2.6 1983/89 61.6 1.0 Percent of total for period: 1944/53 100% 79% 1954/82 100% 8% 1983/89 100% 2% 
+Subtotal 
+(3) 794 23% 
+Paper tracking 
+First 
+Order 
+(4) 
+358 
+10% 
+Higher Order 
+(5) 
+436 13% 
+Other 
+(6) 1002 29% 
+14.6 11.9 42.4 
+1.3 2.3 39.0 
+13.3 9.6 3.4 
+27.3 20.1 18.1 
+7% 34% 69% 
+1% 7% 63% 
+7% 28% 6% 
+14% 58% 29% 
+Source: See the data appendix, Table A-4. The figure is bold is the one that I highlight as the main result of this section of the paper. 
+To summarize, if the proportions of paperwork in the Soviet archives can be taken to signal the relative costs of different activities in the work of government, the Lithuania KGB archive at Hoover suggests a figure of one third as the burden of transaction costs arising from secret paperwork in normal times. This figure is large, but it may also be a lower bound; higher figures are possible. There is still a lot that we do not understand. 
+4. Conclusions 
+The Soviet system of accounting for secrets throws light on the transaction costs of doing business under a secretive dictatorship. These costs appear to have been burdensome. The burdens are explained by conspirative norms of government combined with the recursive property of secrecy, which means 
+
+========30========
+
+29 
+that the system of accounting for secrets was itself secret and so had to account for itself. 
+The evidence is consistent with the idea that most Soviet officials complied most of the time. We also find many particular instances of careless handling, however. If undetected and unchecked, these could spread locally through organizations until uncovered by inspection. 
+Based on the assumption that the proportions of paperwork in the Soviet archives are indirect evidence of the relative importance of different activities in the work of government, I have used the records of a small regional bureaucracy, the Lithuania KGB, to measure the burden of secret paperwork. There is much time variation, some but not all of which is easily explained. Over the period of “Soviet normality” from 1954 to 1982, the accounting for secrets made up around one third of the total documentation now available. 
+This figure of one third is surprisingly large, and is the main empirical contribution of the present paper. If we take it to signal KGB priorities, then it seems that objective number one was to prevent the armed overthrow of the Soviet state; number two was to protect its own paperwork. 
+
+========31========
+
+30 
+References 
+Archives 
+Hoover/GARF: Archives of the Soviet Communist Party and Soviet State 
+Microfilm Collection at the Hoover Institution. Records of the State 
+Archive of the Russian Federation (Moscow). 
+Hoover/LYA: Lietuvos ypatingasis archyvas (Lithuanian Special Archive), 
+Lietuvos SSR Valstybės Saugumo Komitetas (Lithuanian Soviet Socialist 
+Republic, Committee of State Security) at the Hoover Institution, selected 
+records, 1940-1985 
+Hoover/RGANI: Archives of the Soviet Communist Party and Soviet State 
+Microfilm Collection at the Hoover Institution. Records of the Russian 
+State Archive of Recent History (Moscow) 
+Publications 
+Bone, Jonathan. 1999. Soviet Controls on the Circulation of Information in the 
+1920s and 1930s. Cahiers du Monde russe 40(1-2), pp. 65-90. 
+Burinskaitė, Kristina, and Lina Okuličiūtė. 2010. KGB in Lithuania in 1954- 
+1991. Edited by Teresė Birutė Burauskaitė. Vilnius: Genocide and 
+Resistance Research Centre of Lithuania. 
+Fitzpatrick, Sheila. 1990. A Closed City and Its Secret Archives: Notes on a 
+Journey to the Urals. Journal of Modern History 62(4), pp. 771-781. Glaeser, Edward L., Bruce Sacerdote, and José A. Scheinkman. 1996. Crime 
+and Social Interactions. Quarterly Journal of Economics 111:2, pp. 507- 
+548. 
+Gorlizki, Yoram, and Oleg Khlevnyuk. 2004. Cold Peace: Stalin and the Soviet 
+Ruling Circle, 1945-1953. New York: Oxford University Press. 
+Grybkauskas, Saulius. 2007. State-Security Clearance as an Instrument of 
+Social Control in the Industry of Soviet Lithuania, 1965 to 1985. PERSA 
+Working Paper no. 48. University of Warwick, Department of Economics. 
+Available from http://www.warwick.ac.uk/go/persa/. 
+Harrison, Mark. 2008. Secrecy. In Guns and Rubles: the Defense Industry in 
+the Stalinist State. Edited by Mark Harrison. New Haven: Yale University 
+Press. 
+Harrison, Mark. 2011. Secrecy, Fear, and Transaction Costs: The Business of 
+Soviet Forced Labour in the Early Cold War. CAGE Working Paper no. 
+47/2011, University of Warwick, Department of Economics. 
+Holquist, Peter. 1997. “Information Is the Alpha and Omega of Our Work”: 
+Bolshevik Surveillance in Its PanEuropean Context. Journal of Modern 
+History 69:3, pp. 415-450 
+Hutchings, Raymond. 1987. Soviet Secrecy and Nonsecrecy. Basingstoke: 
+Macmillan. 
+Khlevniuk, O.V., I. Gorlitskii [Yoram Gorlizki], L.P. Kosheleva, A.I. Miniuk, M.Iu. 
+Prozumenshchikov, L.A. Rogovaia, and S.V. Somonova, eds. 2002. 
+Politbiuro TsK VPK(b) i Sovet Ministrov SSSR. 1945-1953. Moscow: 
+ROSSPEN. 
+
+========32========
+
+31 
+Khlevnyuk, O. V., A.V. Kvashonkin, L.P. Kosheleva, and L.A. Rogovaia, eds. 
+1995. Stalinskoe Politbiuro v 30-e gody. Sbornik dokumentov. Moscow: 
+AIRO-XX. 
+Khorkhordina, T. I. 2009. Khraniteli sekretnykh dokumentov. In Rezhimnye 
+liudi v SSSR, pp. 67-95. Edited by T. S. Kondrat’eva and A. K. Sokolov. 
+Moscow: ROSSPEN. 
+Maggs, Peter B. 1964. Nonmilitary Secrecy Under Soviet Law. Report P2856- 
+1. Santa Monica: The Rand Corporation. 
+Nikitchenko, V. F. et al., eds. 1972. Kontrrazvedyvatel’nyi slovar’. Vysshaia 
+kranoznamennaia shkola Komiteta gosudarstvennoi bezopasnosti pri 
+Sovete Ministrov SSSR imeni F.D. Dzerzhinksogo. Nauchno-izdatel’skii 
+otdel. Available from http://www.kgbdocuments.edu, accessed July 27, 
+2011. 
+Reklaitis, George. 2007. Cold War Lithuania: National Armed Resistance and 
+Soviet Counter-Insurgency. The Carl Beck Papers in Russian & East 
+European Studies, no. 1806. University of Pittsburgh, Centre for Russian 
+and East European Studies. 
+Rosenfeldt, Niels Erik. 1978. Knowledge and Power: The Role of Stalin’s 
+Secret Chancellery in the Soviet System of Government. Copenhagen 
+University Institute of Slavonic Studies. 
+Rosenfeldt, Niels Erik. 1989. Stalin’s Special Departments: A Comparative 
+Analysis of Key Sources. Copenhagen University Institute of Slavonic 
+Studies. 
+Rosenfeldt, Niels Erik. 2009. The Special World: Stalin's Power Apparatus and 
+the Soviet System's Secret Structures of Communication. Vols 1-2. 
+Copenhagen: Museum Tusculanum Press. 
+Statiev, Alexander. 2010. The Soviet counterinsurgency in the western 
+borderlands. Cambridge: Cambridge University Press. 
+Treml, Vladimir G., and John P. Hardt, eds. 1972. Soviet Economic Statistics. 
+Durham, N.C.: Duke University Press. 
+Weiner, Amir, and Aigi Rahi-Tamm. 2012. Getting to Know You: How the 
+Soviets Made Their Society Transparent. Kritika 3:1 (forthcoming). Wheatcroft, S. G., and R. W. Davies. 1994. The Crooked Mirror of Soviet 
+Economic Statistics. In The Economic Transformation of the Soviet Union, 
+1913-1945, pp. 24-37. Edited by R. W. Davies, Mark Harrison, and S. G. 
+Wheatcroft. Cambridge: Cambridge University Press. 
+Wintrobe, Ronald. 2000. The Political Economy of dictatorship. Cambridge: 
+Cambridge University Press. 
+
+========33========
+
+Accounting for Secrets 
+Mark Harrison 
+Data Appendix 
+The appendix describes the sources and methods underlying Table 2. By May 2011 the Hoover Archive had acquired more than five thousand files of the Lithuania KGB containing just over one million microfilmed pages (Table 1). These files, all belonging to fond K-1, are organized in five opisi: 2 (counter- intelligence departments of the NKVD-NKGB- MVD-KGB up to 1954), 3 (counter-intelligence departments from 1945), 10 (the KGB secretariat), and 14 (the KGB city administrations); and 45 (operational case files).1The first step in the data analysis was to download the electronic descriptions of the management files (opisi 2, 3, 10, and 14, as explained in the text), and merge them. The size of the resulting file was 86,225 words and numbers. 
+The second step was to derive keywords. Initially I eliminated all numbers, all words of one or two letters, and conjunctions, pronouns, and other common non-substantial words (thus dlia, drugie, ego, est', kotoroi, nad, nim, nimi, nikh, pered, pod, posle, pri, protiv, sredi, tak, cherez, eto and derivatives, razn-and proch-). I also converted three words spelt out in roman to Cyrillic (Abstelle, LSSR, and Ostland). 
+Because nouns decline and verbs conjugate in the Russian language, I sorted the remaining words by their first five letters. At this point many words still required disambiguation, for example, agent from agentura, akt from aktiv, and antisovetskii (955 occurrences) from antisemiticheskii (one occurrence). Next, I went through the list by hand, sorting shorter words on the first 4 or 3 letters and longer words by up to 11 letters. I also grouped words reflecting the changing historical nomenclature of a single organization such as the NKGB-MGB-KGB. The final list comprised 1,400 unique keywords. 
+At this point I assigned each keyword to one of three headings, “operational” (oriented towards external goals, such as the suppression of hostile activity), “organizational” (oriented towards internal goals, such as the maintenance of morale and integration with other party and state institutions), and “procedural” (oriented towards compliance with internal 
+1 
+These files are described at http://www.hoover.org/library-and- archives/collections/east-europe/featured-collections/lietuvos-ssr (accessed April 8, 2011). 
+First draft: September 26, 2011. This version: October 17, 2011. 
+
+========34========
+
+2 
+norm and rules). Table A-1 shows the top 40 keywords under each heading and the frequency with which they occurred. 
+Based on the ranking of different keywords in Table A-1 and my own reading of the material, I set to determine the frequency of a number of keyword clusters. These are defined in Table A-2. 
+Calculated on that basis, Table A-3 shows the frequency of keyword clusters in the collection. It can be seen that secret file management is the second most frequently occurring keyword cluster (after counter-insurgency), amounting to nearly one quarter of the total files. If secret file management is divided into first and higher orders, these two sub-clusters would still occupy second and fourth places in the list. Table A-4 shows the distribution of counter-insurgency files and paper tracking files, both first-order and higher-order, year by year over time. 
+
+========35========
+
+3 
+Table A-1. Lithuania KGB management files, 1940 to 1989: Frequency of keyword stems 
+Rank 1 
+Operational партизан– (partisan) 
+N 2373 
+2 3 4 
+борьб– (struggle) антисов– (anti-Soviet) подпол– (underground) 
+1404 955 616 
+5 6 7 8 
+9 10 11 12 13 
+националист– (nationalist) настроен– (mood) провер– (verification) ЛНД– (Lithuanian Popular Movement) 
+иностран– (foreign) автор– (author) уби– (kill) 
+преступ– (criminal) аноним– (anonymous) 
+567 460 421 308 
+228 204 204 192 189 
+14 15 
+176 175 
+16 
+молод– (young, youth) бандит– (organized criminality) 
+служ– (service, usually religious) 
+духов– (ministry, religious) бойц– (fighter) защит– (defence) немец– (German) оккупац– (occupation) 
+170 
+17 18 19 20 21 
+135 134 131 125 92 
+22 
+Литв– (Lithuania, pre-Soviet) 
+91 
+Organizational 
+НKGB, МГБ, KGB– (People's Commissariat– (Ministry, Committee) of State Security) ЛССР– (Soviet Lithuania) отдел– (department) МВД– (People's Commissariat– (Ministry) of Internal Affairs) рабо– (worker, employee) управлен– (administration) уезд– (rural district) лиц– (person) 
+агентур– (agent network) проявл– (manifestation) район– (urban district) Литовск– (Lithuanian) оператив– (operational, operative) 
+СССР– (USSR) 
+формирован– (formation, usually military) 
+сет– (network) 
+аппарат– (apparatus) уполномоч– (plenipotentiary) розыск– (manhunt) спец– (special-purpose) организ– (organized, organization) 
+действ– (action, activity) 
+N 4398 
+Procedural 
+документ– (document) 
+N 1667 
+3094 1909 1774 
+отчет– (report) справ– (reference report) сообщ– (communication) 
+1154 1116 991 
+1430 1353 1205 1059 
+дел– (file) 
+спис– (list) 
+акт– (deed) 
+перепис– (correspondence) 
+868 523 521 465 
+813 794 747 711 592 
+свод– (briefing) данны– (data) журнал– (ledger) регистр– (register) стат– (statistical) 
+424 414 405 382 381 
+515 496 
+план– (plan) переда– (transfer) 
+352 307 
+461 
+уничтож– (destruction) 
+284 
+438 410 373 361 349 
+прием– (acceptance) материал– (documentation) протокол– (minutes) опис– (description) заявлен– (request) 
+279 190 178 163 154 
+337 
+жалоб– (complaint) 
+150 
+
+========36========
+
+Rank 23 24 25 26 27 28 
+Operational 
+поль– (Polish) 
+ценност– (valuable, n.) выбор– (electoral) вооружен– (armed) промышл– (industry) заключ– (prisoner, imprisoned) 
+военн– (military) профилакт– (preventive warning) 
+заграни– (trans-border) листово– (leaflet) пересыл– (resettled) транспорт– (transport) возвра– (return, usually from abroad) 
+легенд– (caption) америк– (American) дорог– (road) 
+желез– (iron, railroad) поезд– (train) 
+N 74 65 61 58 55 54 
+29 30 
+51 50 
+31 32 33 34 35 
+45 45 45 42 41 
+36 37 38 39 40 
+39 35 34 34 31 
+4 
+Organizational 
+город– (city) 
+выявлен– (revealed) разраб– (processing, processed) арест– (arrest) 
+деятельност– (actuality, reality) област– (province) 
+государ– (state) указ– (instruction, decree) 
+групп– (group) агент– (agent) оперучет– (operative ) развед– (intelligence) населен– (population) 
+полити– (political) 
+след– (clue, investigation) обстановк– (circumstance) назыв– (called, as in "so-called") ликвид– (liquidation) 
+N 313 312 309 294 289 254 
+Procedural 
+информ– (information) учет– (account) перевод– (translation) вопрос– (question) главн– (chief) секрет– (secret) 
+N 137 132 110 106 105 94 
+232 220 
+результат– (result) Приказ– (decree) 
+80 79 
+200 200 181 180 178 
+распоря– (instruction) ответ– (answer) повод– (subject) факт– (fact) 
+делопроизв– (file-keeping) 
+79 75 72 58 53 
+178 172 170 165 162 
+недостатк– (defect) ведомост– (gazette) полож– (position) пис– (letter) издан– (published) 
+53 52 51 50 49 
+Source: Lietuvos SSR Valstybės Saugumo Komitetas selected records, 1940–91, held at the Hoover Archive and described at http://www.hoover.org/library-and-archives/collections/east-europe/featured-collections/lietuvos-ssr (accessed April 8, 2011). 
+
+========37========
+
+5 
+Table A-2. Lithuania KGB management files, 1940 to 1996: keyword clusters 
+Cluster 
+Anonymous letters and leaflets 
+Cautionary meetings Complaints and petitions 
+Concerns about Jews Concerns about young people Counter-insurgency 
+Economy, industry, and transport 
+Foreigners and foreign relations 
+Paper tracking: first order 
+Paper tracking: second order 
+The file description contains 
+Any one of листово– 
+аноним– Any occurrence of профилак– 
+Any two of заявлен– 
+жалоб– 
+жителей Any occurrence of евре– Any occurrence of молод– 
+Any one of бандит– 
+партизан– 
+подпол– 
+защит– 
+Any two of промышл– 
+режимн– 
+объект– 
+транспорт– 
+поезд– 
+перевоз– 
+Any one of загран 
+уехать 
+убежать 
+иностран– 
+турист– 
+Any three of журнал– 
+регистрации 
+документ– 
+приказ– 
+указ– 
+распоряж– 
+Any two of акты 
+прием– 
+передач– 
+уничтож– 
+Source: Table A-1 and as explained in the text. 
+
+========38========
+
+6 
+Table A-3. Lithuania KGB management files, 1940 to 1996: Composition by keyword clusters 
+Number Percent 
+Total 3434 100.0% 
+Of which: 
+Counter-insurgency 1638 47.7% 
+Paper tracking 794 23.1% 
+First order 358 10.4% 
+Higher order 436 12.7% 
+Foreigners and foreign relations 365 10.6% 
+Anonymous letters and leaflets 225 6.6% 
+Concerns about young people 167 4.9% 
+Petitions and complaints 148 4.3% 
+Cautionary meetings 49 1.4% 
+Economic issues 43 1.3% 
+Concerns about Jews 16 0.5% 
+Source: Table A-2 and as explained in the text. Figures in bold are those relating to the tracking of secret paperwork. 
+
+========39========
+
+7 
+Table A-4. Lithuania KGB management files, 1940 to 1996: number and 
+distribution by keyword cluster and year 
+Year 
+Files, Counter- total insurgency (1) (2) 
+5 0 
+13 3 
+2 1 
+7 5 133 107 259 234 224 193 232 200 217 183 187 159 165 133 133 93 144 105 271 139 
+50 15 
+50 4 
+45 4 
+62 16 
+30 5 
+57 11 
+46 0 
+31 0 
+21 0 
+23 0 
+27 1 
+22 0 
+20 1 
+36 1 
+17 0 
+36 1 
+27 0 
+34 1 
+28 0 
+34 0 
+31 1 
+34 1 
+36 1 
+37 0 
+25 0 
+28 1 
+34 10 
+38 1 
+44 1 
+55 3 
+93 4 
+Subtotal 
+1940 1941 1942 1943 1944 1945 1946 1947 1948 1949 1950 1951 1952 1953 1954 1955 1956 1957 1958 1959 1960 1961 1962 1963 1964 1965 1966 1967 1968 1969 1970 1971 1972 1973 1974 1975 1976 1977 1978 1979 1980 1981 1982 1983 1984 
+Paper Tracking 
+First 
+Order (3) (4) 0 0 1 0 0 0 0 0 4 1 8 1 7 0 30 3 17 0 9 2 13 3 4 1 8 1 46 1 20 7 25 3 15 2 18 2 15 2 23 3 28 2 17 4 10 0 11 3 14 2 14 2 8 2 16 2 8 2 11 2 9 2 11 2 8 2 5 2 5 2 10 2 4 2 10 2 5 2 3 1 7 2 9 3 5 3 13 7 51 47 
+Higher Order Other 
+(5) (6) 
+0 5 
+1 9 
+0 1 
+0 2 
+3 22 
+7 17 
+7 24 
+27 2 
+17 17 
+7 19 
+10 19 
+3 36 
+7 31 
+45 86 
+13 15 
+22 21 
+13 26 
+16 28 
+13 10 
+20 23 
+26 18 
+13 14 
+10 11 
+8 12 
+12 12 
+12 8 
+6 11 
+14 19 
+6 9 
+9 24 
+7 18 
+9 22 
+6 20 
+3 29 
+3 25 
+8 23 
+2 31 
+8 27 
+3 20 
+2 24 
+5 17 
+6 28 
+2 38 
+6 39 
+4 38 
+
+========40========
+
+8 
+Paper Tracking 
+Files, Counter- First Year total insurgency Subtotal Order 
+(1) (2) (3) (4) 1985 239 0 209 202 1986 16 0 14 12 1987 15 0 5 2 1988 10 0 3 2 1989 3 0 2 1 1990 4 0 3 3 1991 3 0 3 2 1996 1 0 0 0 Total 3434 1638 794 358 Source: Table A-2 and as explained in the text. 
+Higher Order Other 
+(5) (6) 
+7 30 
+2 2 
+3 10 
+1 7 
+1 1 
+0 1 
+1 0 
+0 1 
+436 1002 
+
+========41========
+

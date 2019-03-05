@@ -1,0 +1,569 @@
+May 2012 
+                 No.87 
+Incumbent Effects and Partisan Alignment in Local Elections: a 
+Regression Discontinuity Analysis Using Italian Data 
+Emanuele Bracco, Michela Redoano and Francesco Porcelli 
+University of Lancaster and University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Incumbent E¤ects and Partisan Alignment in Local Elections: a 
+Regression Discontinuity Analysis Using Italian Data 
+Emanuele Bracco Francesco Porcelli University of Lancaster University of Warwick 
+Michela Redoano¤ 
+University of Warwick 
+This version: April 2012 
+Abstract 
+This paper provides a simple model to explain e¤ect of political alignment be- tween di¤erent tiers of government on policy choices and election outcomes. We derive precise predictions that, as long as voters attribute most of the credit for providing public goods to the local government: (i) aligned municipalities receive more grants, set lower taxes and provide more public goods, (ii) that the probability that the local incumbent is re-elected is higher in aligned municipalities compared to not aligned ones. Our empirical strategy to identify the alignment e¤ects is built upon the fact that being or not aligned changes discontinuously at 50% of the vote share of local parties. This allows us to use sharp regression discontinuity design. Our theoretical predictions are largely con…rmed using a new dataset on Italian public …nance and electoral data at the central and local level. 
+KEYWORDS: Fiscal Federalism, Political Competition, Accountability. 
+JEL CLASSIFICATION: H2, H77, H87, D7 
+Address for correspondence; Department of Economics, Warwick University, Coventry, CV4 7 AL, United Kingdom. E-mail Michela.Redoano@warwick.ac.uk. 
+¤We would like to thank Carlo Perroni for helpful comments and seminar participants at Warwick, Catholic University in Milan, PET 2011, SIEP 2011 and RES 2012 Conferences. Financial support from CAGE is gratefully acknowledged. 
+
+========2========
+
+1. Introduction 
+In most of the countries around the world tax revenue collection and public expenditures are shared among more tiers of elected governments. A common feature to most countries is that the degree of decentralization in expenditures (i.e. the proportion of public goods and services that are provided by lower levels of governments) is signi…cantly higher than the degree of decentralization in tax revenue collection (i.e. the proportion of tax revenue collected at the local level over the total tax revenue). Using World Bank …gures, for over a hundred countries and thirty years, expenditure decentralization is on average over 30% while revenue decentralization is just under 20%. 
+This vertical imbalance between …scal capacity and …scal needs faced by local govern- ments is generally covered by transfers from the central government. In some countries the allocation of these transfers is calculated following a mathematical formula, while in other countries it is discretionally decided by the central government, leaving space to potential scope for using grants for political goals. There is a growing literature both in political sciences and economics pointing out the likelihood of a positive bias in the allocation of intergovernmental grants in favor to local jurisdictions which are more politically aligned with the central government; see for example Lindebeck and Weibull (1986, 1993), Cox and McCubbins (1986), Dixit and Londregan (1996). 
+However, as far as we know, there is no attempt in the literature to address the broader picture on how vertical political alignment shapes local public …nance and election results when local governments have to rely on local tax revenues and on transfers from an upper government to meet their …scal needs. For example, consider a central government decision on the allocation of funds to municipalities, some aligned with the central government party and some others unaligned. Once distributed, these transfers will be employed by local governments, together with locally collected tax revenues, to co-…nance local public goods and services. 
+It is reasonable to assume that voters, before making their voting decisions, will be able to observe quite accurately the provision of the public goods and local taxes in their jurisdiction but, at the same time, they will not be able to have a full understanding on how these public goods are funded. Trivially, when central and local governments are ruled by the same party, voters will credit the ruling party for providing the public good. On the other hand, in case the central and local governments are ruled by di¤erent parties, voters may not be able to reward correctly the party ruling in each tier according to its contribution. 
+2 
+
+========3========
+
+As a result of these interactions the central government’s grant allocation may have an impact not only on the provision of local public goods but also on local governments decisions on taxes and on electoral outcomes. 
+The focus of this paper is to address how vertical …scal interdependencies between local and central elected governments, generated by …scal imbalances, a¤ect grants’ allo- cation, local taxation and electoral outcomes. To address these issues we develop a simple model which veri…es and re…nes these intuitions. Following Dixit and Londregan (1998), Arulampalam et al (2008) and Solé-Ollé and Sorribas-Navarro (2008), we model the be- havior of a central and  local governments in a nation, where each of the incumbent governments manipulate grants or taxes in order to be re-elected. Some local governments are politically aligned with the central government while others are not. 
+The local public good provided in each jurisdiction is funded through central govern- ment grants and local tax revenues. Voters make their voting decisions based both on economic grounds—i.e. looking retrospectively at the level of public good provision and taxation—and on ideology. Moreover, voters hold fully accountable the local governments for the taxes paid to them, but cannot observe or infer the amount of grants devolved to their jurisdiction. 
+The model predicts that, as long as voters mostly reward the local government for proving the public goods: (i) aligned municipalities receive more grants, set lower taxes and provide more public goods, (ii) that the probability that the local incumbent is re- elected is higher in aligned municipalities compared to unaligned ones. 
+We then test these predictions using an original dataset on Italian mayoral elections and public …nance for the period 1998-2007. It is important to underline how Italy constitutes a very good laboratory to test our hypotheses: our dataset includes over 600 municipalities between 1998 and 2007, ruled by elected local governments, and around 40% of local funding comes from block grants from the central government. There is no implicit or explicit formula which overlooks the whole system, and each year the Budget Bill establishes “freely” the allocation of grants. Local taxes and fees cover most of the remaining 60% of needs. Local revenues are highly dependent on a property tax, ICI, which voters pay directly to their municipality. Moreover in the period covered by our dataset there have been two rounds of elections both at the central and local level, and there has been a change in the incumbent party at the central level, which allows us to explore our hypotheses on the e¤ect of incumbency and political alignment between central and local government on policies. Finally, the fact that central government has 
+3 
+
+========4========
+
+been ruled both by left and right coalitions allows us to control for party e¤ect. 
+Our empirical strategy to identify the alignment e¤ects is built on the fact that being aligned with the party ruling at the central level changes discontinuously at 50% of the vote share of local parties. This allows us to use sharp regression discontinuity design. Following this approach, we compare municipalities where the elected mayor is barely aligned with central governments with ones where the mayor is barely unaligned, where “barely aligned” means that the mayor won the election with a tight margin and that the mayor and the central government belong to the same party. These municipalities are also classi…ed in in our theoretical model as electorally “swing”, i.e. voters’ behavior is very sensitive to policy choice, and the electoral outcome is more uncertain. 
+Our empirical results are broadly consistent with the hypothesis that voters mostly reward the party ruling at the local level for providing the public goods. In particular we …nd that if a municipality is politically aligned with the party in power at the central level it will be rewarded with extra 13 Euros per resident in grants and, at the same time, local tax burden will be around 15 Euros per capita lower. Local expenditures instead do not show statistically signi…cant variation between aligned and unaligned municipalities. 
+The paper is organized as follows. The next section discusses the related literature. Section three introduces the economic environment and the model. Section four presents some background information on Italy, data description and econometric strategy. Section …ve discusses the main results and some robustness checks. Conclusions are in the last part of the paper. 
+2. Related Literature 
+This paper is related to several literatures. First, the already mentioned literature on grants’ allocation. Lindbeck and Weibull (1986 and 1993) and Dixit and Londregan (1996) use a political economy framework to show how politicians face incentives to tar- get swing jurisdictions in the allocation of grants in order to maximize their chances of winning elections. This view is broadly shared by Arulampalam et al (2008) who stress the inability of voters to correctly attribute to central governments the bene…ts from the grants. An alternative theoretical explanation is provided by Cox and McCubbins (1986) who demonstrate that, when politicians are risk averse, more funds are allocated to ju- risdictions where the policy makers have large support because of stronger political links. Solé-Ollé and Sorribas-Navarro (2008) show that aligned jurisdictions should receive more grants from upper tiers of governments because the grantor …nds more pro…table to do 
+4 
+
+========5========
+
+so. 
+There are several attempts to test these hypotheses with mixed results. For example, Levitt and Snyder (1995) for the US, Worthington and Dollery (1998) for Australia, Johansson (1999) for Sweden, Case (2001) for Albania, Porto and Sanguinetti (2001) for Argentina, Rodden and Wilkinson (2004) for India, …nd a positive and signi…cant alignment e¤ect. 
+Larcinese, Rizzo and Testa (2006) …nd that US President has an important impact on the allocation of the budget to the states, in particular, states that ideologically lean towards the president are rewarded with more funds but there is no evidence that more federal monies are allocated to swing states. Arulampalam et al (2008) uses Indian data and …nd that a state that is swing and aligned receives 16% higher transfers than a state which is not. Solé-Ollé and Sorribas-Navarro (2008) use Spanish data to show that partisan alignment has a positive e¤ect on the amount of grants received by municipalities, in some cases this incremental e¤ect has been estimated around 40%. 
+Our contribution to this literature on grants allocation is two-fold. First, a contribution to the theory: a common denominator to the above papers is to model municipalities as “passive actors”, i.e. they just transform the grants they receive into public goods. We attempt to model in a more realistic way the strategic interactions between central and local governments in a set-up where local governments are active players able to raise their own tax revenue. Second, a methodological contribution; as far as we know this is the …rst paper to use regression discontinuity design to overcome a fundamental identi…cation problem: the potential correlation between …scal choices and the ideological characteristics of its voters. So, using this approach, we compare jurisdictions where the mayor won by a very small margin and therefore the (un) alignment with central government represents a quasi-random variation in alignment status; Similarly Lee (2001, 2008) uses this approach showing that when the electoral race is very tight, the identity of the winning party is likely to be determined by pure chances. 
+This bring us to a second related literature: the relatively recent literature on in- cumbent e¤ect which uses regression discontinuity design to estimate the advantage of incumbency in elections. Main contributions include Lee (2001, 2008), Lee, Moretti and Buther (2004) and Ferreira and Gyourko (2009) The common …ndings are that an in- cumbent policy maker enjoys a considerable advantage in winning elections, for example Ferreira and Gyourko (2009), using US data …nd that when Democratic mayors barely win an election they have about a 66% chance of winning the next election and if they 
+5 
+
+========6========
+
+barely loose it they have a third chance. 
+Our approach di¤ers from the above because we are not attempting to estimate the incumbent e¤ect as such, but we estimate the e¤ect of alignment on incumbency, i.e. we estimate whether among incumbent mayors being just aligned with the central govern- ments increases the chances of being re-elected compared with a just unaligned mayors. In our set up, the treatment variable is the alignment with the central government, while the assignment variable is the margin of victory interacted with the alignment position. It is important to stress that our dataset allows us to control for party e¤ect because the central government has been ruled both by left and right coalitions in our sample period. 
+Finally our paper is related to Bracco (2011) and Bordignon, Nannicini and Tabellini (2011); they both analyze Italian local public …nance data to investigate the e¤ect of political competition on policies. Bracco (2011) focuses on the e¤ect mayoral electoral system on grant allocation and …nds that plurality elected mayors received less grants than colleagues elected under dual ballot system. Bordignon, Nannicini and Tabellini (2011) …nds the in‡uence of extremists voters increases local tax rates’ volatility. 
+3. The Theoretical Framework 
+3.1. The Economic Environment 
+In a country there are two tiers of government: a central government, denoted , and  local jurisdictions, indexed by the letter , also referred to as municipalities. Within each local jurisdiction  there is a continuum of voters of mass 1. Voters are homogeneous with respect to their preferences over the public policy, but di¤er in their ideology. 
+There are two parties  and , which operate both at the central and local level. For simplicity and without loss of generality, we assume that party  is ruling at the central level and in a subset  of local authorities, while the complementary subset of municipalities  is ruled by party . 
+Voters’ ideologies are distributed within each local jurisdictions according to a uniform distribution de…ned over the interval [¡ 
+1 
++ 
+1 
+]. These distributions are locality– 
+2 2 
+speci…c and have a density equal to  
+ 
+. Voters in the positive part of the ideology spectrum prefer party  over party , and this preference is stronger the more distant is the voter’s ideology from the origin 0. 
+The voting process is subject to uncertainty. Voters’ distribution on the ideology line is hit by an idiosyncratic shock, which is uniformly distributed as follows:  » [¡ 
+1 
+2 
+ 
+1 
+2 
+]. 
+6 
+
+========7========
+
+Thus voters are ex-ante and on average centrists, or—in other words—in each jurisdiction the median voter is indi¤erent between party  and party . Voters’ distributions are common knowledge, but the realization of the idiosyncratic shock ~ remains unknown to players. 
+Following a long tradition (Dixit and Londregan [1998], Arulampalam et al. [2008], just to cite the two paper which are closest to ours), we interpret the parameter  as the sensitivity of the locality’s voting behavior to changes in policy. In other words, jurisdictions with higher  will be referred to as (electorally) “swing” jurisdictions, while jurisdictions with lower  will be referred to as “solid” jurisdictions. 
+Citizens condition their voting behavior on the ideology of the candidates and on the public policies implemented by the local and central governments. More speci…cally, voters’ utility is negatively a¤ected by local taxes, as they reduce private consumption, and positively a¤ected by the consumption of a local public good . We ignore instead the e¤ect of national taxes as we assume they would a¤ect homogeneously all voters in each jurisdiction, and therefore have a neutral e¤ect on the equilibrium. 
+The public good  has a price , it is provided by the local government and it is funded by two sources: …rstly, by the aforementioned tax  levied by the local government on its residents and, secondly, by a grant (transfer)  devolved by the central government. For simplicity and without loss of generality we normalize the price of the public good  to 1. 
+As already mentioned, voters also care about the identity of the ruling party. In particular, if party  is in power in jurisdiction  and citizens  is located at point  on the ideology spectrum his utility is: 
+ = () ¡  ¡  
+where () is a strictly increasing and concave function. Our assumption is that voters are fully aware of the taxes they are paying to the local government. These taxes are often paid separately, directly to the Municipality, and are o¢cially labelled as “municipal taxes”. This is the case for the municipal real-estate tax ICI in Italy, which is going to be the subject of our empirical analysis, but also for the Council Tax in the UK, and for the most common property taxes in the U.S. 
+In our model voters are able to assess correctly the amount of public good being provided to them, but are not aware of the “true” price of the public good . For this reason, voters are not able to infer the amount of grants  accruing to their jurisdiction 
+7 
+
+========8========
+
+from the central government just observing the taxes they pay, and the public good provided to them. This is equivalent to state that voters perfectly know how much they are paying in taxes, and how “good” are the public services in their municipality (roads, nursery schools, local transport), but are not at all aware of how much funds accrue to the City Hall from the central government’s co¤ers to fund these public goods. This seems a reasonable assumption to make, considering how intergovernmental grants are often obscure and non-transparent also to people who study them directly. 
+For this reasons, voters are not able to assess the relative merit (or demerit) of each tier of government for what concerns the public good provision. Voters may instead have a prior belief on “who’s to blame” (or reward) for the local public good they are consuming. We assume, therefore, that voters attribute a share  2 [01] of the reward for providing the public good to the central government. 
+Electoral competition occurs between the two parties  and , at the local level. The ruling governments at both tiers simultaneously set the level of taxation and grants. Voters will then vote retrospectively and sincerely on whether to re-elect the local incumbents. 
+Following Arulampalam et al. (2008) and Solé-Ollé and Sorribas-Navarro (2009), we assume that governments care simultaneously about the votes accruing to the parties they belong to, and about the public good produced. This implies that governments share voters’ preference for public good, but are also o¢ce-motivated. 
+Let us now focus on two representative jurisdictions, one—indexed by the letter  as in “aligned”—ruled by party  at both tiers, and another—indexed by letter  as in “unaligned”—ruled by party  at the local level and by party  at the central level. The utility of the local government can be written in each case as: 
+ 
+= () +  
+ 
+= () + 1 ¡  
+(3.1) (3.2) 
+where  =  + ,  2 fg,  is an increasing and concave function, and  is the share of votes accruing to party . Moreover, we assume that  is strictly concave in . The central government shares a similar utility function, as it maximises the sum of the vote shares received in each locality, and has a preference for public good provision. The central government is also limited in raising its grants to local government by a quadratic loss function: 
+8 
+
+========9========
+
+X 
+ = [() + ] ¡ 
+ 
+X 
+2 
+( ¡ )2 (3.3) 
+  
+It is assumed that  ¸ , and that each jurisdiction’s component of the central govern- ment’s objective function 
+() +  + 
+ 
+2( 
+¡ )2 
+is strictly concave in grants . The constraint imposed on  wants to capture the fact that the central government may not be able to withdraw funds from a jurisdiction inde…nitely, but may need—for example for constitutional reasons—to grant to municipal- ities enough funds that allow them to provide basic services. The quadratic loss function instead captures the resource constraint that the central government faces in distributing grants across jurisdictions, and at the same time the fact that the total amount of grants to be distributed need not to be determined ex-ante, as the central government can always decide to change the share of central budget that is devolved to local governments. More- over the central government may need to limit the discrimination across jurisdictions, as these may carry additional administrative and political costs. 
+3.2. Theoretical Results 
+In the case of aligned jurisdictions, a voter  will vote for party  if 
+() ¡  ¡  ¸ 0   · () ¡  
+In the case of unaligned jurisdictions, she will vote for  if 
+() ¡  ¸ (1 ¡ )() ¡    · (2 ¡ 1)() +  
+i.e. if the share of utility attributed to the left-wing central government (on the left- hand side) is larger than the share attributed to the right-wing local government. As the distribution of voters in each jurisdiction is known, we can calculate the vote share for party  in both the aligned and the unaligned jurisdiction. Proofs are relegated to the Appendix. 
+Lemma 1. The vote share  and probability of winning  for party  in an aligned locality are: 
+ = 
+1 
+2 
++ [() ¡  ¡ ]  = 
+1 
+2 
++ [() ¡ ] 
+9 
+
+========10========
+
+The expected vote share  and probability of winning  for party  in an unaligned locality are: 
+ = 
+1 
+2 
++ [(2 ¡ 1)() +  ¡ ]  = 
+1 
+2 
++ [(2 ¡ 1)() + ] 
+It can be observed how an increase in public good provision helps the electoral prospects of the ruling party of the aligned jurisdiction, while it helps the local incumbent of an unaligned jurisdiction only if   12, i.e. if voters reward mostly the local government for providing the public good. The net e¤ect of taxes on votes may be positive or negative, as taxes jointly raise public spending , and decrease disposable income. Surely, if most of the reward accrues to the central government (  12), an increase in taxes is univocally detrimental for the unaligned mayor. 
+More generally, the e¤ect of the policy on vote shares is stronger the more a locality is “swing”, i.e. the higher is voters’ density . 
+From this model, we can derive a number of testable predictions, which are exposed in the following 4 propositions. 
+Proposition 1. Alignment e¤ect on public good provision. Holding voters’ density  constant, public good provision is higher in aligned jurisdictions. 
+In unaligned municipalities mayors do not fully internalize the positive e¤ects stemming from increasing taxes, as the credit for the increased public good provision accrues to them only partially. For this reason, local unaligned governments will be willing to increase taxes up to a point that corresponds to a lower level of public good provision than the one provided by aligned jurisdictions. 
+Proposition 2. Alignment e¤ect on grants. As long as the majority of the reward  is attributed to the local government (  12), ceteris paribus, aligned jurisdictions are assigned more grants by the central government. When most of the reward  is attributed to the central government (  12), the opposite happens. 
+In other words, when the local government is the one being rewarded the most for public good provision (  12), the central government’s incentives to granting monies to un- aligned municipalities is very small. The opposite is true if instead the central government where able to fully recuperate the “electoral investment”, as it happens when the two gov- ernments are aligned or when voters reward for the most part the central government for providing public goods (  12). 
+10 
+
+========11========
+
+From these …rst two propositions, we can derive a Lemma. 
+Lemma 2.Given voters’ density , there exist a 
+¹ 
+2 (012) such that () = () 
+Proposition 3. Alignment e¤ect on local taxes. When voters mostly reward local governments for providing public goods, i.e. for  2 [0¹], ceteris paribus, aligned jurisdictions impose lower taxes than unaligned ones. 
+Tax setting behavior can be easily explained looking at mayors’ electoral incentives. When voters mostly reward local governments, these have a very strong incentive to deliver more public good; at the same time, the central government—as seen in Proposition 3—prefers to limit its contributions to public good provision. The result of these two forces is that the local government tries to “make up” for the lost grants levying higher taxes than their unaligned counterparts. The opposite incentive is at work instead when voters mostly reward the central government for public good provision (  ¹). In this latter case, mayors have little scope for increasing taxes, as voters would punish them for their decreased disposable income, and would also substantially reward the opposing party—i.e. the central government’s party—for providing the public good. 
+Finally, the probability of winning of incumbent mayors is also a¤ected by political alignment. 
+Proposition 4. Alignment e¤ect on re-election probability. Aligned mayors enjoy higher probability of re-election than their unaligned counterparts as long as the following su¢cient condition holds:  2 [0¹]. 
+As we chose to keep this model as general as possible, we can not demonstrate that aligned mayors always have higher probability of re-election with respect to their un- aligned counterparts in every circumstance. We can instead say that this circumstance can be demonstrated for a range of values of , which includes situations in which local (unaligned) mayors are attributed most of the credit for providing public goods. This is evident as for lower values of , aligned municipalities enjoy lower level of taxation, and higher levels of public good provisions, which of course is going to be rewarded by voters. 
+11 
+
+========12========
+
+4. Empirical Analysis 
+4.1. Background Information on Italy 
+In this section we present some relevant background information on the Italian electoral system and local public …nance. In particular we describe the electoral system both at the central and local level of governments and its major reforms during the last decades. Moreover we discuss the basic structure of transfers system and co-fundings from the central level towards the local level on which our paper is based. 
+4.1.1. Tiers of governments and elections 
+Italy is a unitary democratic state ruled by a parliamentary central government with three sub-national levels: 20 regions (regioni) , 111 provinces (province), and 8101 municipalities (comuni), 7391 of which with a population below 15,000. 
+At the beginning of the 1990s, in response to the political and …nancial crises, the old proportional electoral systems adopted at various level of governments since the end of World War II, were replaced with majoritarian systems in order to stimulate the electoral accountability of public o¢cials. Before the reform, all local governments were ruled by a proportional parliamentary system similar to that adopted at the centre: citizens voted for members of the municipal councils and regional parliaments, where political parties won a number of seats proportional to their votes; mayors and presidents of the region were elected by their respective councils. 
+In 1993 the reform of municipal electoral system introduced the direct election of the mayor under plurality rule, with a single round for municipalities below 15,000 inhabitants, and with a runo¤ system above this threshold. Speci…cally, below the 15,000-inhabitant threshold, each party (or coalition of parties) presents a list of candidates for the council and supports one mayoral candidate, voters then vote for the mayor and the council. The candidate mayor who gets the majority of votes becomes mayor and the list that supports the elected mayor gain 2/3 of all seats. Above the 15,000-inhabitant threshold, again, parties (or coalitions of parties) present lists of candidates for the council and support one mayoral candidate. At the …rst round, however, voters vote for the mayor and the council and the mayor gets elected only if he or she obtains more than 50% of votes. If no mayoral candidate obtains an absolute majority of votes, in two weeks time, the two top candidates run again in a second round, and the candidate who get the most votes is elected mayor. As in the single-round plurality system, the city-council lists supporting 
+12 
+
+========13========
+
+the winning candidate are awarded an absolute majority of seats in the council. 
+4.1.2. Local Public Finance 
+The degree of …scal decentralization in expenditures in Italy (calculated as the ratio of subnational public expenditures over total public expenditures) has been roughly con- stant and around 30% for the past 30 years. Regioni and comuni account for most of subnational public expenditures (20% and 11 % respectively using 2006 …gures) while only 2% is allocated to province. For these reason usually most of the studies on Italian local public …nance focuses only on regioni and comuni. In particular, comuni’s expenditures are primarily in the area of land management and environment (water, sewage, public hygiene), local transport, local police, culture and recreation, education (nursery schools, training programmes). 
+The degree of …scal decentralization on the revenue side instead, measured in terms of local …scal revenues in percentage of total …scal revenues, is currently around 15%. It is worth mentioning that the degree of tax autonomy (i.e. the percentage of own …scal revenues as a percentage of total current revenues) has sharply increased during the early Nineties, when a considerable part of intergovernmental grants have been replaced by new local taxes. In particular, for comuni, …scal autonomy substantially increased in 1993 through the introduction of the municipal property tax (ICI), which brought the degree of municipal …scal autonomy up to 43% and it is still the main source of tax revenue for Italian municipalities. The remaining source of revenues for local governments is represented by intergovernmental grants (mainly unconditional), tax sharing, and local debt. 
+The intergovernmental relations between the central government and the municipali- ties has been the subject to various reforms, partial reforms or short lived reforms starting from the early Nineties, before that all municipalities received grants covering almost the whole amount of any expenditure they incurred in, and the …nancial autonomy of munic- ipalities was very low. The …nal outcome is a system with little internal coherence and fruit of successive sedimentation of di¤erent interventions1. 
+Overall it must be underlined how there is no implicit or explicit formula which over- looks the whole system, and each Budget Bill establishes “freely” the amount of each grant, and the way to distribute it across municipalities, taking as a point of reference the 
+1For detailed information on the italian grant system reform see Bracco (2011). 
+13 
+
+========14========
+
+previous year’s decisions. For all these reasons Italy constitutes a very good laboratory to test our hypotheses. 
+4.2. Empirical strategy 
+In this section we discuss our estimation strategy based on the predictions of the ef- fect of political alignment on …scal choices (Propositions 1-3) and local election results (Proposition 4). To our knowledge this is the …rst attempt in the literature to use re- gression discontinuity design (RDD) to address the fundamental identi…cation problem in generating unbiased estimates of a pure alignment e¤ect on …scal policies and elections. 
+The problem originates from the fact that the likelihood whether or not political alignment is determined by local characteristics that are unknown or unobservable by the researcher (like income, historical reasons, geographical location etc.). To deal with this, we exploit the fact being or not aligned with the party ruling at the central government changes discontinuously at 50% of the vote share of local parties. This allows us to use sharp regression discontinuity design (RDD). 
+Following this approach, we compare municipalities where the elected mayor is barely aligned with central governments with those where the mayor is barely unaligned, where “barely aligned” means that the mayor won the election with a tight margin and that the mayor and the central government belong to the same party. These municipalities are also classi…ed in our theoretical model as electorally “swing”, i.e. voters’ behavior is very sensitive to policy choice, and the electoral outcome is more uncertain. Lee (2001, 2008) shows that this approach represents quasi-random variation in party winners, because—as long as there some unpredictable aspect of the votes—when the race is very tight, the identity of the winning party is likely to be determined by pure chance. 
+There are various ways in which RDD can be implemented using both parametric and non parametric analysis; see Lee and Lemieux (2010) for an excellent survey. The simplest approach is to compare policy outcomes just around the treatment threshold, however this method can produce imprecise estimates and has to rely on a very large sample size. 
+So, given the number of observations available to us, our preferred strategy is use an alternative approach which is based on the use of all available data together with a control function. This approach consists on regressing the dependent variable on a pth-order polynomial in the control function, and the binary treatment indicator. 
+As we are interested in the e¤ect of political alignment on …scal choices, our depen- 
+14 
+
+========15========
+
+dent variable  will be, in turn, per capita grants, taxes and public expenditures in municipality  at time . The model we estimate takes the following form: 
+ = 0¡1 + (¡1) + 0 +  +  +  
+(4.1) 
+where ¡1 is our alignment dummy that takes value of one if the ruling party at the local level in municipality  is the same as the party in power at the central level, this is our treatment variable. ¡1, the margin of alignment, is our assignment variable and is calculated as the di¤erence between the vote share obtained by the mayoral candidate who is aligned with the central government, and the mayoral candidate which belongs to the party which is at the opposition at the central level. Constructing in this way the variable  implies that all observations with a positive (negative)  are municipalities which are aligned (unaligned) with the central government, and observations with a small  in absolute value refer to mayors who won the elections with a very small margin. The alignment e¤ect is estimated controlling for the margin of victory under di¤erent hypothesis on its functional form ()2 as well as the interaction of all of these terms with . Finally  is a vector of control variables,  is a year dummy, and  is the unobserved heterogeneity. We have two di¤erent treatments of . First, we treat  as a council …xed e¤ect and we estimate the model in using the Within-the-Group estimator. Second, we treat  as a random e¤ect and we estimate the model in (4.1) using feasible GLS and following the Mundlak (1978) approach of including time-averages of time varying control variables as additional regressors, in order to tackle the possibility that the unobserved heterogeneity and the regressors may not be orthogonal. 
+It is important to emphasize that both the alignment dummy and the assignment variable are lagged by one period. This is due to the fact that, in the sample, local and central elections have been held always between April and June, while the allocation of grants is decided by the central government by the end of december and the local …scal policy is decided by local councils usually not later than March. 
+The coe¢cient of interest is 0 which is our alignment e¤ect. Following Propositions 1-3, its expected sign depends on value assumed by the parameter , which indicates the share of the credit for providing public goods that voters attribute to the central government. Low (high) values of  indicates that voters attribute most of the utility from the public goods to the local (central) government. The model predicts three possible 
+2Our control function is: 
+() = 01 + 022 +  + 0 + 1 + 22 +  +  
+15 
+
+========16========
+
+scenarios with respect to grants, local taxes and public expenditure: (i) if most of the credit for providing public goods is attributed to the local government (i.e. 0    ) a jurisdiction aligned with the central government will be allocated more grants (), set lower taxes () and provide more public goods () than an unaligned one; (ii) if     
+1 
+2 then an aligned municipality will still be rewarded with more grants, will provide more public goods and set higher taxes compared to an unaligned one; (iii) if voters attribute most of the credit for providing public goods to the central government (i.e. 
+1 
+2 
+   1) then an aligned municipality will receive less grants, set higher taxes and provide more public goods than an unaligned one. 
+So, if our data …t the predictions of the …rst scenario, 0 is expected to be positive for grants, negative for taxes and positive for public expenditures. If the closest scenario corresponds to the second one, 0 is expected to be positive for grants, taxes public expenditure. Finally, in the last scenario, 0 should be negative for grants, positive for taxes and public goods. Note that  cannot be observed directly, our strategy is to estimate central and local governments …scal policy setting behavior and indirectly make inferences on . Direct study on  is left to future studies. 
+We use the same methodology to investigate citizens’ voting behavior. From Proposi- tion 4, the model predicts that, if 0     we should unambiguously observe that the probability of the incumbent mayor re-election is positively correlated with being aligned with the central government, which is our alignment e¤ect on incumbents. Similarly as before we estimate the following model: 
++1 = 1 + () + 0 +  +  +  
+(4.2) 
+the dependent variable is now +1 which is equal to one if the winner of local elections at time  + 1 is the same (or at least belong to the same party, see more below) as the winner in the previous elections (held at time ) and zero otherwise. This gives a random e¤ect probit model estimated using the unconditional MLE estimator.3 
+The coe¢cient of interest is now 1 which is our alignment e¤ect on the probability of incumbent re-election: if voters attributed most of the credit for providing public goods to the local government, we expect 1 to be positive. 
+3It is important to note that also in this case the Mundlak (1978) approach will be followed in order to tackle the possibility that the unobserved heterogeneity and the regressors may not be orthogonal. 
+16 
+
+========17========
+
+4.3. Data Description 
+Our dataset includes municipal …nancial data, census data, and ballot data of the mu- nicipal elections and of the national parliament elections from 1998 to 2007; all data are disaggregated at municipal level. The large number of municipalities implies that every year local elections can be observed; general elections instead have been held in 2001 and 2006, where in both cases there has been a change in the ruling government coalition (from left to right in 2001 and from right to left in 2006). We have restricted our analysis to comuni with at least 15,000 inhabitants, given that this is the threshold for applying di¤erent electoral rules for mayoral elections, as described above. Moreover, in in small municipalities electoral competition is often dominated by local parties (liste civiche) that cannot be considered neither related to the center-left nor to the the center-right coalition. The exclusion of small municipalities, outliers and municipalities with missing values from our dataset leaves us with a sample of 593 local councils. 
+Our data refer to four kinds of variables. 
+1. Socio-demographic and geographical characteristics; which include resident popu- 
+lation, proportion of population less than 14 and over 65 years old, proportion of 
+residents with an university degree and illiterate, altimetric zone. These variables 
+are collected from the Statistical Atlas of Municipalities, yearly issued by the Italian 
+National Statistical Institute (ISTAT). 
+2. Economic variables. Variables in this group are income per capita, proportion of 
+unemployed, proportion of self employed, proportion of residents working for the 
+service sector. The sources for these variables is ISTAT and the Ministry of Finance. 
+3. Political variables: these are the alignment dummy, which is equal to 1 if the mayor’s 
+coalition party is the same as the ruling party at the central level, and the margin 
+of victory in the mayor’s election. Their source is the Statistical O¢ce of the Italian 
+Ministry of Internal A¤airs. 
+4. Public …nance variables: these variables include transfers from the central govern- 
+ment to municipalities, local fees and taxes, municipality expenditures, these data 
+are taken from the Italian Ministry of Internal A¤airs. 
+The descriptive statistics for these variables are given in Table 4.1. We observe a lot of variation in the data, starting for the size of the municipalities, demographic charac- teristics, economic pro…le, to political and public …nance data. For example the smallest 
+17 
+
+========18========
+
+comune in our dataset has 15,000 residents while the largest over 2,700,000, the richest has an income per capita of over 34,000 Euros while the poorest just reaches 8,000 Euros. 
+With respect to the variables we are mainly interested in our analysis, …scal policies, looking at average per capita data we can see that comuni’s current public expenditures amount to 814 Euros, 75% coming from local taxes and fee (614 Euros), 20% from grants from the central governments, and the remaining 5% from other sources (grants form other levels of government, borrowing etc.). Also, looking at revenues originating from local taxes and fees, we can see that over 35 % comes from the local property tax (ICI). Finally, note that our sample is almost equally split between aligned and unaligned municipalities, which is the treatment variable we are interesting in for the purposes of our analysis. 
+Table 4.1. Descriptive statistics. 
+18 
+
+========19========
+
+5. Regression Results 
+In this section we present the main empirical evidence of the alignment e¤ect on …scal policies (grants, taxes and fees, and expenditures) and on incumbent re-election proba- bility. The results are displayed in Tables 5.1 and 5.2, both tables have the same format and are divided into three panels. In the …rst panel the regression results are run without controls and up to 7th polynomial in the control function, in the second panel we add our set of controls variables (see Table 4.1) as a way of checking whether alignment status is as good as randomly assigned. The inclusion of these additional covariates should not signi…cantly a¤ect the estimate of the alignment e¤ect because alignment status should be as good as randomly assigned conditional on (), see Pettersson-Lidbom (2008) for more on this. In the third panel we report some standard information on the spec- i…cation, like the number of observations and municipalities, and R-squared. Robust standard errors, clustered at municipal level, are reported in all speci…cations. 
+Let us begin with table 5.1, which reports regression results for the alignment e¤ect on …scal policies estimated considering a Fixed E¤ect model (point estimates obtained in case of the Random E¤ect model are very similar, and have been reported in Table A.1 in the Appendix). Starting from grants, as common denominator to all this speci…cations, the coe¢cient of interest , 0 in (4.1) is always positive and signi…cant in all our speci…cations, which means that aligned municipalities enjoy a more grants compared to non aligned ones. The value of 0 varies between 6.95 to 18.54. For example using, the speci…cation with controls and …rst-order polynomial in the control function, being aligned with the party in power at the central level brings and additional 8.99 Euro per capita in grants to that comune. The speci…cation with and without controls produces very similar results and it is consistent with the hypothesis that use of the control function makes redundant the inclusion of further controls. 
+Let us now turn to the results for local tax revenue reported in the next column. Again, the direction of the results and its signi…cance are similar in all our speci…cations: in particular the coe¢cients of interest are always negative and signi…cant in all but one speci…cations, varying between -7.61 with controls and no lags polynomial to -29.08 without controls and 7th order lag polynomial in the control function. 
+Finally in the last columns the results for municipality expenditures are reported. Here, the picture is much less clear and the results less robust to di¤erent speci…cations. There is a weak positive expenditure e¤ect (a part from in the …rst two rows) suggesting that municipalities aligned with the central governments may be able to spend more than 
+19 
+
+========20========
+
+unaligned. The e¤ect goes from a non signi…cant -2.38 to a positive and signi…cant (at 10% ) 17.99. 
+Table 5.1. The e¤ect of alignment on …scal policies, model with municipal …xed e¤ects, estimated by Within-the-Group. 
+Combining the results presented in table 5.1 together, i.e. that aligned municipalities are rewarded with more grants from the central government, put lower …scal pressure on residents and may enjoy higher spending compared with unaligned ones, the emerging picture is consistent with the hypothesis that voters attribute most of the credit for providing public goods to local governments. 
+If this hypothesis is correct, we should also expect mayors in aligned municipalities having higher probability of re-elections than in unaligned ones. In table 5.2, we report results for di¤erent speci…cations of model (4.2); i.e. with and without controls and di¤erent order polynomials in the control function. 
+20 
+
+========21========
+
+The variable incumbent is calculated in two ways: (i) we exclude the cases where the mayor cannot run for the o¢ce because of term limits (there is a limit of two consecutive terms for Italian mayors), (ii) we use a broad de…nition of incumbent, where the incumbent is the candidate sharing the same political coalitions as the current mayor (it may or may not be the mayor himself). 
+The main results are as follows: no matter the de…nition of incumbent, in aligned jurisdictions the probability that the incumbent mayor (or his coalition) is re elected in the next round of election is consistently higher than in non aligned ones. In particular if we use the most conservative de…nition of incumbent, the one in the …rst column, we can see that the probability for the incumbent to be re-elected is over 50% higher if the municipality is aligned. 
+Table 5.2. The e¤ect of alignment on mayor’s probability of re-election, random e¤ect probit model estimated using the unconditional MLE estimator 
+21 
+
+========22========
+
+Although the speci…cations reported in table 5.1 and 5.2 illustrate the robustness of the results with respect to the choice of the polynomial order, it is also useful to recognise which is the best polynomial approximation in order to be more precise about the magnitude of the alignment e¤ect. To that end a formal guidance is provided by Akaike’s criterion (AIC) reported in table 5.3. According to this criterion the best polynomial order for grants and expenditure is the third, for taxes is the second, instead for the probability incumbent reelection is the …rst. Table 5.3 also reports the p-values from the goodness- of-…t test (F-test) obtained by jointly testing the signi…cance of a set of bin dummies included as additional regressors in the model. The bin width used to construct the bin dummies is 0.024. With the exception of grants and expenditure, the goodness-of-…t test is in line with the Akaike’s criterion. 
+Following the choice of the best polynomial order, we can conclude that local govern- ments that are politically aligned with the central government receive, on average for each inhabitant, more grants for 13 euros and at the same time reduce local taxes and fees for 15 euros. A a result aligned incumbents have, on average, almost 50% more chances of being reelected. 
+Table 5.3. Akaike’s criterion (AIC) and p-values from the goodness-of-…t test (F-test). 
+5.1. Robustness Checks 
+As a …rst robustness check, Figures 5.1 - 5 show the graphs for the percentage of votes won by the incumbent local government in the latest election (reported on the horizontal axis) and the dependent variables used in the regression discontinuity analysis (reported on the vertical axis). 
+4A bin width of 0.01 has not been used because was generating to much collinearity in relation to the size of the sample. 
+22 
+
+========23========
+
+In all cases, the percentage of votes is normalized as the di¤erence between aligned (positive values) and not aligned (negative values) local governments. This means that the incumbent is aligned when the assignment variable exceeds zero. Moreover, all …gures report also the …tted values from a regression model estimated separately on each side of the cuto¤ point, using the polynomial of the assignment variable that best …sts the data (see the caption of each …gure) in relation to the AIC criterion shown in table 5.3. 
+The visual analysis of the data and the cross-validation procedure (proposed by Lee, Lemieux (2010)) always suggests using a bandwidth of 0.02 or more, therefore, in order to make the graphical representation more e¤ective, 50 bins are reported in all …gures. All graphs show clear evidence of a discontinuity at the cuto¤ point with the exception of Figure 5.3 related to per capita real current expenditure, which con…rms the absence of the alignment e¤ect on current expenditure. 
+Figure 5.1. Level of intergovernmental grants, bandwidth of 0.02 (50 bins), 3rd polynomial. 
+23 
+
+========24========
+
+Figure 5.2. Level of local taxes and fees (per capita values), bandwidth of 0.02 (50 bins), 2nd polynomial. 
+Figure 5.3. Level of current expenditure (per capita values), bandwidth of 0.02 (50 bins), 3rd polynomial. 
+24 
+
+========25========
+
+Figure 5.4 Incumbent probability of winning the next election (only incumbents at their …rst mandate) bandwidth of 0.02 (50 bins), 1st polynomial. 
+Figure 5.5. Incumbent party probability of winning the next election, bandwidth of 0.02 (50 bins), 1st polynomial. 
+The underlying assumption that generates the local random assignment result is that each individual has imprecise control over the assignment variable. An intuitive test of this assumption is whether the aggregate distribution of the assignment variable is discontinuous, since a mixture of individual-level continuous densities is itself a continuous 
+25 
+
+========26========
+
+density. Using McCrary (2008) procedure Figure 5.6 shows a graph of the raw densities computed over bins with a bandwidth of 0.01 (100 bins in the graph), along with a smooth 4th-order polynomial model. The graph shows no evidence of discontinuity at the cuto¤ con…rmed also by a formal RD regression using the up to the 4th-order polynomial in the control function. 
+Figure 5.6. Density of the Forcing Variable (Margin of alignment). 
+Another important test for the validity of the RD design is to examine whether the covariates do not exhibit any discontinuity in relation to the margin of victory. As sug- gested by Lee and Lemieux (2010) we test the null of discontinuities in all covariates simultaneously estimating a Seemingly Unrelated Regression (SUR) where each equation represents a di¤erent baseline covariate, and then performing chi-square test for the dis- continuity gaps in all equations being zero. As reported in table 5.1 we cannot reject the null hypothesis of zero discontinuity in all covariates in relation to almost all polynomial orders of the margin of victory. 
+26 
+
+========27========
+
+Table 5.1. Covariates no-discontinuity test (SUR model). 
+6. Conclusions 
+This paper has explored both theoretically and empirically the e¤ect of political alignment on local public …nance and elections. Our model predicts that, as long as voters attribute most of the credit for providing public goods to local governments, being aligned with the central government reduces the tax burden on residents and increase the provision of the public goods through higher transfers from an upper level of government and increases the probability of a mayor incumbent to be re-elected. 
+We test these predictions using a new dataset on Italian local public …nance and elections and we employ RDD, exploiting the fact that being or not aligned with the central government changes discontinuously at 50% of the votes at local election. 
+Our empirical results are largely consistent with this hypothesis that voters attribute most of the credit for providing public goods to local governments. In particular we found that, if a municipality is politically aligned with the party in power at the central level, it will be rewarded with extra 13 Euros per resident in grants and, at the same time, local tax burden will be around 15 Euros per capita lower. Local expenditures instead do not show statistically signi…cant variation between aligned and unaligned municipalities. 
+The theoretical and the empirical analysis showed in the end that where local govern- ments are responsible for the provision of local public goods, there is a perverse trade-o¤ between the level of discretion in the distribution of intergovernmental grants and the disciplining and selection role of elections. In fact if grants are not formula based and voters attribute, correctly, most of the credit for providing local public goods to the local government, then the central government will tend to divert resources toward aligned ju- risdictions for electoral purposes generating an ine¢cient allocation of resources. Hence 
+27 
+
+========28========
+
+when intergovernmental grants are allocated on discretionary bases it would be more ef- …cient not to have local election, but without local election one loses the possibility to stimulate the electoral accountability of local politicians on which are based most of the bene…ts of having a decentralized system. Therefore, we can reach the conclusion, still missing in the literature, that in a decentralized system an e¢cient allocation of resources will require both formula based grants and local elections with rational voters. 
+28 
+
+========29========
+
+References 
+[1] Arulampalam, W., S. Dasgupta, A. Dhillon, and B. Dutta, (2008) "Electoral Goals 
+and Center-State Transfers: A Theoretical Model and Empirical Evidence from In- 
+dia," Journal of Development Economics, 88, 103-119. 
+[2] Bordignon, M.,T. Nannicini,G. Tabellini, (2011) "Moderating Political Extremism: 
+Single Round vs Runo Elections under Plurality Rule," mimeo. 
+[3] Bracco E., (2011). Runo¤ vs Plurality. The E¤ect of Electoral Systems on Intergov- 
+ernmental Grants, mimeo. 
+[4] Case, A., (2001) "Election goals and income redistribution: Recent evidence from 
+Albania," European Economic Review, 45 (3), 405-423. 
+[5] Chamon, M., J. M. Pinho de Mello, S. Firpo, (2009) "Electoral rules, political com- 
+petition and …scal spending: regression discontinuity evidence from Brazilian munic- 
+ipalities," IZA Discussion Paper No. 4658, December 2009. 
+[6] Cox, G. W., M. D. McCubbins, (1986), "Electoral Politics as a Redistributive Game", 
+The Journal of Politics, 48 (2), 370-389. 
+[7] Dixit, A., J. Londregan, (1998), "Fiscal federalism and redistributive politics", Jour- 
+nal of Public Economics, 68 (2), 153-180. 
+[8] Ferreira F., J. Gyourko, (2009) "Do Political Parties Matter? Evidence from U.S. 
+Cities" The Quarterly Journal of Economics, 124(1), 399-422. 
+[9] Johansson, E. (1999), "Intergovernmental Grants as a Tactical Instrument: Some 
+Empirical Evidence from Swedish Municipalities," Working Paper Series 1999:10, 
+Uppsala University, Department of Economics. 
+[10] Larcinese, V. , L. Rizzo, C. Testa, (2006) "Allocating the US federal budget to the 
+states: The impact of the president", Journal of Politics, Vol. 68, No. 2, p. 447-456. 
+[11] Lee, D. S., (2001) The Electoral Advantage to Incumbency and Voters’ Valuation of 
+Politicians’ Experience: A Regression Discontinuity Analysis of Elections to the U.S. 
+House, NBER WP 8441. 
+29 
+
+========30========
+
+[12] Lee, D. S., (2008) "Randomized experiments from non-random selection in U.S. 
+House elections", Journal of Econometrics, 142 (2), 675-697. 
+[13] Lee, D. S., T. Lemieux, (2010) Regression Discontinuity design in Economics, "Jour- 
+nal of Economic Literature, XLVIII, 281-355. 
+[14] Lee D.S., E. Moretti, M. J. Butler, (2004) "Do Voters A¤ect Or Elect Policies? 
+Evidence from the U. S. House," The Quarterly Journal of Economics, 119(3), 807- 
+859. 
+[15] Levitt, S. D., J. M. Jr. Snyder, (1995) Political Parties and the Distribution of Federal 
+Outlays," American Journal of Political Science, 39 (4), 958-980. 
+[16] Lindbeck, A., J. W., Weibull, (1986) " Intergenerational Aspects of Public Transfers, 
+Borrowing and Debt," Scandinavian Journal of Economics, 88(1), 239-67. 
+[17] Lindbeck, A., J. W., Weibull, (1993) "A model of political equilibrium in a represen- 
+tative democracy," Journal of Public Economics, 51(2), 195-209. 
+[18] Pettersson-Lidbom (2008), "Do Parties Matter for Economic Outcomes? A Regres- 
+sion Discontinuity Approach", Journal of the European Economic Association, 6(5), 
+1037-1056. 
+[19] Porto, A., P. Sanguinetti, (2001) "Political Determinants of Intergovernmental 
+Grants: Evidence From Argentina," Economics and Politics, 13(3), 237-256. 
+[20] Rodden, J., S. Wilkinson, (2004), “The Shifting Political Economy of Redistribution 
+in the Indian Federation”, mimeo. 
+[21] Solé-Ollé, A., P. Sorribas-Navarro, (2008) "The E¤ects of Partisan Alignment on the 
+Allocation of Intergovernmental Transfers. Di¤erences in-Di¤erences Estimates for 
+Spain," Journal of Public Economics, 92, 2302-19. 
+[22] Worthington A., B. Dollery, (1998), "The political determination of intergovernmen- 
+tal grants in Australia," Public Choice, 94(3), 299-315. 
+30 
+
+========31========
+
+Appendix 
+Let us …rst state the …rst order condition related to two jurisdictions, an aligned and an unaligned one with the same voters’ density , as these are going to be used in most of the proofs that follow. 
+First order conditions: 
+        
+= 0 : 0() + 0() = ( ¡ ¹) 
+(6.1) 
+= 0 : 0() + (2 ¡ 1)0() = ( ¡ ¹) 
+(6.2) 
+= 0 : 0() + (0() ¡ 1) = 0 
+(6.3) 
+= 0 : 0() + [(1 ¡ 2)0() ¡ 1] = 0 
+(6.4) 
+Proof of Lemma 1. 
+Given the position of an indi¤erent voter , and a density , the share of votes  accruing to party  is: 
+ = 
+ ¡ ( ¡1 2 
+) 
+1 
+( +1 2 
+) 
+¡ ( ¡1 2 
+= 
+) 
+2 
++ ( ¡ ) 
+The probability of winning  of party  is equal to the probability of   12, which is 
+¡ 
+1 
+ = 
+ 
+2 
+1 
+¡ (¡ 
+1 
+2 
+) 
+= 
+1 
+2 
++  
+2 
+As we know, in aligned jurisdictions  = () ¡ , while in unaligned ones  = (2 ¡ 1)() ¡ , which implies that: 
+ = 
+1 
+2 
++ [() ¡  ¡ ]  = 
+1 
+2 
++ [(2 ¡ 1)() +  ¡ ] and that 
+ = 
+1 
+2 
++ [() ¡ ]  
+1 
+= 
+2 
++ [(2 ¡ 1)() + ] 
+31 
+
+========32========
+
+Proof of Proposition 1. 
+Given the concavity of utility functions, (6.3) and (6.4) are decreasing functions in . As  2 [01], holding  constant, we can observe how if  =  and the …rst order condition as in (6.3) is satis…ed, then expression (6.4) is strictly negative. In order to make (6.4) equal to zero, because of concavity, the amount of public  must be decreased. From this we can state that in equilibrium for any value of ,   , which proves Proposition 1. 
+Proof of Proposition 2. 
+To prove Proposition 2, let’s start from analyzing a special case, when  = 12. The …rst-order conditions as from (6.1)-(6.4) become: 
+        
+= 0 : 0() + 0() = ( ¡ ¹) 
+(6.5) 
+= 0 : 0() = ( ¡ ¹) 
+(6.6) 
+= 0 : 0() + (0()) =  
+(6.7) 
+= 0 : 0() =  
+(6.8) 
+From (6.6) and (6.8) we can state that: 
+ = ( ¡ ¹) 
+(6.9) 
+while from (6.5) and (6.7) we can state that 
+ = ( ¡ ¹) 
+(6.10) 
+which in turn implies that, holding  constant, in case  = 12,  = , i.e. the central government does not discriminate among jurisdictions on the basis of political alignment. This also implies, given Proposition 1, that at  = 12 the aligned local government imposes higher taxes than its unaligned counterpart. 
+Let us now analyze how  and  change as  changes. As all functions are well behaved, it will be enough to analyze the comparative statics of these variables around  = 12. To do this, through the Implicit Function Theorem, we can solve the following 
+32 
+
+========33========
+
+matrix-form system of simultaneous equation, and evaluate its solution at  = 12. 
+200( 
+) + (2 ¡ 1)00( ) ¡ 2 00( ) + (2 ¡ 1)00( )32 
+¤ 
+3 2 
+2 
+3 
+    
+ 
+   
+46 576 4 
+7 
+5 
+= ¡46 
+57 
+00() ¡ (2 ¡ 1)00() 00() + (2 ¡ 1)00() 
+ ¤ 2 
+   
+(6.11) where  is our exogenous variable with respect to which we are doing the comparative statics exercise. If we solve this for  = , and evaluate it at  = 12, we obtain: 
+ ¤j=12 
+= 
+0() 
+   
+ 0 
+ ¤j=12 
+0() 
+= ¡ 
+00 
+  00()( 
+() ¡ )  0 (6.12) The signs are easily assigned knowing that (¢) is a strictly increasing concave function. This leads us to prove Proposition 2, according to which    (  ) for   12 (  12). 
+Proof of Lemma 2 and Proposition 3. 
+From Propositions 1-2 we know that: 
+for 
+ = 0 
+ = 12 
+ = 1 
+Public Good 
+   
+   
+   
+Grants 
+   
+ =  
+   
+Local Taxes 
+   
+   
+   
+This implies, by continuity, that 9¹ 2 [012] s.t.  = , and   . 
+Proof of Proposition 4. 
+The probabilities of winning of the incumbent aligned and unaligned mayors are: 
+ = 
+1 
+2 
++ [() ¡ ] 1 ¡  = 
+1 
+2 
++ [(1 ¡ 2)() ¡ ] 
+As we can see only  is a¤ected by the value of , while  is constant across the whole span of .When  = 0, from Proposition 3.2 we know that    and that   , which implies that   , and therefore that   1 ¡ ( = 0). 
+From Lemma 2 we know that  = 
+¹, implies 
+ = , and   . This in turn means that   1 ¡ (¹). 
+33 
+
+========34========
+
+By continuity, these …ndings imply that   1¡ for  2 [0¹]. It is not possible to assess whether this is true also for other values of  2 [¹1]. Nevertheless, by continuity, we can state that this will be true also in a small-enough neighbourhood of 
+¹. 
+Table A.1. The e¤ect of alignment on …scal policies, model with municipal random e¤ects, estimated by feasible GLS including the Mundlak approach. 
+34 
+
+========35========
+

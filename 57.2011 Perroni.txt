@@ -1,0 +1,867 @@
+October 2011 
+No.57 
+Multi-Trait Matching and Intergenerational Mobility: 
+A Cinderella Story 
+Natalie Chen, Paola Conconi, Carlo Perroni University of Warwick and Universite Libre Bruxelles 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Multi-Trait Matching and Intergenerational Mobility: 
+A Cinderella Story† 
+Natalie Chen University of Warwick and CEPR 
+Paola Conconi 
+Universite Libre de Bruxelles (ECARES) and CEPR´ 
+Carlo Perroni University of Warwick 
+October 2011 
+Abstract 
+Empirical studies of intergenerational social mobility have found that women are more mobile than men. To explain this ﬁnding, we describe a model of multi- trait matching and inheritance, in which individuals’ attractiveness in the mar- riage market depends on their market and non-market characteristics. We show that the observed gender differences in social mobility can arise if market char- acteristics are relatively more important in determining marriage outcomes for men than for women and are more persistent across generations than non-market characteristics. Paradoxically, the female advantage in social mobility may be due to their adverse treatment in the labor market. A reduction in gender discrim- ination in the labor market leads to an increase in homogamy in the marriage market, lowering social mobility for both genders. 
+KEY WORDS: Social Mobility, Matching, Inheritance, Gender Earnings Gap. 
+JEL Classiﬁcation: C78, D13, J31 
+Research funding from the ESRC is gratefully acknowledged. Research funding from the FNRS and the European Commission is gratefully acknowledged by Paola Conconi. 
+† 
+We wish to thank Jorge Duran, Georg Kirchsteiger, Andy Newman, Patrick Legros and Nicolas Sahuguet for their comments and suggestions. The usual disclaimer applies. Correspondence should be addressed to Paola Conconi, ECARES, Universite Libre de Bruxelles, CP 114, Avenue F. D. Roosevelt´ 
+50, 1050 Brussels, Belgium. E-mail: pconconi@ulb.ac.be. 
+
+========2========
+
+1 Introduction 
+How level is the intergenerational playing ﬁeld? Is family background the primary 
+determinant of social and economic outcomes? Or is individuals’ success driven by 
+ability, hard work, and luck? These questions are at the heart of a broad literature 
+on intergenerational social mobility, which examines the extent to which individu- 
+als move up (or down) the social ladder compared with their parents. A society is 
+deemed to be more or less mobile depending on whether the link between the social 
+and economic status of parents and their offspring is looser or tighter. 
+A recent strand of this literature examines gender differences in social mobility 
+and ﬁnds that women are more intergenerationally mobile than men. This pattern 
+was ﬁrst shown by Chadwick and Solon (2002) for the United States, using data from the Panel Study on Income Dynamics (PSID).1 Focusing on daughters and sons born 
+between 1951 and 1966, Chadwick and Solon ﬁnd that the elasticity of household 
+earnings with respect to parental income is around .39 for married daughters and .59 
+for married sons. Similar patterns have been documented in more recent studies for 
+other countries (see Section 2). 
+The objective of this paper is to provide a theoretical rationale for the observed 
+gender differences in social mobility. To do so, we develop a simple model of two- 
+sided matching and inheritance, in which individuals’ attractiveness in the marriage 
+market depends on their market and non-market traits. Market traits capture indi- 
+viduals’ characteristics that affect their earning potential in the labor market. They 
+include the level of education and various dimensions of intelligence known in psy- 
+chology as cognitive skills (e.g., ability to solve new problems, coding speed, abstract 
+1 
+The PSID is a nationally representative survey of about 5000 families conducted annually since 1968, which allows to compare socio-economic outcomes of parents and children. It contains informa- tion on wage rates and earnings of individual family members, total family income, some components of consumption, and many demographic variables. 
+1 
+
+========3========
+
+reasoning). Non-market traits capture a range of other attributes that directly affect 
+an individual’s productivity in household production activities. They include phys- 
+ical attractiveness, kindness, sense of humor, as well various abilities referred to by 
+psychologists as non-cognitive skills (e.g., openness, extroversion, emotional stabil- 
+ity). 
+Our explanation of gender differences in social mobility rests on two asymmetries 
+between market and non-market traits. The ﬁrst is an asymmetry in the relative im- 
+portance of these traits for men and women. In particular, the desirability of women 
+in the marriage market is less determined by their market characteristics than it is 
+the case for men. Systematic evidence for this idea can be found in recent studies 
+that use information from on-line dating or speed dating services to investigate how 
+men and women value various attributes in prospective partners (Fisman et al., 2006; 
+Hitsch et al., 2010). This asymmetry can at least partly be ascribed to female discrimi- 
+nation in the labor market: lower earnings for women implies that their market traits 
+(e.g., education and cognitive skills) will be relatively less important in determining 
+matching success. Biological differences in reproductive roles and the persistence of 
+traditional gender roles within households may also explain gender differences in the 
+relative importance of market and non-market characteristics. 
+The second asymmetry concerns the degree of inheritability of market and non- 
+market traits. There is evidence that parents with high earning potential have children 
+with similar abilities.2 
+Is this because earning ability is passed on genetically or 
+because more educated parents provide a better environment for children to ﬂourish? 
+Various studies addressing this question conclude that genetic transmission plays a 
+fundamental role in explaining the high degree of intergenerational persistence in 
+2 
+Using PSID data, Solon et al. (1991) estimate brother correlations in long-run earnings to be around .45. Similar estimates have been found for the United States using different datasets and for other countries. 
+2 
+
+========4========
+
+education and earnings.3 In contrast, non-market abilities tend to be less persistent 
+across generations. For example, in his review of psychological studies on parent- 
+offspring correlations of personality traits and attitudes, Loehlin (2005) concludes 
+that parents and their children do not resemble each other very much. There is also 
+evidence that cognitive skills are more strongly transmitted than non-cognitive skills 
+(e.g., Anger, 2011). 
+Our theoretical model can provide a simple explanation for the observed higher 
+intergenerational mobility of women. Gender discrimination in the labor market 
+implies that, ceteris paribus, women’s success in the marriage market will depend 
+comparatively more on their non-market skills. If these are less persistent than market 
+traits across generations, women will be more socially mobile than men. 
+A corollary of this result is that gender differences in social mobility should be 
+larger the larger are earnings differentials between men and women. Figure 1 pro- 
+vides some suggestive evidence in line with this prediction, showing a signiﬁcant 
+correlation between the size of the gender earnings gap and the mobility gender gap 
+across different US states – lower earnings for women being associated with more 
+social mobility for women.4 
+In recent decades, women’s professional achievements and pay have grown sub- 
+stantially, though in most countries they have not yet fully caught up with men’s.5 
+3 
+Plug and Vijverberg (2003) estimate on the basis of a comparison of biological and adopted chil- dren that at most 65 percent of the parental ability is genetically transmitted. Black et al. (2003) ﬁnd that high correlations between parental and children’ ability in Norway is primarily due to genetic factors. 
+4 
+Earnings gaps are computed as the ratio of median weekly earnings of women over weekly earn- ings of men, obtained from the US Bureau of Labor Statistics. The data on mobility gaps is constructed from the Panel Study on Income Dynamics (PSID), using a similar procedure as in Chadwick and Solon (2002). 
+5 
+There is substantial cross-country variation in gender pay gaps. Olivetti and Petrongolo (2008) show that a signiﬁcant portion of the international variation in gender wage gaps may be explained by 
+3 
+
+========5========
+
+Figure 1: Gender mobility gaps and gender earnings gaps across US states 
+2 
+1.8 
+1.6 
+Mobility gap 
+1.4 
+1.2 
+.65 
+.7 
+.75 Earnings gap 
+.8 
+.85 
+Earnings gap: ratio of female to male weekly earnings (state averages) for 1998 (US Bureau of Labor Statistics). Mobility gap: ratio of male to female intergen- erational income elasticities (estimates from PSID; see the Appendix) 
+The reduction in gender discrimination in labor market has been accompanied by 
+two other trends: an increase in homogamy in the marriage market, i.e., the tendency 
+of men and women with the same level of education to marry one another (Kalmijn, 
+1991, 1998; Schwartz and Mare, 2005); and a fall in intergenerational social mobility 
+(e.g., Aaronson and Mazumder, 2008; Blanden et al., 2004).6 
+Our analysis provides an explanation for these trends: in our model, a more equal 
+selection effects. In a similar vein, Mulligan and Rubinstein (2008) argue that the narrowing of the gen- der wage gap in the US during recent decades may at least partly be the result of progressive selection into employment of high-wage women, attracted by widening within-gender wage dispersion. 
+6 
+Aaronson and Mazumder (2008) show that social mobility in the United States has increased from 1950 to 1980, but has sharply declined since 1980. For the United Kingdom, Blanden et al. (2004) compare a cohort of people who grew up in the 1960s and 1970s with a cohort who grew up in the 1970s and 1980s, reaching the conclusion that intergenerational mobility in Britain has fallen over time. 
+4 
+
+========6========
+
+treatment of women in the labor market leads to more segregation in marriage mar- 
+kets, in which men increasingly match with women who have similar education levels as their own.7 In turn, increased homogamy in the marriage market leads to a reduc- 
+tion in intergenerational social mobility for both men and women. 
+The remainder of the paper is structured as follows. Section 2 brieﬂy reviews 
+related work on social mobility and matching. Section 3 outlines a model of inter- 
+generational social mobility based on multi-trait inheritance and two-sided matching. 
+Section 4 shows that gender differences in intergenerational mobility can be explained 
+by differences in the degree of persistence of market and non-market traits, combined 
+with gender differences in the relative importance of these traits. Section 5 concludes, 
+discussing implications for public policy. 
+2 Related Literature 
+Our paper builds on the vast literature on intergenerational social mobility, which 
+examines the relationship between the socio-economic status of parents and the status 
+their children will attain as adults. Intergenerational mobility depends on a host of 
+factors, some related to the inheritability of traits, others to the social environment 
+in which individuals develop. The traditional approach to measure intergenerational 
+persistence is to regress sons’ adult income on their fathers’ income (see Solon, 1999 for a review).8 Little attention has been devoted to women’s social mobility, partly 
+because their lower rate of labor force participation makes earnings an unreliable 
+indicator of their economic status. 
+Since the seminal contribution of Chadwick and Solon (2002), various studies of 
+7 
+This trend may be reinforced if men tend to marry women with the same work status as their mothers, as suggested by Fernandez et al. (2004). 
+8 
+For example, Solon (1992) relates the 1984 earnings of the sons in the PSID cohort born between 1951 and 1959 to their fathers’ earnings in 1967-1971, ﬁnding a persistence coefﬁcient of around .4. 
+5 
+
+========7========
+
+social mobility have included women in the analysis, measuring intergenerational 
+persistence as the strength of the relationship between total family incomes between 
+two generations. The studies conﬁrm that women are more socially mobile than 
+men, i.e., the estimated intergenerational persistence coefﬁcients are lower for married 
+daughters than for married sons (see, for example, Ermisch et al. (2006) for Germany 
+and the UK, and Hirvonen (2006) for Sweden). In this paper, we develop a simple 
+model of multi-trait matching and inheritance that provides a theoretical explanation 
+for these ﬁndings, based on differences in the relative importance of market and non- 
+market traits across different genders and differences in the degree of persistence 
+across traits. 
+Social mobility may vary not only across genders, but also across different pop- 
+ulation groups within countries. Various studies compare intergenerational mobility 
+across races (Hertz, 2004) or between native and migrant populations (e.g., Borjas, 
+1993). Other studies compare intergenerational social mobility across countries. The 
+United States has traditionally been regarded as a vertically more mobile society rel- 
+ative to European countries, although recent evidence has shown the US to occupy a 
+middle ground within OECD countries – with countries such as Italy, France and the 
+United Kingdom exhibiting less mobility than the US, and countries such as Sweden, 
+Canada and Norway exhibiting more (Bjorklund and J¨ antti, 1997; Breen and Jonsson,¨ 
+2004). 
+Another stream of the literature on social mobility focuses on the link between 
+intergenerational persistence in education and income (see Goldberger (1989) for an 
+overview). In these studies, parents value their children’s future income and can 
+invest in the education of their children. The relationship between schooling invest- 
+ments and children endowments depends on the complementarity of endowments 
+and schooling returns in the labor markets and on whether parents face credit con- 
+straints: if all families have access to perfect capital markets, only inheritable traits 
+determine mobility (Becker and Tomes, 1979); if instead some parents are unable to 
+6 
+
+========8========
+
+borrow against their children’s future earnings to ﬁnance their education, earning 
+outcomes persist across generations, both because ability persists and because credit 
+constraints limit educational choices (Becker and Tomes, 1986; Grawe and Mulligan, 
+2002). 
+Our paper is also related to the vast theoretical literature on assortative matching. 
+Most studies consider a setting in which matching is frictionless, utility is perfectly 
+transferable between the partners, and agents are characterized by a one dimensional 
+type. The seminal marriage model by Becker (1973) states that an individual decides 
+to marry when his or her utility is greater if married than if single. Utility in the 
+marriage is a function of the marital output produced using the household production 
+function. Becker shows that, if the marginal product of a type is increasing in the type 
+of the partner, then matching will necessarily be positive assortative, i.e., the most able 
+male will be paired with the most able female, and so on down the line.9 
+The standard model has been extended to an environment that involves search, 
+non-transferable utility and multiple traits. Various studies derive conditions for 
+assortative matching to arise when individuals meet potential partners in the pres- 
+ence of search costs (e.g., Burdett and Coles, 1997; Shimer and Smith, 2000; Atakan, 
+2006) or when utility is not fully transferable between partners (Legros and Newman, 
+2007). Similarly to our paper, Mailath and Postlewaite (2006) consider a setting in 
+which individuals match on the basis of multiple traits (“income and unproductive 
+attributes”) and have children. However, they focus on the relationship between sta- 
+tus and marriage, while we emphasize gender differences in intergenerational social 
+mobility. 
+9 
+Speciﬁcally, the efﬁciency of assortative matching is shown to depend on the presence of positive cross-partial derivatives between the abilities of the partners in the output of a marriage. 
+7 
+
+========9========
+
+3 A Model of Multi-trait Matching and Inheritance 
+Intergenerational mobility is the combined result of a number of different factors – 
+such as schooling opportunities, labor market and marriage opportunities, genetic 
+transmission, luck. In this paper, we develop a simple model in which social mobility 
+is the joint result of matching choices and of a process of transmission of different 
+traits from parents to children. 
+Consider a population of two genders, males and females, with an equal number 
+of individuals of each gender, who can only match with one individual of the oppo- 
+site gender. Each individual possesses certain levels of two characteristics, x and y. 
+In our analysis, we think of y as capturing various market-related traits, which di- 
+rectly affect an individual productivity in labor-market activities and thus his or her 
+earning potential. These include the level of education and various cognitive skills 
+(e.g., ability to solve new problems, coding speed, abstract reasoning). The variable 
+x captures instead a range of other attributes that determine an individual’s pro- 
+ductivity in household activities, but have little impact on labor market productivity. 
+These include an individual’s physical attractiveness and sense of humor, as well as a 
+variety of non-cognitive skills (e.g., openness, extroversion, agreeableness, emotional 
+stability). 
+For each individual, the levels of x and y combine to determine his or her at- 
+tractiveness as a partner. In particular, the “desirability” of individual i of gender 
+G = F, M and with characteristics (xi,yi) is captured by the function hGi (xi,yi), G = F, M. This index provides an objective ranking for each individual of each gender in 
+terms of his or her attractiveness to the other gender. Notice that the attractiveness 
+function h is gender-speciﬁc, since various factors can lead to differences in the rela- 
+tive importance of market and non market characteristics for men and women. These 
+factors include differential earnings in the labor market – which our analysis will fo- 
+cus on — but also biological differences in reproductive roles and the persistence of 
+traditional gender roles within households. 
+8 
+
+========10========
+
+We assume that non-market services (household activities) can be substituted for 
+by market services – but not the reverse. Suppose that x represents non-market pro- 
+ductivity expressed in money equivalent units (i.e., in terms of the cost of the sub- 
+stitute market services) and y the unadjusted market productivity. Male and female market earning rates are denoted by wM and wF, respectively. An individual’s at- 
+tractiveness, which depends on his or her contribution to a partnership, is then given 
+by 
+hGi = xi + wGyi, 
+G = F, M. 
+(1) 
+Given a population of n males and n females, a matching equilibrium will feature 
+(perfectly) positive assortative matching in terms of gender-speciﬁc rank positions: the male with the highest hM will match with the female with the highest hF, the male with the second highest hM will match with the female with the second highest hF, and so on. 
+The inheritance process is modeled as follows. Each couple has two children, a 
+daughter and a son. Inheritance of the two traits is assumed to be stochastic and to 
+be captured by exogenous transition probabilities. These are the same across genders, 
+but can differ across characteristics, reﬂecting both biological and institutional factors. 
+For simplicity, suppose that the process of inheritance is gender-segregated in the 
+sense that daughters only inherit characteristics from their mothers and sons from 
+their fathers. The level of non-market trait for a son (daughter) whose father (mother) has a level of a trait c = x,y equal to c′ is then 
+c′′ = c′ + ϵc, 
+(2) 
+where ϵc (c = x,y) are independently distributed shock terms with values , 0, ( > 0). Denoting with c¯ the mean level of a given trait, the probability of a positive 
+9 
+
+========11========
+
+shock (ϵc = , c = x,y) is 
+ c = 
+c 
+ 
+c = c 
+if c′  c; if c′ > c; 
+(3) 
+with 0 <  < 1, implying c < c; the reverse being the case for negative shocks, i.e., the probability of a negative shock (ϵc = ) is 
+ c = 
+c 
+ 
+c = c 
+if c′  c; if c′ < c. 
+(4) 
+We assume that c + c < 1, which guarantees that the stochastic process deﬁned by (2) is stationary.10 
+The above formulation assumes that the shocks ϵx and ϵy are uncorrelated. This implies that the traits x and y will be independently distributed in the population 
+in the long-run. If n is large, the distribution of traits (and desirability levels) in 
+10 
+In the above speciﬁcation the inheritance process is differentiated for the two traits, with the difference reﬂecting institutional factors that are left unmodeled. An analogous formulation would be one where inheritance is identical for the two traits, but where market productivity depends on intrinsic ability, as represented by the x trait, as well as on educational attainment, which in turn can be limited by parental income (e.g., because of imperfect capital markets). For example, the matching attractiveness of an offspring with characteristics (x′′,y′′) could be written as h′′ = x′′ +wz′′, where z′′ depends positively both on y′′ and on parental income wz′, according to the mapping z′′ = qy′′ + (1 q)z′. Market productivity would then be “inherited” according to the following process: 
+z′′ = qy′′ + (1 q)z′. 
+(5) 
+After integrating, this gives 
+¥ 
+tj+1 zt = 
+(1q)j1q  
+ϵi, 
+j=1 i=¥ 
+(6) 
+a process that exhibits less time variability than the underlying process yt in our model. 
+10 
+
+========12========
+
+the population will thus be invariant through time. The above also implies that, in 
+the long run, the two characteristics will each be positively correlated with mating desirability – hM for males and hF for females – in the population. Higher-y males 
+will, on average, be matched with higher-y females, which means that, for both males 
+and females, mating desirability (and thus social rank) will positively correlate with 
+household income and/or wealth, and social mobility patterns will positively corre- 
+late with patterns of income mobility. 
+4 Gender and Social Mobility 
+In this section, we show that gender asymmetries in the patterns of intergenerational 
+mobility can result from differences in the degree of persistence of market and non- 
+market traits, combined with differences in the relative importance of the two charac- 
+teristics in determining the matching desirability of individuals of different genders. 
+These asymmetries can give rise to a “Cinderella effect”, whereby women are more 
+integenerationally mobile than men, i.e., they are more likely to move up (or down) 
+the social ladder compared with their parents. 
+We will focus on a scenario in which each trait can take one of two levels, high () 
+and low (), with x = y = , x = y = ,  =   , x < 1/2, y < 1/2, and  = 0. 
+Our analysis rests on two assumptions related to asymmetries between market 
+and non-market traits. The ﬁrst assumption has to do with the relative importance of 
+these traits for men and women: 
+Assumption 1 
+wMy = , wFy = 1/, with  > 1. 
+This implies that the x trait has a higher weight in determining women’s desirability 
+than the y trait does, with the reverse being the case for men. As mentioned in the 
+introduction, recent studies show that non-market characteristic are indeed compar- 
+atively more important for women’s attractiveness in the matching market than they 
+11 
+
+========13========
+
+are for men (Fisman et al., 2006; Hitsch et al., 2010). In our model, this asymmetry 
+is due to gender discrimination in the labor market: lower earnings for females im- 
+ply that their market skills (e.g., education and various cognitive skills) are not as 
+valuable in a partnership. 
+The second assumption has to do with an asymmetry in the degree of inheritabil- 
+ity of market and non-market traits. There is evidence that a large fraction of parental 
+skills that determines earning potential in the labor market is genetically transmitted 
+(Vijverberg, 2003; Black et al., 2003). In contrast, various personality traits and non- 
+cognitive abilities that are important for household activities are not as persistent 
+across generations (Loehlin, 2005; Anger, 2011). We thus assume the following: 
+Assumption 2 
+x > y. 
+This implies that the probability of transition from one level to the other is higher for 
+the x trait than for the y trait (in a gender-neutral fashion). 
+As we show below, taken together, Assumptions 1 and 2 result in the prediction 
+that women are intergenerationally more mobile than men in terms of mating rank – 
+and hence household income. 
+Given Assumption 1, the ranking in terms of attractiveness (h) for individuals of 
+different types will be different for males and females. Females and males of type 
+(x,y) will be in the top (ﬁrst) position and females and males of type (x,y) in the 
+bottom (fourth) position. However, for the second and third position, the ranking of 
+types will be reversed for men and women: (x,y) type females and (x,y) type males 
+will occupy the second position, while (x,y) type females and (x,y) type males will 
+occupy the third position. 
+The long-run distribution of traits in a large population of n individuals will then 
+be as follows: n/2 of all individuals will possess the high level of each of the two traits 
+and n/2 will possess the corresponding low level; moreover, as shocks are uncorre- 
+lated across the two traits, the number of individuals for each of the four possible 
+12 
+
+========14========
+
+Table 1: Matching with two traits 
+Ranking of couples (r) 
+Females 
+Males 
+1 2 3 4 
+x,y 
+x,y 
+x,y 
+x,y 
+x,y 
+x,y 
+x,y 
+x,y 
+combinations of trait levels will be n/4. Assortative matching will give rise to the 
+following ranking of couples (r): 1) (x,y) females will be matched with (x,y) males; 
+2) (x,y) type females will be matched with (x,y) males; 3) (x,y) type females will 
+be matched with (x,y) type males; 4) (x,y) type females will be matched with (x,y) 
+type males. Couples occupying different ranks belong to different “social classes”. 
+Note that, if we take the comparatively lower weight on the market trait for women 
+as implying comparatively lower earnings for women, then the ranking in terms of 
+household income will be the same as the social ranking, i.e., couples belonging to a 
+higher social class will have a higher level of income than couples in a lower class. 
+To summarize, in a two-trait version of the model, there will be four individual 
+rankings, which map into four social classes, as depicted by Table 1. In this setting, 
+“mixing”, i.e., matching between individuals with different traits, arises only in the 
+two middle social classes. 
+Consider a couple in the ﬁrst position in the social (and income) ranking. The male 
+offspring of this couple may remain in the same position or move to a lower social class: (a) with probability (1x)(1y), the son has traits (x,y) and remains in the ﬁrst social class; (b) with probability x(1  y), the son has traits (x,y) and belongs to the second social class; (c) with probability (1x)y, the son has traits (x,y) and belongs to the third social class; (d) with probability xy, the son has traits (x,y) and belongs to the fourth social class. 
+13 
+
+========15========
+
+Similarly, we can look at the chances of the female offspring of the same couple: (a) with probability (1  x)(1  y), the daughter has traits (x,y) and remains in the ﬁrst social class; (b) with probability y(1  x), the daughter has traits (x,y) and belongs to the second social class; (c) with probability x(1  y), the daughter has traits (x,y) and belongs to the third social class; (d) with probability xy, the daughter has traits (x,y) and belongs to the fourth social class. 
+Proceeding in the same way for all cases, we obtain the following gender-speciﬁc transition probabilities, G[r′,r′′], where r′ represents the income ranking of the par- ents and r′′ the income ranking of their offspring, and G 
+ 
+F[r′,r′′] = 
+ 
+ 
+(1 x)(1  y) (1  x)y  
+(1 x)y (1 x)(1  y) 
+x(1  y) 
+xy 
+xy 
+x(1  y) 
+ 
+M[r′,r′′] = 
+ 
+ 
+ 
+(1 x)(1  y) x(1  y)  
+x(1  y) (1  x)(1  y) 
+(1 x)y 
+xy 
+xy 
+(1 x)y 
+F, M: 
+ 
+x(1  y) 
+xy 
+xy x(1  y) 
+(1 x)(1  y) (1  x)y 
+(1 x)y (1 x)(1  y) 
+  ;  
+(7) 
+ 
+(1 x)y 
+xy 
+xy (1 x)y (1 x)(1  y) x(1  y) 
+x(1  y) (1  x)(1  y) 
+   .  
+(8) 
+It is straightforward to verify that, if the market trait is intergenerationally more persistent than the non-market trait (x > y), daughters will be more likely to jump up or down in the social ranking compared to their brothers. Notice that, given the 
+discreteness of the model, the difference is only in the “intermediate jumps”. In the 
+example considered above, the daughter of a couple belonging to the ﬁrst social class 
+is more likely to jump down by two rank positions as compared to her brother (while 
+the probability of a jump to the lowest social class is the same). 
+14 
+
+========16========
+
+The mean correlation between the household income rank of a couple and that of 
+an offspring of gender G is obtained as 
+CovG(r′,r′′) 
+= 
+r′ r′′ G[r′,r′′]r′r′′/4  (r)2 
+2(r) r r2/4  (r)2 
+, 
+G = F, M, 
+(9) 
+where CovG(r′,r′′) denotes the covariance between the matching rank of a parent and that of her offspring for gender G, 2(r) is the variance of the rank, and (r) is mean 
+rank. 
+The mechanism described above generates gender differences in intergenerational 
+social mobility via the matching process, even if the inheritance process itself is the 
+same for both genders: women are more likely to “marry up” (and “down”) com- 
+pared to men. This “Cinderella effect” arises because market-related characteristics 
+are intergenerationally more persistent than non-market-related characteristics (in a 
+gender-neutral fashion) and are relatively more important in determining male desir- 
+ability (due to institutional factors). 
+In our model, individuals are paired into couples that belong to different social 
+classes, depending on their market and non-market traits. Some of these individ- 
+ual characteristics are unobservable in the data. Nevertheless, as noted above, the 
+model predicts a positive correlation between traits within the population, which im- 
+plies that, even when focusing on observables – i.e., household income rather than 
+social classes – women will be observed to be more mobile. To compare intergenera- 
+tional income correlations for males and females, we can then examine the difference CovF(r′,r′′)/2(r) CovM(r′,r′′)/2(r), obtaining the following result: 
+Result 1 
+Under Assumptions 1 and 2, intergenerational mobility in household income is 
+greater for females than it is for males. 
+Proof: The sign of the difference depends on the sign of the expression 
+( 
+r′ 
+r′′ F[r′,r′′]  
+15 
+
+========17========
+
+M[r′,r′′])r′r′. After simpliﬁcation, we obtain 
+( ) 
+ 
+F[r′,r′′]  M[r′,r′′] r′r′′ = 6(y  x). r′ r′′ 
+(10) 
+If x > y (Assumption 2), then this expression is negative, implying a higher degree of intergenerational income mobility for females than for males. □ 
+Our analysis thus provides a theoretical rationale for the gender differences found 
+in empirical literature on social mobility (e.g., Chadwick and Solon, 2002). The gender 
+gap in social mobility, measured by the strength of the relationship between total 
+family incomes between two generations, results from a combination of Assumptions 
+1 and 2: differences in the relative importance of the market and non-market traits 
+in determining the individual rankings of men and women; and differences in the 
+degree of intergenerational persistence across traits. If earnings are the same for both genders (wMy = wFy), or if traits are equally persistent (x = y), there would be no gender asymmetries in intergenerational social mobility. 
+An immediate implication of Result 1 is that a decrease in the degree of persistence 
+of y – as may result from institutional changes that promote earnings mobility (e.g., 
+reforms aimed at alleviating credit constraints) – increases mobility for men more 
+than it does for women: 
+Result 2 A switch from a scenario where Assumptions 1 and 2 are both satisﬁed to one where ′y = x – holding x constant – raises intergenerational income mobility for men more than it does for women. 
+Proof: The mapping between household matching rank, r, and household income is 
+m(1) = 2w, 
+m(2) = wMy  + wFy, 
+m(3) = wMy  + wFy, 
+m(4) = 2w. 
+Expression (9), after replacing the rankings r′ and r′′ with actual household market income 
+levels, m(r′) and m(r′′), can be used to express intergenerational correlations with respect to 
+16 
+
+========18========
+
+income: 
+CovG(m(r′),m(r′′)) 
+= 
+r′ r′′ G[r′,r′′]m(r′)m(r′′)/4  (m)2 
+2(m) r m(r)2/4  (m)2 
+, 
+G = F, M. 
+(11) 
+For ′y = x, the corresponding expressions are the same for both genders and equal to 
+CovE(m(r′),m(r′′)) 
+= 
+r′ r′′ E[r′,r′′]m(r′)m(r′′)/4  (m)2 
+2(m) r m(r)2/4  (m)2 
+, 
+(12) 
+where 
+ 
+x) 
+( 
+ 
+(1 
+2 
+ 
+x) x(1  x(1  x) 
+)2 
+x 
+ 
+E[r′,r′′] = x(1  x) (1  x)2 
+( )2 
+ 
+ 
+x 
+x(1  x) 
+ 
+ 
+x(1 
+)2 
+. 
+ 
+  
+( 
+x) 
+x (1 x)2 x(1  x)  
+( )2 
+x 
+x(1  x) x(1  x) (1  x)2 
+(13) 
+The differences in correlations between the two scenarios for each gender can then be written 
+(after simpliﬁcation) as 
+CovE(m(r′),m(r′′)) 
+ 
+CovF(m(r′),m(r′′)) 
+2(m) 2(m) 
+= (x  
+2(wFy)2 
+y) 
+(wyF)2 + (wyM)2 
+< 0; (14) 
+CovE(m(r′),m(r′′)) 
+ 
+CovM(m(r′),m(r′′)) 
+2(m) 2(m) 
+= (x  
+2(wMy )2 
+y) 
+(wyF)2 + (wyM)2 
+< 0. (15) 
+For wMy > wFy (Assumption 1), the change for men is greater (in absolute value) than the corresponding change for women. □ 
+A second implication is that a reduction in the gender earnings gap, wMy  wFy, will reduce intergenerational mobility for women. Interestingly, it is not just women’s 
+mobility that will be affected by such changes: as household income comprises the 
+earnings of both spouses, the degree of income mobility experienced by men would also be affected. To see this, compare a scenario where wMy > 1 > wFy, and (wMy + wFy)/2 = w – giving rise to “mixing” of types in the middle two social positions – with one where mean earnings are also w but where wMy = wFy = w. In the latter 
+17 
+
+========19========
+
+scenario, if w > 1 the market trait always dominates the non-market trait, and so the 
+ranking of (x,y) type individuals will be higher than that of (x,y) type individuals 
+for both genders; if w < 1, the reverse will be true. In either case no “mixing” will 
+occur: 
+Result 3 In the absence of gender discrimination in the labor market 
+(wM 
+y 
+= wF)y , match- ing will lead to perfect homogamy. 
+This suggests that labor market reforms that have led to a narrowing of gender 
+wage gaps may be one of the reasons behind the increased educational homogamy 
+observed in recent decades (Kalmijn, 1991, 1998; Schwartz and Mare, 2005). 
+It can be shown that a reduction in the gender earnings gap that results in ho- 
+mogamy reduces income mobility for both females and males. To see why, consider 
+the case w > 1. In this case, since the market trait dominates the non-market trait, 
+households in the second position of the social ranking always have a higher income 
+than those in the third social position, irrespectively of whether or not a gender earn- 
+ings gap is present and mixing occurs. However, the income gap between households 
+in the second and third positions of the overall rank is smaller when a gender earn- 
+ings gap is present and mixing occurs than under equal earning rates and perfect 
+homogamy. Given that transition probabilities for males remain the same in both scenarios, this implies a smaller CovG 
+(m(r′),m(r′′))/2(m) 
+for males as well as for 
+females in the latter scenario in comparison with the former. The same is true for 
+w < 1 – in this case, households in the second position have a lower income than 
+those in the third position, but since income rank is everywhere decreasing with 
+social rank, the same conclusion applies – i.e., income mobility is reduced for both 
+females and males. 
+Result 4 A switch from a scenario where Assumptions 1 and 2 are both satisﬁed to one where wMy = wFy results in lower intergenerational income mobility for both genders. 
+18 
+
+========20========
+
+Proof: Assume w > 1. The mapping between household matching rank, r, and household 
+income under mixing and wMy > wFy, and the resulting mean intergenerational correlations in household income for women and men, are as derived in the proof of Result 2. For wMy = wFy (and no mixing), the corresponding mapping between mating rank and household income is 
+mN(1) = mN(2) = 2w, 
+mN(3) = mN(4) = 2w. 
+Transition probabilities in this case are the same for both genders and equal to the transi- tion probabilities M[r′,r′′] that apply to males under mixing. The mean intergenerational 
+correlation in household income (the same for both genders) is then 
+CovN(mN(r′),mN(r′′)) 
+= 
+ r′′  
+Gr′ 
+[r′,r′′]mN(r′)mN(r′′)/4 (mN)2 
+2(mN)  
+. 
+r 
+mN(r)2/4  (mM)2 
+(16) 
+The differences in correlations between the two scenarios for each gender can then be written 
+(after simpliﬁcation) as 
+CovN(mN(r′),mN(r′′)) 
+ 
+CovF(m(r′),m(r′′)) 
+2(mN) 2(m) 
+= (x  
+2(wMy )2 
+y) 
+(wyF)2 + (wyM)2 
+> 0; (17) 
+CovN(mN(r′),mN(r′′)) 
+ 
+CovM(m(r′),m(r′′)) 
+2(mN) 2(m) 
+= (x  
+2(wFy)2 
+y) 
+(wyF)2 + (wyM)2 
+> 0. (18) 
+Proceeding in the same way for the case w < 1, we arrive at the same conclusion. So, 
+a reduction in the earnings gap that induces homogamy lowers intergenerational income 
+mobility for both genders. 
+□ 
+This result implies that reforms aimed at making labor markets more gender-equal 
+could paradoxically make a society more unequal, by tightening the link between the 
+social and economic status of parents and their offspring. In line with this predic- 
+tion, there is evidence that in recent decades, during which women achieved much 
+progress in the labor market, intergenerational social mobility has fallen in the United 
+States and Britain (Aaronson and Mazumder, 2008; Blanden et al., 2004). 
+19 
+
+========21========
+
+5 Summary and Conclusion 
+Empirical studies of social mobility have found that women are generally more mo- 
+bile than men. In this paper, we develop a theoretical model of matching and inher- 
+itance that can provide a simple explanation for this pattern, based on the idea that 
+women’s matching outcomes are less dependent on attributes that are more intergen- 
+erationally persistent. 
+Paradoxically, this female advantage in social mobility could arise because of the 
+adverse discrimination experienced by women in the labor market. Our model sug- 
+gests that a reduction in gender-based discrimination in the labor market could de- 
+crease gender asymmetries in the marriage market, and, in conjunction with it, lower 
+income mobility overall, with both male and female children marrying individuals 
+belonging to the same income class as their parents. Our analysis can thus help to 
+explain trends in matching and social mobility in recent decades: reforms aimed at 
+making labor markets more gender-equal may be responsible for the increase in ho- 
+mogamy and the fall in intergenerational social mobility that have been documented 
+in the literature. 
+Institutional factors that affect the degree of persistence of individual productivity 
+traits can have a more direct effect on social mobility. In particular, it has been argued 
+that credit constraints are one of the reasons for the high intergenerational persistence 
+of market traits (Becker and Tomes, 1986; Grawe and Mulligan, 2002). While our 
+analysis supports the idea that reforms aimed at alleviating credit constraints and 
+promoting earnings mobility can ease social mobility for both genders, it suggests 
+that such reforms may affect mobility for men more than they may do for women. 
+20 
+
+========22========
+
+References 
+Aaronson, D., and B. Mazumder (2008). “Intergenerational Economic Mobility in the 
+United States, 1940 to 2000,” Journal of Human Resources 43, 139-172. 
+Anger, S. (2011). “The Intergenerational Transmission of Cognitive and Non-Cognitive 
+Skills During Adolescence and Young Adulthood,” IZA Discussion Paper No. 
+5749. 
+Angoa-Perez, M. (2005). “Patterns of Economic Participation of Mexican-Origin´ 
+Women in the United States of America,” mimeo, El Colegio de Mexico A.C.´ 
+Atakan, A. E. (2006). “Assortative Matching with Explicit Search Costs,” Econometrica 
+74, 667-680. 
+Becker, G. (1973). “A Theory of Marriage: Part I,” Journal of Political Economy 81, 
+813-846. 
+Becker, G., and Tomes, N. (1977). “An Equilibrium Theory of the Distribution of 
+Income and Intergenerational Mobility,” Journal of Political Economy 87, 1153- 
+1189. 
+Becker, G., and Tomes, N. (1986). “Human Capital and the Rise and Fall of Families,” 
+Journal of Labor Economics 4, S1-S39. 
+Behrman, J. R., and M. R. Rosenzweig (2002). “Does Increasing Women’s Schooling 
+Raise the Schooling of the Next Generation?” American Economic Review 91, 
+323-334. 
+Black, S. E., P. J. Devereux, and K. G. Salvanes. (2005). “Why The Apple Doesn’t 
+Fall Far: Understanding Intergenerational Transmission Of Human Capital,” 
+American Economic Review 95, 437-449. 
+Blanden, J., A. Goodman, P. Gregg, and S. Machin (2004). “Changes in Intergener- 
+ational Mobility in Britain,” in M. Corak (ed.), Generational Income Mobility in 
+North America and Europe, Cambridge: Cambridge University Press. 
+Bjoklund A., and M. J¨ antti (1997). “Intergenerational Income Mobility in Sweden¨ 
+Compared to the United States,” American Economic Review 87, 1009-1018. 
+21 
+
+========23========
+
+Bjorklund, A., T. Eriksson, M. J¨ antti, O. Raaum, and E.¨ Osterbacka (2002). “Brother¨ 
+Correlations in Earnings in Denmark, Finland, Norway and Sweden Compared 
+to the United States,” Journal of Population Economics 15, 757-772. 
+Borjas, G. (1993). “The Intergenerational Mobility of Immigrants,” Journal of Labor 
+Economics 11, 113-135. 
+Breen, R., and J. Jonsson (2005). “Inequality of Opportunity in Comparative Perspec- 
+tive: Recent Research on Educational Attainment and Social Mobility,” Annual 
+Review of Sociology 31, 223-244. 
+Burdett, K., and M. G. Coles (1997). “Marriage and Class,” Quarterly Journal of Eco- 
+nomics 112, 141-168. 
+Chadwick, L., and G. Solon (2002). “Intergenerational Income Mobility among 
+Daughters,” American Economic Review 92, 335-344. 
+Ermish, J., M. Francesconi, and T. Siedler (2006). “Intergenerational Mobility and 
+Marital Sorting,” Economic Journal 116, 659-679. 
+Fernandez, R., A. Fogli, and C. Olivetti (2004). “Mothers and Sons: Preference For- 
+mation and Female Labor Force Dynamics,” Quarterly Journal of Economics 119, 
+1249-1299. 
+Fisman, R., S. Iyengar, E. Kamenica, and I. Simonson (2006). “Gender Differences in 
+Mate Selection: Evidence from a Speed Dating Experiment,” Quarterly Journal of 
+Economics 121, 673-97. 
+Goldberger, A. (1989). “Economic and Mechanical Models of Intergenerational Trans- 
+mission,” American Economic Review 79, 504-513. 
+Grawe, N. D., and C. B. Mulligan (2002). “Economic Interpretations of Intergenera- 
+tional Correlations,” Journal of Economic Perspectives 16, 45-58. 
+Hertz, T. (2005). “Rags, Riches and Race: The Intergenerational Mobility of Black 
+and White Families in the US,” in Bowles, S., Gintis, H. and Osborne Groves, 
+M. (eds.) Unequal Chances: Family Background and Economic Success, Princeton 
+University Press. 
+Hirvonen, L. (2006). “Intergenerational Earnings Mobility Among Daughters and 
+Sons: Evidence from Sweden and a Comparison with the United States,” Work- 
+ing Paper No. 5/2006, Swedish Institute for Social Research. 
+22 
+
+========24========
+
+Hitsch, G., A. Hortacsu, and D. Ariely (2010). “Matching and Sorting in Online 
+Dating,” American Economic Review 100, 130-163. 
+Kalmijn, M. (1991). “Status Homogamy in the United States,” American Journal of 
+Sociology 97, 496-523. 
+Kalmijn, M. (1998). “Intermarriage and Homogamy: Causes, Patterns and Trends,” 
+Annual Review of Sociology 24, 395-421. 
+Legros P., and A. Newman (2007). “Beauty is a Beast, Frog is a Prince – Assortative 
+Matching with Nontransferabilities,” Econometrica 75, 1073-1102. 
+Loehlin, J. C. (2005). Resemblance in Personality and Attitudes between Parents and Their 
+Children: Genetic and Environmental Contributions. Princeton University Press, 
+Princeton. 
+Mailath, G. J., and A. Postlewaite (2006). “Social Assets,” International Economic Review 
+47, 1057-1091. 
+Mulligan, C. B., and Y. Rubinstein (2008). “Selection, Investment, and Women’s 
+Relative Wages Over Time,” Quarterly Journal of Economics 123, 1061-1110. 
+Olivetti, C., and B. Petrongolo (2008). “Unequal Pay or Unequal Employment? A 
+Cross-country Analysis of Gender Gaps,” Journal of Labor Economics 26, 621-654. 
+Plug, E. and W. Vijverberg (2003). “Schooling, Family Background, and Adoption: Is 
+it Nature or is it Nurture? Journal of Political Economy 111, 611-641. 
+Schwartz, C. R., and R. D. Mare (2005). “Trends in Educational Assortative Marriage 
+From 1940 to 2003,” Demography 42, 621-646. 
+Shimer, R. and L. Smith (2000). “Assortative Matching and Search,” Econometrica 68, 
+343-369. 
+Solon, G., M. Corcoran, R. Gordon, and D. Laren (1991). “A Longitudinal Analysis of 
+Sibling Correlations in Economic Status,” Journal of Human Resources 26, 509-534. 
+Solon, G. (1992). “Intergenerational Income Mobility in the United States,” American 
+Economic Review 82, 393-408. 
+Solon, G. (1999). “Intergenerational Mobility in the Labor Market,” in O. Ashenfelter, 
+and D. Card (eds.), Handbook of Labor Economics, North-Holland. 
+23 
+
+========25========
+
+Appendix: Mobility and Earnings Gaps 
+Figure 1 shows a positive correlation between gender earnings gaps and mobility 
+gender gaps across different US states. 
+Gender mobility gaps are derived from the Panel Study on Income Dynamics 
+(PSID), using a similar procedure as Chadwick and Solon (2002). The PSID is a lon- 
+gitudinal survey conducted by the University of Michigan’s Survey Research Centre. 
+The project started in 1968 and has conducted annual interviews each year since then. 
+The main advantage of the survey is that it has followed over time children from the 
+original families interviewed in 1968 as they have grown up and formed their own 
+households. As a result, it is possible to observe the household income of children 
+once they have formed their own household, as well as the income of their parents 
+when the respondents were young children, as reported by the parents themselves. 
+For both children and their parents, household income is deﬁned as the sum of labor 
+income of both spouses (deﬂated by the US consumer price index). 
+Following Chadwick and Solon (2002), we focus on individuals who were adults 
+in the 1992 survey and were kids in the original 1968 survey. All children from the 
+same family who satisfy the sample restrictions are kept in the sample. We restrict the sample to respondents born between 1951 and 1966.11 We further restrict the analysis 
+to married individuals only. We deal with measurement errors in parental long-run 
+income by averaging (real) parental income over ﬁve years, using family income for 
+the years 1967-1971 (as reported in the 1968-1972 interviews) for the 1968 household 
+head. The resulting sample includes 1,372 observations, of which 728 are daughters 
+and 644 are sons. 
+11 
+Children born before 1951, who were older than seventeen years of age at the 1968 interview, are excluded to avoid over-representing children who left home at late ages. In addition, restricting the sample to children born before 1967 ensures that the children’s 1991 income measures are observed at ages of at least twenty-ﬁve years (otherwise at younger ages income measures might not be good proxies of long-run income status). 
+24 
+
+========26========
+
+To estimate the extent of intergenerational social mobility, we regress the log (real) 
+household income of married spouses who are aged between twenty-ﬁve and thirty- 
+nine in 1991 (observed in the 1992 survey) on the income of the parents between 
+1967-1971, i.e., when children were still living with their parents (and were aged 
+between two and seventeen in 1968). We include the standard controls used in the 
+literature (age and age squared of the respondent in 1991, age and age squared of the 
+father between 1967-1971). 
+To investigate differences in social mobility across genders, we include interactions 
+between all explanatory variables and dummy variables for women and men. In or- 
+der to estimate differences in social mobility across US states, we further interact the income of the parents with dummies for each US state.12 Following this procedure, 
+we obtain persistence coefﬁcients for men and women (all signiﬁcantly different from 
+zero at the one percent level). A lower persistence coefﬁcient implies higher mobil- 
+ity. The state-level gender mobility gaps used in Figure 1 are thus measured by the 
+ratio between the persistence coefﬁcients for men and the corresponding persistence 
+coefﬁcients for women – a higher ratio indicating higher social mobility for women 
+relative to men. 
+The state-level earnings gap data used to generate this picture was obtained from 
+the US Bureau of Labor Statistics (BLS), which reports median weekly earnings of 
+men and women by state. We use data for 1998, the ﬁrst year for which the BLS provides state-level data on earnings gaps between genders.13 A higher ratio indicates 
+a lower gender gap in earnings. 
+12 
+Unlike Chadwick and Solon (2002), in our regression we use the PSID’s 1992 weights and cluster standard errors at the household level. 
+13 
+Note that our theoretical construct yields predictions concerning the relationship between inter- generational income mobility and expected lifetime earnings of men and women – as opposed to earnings measured at a particular point in time. 
+25 
+
+========27========
+

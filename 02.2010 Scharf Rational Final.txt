@@ -1,0 +1,893 @@
+March 2010 
+                 No.2 
+Rational Inattention  to 
+Subsidies for Charitable Contributions Prof Kimberley Scharf   ( Warwick) and Dr Sarah Smith (Bristol) 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Rational Inattention to Subsidies for Charitable Contributions∗ 
+Kimberley Scharf† University of Warwick and CEPR 
+and 
+Sarah Smith Bristol University and CMPO 
+March 2010 
+ABSTRACT 
+Evidence shows that individuals do not always take tax attributes into ac- count when making their choices. We focus on tax relief for charitable contri- butions. Although rational donors should view a match and a rebate of the same value as being equivalent, survey evidence shows that nominal dona- tions are more likely to adjust in response to a change in the rebate than to a corresponding change in the match. We argue that these patterns are consis- tent with the predictions of a model of rational inattention, whereby a major- ity of individuals choose to process rebate changes while forgoing to process match changes. 
+KEY WORDS: Salience of Taxes and Subsidies, Rational Inattention JEL CLASSIFICATION: H2, D0, D8 
+∗We would like to thank Charities Aid Foundation and Justgiving who allowed us to survey their donors. We have also received helpful comments and suggestions from Jim Andreoni, Chris Woodruff, Abigail Payne, Rob Sauer, economists at HMRC, and participants to seminars at Oxford University and the Institute for Fiscal Studies. All remaining errors are our own. 
+†Correspondence should be addressed to Kimberley Scharf, Department of Economics, University of Warwick, Coventry CV4 7AL, UK, k.scharf@warwick.ac.uk 
+
+========2========
+
+There is an increasing amount of evidence, both from the lab and from the ﬁeld, to suggest that agents do not process all of the parameters relating to the choices that they face.1 A framework that has increasingly been invoked in the literature for thinking of inattention in decision making is one where goods’ values and prices are determined by both “vis- ible” attributes, and by “shrouded” or “opaque” attributes.2 Visible attributes are fully noticed and processed by agents. Opaque or shrouded attributes, on the other hand may not be fully processed. In such situations, perceived valuations may differ from true val- uations, which can lead to deviations from the optimal choice that would be prescribed if all attributes were fully salient. 
+To date, the literature on non-salience has focused on understanding the implications of divergences between individual perceptions of valuations and true valuations by ex- ploring how individuals’ choices respond to the shroudedness of the attribute (Brown et al., 2008; Chetty et al., 2009), or to the salience of the shrouded attribute (Chetty et al., 2009; Finkelstein, 2009), or to the number of competing incentives (“stimuli”) (DellaVigna and Pollet, 2009; Hirshleifer et al., 2009).3 An aspect that has not been fully studied, although it has been mentioned by Gabaix and Laibson (2006), and by Chetty et al. (2009),4 is the possibility that the non-processing of attributes may be deliberate. Attention is a scarce resource and so competition for attention leads to individuals attempting to simplify the decision making process by choosing not to make use of all available information – a choice that will depend on the number and strength of competing processing demands and the costs of the mistakes that non-processing entails. A possible reason for this omis- sion in the literature lies in the nature of the evidence that has thus far been collected – in all of the studies mentioned choices are made on quantities and not expenditures. This means that there can be no differences in the costs of paying attention to different attributes if those attributes have the same effect on the price. 
+In this paper, we look at the decisions individuals make in response to changes in pa- rameters that are in principle equivalent but for which non-processing results in different deviations from optimality. The speciﬁc case we focus on is that of tax incentives for char- itable donations in the UK tax system. The UK case is ideal for this purpose because the main scheme through which donors get tax relief on their donations has both a match and rebate element, at least for higher-rate taxpayers. In principle, a match and a rebate are equivalent ways of subsidizing private donations, lowering the price of giving to charity. 
+1See DellaVigna (2009) who provides an overview and analysis of existing literature. 
+2This description paraphrases the simple model described by DellaVigna (2009). He uses the term “opaque” to describe the nonvisible component of a good’s value. Gabaix and Laibson (2006) deﬁne a shrouded attribute as a product attribute that is hidden even though it could be nearly costlessly revealed. 
+3Other evidence of inattentive behaviour has also been found on research addressing rebates for car purchases (Busse et al., 2006) and sticky prices in macroeconomics (Sims, 2006). 
+4Gabaix and Laibson (2006) discuss “deﬁned rules of behaviour” whereby agents look only one step ahead when making decisions in a dynamic framework. Chetty et al. (2009) discuss the relationship be- tween cognitive costs and salience. 
+1 
+
+========3========
+
+However, given that what donors must choose is a nominal donation – the amount they give, inclusive of the rebate but net of the match rather than the match-inclusive amount the charity receives – their gross donation – the consequences of inattention to the match and to the rebate are different. By examining how individuals respond to changes in one or the other we are able to examine whether patterns of inattention are consistent with the ranking of the associated inattention costs – which would point to inattention being the result of an endogenous, rational decision. 
+Our data comes from our own survey of UK donors, who were asked to report what donations they would be likely to make under the current tax system as well as under al- ternative tax treatments comprising a match, a rebate or a combination of the two. We ﬁnd that the majority of donors do not report changes in their donations out of net-of-tax in- come – their nominal donations – in response to changes in either the match or the rebate.5 Nevertheless, we ﬁnd that individuals are more likely to adjust their nominal donation in response to a change in the rebate than they are likely to do in response to a change in the match. As this gap is observed both for those who do not reclaim the rebate as well as for those who do, the difference cannot be attributed to the presence of additional administration costs for the rebate. Eckel and Grossman (2008) suggest that differences in match and rebate elasticities may stem from framing effects – a “co-operation frame” induced by the match, compared to a “reward frame” induced by the rebate (Benabou´ and Tirole, 2006). However, rationalizing such differences as arising from framing effects related to differential warm glow is problematic. Moreover, differential framing effects do not account for why so many people do not change their nominal donations in response to changes in either the match or the rebate, nor why this inertia in nominal donations is comparatively more marked for small donors than it is for larger donors. 
+Instead, we argue that the patterns of adjustment we observe across modes of delivery and across different donor types are consistent with “rational inattention” – a deliberate choice of neglecting to process comparatively unimportant information in the donation decision if doing so involves some (small) cost. If the apparent non-salience of a tax attribute is the result of a deliberate choice by individuals, then we would expect such choice to vary across individuals depending on their different circumstances; speciﬁcally, we would expect individuals to be less likely to neglect a certain tax attribute the more signiﬁcant are the consequences of doing so in their particular case. In our survey design, the changes in tax incentives (match and/or rebate) are all equally explicit, so differen- tial shroudedness does not appear to be a likely explanation for non-salience. However, unlike in earlier studies on salience, our survey evidence makes it possible to compare different tax attributes that are in principle equivalent but that vary with respect to their implications for the concrete actions individuals need to take in order respond to them. 
+5This implies that – in line with previous experimental studies – gross donations respond signiﬁcantly more to changes in the match than they do to changes in the rebate. Those experiments were carried out in the laboratory and in the ﬁeld, although they did not focus on responses to broad based tax incentives. 
+2 
+
+========4========
+
+In those earlier studies individuals choose quantities, not expenditures; this means that different instruments that have an analogous effect on the price will carry the same inat- tention cost. In our case, donors must choose nominal values, gross of the rebate they can reclaim but net of the match that the charity receives; this means that changes in match and rebate that have an equivalent effect on the price of giving require them to perform different adjustments in their nominal donations, and thus involve different inattention costs. This feature, which is speciﬁc to subsidies to charitable contributions, enables us to relate observed patterns of responses to predictions of a model of giving under rational inattention – which we present in the second part of our paper. 
+As we show, the main prediction of such a model is that, no matter what the under- lying preferences of donors are, if the expected change in match or rebate is small, or the planned donation is small relative to the cost of inattention, donors will not adjust their nominal donations in response to subsidy changes. Thus, some donors will not adjust, and larger donors are more likely to be amongst those who do adjust. Furthermore, in a rational inattention framework the parameters that would characterize choices under full attention can be related to the relative likelihood of adjusting nominal donations to changes in either match, rebate, or both. Speciﬁcally, if the underlying, full-attention price elasticity of giving is greater than unity in absolute value, we should be more likely to ob- serve people adjusting nominal donations either in response to rebate changes only or in response to both match and rebate changes, but we should not observe donors only adjusting in response to match changes. 
+In line with these predictions, our survey evidence indicates that donors who make larger donations are more likely to adjust their nominal donations in response to changes in the match or rebate. Also in line with this interpretation and with independent em- pirical evidence on the price elasticity of giving – which imply that larger adjustments in nominal donations are required in response to changes in the rebate in comparison with price equivalent changes in the match – those who do adjust their nominal donations are more likely to adjust to changes in the rebate than to changes in the match, and almost all of those who adjust to changes in the match also adjust to changes in the rebate. 
+Although these ﬁndings are for subsidies to private giving, they shed light on the wider question of whether and why tax parameters are salient to individuals’ decisions, suggesting that non-salience is a manifestation of processing costs that are fully inter- nalized by individuals. Even more broadly, our ﬁndings hint that processing constraints should not be too readily dismissed in favour of alternative explanations when trying to account for non-standard responses. 
+The rest of the paper is structured as follows. Section 2 sets out a basic theoretical framework for thinking about donation responses to tax incentives, and discusses previ- ous evidence on giving responses resulting from changes in the price of giving. Section 3 describes the survey and presents the main ﬁndings and Section 4 discusses alternative explanations for them. Section 5 presents a model of rational inattention and relates its predictions to our ﬁndings. Section 6 concludes. 
+3 
+
+========5========
+
+1 Private donations, the price of giving, and fully-attentive 
+responses to tax relief 
+In this section we outline a basic model of rational giving choices. This will be used as a frame of reference for our discussion of the evidence and of possible interpretations for it. 
+Consider an environment with n donors consuming a combination of private con- sumption, x(i), and collective consumption services, G, which are provided by private contributions, g(i), of individual i, where i ∈ (1, . . . ,n). That is, total provision is G = ∑i g(i). Then, for a given level of contributions by everyone else, G(−i)= ∑j=i 
+￿ 
+g(j), the payoff to individual i as a function of her contribution, g (i) can be represented by 
+U￿y(i) − g(i),G(−i)+ g(i), g(i)￿. (1) 
+where U is monotonically increasing and quasi-concave in all its arguments; and where y(i) is individual i’s gross income (making private consumption equal to x(i)= y(i) − g(i)), and where the third term reﬂects the “warm glow”, w(i)= g(i), that individu- als may derive from their own contributions towards collective consumption (Andreoni, 1988, 1990). 
+Now suppose that contributions beneﬁt from tax relief and that this relief consists of: (i) a tax rebate: every dollar nominally donated to a charity entitles the donor to a tax rebate of r cents; and (ii) a direct match: every dollar of nominal donation to a charity is matched by a government grant to the charity equal to m cents. What this implies is that a nominal donation of d dollars, receives gross funding of (1 + m)d at a cost to the donor of (1 − r)d; thus, the ratio of cost to gross funding from the point of view of the donor – the price of giving – is p =( 1 − r)/(1 + m). Both the match and the rebate have the effect of lowering the price of giving. The ﬁrst argument in￿ U(·) then becomes equal to y(i) − pg(i)= y(i) − (1 − r)/(1 + m)￿ g(i), where g(i)=( 1 + m)d(i) is the gross donation, i.e. the amount received by the charity. 
+Each individual chooses g(i) so as to maximize his or her own utility, taking as given the tax relief6 and all others’ contributions. An interior optimal choice of g(i) for individ- ual i is then characterized by the ﬁrst-order condition7 
+UG +Uw(i) 
+Ux(i) 
+= p. (2) 
+An increase in the match or the rebate lowers p, and, assuming normality, unambiguously raises g(i). The effect on net donations pg(i) of a decrease in the price is ambiguous. For 
+6Making 
+m and r exogenous to the individual’s maximization problem implies that individuals cannot “see behind” the government’s budget constraint. In an economy with a large numbers of agents, this assumption appears plausible and is consistent with the assumption that ﬁscal instruments, such as distor- tionary taxes used to fund tax incentives, are viewed by individuals as being unlinked from spending. 
+7Arguments of 
+U have been suppressed for notational simplicity. Subscripts denote partial derivatives. 
+4 
+
+========6========
+
+example, a price elasticity of −1 for gross donations, g(i), implies that net donations, pg(i), do not adjust to changes in the price of giving, a response which is fully consistent with a rational model of giving.8 
+The combination of match and rebate on a nominal donation of d amounts to a sub- sidy of s￿ = 1 − (1−r)/(1+ m)=( m +r)/(1+ m) on a gross donation of g =( 1 + m)d. We would therefore expect a rational donor to be indifferent between a policy that com- bines a rebate and a match and a policy that subsidizes gross donations at a rate s￿; and we would expect that a donor would rationally respond to the replacement of a combi- nation of match and rebate with a subsidy s￿ by adjusting her nominal donation to d￿. More generally, we would expect that a rational donor should be indifferent between two different combinations (m￿,r￿) and (m￿￿,r￿￿) of match and rebate levels such that (m￿ + r￿)/(1 + m￿)=( m￿￿ + r￿￿)/(1 + m￿￿). This conclusion is independent of the ex- tent to which giving is driven by collective consumption concerns (the second term in (1)) or by private concerns (the third term in (1) – warm glow). 
+However, recent evidence from experiments in the laboratory and the ﬁeld suggest that the match and rebate are not equivalent, and, in particular, that gross donations are more responsive to an increase in the match than they are to an equivalent increase in the rebate.9 In light of the standard model of rational giving choices, this gap is puz- zling. To investigate what might lie underneath such differential responses, in this study we collect survey evidence on responses to changes in match and rebate based subsidies delivered through the tax system, and examine patterns of adjustment across different donor types, with respect to both the proportions of donors who adjust and the size of their adjustments, and compare them with the patterns that would be predicted by alter- native, competing explanations. 
+8Empirical evidence on the responsiveness of giving to changes in its tax-adjusted price is, however, mixed: early studies (summarized by Clotfelter, 1985, Steinberg, 1990, and Triest, 1998) suggested that the price elasticity of giving is negative and greater than unity in absolute value, but more recent studies have shown that, after correcting for short-term price effects, estimates of price elasticities are smaller: Randolph (1995) uses panel data to ﬁnd a long-run price elasticity of giving of −.51; using a longer but similar panel to that used by Randolph but a different estimation technique, Auten, Sieg and Clotfelter (2002), arrive at the signiﬁcantly higher estimate of −1.26; more recently, Bakija and Heim (2008) ﬁnd a long-run value of −.7 – close to Randolph’s estimate. Surveying these studies, Andreoni (2007) concludes that the literature is “unsettled as to the true values of price elasticities”. 
+9Eckel and Grossman (2003) tested responses to match and rebate in a lab experiment that involved 181 undergraduate students each given twelve allocation problems varying in the initial endowment and match and rebate rates. In the experiment, match rates resulted in gross donations that were up to two times greater than the equivalent-value rebate. The estimated match elasticity was −1.14 compared a re- bate elasticity of −.36. Similar results were obtained from a ﬁeld experiment they conducted (Eckel and Grossman, 2008). Based on approximately 7,000 responses to a mail-out on behalf of Minnesota Public Ra- dio, offering match rates resulted in a higher level of gross donations than equivalent-value rebates. The estimated elasticity of gross donations was −1.05 in the case of the match rate and −.11 in the case of the rebate rate. 
+5 
+
+========7========
+
+2 Evidence from a survey: hypothetical changes in the UK’s 
+Gift Aid scheme 
+Unlike in the US, where tax incentives for giving are in the form of a deduction, the main system of tax relief on donations in the UK offers a match subsidy, combined with an additional rebate subsidy for higher rate taxpayers. The scheme, known as Gift Aid, works as follows. Individuals donate to charity out of their net-of-tax income. The charity can reclaim tax relief at the basic rate of tax, currently 20%. This means that for every £1 donated to charity, the charity gets a match equal to 25 pence. In addition, higher-rate taxpayers (taxpayers with annual gross taxable income in excess of a given level – £37,400 in 2009) can reclaim a rebate equal to the difference between the higher rate of tax at 40% and the basic rate of tax at 20% on the gross equivalent donation, i.e. the amount before basic rate tax was deducted. This means that for every £1 donated out of net income, a higher-rate taxpayer can get an additional rebate of 25 pence. For higher-rate taxpayers, therefore, the price of giving £1 of funding to a charity is 60 pence. 
+Given the presence of both a match and a rebate element for higher rate taxpayers, the UK case provides an ideal opportunity to compare the effect of instruments that can be equivalent in terms of their effects on the price of giving but that involve different calculations (and actions) on the part of individuals. Speciﬁcally, since donors directly select nominal donations – i.e. the donation gross of the rebate but net of the match – failing to process (and respond to) changes in the match component and failing to process (and respond to) changes in the rebate component have different implications for the effective donation made by the individual, both in terms of its net cost to the donor and in terms of the corresponding gross amount received by the charity. 
+Invitations to take part in our on-line survey were e-mailed to 40,000 UK-based donors, split equally between those with a Charities Aid Foundation (CAF) charity account and those who had donated online through Justgiving (an online giving portal) during the previous six months.10 We collected pseudo-panel information by asking individuals about a likely donation under the current tax system as well as likely donations under alternative systems. 
+The overall design of our survey is analogous to that of recent ﬁeld experiments – individuals were randomly allocated across treatments offering different levels of match and/or rebate subsidy in order to test how donations respond.11 
+10CAF is a charity that, among a range of services for individuals and charities, provides a charity account to donors to facilitate tax-efﬁcient giving. Justgiving is an online giving portal that processes donations from individuals direct to charity and individual sponsorships of charity fundraisers. The response rates were 9.86% among the CAF sample and 9.19% among the Justgiving sample. 
+11For practical reasons, the treatments in our study were purely hypothetical: we asked respondents to consider how the alternative tax treatments would affect a speciﬁc donation that they were likely to make in the next six months. There is an obvious potential concern that our results may be affected by hypothetical 
+6 
+
+========8========
+
+Our analysis focuses on a sub-sample of 1,442 higher-rate taxpayers, the group faced with both match and rebate elements; for basic rate taxpayers, Gift Aid is purely a match on their net-of-tax donation. Respondents were randomly allocated to ﬁve different “treat- ments”, each of which contained two hypothetical scenarios reﬂecting different combina- tions of match and rebate. The way these scenarios were described to respondents in the survey reﬂects the way Gift Aid is currently portrayed to donors – the charity receives m pence for every £1 of nominal donations and the individual can reclaim r pence for every £1 of nominal donations. For the purpose of the discussion that follows, we shall mainly focus on two of these treatment groups – sets A and B – consisting of higher- rate taxpayers who faced scenarios that isolate changes in either the match or the rebate. Speciﬁcally, in addition to the baseline scenario of a 25 pence match and a 25 pence rebate (corresponding to a price of giving equal to 60 pence on the pound), respondents in set A (283 respondents, average initial donation £2,169 ) were faced with the following two scenarios: 
+(A.1) A match of 30 pence and a rebate of 25 pence (price of giving = .577); 
+(A.2) A match of 25 pence and a rebate of 30 pence (price of giving = .560). 
+For set B (289 respondents, average initial donation £2,827), donors were faced with the following two scenarios: 
+(B.1) A match of 20 pence and a rebate of 25 pence (price of giving = .625); 
+(B.2) A match of 25 pence and a rebate of 20 pence (price of giving = .640). 
+Thus, respondents in sets A and B respectively face decreases and increases in the price of giving relative to the baseline price of 60 pence. Scenarios for other three treatment groups involved eliminating the match altogether and increasing the match.12 
+Using the information on individuals’ initial donations under the current tax treat- ment and (up to) two donation levels in each of the S hypothetical scenarios, we estimate 
+or strategic bias (see Harrison and Rutstrom, 2006). However, our ﬁndings suggest that these problems˝ 
+were not serious in practice. The survey itself contained a number of consistency checks. For example, we deliberately included the same treatment twice but in a different order to test for so-called “embedding effects” (responses depending on the way, and the order, in which questions are presented; see Diamond and Hausman, 2002). 
+12The match rates are respectively .50 and .30 for the ﬁfth and sixth scenarios (544 respondents); .37 for the seventh scenario (271 respondents); and .66 for scenario number eight (267 respondents). The ﬁfth and sixth scenarios are included in different treatments to test for embedding effects and so have a larger number of respondents. Tests for systematic variation in initial donations across scenarios reveal that none of the differences is statistically signiﬁcant, indicating that the random allocation across treatment groups was effective. 
+7 
+
+========9========
+
+Table 1: Responses – main resultsMain results   
+Regression results: Dependent variable =  ln (gross donation) 
+Scenario 
+Treatment: 
+      m  = match 
+       r   = rebate 
+(1) Coefficient 
+Current 
+m  = 0.25,  r  = 0.25 
+A.1 A.2 
+m  = 0.30,  r  = 0.25 
+m  = 0.25,  r  = 0.30 
+    .0543     .0332 
+Number of respondents  =  288 
+B.1 B.2 
+m  = 0.20,  r  = 0.25 
+m  = 0.25,  r  = 0.20 
+!.0353    .0062 
+Number of respondents = 287 
+(2) Standard Error 
+(3) Implied elasticity  
+(4) Proportion of  donors adjusting nominal donation 
+(.0046) (.0047) 
+!1.42    !.50 
+.108 .243 
+(.0046) (.0047) 
+!.85     .09 
+.059 .123 
+Total number of respondents (all treatments) =     1,442 Total number of observations                         =     4,216 
+the following random-effects model to obtain the percentage change in donations associ-Results, by whether or not higher-rate taxpayer reclaims 
+ated with each distinct scenario, s:13 
+ln gis = α + 
+where 
+S 
+∑ 
+β Iiz + v:is, z=1 
+Treatmentz 
+      m  = match 
+      r   = rebate 
+s 
+Regression results: 
+Dependent variable = 
+∈ Sˆln (gross donation) 
+￿t(i)￿, (3) 
+(1) Coeff. 
+γi 
+m = 0.30, r  = 0.25 
+m  = 0.25,  r  = 0.30 
+m  = 0.20,  r  = 0.25 
+t(i) (= 
+m  = 0.25,  r  = 0.20 
+    .0417     .0137 !.0329     .0204 
+(2) Standard Error 
+(3) Implied elasticity  
+(4) Proportion of  donors adjusting nominal donation 
+(.0063) (.0063) (.0065) (.0065) 
+!1.09 !.21 !.79 
+     .31 
+.060 .090 .024 .120 
+￿ 
+g 
+Scenario 
+is 
+is the (gross) donation of individual i under scenario s – with gi0 representing the individual’s initial donation;Non-reclaimers vis = γi + uis includes a ﬁxed, individual-speciﬁc term, , which captures the effects of observed and unobserved donor characteristics on do-A.1 
+nations, as well as a zero-mean, IID error term,A.2 uis; Iiz (z ∈ S) are indicator variables for each of the eight distinct counterfactual scenarios (B.1 Iiz = 1 if z = s and Iiz = 0 if z = s); 
+1, . . . , 5) is the treatment group to which respondentB.2 i belongs, and Sˆ(t(i)) is the subset of counterfactual scenarios (includingNumber of respondents                                  =    259s = 0) that feature in treatment group t(i). 
+The results are reported in Table 1, which also provides an estimate of the elasticityTotal number of respondents (all treatments) =    
+ 633 
+of gross donations for each scenario (column (3)) based on the reported change in grossTotal number of observations                         = 1,870 
+donations and the associated price change, and reports the proportion of respondentsReclaimers 
+who say that they would adjust their donations for each scenario (column (4)). 
+A.1 A.2 
+m  = 0.30,  r  = 0.25 
+m  = 0.25,  r  = 0.30 
+13 
+m  = 0.20,  r  = 0.25 
+m  = 0.25,  r  = 0.20 
+    .0654     .0505 !.0372 !.0050 
+(.0064) (.0065) (.0063) (.0063) 
+!1.71 
+   !.76          !.89 
+   !.08 
+.149 .378 .086 .225 
+This is efﬁcient and unbiased if the rebate and match terms are unrelated to individuals’ characteristics:B.1 
+since the rebate and match terms are randomly allocated to individuals this should be true by assumption.B.2 
+After running a speciﬁcation test, we could not reject the random-effects speciﬁcation against a ﬁxed-effects speciﬁcation.Number of respondents                                  =    316 
+Total number of respondents (all treatments) =    809 
+Total number of observations                         = 2,345 
+8 
+1 
+
+========10========
+
+Across the sample, the response in gross donations to a change in the match is signif- icantly greater than the response to a similar-sized change in the rebate. The estimated match elasticity is −1.42 for an increase in the match (set A, scenario 1) and −.85 for a decrease in the match (set B, scenario 1); for changes in the rebate, the corresponding estimates are −.50 and .09.14 
+In all scenarios, the majority of people report that they would not adjust their nominal donations in response to the change in tax treatment, with individuals making larger donations being overall more likely to adjust (Figure 1). In itself, the ﬁnding that nominal donations do not change when there is an increase in the match would, as mentioned above, imply a price elasticity of giving of −1, which is not out of line with the earlier estimates. However, nominal donations also not changing when there is an increase or decrease in the rebate would imply a rebate-price elasticity of 0. Observed responses therefore present a puzzle from the perspective of the standard rational choice model. 
+One may be concerned that this ﬁnding on non-adjustment may be an artefact of the hypothetical nature of the survey. Since calculating the optimal level of donation associ- ated with the new tax price and responding truthfully yields no beneﬁt to respondents, the easiest route for respondents could be to say that they would not adjust their nominal donations. However, counter to this notion, we ﬁnd signiﬁcant variation across scenarios in the proportion who do adjust – often for the same individual. 
+Tests for differences in responses across the scenarios indicate that signiﬁcantly more people respond to changes in the rebate than to changes in the match, and more people respond to bigger changes in either the match or the rebate.15,16 This is despite the fact that across all scenarios the implied price changes associated with changes in the rebate are smaller than those associated with changes in the match. 
+The different proportions of donors adjusting their nominal donation to match and rebate changes (column (4)) indicates that the gap between the estimates of match and rebate elasticities across the sample can at least in part be attributed to compositional effects with respect to the numbers of those adjusting and those not adjusting rather than to differences in the magnitude of responses of those who adjust: since the implied price elasticity of gross donations is −1 for a non-adjuster to the match and 0 for a non-adjuster to the rebate, a comparatively greater proportion of non-adjusters for the rebate translates into a comparatively smaller elasticity (in absolute value) for the rebate. 
+14These estimates are in line with those obtained in the earlier experimental studies on match and rebate – Eckel and Grossman for example found estimated match elasticities to range from −1.14 to −1.05 and rebate elasticities to range from −.36 to −.11. 
+15Tests for the null 
+βs = βs￿, s ￿ = s￿ for scenarios 1-4 (the scenarios reported in Table 1) return P-values of less than 1%. 
+16Karlan and List (2007) and Huck and Rasul (2009) ﬁnd that nominal donations are not sensitive to changes in the value of a (non-tax) match. While this ﬁnding may appear to be consistent with the high level of non-adjustment in our survey, we do ﬁnd some cases of nominal donations varying signiﬁcantly across scenarios. 
+9 
+
+========11========
+
+.4 
+.3 
+Proportion of donors adjusting 
+2 
+0 
+Proportion of donors adjusting 
+.3 
+.4 
+0 
+.2 
+.1 
+.1 
+.2 
+2 
+6 
+4 
+4 
+rebate 
+ln (initial nominal donation) 
+match 
+ln (initial nominal donation) 
+rebate 
+match 
+10 
+8 
+6 
+10 
+8 
+.4 
+.3 
+.2 
+.1 
+Proportion of donors adjusting 
+0 
+2 
+4 
+ln (initial nominal donation)6 
+8 
+10 
+match 
+rebate 
+Note: Shows a smoothed, non-parametric estimator of the relationship between donation size and probability of adjusting. 
+Figure 1: Proportion of donors adjusting nominal donations 
+The speciﬁc response patterns we observe help dispel doubts about the impact of “hy- pothetical bias” on our survey evidence. As mentioned, one obvious way in which such bias may affect responses is by inducing individuals to report no change: since no ac- tual donation is involved, respondents may ﬁnd it easiest to report no adjustment even though they would adjust if an actual donation was involved. Or, for analogous reasons, we may expect certain individuals to report an adjustment picked at random. Both kinds of bias would affect estimates of overall responses, but there is no reason to expect that they would do so asymmetrically for match and rebate changes – particularly with re- spect to the proportions of respondents who say they would adjust to one but not the other.17 
+17In addition, the scenarios presented to respondents are “visually similar” (the same ﬁgures in terms of pence per pound feature in scenarios involving changes in the match and in the rebate); and, as already noted, the actual price changes involved are greater for the match than they are for the rebate – and yet more respondents report adjustment for the rebate than for the match. 
+10 
+
+========12========
+
+3 Candidate explanations 
+Our main empirical ﬁndings can be summarized as follows: 
+(i) Gross donations respond more to a change in the match than to an equivalent change 
+in the rebate. 
+(ii) Most donors do not change their nominal donation with respect to a change in either 
+the match or the rebate. 
+(iii) More donors adjust their nominal donations to a change in the rebate than to a 
+change in the match. 
+(iv) The probability of adjusting is increasing in the size of the donation. 
+These ﬁndings are inconsistent with a simple, stylized model of rational giving choices. 
+The ﬁnding of differential responses across match and rebate is in line with evidence from earlier experimental studies (although those studies were not focusing on broad based instruments). The other patterns have not been identiﬁed by those earlier stud- ies, nor can they be readily explained by the basic rational model; but they can tell us something about (i), pointing to possible explanations for it. 
+Below we discuss alternative explanations for these patterns, in light of the relevant theoretical constructs and in light of our evidence. 
+Administrative costs 
+One possible explanation for our ﬁndings that is consistent with rational behaviour could be that there are some additional, unmeasured costs attached to the rebate (e.g. admin- istrative costs for the donor associated with having to reclaim the rebate) but not to the match. In our sample, 44.1% of higher-rate taxpayers reported that they did not reclaim the additional higher-rate relief. As expected, the probability of reclaiming is closely linked to the amount donated – from fewer than 20% of those who give a few pounds a year through Gift Aid to around 75% of those who give more than 2,000 a year – this suggests the presence of administrative costs that are less than proportional to the amount reclaimed. 
+Table 2 summarizes responses to the treatments for reclaimers and non-reclaimers. Amongst reclaimers the proportion of adjusters is greater for the rebate than it is for the match, the gap between the two being even greater than for the sample as a whole (Table 1). Amongst non-reclaimers the pattern is the same but the gap is smaller. 
+Administrative costs associated with reclaiming the rebate, or with changing the a- mount reclaimed relative to the baseline, could not explain why more reclaimers change their nominal donation in response to a change in the rebate than they do in response to a change in the match. On the contrary, such costs would imply the reverse adjustment 
+11 
+
+========13========
+
+Scenario 
+Treatment: 
+      m  = match 
+       r   = rebate 
+Current A.1 A.2 
+m  = 0.25,  r  = 0.25 
+m  = 0.30,  r  = 0.25 
+m  = 0.25,  r  = 0.30 
+Number of respondents  =  288 
+B.1 m  = 0.20,  r  = 0.25 
+B.2 m  = 0.25,  r  = 0.20 
+Number of respondents = 287 
+Main results   
+Regression results: Dependent variable =  ln (gross donation) 
+(1) (2) Coefficient Standard 
+Error 
+(3) 
+Implied elasticity  
+    .0543     .0332 
+(.0046) (.0047) 
+!1.42    !.50 
+!.0353    .0062 
+(.0046) (.0047) 
+!.85     .09 
+(4) Proportion of  donors adjusting nominal donation 
+.108 .243 
+.059 .123 
+Total number of respondents (all treatments) =     1,442 Total number of observations                         =     4,216 
+Results, by whether or not higherTable 2: Responses – reclaimers and non-reclaimers-rate taxpayer reclaims 
+Treatment: 
+Scenario 
+      m  = match 
+      r   = rebate 
+Non-reclaimers 
+A.1 
+A.2 
+B.1 
+B.2 
+m = 0.30, r  = 0.25 
+m  = 0.25,  r  = 0.30 
+m  = 0.20,  r  = 0.25 
+m  = 0.25,  r  = 0.20 
+Regression results: Dependent variable = ln (gross donation) 
+(1) Coeff. 
+(2) Standard Error 
+elasticity  
+    .0417     .0137 !.0329     .0204 
+(.0063) (.0063) (.0065) (.0065) 
+(3) Implied 
+(4) Proportion of  donors adjusting nominal donation 
+!1.09 !.21 !.79 
+     .31 
+.060 .090 .024 .120 
+Number of respondents                                  =    259 Total number of respondents (all treatments) =     633 Total number of observations                         = 1,870 
+Reclaimers 
+A.1 
+A.2 
+B.1 
+B.2 
+m  = 0.30,  r  = 0.25 
+m  = 0.25,  r  = 0.30 
+m  = 0.20,  r  = 0.25 
+m  = 0.25,  r  = 0.20 
+    .0654     .0505 !.0372 !.0050 
+(.0064) (.0065) (.0063) (.0063) 
+         !.89 
+!1.71    !.76 
+   !.08 
+.149 .378 .086 .225 
+Number of respondents                                  =    316 Total number of respondents (all treatments) =    809 Total number of observations                         = 2,345 
+patterns – fewer reclaimers adjusting to a rebate change than to a match change. For non- reclaimers, the positive (albeit smaller) gap between the proportion of adjusters for the rebate and the proportion of adjusters for the match is even harder to link to administra-1 
+tion costs, given that such costs should be irrelevant for them. 
+Differential warm glow 
+One could try to rationalize differences in match and rebate elasticities as stemming from differential warm glow effects, i.e. by supposing that donors do not derive the same degree of warm glow from increases in the match as they do from increases in the rebate. For example, if individuals derive warm glow from their nominal (cash) donation, d(i)= g(i)/(1 + m) – the ﬁgure they write on their check – they would place a higher value on an increase in the rebate, and would therefore be comparatively more responsive to it in 
+12 
+
+========14========
+
+terms of changes in their gross donation.18 
+However, such an elasticity gap could not by itself explain why there are relatively more rebate adjusters than match adjusters – unless some other adjustment costs are present. But more importantly, for adjusters, we should observe a higher elasticity for the rebate than we do for the match. However, this is not what our survey evidence indi- cates: for adjusters in set A, for example, the estimated match and rebate elasticities are respectively −2.28 and −1.72, which still points to a comparatively greater responsive- ness of gross donations to changes in the match rather than the reverse – which would be implied by a warm-glow premium for the rebate.19 
+The observed gap in elasticities for adjusters could be consistent with the so-called en- dowment effect – the empirical ﬁnding that individuals appear to place a higher value on something that they think they have ownership over relative to the value that they place on something that they do not view as being theirs (Knetsch, 1989): if donors view their status quo nominal donation, after any changes in the match or rebate are implemented, as deﬁning their new “endowment point”, they might attach a higher feeling of owner- ship on relief given in the form of a rebate than on equivalent relief given as a match; then, if we interpret this effect with reference to the feelings associated with giving rather than the feelings associated with the cost of giving, it would translate into a relatively greater “cold chill” from adjusting donations downwards in response to a match increase in com- parison with the corresponding level under an equivalent rebate. This could explain why, for adjusters, gross donations are more responsive to the match than to the rebate; but it could not explain why more respondents adjust to changes in the rebate than they do for the match. 
+Non-salience 
+Chetty et al. (2009) and Finkelstein (2009) among others have recently provided evidence that some taxes (sales taxes in Chetty et al.’s study, road charges in Finkelstein’s) are not salient (not “in evidence”) in consumers’ decisions, and have interpreted this ﬁnding as arising from taxes being “shrouded” attributes.20 
+Unlike those studies, we can compare equivalent changes in two different tax instru- ments, but given our survey design, neither is obviously shrouded – we are explicitly 
+18An analogous premium on the rebate could also stem from nominal donations being motivated by status-seeking, or from “beat the taxman” attitudes on the part of donors (valuing a tax refund by more than the amount refunded). 
+19These estimates are based on a sample size of only 126 observations. Standard errors are .26 and .18 respectively for the match elasticity and the rebate elasticity estimates. 
+20Gabaix and Laibson (2006) discuss shrouded attributes as being attributes that are hidden from view at the point of decision-making even though they could be costlessly revealed. Using a ﬁeld experiment and exploiting differences in the observability of state and excise duties, Chetty et al. (2009) demonstrate that consumers behave differently when taxes are revealed. 
+13 
+
+========15========
+
+telling respondents about the match and rebate rates and relevant changes in them. It is nevertheless possible that what respondents are reporting is not how their donations would change if they made their choice at the time when they are ﬁlling out the survey, but rather how they think their donations would change in the future when faced with the actual choice. In other words, they may be fully aware of the match now, but they are telling us that the match will probably become shrouded when they actually choose – respondents are telling us introspectively that the match would be shrouded but the rebate would be not be at the time of the actual choice. But even so, there is no a priori reason to expect the match to be more shrouded than the rebate, or viceversa. 
+Moreover, even if we rationalize differences in adjustment patterns across match and rebate (our ﬁnding (ii)) as being the result of differential, introspective shroudedness across match and rebate, this does not tell us anything about whether adjustment or non- adjustment is the result of the relative salience or non-salience of one tax attribute over another. This is because, there are no obvious grounds for singling out one particular scenario (if any) over another as reﬂecting responses that are the result of a fully salient change in the price of giving. To illustrate this, suppose that we observe that nominal donations are insensitive to changes in the rebate and to price equivalent changes in the match. We could then we could think of this pattern as being consistent with a scenario where the “true” price elasticity of giving is −1, the match is fully salient and the rebate is non-salient; but we could also take it as being consistent with a scenario where the “true” price elasticity of giving is 0, the rebate is fully salient and the is non-salient. 
+One could try to assess which of the above interpretations is more plausible by looking to the evidence on the responsiveness of donations to changes in the price of giving. However, as discussed earlier in the paper, literature estimates do not give us clear clues. Our own implied elasticity estimate for the rebate – equal to −.50 for the full sample (Table 1, scenario A.2) – is consistent with independent literature estimates, which were obtained by focusing on the charitable tax deduction for the US case, that lie between 0 and −1. But this does not imply that we should view responses to the rebate as reﬂecting the “true” elasticity: those independent estimates may themselves be based on responses in which changes in the rebate are non-salient. Indeed, it is not even clear that in this context the concept of price elasticity of giving – the response to a price that incorporates fully salient attributes – remains meaningful: it may well be that neither match or rebate are fully salient. 
+Thus, the concept of non-salience as being associated with “shrouded attributes” does not seem to be very helpful for interpreting our survey evidence: it is not obviously perti- nent to an exercise where individuals make choices on paper on the basis of information explicitly provided to them; even if we were to accept that some tax instruments may be not salient to respondents’ decisions whilst others are, it cannot help us discern between alternative patterns of non-salience in our scenarios; it does not tell us why a particular instrument should be non-salient; and it does not explain our ﬁndings (iii) and (iv) – a higher proportion of adjusters to a change in the rebate than to a change in the rebate, 
+14 
+
+========16========
+
+and a higher probability of adjusting for larger donors. 
+In the next section, we explore an alternative mechanism that may explain (i)-(iv), a mechanism that is related to the concept of non-salience of attributes but ascribes it to a deliberate choice by donors rather than to intrinsic shroudedness. 
+4 Rational inattention 
+The apparent inattention to changes in the match or to the rebate may be the result of a rational choice by donors not to process the information that is available to them if doing so is costly. This conjecture is related to the concept of “limited rationality” as characterized by Lipman (1991), and to the idea of “rational inattention” that has been invoked in the macroeconomics literature on price stickiness (Sims, 2006). There is a piece of evidence from the survey that would seem to point to this interpretation. Respondents were asked for the main reason why they would not adjust their donations in response to a change in tax: more than 50% agree with the statement that they make their decision about how much to give before considering tax incentives; a further 20% agree that the tax relief has no effect on their decision about how much to give. 
+The ﬁndings of Chetty at al. (2009) and Finkelstein (2009) could also be interpreted in this light – buyers deliberately choosing not to process the information about the tax. In our case, the parallel would be with the rebate: i.e. people ﬁnd it difﬁcult to compute the net cost of the donation to them. However, this does not obviously conform to our ﬁnding about the match – which also requires processing – unless we suppose that processing a grossed-up amount from a net amount is informationally less demanding than processing a net amount from a grossed-up amount. In the case of Chetty at al. (2009), the responses relate to modes of delivery of the same instrument that may differ exogenously with re- spect to their degree of salience. In our case, the comparison is between instruments that are equivalent in terms of their effect on price and that, a priori, should be equally “in evidence” for donors. However, since donors directly choose nominal rather than gross donations, the consequences of non-processing are different for the two instruments. Ob- served processing choices across match and rebate thus convey additional information that we can relate to the predictions of a rational inattention model. 
+A simple formalization of rational inattention in the context of giving choices is pre- sented below. The key predictions that come out of such a framework can be easily antic- ipated on the basis of standard economic intuition: (i) if the costs of processing the match and/or the rebate are less than proportional to the size of the donations, then individuals making large donations will be more likely to process the match and/or the rebate – and hence to respond to changes in them – than will individuals who make small donations; (ii) individuals will be more likely to process the match and/or the rebate, tailoring their donations to them, the greater is the required adjustment in their optimal, unconstrained nominal donation – the action under their immediate control – for given changes in the match and/or the rebate. 
+15 
+
+========17========
+
+4.1 Modelling rational inattention 
+Rational inattention can be modelled as followed. With reference to the model of rational donation choices outlined in Section 2, let us abstract from the public good dimension of giving and suppose that donors only care about their own donation: 
+￿ 
+U￿x(i,t), g(i,t)￿ = U y(i) − 
+￿ 
+￿ 
+1 − r(t)￿d(i,t), 
+￿1 
++ m(t)￿d(i,t) , (4) 
+where d(i,t) is i’s nominal donation at time t – the amount the donor writes on the check, corresponding to the action the donor directly takes – r(t) ∈R is the rebate rate at t, and m(t) ∈M is the match rate at time t. The net donation (the cost of the donation to the donor) is c(i,t)=( 1 − r(t))d(i,t), and gross giving – the second argument in U – is g(i,t)=( 1 + m(t))d(i,t)= c(i,t)/p(t), where p(t)=( 1 − r(t))/(1 + m(t)) is the price of giving. 
+Suppose that, prior to making choices in period t, the individual has well deﬁned beliefs about the probability of different possible values of match and rebate at￿ t, i.e. Pr r(t)= r￿ ≡ π(r),r ∈R , and Pr￿m(t)= m￿ ≡ π(m),m ∈M . Also assume that there is no further donation choice to be made after period t or, equivalently, that observing m(t) and r(t) conveys no information about the distribution of possible values (m(t),r(t)) at t +1.21 
+Following a given realization of match and rebate rates at time t, the individual can observe these rates and can process this information by incorporating it into an ex-post optimal choice. Doing this involves, for each of value of the match and rebate, a non- monetary cost K(i).22 Alternatively, prior to making choices at t, the individual can de- cide not to process the match, the rebate, or both, and save the associated cost; in this case, she will be unable to condition her choice of d(i,t) on the realization of the tax re- lief parameters, and she will instead have to choose a single value d(i,t) that is optimal “on average” given her beliefs over possible realizations. To choose to do so rationally, however, the individual must come to an ex-ante assessment that also incorporates the values of the possible realizations of the tax relief parameters, which implies that the pro- cessing must take place even in that case, albeit prospectively, and that a processing cost, K0, must be incurred even then. Nevertheless, if the processing that is performed ex-ante does not exonerate the individual from having to process the information again to arrive 
+21Our arguments could be extended to a dynamic choice framework where 
+mt and rt do convey infor- mation about future realizations of match and rebate, and where, therefore, individuals use any current observation to update their beliefs. To be tractable, such an extension would require making simplifying assumptions about the form of the mechanism generating m(t) and r(t) – e.g. that m(t) and r(t) follow a Markov process. 
+22Sims (2006) characterizes rational inattention in terms of constraints on processing capacity, which means that the cost of processing a piece of information is an opportunity cost, deﬁned by alternative uses of such capacity. In our context, the simpler characterization we adopt is sufﬁcient for our purposes. 
+16 
+
+========18========
+
+at an ex-post optimal choice after observing a certain realization, then forgoing to process information ex-post will involve a lower overall processing cost. 
+Let the choice of whether or not to process the match and the rebate be respectively represented by σm(i,t) ∈{ 0, 1} and σr(i,t) ∈{ 0, 1}, where 0 denotes inattention and 1 denotes attention. Omitting t indices, we then have four possibilities, each yielding different expected payoffs: 
+(i) The individual processes both match and rebate; the associated payoff is 
+￿ ￿ 
+EmEr maxU￿y − d(1 − r),d(1 + m)￿ − Kd 
+0 
+−2K 
+≡ Γ(σm = 1,σr = 1) − K0 −2K, (5) where E[.] is the expectation operator – incorporating the individual’s subjective beliefs. 
+(ii) The individual processes the match but not the rebate; the associated payoff is 
+￿ ￿ 
+Em maxE 
+￿ 
+d 
+r 
+U￿y − d(1 − r),d(1 + m)￿￿ − K0 − K 
+≡ Γ(σm = 1,σr = 0) − K0 − K, (6) where the expression within the outer expectation operator is the indirect utility obtainable by selecting d optimally after processing m but not r. 
+(iii) The individual processes the rebate but not the match; the associated payoff is 
+￿ ￿ 
+Er maxE 
+￿ 
+d 
+m 
+U￿y − d(1 − r),d(1 + m)￿￿ − K0 − K 
+≡ Γ(σm = 0,σr = 1) − K0 − K, (7) where the expression within the outer expectation operator is the indirect utility obtainable by selecting d optimally after processing r but not m. 
+(iv) The individual processes neither match nor rebate; the associated payoff is 
+￿ ￿ 
+maxEd 
+mEr 
+U￿y − d(1 − r),d(1 + m)￿ − K0 
+≡ Γ(σm = 0,σr = 0) − K0. (8) 
+Choosing amongst the above four possible conﬁgurations, the individual will then ratio- nally select the processing strategy (σm,σr) that results in the highest expected payoff. 
+17 
+
+========19========
+
+In order to derive predictions that can be directly related to our survey evidence on treatment responses, let utility for donor i at time t take the quasilinear, constant-elasticity form 
+U￿x(i), g(i)￿ = x(i)+ φ(i)−1/η(i)1 
+η(i) 
+(1+η(i))/η(i) 
++ η(i)g(i) 
+￿ 
+y 
+η(i) 
+￿ 
+= − d ( i )( 1 − r )+ φ ( i )−1/η(i) 
+1 + η(i) 
+d ( i )( 1 + ) 
+(1+η(i))/η(i) 
+m , (9) with η(i) < 0. 
+Suppose the status quo position is with match m0 and rebate r0, implying a price of giving of p0 =( 1 − r0)/(1 + m0). Now suppose that the donor believes that with proba- bility 2π(i) (π < 1/2) the price of giving changes to p1 and that with probability π(i) this change occurs as a result of a change in the match from m0 to m1 =( 1 + m0)(p0/p1) − 1 (with the rebate remaining unchanged at r0), and with probability π(i) the price change occurs as a result of a change in the rebate from r0 to r1 = 1 − (1 − r0)(p1/p0) (with the match remaining unchanged at m0). The probability of both the match and the rebate changing is thus zero. 
+23 
+The optimal donation choices for this speciﬁcation under different processing strate- gies are detailed in the Appendix, which also derives results concerning the relationship between parameter choices and optimal processing choices. These can be best summa- rized and understood by referring to speciﬁc elasticity scenarios. Consider ﬁrst the case where the price elasticity of giving under full attention is −1; then nominal donations will never adjust to changes in the match, and therefore no “mistake” is made by not processing the match. In this case, we would expect the match to never be processed (as it is irrelevant for the determination of the size of the optimal nominal donation), and the rebate to be more likely to be processed by large donors than by small donors as not paying attention to the rebate becomes more costly for larger donations. 
+Suppose that instead the price elasticity of giving under full attention is 0; then nomi- nal donations never need to adjust to changes in the rebate. In this case, we would expect the rebate never to be processed, and the match to be more likely to be processed by large donors than by small donors. For elasticity values between 0 and −1, nominal dona- tions need to adjust downwards for increases in the match and upwards for increases in the rebate, and whether the match or the rebate will be more likely to be processed de- pends upon how close the elasticity is to either extreme. On the other hand, for elasticity values greater than unity in absolute value, the adjustment is upwards for increases in both match and rebate, but the required adjustments in nominal donations for equivalent changes in the match and rebate is greater for the rebate than it is for the match, implying 
+23Our analysis and conclusions readily extend to the case where individuals attach different probabilities to changes in the match and rebate. 
+18 
+
+========20========
+
+2 
+RI.nb 
+p1 = 0.75 
+0.75 
+pi = 0.2 
+0.2 
+phi = 1 
+1 
+Needs@"PlotLegends`"D 
+phi = 1 
+pi = 0.167 
+ContourPlot@8Sign@Max@Grm - 2 k, Grn - k, Gnm - k, GnnD - HGrm - 2 kLD, 
+Sign@Max@Grm - 2 k, Grn - k, Gnm - k, GnnD - HGrn - kLD, 
+Sign@Max@Grm - 2 k, Grn - k, Gnm - k, GnnD - HGnm - kLD<, 8k, 0, 0.08<, 8etaa, 0.01, 5<, PlotPoints Ø 8237, 500<, ContourStyle Ø BlackD 
+1 
+0.167 
+5 
+4 
+B 
+3 
+|η| 
+R 
+N 
+2 
+1 
+0 
+M 
+0.00 
+0.02 
+0.04 ρ = K/φ 
+0.06 
+0.08 
+Figure 2: Predicted processing behaviour by different donor types 
+p0 = 1, p1 = 3/4,π = 1/6 
+that in that case donors should be more likely to process the rebate than the match, and no donors should choose to process the match and not the rebate. 
+As the inattention cost is directly proportional to φ (which is also directly proportional to donation size), an increase in K has the same effect on processing choices as in increase in 1/φ – i.e., given all other parameter values, processing choices depend on the ratio ρ = K/φ. 
+The relationship between parameters and processing choices is detailed more fully in Figure 2, which depict regions in (ρ,η) space that each correspond to a different process- ing behaviour; these were derived from an explicit computation of optimal processing choices for different parameter conﬁgurations, for a given value of π, and for p0 = 1 and p1 = 3/4. For the given values of π, p0, p1, these fully identify processing choices in the constant elasticity case. Figure 2 refers to a scenario with π = 1/6. The region labeled as N represents parameter conﬁgurations for which neither match nor rebate are processed – which occurs for low levels of donations (relative to processing costs) and/or for elasticity values that are close to unity in absolute value. The region labeled as R represents parameter conﬁgurations for which only the rebate is processed – this occurs for comparatively larger donations (relative to processing costs), and for elasticity values that are greater than 1/2 in absolute value. When the elasticity parameter is less than 1/2 
+19 
+
+========21========
+
+in absolute value, then it is possible for only the match to be processed – region M in the ﬁgure. In the region labeled as B, both match and rebate are processed. Finally, when η is close to one in absolute value, variations in η have little effect on processing choices, and speciﬁcally on the choice of whether to process both match and rebate or rebate only (the boundary between regions B and R becomes vertical in the neighbourhood of |η| = 1). 
+4.2 Survey evidence on rational inattention 
+Choices consistent with rational inattention should exhibit the following patterns: 
+(a) The choice to adjust nominal donations following changes in the match or the rebate 
+should be (weakly) positively correlated with the size of nominal donations; 
+(b) If donations are sufﬁciently price-elastic, more individuals will adjust their nomi- 
+nal donations to changes in the rebate than to changes in the match, and individ- 
+uals who are adjusters when the match changes are also adjusters when the rebate 
+changes; 
+(c) Responses are comparatively more consistent (in terms of implied price elasticities) 
+across match and rebate for adjusters than for non-adjusters. 
+(d) If the underlying full-attention price elasticity is close to unity on absolute value, 
+there will be little systematic difference, in terms of implied price elasticity, across 
+individuals who respond to both match and rebate changes and those who respond 
+only to rebate changes; but individuals making larger donations should be signiﬁ- 
+cantly more likely to respond to both. 
+These predicted patterns are in line with our ﬁndings. 
+A large proportion of all donors leave their nominal donations unchanged (Table 1, column 4), which largely accounts for the gap of about one between the implied aggre- gate price elasticities estimated from responses respectively to changes in the match and to changes in the rebate (Table 1, column 3). This is consistent with a large fraction of individuals choosing not to process changes in either match or rebate (types in region N in Figure 2). For individuals who do adjust, the gap between implied price elasticities of responses for match and rebate is considerably narrower than for the sample as a whole. As noted earlier, the estimated match and rebate elasticities for adjusters in set A, for ex- ample, are respectively −2.28 and −1.72; the corresponding ﬁgures for the full sample (Table 1) are −1.42 and −.50. 
+Note that in order to directly relate the previous theoretical predictions to survey re- sponses, we need to think of them as resulting from a scenario where beliefs are stationary, i.e. where both the initial and the new donation arise from processing choices made un- der the same beliefs concerning the likelihood of different realizations of match/rebate combinations. Thus, for example, if we interpret observed responses to a change in the 
+20 
+
+========22========
+
+RI.nb 
+3 
+phi = 1 
+pi = 0.167 
+k = 0.005 
+Plot@80, -HHdfr1 - drr0L ê drr0L ê HHp1 - p0L ê p0L, etaa<, 
+8etaa, 0.5, 1.5<, PlotRange Ø 880.4, 1.5<, 80, 2<<, PlotStyle Ø BlackD 
+1 
+0.167 
+0.005 
+2.0 
+￿￿ ￿ ￿∆d/d￿∆p/p￿ 
+1.5 
+1.0 
+|η| 
+0.5 
+0.00.4 
+0.6 
+0.8 
+|η| 
+1.0 
+1.2 
+1.4 
+Figure 3: Predicted elasticity of observed donations under partial inattention 
+when donors only process changes in the rebate 
+ρ = K/φ = 0.005, π = 1/6 
+rebate as corresponding to the case where individuals only process the rebate, then the predicted change in nominal donations would be from expression (18) in the Appendix – corresponding to an initial situation where no change is observed in either match or re- bate – expression (14) in the Appendix – corresponding to a new situation where a change in the rebate is observed and processed. 
+This implies that, given that under partial attention (to the rebate), an observed rebate level of r0 results in a level of nominal donations that undershoots the corresponding full-attention level, the measured price elasticity of donations derived from observed re- sponses to changes in the rebate must be greater, in absolute value, than the underlying elasticity in preferences. The gap between observed and “true” elasticity under partial inattention is shown in Figure 3, for different values of η. This predicted gap implies that the observed response by individuals who only adjust to changes in the rebate overstates the “true” elasticity, i.e. a measured rebate elasticity well in excess of one in absolute value can be consistent with an underlying “true” elasticity that is much closer to unity in absolute value. This means that our ﬁndings of price elasticities closer to two in ab- solute value for adjusters need not be inconsistent with a scenario where the underlying elasticity is not much larger than one. 
+21 
+
+========23========
+
+Also consistently with our notion of rational inattention, donors making larger do- nations are more likely to adjust (Figure 1).24 25 More individuals respond to changes in the rebate than to changes in the match, and most of those who respond to the match also respond to the rebate (Table 3). These patterns are consistent with a scenario where the “true” elasticity is greater than unity in absolute value for most donors, and where some donors are of types that lie in region R – corresponding to comparatively lower elasticity values – and others are of types lying in region B – corresponding to compar- atively higher elasticity values and thus exhibiting larger responses. These patterns also go against a scenario where the “true” elasticity is close to zero – as the proportion of donors only adjusting to changes in the match and not to changes in the rebate is very small (Table 4). 
+To examine the relationship between donation size and processing responses, we ex- plored the following multinomial logit speciﬁcation: 
+ln(πji/πNi )= γj + λj ln g0i + uji, 
+j ∈{ M,R,B} 
+(10) 
+where πNi refers to the probability of individual i processing neither match nor rebate, πi 
+j, 
+j ∈{ M,R,B} refers to the probability of qualitatively different processing responses – respectively only responding to changes in the match, only responding to changes in the rebate, responding to both changes – and g0i is i’s initial donation. Results are reported in Table 6. Donation size appears to be a signiﬁcant determinant of the choice of processing both match and rebate. In the case of the choice of processing only the rebate, the coef- ﬁcient for donation size is positive but is not statistically signiﬁcant. There are very few instances in the sample where individuals only process the match, and the corresponding coefﬁcients are statistically insigniﬁcant.26 
+24As we do not model the decision to reclaim the rebate, remaining silent as to its reasons, we have included in Figure 1 both reclaimers and non-reclaimers. Nevertheless, a similar pattern emerges if we focus only on reclaimers. 
+25An analogous ﬁnding is reported by Scholnick 
+et al. (2008) with reference to credit card repayments. Note that this interpretation requires that the processing cost must not be perfectly (positively) correlated with the size of the donation. While in our quasi-linear speciﬁcation processing costs, K, are exogenous and speciﬁed independently of φ, one could imagine that they could be endogenously related to donation size in a more general speciﬁcation. Suppose for example that processing only requires time, and that individ- uals have identical preferences but differ with the respect to the market value of their time (i.e. their wage); then, if giving is a normal good, higher-productivity individuals would donate more and would also face higher processing costs – implying that we should expect a strong positive correlation between donation size and processing costs and thus signiﬁcant clustering around speciﬁc processing choices, independently of donation size. Even in such a scenario, however, a positive correlation between donation size and pro- cessing choices could arise if some of the processing costs are not related to time inputs, or if income is not perfectly correlated to the market value of time (e.g. in the case of individuals who are retired). 
+26Focusing on individuals who process at least the rebate, we also ran a multinomial logit regression to look at how the choice between processing only the rebate and processing both match and rebate is related 
+22 
+
+========24========
+
+Conditional probabilities of adjusting 
+Proportion who adjust when the rebate changesConditional probabilities of adjustingTable 3: Conditional probability of adjusting nominal donations Proportion who adjust when the rebate changesProportion who adjust donations when the rebate changes 
+Proportion of adjusters  amongst donorsProportion of adjusters   who…     
+amongst donors 
+               All  
+ who… 
+When rebate  When rebate changes 
+changes 
+When rebate  When rebate increases increases 
+When rebate  When rebate decreases decreases 
+…don’t adjust to the match                    All  
+.154 
+.202 
+.107 
+…adjust to the match…don’t adjust to the match 
+.6.17954 
+.69.2027 
+.6.10577 
+           Reclaimers …adjust to the match 
+.679 
+.697 
+.657 
+…don’t adjust to the match            Reclaimers 
+.201 
+.305 
+.108 
+…adjust to the match…don’t adjust to the match 
+.7.20150 
+..308755 
+.563.108 
+…adjust to the match 
+.750 
+.875 
+.563 
+Conditional probabilities of adjusting 
+PropoConditional probabilities of adjustingrtion who adjust when the match changes 
+PropoTable 4: Conditional probability of adjusting nominal donationsrtion who adjust when the match changes 
+Proportion who adjust donations when the match changes Proportion of adjusters  When match When match When match amongst donorsProportion of adjusters   who… 
+When changesmatch When increasesmatch When decreasesmatch 
+                  All  
+amongst donors  who… changes increases decreases …don’t adjust to the rebate 
+                  All  
+.039 .047 .032 …adjust to the rebate…don’t adjust to the rebate ..033199 ..043077 .3.03241 
+           Reclaimers …adjust to the rebate .319 .307 .341 …don’t adjust to the rebate            Reclaimers .043 .032 .050 …adjust to the rebate…don’t adjust to the rebate .3.04493 .3.03244 .3.05060 …adjust to the rebate .349 .344 .360 
+23 
+3 3 
+
+========25========
+
+Multinomial logit 
+Table 5: Processing behaviour – multinomial logit regression results 
+Dependent variable = ln (odds of response pattern) 
+Treatment sets A and B 
+Baseline: no adjustment 
+   Adjustment 
+      in response to changes in … 
+…match  only 
+…rebate  
+only 
+…both 
+Constant 
+         Coeff icient 
+!4.474 
+!2.954 
+!6.433 
+         S tandard Error 
+(1.173) 
+    (.538) 
+    (.936) 
+ln (initial donation) 
+         Coeff icient 
+         S tandard Error 
+   .101 
+   .123 
+     .541 
+(.197) 
+(.090) 
+    (.133) 
+Number of respondents  = 583 
+5 Summary and conclusion 
+As charitable donations choices are made in terms of expenditure levels rather than quan- tities, comparing the effect of different but equivalent tax incentives for giving can pro- vide further insights on how individuals’ choices take tax attributes into account, and why. 
+In line with earlier experimental evidence, our survey evidence shows that, when faced with changes in tax parameters, donors, in aggregate, adjust their gross donations signiﬁcantly more to a change in the match on nominal donations than they do to a cor- responding change in the tax rebate. 
+These ﬁndings cannot be readily explained by the inclusion in a standard model of rational giving choices of additional effects stemming from donations – such as adminis- trative costs or differential warm-glow effects. Rather, the kind of responses that emerge from our survey are in line with the predictions of a model of rationally inattentive choices. Moreover, in light of those predictions, the patterns and magnitude of observed responses can be viewed as being consistent with earlier aggregate literature estimates of the price elasticity of giving, once we make allowances for heterogeneity across donors 
+to the size of observed responses. According to our theoretical characterization of rational inattention, if the underlying elasticity is not far from unity in absolute value, we should expect processing choices not to vary much in relation to differences in the the relative size of responses (reﬂecting elasticity differences – see Figure 2) but to be very sensitive to differences in donation size. Albeit based on a sample of only 75 observations, regression results (not reported) are consistent with this pattern. 
+244 
+
+========26========
+
+with respect to their individual preference and processing cost characteristics. 
+Whether the observed non-salience of tax instruments is the result of rational inatten- tion has direct implications for policy design. In particular, if non-salience is the result of rational inattention, non-adjustment involves an implicit savings in processing costs, which needs to be accounted for when comparing the welfare implications of salient and non-salient instruments. 
+References 
+Andreoni, J., 1988. “Privately Provided Public Goods in a Large Economy: The Limits of Altru- 
+ism.” Journal of Public Economics 35: 57–73. 
+Andreoni, J., 1990. “Impure Altruism and Donations to Public Goods: A Theory of Warm-Glow 
+Giving.” The Economic Journal, 100: 464–477. 
+Andreoni, J. and A. Payne, 2001. “Do Government Grants to Private Charities Crowd Out Giving 
+or Fundraising?” American Economic Review 93: 792–812. 
+Andreoni, J. 2007. “Charitable Giving,” in the New Palgrave Dictionary of Economics (2nd ed.). Pal- 
+grave Macmillan. 
+Auten, G., H. Sieg, H., and C. Clotfelter. 2002. “Charitable Giving, Income, and Taxes: An Analysis 
+of Panel Data.” American Economic Review 92: 371–382. 
+Bakija, J., and B. Heim. 2008. “How Does Charitable Giving Respond to Incentives and Income? 
+Dynamic Panel Estimates Accounting for Predictable Changes in Taxation.” NBER Working 
+Paper No. W14237. 
+Benabou, R., and J. Tirole. 2006. “Incentives and Pro-Social Behaviour,”´ American Economic Review 
+96: 1652-1678. 
+Brown, J., Hossain, T., and J. Morgan. 2009. “Shrouded Attributes and Information Suppression: 
+Evidence from the Field,” mimeo, Northwestern and earlier version in a 2006 UC Berkeley 
+working paper . 
+Busse, M., J. Silva-Risso and F. Zettelmeyer. 2006. “$1000 Cash Back: The Pass-Through of Auto 
+Manufacturer Promotions,” American Economic Review 96: 1253-1270. 
+Chetty, R., A. Looney and K. Kroft. 2009. “Salience and Taxation: Theory and Evidence,” American 
+Economic Review 99: 1145–1177. 
+Clotfelter, C. 1985. Federal Tax Policy and Charitable Giving, University of Chicago Press: Chicago. Dellavigna, S. 2009 “Psychology and Economics: Evidence from the Field,” Journal of Economic 
+Literature 47: 315–372. 
+Diamond, P., and J. Hausman. 1994. “Contingent Valuation: Is Some Number Better Than No 
+Number?” Journal of Economic Perspectives 8: 45–64. 
+Eckel, C., and P. Grossman. 2003. “Rebate Versus Matching? Does how we Subsidize Charitable 
+Contributions Matter?” Journal of Public Economics 87: 681–701. 
+25 
+
+========27========
+
+Eckel, C., and P. Grossman. 2008. “Subsidizing Charitable Contributions: A Natural Field Ex- 
+periment Comparing Matching and Rebate Subsidies,” Experimental Economics 11: 234–252. Finkelstein, A. 2009. “EZ-Tax: Tax Salience and Tax Rates,” Quarterly Journal of Economics 124: 
+969–1010. 
+Gabaix, X., and D. Laibson. 2006. “Shrouded Attributes, Consumer Myopia, and Information 
+Suppression in Competitive Markets,” Quarterly Journal of Economics 121: 505–540. Harrison, G., and E. Rutsrom. 2006. “Hypothetical Bias Over Uncertain Outcomes,” in List, J. (ed.)˝ 
+Using Experimental Methods in Environmental and Resource Economics, Elgar: Northampton, 
+MA. 
+Hirshleifer, D., S. Lim and S. Teoh. 2006. “Driven to Distraction: Extraneous Events and Underre- 
+action to Earnings News,” MPRA Paper no. 3110, University Library of Munich, Germany, 
+revised 16 April 2007. 
+Huck, S., and I. Rasul. 2009. “Comparing Charitable Fundraising Schemes: Evidence from a Natu- 
+ral Field Experiment.” ELSE Working Papers no. 274. ESRC Centre for Economic Learning 
+and Social Evolution, London, UK. 
+Kahneman, D., and A. Tversky. 1979. “Prospect Theory: An Analysis of Decision Under Risk.” 
+Econometrica 57: 263–291. 
+Karlan, D., and J. List. 2007. “Does Price Matter in Charitable Giving? Evidence from a Large-Scale 
+Natural Field Experiment,” American Economic Review 97: 1774–1793. 
+Knetsch, J. 1989. “The Endowment Effect and Evidence of Nonreversible Indifference Curves,” 
+The American Economic Review 79: 1277–1284. 
+Lipman, B. 1991. “How to Decide how to Decide how to . . . : Modeling Limited Rationality.” 
+Econometrica 59: 1105–1125. 
+Pollet, J. and S. Dellavigna. 2009. “Investor Inattention and Friday Earnings Announcements,” 
+Journal of Finance 64: 709–749. 
+Randolph, W. 1995. “Dynamic Income, Progressive Taxes, and the Timing of Charitable Contribu- 
+tions.” Journal of Political Economy 103: 709–38. 
+Roberts, R. 1987. “Financing Public Goods.” Journal of Political Economy 95: 420–437. 
+Sims, C. 2006.“Rational Inattention: Beyond the Linear-Quadratic Case,” American Economic Review 
+96: 158–163. 
+Scholnick, B., N. Massoud, and A. Saunders. 2008. “The Impact of Wealth on Inattention: Evidence 
+from Credit Card Repayments,” mimeo, University of Alberta. 
+Steinberg, R. 1990. “Taxes and Giving: New Findings,” Voluntas 1: 61–79. 
+Triest, R. 1998. “Econometric Issues in Estimating the Behavioural Response to Taxation: a Non- 
+technical Introduction,” National Tax Journal 51: 761–72. 
+26 
+
+========28========
+
+Appendix Rational inattention in giving 
+Case I – Full attention (σm = 1;σr = 1) Under full attention, the optimal nominal donation in each realization is identiﬁed by (omitting the i identiﬁer) 
+df(m,r)= φpη/(1 + m), (11) 
+where p =( 1 − r)/(1 + m). The payoff in each realization is 
+vf(m,r) ≡ 1 − df(m,r)(1 − r)+ φ−1/η 
+η 
+￿ 
+1 + η 
+df(m,r)(1 + m)￿(1+η)/η, (12) 
+with vf(m1,r0)= vf(m0,r1). The expected payoff under full attention, gross of processing costs, is then 
+Γ(σm = 1,σr = 1)=( 1 −2π)vf(m0,r0)+ 2π vf(m1,r0) ≡ ΥB. (13) 
+Case II – Attention to the rebate only (σm = 0;σr = 1) If the individual chooses to process the rebate but not the match, then donation choices must be separately derived for each of the two possible realizations the rebate, (i) r = r1, and (ii) r = r0 – which are fully observed and processed – on the basis of the expected payoff associated with a given choice under each possible rebate realization. 
+(i) If r1 is observed and processed, then the nominal donation will be the same as that under 
+full attention when the price of giving is p1. This is because, conditional on the change in 
+the rebate having occurred, the match is m0 with probability one27, i.e. 
+dr(r1)= df(m0,r1). (14) 
+In this case, which occurs with probability π, the donor’s payoff will be 
+vr(r1)= vf(m0,r1). (15) 
+(ii) If r0 is observed, then m1 will occur with probability ξ = π/(1 − π)28, and so the ex-ante 
+optimal interior choice of nominal donation is characterized by the ﬁrst-order condition 
+φ−1/ηd1/η￿ξ(1 + m1)(1+η)/η +( 1 − ξ)(1 + m0)(1+η)/η￿ = 1 − r0. (16) 
+Substituting m1 =( 1 + m0)(p0/p1) −1 into the above, we can rewrite expression (16) as 
+￿ ￿ 
+φ−1/ηd1/η(1 + m0)(1+η)/η 1 − ξ + ξ(p0/p1)(1+η)/η = 1 − r0. (17) 
+27The probability of 
+m0 occurring conditional on the realization r1 is Pr{m0|r1} = Pr{m0 ∩r1}/ Pr{r1} = (1− π)/(1 − π)= 1. 
+28Pr{m1|r0} 
+= Pr{m1 ∩ r0}/ Pr{r0} = π/(1 − π). 
+27 
+
+========29========
+
+Solving for d then yields 
+η 
+dr(r0)= φ 
+(p0) 
+￿ 
+1 
+￿η 
+1 + m0 1 − ξ + ξ(p1/p0)−(1+η)/η 
+. (18) 
+Note that for η = −1 this coincides with the choice under full attention to the match, i.e., dr(r0)= df(r0,m0)= df(r0,m1), and so no “mistake” is made by not processing the match. This choice results in an expected payoff of 
+vr(r0) ≡ 1 − dr(r0)(1 − r0)+ 
+￿ ￿ 
+φ−1/η 
+η 
+1 + η 
+dr(r0)(1+η)/η(1 + m0)(1+η)/η 1 − ξ + ξ(p0/p1)(1+η)/η , (19) which occurs with probability 1 − π. 
+Combining the results obtained under (i) and (ii) above, the overall level of expected utility under full attention to the rebate only, gross of processing costs, is 
+Γ(σm = 0,σr = 1)= πvr(r1)+( 1 − π)vr(r0) ≡ ΥR. (20) 
+Case III – Attention to the match only (σm = 1;σr = 0) If the individual chooses to process the match but not the rebate, then donation choices must be separately derived for each of the two possible realizations of the match, (i) m = m1, and (ii) m = m0 – which are fully observed and processed – on the basis of the expected payoff associated with a given choice under each possible match realization. 
+(i) The result is the same as that in Case II(i) above. That is, if m1 is observed and processed 
+then the nominal donation will be the same as that under full attention when the price of 
+giving is p1. This is because, conditional on the change in the match having occurred, the 
+rebate is r0 with probability one29, i.e. 
+dm(m1)= df(m1,r0)= df(m0,r1). (21) 
+In this case, which occurs with probability π, the donor’s payoff will be 
+vm(m1)= vf(m0,r1). (22) 
+(ii) If m0 is observed, then r1 will occur with probability ξ = π/(1 − π)30, and so the ex-ante 
+optimal interior choice of nominal donation is characterized by the ﬁrst-order condition 
+φ−1/ηd1/η(1 + m0)(1+η)/η = ξ(1 − r1)+( 1 − ξ)(1 − r0). (23) 
+29Pr{r0|m1} 
+= Pr{r0 ∩ m1}/ Pr{m1} =( 1 − π)/(1 − π)= 1. 30Pr{r1|m0} 
+= Pr{r1 ∩ m0}/ Pr{m0} = π/(1 − π). 
+28 
+
+========30========
+
+Substituting r1 = 1 − (1 − r0)(p1/p0) into the above and solving for the ex-ante optimal choice of nominal donation, dm(m0), yields 
+η 
+dm(m0)= φ 
+(p0) 
+￿ 
+1 + m 
+1 − ξ + ξ(p1/p0)￿η. (24)0 
+Note that with η = 0 this coincides with the choice under full attention to the rebate, i.e., dm(m0)= df(r0,m0)= df(r1,m0), and so no “mistake” is made by not processing the rebate. This choice results in an expected payoff 
+vm(m0) ≡ 1 − dm(m0)(1 − r 
+￿ 
+0) 
+1 − ξ + ξ(p1/p0)￿ 
++φ−1/η 
+η 
++ η 
+dm(m0)(1+η)/η1 (1+ m0)(1+η)/η. (25) 
+Combining the results obtained under (i) and (ii) above, the overall level of expected utility under full attention to the match only, gross of processing costs, is 
+Γ(σm = 1,σr = 0)= πvm(m1)+( 1 − π)vm(m0) ≡ ΥM. (26) 
+Case IV – No attention (σm = 0;σr = 0) Proceeding as for the other cases, if the individual for- goes to process both the match and the rebate, then her ex-ante optimal interior choice of nominal donation is characterized by the ﬁrst order condition 
+φ−1/ηd1/η￿π(1 + m1)(1+η)/η +( 1 − π)(1 + m 
+￿ 
+0)(1+η)/η 
+= π(1 − r1)+( 1 − π)(1 − r0). (27) 
+Substituting r1 = 1 − (1 − r0)(p1/p0) and m1 =( 1 + m0)(p0/p1) − 1 into the above and solving for the ex-ante optimal choice of nominal donation, dn, yields 
+￿ ￿η 
+(p0) 
+η 
+dn = φ 
+1 − π + π(p1/p0) 
+1 + m0 1 − π + π(p1/p0)−(1+η)/η 
+. (28) 
+This choice results in an expected payoff, gross of processing cost, equal to 
+vn ≡ 1 − dn(1 − r0)￿1 − π + π(p1/p0)￿ 
++φ−1/η 
+η 
+￿ 
+￿ ￿ 
+1 + η 
+dn(1+m0)￿(1+η)/η 1 − π + π(p0/p1)(1+η)/η = Γ(σm = 0,σr = 0) ≡ ΥN. (29) 
+29 
+
+========31========
+
+Processing choices 
+Consider next a distribution of processing cost types, K, having support K =[ K,K]; a distribution of φ types, having support P =[ φ,φ]; and a distribution of elasticity types, η, having support N = [η,η]; and assume that individual characteristics K(i), φ(i), η(i), are independently distributed across individuals. 
+Focus ﬁrst on the choice between processing neither match nor rebate and processing the match. The cost type K˜N,M(φ,η) ∈K , for given levels η and φ, who will be indifferent between processing neither match nor rebate and processing the match will be identiﬁed by the condition ΥN = ΥM − K˜N,M, which can be rewritten as 
+K˜N,M = ΥM − ΥN. (30) 
+As the difference ΥM − ΥN is linear in φ, the difference between the left- and right-hand sides of (30) is linearly homogenous in (K,φ), which means that (30) can only uniquely identify a value ρ˜N,M corresponding to all of those combinations (K,φ) for which K/φ = ρ˜N,M. Thus, dividing both sides of (30) by φ, and letting Ψj = Υj/φ, j ∈{ N, M,R,B}, we can rewrite (30) as 
+ρ˜N,M = ΨM − ΨN. (31) 
+Then, an individual of cost type K(i) and valuation type φ(i) will choose to process the match if K(i)/φ(i) ≤ ρ˜M, and will choose not to process the match otherwise. As φ is directly related to the size of the donation, this implies that, for a given level of attention cost, the proportion of individuals choosing to process the match will be comparatively greater for donor types that make comparatively larger donations. Proceeding in the same way, we can derive values 
+ρ˜N,R = ΨR − ΨN, (32) 
+and 
+ρ˜N,B = 
+1 
+￿ 
+2 
+ΨB − ΨN￿, (33) that respectively identify individual types that are indifferent between processing neither match nor rebate and processing the rebate, and individual types that are indifferent between processing neither match nor rebate and processing both. And as for the match, we can conclude that, for a given level of attention cost, the proportion of individuals choosing to process the rebate or both match and rebate will be comparatively greater for donor types making larger donations. 
+Let us next focus on the choice between processing only the match and processing both match and rebate. The corresponding critical ratio ρ = K/φ for indifference between the two is 
+ρ˜M,B = ΨB − ΨM. (34) 
+For η = 0, we have ΨB = ΨM (as no mistake is made by not processing the rebate), and therefore ρ˜M,B = 0; for η < 0, not processing the rebate involves a mistake, and so ρ˜M,B > 0. With respect to the choice between processing only the rebate and processing both match and rebate, we have 
+ρ˜R,B = ΨB − ΨR. (35) 
+30 
+
+========32========
+
+For η = −1, we have ΨB = ΨR (as no mistake is made by not processing the match), and therefore ρ˜R,B = 0. Then, for η = −1 (and in a neighbourhood of −1), 
+ρ˜R,B < ρ˜M,B, 
+(36) 
+and 
+ΨR > ΨM; 
+(37) 
+i.e. there will exist individual types for which ρ˜R,B < K/φ and for which processing only the rebate will be preferable to processing both match and rebate as well as to processing only the match. Noting that ρ˜N,R = ΨR − ΨN = ΨB − ΨN − ρ˜R,B, and since ρ˜R,B = 0 for η = −1, we can also conclude that, for η = −1 (and in a neighbourhood of −1), 
+ρ˜R,B < ρ˜N,R, 
+(38) 
+and so 
+ΨR > ΨN; 
+(39) 
+i.e. there will exist individual types for which ρ˜R,B < K/φ < ρ˜N,R and for which processing only the rebate will be preferable to processing both match and rebate as well as to processing neither. 
+Together, (36)-(39) imply that, for |η| close to unity, there will be individual types for which K/φ < ρ˜R,B and for which it will be optimal to process both match and rebate; individual types for which K/φ > ρ˜R,B and for which it will be optimal to process only the rebate; and there will be no individual types for which it will be optimal to process only the match. 
+31 
+
+========33========
+

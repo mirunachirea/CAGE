@@ -1,0 +1,1058 @@
+July 2011 
+No.45  
+Scale Economies in Nonprofit Provision, 
+Technology Adoption and Entry 
+Kimberley Scharf University of Warwick and CEPR 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Scale Economies in Nonproﬁt Provision, 
+Technology Adoption and Entry 
+Kimberley Scharf§ University of Warwick and CEPR 
+June 2011 
+ABSTRACT 
+We study competition between nonproﬁt providers that supply a col- lective service through increasing-returns-to-scale technologies under con- ditions of free entry. When providers adopt a not-for-proﬁt mission, the absence of a residual claimant can impede entry, protecting the position of an inefﬁcient incumbent. Moreover, when providers supply goods that are at least partly public in nature, they may be unable to sustain the adoption of more efﬁcient technologies that feature ﬁxed costs, because buyers (private donors) face individual incentives to divert donations to- wards charities that adopt inferior, lower-ﬁxed-cost technologies. These incentives may give rise to a technological race to the bottom, where non- proﬁt providers forgo opportunities to exploit scale economies. In these situations, government grants in support of core costs can have a non- neutral effect on entry, technology adoption, and industry performance. 
+KEY WORDS: Not-for-proﬁt Organizations, Entry, Core Funding 
+JEL CLASSIFICATION: L1, L3 
+ 
+I am grateful to Abigail Payne and Sarah Smith for comments and suggestions, and to PEDAL at McMaster University for access to data and facilities. Any errors are mine. 
+§ 
+Correspondence to Kimberley Scharf, Department of Economics, University of Warwick, Coven- try CV4 7AL, UK, k.scharf@warwick.ac.uk 
+
+========2========
+
+1 Introduction 
+We observe considerable variation in the composition of the funding sources of dif- 
+ferent charities: for some, the bulk of funding is represented by government grants, 
+whereas for others, government grants are a relatively minor component of funding; 
+and there is considerable variation in cost structures across charities and charitable 
+sectors, which is likely to reﬂect variation in technologies. There also appears to 
+be some correlation between funding and cost structures: focusing on Canadian 
+charities’ revenues and costs across different sectors of activities, we ﬁnd evidence 
+(presented in Section 5) of a positive correlation between ﬁxed costs and the level of 
+government funding received by charities relative to the total funding received. 
+It is plausible that large ﬁxed costs would make charities vulnerable to ﬂuctua- 
+tions in the level of private funding, which might in turn induce them to actively 
+seek government funding; but this does not imply that government should oblige. 
+For-proﬁt ﬁrms also face ﬁxed costs and uncertain cash ﬂows, just as nonproﬁt ﬁrms 
+do, but this does not justify public support even when there is a public interest in 
+promoting competition and entry of the most efﬁcient ﬁrms; indeed, as ﬁrst pointed 
+out by Baumol and Willig (1981), ﬁxed, non-sunk costs need not impede entry and 
+efﬁcient selection of producers. The same principle could apply to nonproﬁt ﬁrms: 
+provided that donors are fully informed about charities’ performance, unfettered 
+competition between charities will allow those charities that deliver the highest 
+value for donors to attract the most funding and to be best positioned to meet their 
+ﬁxed costs and deal with a ﬂuctuating cash ﬂow; those charities that cannot handle 
+their ﬁxed costs will then be (efﬁciently) selected out. Thus, although government 
+support of charities may be warranted on the grounds that charities provide collec- 
+tive goods and services, it is not obvious that it should be warranted speciﬁcally on 
+the basis of core funding needs. 
+In this paper we set out a pro-competitive based rationale for why government 
+1 
+
+========3========
+
+funding of ﬁxed costs may be called for in the case of non-commercial, nonproﬁt 
+providers, and conjecture that the observed positive correlation between govern- 
+ment funding and charities’ ﬁxed costs may relate to the way that scale economies 
+in provision affect entry and technology adoption incentives in the nonproﬁt sec- 
+tor. We show that, unlike in the case of for-proﬁt ﬁrms, the presence of ﬁxed costs 
+might impede competition between nonproﬁt providers and give rise to inefﬁcient 
+selection. 
+The combination of ﬁxed costs with a non-distribution constraint gives rise to 
+two different types of competition failure. 
+The ﬁrst relates to entry by new providers. In the presence of a non-distribution 
+constraint, any surplus or shortfall experienced by a nonproﬁt provider is reﬂected 
+in the level of its provision rather than in its residual proﬁt claims. This makes 
+a switch by an individual donor towards a start-up charity unattractive even if 
+this start-up is potentially more efﬁcient, because such a switch would result in 
+lower rather than higher provision unless the switch is coordinated across donors. 
+As a result, when private contributions are directed towards nonproﬁt providers 
+that face ﬁxed costs, non-cooperative contributions equilibria – as characterized by 
+Bergstrom, Blume and Varian (1986) – can support an inefﬁcient status quo. Thus, 
+in the absence of a residual claimant, ﬁxed costs can translate into entry barriers. 
+This contrasts with the case of for-proﬁt ﬁrms, where price competition in the pres- 
+ence of a residual claimant makes uncoordinated deviations to lower cost providers 
+worthwhile for individual consumers even if there are ﬁxed, non-sunk costs. 
+The second source of failure relates to technology adoption by incumbents. When 
+the services provided include a collective consumption component, individuals are 
+able to beneﬁt from the provision of varieties they do not directly contribute to. This 
+means that the link between the payments individuals make towards ﬁxed costs 
+and the inframarginal gain they experience from being able to access the service 
+provided is broken. As a result, individuals will face incentives to abandon those 
+2 
+
+========4========
+
+charities that adopt technologies with ﬁxed costs in favour of other charities that 
+adopt inferior, variable-cost-only technologies; this will in turn induce charities to 
+forgo opportunities to exploit scale economies and adopt inferior technologies. 
+Although these results follow quite naturally from the structure of the interaction 
+between donors who face competing charities, to the best of our knowledge, they 
+have not been identiﬁed before in the literature. 
+Our analysis and conclusions are consistent with the prominence given by char- 
+ities to core funding “strategies”. Charities often lament that donors are typically 
+unwilling to fund core costs – making it difﬁcult for start-up charities to get off the 
+ground and for more established charities to cover management and general admin- 
+istration costs – and consistently lobby government to step in with grants to cover their ﬁxed operating costs.1 Government funding choices do appear to be sensitive 
+to charities’ core funding needs, but what is not clear is whether this is motivated by 
+the need to promote entry by new charities – overcoming the implicit entry barriers 
+that ﬁxed costs induce in the presence of a non-distribution constraint – or by the 
+need to support efﬁcient technology adoption by incumbents. Focusing on infor- 
+mation from a comprehensive panel of Canadian charities to look at this question, 
+we ﬁnd no evidence of more core government funding being directed to support 
+the start-up costs of new entrants. On the contrary, it is the older, more established, 
+charities that receive comparatively larger grants (relative to their size). 
+Our paper contributes to the debate on conduct and performance in the nonproﬁt 
+sector vis-a-vis the for-proﬁt sector. This has focused mainly on the implications of` 
+organizational form for internal performance along various dimensions – informa- 
+tion and agency costs (Alchian and Demsetz, 1972; Hansmann, 1980; Easley and 
+1 
+The difﬁculties that charities face in persuading donors (especially small ones) to make dona- tions that are not earmarked towards project costs and can be used to fund core costs leads charities to formulate speciﬁc core funding strategies. See, for example, Scott (2003) and Institute for Philan- thropy (2009). 
+3 
+
+========5========
+
+O’Hara, 1983; Glaeser and Schleifer, 2001), differential regulatory and tax regimes 
+(Lakdawalla and Philipson, 2006), access to pro-socially motivated workforce (Gha- 
+tak and Mueller, 2009). The implications of organizational form for inter-charity 
+competition and industry structure have received less attention. A recent exception 
+is Philipson and Posner (2009), who study – as we do here – competition between 
+providers that pursue nonproﬁt objectives. Their focus, however, is different from 
+ours, as they consider markets that are not contestable, i.e. where there are barriers 
+to entry, concluding that, as in the case of for-proﬁt ﬁrms, antitrust regulation may 
+be called for. Their arguments hinge on the incentives that nonproﬁt ﬁrms have to 
+defend their incumbency position even when it is not socially efﬁcient to do so. The 
+sources of inefﬁciency we identify here stems instead from the relationship between 
+private donors’ decisions on the one hand and entry and technology adoption de- 
+cisions on the other in the presence of ﬁxed costs. While antitrust measures are not 
+well suited to tackle the kinds of failure we identify here, public support of core 
+funding needs may be able to alleviate it. 
+Two other recent studies that are related to ours are Pestieau and Sato (2006) and 
+Ghatak and Mueller (2009). The former points out that scale economies (or equiv- 
+alently ﬁxed costs) in provision must be posited in order to rationalize the exis- 
+tence of charities that channel contributions from multiple donors having heteroge- 
+neous preferences for alternative varieties of collective goods. Our characterization 
+of the relationship between ﬁxed costs and industry structure is quite different from theirs, but can be viewed as complementary to it.2 Ghatak and Mueller (2009) show 
+2 
+Our conclusions would carry over to a scenario where there are ﬁxed costs and where the ser- vices provided by different charities are viewed by donors as being different goods. An equilibrium outcome would then feature multiple charities; but, as in the homogeneous good case – and unlike in an analogous scenario with heterogeneous goods and for-proﬁt ﬁrms – the presence of ﬁxed costs would imply that the resulting selection of charities would not necessarily correspond to a socially efﬁcient selection. 
+4 
+
+========6========
+
+how a for-proﬁt manager, acting as residual claimant, may be comparatively better 
+positioned to engage pro-socially motivated workers in incentive contracts. This 
+somewhat parallels our conclusion that, in the presence of ﬁxed costs, the residual- 
+claimant position of for-proﬁt start-ups can make it comparatively easier for them 
+to divert contributions away from incumbents. 
+The rest of the paper is structured as follows. Section 2 describes our basic mod- 
+elling setup. Section 3 looks at provision outcomes under monopoly. Section 4 fo- 
+cuses on entry. Section 5 discusses some evidence on the relationship between ﬁxed 
+costs and government funding for the Canadian case. Section 6 concludes. 
+2 Setup 
+2.1 Preferences and technologies 
+There are h identical individuals, denoted by i 2 H  f 1, . . . ,hg each endowed with 
+some exogenous income y – which, without loss of generality we shall be assume 
+to be equal to unity – and consuming a service provided by nonproﬁt suppliers – 
+a service that can be private and/or collective in nature – as well as purely private 
+consumption. Assume Cobb-Douglas preferences of the form 
+U(gi,zi) = q ln gi + (1 
+ q)lnzi, 0  q  1, (1) 
+where gi and zi are respectively individual i’s effective consumption of the service 
+in question and other private consumption. In turn, effective consumption of the service, gi, may result from a combination of private and collective consumption beneﬁts. Speciﬁcally, if xi is the amount of the service “purchased” by i, and x 
+ i 
+is 
+the amount purchased by others, consumption beneﬁts for i are 
+gi = j(xi + gx 
+ i), 
+g 2 [0, 1]. (2) 
+5 
+
+========7========
+
+ 
+6 
+ 1)g), and 
+where x 
+i 
+ j=i xj and g > 0 measures the extent to which the service is collective in nature,3 and f is a scale parameter. If we impose j = 1/(1 + (h 
+, we have 
+deﬁne s  (h 
+ 1)g/ 
+ 
+1 + (h 
+ 1)g 
+ 
+gi = (1 
+ s)xi + sx¯ 
+i, (3) 
+where 
+ 
+ 
+i 
+x¯ 
+i 
+= 
+x 
+h 1 
+= 
+j=i xj 
+h 1 
+, (4) 
+ 
+6  
+is the average purchase by all individuals other than i. This speciﬁcation inten- 
+tionally abstracts from scale economies in provision arising from group size – for xi = x,i 2 H, changes in g have no effect on gi – with the parameter s combin- 
+ing the extent of individual spillovers with group size to determine the degree of 
+“publicness” of provision. 
+Provision of the service by some provider j can take place through a technology 
+that features a ﬁxed cost, Fj, and a constant marginal cost, cj. 
+Further, we shall assume that, absent a proﬁt objective, providers aim at maxi- 
+mizing their own output.4 
+Assuming provision is carried out by provider j, in a symmetric outcome where xi = x for all consumers and where the ﬁxed costs of provision are allocated equally across individuals, we have g = x and zi = 1 
+ Fj/h 
+ cjg. The socially efﬁcient 
+level of provision is then identiﬁed by the condition 
+Ug 
+ 
+g, 1 Uz 
+ 
+g, 1 
+ Fj/h  Fj/h 
+ cjg 
+ cjg 
+ MRS 
+ 
+g, 1 
+ Fj/h 
+ cjg = cj, (5) 
+3 
+A fully equivalent interpretation of this mixed private/public beneﬁt formulation is that the pri- vate component reﬂects an individual’s “warm glow” from contributing to collective consumption. 
+4 
+This can be rationalized by simply assuming that providers value provision of the service more than consumers and are biased towards own provision, i.e. they value their own provision more than they value provision by other suppliers. For a general discussion of nonproﬁts’ objectives and 
+conduct, see Brown and Slivinski (2006). 
+6 
+
+========8========
+
+(with subscripts denoting partial derivatives), which is independent of s. 
+2.2 Information and the not-for-proﬁt constraint 
+Service providers are nonproﬁt entities that face a non-distribution constraint, i.e. their proﬁts must be zero.5 This constraint can be viewed as an endogenous re- 
+sponse to the presence of output veriﬁcation constraints – an idea that has been 
+discussed extensively in the literature going back to Hansmann (1980). That is, if 
+service delivery is not veriﬁable in contractual arrangements, providers facing a 
+zero proﬁt constraint would outperform for proﬁt providers, and consequently the 
+nonproﬁt organizational form would be selected.6 
+Individuals can fully observe providers’ technologies. Providers have full infor- 
+mation about individuals’ preferences as well as other providers’ technologies. 
+3 Monopoly provider 
+We ﬁrst focus on the case where the service is provided by a single supplier enjoying 
+a monopoly position (i.e. not facing any potential challenger) producing the service through a technology with a cost structure (c,F). The question of how ﬁxed costs 
+5 
+In a dynamic framework, short-run proﬁts can be positive or negative even when a non- distribution constraint is present, but proﬁts must be zero in the long run. However, in this static, a-temporal framework, a non-distribution constraint translates directly into a zero-proﬁt constraint. 
+6 
+With collective consumption, overall output may be difﬁcult to verify even when deliveries to individual purchasers are fully veriﬁable, which makes veriﬁcation problem comparatively more likely to occur in the case of collective goods, as the following example illustrates. Suppose that two individuals each contribute an overall amount v towards provision of a purely collective service with marginal cost c = 1; even if each contributor is able to verify that an amount v is provided as a direct consequence of her own individual contribution, she may be unable to verify that an additional amount v is also provided as a result of the other individual’s contribution. In this case, the provider may be able to supply a total amount v (rather than an amount 2v) and still satisfy its contractual obligations with each of the two contributors. 
+7 
+
+========9========
+
+relate to entry by potential challengers is examined in the next section. 
+Given that what is provided is a service rather than a good, there are no re-sale 
+opportunities that could limit the use of two-part pricing. The provider can thus 
+charge a two-part tariff – a combination of an access fee, t, and a price, p, per unit provided.7 Buyers will then choose whether or not to access the service on offer, 
+incurring an access fee of t, and how much of the service to purchase if they do. 
+The non-distribution constraint for the provider is ht + pX 
+ F 
+ X = 0, where 
+X is the total amount provided. If p is to be taken by customers as a marginal price 
+– on the basis of which they formulate their demand choices – the above constraint must be satisﬁed for any possible value of X, not just in equilibrium.8 This means that, if n individuals choose to access the service, then (t = F/n, p = c) is the only 
+feasible pricing choice for a supplier. So, for an individual who chooses to access the 
+service, the amount payable towards coverage of ﬁxed costs depends on the number 
+of individuals accessing the service. 
+An individual’s access decision will involve weighing the access fee t against the 
+total surplus received at the marginal price p = c. 
+For the assumed speciﬁcation of preferences, the individually optimal level of 
+service purchase for an individual facing price c, if she chooses to pay t to directly 
+access the service, is the level for which 
+(1  s)MRS(gi, 1  t  cxi) = 
+q 1  t  cxi 
+1  q gi 
+= c. (6) 
+With s = 0 – the private good case – we have gi = xi. Given the assumed pref- erences, gi is an essential good, i.e. limgi!0 U(gi,z0) < U(g00,z00) for any possible 
+7 
+We focus on anonymous (nondiscriminatory) pricing schemes that offer identical terms to all individuals (who are identical). 
+8 
+Suppose that the constraint were to hold only in equilibrium, i.e. that it would be violated if the customers were to demand one more unit of output above the equilibrium level. Since the supplier is bound by a zero-proﬁt constraint, it would not be able to supply the extra unit at the stated conditions, implying that p could not be taken as a marginal price by customers. 
+8 
+
+========10========
+
+combination of values z0 > 0, g00 > 0,z00 > 0. This implies that the individual will 
+always choose to access the service for any level of t. In the private good case, the 
+level of service provided to others has no effect on the access decision by an indi- 
+vidual. On the other hand, because of the non-distribution constraint the provider 
+faces, the proportion of other individuals accessing the service will affect the access fee, t = F/n; but since all individuals will always choose to access the service, n 
+always equals h, and thus t equals F/h. 
+If s > 0, i.e. the service is not purely private in nature, individual access deci- 
+sions, as well as the quantity of the service purchased after gaining direct access to provision, depend on the level of service provision to others. If n  h individuals purchase the service, the pricing scheme is (t = F/n, p = c). If n individuals access 
+the service, all n participating individuals will purchase the same amount xi = x.9 
+Thus, we will have x¯ 
+ i 
+= (n Let q(s,n) = 
+ 
+n  1 + (1  s)(h 
+ 1)x/(h  1), and g = (1 
+/(h 
+ n) 
+ s)x + s(n 
+ 1)x/(h 
+ 1). 
+ 1) (note that q(s,n) is increasing in 
+n and equal to unity for h = n); then we can write g = q(s,n)x, implying x = 
+g/q(s,n). Condition (6) then becomes 
+g/q(s,n) and x¯ 
+ i 
+= 
+ 
+(n 
+ 1)/(h 
+ 1) 
+(1 
+ s)MRS 
+ 
+g, 1 
+ F/n 
+ cg/q(s,n) = (1 
+ s) 
+1 
+q  q 
+1 
+ t 
+ cg/q(s,n) 
+g 
+= c; (7) 
+which gives a level of collective consumption equal to 
+gˆ(s,n) = (1 
+ s)qc  
+1 
+1  F/n  q + q(1 
+ s)/q(s,n). (8) 
+This is decreasing in s (reﬂecting progressively increasing free riding in individual 
+purchasing choices).10 
+Starting from a situation where n individuals participate in provision and where 
+provision is gˆ(s,n), if one one of these n individuals, say individual i, stops partic- 
+9 
+Strict quasiconcavity of U implies that (6) can only be satisﬁed for all participating individuals 
+if xi = x for all n. 
+10 
+¶gˆ/¶s = 
+ (1/c)q(1 
+  q) 1 
+ 
+ 
+  F/n 1 
+ q + (1 
+  
+2 
+s)q/q(s,n) < 0. 
+9 
+
+========11========
+
+ipating, while all other individuals keep their purchases at x = gˆ(s,n)/q(s,n), i’s level of gi will equal s 
+ 
+(n  1)/(h  1) 
+gˆ(s,n)/q(s,n).11 
+Choosing to continue to 
+participate in provision will then be weakly preferable for i if 
+ 
+ 
+ 
+U s (n  1)/(h  1)gˆ(s,n)/q(s,n), 1 
+ U 
+ 
+gˆ(s,n), 1 
+ F/n 
+ cgˆ(s,n)/q(s,n)  Wˆ (s,n)  0. (9) 
+On the other hand, starting from the same situation, if one of the h 
+ n individ- 
+uals not participating in provision, say individual i, chooses to participate, while 
+all other n individuals that are already participating keep their purchases at x = gˆ(s,n)/q(s,n), she will experience a payoff equal to maxxi U (1  s)x 
+i 
++s 
+ 
+n/(h  1) 
+gˆ(s,n)/q(s,n), 1 
+ F/(n + 1)  cxi . Choosing to continue not to participate in 
+provision will then be preferable for i if 
+ 
+ 
+ 
+maxU (1i  s)xi + s n/(h  1)gˆ(s,n)/q(s,n), 1  F/(n +1)  cxi 
+x 
+  
+ U s 
+ 
+(n  1)/(h  1)gˆ(s,n)/q(s,n), 1  Yˆ (s,n)  0. (10) 
+It can be shown that if there exists an equilibrium where n individuals always 
+choose to participate, it will feature h = n. 
+Result 1 If there exists a pure-strategy equilibrium where some individuals always partici- 
+pate in provision, it will involve all individuals participating. 
+PROOF: For a pure strategy equilibrium with n < h participating individuals to exist, we must have Wˆ (s,n)  0 and Yˆ (s,n)  0, which in turn requires U 
+ 
+gˆ(s,n), 1  F/n  
+11 
+As already discussed, this means that the total ﬁxed costs, F, will now be shared amongst the remaining n  1 individuals. An alternative assumption that could be made regarding out-of- equilibrium conjectures is that the total payment (including the access fee) remains constant for non- deviators and provision falls in order to offset the loss in total access fees. This would imply that the spillover experienced by a deviator would be reduced by a further amount F/(h(h  1)). This expression is decreasing inversely with the square of h, making the difference negligible for h large. 
+10 
+
+========12========
+
+ s)xi +s n/(h 
+ 
+ 
+  1)gˆ(s,n)/q(s,n), 1  F/(n+1)  cxi . 
+ 1)gˆ(s,n)/q(s,n), 1  F/(n + 1)  
+ F/n  cxi = U 
+ 
+gˆ(s,n), 
+ 
+cgˆ(s,n)/q(s,n) > maxxi U (1 This cannot be, since maxxi U (1 
+ 
+cxi > maxxi U (1  s)xi +s 
+ 
+(n  1)/(h 1  F/n 
+ s)xi + s n/(h 
+ 1)gˆ(s,n)/q(s,n), 1 
+ cgˆ(s,n)/q(s,n). No such contradiction exists for n = h, since in this case the 
+condition Yˆ (s,n)  0 becomes irrelevant. 
+ 
+For such an equilibrium to exist, we must have W(s)  Wˆ (s,h)  0. Next, we 
+establish that, for small enough spillovers, this will be the case. 
+Result 2 A pure-strategy, symmetric equilibrium where all individuals choose to pay the 
+access fee to access provision will exist for s lying within an interval [0,s˜]. 
+PROOF: In order to derive the relevant conditions for W(s)  Wˆ (s,h)  0 to be satisﬁed, 
+ ¥ and lims!1 W(s) = 
+ (1 
+ 
+we can reason as follows. We note ﬁrst that lims!0 W(s) = 
+ F/n) > 0; and so, by continuity, there must be at least one value s˜ for which 
+q)ln(1 
+W(s) = 0. We can also note that the second term of W(s,h), as deﬁned in (9), is increasing in 
+s (decreasing in absolute value). The ﬁrst term is increasing in sg(s), where g(s)  gˆ(s,h). 
+In turn the expression sg(s) can be increasing or decreasing in s, but its ﬁrst derivative with 
+respect to s is monotonically decreasing – the second derivative of sg(s) with respect to s 
+is 
+ 
+2(1  q)q (1 
+c(1  qs)3 
+ F/h) 
+< 0. (11) 
+We can then conclude that there there will exist a single s˜ such that W(s˜) = 0, and such that 
+W(s) < 0 for s < s˜ and W(s) > 0 for s > s˜. An equilibrium with access by all individuals 
+will then exist for s 2 [0,s˜]. 
+ 
+For s > s˜, the only symmetric equilibrium will be in mixed strategies, and will 
+be identiﬁed by a condition stating that the expected payoff from choosing direct ac- 
+11 
+
+========13========
+
+cess equals the expected payoff from not doing so.12 For the purpose of our analysis, 
+we will restrict our attention to the case where an equilibrium in pure strategies ex- 
+ists – although our arguments could be readily extended to the mixed-strategy case. 
+Spillovers in provision imply that provision choices will be suboptimal. In the 
+presence of ﬁxed costs and entry fees, there are two separate margins of choice to 
+consider, the extensive margin (whether or not to pay the access fee to gain direct 
+access to service provision) and the intensive margin (how much of the service to 
+purchase at marginal cost). With respect to the latter, inspecting expression (7), one can verify that a Pigouvian correction – a subsidy on price at a rate s = s/(1  s) that reduces the price faced by individuals to c/(1 + s) = (1  s)c – can internalize 
+externalities in marginal provision choices (choices on the intensive margin): if in- dividuals face a subsidized price p0 = p/(1 + s) = (1  s)p, the level of provision coincides with the private provision level as identiﬁed by (6) with s = 0. However, 
+such a subsidy cannot correct for the effect of the externality on choices made on the 
+extensive margin. This is because free riding incentives with respect to access fees 
+relate to a discrete decision rather than a marginal choice. What this implies is that 
+subsidization of entry fees (or, equivalently, ﬁxed costs) at the standard Pigouvian rate of s/(1  s) is unable to force full internalization. 
+Result 3 Under monopoly provision, and in the presence of ﬁxed costs, public subsidization 
+12 
+Letting p denote the probability with which each individuals chooses to access the service di- rectly, a mixed strategy equilibrium will then satisfy the indifference condition 
+EU(gi, 1)  EU((1  s)xi + sx¯ 
+ i, 1 
+ F/h  cxi) = 0, (12) where E is the expectation operator, xi maximizes EU((1  s)xi + sx¯ 
+ i, 1 
+ F/h  cxi), and x¯ 
+ i 
+= (h0  1)/(h  1)xi, with h0 2 (0, . . . ,h) denoting a particular realization of mixed strategies where h0 individuals access the service. As h approaches inﬁnity, with probability approaching one the number of individuals accessing the service will be h0 = ph, provision will be gˆ(s,ph), and the indifference condition will approach the condition Wˆ (s,ph) = 0. Note that since the service is an essential good in individuals’ preferences, an equilibrium with p = 0 can never exist. 
+12 
+
+========14========
+
+of all price components at a rate that reﬂects the marginal spillover from private provision 
+cannot generally ensure a ﬁrst-best outcome. 
+PROOF: Suppose that all purchases are subsidized at rate s, with the revenue requirement 
+covered by a uniform lump-sum tax. Those making purchases then face a marginal price 
+equal to (1 
+ s)c and face a lump-sum tax equal to scg, making their private consumption 
+equal to 1 
+ F/h 
+ cg – as in the private good case. A deviator who chooses not to participate 
+still faces a lump-sum tax equal to scg and so her private consumption increases to 1 
+ scg 
+rather than to 1. The payoff change experienced by the deviator is then 
+U  
+sg(s), 1 
+ scg(s) 
+ U 
+ 
+g(s), 1 
+ F/h 
+ cg(s) 
+ Ws(s), (13) 
+which is not generally equal to zero. For s approaching zero, Ws(s) approaches minus 
+inﬁnity; for s = 1, we can express Ws(1), substituting from (8) and (1), as 
+     
+Ws(1) = (1  q) ln 1  q 1  
+F 
+ ln 1  q 1  
+F 
+h 
+ 
+F 
+h h 
+> 0. (14) 
+The derivative of Ws(s) with respect to s is 
+q 1  s(1  F/h) 
+s 1  qs(1  F/h) 
+> 0. (15) 
+Thus, there will be a range of values of s below s = 1 where deviation will be proﬁtable 
+even in the presence of a Pigouvian subsidy, and where therefore an additional subsidy on 
+access fees will be required. 
+Subsidization of access fees at the same rate s = s/(1 
+ s) may still be insufﬁcient to 
+induce full internalization: proceeding as above, one can show that there will still be a range 
+of values to the left of s = 1 where an even higher subsidy on access fees will be required. 
+ 
+13 
+
+========15========
+
+4 Entry 
+We come now to the heart of our analysis, i.e. the question of how ﬁxed costs in 
+charity provision affect entry. As we shall see, ﬁxed costs result in two different 
+kinds of “failures” with respect to entry decisions. The ﬁrst is a failure to enter: ﬁxed 
+costs can keep out more efﬁcient challengers, protecting inefﬁcient incumbents. The 
+second is a failure to repel entrants: ﬁxed costs can encourage entry by inefﬁcient 
+challengers, undermining the position of a more efﬁcient incumbent. 
+4.1 Unsuccessful challenges by more efﬁcient providers 
+In the case of competition between for-proﬁt providers, ﬁxed costs that are not sunk 
+do not translate into entry barriers for challengers. In contrast, in the case of non- 
+proﬁt providers, the presence of ﬁxed costs can effectively act as a barrier to entry 
+and protect the position of inefﬁcient incumbents. 
+Consider a provider (the “incumbent”) supplying an amount g(s), where s > s˜, 
+and suppose that the incumbent faces a challenger that has access to a technology 
+involving the same marginal cost, c, as the incumbent but a lower marginal cost 
+FE < F. Given that providers are output maximizers that value own provision, having a less efﬁcient technology would not induce the incumbent to accommodate 
+entry by a challenger. 
+Starting from a situation where all individuals are making purchases from the 
+incumbent, an individual who deviates from that choice and chooses to switch to the 
+challenger would incur an entry fee equal to the full amount, FE, of the challenger’s ﬁxed costs, and would choose a level of purchase satisfying the condition 
+(1 
+ s)MRS(g˜i, 1 
+ FE 
+ cxi) = c, (16) 
+with g˜i = (1 
+ s)xi + sg(s), and experience a payoff change equal to 
+U(g˜i, 1 
+ FE 
+ cxi) 
+ U 
+ 
+g(s), 1 
+ F/h 
+ cg(s). (17) 
+14 
+
+========16========
+
+If FE is sufﬁciently large, then deviation is not proﬁtable despite the fact that the challenger has lower ﬁxed costs. 
+Result 4 In the presence of ﬁxed costs, a challenger with the same marginal cost as the 
+incumbent, and lower ﬁxed costs FE < F, will be unable to contest the position of the incumbent if FE > F/h. 
+PROOF: To show this, note that deviation is always unproﬁtable for FE – since the individual 
+can purchase the service at the same marginal cost but has a lower disposable income – and it is always proﬁtable for FE = 0 – if the individual switches and chooses x˜i = g(s), she 
+will experience the same gi but a higher zi (and she can further improve on this by re- 
+optimizing). Since the deviation payoff is decreasing in FE, there exists a minimum value 
+FE < F above which deviation is unproﬁtable. Note that, for FE = F/h, a deviator would 
+have the same disposable income and face the same marginal price, and so would choose xi = gi(s), which would make the deviation payoff equal to U 
+ 
+g(s), 1  F/h  cg(s). We 
+can therefore conclude that FE = F/h for all value of s. Thus, when ﬁxed costs are large – FE > F/h – the monopoly position of the incumbent cannot be contested by a challenger 
+even if this can provide services at a lower average cost, unless the challenger can bring about a coordinated switch by all donors.  
+The difference between the nonproﬁt case and the for-proﬁt case is that coordi- 
+nation between donors towards efﬁcient charities is more difﬁcult to achieve than 
+coordination of consumers towards efﬁcient ﬁrms. In the case of for-proﬁt ﬁrms 
+consumers can be “herded” effectively through price competition: a for-proﬁt chal- 
+lenger can undercut the incumbent and induce all consumers to switch, and it can 
+do so credibly because consumers need not concern themselves about whether the 
+challenger will succeed in meeting its objectives – i.e. the challenger is a residual 
+claimant. This is not the case for nonproﬁt charities: a nonproﬁt challenger facing a 
+binding non-distribution constraint is unable to make a corresponding binding offer 
+15 
+
+========17========
+
+to all donors to provide the service at a lower average cost. If all individuals were 
+to switch to the challenger, average costs would be lower, but individuals would 
+only switch if they believed that others would do the same; as a result, no-one will 
+switch. 
+Thus, in the case of nonproﬁt providers the presence of ﬁxed costs may give 
+rise to entry barriers and result in inefﬁcient selection even when technologies are 
+such that markets would be fully contestable and efﬁcient in an analogous for-proﬁt 
+scenario. It should be stressed that this conclusion hinges on the non-distribution 
+constraint faced by nonproﬁt providers, and not on whether or not the service is col- 
+lective in nature (the value FE is independent of s) – although the collective nature of the service may be ultimately responsible for the adoption of a nonproﬁt form, 
+because of the more stringent veriﬁcation requirements that can affect the provision 
+of collective goods. 
+4.2 Successful challenges by less efﬁcient providers 
+Now consider again an incumbent supplying an amount g(s), where s > s˜, but 
+suppose that the incumbent faces a challenger that has access to a technology (FE,cE) which involves no ﬁxed costs (FE = 0) and a higher marginal cost cE > c, and is overall less efﬁcient than the incumbent’s. Speciﬁcally, we will assume that the 
+challenger’s technology is such that the payoff of individuals in a symmetric pure- 
+strategy equilibrium where the challenger becomes a monopoly provider is less than 
+the corresponding payoff under the incumbent: 
+U 
+ 
+g(cE,s), 1  cEg(cE,s) < U 
+ 
+g(s), 1  F/h 
+ cg(s). (18) 
+Given that providers are output maximizers that value own provision, having a less 
+efﬁcient technology would not discourage the challenger. 
+Starting from a situation where all individuals are making purchases from the 
+incumbent, an individual who deviates from that choice and switches to the chal- 
+16 
+
+========18========
+
+lenger would incur no access fee, and would choose a level of purchase satisfying 
+the condition 
+(1 
+ s)MRS(g˜i, 1 
+ cExi) = cE, (19) 
+with g˜i = (1 
+ s)xi + sg(s), and experience a payoff change equal to 
+U(g˜i, 1 
+ cExi) 
+ U 
+ 
+g(s), 1 
+ F/h 
+ cg(s)  F(cE,s). (20) 
+Result 5 A challenger with an inferior technology with no ﬁxed costs and a marginal cost 
+cE 2 cE,cE, where cE > c, may be able to contest the position of a more efﬁcient incumbent 
+facing ﬁxed costs F. 
+PROOF: To compare the deviation payoff in this expression with the corresponding devia- 
+tion payoff in W(s), we can reason as follows.13 
+First, note that selecting xi = 0 and obtaining a payoff U(sg(s), 1) is always feasible 
+for a deviator, but here the deviator has the option of supplementing sg(s) with a direct 
+purchase at no ﬁxed fee and at a marginal cost of cE. Selecting xi = 0 while still having this 
+option would be optimal if 
+ 
+cE = (1 
+ s)MRS sg(s), 1)  c¯E(s). (21) 
+For c < cE < c¯E(s), a choice xi > 0 is optimal and yields a higher payoff than a choice xi = 0. We can then conclude that, for c < cE < c¯E(s), a deviator will do better by switching to the challenger than by abstaining from all purchases, i.e. F(cE,s) > W(s). 
+Consider now a scenario with s = s˜, i.e. where W(s) = 0. In this scenario, for cE = 
+c¯E(s˜), we have 
+cE = (1 
+ s)MRS ˜ 
+ 
+s˜g(s˜), 1) = (1 
+ s)MRS g(cE,s˜), 1 
+˜ 
+ 
+ cEg(cE,s˜), (22) 
+13 
+A similar line of argumentation could be used for cases where FE is not zero but is less than F. 
+17 
+
+========19========
+
+from (19) and (21). Equality in the marginal rates of substitution implies equal ratios of g to z, i.e. This implies s˜g(s˜) = g(cE,s˜)/ 
+ 
+1  cEg(cE,s˜) 
+. Since 1 
+ cEg(cE,s˜) < 1, this implies s˜g(s˜) > g(cE,s˜), which in turn implies U 
+ 
+s˜g(s˜), 1 
+ 
+> U 
+ 
+g(cE,s˜), 1  c 
+Eg(cE, 
+s˜) 
+ 
+. Given that W(s˜) = 0 – and thus U 
+ 
+s˜g(s˜), 1 
+ 
+= U 
+ 
+g(s˜), 1  F/h  cg(s˜) – we can con- clude that U 
+ 
+g(s˜), 1  F/h  cg(s˜) 
+ 
+> U 
+ 
+g(c ,s˜), 1  c 
+E 
+g(c 
+E 
+,s˜)E , i.e. (18) is satisﬁed with strict inequality. Since the difference between U 
+ 
+g(s), 1  F/h  cg(s) 
+ 
+and U 
+ 
+g(cE,s), 1  cEg(cE,s) 
+ 
+is monotonically increasing in cE, there will exist a non-empty interval (cE(s˜), c¯E(s˜)), where (18) is satisﬁed. And since, as noted above, for cE strictly less than c¯E(s˜), we have F(cE,s˜) > W(s˜) = 0, we can conclude that for cE in the interval (cE(s˜),c¯E(s˜)), condition (18) is satisﬁed and F(cE,s˜) > 0. 
+Finally, for cE in the interior of (cE(s˜),c¯E(s˜)), the expression F(cE,s˜) is strictly positive. The second derivative of F(cE,s) with respect to s is 
+  
+ 
+F 
+ 
+q2 cE 1  c2 
+ 
+qs 
+ 
+h 
+< 
+cE 
+ 
+0, (23) 
+1  
+F 
+ 
+h 
+ c 
+ 
++ c2 
+which means that, for s > s˜, the expression F(cE,s) crosses zero at most once. By conti- 
+nuity, we can then conclude that for any given cE 2 (cE(s˜),c¯E(s˜)), there exists a right-hand side neighbourhood of s˜ where W(s) < 0 and F(cE,s) > 0, i.e. where the presence of 
+an inefﬁcient challenger will cause defection from a more efﬁcient incumbent who would 
+otherwise supplied the service to all individuals. The symmetric equilibrium outcome will 
+then be one where all individuals access provision from the challenger, with no-one facing 
+individual incentives to switch back to the incumbent (if selecting to the challenger is pre- 
+ferred to selecting the incumbent starting from a situation where all individuals access the 
+incumbent – making the access fee equal to F/h – it will be even more so when there is a 
+single individual accessing the incumbent for an access fee equal to F). 
+ 
+It may be that the incumbent has ﬂexibility in its choice of technology; in this 
+case, the presence of a less inefﬁcient challenger can induce the incumbent to switch 
+to an inferior technology with no ﬁxed costs in order to protect its position. Suppose, 
+for example, that beforehand (at some time zero) the incumbent can choose to adopt 
+18 
+
+========20========
+
+the same technology as the challenger. Then, given that it places a premium on its 
+own provision, it will do so rather than facing exclusion. The end result is the same. 
+In either case, the presence of ﬁxed costs can bring about inefﬁcient entry and/or 
+(equivalently) the adoption of inferior technologies by incumbents. 
+4.3 Corrective policies 
+As discussed in the previous section, government subsidization of ﬁxed costs can 
+promote efﬁcient access decisions by service users. In the presence of competition 
+between different providers, government subsidization of ﬁxed costs can also play 
+a role in promoting efﬁcient selection of service providers. Funding of core costs of 
+start-ups of charities is in line with the practice of government grants aimed at es- 
+tablishing some “seed” funding. Established charities also routinely seek and obtain 
+funding from government that is targeted to cover their “core” costs. According to 
+our analysis, if ﬁxed costs of start-ups are fully or partially funded by government, 
+entry by more by efﬁcient charities will be possible. If the ﬁxed costs of established 
+charities are publicly funded, this will prevent competition from inducing inefﬁcient 
+technology choices. In such situations, government funding of core costs would 
+have intrinsically non-neutral effects on private provision: it will affect technology 
+selection and thus “real” provision rather than just its monetary value, and would 
+therefore not simply “crowd out” private spending. 
+Subsidization of access fees (or equivalently funding of charities’ ﬁxed costs) will 
+generally dominate direct regulation as a way of promoting efﬁcient selection, as the 
+latter would require the government to have full information on the technologies 
+of individual providers; but it will still require an assessment of the comparative 
+severity of the two kinds of failures related to competition and entry: if there is a 
+presumption that start-ups can promote the adoption of more efﬁcient technologies 
+and that funding of established charities would instead promote technological en- 
+19 
+
+========21========
+
+trenchment and the adoption of unnecessarily high ﬁxed costs technologies, then 
+government funding of core costs should be directed towards start-ups; if instead 
+there is a presumption that start-ups are inefﬁcient, opportunistic challengers that 
+can take advantage of the higher ﬁxed costs of established charities in order to divert 
+private funds their way, making it difﬁcult for established charities to fully exploit 
+opportunities for economies of scale in provision, then core funding of core costs 
+should be directed towards established charities.14 
+5 An example 
+The above results can be illustrated by means of an example. Let h = 100, q = 1/10, 
+F = 5, c = 1. An individual’s payoff in a symmetric outcome where all individuals 
+make purchases from the incumbent, for varying values of s, is shown as the solid 
+curve in Figure 1. The dotted curve in the same ﬁgure represents the deviation 
+payoff for an individual who chooses to make no purchases. This crosses the solid line at s ’ 0.33. So, for s < 0.33, all individuals make purchases from the incumbent 
+if the incumbent is a monopoly provider. 
+Consider now a potential entrant with c = 1 and FE = 2/30. Since FE > F/h = 0.05, the potential entrant will be unable to challenge the position of the incumbent. 
+However, if the government subsidizes the entrant’s ﬁxed costs at a rate equal to or 
+greater than 25%, entry will be possible. 
+Consider now an entrant with FE = 0 and cE = 2. The symmetric equilibrium 
+14 
+A potential problem with this approach is that funding of core costs may induce an output- maximizing monopoly provider to adopt comparatively inefﬁcient technologies that exhibit higher ﬁxed costs and lower marginal cost: provision depends inversely on marginal cost, and so it may be maximized by a comparatively less efﬁcient technology choice that involves higher ﬁxed costs; sub- sidization of ﬁxed costs may facilitate the adoption of such technology. In the absence of Pigouvian corrective, such a choice may serve to partially offset the effect of the externality on choices on the intensive margin, albeit at a direct cost in terms of productive efﬁciency. 
+20 
+
+========22========
+
+U 
+0.25 
+0.5 
+0.75 
+1. 
+Σ 
+
+========23========
+
+U 
+0.25 
+0.5 
+0.75 
+1. 
+Σ 
+
+========24========
+
+payoff where all individuals buy from the entrant (not shown) lies everywhere be- 
+low the payoff for a symmetric outcome where all individuals make purchases from 
+the incumbent (the solid curve in Figure 1), so condition (18) is satisﬁed for all values 
+of s. The deviation payoff for an individual who switches to the entrant is shown 
+as the dashed curve in Figure 1. This crosses the curve representing the symmet- 
+ric outcome payoff where all individuals make purchases from the incumbent (the solid curve) at s ’ 0.2. So, for s between 0.2 and 0.33, the entrant would be able to 
+contest the position of the incumbent, even if the latter is a more efﬁcient provider. 
+Suppose the incumbent also has access to an alternative technology with ﬁxed costs F0 = 3/2 and marginal cost c0 = 3/2. The corresponding symmetric out- 
+come payoff and deviation payoff are shown in Figure 2. The symmetric outcome 
+payoff lies everywhere below the corresponding payoff for the technology with F = 5,c = 1 (shown in Figure 1), so the alternative technology is comparatively inefﬁcient. However, for s 2 (0.2, 0.33) the entrant cannot challenge the position 
+of the incumbent if the latter adopts the alternative technology. Accordingly, for s 2 (0.2, 0.33) an output maximizing incumbent would choose to adopt the less 
+efﬁcient technology. 
+Suppose next that the government grants a 25% subsidy on access fees, and that 
+this is funded by a lump-sum tax on all individuals. This would reduce the access 
+fee to 0.75 F/h, and would correspondingly reduce the payoff for individuals who 
+deviate to the entrant; this payoff is shown as the dash/dotted curve in Figure 1. 
+With this subsidy, the position of the incumbent is protected, and its incentives to 
+adopt less efﬁcient technologies are removed. 
+23 
+
+========25========
+
+6 Evidence from Canada 
+If charities’ core funding needs are a key determinant of government grants, then, 
+other things equal, we should observe a higher ratio of government to private fund- ing in those charitable sectors that have higher ﬁxed costs.15 Patterns of government 
+funding across different charitable sectors seem to be consistent with this prediction. 
+Focusing on evidence pertaining to Canadian charities, Figure 3 plots the aver- 
+age ratio of ﬁxed costs to total costs, FC ratio, against the average ratio of govern- 
+ment to total funding, GF ratio, for thirty different charitable sectors as deﬁned by 
+the Canada Revenue Agency, averaged over the period 1997-2005. These were com- 
+puted using information from annual returns for 48,346 distinct charities; evidence 
+on non-proﬁts is comparatively scarce, and this data set is unique in that it provides 
+systematic accounting information relating to charities’ revenues and costs across 
+all charitable sectors. The ratio of ﬁxed costs to total costs is obtained as the ra- 
+tio of “management and general administration expenses” to “total expenditures”; 
+the ratio of government to total funding is obtained as the ratio of ”total revenue 
+from government” to the sum of “total revenue from government”, “revenue from 
+memberships”, “revenue from fund-raising”, and “total gifts”.16 
+Figure 3 shows a clear (and statistically signiﬁcant) positive correlation between 
+15 
+Hansmann (1981) shows that government subsidies may be required for nonproﬁts that face high ﬁxed costs and provide excludable goods (the speciﬁc case examined is that of the performing arts) but for a reason very different from the one discussed here. Our argument also applies to the case of non-excludable public goods. 
+16We focus on charities that report ﬁxed costs and government support ratios lying strictly within 
+the interval (0, 1). Our sample also excludes non-religious charities; although these can obtain gov- 
+ernment support to fund activities other than those relating to religious worship, most of their bud- 
+get is represented by private donations (almost 99% on average). The vast majority of all Canadian 
+charities are non-commercial in nature – in our sample, revenues from sales of goods and services 
+average to less than three percent of total revenues. 
+24 
+
+========26========
+
+.8 
+.6 
+.4 
+.2 
+Average government support ratio 
+0 
+0 
+.05 
+.1 .15 Average ﬁxed costs share 
+.2 
+.25 
+Notes: (i) from a sample of 48,346 Canadian, non-religious charities over the period 
+1997-2005; (ii) the solid line depicts a linear regression ﬁt of the data points. 
+Figure 3: Cost structure and government support in Canadian charitable sectors 
+25 
+
+========27========
+
+ﬁxed costs and government support. In our interpretation, this correlation reﬂects 
+a relationship ﬂowing from the structure of operating costs to government support 
+– whether this is a result of active government policies or a government response 
+to lobbying by charities. A contrasting interpretation of this positive correlation 
+between ﬁxed costs and government support is that charities may adjust their cost 
+structure in response to increased funding by government, i.e. a reverse direction 
+of causation. However, results of panel-based Granger causality tests performed on 
+the above sample of charities, run counter to this latter interpretation.17 
+According to our analysis, government funding of ﬁxed costs may be warranted 
+in order to correct failures relating to competition and entry, either to facilitate entry 
+of new charities or to support incumbents that face competition by new charities. 
+One way to discriminate between these two possible sources of correlation is to 
+look at how funding correlates with the characteristics of the charities that receive 
+comparatively more grants from government. In the data, we can identify those 
+charities that have been active for only one period, and thus construct a time-variant 
+17 
+Using the full panel of charities over the 1997-2005 period, we compared the following two dynamic panel speciﬁcations: (a) FC ratioi,t = a1FC ratioi,t 
+ 1 
++ b0GF ratioi,t + hi + ui,t (contempora- neous independent variable); and (b) FC ratioi,t = a1FC ratioi,t 
+ 1 
++ b0GF ratioi,t + b1GF ratioi,t 
+ 1 
++ hi + ui,t (contemporaneous and lagged independent variable), with charities’ ﬁxed costs at time t as the dependent variable and government support ratios as the independent variable; and where the ui,t’s are IID error terms and the hi’s are charity ﬁxed effects that are assumed to be uncorrelated with the error terms. If adding the lagged independent variable signiﬁcantly improves the forecast, then we can say that x causes y in the Granger sense (see Holtz-Eakin et al. (1988) for a discussion of Granger causality methods with panel data). To test for this, we estimated both speciﬁcations using the Arellano-Bond GMM estimator (Arellano and Bond, 1991), and then performed a Wald test for the forecast improvement obtained from moving from (a) to (b) (i.e. adding the lagged variable). In both speciﬁcations, the contemporaneous effect of the independent variable is found to be positive The Wald test, however, gives a c2 statistic of 1.38 with a P-value of .24 – implying that the govern- ment support ratio does not appear to “Granger cause” the ﬁxed cost ratio. On the other hand, doing the same for the reverse direction of causation also gives a positive estimate for the contemporaneous effect of the ﬁxed cost ratio on the government support ratio and a Wald c2 statistic of 2.93 with a P-value of .09. 
+26 
+
+========28========
+
+indicator, Old, of whether the charity has just started its activity in the current period 
+– assigning a value of 0 to Oldit if the charity was ﬁrst active at t, and a value of 1 if it was already active at t  1. 
+We then ran panel regressions, covering the period 1998-2005, relating charities’ 
+funding structure to their age and cost structure: speciﬁcally we ran one speciﬁ- 
+cation where the ratio of government to total funds, GF ratio, for each charity is 
+regressed against the aforementioned charity age indicator, Old, including sectoral 
+and regional ﬁxed effects; and one where the charity age indicator, Old, is further 
+interacted with the ﬁxed cost ratio, FC ratio, (which is also included as a separate 
+regressor). Results are shown in Table 1. In both speciﬁcations, the coefﬁcient for 
+the age indicator is positive and signiﬁcant at the 1% level. The interaction with the 
+ﬁxed cost ratio also exhibits a positive and signiﬁcant coefﬁcient.18 
+Thus, at the charity level, there is no evidence of more government funding being 
+directed to support the start-up costs of new entrants. On the contrary, it is the older 
+charities that receive more government grants, and it is the old charities that have 
+comparatively higher ﬁxed costs that get more funding. In light of our analysis, the 
+observed patterns would be consistent with a need to protect more established char- 
+ities that have comparatively larger ﬁxed costs from adverse competition, enabling 
+them to exploit scale economies in provision in the face of competitive pressure from 
+inefﬁcient entrants. Admittedly, the pattern of established charities receiving com- 
+paratively more government funding may have other explanations that have little 
+to do with optimal policy choices on the part of government – it may simply be that 
+established charities are better at soliciting funding from government. This interpre- 
+tation, however, would not explain why the effect should be stronger for charities 
+that exhibit larger ﬁxed costs. Nevertheless, we can make no claim here that the ev- 
+18 
+The negative and signiﬁcant coefﬁcient on the ﬁxed cost ratio means that, for new charities, FC ratio is negatively correlated with GF ratio. 
+27 
+
+========29========
+
+Table 1: Funding structure of old and new charities 
+Dependent variable: GF ratio 
+(1) (2) 
+Old 
+.014 (< .01) .011 (< .01) 
+FC ratio 
+ .002 (.58) 
+OldFC ratio 
+.011 (.01) 
+N 
+45,326 45,103 
+Panel regressions over the period 1998-2005, incorporating sectoral and provincial ﬁxed effects. Non-religious charities only. P-values in brackets. 
+Legend: 
+GF ratio: ratio of government to total funding 
+FC ratio: ratio of ﬁxed to total costs 
+Old: age indicator (new=0, old=1) 
+idence we present identiﬁes a competition-related intent in observed funding deci- 
+sions. We just note that, if we were to interpret observed funding decisions as being 
+optimal, we should conclude that, in these decisions, the need to shelter established 
+charities from inefﬁcient challengers must be dominating the need to promote entry 
+by more efﬁcient start-ups. 
+7 Summary and conclusion 
+Unlike in the case of for-proﬁt ﬁrms, the presence of ﬁxed costs may interfere with 
+competition amongst non-commercial charities and give rise to inefﬁcient selection. 
+This is because, in the absence of a residual claimant pursuing a proﬁt motive, un- 
+28 
+
+========30========
+
+coordinated donor choices can protect the position of an inefﬁcient incumbent; and 
+because inefﬁcient challengers can leverage on free-riding with respect to ﬁxed-cost 
+related charges to divert private spending away from more efﬁcient incumbents. 
+Government funding of ﬁxed costs can enable entry by more efﬁcient providers and 
+protect more incumbents from inefﬁcient challengers. 
+The debate on the effect of government funding on the private provision of pub- 
+lic goods and services has so far largely ignored the effects of government funding 
+on inter-charity competition and market structure in the third sector. Our analysis 
+shows that, once entry and technology adoption decisions are accounted for, there 
+is no longer a theoretical prior that government grants that are directed towards 
+charities’ core funding needs should be neutral, i.e. that they should simply crowd 
+out private donations. On the contrary, such grants are able to affect entry and/or 
+charities’ technology choices – and hence provision efﬁciency. 
+Our theoretical analysis has intentionally abstracted from a number of real-world 
+complications that would need to be incorporated in any applied model of compe- 
+tition and entry. In particular, services provided by competing charities are likely to 
+be viewed by donors and users of the services as being imperfect substitutes – con- 
+sistently with the observation that multiple charities co-exist within a sector, and 
+in parallel with the structure of applied models of competition and entry in private 
+goods markets. Finally, empirical identiﬁcation of the effects we have formalized 
+above would require a fully speciﬁed model of entry and inter-charity competition 
+as well as a richer data set than that which is currently available.19 
+19 
+It is well understood that in models of competition with heterogeneous ﬁrms, the relationship between competition and industry structure hinges on the model’s speciﬁc assumptions (Sutton, 1991). Thus, a fully developed empirical analysis of the relationship between ﬁxed costs and entry would necessitate a structural estimation approach – and data that can support it. 
+29 
+
+========31========
+
+References 
+Alchian, A., and Demsetz, H., 1972. “Production, information costs, and economic 
+organization.” American Economic Review 62, 777-95. 
+Arellano, M., and Bond. S., 1991. “Some tests of speciﬁcation for panel data: Monte 
+Carlo evidence and an application to employment equations.” Review of Eco- 
+nomic Studies 58, 277-97. 
+Baumol, W., and Willig, R., 1981. “Fixed costs, sunk costs, entry barriers and sus- 
+tainability of monopoly.” Quarterly Journal of Economics 96, 405-431. 
+Bergstrom, T., Blume, L., and Varian, H., 1986. “On the private provision of public 
+goods.” Journal of Public Economics 29, 25-49. 
+Brown, E., and Slivinski, A., 2006. “Nonproﬁt organizations and the market,” in 
+Powell, W., and Steinberg, R., eds., The nonproﬁt sector research handbook, 2nd 
+Edition. New Haven: Yale University Press. 
+Easley, D., O’Hara, M., 1983. “The economic role of the nonproﬁt ﬁrm.” The Bell 
+Journal of Economics 14, 531-38. 
+Ghatak, M., and Mueller, H., 2009. “Thanks for nothing?” Mimeo, London School 
+of Economics. 
+Glaeser, E., and Schleifer, A., 2001. “Not-for-proﬁt entrepreneurs,” Journal of Public 
+Economics 81, 99-115. 
+Hansmann, H., 1980. “The role of the non-proﬁt enterprise.” Yale Law Journal 89, 
+835-901. 
+Hansmann, H., 1981. “Nonproﬁt Enterprise in the Performing Arts.” Bell Journal of 
+Economics 12, 341-361. 
+Holtz-Eakin, D., Newey, W., and Rosen, H., 1988. “Estimating vector autoregres- 
+sions with panel data,” Econometrica 56, 1371-95. 
+Institute for Philanthropy, 2009. Supportive to the Core: Why unrestricted funding mat- 
+ters. Institute for Philanthropy, London and New York. 
+30 
+
+========32========
+
+Lakdawalla, D., and Philipson, T., 2006. “The nonproﬁt sector and industry perfor- 
+mance.” Journal of Public Economics 90, 1681-98. 
+Pestieau, P., and Sato, M., 2006. “Limiting the number of charities,” CORE discus- 
+sion paper No. 2006074. 
+Philipson, T., and Posner, R., 2009. “Antitrust in the not-for-proﬁt sector,” Journal of 
+Law and Economics 52, 1-18. 
+Scott, K., 2003. Funding Matters: The Impact of Canada’s New Funding Regime on Non- 
+proﬁt and Voluntary Organizations. Ottawa: Canadian Council on Social Devel- 
+opment. 
+Sutton, J., 1991. Sunk costs and market structure. MIT Press. 
+Weisbrod, B., 1975. “Toward a theory of the voluntary nonproﬁt sector in a three- 
+sector economy.” In Phelps, E. (ed.) Altruism, Morality, and Economic Theory, 
+171-195. New York: Russell Sage Foundation. 
+31 
+
+========33========
+

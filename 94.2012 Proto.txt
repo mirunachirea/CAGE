@@ -1,0 +1,1492 @@
+August 2012 
+                No.94 
+A Reassessment of the Relationship Between GDP 
+and Life Satisfaction 
+Eugenio Proto and Aldo Rustichini University of Warwick and University of Minnesota 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+A Reassessment of the Relationship Between GDP 
+and Life Satisfaction 
+Eugenio Protoa Aldo Rustichinib 
+ aDepartment of Economics, University of Warwick bDepartment of Economics, University of Minnesota 
+August 2012 
+Abstract: Determining the relation between life satisfaction and aggregate income at country level has been problematic, because cross-country and times-series analysis generally give dit conclusions. Here we analyze this relation without imposing any polynomial structure to the estimated model and eliminating potentially confounding country-speci fac- tors. We show the existence of a bliss point in the interval between 26,000$ and 30,000$ (2005 in PPP) in relationship between individual life satisfaction and GDP. An almost identical re- sult is found when the relationship between aggregate income of Western European regions and life satisfaction of their residents is analyzed: in this case, data suggest a bliss point be- tween 30,000$ and 33,000$. In both samples, we   evidence of a decreasing level of life satisfaction after the bliss points. Therefore, the analysis overall shows the existence of an hump-shaped pattern between GDP and life satisfaction. 
+We discuss possible explanations of the hump-shaped pattern linked to external e of the aggregate income on life satisfaction due, for example, to habit formation and income comparison and present an econometric test of this potential explanation based on some recent  of the e-factor personality theory. 
+JEL Classiation: D60; D870; C33. 
+Keywords: Life Satisfaction, GDP, Income, Personality 
+Acknowledgements: 
+The authors thank several coauthors and colleagues for discussions on related research, especially Wiji Arulampalam, Sascha Becker, Gordon Brown, Dick Easterlin, Peter Hammond, Alessandro Iaria, Graham Loomes, Kyoo il Kim, Rocco Macchiavello, Anandi Mani, Fabien Postel- Vinay, Dani Rodrik, Jeremy Smith, Chris Woodruf, Fabian Waldinger. Proto thanks the ESRC (grant RES-074-27-0018); Rustichini thanks the NSF (grant SES-0924896) and ESRC (grant RES-062-23-1385) 
+1 
+
+========2========
+
+1 Introduction 
+At present, welfare of nations is measured indirectly: Gross Domestic Product is used 
+to asses the aggregate development of a country. Subjective and self-reported measures 
+have traditionally been considered unreliable among economists. However, from a med- 
+ical point of view, growing evidence points to a robust correlation between answers to 
+subjective well-being questions and objective measures of personal well-being.1 Further- 
+more, an important piece of empirical evidence, comparing explicit indexes of well being, 
+has been recently provided by Oswald and Wu (2010) showing for the US a state-by-state 
+remarkably precise match between classical objective measure (like air quality, climate, 
+etc.) of well-being and subjective measure. Thus, even if prone to idiosyncratic dis- 
+tortions, subjective measures correlate with objective measures, so their signi is 
+supported. 
+Perhaps because of these considerations, the Commission on the measurement of 
+economic performance and social progress created at the beginning of 2008 on French 
+government’s initiative, and formed by a distinguished group of social scientists, put 
+subjective well-being into the limelight as a possible supplement to traditional measures 
+of development such as GDP (Stiglitz et al., 2009). Also the British government as 
+shown considerable interest in developing subjective wellbeing measure in recent years 
+as an instrument for policy (e.g. Michealson et al., 2008).2 
+The debate on whether GDP growth increases happiness, or more precisely whether 
+higher income in a country is associated in general with higher life satisfaction among 
+the citizens is considered of crucial importance for scienti and for policy reasons. For 
+1See Clark et al. (2008) for an extensive survey on this literature. 
+2Key milestones include the Local Government Act 2000 giving power to Local Authorities to promote social wellbeing, publication of the Prime Ministers Strategy Unit paper Life Satisfaction: The state of knowledge and implications for Government in 2002 and the UK Sustainable Development Strategy which committed the Government to exploring the policy implications of wellbeing research (Waldron, 2010). 
+2 
+
+========3========
+
+example, if one thinks that the answer is fundamentally positive, then there is no need 
+for alternative measures of the wealth of a nation, and traditional values gross domestic 
+product measures su If the answer is no, then there is a fundamental need to 
+re-evaluate what public policies take as objective. 
+The scienti debate on the relation between Gross Domestic Product and self re- 
+ported indices of life satisfaction is still open. In a well-known  Easterlin reported 
+no signit relationship between happiness and aggregate income in time-series anal- 
+ysis. For example, the income per capita in the USA in the period 1974-2004 almost 
+doubled, but the average level of happiness shows no appreciable trend upwards. This 
+puzzling g, appropriately called the Easterlin Paradox (Easterlin, 1974) has been 
+con in similar studies by psychologists (Diener et al., 1995) and political scientists 
+(Inglehart, 1990), and for European countries, Easterlin (1995).3 
+Life satisfaction appears to be monotonically increasing with income when one studies 
+this relation at a point in time across nations (Inglehart, 1990; Deaton, 2008; Stevenson 
+and Wolfers, 2008). It has been suggested that a way to reconcile the cross-sectional 
+evidence with the Easterlin’s Paradox is that the positive gradient in happiness disap- 
+pears after a certain bliss point (Layard, 2005; Inglehart, 1990; Inglehart et al., 2008; di 
+Tella et al., 2010). This last interpretation has been questioned by Deaton (2008) and 
+Stevenson and Wolfers (2008) who claim that there is a positive gradient between GDP 
+and life satisfaction in developed countries and, from the opposite perspective, by East- 
+erlin et al. (2010), who provide some evidence of no long-run e even for developing 
+countries. 
+We perform our analysis without imposing a particular functional form to the econo- 
+metric model. We partition all individuals’ observations in dit quantiles according 
+3There is some disagreement in the time-series based analysis: Oswald (1997) shows evidences of a small positive temporal correlation between life satisfaction and GDP in industrialized countries and Stevenson and Wolfers (2008)  signit happiness gains in Japan the post-war period. 
+3 
+
+========4========
+
+to per capita GDP of the country of residence. Therefore, the 1st quantile of the distribu- 
+tion contain the fraction of individuals living in the poorest country, and the last quantile 
+a similar fraction of individuals leaving in the richest countries. We initially consider a 
+partition in 15 quantiles, but then we repeat the analysis for 30 and 50 quantiles parti- 
+tions. Estimating the impact of each dummy variable, indicating the dit quantiles, 
+on individuals’ life satisfaction we  in the 15 quantiles analysis, an increasing coef- 
+t until the 12th quantile, then coet seem to decrease to become statistically 
+smaller in the 15th quantile. A similar analysis is performed for the European regions, 
+with the only di that individuals are subdivided in 5 quintiles and 10 quantiles: 
+the coarser grid is chosen because of the smaller variance in the regional GDP. 
+The above  imply a non monotonic pattern between GDP and individuals life 
+satisfaction, consistent with a hump-shaped relation with a bliss point in the interval 
+between 26,000 and 30,000 2005 USD, in PPP. We also  a positive relation between 
+aggregate income and life satisfaction across poorer countries: this relation seems to 
+turn negative in richer countries. Most of the variation of life satisfaction due to GDP 
+is explained by the e in countries with per capita GDP below 10,000 USD. The 
+probability of reporting the highest level of life satisfaction is more than 10% lower in 
+the poor countries with a GDP below 5,600 USD than in the richest counties with a 
+GDP above 36,600 USD. For counties with an income above 10,000 USD the probability 
+of reporting the highest level of life satisfaction changes within a range of 3% maximum. 
+This pattern is robust to the introduction of a number of demographic and occupational 
+controls and to the year  e 
+Our  are not in contrast with the previous cross sectional analysis. The 
+di with this literature are easily explained by the method we use: in fact our 
+data replicate results in the cross-country based literature when similar methods are 
+used. For example, we will see that when one uses all countries and waves in the World 
+4 
+
+========5========
+
+Value Survey, data show a monotonic relation between GDP and life satisfaction if we 
+do not introduce country-speci dummies. Similarly, our  are not in contrast 
+with the previous times-series based analysis, mostly focused on developed countries, 
+but it allows to pool data to an extent which is larger than what is allowed by separate 
+times-series analysis at country level. 
+The possibility of controlling for the country speci e makes it possible to con- 
+trol for time-invariant country-speci unobservable variables, therefore eliminating a 
+potential source of country-speci measurement errors and omitted-variable bias. In- 
+troducing this control is an element of crucial importance for analysis based on survey, 
+because the questionnaires are generally dit across countries and there are pervasive 
+e due to culture or language and social capital. Stevenson and Wolfers (2008) and 
+Sacks et al. (2010) estimated the e of life satisfaction over GDP, using the WVS and 
+controlling for country e but they impose a logarithm structure to the model. 
+Measurement errors of life satisfaction indices are various: for example, a well known 
+error is the ditial item functioning, de as the inter-personal and inter-cultural 
+variation in interpreting and using the response categories for the same question (Hol- 
+land and Wainer, 1993).4 
+If this ditial item functioning generates a systematic 
+measurement error in the life satisfaction reports, this could lead to either a positive or 
+negative bias depending on the correlation between the measurement error and other 
+variables in the regression. For example, if Western countries tend to over-report their 
+life satisfaction, this could generate a positive bias in cross-country estimates of the im- 
+pact of Income on life satisfaction. Omitted-variable bias could be equally problematic. 
+For example, if cultural elements determine a time invariant preference for public good 
+supply in some country, or if income distribution { usually very persistent in time{ is 
+4Angelini et al. (2009) and Bonsang and van Soest (2010) using vignettes to correct for Individual- Speci Scale Biases show that variations in response scales explain a large part of the cross European country dirences found in raw data. 
+5 
+
+========6========
+
+correlated with both life satisfaction and GDP, this would result in a bias in the relation 
+between GDP and life satisfaction. Controlling for country speci e eliminates all 
+biases than could be generated by the time invariant unobservables mentioned in the 
+examples.5 
+To further validate this result we conduct a cross sectional analysis on more homo- 
+geneous territorial units, and consider all regions in the European Union before the  
+enlargement (we will refer to this group of country as EU14) to eliminate potentially 
+confounding factors at country level. As expected, we obtain similar non monotonicity 
+in the relation between individual life satisfaction and regional GDP, without controlling 
+for regional or country e Data show a positive relation between aggregate income 
+and life satisfaction across poorer regions, and then this relation turns negative for richer 
+regions with a bliss point between 30,000 and 33,000 2005 USD in PPP. 
+The existence of a non monotonic relation for rich countries provides important in- 
+sight in the analysis of the determinant of individual life satisfaction. Accordingly, in the 
+last main section of the paper we investigate the reason of the non monotonic relation 
+emphasized by our results. It is known that life satisfaction is increasing in personal 
+income at a decreasing rate (e.g. Blanchwer and Oswald, 2004; Layard et al., 2008; 
+Kahneman and Deaton, 2010). However, considering the relation between GDP and life 
+satisfaction, a considerable literature following the Easterlin paradox suggest that this 
+link is complicated by the existence of other e acting with an opposite sign: (i) the 
+aspirations adapt to the new situations, an idea originally proposed by Brickman and 
+Campbell (1971);6 (ii) the e of the relative income on individual life satisfaction { 
+the so-called \Keeping up with the Joneses" hypothesis{ an idea that can de dated back 
+5Furthermore, the panel structure of the WVS o the possibility to include the year  that, together with individual employment status and personal income, allows to control for the main e of the short-run business cycles that it is well known to have an impact on life satisfaction (DiTella et al., 2001; Easterlin et al., 2010). 
+6Easterlin (2005), Stutzer (2004), McBride (2006) provides some empirical evidence on how aspira- tions increase in income 
+6 
+
+========7========
+
+to Duesenberry (1949).7 
+We will show with a simple example that if the relation between GDP and life satis- 
+faction is the result of combined e of personal income, increasing aspiration and/or 
+increasing target in terms of income comparison, the net e is not obviously mono- 
+tonic. We test this possibility using the EU14 data and we  the usual positive e 
+due to the personal income and a negative e due to the negative distance between 
+personal income and regional GDP. Using modern personality theory we will argue that 
+this second e can be related to the negative e induced by the distance from the 
+target income. 
+The paper is organized as it follows: in the next section we present the data. In 
+section 3 we present the country based analysis. Section 4 is devoted to the region based 
+analysis. In section 5 we discuss the possible reason for the non monotonic patterns 
+emphasized above. Section 6 concludes. 
+2 Data 
+We use the World Value Survey (WVS) for both the country level and European regional 
+analysis. In the WVS the variable used to measure personal satisfaction is the answer to 
+the question: "All things considered, how satisd are you with your life as a whole these 
+days?" coded on a scale from 1 (dissatis to 10 (satis The data are generally 
+available for e waves: 1981-1984, 1989-93, 1994-99, 1999-04, 2005-08; we exclude few 
+country-waves explicitly considered not representative in the WVS. Individuals in the 
+sample are dit in each wave. From the WVS we will also consider the personal 
+income measure, coded in 10 steps in the WVS dataset and considered comparable 
+7Clark and Oswald (1996), Blanchwer and Oswald (2004), Luttmer (2005), Senik (2009) among others present empirical validations of this hypothesis. See Clark et al. (2008) for an extensive survey of the theoretical and empirical literature explaining the Easterlin Paradox. 
+7 
+
+========8========
+
+across countries. Education, in term of age of leaving education, coded from 1 to 10, 
+ranging from less than 12 until to more than 21. The categories for Employment status 
+are: Full time, part time, self-employed, retired, housewife, student, unemployed, other. 
+Town size is coded in 1 to 8 sizes, ranging from less than 2000 until 500,000 and more. 
+The Country per capita GDP is from the World Bank World Development Indicators 
+data-set, and they are in constant 2005 US international dollars PPP adjusted. In the 
+paper we partition the observation in 15, 30 and 50 quantiles, according to the GDP data, 
+the dit country/wave in the 15 quantiles partition are presented in the section A.1 
+of the appendix. Table 2 provides a description of the main variables. 
+In the second analysis we focus on the 14 European countries before the accession 
+of the east European countries (Austria, Belgium, Denmark, Finland, France, Germany, 
+Greece, Italy, Luxembourg, Netherlands, Portugal, Spain, Sweden, United Kingdom) and 
+consider the observation at regional levels. The European regions are de following 
+the Nomenclature of Territorial Units for Statistics (NUTS2) used by the EU; we have 
+data for 171 regions. The regional per capita GDP data are from the Eurostat dataset; 
+the values in Euros are Purchasing Power Parity (PPP) adjusted. We then transform 
+the regional GDP data in constant 2005 USD using the Consumer Price Index (CPI) of 
+World Bank-World Development Indicators dataset.8 Table 1 provides a description of 
+the main variables for the European region based analysis, while the list of the countries 
+in each quantile for the 5 quantile partition is provided in section A.2 of the appendix. 
+3 Country Based Analysis 
+We perform the following analysis by using as main explanatory variables dummies 
+indicating the dit quantiles of the per capita GDP distribution among countries. We 
+8In a few cases the WVS regional classi did not match exactly the EUROSTAT classi so we needed to aggregate some of the WVS regions (details are available upon request) 
+8 
+
+========9========
+
+will show that the coet of the quantile dummies reveal a pattern of life satisfaction 
+strongly increasing with GDP in low income countries, then it becomes much less steep 
+after 10,000 USD and, interestingly enough, life satisfaction shows a tendency to decline 
+with GDP for the richest countries. 
+We start by partitioning all individual observations in 15 quantiles of about 21,000 
+observations each.9 We estimate dit variations of the following model: 
+satisfactioni;j;t = j + 1;zquantile(z)j;t + t +  Ki;j;t + ui;j;t 
+(1) 
+where i; j; t denotes the individual i, country j and period t respectively. The term 
+quantile(z)j;t is a dummy variables equal to 1 if the country j at time t belongs to the 
+quantile z and 0 otherwise; j are country dummies, t are period dummies, Ki;j;t is a 
+vector of individual characteristics and ui;j;t is an error term. 
+For expositional simplicity we will always consider last quintile, the one containing 
+the richest countries, as the base to compare all other group and we will therefore omit 
+it in all the speciions of model (1) that will follow. In order to take into account 
+the ordinal nature of life satisfaction variable we use an ordered probit estimator, and 
+to take into account the possible heteroscedasticity in the data we cluster the errors at 
+wave and country level to calculate the standard errors. 
+It is perhaps useful to note that the ordered probit estimator for this model is not 
+inconsistent even if we are using country-speci dummies. The reason is that we are 
+using individual data, this avoids the incidental parameters problem generated by the 
+increase of parameters with the number of observations n following the introduction of 
+the individuals’ xed e10 
+In table 3 we present dit variations of the simplest speci of model (1), 
+9The resulting GDP brackets of each quantile are in the horizontal axis of re 1 of the appendix and the county-wave combinations in each bracket are presented in section A.1 of the appendix. 
+10See Greene 2008, part 4.2 for a discussion on this argument. 
+9 
+
+========10========
+
+without time dummies, t and the controls Ki;j;t. We will henceforth de this as the 
+baseline speci Given that we use the last quantile as the base level, a posi- 
+tive (negative) and signit coet implies a positive (negative) and signit 
+ditial e on life satisfaction with respect to the last quantiles. Hence the ex- 
+istence of positive and signit coets of any of the quantile dummies reveal a 
+non monotonically-increasing pattern. In particular from column 1 of table 3, we note 
+that the coets of the dit quantiles reveal a statistically signit non mono- 
+tonic pattern. There is a signitly positive ditial e (i.e. the coets 
+are negative and signit) between life satisfaction of individuals living in the richest 
+countries (with a GDP larger than 38K 2005 USD in the 15th quantile) and individuals 
+living in countries with less than about 10K USD (individuals in the 7th quantile and 
+below). The coents are statistically non dint from 0 within the interval 11K 
+and 25K (between quantile 7th and 11th), then they turn positive until the 14th quintile. 
+Therefore, column 1 of table 3 suggest non monotonic relationship between GDP and 
+life satisfaction . 
+Table 1 presents the marginal e of the estimated model presented in the 1st 
+column of table 3. The 1st column of table 1 shows the estimated marginal eects of the 
+dit quantiles on the probability of declaring the highest level of life satisfaction, 10. 
+The 2nd column shows the elasticities obtained by estimating an OLS model, therefore 
+assuming a cardinal structure to the life satisfaction reports. In both cases we note 
+that the peak in life satisfaction is achieved in the interval 26,500 - 29,900 USD (12th 
+quantile), and that the dummies related to this interval is statistically larger than the 
+baseline dummies (related the last quantile), this suggest the existence of an hump 
+shaped pattern for rich countries. Individuals in the 12th quantile have about 2% more 
+chance of declaring the highest level of satisfaction than individuals in the last quantile. 
+Furthermore, we note that the probability of being fully satis is more than 10% lower 
+10 
+
+========11========
+
+in the poor countries in the  3 quantiles than in the richest counties of the last 
+quantile (ure 1 of the appendix plots the marginal e of the estimated quantile 
+coets presented in table 1). 
+These results are consistent with the result in column 4 of table 3, where we imposed 
+a quadratic structure to the estimated model, whose interpolating line reach its peak 
+at about 31K (statistically dit from the upper bound of 64K). Comparing the 1st 
+with the 2nd column of table 3, we note that the relation between life satisfaction and 
+country GDP seems monotonic when we do not include the country speci e this is 
+consistent with the current literature (e.g. Deaton, 2008; Stevenson and Wolfers, 2009). 
+In section A.1 of the appendix, we can observe the country wave combination belonging 
+to the last quantile.11 The hump-shaped relation is robust to the exclusion of Singapore 
+and Luxembourg, as we can see from the 3rd column of table 3. 
+In table 5 we show the estimation results of a more complete speci of model 
+(1). The non monotonic pattern holds when we introduce controls for year e and 
+individual demographic (column 1) and education and employment status (column 2). 
+Note that also the introduction of the personal income (in column 3) does not seem to 
+change qualitatively the non monotonic relation between GDP and life satisfaction. It 
+is therefore arguable that the relation between aggregate incomes and life satisfaction is 
+due to external e In the last main section of the paper we will try to shed some 
+light on the mechanisms generating this pattern. Finally note from the 4th column of 
+table 5 that data are consistent with a quadratic model, where the interpolating line has 
+a maximum at around 30K, similar to the one in column 4 of table 3.12 
+In order to have a better description of the pattern governing the non monotonic 
+11The countries are Australia, Luxembourg, Netherlands, Norway, Singapore, Sweden, Switzerland, UK, US; each represented in one or more waves 
+12We run the same regression (unreported) by using the logarthm of GDP as regressor and we  a (statistically signit) coet of 0.47, close to the 0.5 reported by Sacks, Stevenson and Wolfers (2010) in a regression using a similar econometric model 
+11 
+
+========12========
+
+relation between GDP and life satisfaction, especially in the richest countries, and also to 
+check the robustness of the above results, we estimate model (1) using smaller partitions 
+and hence grouping the data in a larger number of quantiles. In table 6, we show 
+the coets of the 30 quantiles in the baseline speci of model (1) and their 
+con intervals, where errors are clustered at country and wave levels. We can 
+therefore observe their statistical di from 0, the base coet indicating the 
+30th quintile. All coecients between 21st and 28th quantiles are above the one in the 
+30th. Also this pattern seems hump-shaped, with the coet increasing until the 23rd 
+quantile{ corresponding to a GDP interval 25K-26K{ and then decreasing. 
+A hump shaped pattern is also consistent with  1, where we partitioned the 
+country-wave observations in 50 quintiles and we interpolate a cubic line. The quadratic 
+and cubic coets of the interpolating line are both signit at 1 % level and, we 
+can observe a maximum around the 40th quantile, corresponding to a GDP interval 
+28.3K- 2.8.5K. In  2, we display only the coets of the 25 richest quantiles, 
+corresponding to the top 50% GDP, and its quadratic interpolation with the 95 % con- 
+ interval. We observe that the quadratic interpolation features a peak at around 
+the 40th quantile; from a visual inspection of the  we note that a monotonic pattern 
+within the 95 % con interval can be rejected. 
+4 Region Based Analysis 
+We showed that when one controls for country heterogeneity introducing a country spe- 
+ci e life satisfaction is not monotonically increasing with GDP. In order to validate 
+the former result we now analyze the relation between GDP and life satisfaction among 
+more homogeneous territorial units. We restrict our selection to all countries belong- 
+ing to the EU before the enlargement to the eastern European countries, we refer to 
+12 
+
+========13========
+
+this group as EU14 countries (Austria, Belgium, Denmark, Finland, France, Germany, 
+Greece, Italy, Luxembourg, Netherlands, Portugal, Spain, Sweden, United Kingdom), in 
+order to have more variation and observations we consider the data at regional level.13 
+Given the higher level of homogeneity within the group of countries we are considering, 
+we expect that a relation similar to the one we have seen holds for this selection, without 
+controlling for country (or region) e 
+In a similar way as before we group observations in 5 quantiles based on GDP for 
+each region-wave, with about 6,500 observations per quantile in the 5 quantiles. Later we 
+show similar results when we consider a partition in 10 quantiles. The list of region-wave 
+per quantile are presented in section A.2 of the appendix. In table 7 we present the 
+results, with data partitioned in 5 quantiles, as before the last quantile is the base one, 
+and for this reason it has been omitted, given the small amount of observations in several 
+regions we calculated the standard errors by clustering the errors at quantile levels. 
+Column 1 of table 7 shows that life satisfaction invariably increases in the rst 4 
+quintiles and decreases in the last. In this column{ consistently with to the logic of this 
+second test{ we are not controlling for country, or regional heterogeneity. In column 2 
+of table 7 we show that the result is robust to the introduction of country speci e 
+In column 3 we introduce town sizes dummies to control for congestion, employment 
+status, education and year  e Note that the year xed e is a particularly 
+ee control for economic cycles given the high degree of economic integration among 
+the European regions in the sample. Finally, in column 4 of table 7 we observe that 
+the hump-shaped relation between regional GDP and life satisfaction is robust to the 
+introduction of individual income. 
+This non monotonic pattern can be observed from  3 as well. We aggregated all 
+13This information is present in the WVS dataset for European Countries. We could not perform a similar exercise using US observations in the WVS since there is no indication of the state the individual belongs to, and data can only be decomposed in 4 macro-regions. 
+13 
+
+========14========
+
+waves for which the information on the regional residence and the data on the regional 
+GDP are available, i.e. waves 1994-99, 1999-2004, 2005-08. The solid line in both panels 
+of gure 3 represents the Lowess function, which displays for each value of the indepen- 
+dent variable (Regional GDP) a smoothed value of the dependent variable (Average life 
+satisfaction). The dotted lines are the quadratic interpolations. Both the linear and 
+quadratic coecients of the quadratic interpolations are highly signit and consis- 
+tent with a peak internal to the regional GDP intervals. Note that in the panel without 
+outliers, the estimated Lowess function follows close the quadratic interpolation. 
+Figure 3 may suggest that the declining segment of the curve is strongly determined 
+by only two observations, Bruxelles and Paris. We repeated all regressions in table 7 
+excluding these two observations: results are presented in table 8. From column 1 we 
+note that the coet of the 4th quantile dummy is still signitly positive, although 
+smaller in magnitude. Hence the non monotonic relation between regional GDP and life 
+satisfaction is robust to this exclusion. In column 2 to 4 we added some more controls, 
+ similar results (although in one case the coet of the 4th quantiles looses its 
+statistical signi 
+In table 9 we partition the regional data in 10 quantiles to check the robustness of 
+the above results. From column 1 we note that there is an increasing positive e 
+until the 7th quantile then the coets of the quantile dummies decrease. However 
+this is true until the 9th quintile since the coet of the 9th quantile is negative, 
+reversing the decreasing pattern. Column 2 and 3 show that this reversion at the last 
+quantile disappear when we control for either town size or country ect (in the top 
+panel of  3 of the appendix, we display the value of the coet of of the 10 
+quantile dummy relative to the estimation of column 2). We note a pattern that seem 
+monotonically increasing (apart for the exception of the 2nd quantile) until the 7th 
+quantile then it is decreasing. This suggest an hump shaped pattern with a maximum in 
+14 
+
+========15========
+
+the 7th quantile, corresponding to a regional GDP within the interval 30K-33K. Columns 
+4 and 5  show that the hump-shaped pattern is robust to the introduction of a 
+number of individual controls as in the previous table. 
+In order to check how much of the above results are dependent from the outliers we 
+observed in gure 3 , we repeated the analysis above, by excluding the 10th quantile 
+(containing both Paris and Bruxelles) and using the 9th as base level. Results are 
+displayed in table 10 (and in the bottom panel of  3 of the appendix), where we 
+note a similar pattern than in the analysis with all 10 quantiles. A pattern generally 
+increasing in the  7th quantile then decreasing. 
+5 Explaining the non monotonic pattern 
+What is the reason of the hump-shaped relation? It is well known that life satisfaction 
+is increasing in personal income at a decreasing rate (e.g. Blanchwer and Oswald 
+2004). Layard et al. (2008)  that the marginal life satisfaction with respect to 
+income declines at a rate faster than the one implied by a logarithm utility function. 
+This  is substantially supported by Kahneman and Deaton (2010) that, using 
+USA data, argue that the e of income on the emotional dimension of well-being is 
+strictly increasing until an annual income of 75,000 USD, but has no further positive 
+in for higher values. 
+There is however a signicant amount of evidence, mostly aimed at explaining the 
+Easterlin paradox, suggesting that this link is complicated by the existence of other 
+e One potential explanation of the paradox is that individuals adapt over time to 
+new conditions, so the levels of subjective well-being tend to revert to a baseline level 
+which may depend on a reference point, an idea originally proposed by Brickman and 
+Campbell (1971). A natural reference point ia an aspiration level: hence to the extent 
+15 
+
+========16========
+
+that an increase in income leads to an increase in aspirations, changes in income may 
+not have a long-run e on subjective well being. The use of aspiration to describe the 
+relation between income and life satisfaction is also consistent with much of the existing 
+psychological literature on happiness, and it can be linked to the widespread idea that 
+levels of subjective well being tend to revert to baseline levels depending on subjective 
+reference points: Headey et al. (2010) recently reassessed this idea.14 
+A dit explanation of the Easterlin Paradox takes relative rather than absolute 
+income as the relevant concept, an idea that can de dated back to Duesenberry (1949).15 
+Increase in the aggregate GDP is likely to result in an increase in the personal income 
+of the majority of the residents, but it also a individual aspirations and reference 
+income. Therefore the relation between GDP and life satisfaction is possibly determined 
+by dirent e acting in dit directions and there is no reason why the aggregate 
+e should be monotonic. 
+The following simple example can clarify the idea. Assume that individual life sat- 
+isfaction is a increasing and concave function u(yi) of the personal income yi; moreover 
+it also negatively depends on the di between personal income and target level yi, 
+so that life satisfaction = u(yi) 
+ v(yi 
+ yi), where v is an increasing function. The value 
+yi can ret the income of a reference group (i.e. the \Joneses"), or to an aspiration 
+level for individual i. For expositional simplicity, assume that the majority of individuals 
+have the same personal income, and let it be fraction, a  1 of the per capita GDP, y; 
+and they have the same level of aspiration yi = by, with b > 1, so that the target income 
+for most individuals is increasing with the GDP. Therefore, even if the personal income 
+increases with the GDP, the level of life satisfaction can be non monotonic in the GDP, 
+14Recent evidence provided by Benjamin et al. (2011) showed the negative e of high aspiration can also be rationally predicted by individuals that, nevertheless may still choose non-happiness maximizing options compatible with high income aspirations. 
+15See Clark et al. (2008) for an extensive survey of the theoretical and empirical literature explaining the Easterlin Paradox. 
+16 
+
+========17========
+
+y.16 
+To check the existence of this e in our data, in table 12 we estimate a model, 
+based on the EU14 regional data, where life satisfaction depends on the the logarithm of 
+the personal income, the logarithm of the Regional GDP, the di between personal 
+income and regional GDP, as well as other individual and country speci control vari- 
+ables. 
+17 
+In the WVS, data on household income is expressed in 10 or 11 country-speci 
+brackets, we derived the personal income by taking the middle value of each bracket then 
+we transformed the data in 2005 USD PPP adjusted. The summary statistics of the de- 
+rived personal income variable, in 10,000 USD, is presented in table 11. 
+We introduce the di between personal income and regional GDP separately 
+as a positive di (Income 
+ Reg:GDP)+ (equal to 0 if Income < Reg:GDP) and 
+negative di (Reg:GDP 
+ Income)+ (equal to 0 if Income < Reg:GDP). The 
+term (Reg:GDP 
+ Income)+ is a proxy for the di y 
+ y as de above. Given 
+that the median income is generally smaller than the average income, for the majority 
+of the population Income < Reg:GDP. This is consistent with the observations in our 
+sample, where we Income < Reg:GDP for about 61% of the observations. We therefore 
+expect this term being negative with respect to life satisfaction. table 12 con this 
+prediction. We note that life satisfaction is negatively correlated with the di 
+between regional and personal income, when this di is negative. At the same 
+time the positive di does not signitly a life satisfaction. 
+The role of personality traits 
+The asymmetry between positive and negative di suggests an interpretation of the 
+target in terms of prospect theory, where losses have, in absolute terms, a larger impact 
+16Using the simple functional form: 
+u(y) = ln(yi) and v(yi1  yi) = yi  yi. The life satisfaction will be hump shaped with a peak in y = 
+a17  b 
+. 
+Considering the Logarithm of the di does not qualitatively e the result of the estimation. 
+17 
+
+========18========
+
+than gains. In this respect the data in the WVS allows to perform a further test using 
+modern studies on personality theory (see DeYoung C. G., Gray J. R. (2010) for a recent 
+survey). In particular Neuroticism has been recently associated to higher sensitivity to 
+negative emotions like anger, hostility or depression (Clark, L.A., and Watson, D. (2008)) 
+and with structural features of the brain system associated with sensitivity to threat and 
+punishment (DeYoung, C. G., Peterson, J. B., Sguin, J. R., Pihl, R. O., and Tremblay, 
+E. (2008)). Neuroticism also signals low levels of serotonin in turns associated with 
+aggression, poor impulse control, depression, and anxiety (Spoont, M. R. (1992); Depue, 
+R. A. and Collins, P. F. (1999)). For this reason modern studies identify neuroticism 
+with sensitivity to negative outcomes, and more broadly, in terms of prospect theory, loss 
+aversion. Therefore, it is arguable that the elasticity between individual life satisfaction 
+and (Reg:GDP 
+ Income)+ could be modulated by Neuroticism. 
+Measures of personality traits are not available in the WVS, but using the standard 
+procedure of performing factor analysis on all the 20 personality questions { available in 
+the wave 1989-93 of the WVS dataset{, we determine the personality traits neuroticism 
+and extraversion. Details on the way Neuroticism and Extraversion have been generated 
+and the list of the personality questions are presented in the appendix B. The summary 
+statistics of Neuroticism and Extraversion variables are presented in table 11. 
+Table 13 con our prediction that elasticity between individual life satisfaction 
+and (Reg:GDP 
+ Income)+ is modulated by Neuroticism. Neuroticism(Reg:GDP 
+ 
+Income)+ is negative and signit suggesting a stronger negative e of the di 
+Reg.GDP-Income, for more neurotic individuals. Note that our derived personality traits 
+a life satisfaction in a way consistent with dings of the literature using measures of 
+personality derived by surveys: It is a well known  that extraversion is positively 
+correlated with life satisfaction and the opposite is true for neuroticism. 
+18 
+
+========19========
+
+6 Conclusions 
+We have reexamined the relation between life satisfaction and GDP using a methodology 
+that avoids to impose particular functional forms on the model and found robust evidence 
+of the existence of a bliss point in the interval of GDP between 26,000$ and 30,000$ (2005 
+in PPP). This  lends support to the argument the way to reconcile the cross- 
+sectional evidence { showing a positive relation between GDP and life satisfaction, and 
+the times-series evidence { generally  no relationship { is that that the positive 
+e of GDP disappears after a certain bliss point (Layard, 2005; Inglehart, 1990; 
+Inglehart et al., 2008; di Tella et al., 2010). 
+Furthermore, our analysis shows  evidence of a non monotonic relation between 
+GDP and Life Satisfaction, with life satisfaction slightly decreasing after the bliss point. 
+In light of our additional result the non monotonicity of the relation seems natural: with 
+a simple example, we have shown that if the relation between life satisfaction and GDP is 
+the result of combined e of personal income, increasing aspiration and/or increasing 
+target in terms of income comparison, the net e may be non-monotonic. Our tests 
+give support to the idea of a positive e due to the personal income and a negative 
+e due to the negative distance between personal income and regional GDP. 
+Accordingly, we have shown that this second e can be related to the negative e 
+induced by the distance from an aspiration income. Furthermore, using recent  
+of the modern personality theory, we argued that neuroticism might be linked to loss 
+aversion in a prospect theory model. The way the relation between personal income 
+and life satisfaction is a by neuroticism is also consistent with this interpretation. 
+Individual welfare is a by the gap between realized and desired income. When the 
+gap is negative, for lower level of income, extra income decreases in absolute terms this 
+negative gap; therefore individuals with higher neuroticism score, that are more sensitive 
+to reduce negative outcomes, become more satis 
+19 
+
+========20========
+
+7 Tables and Figures 
+Figure 1: E of GDP quantiles on life satisfaction in the 50-quantile parti- tion of all WVS data. Coets of the dummies indicating the dit 50 quantiles derived from the basic ordered probit regression (controlling for the country speci ef- fect). The continuos line is the estimated cubic interpolation: Coefficient =  :51  0:23Quantile + 0:002Quantile2  0:00003Quantile3 with se = [:105;:017;:0008;:00003]. GDP in 10K, 2005 UDS, PPP adjusted 
+0.4	 
+0.2	 
+0	 
+0	 
+5	 
+10	 
+15	 
+20	 
+25	 
+30	 
+35	 
+40	 
+45	 
+50	 
+-0.2	 
+-0.4	 
+-0.6	 
+-0.8	 
+-1	 
+-1.2	 
+-1.4	 
+20 
+
+========21========
+
+Figure 2: E of GDP on life satisfaction the countries above the 25th quan- tile, in the 50-quantile partition . All Data are partitioned in 50 quantiles, ordered by per capita GDP levels. Each circle represents the ordered probit coets of the dummies related to the last 25 quantiles on life satisfaction, controlling for the country speci e The continuous line represents a quadratic interpolation with the 95% con interval. 
+21 
+
+========22========
+
+Figure 3: Average life satisfaction and aggregate Incomes in EU14 Regions. A circle in the scatter plot represents the regional average life satisfaction and aver- age regional GDP. Both variables are averages pooling together the waves 1994-99, 1999-2004 and 2005-08. The weights are the sample sizes for each region. The con- tinuous line represents the Lowess function, the dotted line is the quadratic inter- polation, where data are weighted by the sample size. Equation in the left panel: Av:LifeSat = 5:86 + 0:77GDP  :082GDP2 with se = [:25;:13;:015]. Equation in the right panel Av:LifeSat = 5:41 + 1:06GDP  :12GDP2 with se = [:52;:33;:052] Per capita regional GDP measures are in 10K 2005 USD and are PPP adjusted. 
+22 
+
+========23========
+
+Table 1: WVS dataset waves 1990-2006 EU14, 
+Main Variables 
+Variable Mean Std. Dev. Min. Max. N 
+Life Sastisfaction 7.37 1.934 1 10 56307 
+Reg.GDP 3.056 1.064 1.471 8.446 32275 
+Income Steps 4.848 2.555 1 10 44527 
+Age 44.958 17.34 18 98 56493 
+Male 0.471 0.499 0 1 56629 
+size of town 4.895 2.318 1 9 49197 
+Academic achievement 6.221 2.978 1 10 51946 
+Table 2: WVS dataset waves 1982-2006 All Coun- 
+tries, Main Variables. 
+Variable Mean Std. Dev. Min. Max. N 
+Life Sastisfaction 6.645 2.44 1 10 321152 
+GDP 1.675 1.239 0.027 6.468 311921 
+Income Steps 4.66 2.442 1 11 282271 
+Age 41.835 16.385 18 101 316969 
+Male 0.478 0.499 0 1 321112 
+Academic achievement 6.53 3.034 1 10 246012 
+23 
+
+========24========
+
+Table 3: GDP and life satisfaction in all WVS countries and waves. Ordered Probit Estimation. Dependent variable: life satisfaction. Country data refer to waves 1981-1984, 1989-93, 1994-99, 1999-04, 2005-08. Dummy of the last quantile (the 15th) is omitted. GDP is the per capita GDP in PPP, in 10K, 2005 UDS. Standard errors clustered at country and wave levels (in brackets). The countries excluded in column 3 are Luxembourg and Singapore. 
+All Country All Country with Exclusions All Country 1981-2006 1981-2006 1981-2006 1981-2006 
+b/se b/se b/se b/se 
+GDP 0.6602*** 
+(0.1281) GDP2 {0.1005*** 
+(0.0229) 1st quantile {1.5414*** {0.9139*** {0.6421** 
+(0.2019) (0.1161) (0.2978) 
+2nd quantile {0.9741*** {0.8906*** {0.7692*** 
+(0.1512) (0.1146) (0.1645) 
+3rd quantile {0.9038*** {0.9118*** {0.8437*** 
+(0.1464) (0.1382) (0.1474) 
+4th quantile {0.5146*** {0.8000*** {0.5150*** 
+(0.0991) (0.0897) (0.0983) 
+5th quantile {0.4921*** {0.2881 {0.4852*** 
+(0.1079) (0.2273) (0.1073) 
+6th quantile {0.4249*** {0.7808*** {0.4216*** 
+(0.1023) (0.1054) (0.1013) 
+7th quantile {0.2415** {0.4291*** {0.2389** 
+(0.1035) (0.1062) (0.1026) 
+8th quantile {0.1083 {0.3701*** {0.1051 
+(0.1038) (0.0867) (0.0991) 
+9th quantile {0.0288 {0.3951*** {0.0287 
+(0.0729) (0.1071) (0.0724) 
+10th quantile 0.0169 {0.2857*** 0.0170 
+(0.0502) (0.0669) (0.0500) 
+11th quantile 0.0317 {0.1383* 0.0317 
+(0.0370) (0.0731) (0.0369) 
+12th quantile 0.0844*** {0.0621 0.0842*** 
+(0.0321) (0.0590) (0.0320) 
+13th quantile 0.0389 {0.1952*** 0.0388 
+(0.0306) (0.0648) (0.0305) 
+14th quantile 0.0726** {0.0855 0.0724** 
+(0.0354) (0.0714) (0.0352) 
+Country Et Yes No Yes Yes 
+N 307299 307299 313901 307299 
+24 
+
+========25========
+
+Table 4: Marginal eects of the GDP quantiles on life satisfaction, in the 15- quantile partition of all WVS data 1st column: elasticity of the quantile dummy variables to the probability that satisfaction = 10, the maximum level. 2nd column: elasticity of the quantile dummy variables estimated using a linear model (OLS with country speci e The base level is the last quantile (the 15th), grouping the countries with per capita GDP larger than 36.81K. The coecients are derived from the estimation of the baseline speci of model (1). Errors clustered at country and wave levels. GDP in 10K, 2005 UDS, PPP adjusted 
+Life satisfaction=10 OLS 
+1981-2006 1981-2006 
+b/se b/se 
+1st quantile -0.1229*** {3.6199*** 
+(0.0110) (0.4722) 2nd quantile -0.10534*** {2.3267*** 
+(0.0109) (0.3508) 3rd quantile -0.1027*** {2.1651*** 
+( 0.0114) (0.3379) 4th quantile -0.0725*** {1.2369*** 
+(0.0138) (0.2188) 5th quantile -0.0705*** {1.1868*** 
+(0.0194) (0.2410) 6th quantile -0.0633*** {1.0284*** 
+(0.0163) (0.2261) 7th quantile -0.0395* {0.5903*** 
+(0.1377) (0.2261) 8th quantile -0.0191 {0.2772 
+(0.0170) (0.2128) 9th quantile -0.0053 {0.1297 
+(0.0125) (0.1513) 10th quantile .0032 {0.0200 
+(0.0083) (0.1057) 11th quantile 0.0060* 0.0303 
+(0.0036) (0.0717) 12th quantile 0.0165*** 0.1333** 
+(0.0046) (0.0600) 13th quantile 0.0074** 0.0479 
+(0.0033) (0.0580) 14th quantile 0.0141*** 0.1173* 
+(0.0036) (0.0660) Country Et Yes Yes 
+N 307299 307299 
+25 
+
+========26========
+
+Table 5: GDP and life satisfaction in all WVS countries and waves. Ordered Probit Estimation. Dependent variable: life satisfaction. Country data refer to waves 1981-1984, 1989-93, 1994-99, 1999-04, 2005-08. Dummy of the last quantile (the 15th) is omitted. Emplostat represents dummies variables for: Unemployed, Full time, Part time, Self Employed, Retired, House-Keeper. Education is a series of 10 dummies controlling for dit year of training. GDP is the per capita GDP in PPP, in 10K, 2005 UDS. Standard errors clustered at country and wave level (in brackets). 
+All Country All Country All Country All Country 1981-2006 1981-2006 1981-2006 1981-2006 
+b/se b/se b/se b/se 
+GDP 0.5664*** 
+(0.1317) GDP2 {0.0826*** 
+(0.0212) 7th quantile {0.2512* {0.4715*** {0.1867 
+(0.1434) (0.1297) (0.1651) 
+8th quantile {0.1624 {0.4437*** {0.0062 
+(0.1555) (0.1350) (0.1731) 
+9th quantile {0.0019 {0.1581 0.1027 
+(0.1216) (0.1001) (0.1384) 
+10th quantile 0.0765 0.0877 0.1204 
+(0.0896) (0.0782) (0.0932) 
+11th quantile 0.0916 0.0720 0.1609* 
+(0.0803) (0.0792) (0.0888) 
+12th quantile 0.1032* 0.1010* 0.0921 
+(0.0586) (0.0560) (0.0610) 
+13th quantile 0.0659 0.0519 0.0681 
+(0.0493) (0.0483) (0.0500) 
+14th quantile 0.0880** 0.0915** 0.1083** 
+(0.0432) (0.0409) (0.0478) 
+1st to 7th quantile Yes Yes Yes No 2nd to 11th Income Steps No No Yes No Education No Yes No No Employment status No Yes No No Country Et Yes Yes Yes Yes Year E Yes Yes Yes Yes age, age2, Male Yes Yes Yes Yes 
+N 298479 226419 260393 298479 
+26 
+
+========27========
+
+Table 6: GDP and life satisfaction in all WVS countries and waves. Ordered Probit Estimation in the 30-quantile partition. Dependent variable: life satis- faction. Country data refer to waves 1981-1984, 1989-93, 1994-99, 1999-04, 2005-08. Dummy of the last quantile (the 15th) is omitted. Emplostat represents dummies vari- ables for: Unemployed, Full time, Part time, Self Employed, Retired, House-Keeper. Education is a series of 10 dummies controlling for dit year of training. GDP is the per capita GDP in PPP, in 10K, 2005 UDS. Standard errors clustered at country and wave level (in brackets). 
+All Country All Country All Country All Country 
+1981-2006 1981-2006 1981-2006 1981-2006 
+b/se b/se b/se b/se 15th quantile {0.3024*** {0.2229 {0.6488*** 0.8329*** 
+(0.1048) (0.1726) (0.1722) (0.1437) 16th quantile {0.0075 {0.0438 {0.4098** 1.0151*** 
+(0.1198) (0.1842) (0.1760) (0.1814) 17th quantile {0.0368 {0.0054 {0.2822* 1.0287*** 
+(0.1286) (0.1648) (0.1631) (0.1695) 18th quantile {0.0025 0.0551 {0.1172 1.0786*** 
+(0.0773) (0.1416) (0.1330) (0.1580) 19th quantile 0.0049 0.1003 0.1081 1.1323*** 
+(0.0778) (0.1185) (0.1194) (0.1841) 20th quantile 0.1014 0.1305 0.0860 1.0353*** 
+(0.0749) (0.1095) (0.1005) (0.1857) 21st quantile 0.1369*** 0.2016* 0.1060 1.1982*** 
+(0.0529) (0.1092) (0.1114) (0.1905) 22th quantile 0.0671 0.1076 0.0723 1.0791*** 
+(0.0563) (0.0960) (0.0974) (0.1964) 23rd quantile 0.1804*** 0.1453* 0.1038 1.0372*** 
+(0.0545) (0.0854) (0.0802) (0.2038) 24th quantile 0.1080** 0.1261* 0.0870 1.0313*** 
+(0.0486) (0.0737) (0.0708) (0.2071) 25th quantile 0.1150** 0.0765 0.0388 1.0004*** 
+(0.0454) (0.0680) (0.0670) (0.2097) 26th quantile 0.1044* 0.1063 0.0722 1.0229*** 
+(0.0539) (0.0681) (0.0724) (0.2100) 27th quantile 0.1536** 0.1346** 0.0844 1.0838*** 
+(0.0613) (0.0676) (0.0667) (0.2122) 28th quantile 0.1083** 0.0936 0.0940 1.0459*** 
+(0.0486) (0.0609) (0.0574) (0.2188) 29th quantile 0.0913* 0.0457 0.0266 0.9487*** 
+(0.0524) (0.0609) (0.0574) (0.2222) 1st to 14th quantile Yes Yes No Yes 2nd to 11th Income Steps No No No Yes Education No No Yes No Employment status No No Yes No Country Ect Yes Yes Yes Yes Year E No Yes Yes Yes age, age2, Male Yes Yes Yes Yes 
+N 298479 298479 226419 260393 
+27 
+
+========28========
+
+Table 7: Regional GDP and life satisfaction in EU14 regions Ordered Probit Estimation. Data refer to waves 1994-99, 1999-04, 2005-08. Dummy of the last quantile (the 5th) is omitted. Reg.GDP is the per capita regional GDP in PPP, in 10K, 2005 UDS. Standard errors clustered at quantile level (in brackets). 
+EU14 EU14 EU14 EU14 EU141996-2006 1996-2006 1996-2006 1996-2006 1996-2006 
+b/se b/se b/se b/se b/se 
+Reg.GDP 0.3041*** 
+(0.0335)2 
+Rge.GDP {0.0320*** 
+(0.0037)st 
+1 quantile {0.1366*** {0.0896*** {0.0929*** {0.0502*** 
+(0.0022) (0.0204) (0.0217) (0.0188) 
+2nd quantile {0.1153*** {0.0627*** {0.1682*** {0.1424*** 
+(0.0018) (0.0118) (0.0237) (0.0256) 
+3rd quantile {0.0702*** {0.0093 {0.0785*** {0.0583*** 
+(0.0008) (0.0238) (0.0078) (0.0102) 
+4th quantile 0.0594*** 0.0361*** 0.0733*** 0.1045*** 
+(0.0013) (0.0097) (0.0095) (0.0140) 
+Income Step 2 0.0669* 
+(0.0390) 
+Income Step 3 0.1806*** 
+(0.0391) 
+Income Step 4 0.2944*** 
+(0.0295) 
+Income Step 5 0.3494*** 
+(0.0354) 
+Income Step 6 0.4181*** 
+(0.0377) 
+Income Step 7 0.5705*** 
+(0.0528) 
+Income Step 8 0.5696*** 
+(0.0520) 
+Income Step 9 0.5930*** 
+(0.0473) 
+Income Step 10 0.6697*** 
+(0.0470) 
+Age {0.0080** {0.0185*** {0.0067* 
+(0.0038) (0.0042) (0.0035)2 
+Age 0.0001** 0.0002*** 0.0001** 
+(0.0000) (0.0000) (0.0000) Male {0.0173 {0.0341 {0.0122 
+(0.0229) (0.0234) (0.0164) Education No No Yes Yes No Employment Status No No Yes No No Year E No No Yes No No Town Size No No Yes Yes No Country Et No Yes No No No 
+N 32091 32091 23623 18192 31994 
+28 
+
+========29========
+
+Table 8: Regional GDP and life satisfaction in EU14 regions without Bruxelles and Paris Ordered Probit Estimation. Data refer to waves 1994-99, 1999-04, 2005-08. Dummy of the last quantile (the 5th) is omitted. Reg.GDP is the per capita regional GDP in PPP, in 10K, 2005 UDS. Standard errors clustered at quantile level (in brackets). 
+EU14 EU14 EU14 EU14 EU141996-2006 1996-2006 1996-2006 1996-2006 1996-2006 
+b/se b/se b/se b/se b/se 
+Reg.GDP 0.3344*** 
+(0.1245)2 
+Rge.GDP {0.0362* 
+(0.0195)st 
+1 quantile {0.1732*** {0.1141*** {0.1342*** {0.0878*** 
+(0.0033) (0.0157) (0.0219) (0.0194) 
+2nd quantile {0.1518*** {0.0958*** {0.2118*** {0.1812*** 
+(0.0028) (0.0095) (0.0258) (0.0273) 
+3rd quantile {0.1066*** {0.0403* {0.1205*** {0.0931*** 
+(0.0016) (0.0217) (0.0111) (0.0121) 
+4th quantile 0.0235*** 0.0100 0.0319*** 0.0689*** 
+(0.0011) (0.0070) (0.0108) (0.0136) 
+Income Step 2 0.0579 
+(0.0377) 
+Income Step 3 0.1751*** 
+(0.0394) 
+Income Step 4 0.2805*** 
+(0.0307) 
+Income Step 5 0.3334*** 
+(0.0344) 
+Income Step 6 0.3994*** 
+(0.0447) 
+Income Step 7 0.5544*** 
+(0.0557) 
+Income Step 8 0.5498*** 
+(0.0546) 
+Income Step 9 0.5784*** 
+(0.0478) 
+Income Step 10 0.6424*** 
+(0.0471) 
+Age {0.0075** {0.0175*** {0.0064* 
+(0.0036) (0.0034) (0.0035)2 
+Age 0.0001** 0.0002*** 0.0001* 
+(0.0000) (0.0000) (0.0000) Male {0.0194 {0.0336 {0.0120 
+(0.0231) (0.0245) (0.0169) Education No No Yes Yes No Employment Status No No Yes No No Year E No No Yes No No Town Size No No Yes Yes No Country Et No Yes No No No 
+N 31240 31240 22835 17556 31147 
+29 
+
+========30========
+
+Table 9: Regional GDP and life satisfaction in EU14 regions Regional GDP and life satisfaction in EU14 regions Ordered Probit Estimation. Data refer to waves 1994-99, 1999-04, 2005-08. Dummy of the last quantile (the 10th) is omitted. Reg.GDP is the per capita regional GDP in PPP, in 10K, 2005 UDS. Standard errors clustered at quantile level (in brackets). 
+EU14 EU14 EU14 EU14 EU141996-2006 1996-2006 1996-2006 1996-2006 1996-2006 
+b/se b/se b/se b/se b/se 
+1st quantile {0.2907*** {0.3324*** {0.1042*** {0.1232*** {0.1750*** 
+(0.0044) (0.0240) (0.0272) (0.0328) (0.0513) 2nd quantile {0.0017 {0.0597*** {0.0330 {0.0552* {0.0950*** 
+(0.0011) (0.0192) (0.0231) (0.0284) (0.0291) 3rd quantile {0.1692*** {0.2787*** {0.0852*** {0.1935*** {0.1909*** 
+(0.0028) (0.0255) (0.0150) (0.0336) (0.0435) 4th quantile {0.0930*** {0.1388*** {0.0136 {0.1327*** {0.1065*** 
+(0.0015) (0.0224) (0.0132) (0.0312) (0.0348) 5th quantile {0.1042*** {0.1090*** {0.0332* {0.0754*** {0.0784*** 
+(0.0016) (0.0148) (0.0184) (0.0160) (0.0244) 6th quantile {0.0679*** {0.0614*** 0.0495* {0.0638*** {0.0794*** 
+(0.0010) (0.0093) (0.0298) (0.0098) (0.0177) 7th quantile 0.0704*** 0.0567*** 0.0384*** 0.0958*** 0.0615** 
+(0.0007) (0.0161) (0.0135) (0.0192) (0.0251) 8th quantile 0.0177*** 0.0259* 0.0566*** 0.0694*** 0.0993*** 
+(0.0007) (0.0156) (0.0217) (0.0213) (0.0232) 
+9th quantile {0.0300*** {0.0070 0.0229 0.0168 {0.0423 
+(0.0014) (0.0140) (0.0167) (0.0202) (0.0264) Age {0.0080*** {0.0175*** 
+(0.0029) (0.0030)2 
+Age 0.0001*** 0.0002*** 
+(0.0000) (0.0000) Male {0.0182 {0.0220 
+(0.0239) (0.0260) Education No No No Yes No Employment Status No No No Yes No Year E No No No Yes Yes Town Size No Yes No Yes Yes Income steps 2 to 10 No No No No Yes Country Et No No Yes No No 
+N 32091 26781 32091 23623 20401 
+30 
+
+========31========
+
+Table 10: Regional GDP and life satisfaction in EU14 regions without regions in the 10th quantile Ordered Probit Estimation. Data refer to waves 1994-99, 1999-04, 2005-08. Dummy of the last quantile (the 10th) is omitted. Reg.GDP is the per capita regional GDP in PPP, in 10K, 2005 UDS. Standard errors clustered at quantile level (in brackets). 
+EU14 EU14 EU14 EU14 EU141996-2006 1996-2006 1996-2006 1996-2006 1996-2006 
+b/se b/se b/se b/se b/se 
+1st quantile {0.2607*** {0.3273*** {0.1226*** {0.1429*** {0.1400*** 
+(0.0042) (0.0118) (0.0130) (0.0179) (0.0293) 2nd quantile 0.0274*** {0.0541*** {0.0557*** {0.0752*** {0.0593*** 
+(0.0021) (0.0078) (0.0149) (0.0159) (0.0093) 3rd quantile {0.1396*** {0.2738*** {0.1170*** {0.2113*** {0.1487*** 
+(0.0027) (0.0131) (0.0127) (0.0209) (0.0254) 4th quantile {0.0636*** {0.1343*** {0.0444*** {0.1544*** {0.0684*** 
+(0.0018) (0.0094) (0.0159) (0.0156) (0.0111) 5th quantile {0.0747*** {0.1025*** {0.0644*** {0.0919*** {0.0335** 
+(0.0017) (0.0038) (0.0176) (0.0135) (0.0144) 6th quantile {0.0386*** {0.0539*** 0.0190 {0.0812*** {0.0365** 
+(0.0015) (0.0056) (0.0241) (0.0142) (0.0142) 7th quantile 0.0997*** 0.0619*** 0.0150 0.0773*** 0.1028*** 
+(0.0020) (0.0040) (0.0104) (0.0092) (0.0110) 
+8th quantile 0.0471*** 0.0321*** 0.0367*** 0.0508*** 0.1386*** 
+(0.0017) (0.0034) (0.0111) (0.0102) (0.0085) Age {0.0063** {0.0160*** 
+(0.0026) (0.0028)2 
+Age 0.0001*** 0.0002*** 
+(0.0000) (0.0000) Male {0.0237 {0.0220 
+(0.0262) (0.0289) Education No No No Yes No Employment Status No No No Yes No Year E No No No Yes Yes Town Size No Yes No Yes Yes Income steps 2 to 10 No No No No Yes Country Et No No Yes No No 
+N 29104 24331 29104 21325 18396 
+31 
+
+========32========
+
+Table 11: WVS dataset waves 1982-2006 EU14, Derived 
+Variables 
+Variable Mean Std. Dev. Min. Max. N 
+Log Personal Income 0.367 0.940 -2.774 3.192 32339 
+Personal Income 2.129 1.948 0.062 24.341 32339 
+Neuroticism 0 0.792 -1.165 2.639 19694 
+Extraversion 0 0.861 -2.184 2.312 19694 
+32 
+
+========33========
+
+Table 12: Individual Income, per capita GDP and life satisfaction in EU14, Ordered Probit Estimation. Dependent variable is Individual life satisfaction; data refer to waves 1994-99, 1999-04, 2005-08, Townsize includes dummy variables controlling for 8 dit town sizes. Per capita regional GDP and personal income is in 10K 2005 USD and is PPP adjusted. (Income  Reg:GDP)+ is set to 0 if Income < Reg:GDP, and (Reg:GDP  Income)+ is set to 0 if Income < Reg:GDP. Errors are clustered at regional level (std errors in brackets) 
+EU14 EU14 EU14 EU14 1996-2006 1996-2006 1996-2006 1996-2006 
+b/se b/se b/se b/se 
+ln(Income) 0.1908*** 0.2379*** 0.1678*** 0.1293*** 
+(0.0421) (0.0282) (0.0379) (0.0482) ln(Reg.GDP) 0.1390* {0.0067 0.1719** 0.5141*** 
+(0.0831) (0.0660) (0.0820) (0.1284) (Income  Reg:GDP)+ {0.0093 0.0082 
+(0.0102) (0.0142) (Reg:GDP  Income)+ {0.0508** {0.0600** {0.1355*** 
+(0.0246) (0.0239) (0.0316) Dummy(Income  Reg.GDP) 0.0128 0.0061 0.0087 {0.0007 
+(0.0300) (0.0310) (0.0299) (0.0341) Age {0.0195*** {0.0188*** {0.0194*** {0.0170*** 
+(0.0035) (0.0035) (0.0035) (0.0055) Age2 0.0002*** 0.0002*** 0.0002*** 0.0002*** 
+(0.0000) (0.0000) (0.0000) (0.0001) Male {0.0247 {0.0232 {0.0246 {0.0469** 
+(0.0157) (0.0156) (0.0157) (0.0184) Unemployed {0.5258*** {0.5324*** {0.5265*** 
+(0.0588) (0.0583) (0.0587) 
+Country Et Yes Yes Yes No Town Size Yes Yes Yes No 
+N 15585 15585 15585 17392 
+33 
+
+========34========
+
+Table 13: Individual Income, per capita GDP and life satisfaction in EU14, Ordered Probit Estimation. Dependent variable is Individual life satisfaction; data refer to wave 1996-06, Townsize includes dummy variables controlling for 8 dit town sizes. Per capita regional GDP and personal income is in 10K 2005 USD and is PPP adjusted. (Income  Reg:GDP)+ is set to 0 if Income < Reg:GDP, and (Reg:GDP  Income)+ is set to 0 if Income < Reg:GDP. Errors are clustered at regional level (std errors in brackets) 
+EU14 EU14 EU14 EU14 1989-93 1989-93 1989-93 1989-93 
+b/se b/se b/se b/se 
+ln(Income) 0.0773 0.0685 0.0643 0.0549 
+(0.0576) (0.0556) (0.0536) (0.0507) ln(Reg.GDP) 0.3426* {0.0045 0.3198 {0.0349 
+(0.1997) (0.1881) (0.2040) (0.1933) (Reg:GDP  Income)+ {0.1259*** {0.0424 {0.1455*** {0.0652 
+(0.0470) (0.0453) (0.0419) (0.0401) Neurot*(Reg:GDP  Income)+ {0.0320** {0.0321** {0.0355** {0.0360** 
+(0.0147) (0.0143) (0.0150) (0.0149) Extr*(Reg:GDP  Income)+ 0.0020 {0.0018 
+(0.0145) (0.0146) Dummy(Income  Reg.GDP) {0.1736* {0.1450* {0.2186** {0.1978** 
+(0.0898) (0.0815) (0.0876) (0.0792) Neuroticism {0.4094*** {0.4302*** {0.4016*** {0.4211*** 
+(0.0463) (0.0462) (0.0471) (0.0477) Extraversion 0.2834*** 0.2886*** 
+(0.0411) (0.0415) Age {0.0118*** {0.0089*** {0.0115*** {0.0087** 
+(0.0033) (0.0034) (0.0034) (0.0034) Age2 0.0001*** 0.0001*** 0.0001*** 0.0001*** 
+(0.0000) (0.0000) (0.0000) (0.0000) Male {0.0657*** {0.0900*** {0.0664*** {0.0905*** 
+(0.0206) (0.0209) (0.0208) (0.0211) Unemployed {0.4358*** {0.3989*** {0.4415*** {0.4077*** 
+(0.0440) (0.0430) (0.0433) (0.0421) Town Size Yes Yes No No 
+N 10492 10492 10521 10521 
+34 
+
+========35========
+
+References 
+[1] Benjamin, D. J., O. He M. S. Kimball, and A. Rees-Jones. "What Do You Think 
+Would Make You Happier? What Do You Think You Would Choose?" (forthcom- 
+ing) American Economic Review. 
+[2] Blanchwer, D. G. and Oswald, A.J. (2004). \Well-Being over Time in Britain and 
+the USA", Journal of Public Economics, 88, 1359{1386. 
+[3] Bonsang, E. and Van Soest, A. (2010). \Satisfaction with job and income among 
+older individuals across european countries", Social Indicators Research, 105, 227{ 
+254. 
+[4] Brickman, P.D., Campbell, D.T. (1971). Adaptation Level Theory, ed: Appley MH 
+(Academic, New York), pp 287{302. 
+[5] Caplin, A. and Dean, M. (2008). \Dopamine, Reward Prediction Error, and Eco- 
+nomics", Quarterly Journal of Economics, Vol. 123, No. 2, Pages 663-701. 
+[6] Cavapozzi, D., Corazzini, L. and Paccagnella, O. (2009), \Danes and Italians rate 
+life satisfaction in the same way? Using vignettes to correct for individual-speci 
+scale biases", Padova university mimeo 
+[7] Clark A. E., Etil, F., Postel-Vinay, F., Senik, C. and Van der Straeten, K. (2005). 
+Heterogeneity in Reported Well-Being: Evidence from Twelve european Countries, 
+Economic Journal, 115: C118{C132 
+[8] Clark, A. E. and Oswald, A.J. (1996). \Satisfaction and Comparison Income". Jour- 
+nal of Public Economics, 61, 359{381. 
+35 
+
+========36========
+
+[9] Clark L.A. and Watson D. (2008). "Temperament: An organizing paradigm for trait 
+psychology.\ In O.P. John, R.W. Robins, and L.A. Pervin (Eds.), it Handbook of 
+personality: Theory and research (pp. 265{286). New York: Guilford Press. 
+[10] Deaton, A. (2008). \Income, Health and Well-Being around the World: Evidence 
+from the Gallup World Poll". Journal of Economic Perspectives 22, 53-72. 
+[11] DeYoung, C. G., Gray, J. R. (2010). \Personality Neuroscience: Explaining Indi- 
+vidual Di in A Behavior, and Cognition", in P. J. Corr and Matthews 
+(Eds.), The Cambridge handbook of personality psychology, New York: Cambridge 
+University Press. 
+[12] DeYoung, C. G., Peterson, J. B., Sguin, J. R., Pihl, R. O., and Tremblay, E. (2008). 
+\Externalizing behavior and the higher-order factors of the Big Five", Journal of 
+Abnormal Psychology, 117, 947{953. 
+[13] Depue, R. A. and Collins, P. F. (1999). \Neurobiology of the structure of personality: 
+Dopamine, facilitation of incentive motivation, and extraversion". Behavioral and 
+Brain Sciences, 22, 491{569. 
+[14] Diener, Ed., Diener, M. and Diener, C. (1995). \Factors Predicting the Subjective 
+Well-Being of Nations". Journal of Personality and Social Psychology, 69, 851{864. 
+[15] DiTella R., MacCulloch R.J., Oswald A.J. (2001). \Preferences over in and 
+unemployment: Evidence from surveys of happiness",American Economic Review, 
+91:335{341. 
+[16] Di Tella, R., and MacCulloch, R. (2010). \Happiness Adaptation to Income Beyond 
+\Basic Needs". In E. Diener, J. Helliwell, and D. Kahneman (Eds.), International 
+Diences in Well-Being. Oxford: Oxford University Press 
+36 
+
+========37========
+
+[17] Duesenberry, J. S. (1949). Income, Saving, and the Theory of Consumer Behavior. 
+Cambridge and London: Harvard University Press. 
+[18] Easterlin, R. A. (1974). \Does Economic Growth Improve the Human Lot? Some 
+Empirical Evidence". In Nations and Households in Economic Growth: Essays in 
+Honor of Moses Abramovitz, ed. R. David and M. Reder. New York: Academic 
+Press, 89-125. 
+[19] Easterlin, R. A. (1995). \Will Raising the Incomes of All Increase the Happiness of 
+All?", Journal of Economic Behavior and Organization, 27, 35{47. 
+[20] Easterlin, R. A. (2005). \Feeding the Illusion of Growth and Happiness: A Reply 
+to Hagerty and Veenhoven", Social Indicators Research, 74, 429{443. 
+[21] Easterlin, R. A. (2005). \A Puzzle for Adaptive Theory". Journal of Economic 
+Behavior and Organization, 56(4): 513{521. 
+[22] Easterlin, R. A. , McVey, L.A., Switek, M., Sawangfa, O., Zweig, J.S. (2010). \The 
+happiness-income paradox revisited", ceedings of the National Academy of Sci- 
+ences, USA. 2010 Dec 28; 107(52): 22463{22468. 
+[23] Holland, P. W., and Wainer, H. (1993). Diential Item Functioning. Hillsdale, NJ: 
+Erlbaum. 
+[24] Headey, B., R. Mu and G. G. Wagner (2010). \Long-running German panel 
+survey shows that personal and economic choices, not just genes, matter for happi- 
+ness".Proceedings of the National Academy of Sciences, October 19, 2010 vol. 107 
+no. 42 17922{17926 
+[25] Inglehart, R. (1990). Cultural Shift in Advanced Industrial Society. Princeton: 
+Princeton University Press. 
+37 
+
+========38========
+
+[26] Kahneman, D. and Deaton, A., (2010). \High income improves evaluation of life but 
+not emotional well-being", Proceedings of the National Academy of Sciences, 107, 
+16489{16493. 
+[27] Layard, R. (2005). Happiness: Lessons from a New Science. London: Penguin. 
+[28] Layard, R., Mayraz, G. and Nickell, S., (2008). \The marginal utility of in- 
+come",Journal of Public Economics, vol. 92(8-9), 1846{1857, August. 
+[29] Luttmer, E., (2005). \Neighbors as Negatives: Relative Earnings and Well-Being", 
+Quarterly Journal of Economics, 120(3), 963{1002, August. 
+[30] McBride, M. (2006). \Money, Happiness, and Aspiration Formation: An Experi- 
+mental Study". Unpublished. 
+[31] Michaelson, J., Abdallah, S., Steuer, N., Thompson, S. and Marks, N. (2008). \Na- 
+tional accounts of well-being: bringing real wealth onto the balance sheet". London: 
+NEF. 
+[32] Oswald, A. (1997). \Happiness and Economic Performance", Economic Journal, 
+107, 1815-1831. 
+[33] Oswald, A.J., Wu, S. (2010), Objective con of subjective measures of hu- 
+man well-being: Evidence from the USA. Science, 327, 576-579. 
+[34] Senik, C. (2009). \Direct Evidence on Income Comparison and their Welfare Ef- 
+fects", Journal of Economic Behavior and Organization, 2009, 72, 408{424. 
+[35] Spoont, M. R. (1992). \Modulatory role of serotonin in neural information process- 
+ing: Implications for human psychopathology". Psychological Bulletin, 112, 330-350. 
+38 
+
+========39========
+
+[36] Sacks, D. W., Stevenson, B. and Wolfers, J. (2010). \Subjective Well-Being, In- 
+come, Economic Development and Growth". Development Challenges in a Post- 
+Crisis World, forthcoming. 
+[37] Stevenson, B., and Wolfers, J. (2008). \Economic Growth and Subjective Well- 
+Being: Reassessing the Easterlin Paradox". Brookings Papers on Economic Activity, 
+1, 1{87. 
+[38] Stiglitz, J.E., Sen, A., Fitoussi, J-P., (2009), Report of the commission on the 
+measurement of economic performance and social progress. CMEPSP (www.stiglitz- 
+sen- 
+[39] Stutzer, A. (2004). \The Role of Income Aspirations in Individual Happiness". Jour- 
+nal of Economic Behavior and Organization, 54(1): 89{109. 
+[40] Waldron, S. (2010) \Measuring Subjective Wellbeing in the UK", O for National 
+Statistics working papers. 
+39 
+
+========40========
+
+A Appendix 
+A.1 Countries’ 15 Quantiles Partition 
+Table 1: Country/Wave in the 1st Quantile 
+wave 
+1994-1999 1999-2004 2005-2007 Total Bangladesh 0 1,488 0 1,488 Burkina Faso 0 0 1,470 1,470 Ethiopia 0 0 1,434 1,434 Ghana 0 0 1,477 1,477 India 2,040 0 0 2,040 Kyrgyz Republic 0 1,043 0 1,043 Mali 0 0 1,487 1,487 Moldova 984 0 0 984 Nigeria 1,996 2,022 0 4,018 Rwanda 0 0 1,441 1,441 Tanzania 0 1,157 0 1,157 Uganda 0 1,002 0 1,002 Zambia 0 0 1,377 1,377 Zimbabwe 0 1,002 0 1,002 Total 5,020 7,714 8,686 21,420 
+Table 2: Country/Wave in the 2nd Quantile 
+wave 
+1994-1999 1999-2004 2005-2007 Total Armenia 1,831 0 0 1,831 Azerbaijan 1,944 0 0 1,944 China 1,500 0 0 1,500 Georgia 1,924 0 0 1,924 India 0 2,002 2,001 4,003 Indonesia 0 996 0 996 Moldova 0 1,008 1,046 2,054 Pakistan 0 2,000 0 2,000 Philippines 1,200 1,200 0 2,400 Vietnam 0 1,000 1,495 2,495 Total 8,399 8,206 4,542 21,147 
+1 
+
+========41========
+
+Table 3: Country/Wave in the 3rd Quantile 
+wave 
+1994-1999 1999-2004 2005-2007 Total Albania 996 1,000 0 1,996 Belarus 2,092 0 0 2,092 Bosnia and Herzegovina 1,200 1,200 0 2,400 China 0 1,000 0 1,000 Georgia 0 0 1,500 1,500 Guatemala 0 0 1,000 1,000 Indonesia 0 0 1,961 1,961 Jordan 0 1,223 1,200 2,423 Morocco 0 2,264 1,200 3,464 Ukraine 2,811 1,195 0 4,006 Total 7,099 7,882 6,861 21,842 
+Table 4: Country/Wave in the 4th Quantile 
+wave 
+1981-1984 1989-1993 1994-1999 1999-2004 2005-2007 Total Algeria 0 0 0 1,282 0 1,282 Belarus 0 0 0 1,000 0 1,000 Bulgaria 0 0 1,042 999 0 2,041 China 0 0 0 0 2,015 2,015 Egypt, Arab Rep. 0 0 0 0 3,051 3,051 El Salvador 0 0 1,254 0 0 1,254 Korea, Rep. 970 0 0 0 0 970 Latvia 0 0 1,200 0 0 1,200 Macedonia, FYR 0 0 995 0 0 995 Peru 0 0 1,211 1,501 0 2,712 Romania 0 1,103 1,239 1,146 0 3,488 Ukraine 0 0 0 0 1,000 1,000 Total 970 1,103 6,941 5,928 6,066 21,008 
+2 
+
+========42========
+
+Table 5: Country/Wave in the 5th Quantile 
+wave 
+1989-1993 1994-1999 1999-2004 2005-2007 Total Belarus 1,015 0 0 0 1,015 Brazil 1,782 0 0 0 1,782 Bulgaria 1,034 0 0 0 1,034 Colombia 0 6,003 0 3,025 9,028 Latvia 0 0 1,013 0 1,013 Macedonia, FYR 0 0 1,055 0 1,055 Montenegro 0 0 1,060 0 1,060 Serbia 0 1,279 1,200 0 2,479 South Africa 0 2,785 0 0 2,785 Thailand 0 0 0 1,533 1,533 Total 3,831 10,067 4,328 4,558 22,784 
+Table 6: Country/Wave in the 6th Quantile 
+wave 
+1981-1984 1989-1993 1994-1999 1999-2004 2005-2007 Total Brazil 0 0 1,149 0 0 1,149 Estonia 0 0 1,021 0 0 1,021 Iran, Islamic Rep. 0 0 0 2,406 0 2,406 Lithuania 0 0 1,009 1,018 0 2,027 Peru 0 0 0 0 1,500 1,500 Poland 0 982 0 0 0 982 Russian Federation 0 0 2,040 2,500 0 4,540 South Africa 1,596 0 0 2,828 0 4,424 Turkey 0 1,030 0 4,607 0 5,637 Total 1,596 2,012 5,219 13,359 1,500 23,686 
+3 
+
+========43========
+
+Table 7: Country/Wave in the 7th Quantile 
+wave 
+1981-1984 1989-1993 1994-1999 1999-2004 2005-2007 Total Brazil 0 0 0 0 1,500 1,500 Bulgaria 0 0 0 0 1,001 1,001 Estonia 0 0 0 1,005 0 1,005 Latvia 0 894 0 0 0 894 Malta 467 0 0 0 0 467 Romania 0 0 0 0 1,776 1,776 Serbia 0 0 0 0 1,220 1,220 South Africa 0 0 0 0 2,821 2,821 Turkey 0 0 1,881 0 0 1,881 Uruguay 0 0 1,000 0 1,000 2,000 Venezuela, RB 0 0 1,200 1,200 0 2,400 Total 467 894 4,081 2,205 9,318 16,965 
+Table 8: Country/Wave in the 8th Quantile 
+wave 
+1981-1984 1989-1993 1994-1999 1999-2004 2005-2007 Total Argentina 0 0 0 1,280 1,002 2,282 Chile 0 0 0 1,200 0 1,200 Croatia 0 0 1,196 1,003 0 2,199 Estonia 0 966 0 0 0 966 Hungary 1,464 999 0 0 0 2,463 Iran, Islamic Rep. 0 0 0 0 2,656 2,656 Korea, Rep. 0 1,251 0 0 0 1,251 Lithuania 0 956 0 0 0 956 Mexico 1,837 0 2,313 0 0 4,150 Poland 0 0 1,153 1,095 0 2,248 Slovak Republic 0 1,135 0 0 0 1,135 Total 3,301 5,307 4,662 4,578 3,658 21,506 
+4 
+
+========44========
+
+Table 9: Country/Wave in the 9th Quantile 
+wave 
+1981-1984 1989-1993 1994-1999 1999-2004 2005-2007 Total Chile 0 0 0 0 1,000 1,000 Czech Republic 0 2,109 0 0 0 2,109 Hungary 0 0 650 1,000 0 1,650 Ireland 1,217 0 0 0 0 1,217 Malaysia 0 0 0 0 1,068 1,068 Malta 0 383 0 0 0 383 Mexico 0 0 0 1,535 1,560 3,095 Poland 0 0 0 0 1,000 1,000 Russian Federation 0 1,961 0 0 1,935 3,896 Slovak Republic 0 466 1,095 1,331 0 2,892 Slovenia 0 1,017 0 0 0 1,017 Spain 2,302 0 0 0 0 2,302 Turkey 0 0 0 0 1,346 1,346 Total 3,519 5,936 1,745 3,866 7,909 22,975 
+Table 10: Country/Wave in the 10th Quantile 
+wave 
+1981-1984 1989-1993 1994-1999 1999-2004 Total Czech Republic 0 924 1,147 1,907 3,978 Finland 1,003 0 0 0 1,003 Ireland 0 1,000 0 0 1,000 Italy 1,345 0 0 0 1,345 Japan 1,204 0 0 0 1,204 Korea, Rep. 0 0 1,247 1,200 2,447 Malta 0 0 0 1,000 1,000 Portugal 0 1,185 0 1,000 2,185 Slovenia 0 0 1,007 1,006 2,013 Spain 0 4,147 0 0 4,147 United Kingdom 1,167 0 0 0 1,167 Total 4,719 7,256 3,401 6,113 21,489 
+5 
+
+========45========
+
+Table 11: Country/Wave in the 11th Quantile 
+wave 
+1981-1984 1994-1999 1999-2004 2005-2007 Total Australia 1,157 0 0 0 1,157 Belgium 1,138 0 0 0 1,138 Canada 1,254 0 0 0 1,254 Denmark 1,182 0 0 0 1,182 Finland 0 981 0 0 981 France 1,198 0 0 0 1,198 Germany 1,303 0 0 0 1,303 Greece 0 0 1,142 0 1,142 Iceland 927 0 0 0 927 Israel 0 0 1,199 0 1,199 Korea, Rep. 0 0 0 1,200 1,200 Netherlands 1,221 0 0 0 1,221 New Zealand 0 1,201 0 0 1,201 Saudi Arabia 0 0 1,427 0 1,427 Spain 0 1,211 0 0 1,211 Sweden 954 0 0 0 954 Trinidad and Tobago 0 0 0 1,002 1,002 Total 10,334 3,393 3,768 2,202 19,697 
+Table 12: Country/Wave in the 12th Quantile 
+wave 
+1981-1984 1989-1993 1994-1999 1999-2004 2005-2007 Total Austria 0 1,460 0 0 0 1,460 Belgium 0 2,790 0 0 0 2,790 Cyprus 0 0 0 0 1,049 1,049 Denmark 0 1,030 0 0 0 1,030 Finland 0 588 0 0 0 588 France 0 1,002 0 0 0 1,002 Iceland 0 702 0 0 0 702 Italy 0 2,018 0 0 0 2,018 New Zealand 0 0 0 0 954 954 Slovenia 0 0 0 0 1,037 1,037 Spain 0 0 0 2,409 0 2,409 Sweden 0 1,047 1,009 0 0 2,056 United Kingdom 0 1,484 0 0 0 1,484 United States 2,325 0 0 0 0 2,325 Total 2,325 12,121 1,009 2,409 3,040 20,904 
+6 
+
+========46========
+
+Table 13: Country/Wave in the 13th Quantile 
+wave 
+1981-1984 1989-1993 1994-1999 1999-2004 2005-2007 Total Australia 0 0 1,945 0 0 1,945 Canada 0 1,730 0 0 0 1,730 Finland 0 0 0 1,036 0 1,036 France 0 0 0 1,615 0 1,615 Germany 0 3,437 2,026 0 0 5,463 Italy 0 0 0 2,000 1,012 3,012 Japan 0 1,011 1,054 0 0 2,065 Netherlands 0 1,017 0 0 0 1,017 Norway 1,031 0 0 0 0 1,031 Sweden 0 0 0 1,015 0 1,015 United Kingdom 0 0 1,051 0 0 1,051 Total 1,031 7,195 6,076 5,666 1,012 20,980 
+Table 14: Country/Wave in the 14th Quantile 
+wave 
+1989-1993 1994-1999 1999-2004 2005-2007 Total Austria 0 0 1,522 0 1,522 Belgium 0 0 1,906 0 1,906 Denmark 0 0 1,023 0 1,023 Finland 0 0 0 1,013 1,013 France 0 0 0 1,001 1,001 Germany 0 0 2,036 2,064 4,100 Iceland 0 0 968 0 968 Ireland 0 0 1,012 0 1,012 Japan 0 0 1,362 1,096 2,458 Norway 1,239 0 0 0 1,239 Spain 0 0 0 1,200 1,200 Switzerland 0 1,212 0 0 1,212 United Kingdom 0 0 998 0 998 United States 1,838 0 0 0 1,838 Total 3,077 1,212 10,827 6,374 21,490 
+7 
+
+========47========
+
+Table 15: Country/Wave in the 15th Quantile 
+wave 
+1989-1993 1994-1999 1999-2004 2005-2007 Total Australia 0 0 0 1,421 1,421 Canada 0 0 1,931 2,148 4,079 Luxembourg 0 0 1,161 0 1,161 Netherlands 0 0 1,003 1,002 2,005 Norway 0 1,127 0 1,025 2,152 Singapore 0 0 1,300 0 1,300 Sweden 0 0 0 1,003 1,003 Switzerland 1,400 0 0 1,241 2,641 United Kingdom 0 0 0 1,011 1,011 United States 0 1,542 1,200 1,249 3,991 Total 1,400 2,669 6,595 10,100 20,764 
+8 
+
+========48========
+
+A.2 Regions’ 5 Quantiles Partition 
+Table 16: Region/Wave in the 1st Quantile 
+wave 
+1994-1999 1999-2004 2005-2007 Total Aitoloakarnania 0 20 0 20 Alentejo 0 55 0 55 Andalucia 214 432 0 646 Argolida 0 5 0 5 Asturias 34 0 0 34 Brandenburg 173 170 0 343 Calabria 0 66 25 91 Campania 0 185 102 287 Cantabria 51 0 0 51 Castilla-la Mancha 77 103 0 180 Centro (PT) 0 185 0 185 Chios 0 10 0 10 Etel-Karjala 58 0 0 58 Etel-Pohjanmaa 0 54 0 54 Etel-Savo 35 33 0 68 Evvoia 0 36 0 36 Extremadura 33 64 27 124 Galicia 86 170 0 256 
+9 
+
+========49========
+
+Table 17: Region/Wave in the 1st Quantile cont’d 
+wave 
+1994-1999 1999-2004 2005-2007 Total Kainuu 0 21 0 21 Kanta-Hme 141 0 0 141 Karditsa 0 26 0 26 Kerkyra 0 15 0 15 Keski-Suomi 48 0 0 48 Lakonia 0 12 0 12 Lappi 49 0 0 49 Larisa 0 5 0 5 Luxembourg (Grand-Duch) 0 1,161 0 1,161 Magnisia 0 27 0 27 Messinia 0 2 0 2 Murcia 33 0 0 33 Norte 0 355 0 355 Northern Ireland 64 0 0 64 Pohjois-Karjala 36 45 0 81 Pohjois-Pohjanmaa 100 0 0 100 Pohjois-Savo 54 0 0 54 Puglia 0 136 71 207 Sachsen 296 290 0 586 Sachsen-Anhalt 169 175 0 344 Sicilia 0 168 88 256 Thessalia 0 1 0 1 Thringen 162 155 0 317 Trikala 0 40 0 40 Wales 43 0 0 43 Total 1,956 4,222 313 6,491 
+10 
+
+========50========
+
+Table 18: Region/Wave in the 2nd Quantile 
+wave 
+1994-1999 1999-2004 2005-2007 Total Abruzzo 0 0 16 16 Algarve 0 40 0 40 Andalucia 0 0 209 209 Arkadia 0 4 0 4 Asturias 0 68 33 101 Basilicata 0 21 11 32 Berlin 123 0 0 123 Brandenburg 0 0 200 200 Burgenland (A) 0 65 0 65 Canarias (ES) 191 97 51 339 Cantabria 0 32 0 32 Castilla y Len 16 151 0 167 Castilla-la Mancha 0 0 49 49 Chania 0 7 0 7 Comunidad Valenciana 122 244 124 490 East Midlands (ENGLAND) 74 0 0 74 Eastern 40 0 0 40 Etel-Pohjanmaa 0 0 64 64 Etel-Savo 0 0 36 36 Flevoland 0 17 0 17 Fthiotida 0 5 0 5 Galicia 0 0 84 84 Kainuu 0 0 11 11 Kanta-Hme 0 68 40 108 Keski-Pohjanmaa 0 11 0 11 Keski-Suomi 0 62 0 62 Kriti 0 15 0 15 La Rioja 8 0 0 8 Lappi 0 22 0 22 Molise 0 29 13 42 Murcia 0 66 35 101 Mditerrane 0 235 0 235 Niedersachsen 104 0 0 104 Nord 0 84 0 84 North East (ENGLAND) 0 56 0 56 North West (ENGLAND) 108 0 0 108 
+11 
+
+========51========
+
+Table 19: Region/Wave in the 2nd Quantile Cont’d 
+wave 
+Ouest 0 201 0 201 Pohjanmaa 55 0 0 55 Pohjois-Karjala 0 0 32 32 Pohjois-Pohjanmaa 0 79 0 79 Pohjois-Savo 0 55 58 113 Prov. Hainaut 0 265 0 265 Prov. Lige 0 177 0 177 Prov. Luxembourg (B) 0 44 0 44 Prov. Namur 0 61 0 61 Pijt-Hme 0 33 37 70 Rheinland-Pfalz 60 0 0 60 Saarland 18 0 0 18 Sachsen 0 0 315 315 Sachsen-Anhalt 0 0 176 176 Sardegna 0 57 30 87 Satakunta 0 61 0 61 Schleswig-Holstein 41 0 0 41 Scotland 111 0 0 111 Sjlland 0 164 0 164 South East 203 0 0 203 South West (ENGLAND) 100 0 0 100 Sud-Ouest 0 163 0 163 Thringen 0 0 179 179 Varsinais-Suomi 174 0 0 174 Wales 0 59 50 109 West Midlands (ENGLAND) 105 0 0 105 Yorkshire and The Humber 92 0 0 92 Zaragoza 37 0 0 37 Total 1,782 2,818 1,853 6,453 
+12 
+
+========52========
+
+Table 20: Region/Wave in the 3rd Quantile 
+wave 
+1994-1999 1999-2004 2005-2007 Total Abruzzo 0 29 0 29 Attiki 0 868 0 868 Baden-Wrttemberg 160 0 0 160 Bassin Parisien 0 324 0 324 Bayern 173 0 0 173 Berlin 0 135 101 236 Cantabria 0 0 16 16 Castilla y Len 0 0 75 75 Catalua 46 0 0 46 Centre-Est 0 209 0 209 Dodekanisos 0 17 0 17 Drenthe 0 31 29 60 East Midlands (ENGLAND) 0 61 76 137 Eastern 0 45 0 45 Est 0 100 88 188 Etel-Karjala 0 29 16 45 Flevoland 0 0 17 17 Friesland (NL) 0 32 40 72 Gvleborgs ln 0 0 25 25 Hallands ln 0 0 33 33 Illes Balears 23 0 0 23 Kalmar ln 0 0 17 17 Keski-Suomi 0 0 56 56 Kyklades 0 4 0 4 Kymenlaakso 0 38 0 38 Krnten 0 108 0 108 Lappi 0 0 40 40 Mditerrane 0 0 121 121 Navarra 16 0 0 16 Niedersachsen 0 126 137 263 Niedersterreich 0 315 0 315 Nord 0 0 68 68 Nordrhein-Westfalen 293 0 0 293 North West (ENGLAND) 0 138 68 206 
+13 
+
+========53========
+
+Table 21: Region/Wave in the 3rd Quantile cont’d 
+wave 
+1994-1999 1999-2004 2005-2007 Total Northern Ireland 0 0 90 90 Ouest 0 0 136 136 Pais Vasco 64 0 0 64 Pirkanmaa 0 67 0 67 Pohjanmaa 0 10 0 10 Pohjois-Pohjanmaa 0 0 64 64 Prov. Limburg (B) 0 101 0 101 Prov. Oost-Vlaanderen 0 208 0 208 Rheinland-Pfalz 0 54 70 124 Saarland 0 16 0 16 Satakunta 0 0 56 56 Schleswig-Holstein 0 23 40 63 Scotland 0 83 0 83 South West (ENGLAND) 0 79 0 79 Steiermark 0 221 0 221 Sud-Ouest 0 0 109 109 Sdermanlands ln 0 0 24 24 Umbria 0 0 15 15 Varsinais-Suomi 0 97 0 97 Vrmlands ln 0 0 12 12 Vstmanlands ln 0 0 5 5 West Midlands (ENGLAND) 0 99 110 209 Yorkshire and The Humber 0 60 84 144 Zaragoza 0 74 0 74 stergtlands ln 0 0 7 7 Total 775 3,801 1,845 6,421 
+14 
+
+========54========
+
+Table 22: Region/Wave in the 4th Quantile 
+wave 
+1994-1999 1999-2004 2005-2007 Total Baden-Wrttemberg 0 160 0 160 Bayern 0 181 0 181 Catalua 0 376 192 568 Dalarnas ln 0 0 19 19 Eastern 0 0 43 43 Friuli-Venezia Giulia 0 43 22 65 Gelderland 0 145 107 252 Grande Lisboa 0 365 0 365 Hessen 89 0 0 89 Illes Balears 0 47 25 72 Jmtlands ln 0 0 2 2 Jnkpings ln 0 0 77 77 Korinthia 0 19 0 19 Kronobergs ln 0 0 22 22 Kymenlaakso 0 0 38 38 La Rioja 0 16 8 24 Lazio 0 0 97 97 Liguria 0 61 28 89 Limburg (NL) 0 34 74 108 Madrid 160 0 0 160 Marche 0 47 17 64 Midtjylland 0 235 0 235 Navarra 0 33 15 48 Nordjylland 0 109 0 109 Nordrhein-Westfalen 0 289 252 541 Norrbottens ln 0 0 11 11 Obersterreich 0 271 0 271 Overijssel 0 76 71 147 Pais Vasco 0 130 0 130 Piemonte 0 147 70 217 Pirkanmaa 0 0 103 103 Pohjanmaa 0 0 16 16 Prov. Brabant Wallon 0 45 0 45 Prov. Vlaams Brabant 0 104 0 104 Prov. West-Vlaanderen 0 164 0 164 
+15 
+
+========55========
+
+Table 23: Region/Wave in the 4th Quantile cont’d 
+wave 
+1994-1999 1999-2004 2005-2007 Total Saarland 0 0 9 9 Scotland 0 0 113 113 Skne ln 0 0 135 135 South East 0 187 0 187 South West (ENGLAND) 0 0 108 108 Syddanmark 0 243 0 243 Tirol 0 80 0 80 Toscana 0 133 65 198 Umbria 0 30 0 30 Uppsala ln 0 0 57 57 Uusimaa 231 0 0 231 Valle d’Aosta/Valle d’Aoste 0 0 12 12 Varsinais-Suomi 0 0 88 88 Vorarlberg 0 55 0 55 Vsterbottens ln 0 0 40 40 Vsternorrlands ln 0 0 40 40 Vstra Gtalands ln 0 0 217 217 Zaragoza 0 0 32 32 Zeeland 0 23 22 45 rebro ln 0 0 3 3 Total 480 3,848 2,250 6,578 
+16 
+
+========56========
+
+Table 24: Region/Wave in the 5th Quantile 
+wave 
+1994-1999 1999-2004 2005-2007 Total Baden-Wrttemberg 0 0 149 149 Bayern 0 0 185 185 Emilia-Romagna 0 145 74 219 Groningen 0 37 35 72 Hamburg 30 20 23 73 Hessen 0 103 70 173 Hovedstaden 0 272 0 272 Lazio 0 181 0 181 Lombardia 0 320 154 474 London 111 90 68 269 Madrid 0 306 158 464 Noord-Brabant 0 151 149 300 Noord-Holland 0 206 164 370 Pais Vasco 0 0 67 67 Paris 0 0 361 361 Prov. Antwerpen 0 242 0 242 Rgion de Bruxelles-Capitale 0 495 0 495 Salzburg 0 98 0 98 South East 0 0 201 201 Stockholms ln 0 0 257 257 Trentino Alto Adige 0 33 18 51 Utrecht 0 34 69 103 Uusimaa 0 251 258 509 Valle d’Aosta/Valle d’Aoste 0 10 0 10 Voiotia 0 1 0 1 Zuid-Holland 0 212 225 437 le de France 0 299 0 299 Total 141 3,506 2,685 6,332 
+17 
+
+========57========
+
+B Personality Traits 
+B.1 Factor Analysis to Determine the Personality Traits 
+Determination of traits from the score in each question was necessary because no existing 
+imputation to traits on the sample of questions in the data exists. 
+Trait determination was realized with exploratory factor analysis (statistical software 
+Stata, release 11). We retained factors with eigenvalue larger than a threshold value of 1 
+as suggested by dit sources. We selected all the personality questions in the WVS 
+dataset, such questions were available only for the wave 1989-93. For completeness, we 
+included also the variable e065 answering to the residual question ’none of the above’. 
+In  4 we present the list of the questions and some descriptive statistics. In  
+5 we present the Stata log showing the eigenvalues of all factors and the factor loadings. 
+We plot the factors’ loadings with eigenvalues larger than 1 in  6, where we note 
+that variables are clustered in two main groups. An high score in the group of variable 
+with high loading on factor 1 represents high excitement and assertiveness, high seeking of 
+stimulation and other people company, pronounced engagement with the external world. 
+We therefore de factor 1 as Extraversion. An high score in the group of variables 
+with high loading on factor 2 represents negative emotions like depression, loneliness, 
+boredom, anxiousness, anger. We de factor 2 as Neuroticism. 
+To complete the analysis we also present the rotated matrix in  7 and the 
+Kaiser-Meyer-Olkin measure of sampling adequacy in ure 8. This test generate values 
+between 0 and 1 for each single variable included, with small values meaning overall the 
+variables have too little in common to warrant a factor analysis. All our variables show 
+adequacy levels well above 0.7, generally considered the acceptable threshold. 
+18 
+
+========58========
+
+Figure 1: Marginal e of the GDP quantiles on life satisfaction, in the 15- quantile partition of all WVS data Upper Panel: Each point indicates the elasticity of the quantile dummy variables to the probability that satisfaction = 10, the maximum level (with the 95 % con intervals). Lower Panel: Each point indicates the elas- ticity of the quantile dummy variables estimated using a linear model (OLS with country speci e The base level is the last quantile, grouping the countries with per capita GDP larger than 36.81K. The coets are derived from the estimation of the baseline speci of model (1). Errors clustered at country and wave levels. GDP in 10K, 2005 UDS, PPP adjusted 
+0.04  
+0.02  
+0  
+‐0.02  
+‐0.04  
+‐0.06  
+‐0.08  
+‐0.1  
+‐0.12  
+‐0.14  
+‐0.16  
+0  
+‐0.5  
+‐1  
+‐1.5  
+‐2  
+‐2.5  
+‐3  
+19 
+
+========59========
+
+Figure 2: E of GDP quantiles on life satisfaction in the 30-quantile par- tition of all WVS data. Coets of the dummies indicating the dit 30 quantiles{ with the 95 % con intervals and errors clustered at country and wave levels{ derived from the basic ordered probit regression. The Base level is the 30th quantiles. GDP in 10K, 2005 UDS, PPP adjusted 
+20 
+
+========60========
+
+Figure 3: E of regional GDP quantiles on life satisfaction in the 10-quantile partition of EU14 data. Coets of the dummies indicating the dit 10 quantiles{with the 95 % con intervals and errors clustered at quantile level{ de- rived from the basic ordered probit regression. GDP in 10K, 2005 UDS, PPP adjusted 
+A: All data: The base level is the 10th quantile. 
+B: Without 10th quantile: The base level is the 9th quantile. 
+21 
+
+========61========
+
+Figure 4: Questions used for the determination of personality traits 
+Variable  Obs  Unique  Mean            a010  21116  2  .5107028  0  
+Min  Max  Label  
+a011  a012  
+21103  2  21093  2  
+.3086765  0  .463092  0  
+a013  
+21076  2  
+.1897419  0  
+a014  
+21074  2  
+.7216475  0  
+a015  a016  a017  
+21087  2  21026  2  21060  2  
+.2185233  0  .3521355  0  .2213675  0  
+a018  
+21017  2  
+.4764238  0  
+a019  
+21056  2  
+.1745821  0  
+e047  
+20404  10  
+.5806558  .1  
+e048  
+21113  2  
+.4707053  0  
+e049  
+21134  2  
+.2725466  0  
+e050  
+21070  2  
+.1612245  0  
+e051  
+21096  2  
+.3396378  0  
+e052  
+21088  2  
+.1323976  0  
+e053  
+21146  2  
+.5175447  0  
+e054  
+21132  2  
+.3680201  0  
+e055  
+21146  2  
+.4250449  0  
+e056  
+21205  2  
+.1211035  0  
+  
+  1  
+1  1  
+1  
+1  
+1  1  1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+  
+ever felt very excited or  interested  
+ever felt restless  
+ever felt proud because  someone complimented you  ever felt very lonely or  remote from other people  ever felt pleased about  having accomplished  something  
+ever felt bored  
+ever felt on top of the world  ever felt depressed or very  unhappy  
+ever felt that things were  going your way  
+ever felt upset because  somebody criticized you  personal characteristics:  changes, worry or welcome  possibility  
+personal characteristics: i  usually count on being  successful in everything I do  personal characteristics: i  enjoy convincing others of  my opinion  
+personal characteristics: i  serve as a model for others  personal characteristics: i am  good at getting what i want  personal characteristics: i  own many things others  envy me for  
+personal characteristics: i  like to assume responsibility  personal characteristics: i am  rarely unsure about how i  should behave  
+personal characteristics: i  often give others advice  personal characteristics:  none of the above  
+22 
+
+========62========
+
+Figure 5: Factor Analysis 
+      name:   <unnamed> 
+        log:  /Users/proto/Dropbox/sharing/PNAS/SI/traits-FactorAnalisys1.smcl    log type:  smcl 
+opened on:    7 Oct 2011, 15:54:00 
+. factor  a010 a011 a012 a013 a014 a015 a016 a017 a018 a019 e047 e048 e049 e050 e051 e052 e053 e054 e055 e056 if eu16==1 & year==1990, mineigen(1) (obs=19694) 
+Factor analysis/correlation                        Number of obs    =     19694 
+     Method: principal factors                      Retained factors =         2 
+     Rotation: (unrotated)                          Number of params =        39 
+     
+         Factor      Eigenvalue   Difference        Proportion   Cumulative 
+     
+        Factor1         2.31880      0.98316            0.7000       0.7000 
+        Factor2         1.33564      0.67889            0.4032       1.1032 
+        Factor3         0.65675      0.43986            0.1983       1.3014 
+        Factor4         0.21689      0.07117            0.0655       1.3669 
+        Factor5         0.14572      0.06469            0.0440       1.4109 
+        Factor6         0.08103      0.03675            0.0245       1.4354 
+        Factor7         0.04428      0.05078            0.0134       1.4487 
+        Factor8        -0.00651      0.01437           -0.0020       1.4468 
+        Factor9        -0.02088      0.01448           -0.0063       1.4405 
+       Factor10        -0.03536      0.02370           -0.0107       1.4298 
+       Factor11        -0.05906      0.02329           -0.0178       1.4120 
+       Factor12        -0.08235      0.01896           -0.0249       1.3871 
+       Factor13        -0.10131      0.01390           -0.0306       1.3565 
+       Factor14        -0.11521      0.01518           -0.0348       1.3217 
+       Factor15        -0.13039      0.01064           -0.0394       1.2824 
+       Factor16        -0.14103      0.01303           -0.0426       1.2398 
+       Factor17        -0.15406      0.02394           -0.0465       1.1933 
+       Factor18        -0.17800      0.03131           -0.0537       1.1396 
+       Factor19        -0.20931      0.04372           -0.0632       1.0764 
+       Factor20        -0.25303            .           -0.0764       1.0000 
+     
+    LR test: independent vs. saturated: chi2( 190) =  4.4e+04  Prob>chi2 =  0.0000 
+Factor loadings (pattern matrix) and unique variances 
+     
+        Variable    Factor1   Factor2     Uniqueness  
+     
+            a010    0.4021      0.1101        0.8262    
+            a011    0.2037      0.4096        0.7908    
+            a012    0.4533      0.1133        0.7817    
+            a013    0.0006      0.5681        0.6772    
+            a014    0.4643      0.0023        0.7844    
+            a015   -0.0663      0.4165        0.8221    
+            a016    0.4051     -0.0188        0.8356    
+            a017    0.0405      0.6166        0.6182    
+            a018    0.3115     -0.2511        0.8399    
+            a019    0.1156      0.3614        0.8560    
+            e047    0.2304     -0.1206        0.9324    
+            e048    0.3785     -0.0945        0.8478    
+            e049    0.3516      0.0685        0.8717    
+            e050    0.3449      0.0484        0.8787    
+            e051    0.4160     -0.0785        0.8208    
+            e052    0.2861      0.0687        0.9134    
+            e053    0.4443     -0.0934        0.7939    
+            e054    0.2830     -0.1099        0.9078    
+            e055    0.3853      0.0545        0.8486    
+            e056   -0.5425      0.0856        0.6984    
+     
+. log close  
+       name:  <unnamed> 
+        log:  /Users/proto/Dropbox/sharing/PNAS/SI/traits-FactorAnalisys1.smcl    log type:  smcl 
+23 closed on:    7 Oct 2011, 15:54:03 
+
+========63========
+
+Figure 6: Factor Loadings of the Personality Factor Analysis. Factor 1 has been de Extraversion, Factor 2 has been de Neuroticism, variable e065 is the residual questions ’none of the above’ 
+24 
+
+========64========
+
+Figure 7: Rotated Matrix of Correlation 
+      name:   <unnamed> 
+        log:  /Users/proto/Dropbox/sharing/PNAS/SI/rotateFA.smcl    log type:  smcl 
+opened on:    7 Oct 2011, 15:59:27 
+. rotate  
+Factor analysis/correlation                        Number of obs    =     19694 
+     Method: principal factors                      Retained factors =         2 
+     Rotation: orthogonal varimax (Kaiser off)      Number of params =        39 
+     
+         Factor        Variance   Difference        Proportion   Cumulative 
+     
+        Factor1         2.31470      0.97495            0.6987       0.6987 
+        Factor2         1.33975            .            0.4044       1.1032 
+     
+    LR test: independent vs. saturated: chi2( 190) =  4.4e+04  Prob>chi2 =  0.0000 
+Rotated factor loadings (pattern matrix) and unique variances 
+     
+        Variable    Factor1   Factor2     Uniqueness  
+     
+            a010    0.3942      0.1359        0.8262    
+            a011    0.1768      0.4219        0.7908    
+            a012    0.4450      0.1423        0.7817    
+            a013   -0.0362      0.5670        0.6772    
+            a014    0.4632      0.0323        0.7844    
+            a015   -0.0931      0.4113        0.8221    
+            a016    0.4054      0.0075        0.8356    
+            a017    0.0006      0.6179        0.6182    
+            a018    0.3271     -0.2304        0.8399    
+            a019    0.0920      0.3681        0.8560    
+            e047    0.2377     -0.1054        0.9324    
+            e048    0.3838     -0.0699        0.8478    
+            e049    0.3465      0.0911        0.8717    
+            e050    0.3411      0.0706        0.8787    
+            e051    0.4202     -0.0515        0.8208    
+            e052    0.2810      0.0870        0.9134    
+            e053    0.4494     -0.0645        0.7939    
+            e054    0.2895     -0.0913        0.9078    
+            e055    0.3810      0.0793        0.8486    
+            e056   -0.5469      0.0503        0.6984    
+     
+Factor rotation matrix 
+     
+                   Factor1  Factor2  
+     
+         Factor1   0.9979     0.0646 
+         Factor2  -0.0646     0.9979 
+     
+. log close 
+       name:  <unnamed> 
+25 
+
+========65========
+
+Figure 8: Kaiser-Meyer-Olkin measure of sampling adequacy. 
+      name:   <unnamed> 
+        log:  /Users/proto/Dropbox/sharing/PNAS/SI/testFA.smcl    log type:  smcl 
+opened on:    7 Oct 2011, 15:54:03 
+. estat kmo 
+Kaiser-Meyer-Olkin measure of sampling adequacy 
+     
+        Variable       kmo  
+     
+            a010   0.8417 
+            a011   0.8015 
+            a012   0.8102 
+            a013   0.7172 
+            a014   0.8197 
+            a015   0.7763 
+            a016   0.8030 
+            a017   0.7057 
+            a018   0.7816 
+            a019   0.8085 
+            e047   0.8338 
+            e048   0.7807 
+            e049   0.8639 
+            e050   0.8152 
+            e051   0.8599 
+            e052   0.8325 
+            e053   0.8231 
+            e054   0.8131 
+            e055   0.8053 
+            e056   0.7599 
+     
+         Overall   0.7963 
+     
+. log close 
+       name:  <unnamed> 
+        log:  /Users/proto/Dropbox/sharing/PNAS/SI/testFA.smcl    log type:  smcl 
+closed on:    7 Oct 2011, 15:54:03 
+26 
+
+========66========
+

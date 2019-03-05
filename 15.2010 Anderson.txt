@@ -1,0 +1,1815 @@
+June 2010 
+             No.15 
+Specialisation: Pro and Anti-Globalizing 1990-2002 James E Anderson (Boston College and NBER), Yoto V Yotov  
+(Drexel University) 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Specialization: Pro- and Anti-Globalizing, 1990-2002y 
+James E. Anderson Boston College and NBER 
+Yoto V. Yotov Drexel University 
+June 15, 2010 
+Abstract 
+Specialization alters the incidence of trade costs to buyers and sellers, with pro-and anti-globalizing e on 76 countries from 1990-2002. The structural gravity model yields measures of Constructed Home Bias and the Total Factor Productivity e of changing incidence. A bit more than half the world’s countries experience declining constructed home bias and rising real output while the remainder of countries experi- ence rising home bias and falling real output. The e are big for the outliers. A novel test of the structural gravity model restrictions shows it comes very close in an economic sense. 
+JEL Classi F10, F15, R10, R40. 
+To be presented at the NBER ITI meetings, Spring 2010. 
+yContact information: James E. Anderson, Department of Economics, Boston College, Chestnut Hill, MA 02467, USA; Yoto V. Yotov, Department of Economics, Drexel University, Philadelphia, PA 19104, USA. 
+
+========2========
+
+Specialization is a powerful force churning the world’s economies (76 countries) from 1990 
+to 2002, demonstrated in this paper by applying the structural gravity model. Increasing 
+specialization is revealed by a fall in the correlation between national shares of world man- 
+ufacturing output and expenditure. Trade costs inferred from gravity are large and vary 
+over distance, so the shifts in the location of production and consumption must be changing 
+`average’ trade costs. But what is `average’, and isn’t incidence what matters? Our mea- 
+sures of theoretically consistent average incidence are derived from the structural gravity 
+model. They reveal both pro- and anti-globalizing e of specialization | some countries 
+become more open to trade while others become less open, all despite unchanging bilateral 
+trade costs. The changing incidence has signit real output e | some countries gain 
+while others lose. 
+The changing correlation between output and expenditure shares in total world manu- 
+facturing and for three 3-digit ISIC categories is illustrated in Table 1. For all goods and 
+Table 1: Correlations: Output and Expenditure Shares 
+(1) (2) (3) (4) Year All Manufacturing Apparel (322) Leather (323) Food (311) 1990 0.97 0.94 0.82 1.00 2002 0.94 0.74 0.70 1.00 This table reports correlations between world output and expenditure shares for three 3-digit ISIC categories and total manufacturing in 1990 and 2002. 
+countries the fall is from 0.97 to 0.94 (see column 1). The decrease in total manufactur- 
+ing is driven by sectors such as Apparel and Leather (see columns 2 and 3). In contrast, 
+specialization has played no role for categories such as Food (see column 4). 
+The structural gravity model is applied in the paper to give measures of the buyers’ and 
+sellers’ incidence of trade costs and Constructed Home Bias (CHB), the ratio of predicted 
+local trade to predicted frictionless local trade. Changes in the incidence of trade costs are 
+equivalent to (the negative of) changes in the incidence of Total Factor Productivity (TFP) 
+in distribution, driving changes in real output. A bit more than half the world’s countries 
+experience declining CHB and rising real output while the remainder of countries experience 
+1 
+
+========3========
+
+rising CHB and falling real output. The e are big for the outliers. Fast growers with 
+rising shares of world shipments tend to experience the biggest declines in home bias (e.g., 
+China’s home bias falls 51% and Ireland’s 53% over the 12 years) and rises in the incidence 
+of TFP (China’s TFP incidence rises 16% and Ireland’s 5% ) while unfortunate parts of the 
+former Soviet Union experience large increases in home bias ( 203% in Ukraine and 154% in 
+Azerbaijan) and falls in TFP incidence (5% and 26% respectively).1 
+Trade costs are treated as constant in the main account of the paper because the gravity 
+model coets are close to constant in all the variants of the model estimated and dis- 
+cussed below, and including their inter-temporal variation makes essentially no di to 
+the main results. Constant gravity coets need not be inconsistent with falling trade 
+cost levels because the structural gravity model implies that only relative trade costs can 
+be identi the bilateral pattern of trade is invariant to uniform proportional changes in 
+bilateral trade costs (including costs of local shipment). 
+The analysis is based on estimates of gravity coets and incidence measures for a set 
+of 18 industries aggregated from the 28 3 digit ISIC manufacturing sectors in the UNIDO 
+database. The good performance of the gravity model on disaggregated data is notable in 
+relation to the earlier gravity literature focused mainly on aggregate trade ws, with poorer 
+performance with disaggregated estimation. 
+The paper also provides a novel test of the structural gravity model.2 The structural 
+gravity model comes remarkably close in an economic sense to accurately representing the 
+data generating process across commodities, countries and time. 
+Section 1 reviews the structural gravity model and its implications to derive measures 
+1The churning among the world’s economies revealed here is in sharp contrast to Anderson and Yotov (2009, forthcoming). Their portrayal of Canada’s provinces over the same period uses the same methods we apply here. All Canadian provinces experienced decreased home bias and increased real output as Canada integrated with the USA and Mexico. The di is that the present study covers (most) countries in a world economy with both fast (China, India) and slow (Japan) growing and specializing economies. 
+2The novelty here is in examining these questions at a disaggregated level. Earlier gravity model estima- tion using aggregate trade ws had documented that the size variables often had coet point estimates di signitly from the theoretically indicated value of 1. But aggregate gravity estimation is subject to aggregation bias (Anderson and van Wincoop, 2004), so these  need not indicate problems with the gravity model itself. 
+2 
+
+========4========
+
+of buyers’ and sellers’ incidence of trade costs, CHB and the real output e changing 
+incidence of TFP in distribution. Section 2 describes the econometric speci Section 
+3 describes the data. Section 4 presents the empirical results. Section 5 concludes. 
+1 The Structural Gravity Model 
+Our development follows Anderson (1979) in using the Armington assumption and CES 
+preferences to derive gravity. The weights in the CES preferences can be endogenized with 
+monopolistic competition structure (Bergstrand, 1985).3 Eaton and Kortum (2002) derive 
+an observationally equivalent structural gravity setup from homogeneous goods combined 
+with Ricardian technology and random productivity draws, a setup extended to multiple 
+goods classes by Costinot and Komunjer (2007). 
+Let Xkij denote the value of shipments at destination prices from origin i to destination 
+j in goods class k. Let tkij  1 denote the variable trade cost factor on shipment of goods 
+from i to j in class k, pki denote the factory gate price, hence destination prices are pki tkij. 
+Let Ekj denote the expenditure at destination j on goods class k from all origins, while Y 
+k 
+i 
+denotes the sales of goods at destination prices from i in goods class k to all destinations. 
+The CES demand function (for either  or intermediate goods) gives: 
+Xkij = (ki pki tkij=Pkj )1 
+ kEk 
+j 
+: 
+(1) 
+k is the elasticity of substitution parameter for k and ki is a share parameter. The CES price index is Pkj = [ 
+P 
+(ki pk 
+k 1   1=(1   ) 
+i i 
+tij) 
+k] k 
+. 
+Market clearance implies: Y 
+k 
+i 
+= 
+P 
+(ki pki )1 
+ k(tk k 
+j 
+)1 
+ kEk k 
+j ij=P j 
+. De Y  
+P 
+i 
+Y 
+k 
+i 
+and divide the market clearance equation by Y 
+k. The result requires that world supply shares 
+be equal to world expenditure shares. So far as seller i is concerned, with globally common 
+3The CES-Armington model nests inside many full general equilibrium models characterized by trade sep- arability: two stage budgeting and iceberg trade costs ) distribution uses resources in the same proportions as production. This paper takes the supply and expenditure shares as exogenously given. 
+3 
+
+========5========
+
+CES preferences, the `world expenditure shares’ are equivalently generated by 
+(ki pki ki)1 
+ k 
+= Y 
+k 
+i 
+=Y 
+k; 
+(2) 
+where ki  
+P 
+k k 
+j(t ij=P j 
+)1 
+ kEk 
+j 
+=Y 
+k, 
+ki pki ki is the world market quality adjusted price of 
+variety i of good k, and the CES `world’ price index of k is equal to 1 because summing (2) 
+yields: 
+X 
+(ki pki ki)1 
+ k 
+= 1: i 
+(3) 
+In (2) origin i ships good k to a `world’ market at average sellers’ incidence ki. 
+Next, use (2) to substitute for ki pki in (1), the market clearance equation and the CES 
+price index. This yields the structural gravity model: 
+Xkij 
+k = 
+Ej Y 
+k 
+i 
+Y 
+k 
+tkij 
+!1 
+ k 
+(4) 
+(ki)1 
+ k 
+X 
+= 
+j X 
+Pkj ki 
+!1 tkij 
+ k 
+Ekj Pkj Y 
+k 
+!1 tkij 
+ k 
+Y 
+k 
+i ki Y 
+k 
+: 
+(5) 
+(Pkj )1 
+ k 
+= 
+(6) 
+i 
+ki is called outward multilateral resistance by Anderson and van Wincoop (2003), here 
+interpreted as sellers’ incidence. Then tij=ki is the bilateral buyers’ incidence. Pkj generated 
+by (5)-(6) is called inward multilateral resistance and is also the CES price index of the 
+demand system. Pkj is interpreted here as buyers’ incidence because it is a CES index of the 
+bilateral buyers’ resistances on ws from i to j in class k, the weights being the frictionless 
+trade equilibrium shares fY 
+k 
+i 
+=Y 
+kg. It is as if buyers at 
+j pay a uniform markup Pkj for the 
+bundle of goods purchased on the world market.4 
+4fPk 
+j 
+ki g is the general-equilibrium-consistent aggregate analog to the one-good partial equilibrium in- cidence decomposition. If the actual set of bilateral trade costs is replaced by 
+etkij 
+= Pkj ki , all budget constraints and market clearance conditions continue to hold, and factory gate prices and aggregate supply and expenditure shares remain constant (Anderson and van Wincoop, 2004). The bilateral shipment pattern shifts to that of the frictionless equilibrium. This hypothetical general equilibrium plays a role analogous to 
+4 
+
+========6========
+
+Fixed costs help to explain the many zeroes found in bilateral trade ws, a feature 
+even more prominent in disaggregated data.5 Without an appropriate treatment for  
+costs, the response of trade volume on the extensive margin is included in the variable cost 
+measuring response on the intensive margin. Helpman, Melitz and Rubinstein (2008) develop 
+a treatment of d costs and apply it to aggregate trade w data. The assumptions of 
+the model, especially the exclusion restriction that permits identiion, are controversial, 
+but we apply their method to our disaggregated data as part of robustness analysis. Our 
+main results are all invariant to the method of estimation because it turns out that switching 
+methods shifts the gravity coets equiproportionately, so that the implied t’s are shifted 
+equiproportionately. Since gravity can only identify relative trade costs anyway, di 
+in estimation methods wash out with the nomalizations. 
+1.1 Calculating Incidence and Constructed Home Bias 
+Since system (5)-(6) solves for fki; Pkj g only up to a scalar for each class k, an additional 
+restriction from a normalization is needed.6 Within sectors, relative multilateral resistances 
+are what matter,7 so alternative normalizations are admissible for convenience in the absence 
+of information on ki pki ’s. Our empirical procedure is Pki = 1;8k where i is the US. None of 
+our main results depend on the normalization, as we will explain further as needed.8 
+(4) leads to a useful quanti of home bias that summarizes the e of all trade 
+the hypothetical frictionless equilibrium in the one good partial equilibrium incidence analysis. 
+5Trade cost still has the iceberg form because both  and variable costs absorb a portion of the good. 
+6If 
+f0i; P0j g is a solution then so is f0i; P0j =g.7 
+Speci, the trade w in equation (4) is not a by changes in the scalar  of the preceding footnote. 
+8Here we note that there is no con with the theoretically required normalization (3). Normalization of a single P together with the rest of the CES demand system structure implies a set of prices (ipei)1 
+ ’s that must be consistent with the theoretical normalization of the  Note that the CES price index is given by 
+  
+X 
+P1j = (ipei)1 
+ t1   
+ij 
+: (7) 
+i 
+Imposing Pj = 1 implies, for given (estimated) tij’s, a normalization on the unknown ipei’s. Then (ipei)1 
+  can be solved for using the CES demand for each good i in location j: 
+Xij=Ej = (ipei)1 
+ t1   
+ij 
+;8i: 
+5 
+
+========7========
+
+costs acting to increase each country’s trade with itself above the frictionless benchmark, 
+Eki Y 
+k 
+i 
+=Y 
+k.9 
+Constructed Home Bias is de by 
+CHBki  
+ 
+tii=kiPk1 
+ k 
+i 
+: 
+(8) 
+CHB is the ratio of predicted to frictionless internal trade. Two regions i and j with the 
+same internal trade cost tii = tjj may have quite dit CHB’s because kiPki 6 = kjPkj . 
+1.2 TFP, Incidence and Real Output 
+The changing composition of production and expenditure obviously drives changes in `av- 
+erage’ measures of trade costs, raising the classic index number question of what average 
+to use. We focus on national changes in the incidence of trade costs because in a global 
+economy these induce real national output changes. These in turn would be picked up in 
+national measures of the Solow residual and interpreted as changes in productivity. In prin- 
+ciple our methods take a step toward being able to extract the changing incidence of TFP 
+in distribution from the standard calculations of Solow residuals. 
+To clarify the di of our incidence measures with standard TFP-type measures of 
+productivity in distribution, we  develop TFP measures of the productivity of distribution 
+and compare them to incidence measures. Then we analyze the real output e of changes 
+in the incidence of TFP in distribution. 
+Sectoral TFP friction in distribution is de by the uniform friction that preserves the value of sectoral shipments at destination prices: tkj = 
+P 
+h 
+tkjhykjh=Ph ykjh where ykjh denotes 
+the number of units of product class k received from j at destination h. The iceberg metaphor 
+The resulting (ipei)1 
+ ’s can in principle be used to check that the theoretical normalization of the  is met by the  calculated with the actual procedure: set Pj = 1 and drop the jth CES price index equation1 
+P 
+  
+j 
+= 
+P 
+1  Yi=Y 
+i(tij=i) 
+from the MR system. Because the multilateral resistance system is constructed and solved using Yi=Y = (ipeiitij) 
+1   
+it is automatically consistent with the theoretical normalization. 
+Some other choice such as Pj+1 = 1 will change the solution to multilateral resistances but with no implications for allocation. Demand system estimation can only ever identify the ’s up to a scalar, so picking some Pj = 1 is eely normalizing the estimated coets fig.9 
+tkij = 1;8i; j implies Pkj = ki = 1;8i; j, using (5)-(6). 
+6 
+
+========8========
+
+captures the technological requirement that distribution requires resources in the same pro- 
+portion as does production, so in product class k it takes tkjhykjh of origin j resources to deliver 
+ykjh to destination h. tkj is a Laspeyres index of outward trade frictions facing seller j in good k. Aggregate TFP friction for country j is similarly given by 
+P 
+k;h 
+tkpkj 
+j 
+ykjh=Pk;h pekjykjh,10 a 
+Laspeyres index of outward trade costs between sellers in j and their buyers in all markets. 
+When all goods are  goods this expression is equal to the ratio of output at delivered 
+prices to the value of output at factory gate e unit prices. 
+While conceptually clean and useful for analyzing productivity of the world economy 
+as a whole, TFP is misleading for purposes of understanding comparative economic perfor- 
+mance and the national patterns of production and trade in a globally interdependent world. 
+Like sectoral TFP friction tjk, multilateral resistance aggregates bilateral frictions, but the 
+multilateral resistances solved from (5)-(6) are general equilibrium incidence measures. In 
+contrast, tkj can be interpreted as sellers’ incidence only under the partial equilibrium and 
+inconsistent assumption that all incidence falls on the seller j. Our results show that in 
+practice these di are signit: Laspeyres TFP measures and the incidence of TFP 
+di in magnitude and in the case of inward measures the correlation between them is low.11 
+We calculate measures of change in real output using the changes in levels of multilateral 
+resistances (one for each commodity class, country and year) and the shares of shipments 
+and expenditures (one for each commodity class, country and year). The basic idea is seen 
+with a local approximation formula: 
+Gbj = 
+ 
+X 
+wkjbkj k 
+ 
+X 
+!kjPbkj ; k 
+(9) 
+10The procedures straightforwardly extend to include pure productivity frictions in which case the factory gate price is de by the pure technology friction. 
+11An alternative measure proposed by Redding and Venables (2004) resembles multilateral resistance but does not measure incidence. Their measure of `market access’ uses essentially the same formula as (5) whileP 
+their measure of `supplier access’ uses the CES price index formula Pkj = [ (ki pki tkij)1 
+ k]1=(1  k). These 
+i 
+variables are constructed without taking account of the simultaneous determination of the two variables, so they do not measure incidence. 
+7 
+
+========9========
+
+where wkj denotes the share of total shipments from origin j due to good k and !kj denotes 
+the share of total expenditure in destination j (on intermediate as well as  goods) due to 
+good k, and the circum (hat) denotes the percentage change in the de multilateral 
+resistance. The technical appendix explains the conceptual foundation of this procedure. 
+With a 12 year time span, there are several plausible choices for applying the basic idea 
+of the formula. A  weight approach applies some sensible shipment and expenditure 
+weights, in our case the shipment and expenditure weights for 1996, the middle year of the 
+panel, and uses the 12 year percentage change in multilateral resistances for the \price" 
+variables in (9). 
+A more elaborate chain weights approach uses arithmetic averages of yearly adjacent 
+shares for weights and calculates the yearly percentage change in Gj, adding the changes 
+up to obtain the 12 year cumulative change. In practice, recognizing discrete changes, we 
+integrate (9) over the annual intervals, hence use ditials of logs on both sides for the 
+\price" variables. The cumulative e is thus obtained by exponentiating 
+ln[Gj(2002)=Gj(1990)] = 
+ 
+XX12 
+wekj()bkj() k =1 
+ 
+XX12 
+!ekj()Pbkj ()  (10) k =1 
+Here, 
+k wekj()  
+wj(2002 
+  + 1) + wkj(2002 
+2 
+ ) 
+and analogously for the !’s. (10), after exponentiation, is a Tornqvist approximation to a 
+Divisia index of G. The chain weights approach has signit advantages when countries 
+experience large shifts in their cross-commodity composition of production and expenditure, 
+as many do from 1990 to 2002. Like CHB, G is invariant to the normalization used to calcu- 
+late the P’s and  in (9) or (10). This is because any rescaling raises all P’s proportionally 
+while lowering all  in the same proportion. 
+8 
+
+========10========
+
+2 Econometric Speci 
+Two steps complete the econometric model. First, we approximate the unobservable bilat- 
+eral trade costs tkij with a set of observable variables that are now standard in the gravity 
+literature:12 
+tk 
+1   
+= e 
+k1 
+lnDISTij+k2BRDRij+k 
+ij 
+3 
+LANGij+k4CLNYij+k5SMCT RYij: 
+(11) 
+Here, lnDISTij is the logarithm of bilateral distance between trading partners i and j. 
+BRDRij captures the presence of contiguous borders. LANGij and CLNYij account for 
+common language and colonial ties, respectively. Finally, SMCT RYij is a dummy variable 
+equal to 1 when i = j and zero elsewhere. This variable captures the e of crossing the 
+international border by shifting up internal trade, all else equal. Using the internal trade 
+dummy has the advantage of being an exogenous variable that picks up all the relevant forces 
+that discriminate between internal and international trade. It also preserves comparability 
+with the speci used by Anderson and Yotov for Canadian provincial trade. Ideally, 
+we should estimate SMCTRY as a country-speci time-varying, directional dummy vari- 
+able.13 Lacking observations for enough degrees of freedom, we impose a common coet 
+k5 for each commodity and time period. Furthermore, in the panel gravity estimations, 
+we impose the restriction of time-invariant e14 We discuss the implications of these 
+restrictions below. 
+Next, we substitute (11) for tij into (4) and then we expand the gravity equation with a 
+12See Anderson and van Wincoop (2004) for a discussion of trade costs. 
+13Using regional trade data for Canada’s provinces, Anderson and Yotov (2009) estimate a speci with directional border ets to  that they are not identi In the present context with only national data, the directional speci is not feasible due to lack of degrees of freedom. 
+14Time-invariance is less at odds with reality than at  appears. While 1990-2002 includes major policy changes because of the Uruguay Round and the formation of the WTO, the previous gravity literature shows that policy is a small part of the border barrier. See for example Anderson and van Wincoop (2003) and Anderson and Yotov (2009). 
+9 
+
+========11========
+
+multiplicative error term, kij, to get: 
+k Xkij = 
+Yi Ekj 
+Y 
+k 
+tkij kiPkj 
+!1 
+ k 
+kij: 
+(12) 
+Estimating (12) requires accounting for the unobservable multilateral resistance terms. 
+Anderson and van Wincoop (2003) use a full information method incorporating (5)-(6). We 
+follow Feenstra (2004), who advocates the directional (source and destination), country- 
+speci  e approach, which is easier to implement and also produces consistent 
+estimates. Moreover,  eects do not impose unitary elasticities on P 
+ 1; 
+ 
+ 1 
+and 
+allow for other unobservable country/product e not contained in the theoretical gravity 
+model, a less restrictive approach that nests the structural gravity model. In order to control 
+for the unobservable MRs, the observable Y ’s and E’s and other unobservables, we employ 
+directional, country-speci  e in our yearly estimations, and we use time-varying, 
+directional, country-speci dummies to control for the MRs in the panel estimations. 
+In Section 4.5 below we analyze the relationship of the estimated  e to the cal- 
+culated multilateral resistances and the output and expenditure shares. The results suggest 
+that the structural gravity model comes very close in an economic sense to accounting for 
+the data, but is not the whole story. 
+Another econometric challenge in gravity-type estimations is the presence of a large 
+number of zero bilateral trade ws, which cannot be captured by a simple log-linear OLS 
+regression. Santos-Silva and Tenreyro (2007) show that the truncation of trade ws at 
+zero biases the standard OLS approach. In addition, they argue that not accounting for 
+trade data heteroscedasticity in the log-linear OLS regressions produces inconsistent coe 
+cient estimates. To account for heteroscedasticity and to utilize the information carried by 
+the zero trade ws, Santos-Silva and Tenreyro suggest estimating the gravity equation in 
+multiplicative form using the Poisson pseudo-maximum-likelihood (PPML) estimator. 
+The PPML estimator is used to obtain the main results in this study. However, in order to 
+10 
+
+========12========
+
+test the robustness of our  we also experiment with log-linear OLS regressions and the 
+two-step selection procedure of Helpman, Melitz and Rubinstein (2008, henceforth HMR). 
+HMR model selection where exporters must absorb some  costs to enter a market. Their 
+model controls simultaneously for unobserved heterogeneity (the proportion of exporting 
+ and for sample selection. In addition to checking the robustness of our results, we 
+are curious to see how do the PPML and the HMR models compare to the standard OLS 
+treatment of gravity when the estimations are performed with disaggregated data. 
+The PPML and OLS techniques estimate the following econometric speci for each 
+class of commodities in our sample: 
+lnXij;t 
+= 0 + k1 lnDISTij;t + k2BRDRij;t + k3LANGij;t + k4CLNYij;t + 
++k5SMCT RYij;t + ki;t + kj;t + kij;t: 
+(13) 
+HMR di by including a volume e re selection. In (13) Xij;t is bilateral trade 
+(in levels) between partners i and j at time t.15 i;t denotes the set of time-varying source- 
+country  e that control for the outward multilateral resistances along with total 
+sales Y 
+k 
+i;t. 
+kj;t denotes the  e that control for the inward multilateral resistances 
+along with total expenditures Ekj;t.16 The country  e also re the eect of border 
+barriers varying by country, sector and time. 
+15Even though we experiment with yearly estimations, our main results are obtained from panel data. As noted in Cheng and Wall (2005), \Fixed-e estimations are sometimes criticized when applied to data pooled over consecutive years on the grounds that dependent and independent variables cannot fully adjust in a single year’s time." To avoid this critique, we use only the years 1990, 1994, 1998, and 2002. It turns out, however, that the gravity estimates are not very sensitive to the use of alternative lags. 
+16In a static setting, the structural gravity model implies that the income and the expenditure elasticities of bilateral trade ws are unity. Olivero and Yotov (2009) show that the income elasticities are not necessarily equal to one in a dynamic setting. 
+11 
+
+========13========
+
+3 Data Description 
+The data covers 1990-2002 for 76 trading partners. The countries are listed in Data Ap- 
+pendix.17 
+Data availability allowed us to investigate 18 commodities aggregated on the 
+basis of the United Nations’ 3-digit International Standard Industrial Classi (ISIC) 
+Revision 2.18 To estimate gravity and to calculate the various trade cost indexes, we use 
+industry-level data on bilateral trade ws and output, and we construct expenditures for 
+each trading partner and each commodity class, all measured in thousands of current US 
+dollars for the corresponding year. In addition, we use data on bilateral distances, contiguous 
+borders, colonial ties, common language, and industry level data on elasticity of substitution. 
+The Data Appendix provides a detailed description of the data sources and the procedures 
+used to construct all variables employed in our estimations and analysis.19 
+4 Empirical Results 
+4.1 Gravity Estimation Results 
+Tables 2-4 report the PPML panel results obtained with robust standard errors clustered 
+by trading pair.20 
+Disaggregated gravity works well. The gravity estimates vary across 
+commodities in a sensible way. Importantly, the coecients are relatively stable over time 
+for any given commodity category. To measure the movement of our estimates over time, we 
+construct the percentage changes in the yearly disaggregated gravity estimates for the period 
+17Country coverage was predetermined mainly by the availability of sectoral level production data. 
+18The complete United Nations’ 3-digit International Standard Industrial Classi consists of 28 sectors. We combine some commodity categories when it is obvious from the data that countries report sectoral output levels in either one disaggregated category or the other. Our commodity categories are: 1 Food; 2 Beverage and Tobacco; 3 Textiles; 4 Apparel; 5 Leather; 6 Wood; 7 Furniture; 8 Paper; 9 Printing; 10 Chemicals; 11 Petroleum and Coal; 12 Rubber and Plastic; 13 Minerals; 14 Metals; 15 Machinery; 16 Electric; 17 Transportation; and, 18. Other. A detailed conversion table between ours and the UN 3-digit ISIC classi is available upon request. 
+19Tables with summary statistics and the data set itself are available upon request from the authors. 
+20Comparison between estimates obtained with and without clustering reveal that the clustered standard errors are a bit larger. This suggests positive intracluster correlations, as expected. 
+12 
+
+========14========
+
+1990-2002: %  = 100 
+b 
+b 
+2002 
+ b1990 
+b1990 
+; where  is the yearly PPML gravity coeient estimate 
+b 
+of any of the regressors in our estimations.21 In what follows, we discuss the estimates and 
+their evolution over time for each of the gravity variables employed as covariates in our 
+regressions. 
+Distance (DIST1-DIST4). The estimates of the coets on the distance variables are 
+always negative and, in most cases, signiant at any level.22 
+The disaggregated gravity 
+distance estimates are only partially in accordance with the  from Eaton and Kor- 
+tum (2002) who, using aggregate data, report that the estimate of the distance coet 
+for shorter distances is larger (in absolute value) than for longer distances. For most com- 
+modities, we  a non-monotonic (inverse u-shape) relationship between distance and trade 
+ws. The negative ect of distance on bilateral trade is smallest (sometimes insignit) 
+for the countries that are less than 3000 kilometers away from each other. Depending on the 
+commodity, the e of distance are largest for country pairs in either the second interval, 
+of [3000, 7000) kilometers, or in the third interval, of [7000, 10000) kilometers. For a few 
+sectors, such as Textiles, Chemicals, Petroleum and Coal, and Metals, the estimate of the 
+distance coet for longer distances is always larger (in absolute value) than for shorter 
+distances. 
+There is signit variability in the e of distance on trade across dit commodi- 
+ties. Tables 2-4 show that, regardless of the interval, distance is a bigger obstacle to trade for 
+some commodities, such as Wood, Minerals, Beverages and Tobacco, and Paper, while for 
+other categories, such as Machinery and Textiles, distance is less of an impediment to trade. 
+We estimate insignit distance e for Leather and Electrical Products. Transporta- 
+tion costs are a natural explanation for these ings. Based on the percentage changes in 
+the yearly distance estimates (available upon request) we conclude that the e of distance 
+21These indexes, the corresponding standard errors (computed with the Delta method), as well as the disaggregated gravity estimates for individual years, are available upon request. 
+22Textiles, Apparel, Leather and Electric products are the only exceptions, for which the estimates are not signit for one or more of the distance intervals. For each of these categories however, the overall e of distance is negative and signit. 
+13 
+
+========15========
+
+on trade are  over the period of investigation.23 All  regarding the evolution of 
+the distance estimates over time are consistent across the four intervals. 
+Common Border (BRDR). In accordance with the earlier gravity literature, we  that, 
+all else equal, countries that share a common border trade more with each other. The 
+estimates of the coets on the contiguity variable BRDR are always positive, large and 
+signit. The category of Beverages and Tobacco products is the only exception, for 
+which the coet estimate on BRDR is neither economically nor statistically signit. 
+Common border e vary signitly across commodities. For example, each of the 
+positive border e for Wood, Furniture, and Printing products are more than two times 
+larger than the corresponding value for Chemical products. As in the case of distance, we  
+that the common border e are  over the period 1990-2002. Almost all estimates of 
+the percentage changes are small in magnitude and none of them are statistically signit. 
+Common Language (LANG). Sharing a common o language facilitates bilateral 
+trade at the commodity level. About two-thirds of the estimates of the language e 
+from tables 2-4 are positive and signit at any level. We estimate insignit LANG 
+e for Furniture, Rubber and Plastic, Electrical Products, Transportation and Other 
+manufacturing products. The variation in the magnitude of the coets across commodi- 
+ties makes intuitive sense. Thus, for example, Printing and Publishing is the category with 
+largest LANG estimate, while the estimate on Paper products is relatively small. Estima- 
+tions of the percentage changes in the e of language on trade imply that the evolution 
+of these e is essentially  We observe both increases and decreases in the estimates 
+of LANG, however, none of these changes are statistically signit. 
+Colonial Ties (CLNY). The estimates from tables 2-4 indicate that colonial ties increase 
+commodity level ws between the two partners only for a few product categories. As 
+compared to the other gravity variables, `colonial ties’ is the regressor with least explanatory 
+power. Only one-third of the CLNY coent estimates are positive and signit, and, 
+23Without any exception, for all of the commodities in our sample the changes in the e of distance are mostly small in magnitude and never statistically signit. 
+14 
+
+========16========
+
+in most cases, marginally so. In addition, the signit estimates are small in magnitude. 
+Colonial ties matter most for `Printing and Publishing’. The explanation is that very often 
+countries involved in colonial relationships share the same language.24 As compared to other 
+studies that employ aggregate data for earlier time periods and  that colonial ties are 
+an important determinant of bilateral trade, our  suggest that, following the colonial 
+relationships themselves, these ets have slowly disappeared during the 90s. 
+Same Country (SMCTRY). International borders reduce trade, all else equal, as is well 
+established in the gravity literature. Tables 2-4 con this  at the commodity 
+level. All estimates of the coets on SMCTRY (the dummy variable capturing internal 
+trade) are positive, large, and signit at any level. Not surprisingly, Food, Beverages 
+and Tobacco, and Printing and Publishing are among the categories with highest domestic 
+bias in trade. It should also be expected that Machinery and Transportation, which are 
+industries with clear patterns of international specialization, are among the categories with 
+lowest SMCTRY estimates. Contrary to our prior expectations, we obtain a very large 
+SMCTRY estimate for Petroleum and Coal. A possible explanation is that this category 
+includes a large line of goods produced in domestic re and plants. In addition, the 
+large average e may be driven by outliers with extremely large home bias in petroleum 
+consumption. 
+Overall, the domestic bias e are persistent over time. The percentage change indexes 
+of the yearly estimates are mostly small in magnitude and not statistically signit. There 
+are a few categories for which we estimate a signit decrease in the domestic bias over 
+the period 1990-2002. These commodities include Textiles, Apparel, Metals, and Electrical 
+products. For Textiles and Apparel, the entry of China into the WTO is an obvious expla- 
+nation despite the contrary e of the MFA, none of which is modeled. Petroleum and 
+Coal products is the only category for which we  an increase in internal trade, relative 
+24Less than one third of the yearly estimates of the coets on CLNY are signit. For the few products for which the yearly estimates are signit, we  that the CLNY e have decreased over time, but the decrease is not statistically signit. 
+15 
+
+========17========
+
+to the international trade. Possible explanations for this nding include the recent wars and 
+political con as well as the e for establishment national energy independence and 
+the quests and breakthroughs of alternative energy resources. 
+In order to abstract from any e due to changes in the gravity estimates,25 we choose 
+to employ the panel PPML estimates in the calculation of the trade costs indexes below. 
+As more justi for this procedure we construct correlations (by product) between the 
+panel PPML estimates and their yearly PPML counterparts. All correlation indexes are very 
+large (above 0.9) and signit.26 This suggests that the two estimation sets (panel and 
+yearly) can be used interchangeably in the calculation of the multilateral resistances and the 
+CHB numbers. 
+We end the presentation of gravity estimation with a robustness check, comparing the 
+panel PPML estimates against two alternative econometric specins, a log-linear OLS 
+and the two-step HMR procedure. Santos-Silva and Tenreyro (2007) criticize the standard 
+log-linear OLS approach to estimate gravity as inappropriate. They argue in favor of the 
+PPML estimator and  signit biases in the OLS gravity estimates. In accordance with 
+their  but using disaggregated data, we  an upward bias in the OLS estimates, 
+especially in the coet estimates of distance and of colonial ties. These results are 
+consistent in both the panel and the yearly estimations. More importantly however, we 
+establish almost perfect correlation between the OLS (both yearly and panel) estimates and 
+the PPML gravity estimates.27 Remembering that the gravity system identi only relative 
+trade costs, the very high correlation between the PPML and the OLS estimates suggests 
+that the two sets are equally good proxies for the unobservable bilateral trade costs and can 
+be used interchangeably in the calculation of the multilateral resistances. 
+Finally, we compare the panel PPML estimates to estimates obtained with the two-step 
+HMR method, where exporters must absorb some  costs to enter a market (see Help- 
+25In a few instances, we obtain wrong-sign estimates. For example, we estimate a positive and signit e of distance on bilateral trade for Textiles in 1990. 
+26These numbers, along with the yearly PPML estimates, are available upon request. 
+27Correlation coets and OLS estimation results (panel and yearly) are available upon request. 
+16 
+
+========18========
+
+man, Melitz and Rubinstein (2008)). The model controls simultaneously for sample selection 
+bias and for unobserved heterogeneity bias. To keep the sample size as large as possible, we 
+follow Helpman, Melitz and Rubinstein (2008) in using religion as the exclusionary variable 
+that permits identi. We apply the HMR cubic polynomial speci to control for 
+the biases caused by the unobserved  heterogeneity along with the Heckman (1979) sam- 
+ple selection correction to obtain both panel as well as yearly estimates. The disaggregated 
+HMR estimates support the aggregate  Both the selection and the unobserved het- 
+erogeneity biases are signit, which leads to exaggerated OLS estimates. Most important 
+for our purposes is the almost perfect correlation between the panel PPML estimates and 
+the HMR panel and yearly counterparts.28 PPML and HMR estimates are thus essentially 
+equivalent for the calculation of the MR indexes. 
+We view our disaggregated gravity results as fairly convincing. The standard gravity 
+variables pick up a signit portion of the variability of bilateral trade ws at the com- 
+modity level. In addition, the disaggregated coet estimates are stable over time and 
+their signs and magnitude make intuitive sense. Overall, our estimates are comparable to 
+the those obtained with aggregate data, however we also reveal some important di 
+and additional insights. 
+4.2 Multilateral Resistance Indexes 
+Multilateral resistance measures the incidence of the global set of bilateral trade costs. Let 
+kij  (tkij)1 
+ k 
+the power transform of the bilateral trade cost factor. We construct kij from 
+the gravity coets and the proxy variables data as: 
+P 
+bk = e 
+4 
+bm=1 
+km lnDISTij+bk5BRDRij+bk 
+ij 
+6 
+LANGij+bk7CLNYij+bk8SMCT RYij: 
+28Correlation coets and HMR estimation results (panel and yearly) are available upon request. 
+17 
+
+========19========
+
+Here, the b’s are the panel PPML gravity estimates. Where needed to get the levels of mul- 
+tilateral resistances, bk is the estimate of the elasticity of substitution obtained, as described 
+in the data appendix, from the 3-digit HS indexes of Broda et al. (2006).29 
+Theory implies that bilateral trade costs tkij’s should always be greater than one. In less than one percent of the cases (mostly for the estimates of internal trade costs, 
+btkii) our 
+estimates are lower than one. To preserve the variability in the bilateral trade cost estimates, 
+we divide each of them by 
+btkij;min, where btkij;min 
+is the smallest estimate for a given class of 
+commodities (usually the internal estimate for a small country). This transformation is 
+inconsequential for our analysis since the full gravity system is homogeneous of degree zero 
+in the set of gravity implied trade costs. Estimation can only identify relative trade costs. 
+The bs are used to solve the gravity system (5)-(6) for the power transforms of multilat- 
+eral resistance terms for each country-commodity-year combination in the sample.30 Overall, 
+we  signit variation, within reasonable bounds, in the multilateral resistances across 
+countries for a single product, and across commodity lines for a given country. For brevity 
+and clarity of exposition, we construct and analyze aggregate indexes across all commodities 
+for a given nation, and across all countries for a given commodity category. We use expen- 
+diture shares as weights in the aggregation of the inward multilateral resistances and output 
+shares in the aggregation of the outward counterparts. 
+Changing shares with constant bilateral trade costs drive changes in multilateral resis- 
+tances. To describe the evolution of the multilateral resistances over time, we follow the 
+procedure from Anderson and Yotov (2009) who adopt a time-invariant normalization to 
+convert current prices to base year prices. Applied to our setting, the procedure is to con- 
+vert US current inward multilateral resistance (chosen for normalization) into base year US 
+29To check the robustness of our results, we also employ the yearly gravity estimates, as well as our own estimates of , which we obtain as the coet on bilateral tari in the gravity model. Even though our results do not change much with the dit speci we choose to use the elasticity indexes from Broda et al. (2006) due to the speci and unavailability of bilateral tari data. 
+30As discussed earlier, the gravity system solves for the multilateral resistances only up to a scale, therefore, we choose to normalize all MR indexes by setting the inward multilateral resistances for the United States equal to one. 
+18 
+
+========20========
+
+inward multilateral resistance. Thus, initially we calculate MR’s for each commodity with 
+PUSA(t) = 1 for each year t. This yields (for each commodity) a set fPi(t);i(t)g for each 
+region i and year t. Using output and expenditure shares, respectively as weights, we aggre- 
+gate the commodity level inward and outward multilateral resistances to form the country 
+MR’s. To convert them to intertemporally comparable values, we construct an in 
+variable for US, drawn from country-level personal consumption expenditures (PCE) prices 
+on goods (including durable goods and nondurable goods, but not services) for the period 
+1990-2002.31 The intor is equal to USA(t) = P CEUSA(t)=P CEUSA(1990). The new set 
+of `time-consistent’ MR’s is fUSA(t)Pi(t);(1=USA(t))i(t)g. Conceptually, any country’s 
+inward MR is converted to a 1990 US dollars equivalent. For example, Pi(t)=PUSA(t) is re- 
+placed by Pi(t)=PUSA(1990). The scale of outward MR’s is inversely related to the scaling of 
+inward MR’s due to the structure of the gravity system, so outward MR’s are also interpreted 
+as being in 1990 US dollars. 
+De inward multilateral resistance (IMR) indexes are reported in Table 5. Column 
+(1) reports IMR’s by country for 1996, a midyear in our sample that is representatives.32 As 
+can be seen from the table, the IMR values vary across countries, and the pattern of IMR 
+variation makes good intuitive sense. More `remote’ nations, geographically and in terms 
+of industry concentration and economic development, face larger buyers’ incidence. Thus 
+developing countries and some former Soviet republics are consistently among the regions 
+with highest buyers’ incidence. In contrast, all developed countries are in the lower tail of 
+the IMR distribution. 
+The numbers in column (2) of Table 5 summarize the IMR changes over the period 1990- 
+2002 and are constructed using the chain procedure of Section 1.2. These indexes indicate 
+that over time consumers in most countries (more than 80 percent of the nations in our 
+sample) have enjoyed a moderate decrease in the inward multilateral resistances that they 
+31The PCE price index is constructed and maintained by the Bureau of Economic Analysis. 
+32The values in column (2) are the de yearly average inward multilateral resistances for each country or region across all goods, weighted by the national expenditure share on each commodity. 
+19 
+
+========21========
+
+face. Consumers in Kuwait and Indonesia are the biggest winners. On the opposite side 
+of the spectrum of IMR changes we  Russia, with an an IMR increase of 14 percent, 
+and another former Soviet republic, Azerbaijan. The estimates for these two nations are 
+in accordance with the fact that they are among the countries with largest consumer price 
+increases in the sample.33 According to our estimates, USA is the country with the third 
+largest IMR increase in the sample. 
+IMR’s vary across product lines for a single country. We aggregate across countries to 
+portray the cross-commodity variation of the IMR’s in Table 6. The multilateral resistance 
+numbers for each year and commodity are calculated as relative to the corresponding number 
+for the United States. Thus, the indexes from column (1) of Table 6 suggest that the average 
+costs of Food, Wood, Paper, and Petroleum and Coal products are considerably higher in 
+the rest of the world, as compared to the US, while the average costs of Apparel, Furniture, 
+and Mineral Products are lower than in the US. Petroleum and Coal, Paper, Wood, and 
+Food have consistently high inward multilateral resistances, while Furniture, Apparel, and 
+Mineral Products have consistently low IMR indexes. 
+The estimates of the percentage changes in the IMR indexes, reported in column (2) of 
+Table 6, show that, on average, the inward multilateral resistances have increased for most 
+commodity categories (two thirds) in our sample. The increase varies by product line. At 
+12%, Food is the category for which consumers have su the largest IMR increase over 
+the period 1990-2002. Furniture and Rubber and Plastic are the two other sectors with 
+large IMR increase. On the other hand, Wood and Beverage and Tobacco are two of the 
+categories with large IMR decrease. Petroleum and Coal is the category with largest IMR 
+33In principle, IMR changes are comparable to average CPI changes. However, IMR’s may only loosely track variations in consumer price indexes and any dinces between the CPI’s and the IMR’s have a number of explanations. First, our IMR indexes are based on a manufacturing sample, excluding services, agriculture and mining. Second, the inward incidence of trade costs probably falls on intermediate goods users in a way that does not show up in measured prices. Third, the production weighted IMR’s are not really conceptually comparable to the consumer price indexes of  goods baskets. Next, home bias in preferences may be indicated by our results. Home bias in preferences results in attributions to `trade costs’ that cannot show up in prices. Finally, the IMR’s are no doubt are subject to measurement error and are based on a CES model that itself may be mis-speci 
+20 
+
+========22========
+
+fall. This  coincides with the stable oil prices of the 90’s, followed by a fall in the 
+early 2000’s, and the fall in IMR’s due to changing specialization patterns may be part of 
+the explanation.34 
+Outward multilateral resistance (OMR) indexes also vary across industries for a single 
+country and across nations for a single sector. The pattern of variation makes good sense for 
+the most part. Once again, to ease interpretation of our  we aggregate OMR’s across 
+commodities for each country and across countries for each commodity using commodity 
+shipment shares as weights. The variation of the OMR’s across countries is revealed in 
+column (3) of Table 5, where we report ded outward multilateral resistances for 1996. 
+In column (4) of the table, we calculate the percentage change in the OMR’s over the period 
+1990-2002 using the chain procedure of Section 1.2. 
+Several properties stand out. First, more remote regions (geographically and in terms 
+of industry concentration and national specialization) face larger sellers’ incidence. Thus, 
+the vast majority of the developing and third world countries are in the upper tail of the 
+OMR distribution along with most of the former Soviet republics. In contrast, the majority 
+of the developed countries are among the regions with lowest sellers’ incidence. Also, our 
+estimates capture the amazing growth and industrialization of \Asia’s Four Little Dragons". 
+As can be seen from Table 5, three of the e countries with lowest outward multilateral 
+resistances are Hong Kong, Singapore and South Korea. The fourth Asian Tiger, Taiwan, 
+most probably contributes signitly to the sixth place of China on the list, which it shares 
+with Germany and Kuwait. 
+Second, OMR’s are considerably larger than the IMR’s. This result is in accordance with 
+the dings of Anderson and Yotov (2009). To explain why the outward multilateral resis- 
+tance exceeds its inward counterpart, they draw intuition from two propositions. According 
+to Proposition 1, larger supply or net import shares (de as the di between ex- 
+penditure shares and output shares) tend to reduce multilateral resistances in a special case. 
+34The oil price fall is also partly explained by a series of increases in OPEC quotas, increase in the Russian production, and a weakened US economy. Prices fell further immediately after the September 11 attacks. 
+21 
+
+========23========
+
+Building on the intuition from Proposition 1, in Proposition 2 they show that a greater 
+dispersion of supply shares, which is an empirical regularity, drives average outward above 
+average inward multilateral resistance. This pattern also plausibly reects specialization, 
+with causation running from multilateral resistances to supply (and demand) allocations. 
+The prediction of Proposition 1 holds up strikingly well in our OMR estimates, helping 
+to explain some other results as well. Correlations between the OMR’s and the output and 
+net import shares at the product level, available upon request, reveal that the OMR’s are 
+signitly decreasing in output shares and decreasing in net import shares as well. The 
+predictions of the proposition do not hold as well for the inward multilateral resistances. 
+While we  a clear negative relationship between IMR’s and supply shares, the correlation 
+between the IMR’s and the net import shares is mostly positive and signit. 
+Third, we  evidence of a decline over time in the OMR’s for close to one-third of the 
+nations in our sample and an increase in the seller’s incidence for the rest of the countries. 
+See column (4) of Table 5. As we employ panel gravity estimates to calculate the multilateral 
+resistances, we interpret the changes in OMR’s as driven by specialization that economizes 
+on the trade cost bill for some nations but hurts others. (See Anderson and Yotov, 2009, for 
+more development of the argument.) We see some countries with signit fall in OMRs as 
+well as countries with large OMR increase. 
+Kuwait is the nation experiencing the largest OMR increase of more than 84 percent. 
+The increasing outward incidence for Kuwait is driven by the large increase in the incidence 
+on the producers of Petroleum and Coal (Multilateral resistance and output changes for 
+individual commodities are available upon request). Most of the oil producers in the world 
+also su OMR increase, however, unlike other nations, the oil industry accounts for more 
+than 85 percent of Kuwait’s exports and for more than 50 percent of this country’s GDP. A 
+combination of the Iraqi invasion in 1990 along with the steady decrease in oil prices during 
+the 90s may explain this result. The fall in oil prices, of course, bene oil consumers in 
+Kuwait. In fact, the fall in the inward multilateral resistance outweighs the increase in the 
+22 
+
+========24========
+
+outward number for this particular country-industry combination, however the weight on oil 
+consumption is much lower than the weight on oil production for Kuwait as a whole. The 
+situation is very similar for Oman, which is the nation with the second largest OMR increase 
+of 34 percent in our sample. 
+It is also interesting to note that sellers in some republics from the former Soviet bloc 
+(e.g., Russia, Armenia and Latvia) enjoy signit OMR decrease, while producers in other 
+Soviet nations (e.g. Ukraine, Azerbaijan and Bulgaria, which was heavily in by the 
+Soviet Union) su large increase in seller’s incidence. Our explanation for these results is 
+that after the collapse of communism, during the early ’90s, most Soviet Union nations lost 
+their guaranteed portion of the large Soviet market to more competitive producers, some of 
+whom were former Soviet nations themselves. 
+The patterns of OMR variation across commodity categories and their change over time 
+are revealed in columns (3) and (4) of Table 6. Column (3) reports de aggregates 
+obtained with output shares used as weights. Furniture and Wood are always among the 
+categories with highest outward trade costs at the country level, which translates into high 
+aggregate indexes for these categories. On the other side of the spectrum, Petroleum and 
+Coal Products and Electrical Products are consistently among the sectors with lowest OMR 
+indexes. Results from column (4) of Table 6 indicate that over the period 1990-2002 OMR’s 
+have fallen for more than half of the commodities in the sample. Food is the category for 
+which producers have enjoyed the largest OMR fall of more than 12 percent. Beverage and 
+Tobacco and Wood are two of the categories with largest OMR increase. Petroleum and 
+Coal is the outlier with OMR increase of 80 percent. 
+Comparison between the changes in the incidence on consumers and producers at the 
+product level reveals two interesting patterns. First, any IMR fall is inevitably accom- 
+panied by an OMR increase. And, second, the changes in the corresponding inward and 
+outward multilateral resistances for each category are almost equal in absolute value. This 
+suggests that the gains or losses for buyers(sellers) of each good are at the expense of produc- 
+23 
+
+========25========
+
+ers(consumers) of these products. This result is also captured by the real output numbers 
+reported in column (7) of the table, which we discuss shortly. 
+These characteristics are in sharp contrast to those of Laspeyres trade cost indexes of 
+bilateral trade costs. Share-weighted Laspeyres indexes of bilateral trade costs for each 
+country and year in our sample are constructed as follows. The outward index for a given county and year is calculated as 
+P 
+Tbki Y 
+k 
+=P Y 
+k 
+k 
+, where Tbkk 
+P 
+k 
+i i i 
+ 
+j 
+btkijXkij=Y 
+i 
+. The inward counterpart calculation is 
+P 
+Tbkj Ekj =Pk Ekj , where Tbkj  
+P 
+k i 
+btkijXkij=Ekj 
+. Estimates of the Laspeyres trade cost indexes are available on request. The inward and the outward LTC’s 
+are almost identical and the same is true for their evolution over time. There is a signit 
+positive correlation between the OMR’s and both outward and inward LTC’s. In contrast, 
+there is a weak negative correlation between inward multilateral resistance and either of the 
+LTC measures. Despite the high correlation of the OMR’s and the LTC’s, the magnitudes are 
+dit. For example, the outward LTC’s range from 1.54 to 3.72 while the OMR’s range 
+from 1.95 to 6.17. This di has important resource allocation and welfare implications. 
+An even more important di between LTC’s and multilateral resistances is that 
+LTC’s are  over time. Use of Laspeyres indexes to portray the evolution of trade costs 
+completely misses the pro- and anti-globalizing forces of specialization revealed by the mul- 
+tilateral resistance indexes. While the latter require reliance on a special and restrictive 
+theory of structural gravity, they at least attempt to measure the meaningful concept of 
+incidence, and our results show that in practice the di between Laspeyres indexes 
+and multilateral resistance are signit. 
+4.3 Constructed Home Bias 
+Constructed Home Bias (CHB) is calculated with (8) using the power transforms of esti- 
+mated t’s and multilateral resistances for each commodity and country. In practice tkii is the 
+estimated internal trade cost for country i and commodity k relative to the smallest internal 
+trade cost for commodity k across all countries and regions. It is important to note that the 
+24 
+
+========26========
+
+normalization used to solve the gravity system for the (power transforms of) multilateral 
+resistances does not play any role in the CHB construction: CHB is independent of the 
+normalization, and of elasticity of substitution estimates because it is constructed using the 
+1 
+ k power transforms of t’s,  and P’s. 
+Aggregated country level CHB indexes,35 are obtained as weighted averages across com- 
+modity level CHB values. Recalling that CHB is interpreted as the predicted value of internal 
+trade relative to the theoretical value of internal trade in a frictionless world, the aggregate CHB for country or region i should be the ratio of predicted internal total trade 
+P 
+Xkii 
+bk 
+to frictionless internal total trade 
+P 
+Y 
+k 
+i 
+Eki =Y 
+k. This can be obtained from (8) as: 
+k 
+X 
+CHBi = 
+tk 
+1 
+ k 
+ii 
+kiPk 
+P 
+Y 
+k 
+i 
+Eki =Y 
+k 
+i k 
+Y 
+k 
+i 
+Eki =Y 
+k 
+; 
+k 
+the weighted average of commodity CHB’s, where the weights are equal to the frictionless 
+internal trade shares. 
+Column (5) of Table 5 portrays the cross national variation of CHB in 1996, which is 
+representative of our  across the whole period 1990-2002. Three properties stand 
+out. First, most of the CHB values are large. There is a massive home bias in trade ws. 
+Second, there is wide variability in CHB. Third, CHB is larger for the less developed and the 
+smaller countries, and lower for the more developed and the industrialized nations. Thus, in 
+each year, the United States (USA), Japan (JPN), and Germany (DEU) are consistently the 
+three countries with the lowest constructed home bias indexes. On the opposite side of the 
+CHB spectrum are developing and small countries such as Mozambique (MOZ), Trinidad 
+and Tobago (TTO) and Senegal (SEN), as are most of the former Soviet republics. 
+The CHB changes over the period 1990-2002 are entirely due to the general equilibrium 
+e of changes in production and expenditure shares on multilateral resistance. A fall in 
+CHB’s implies `globalization’, a fall in external trade costs relative to internal trade costs. 
+The fall is not due to the usual understanding of globalization because the  trade 
+35CHB indexes at the product level for each country are available upon request. 
+25 
+
+========27========
+
+costs tij’s (including the internal  values tii’s) are constant over time by de 
+as we employ the panel (time-invariant) gravity estimates to construct them. Intriguingly, 
+globalization (as specialization) creates losers with rising CHB as well as winners with falling 
+CHB. 
+Column (6) of Table 5 reports percentage changes in CHB for each country and region 
+in our sample. Our estimates indicate that from 1990 to 2002, CHB falls for more than 
+half of the countries while rising for the rest. The pattern is mostly explained by a parallel 
+association between market share and outward multilateral resistance. Slower than average 
+growth implies smaller market shares that are associated in the cross section with higher 
+outward multilateral resistance. The more developed and industrialized economies, which 
+in the 90’s are already pretty well set in their specialization patterns, do not experience 
+large CHB changes. Thus the United States, Germany, Great Britain, and France are in 
+the middle of the distribution of CHB changes. Notably, US experiences a moderate fall in 
+CHB. Japan, in contrast, experiences a large CHB increase. This is likely due to its lost 
+decade of slow growth in the 90s. 
+The newly liberalizing economies, which are changing their economic conditions and 
+patterns of specialization rapidly are as expected at the upper tail of the distribution of 
+CHB changes. For example, Mexico and China are among the nations experiencing large 
+CHB falls. Specialization by these two nations, during the period of investigation, was 
+stimulated by their entry into major trade agreements with the US. In addition, during the 
+90s, Mexico was heavily involved in the integration processes taking place in Latin America, 
+and toward the end of the period the country also signed a free trade agreement with the 
+European Union. 
+Some of the smaller European economies, such as Portugal and Greece, that have not 
+gone through serious economic changes during the period 1990-2002, experience an increase in 
+CHB. The explanation could be that during the 90’s, these nations faced a tough competition 
+for EU markets and resources from the newly accepted members. Finally, the big changes in 
+26 
+
+========28========
+
+former Soviet bloc trade had dit e on the CHB for the Soviet republics. Most of 
+them su a signit increase in CHB. Notably, the three countries with largest CHB 
+increase are the Kyrgyz Republic, Ukraine and Azerbaijan. However, some former Soviet 
+nations (e.g., Estonia, Latvia and Armenia) enjoyed CHB fall. 
+CHB’s vary across product lines for a single country. The patterns of CHB variation 
+across commodity categories and their change over time are revealed in columns (5) and (6) 
+of Table 6. Notably, we  that product-level CHB indexes are relatively small and much 
+more homogeneous as compared to their country-level counterparts. The explanation for 
+the small magnitude is that larger and more developed countries, that have very low CHB 
+values, are given higher weight (due to their size) in obtaining the aggregate CHB indexes 
+for each category. Even though CHB variation across product lines is not large, it makes 
+intuitive sense for the most part. Thus for example, we estimate large home biases for Food 
+and Beverage and Tobacco, which we believe are demand-driven, and for Petroleum and 
+Coal and Mineral Products, which we explain with the nature of production and supply.36 
+The low CHB values for Leather and Transportation are also intuitive and can be explained 
+with clear world specialization patterns in these sectors. 
+To assess the relative importance of specialization vs. changes in bilateral trade costs, 
+we construct an alternative CHB measure, where we employ the yearly gravity estimates 
+to calculate  trade costs, tij’s. Comparison between the CHB changes obtained with 
+the panel and the yearly gravity estimates (available upon request) reveal that they are 
+almost identical. This suggests that the decrease in the CHB indexes is indeed due to the 
+general equilibrium e of changes in production and expenditure shares on the multilateral 
+resistances, and that the usual forces of globalization (through the  bilateral trade costs) 
+have played a small role for the CHB changes during the period 1990-2002. 
+36In particular, even though Petroleum and Coal and Mineral Products are natural resource sectors and one may expect low home biases for these categories, it should be remembered that our data covers trade and production of manufactured products, which often are produced domestically from crude natural resources that are imported, however our data does not cover natural resource trade ws. This also explains the large gravity estimates of the SMCTRY coets, capturing internal trade, for Petroleum and Coal, Minerals, and Wood. 
+27 
+
+========29========
+
+4.4 TFP, Incidence and Real Output 
+Changes in the incidence of trade costs (globalization) impact real output like TFP changes. 
+The real output changes in the last column of Table 5, are constructed using the chain pro- 
+cedure of Section 1.2. As discussed earlier, buyers in most countries have enjoyed decreasing 
+inward multilateral resistances (see column 2), while sellers in about two thirds of the nations 
+have su an increasing incidence of trade costs (see column 4). The changes in real out- 
+put (see column 7) suggest that a bit more than half the world’s countries experience rising 
+real output while the remainder of countries experience falling real output. Globalization as 
+specialization generates winners and losers, tending toward a zero sum in our results. 
+It is important to note that our results for real output changes are independent of (i) 
+the normalization used for calculating the multilateral resistances in each year, and (ii) the 
+choice of a price deor (if any) chosen to intertemporally link the multilateral resistances in 
+calculating (9). In contrast, the results are sensitive to the choice of elasticity of substitution 
+in each sector, and the division of gains/losses between buyers and sellers does depend on 
+the external price de 
+The pattern of real output changes makes intuitive sense for the most part. In the cross 
+section, and over time, sellers’ incidence tends to fall with increases in output shares.37 
+Thus, nations that have been heavily involved in trade (and wider economic) liberalization 
+during the 90s, such as China and Mexico, are among the countries with largest real output 
+gains. Disaggregated real output changes (available upon request) reveal that these nations 
+are consistently among the countries with largest real output gains at the commodity level. 
+Venezuela is another example of a country that liberalized trade intensively during the 90s. 
+Moreover, oil accounts for only one third of Venezuela’s GDP, and manufacturing, which 
+accounts for about one  of GDP, has been growing steadily at very high rates. These 
+characteristics explain Venezuela’s high real output bene from the incidence of TFP in 
+distribution. 
+37See Anderson and Yotov (2009) for more evidence and some theoretical insight. 
+28 
+
+========30========
+
+Most of the countries that su large real output decline during the 90s are developed 
+nations, economies in transition, and members of the former Soviet bloc. In the case of 
+the latter (see Russia for example) producers often enjoy signit decrease in outward 
+multilateral resistance, however, the loss for consumers is even larger. These  are 
+supported at the commodity level as well. Along with the developing economies and the 
+economies in transition, some developed nations, led by Japan, also experienced large real 
+output loss. The explanation is that Japan su a lost decade of slow growth in the 90s. 
+We  most of the other developed nations somewhere in the middle of the real output 
+changes distribution. 
+For some nations, the real output e of globalization is quite heterogeneous across 
+sectors. For example, even though Brazil has a large average fall in real output, this country 
+enjoyed the third largest real output gain (after China and Hong Kong, but in front of 
+Italy) for leather products in the world. This is consistent with the fact that Brazil is one 
+of the world’s largest leather producers and it gained signitly from the geographical 
+redistribution of the leather industry during the early 90s. More interestingly, Brazil is 
+the leader in real output gains in the Petroleum and Coal industry. Brazilian consumers 
+bene from falling oil prices during the 90s. Brazilian oil producers however, were some 
+of the few in the world that actually enjoyed a fall in outward multilateral resistance. A 
+possible explanation could be the opening of the oil sector in this country to private and 
+foreign investors during the late 90s, when Brazil started establishing itself as one of the big 
+players in the oil industry. 
+While globalization as specialization generates clear winners and losers at the country- 
+level, our estimates reveal no signit real output changes for the world economy at the 
+product-level over the period 1990-2002. See column (7) of Table 6. The overall real out- 
+put e for all manufacturing in the world economy is 0:3%. In principle, the shifts in 
+output and expenditure shares could signitly raise this measure of world e, as 
+on a smaller scale Anderson and Yotov argued was the case for Canada’s provinces, due 
+29 
+
+========31========
+
+to expenditure on average rising where inward trade costs are relatively low and similarly 
+supply rising where outward trade costs are relatively low.38 
+Openness is positively associated with growth via the globalization as specialization chan- 
+nel. Changes in CHB and changes in the incidence of TFP have a correlation coet 
+varying between 
+ 0:3 and 
+ 0:4, depending on the approach used in the calculation of real 
+output changes.39 
+4.5 Directional Fixed E and Structural Gravity 
+Structural gravity implies that the sum of the origin (exporter) and destination (importer) 
+country  e ki;t + kj;t from equation (13) is equal to ln [Ekj Pk 
+k 
+j 
+ 1Y 
+k 
+i 
+k 
+k 
+i 
+ 1=Y 
+k]. 
+The constant term Y 
+k 
+implies that the origin and destination  e are not separately 
+identi40 
+Structural gravity can be tested, allowing for the constant term, with the 
+regression: 
+bki;t + bkj;t = k0 + k;t1 ln [Ekj;tPk 
+k 
+j;t 
+ 1 
+Y 
+k 
+i;t 
+k 
+k 
+i;t 
+ 1 ] + ekij;t 
+(14) 
+for each k and t. Here ekij;t is a random error term, ^ki;t and ^kj;t are the estimates of the exporter 
+and importer  e for the indexed country and commodity class k at time t (measured 
+as deviations from the corresponding value for US, which is the excluded country in our  stage gravity estimations). ^ki;t and ^kj;t are obtained from yearly PPML gravity estimations 
+with robust standard errors clustered by trading pair. Ekj;t is the total expenditure on goods 
+38Totally ditiate (5)-(6), multiply by 
+si  Yi=Y and j  E 
+j=Y 
+respectively and sum over countries. Rearranging the results: 
+0 1 
+X X X X 
+(si + wij)c 
+1 
+X 
+i 
++ (bj + wij)Pbj = 
+@X 
+i j j i 
+1  
+wijb bj + wijsbiA 
+i;j i;j 
+where wij = sibj(tij=iPj)1 
+  
+and 
+P 
+i;j 
+wij = 1. In the frictionless economy, the right hand side is equal to zero because the sum of shares is equal to 1. Elsewhere, the right hand side is negative as b’s tend on average to rise where the composite trade friction term is large (i.e., tij=iPj is small), and as s’s tend on average to rise where the composite trade friction term is large (tij=iPj is small.39 
+The correlation indexes obtained with the chain-type output numbers are larger. Furthermore, if we eliminate the outliers with CHB indexes above 1000, the correlation between the changes in CHB and the changes in the incidence of TFP varies between  0:4 and  0:5. 
+40Information on 
+Y 
+k 
+can be utilized for identi but it may be problematic due to measurement error. 
+30 
+
+========32========
+
+from class k in country j at time t. Y 
+k 
+i;t 
+is the corresponding output value. Finally, (Pkj;t)1 
+ k 
+and (ki;t)1 
+ k 
+are the calculated power transforms of the inward and outward multilateral 
+resistances of goods from class k in each country at time t. Structural gravity theory implies 
+that the estimate of k;t1 should be equal to 1. 
+Our results show that the estimated 1’s cluster quite close to 1, suggesting that structural 
+gravity does a good job. The top panel of Table 1, labeled Aggregate Fixed E presents 
+the results of (14) pooled across sectors (with sector  e The column headed Panel 
+also pools across time.41 The estimate of 0:96 is statistically signintly below 1, but in an 
+economic sense is very close to 1. Decomposing by sectors, some 1’s are more dit from 
+1 while others are not statistically signitly dit from 1. A standard F-test rejects 
+the null hypothesis that 1 = 1. Without Textiles and Apparel, where the un-modeled MFA 
+is at work, the coet rises closer to 1 and the F-statistic falls.42 
+An alternative procedure based on (14) avoids the problem of measurement error bias, and 
+suggests the relative unimportance of deviations from structural gravity due to unmodeled 
+country  e Impose k;t1 = 1 and solve for 
+bki;t + bkj;t 
+ ln [Ekj;tPk 
+k 
+j;t 
+ 1 
+Y 
+k 
+i;t 
+k 
+k 
+i;t 
+ 1 
+] = k0(t) + ekij;t: 
+The left hand side is observable, and can be regressed on a set of sector-time  e 
+and country  e in a panel structure:43 
+bki;t + bkj;t 
+ ln [Ekj;tPk 
+k 
+j;t 
+ 1 
+Y 
+k 
+i;t 
+k 
+k 
+i;t 
+ 1 
+] = 0 + 
+k 
+t 
++ i + ekij;t 
+(15) 
+Sector-time  e re Y 
+k 
+t 
+in structural gravity. Country  e surely re 
+41Yearly estimates are obtained with industry  e and product-year dummies are employed in the panel estimations. 
+42We also experiment by removing Petroleum and Coal from the sample. Results are not sensitive to such speci 
+43Since the 
+bki;t + bkj;t variables are estimated as deviations from the US, the composite variable ln [Ekj Pkj 
+k  1Y 
+k 
+i 
+k 
+k 
+ 1 
+i 
+] is also constructed as a deviation from the US value. 
+31 
+
+========33========
+
+country-speci border barriers not modeled in (13) due to lack of observations. Thus any 
+values of the coets could be consistent with structural gravity. But country  e 
+could alternatively indicate deviations from the structural gravity model such as activity 
+elasticities not equal to one. We test sensitivity to alternative implications of country  
+e by showing that structural gravity does quite well even under the no country  
+e (i = 0) speci 
+Figure 1 illustrates the results. The x-axis shows the dependent variable of (15) and the 
+y-axis shows the  residual values ebkij;t of (15). If neither sector-time nor country  
+e mattered, the points would lie on the 45 degree line. Instead, the sector-time  
+e control for systematic variation. Dispersion is indicated by the 95% con band 
+about the line. The line labeled \Fitted Values No Country FEs" gives the  values of 
+(15) estimated subject to i = 0.44 The statistical test of country  e rejects the 
+null hypothesis, but the lines are close together in the sense that the \No Country FEs" line 
+is well inside the 95% con band for the All FEs speci for most of the relevant 
+range.45 The picture suggests that the restrictions of structural gravity come close to being 
+satis by the data even if unmodeled country-speci characteristics include components outside the model. A further consistency check follows because the estimated 
+bkt 
++bi values 
+can be rescaled as factors that shift trade ws of the gravity equation in levels, obtained by 
+exponentiating. These range from around 0.3 to 2.3, plausibly associated with sector  
+e46 
+44For visual clarity, the data range is truncated to exclude an outlying 0.18% of dependent variable observations. 
+45About 1=4 of country  e are not statistically signit, although the F-test for joint signi rejects the null hypothesis for country-speci  e We also experiment by breaking the sector-time dummies into separate year and product  e to  that none of the year dummies are economically signit, and the three year coets that are statistically signit (1991, 1993 and 2001) are only marginally so. Full details are available on request. 
+46The time component is unimportant in our data. The range of the  values is comparable to the range of values implied by the total shipments data Y 
+k=[ 
+P 
+Y 
+k=N] where 
+k 
+N is the number of sectors. This is (0:07;2: 36) and is stable over time. There is no need for the two ranges to match to be consistent with structural gravity, because of the inuence of country e on the  values and because the structural gravity model can allow for measurement error such that the constant term need not equal the mean shipment value. 
+32 
+
+========34========
+
+An eclectic approach allows for directional country  e not implied by structural 
+gravity: 
+^kj;t = k0 + k2 ln(Pkj;t) 
+k 
+ 1 
++ k3 lnEkj;t + +vkj;t 
+(16) 
+for the destination country, and 
+^ki;t = k0 + +k2 ln(ki;t) 
+k 
+ 1 
++ k3 lnY 
+k 
+i;t 
++ uki;t 
+(17) 
+for the source country. The eclectic form (16)-(17) produces results that deviate more (as 
+compared to (14)) from the strict structural gravity model. See the panels labeled Inward 
+E and Outward E in Table1 for the results pooled across sectors. Both the strict 
+and eclectic versions of gravity indicate that the structural model variables account well for 
+much of the variation in the directional  e 
+The results give useful clues for amending the theory. Most notably, some sectors are 
+less well described by structural gravity than the others, especially those for Textiles and 
+Apparel where the Multi-Fibre Arrangement is at work. Dropping these sectors moves 1 
+closer to 1. A better approach, beyond the scope of this study, is to specify bilateral trade 
+costs for these sectors to capture the e of the MFA. 
+The earlier gravity literature that utilized GDP’s of origin and destination countries also 
+often found elasticities that di from 1, often by more than our estimates. Previous 
+estimates are dubious for three reasons. First, aggregate gravity surs from aggregation 
+bias (Anderson and van Wincoop, 2004). Second, the appropriate activity variables are for 
+total shipments, not a value added concept like GDP. Third, gravity models without controls 
+for multilateral resistance have omitted variable bias (Anderson and van Wincoop, 2003). 
+33 
+
+========35========
+
+5 Conclusion 
+Specialization acting on the composition and incidence of trade costs is revealed to be a 
+powerful force moving the world’s economies. The structural gravity model applied in this 
+paper shows that more than half of countries experience signit declines in Constructed 
+Home Bias while the remainder experience rising CHB. Changes in buyers’ and sellers’ 
+incidence raise real output of more than half the countries while lowering real output of the 
+remainder. At the extremes, the changes in CHB and real output e of incidence changes 
+are big. 
+The disaggregated structural gravity model is revealed as successful in  the data. 
+Despite this, our methods uncover remaining anomalies that point toward ret of the 
+model, taking us beyond the scope of this paper. Future work should address the impact of 
+measured border restrictions and proxies for non-border variables that act ditially on 
+international trade, confronting the issues of endogeneity that arise. Future work should also 
+include development of data that would permit extending the coverage of structural gravity 
+estimation to disaggregated trade ws in non-manufacturing sectors. 
+34 
+
+========36========
+
+References 
+Anderson, James E. 1979. \A theoretical foundation for the gravity equation", American 
+Economic Review 69, 106-116. 
+Anderson, James E. and Eric van Wincoop. 2004.\Trade Costs", Journal of Economic 
+Literature, 42, 691-751. 
+Anderson, James E. and Eric van Wincoop. 2003. \Gravity with Gravitas", American 
+Economic Review, 93, 170-92. 
+Anderson, James E. and Yoto V. Yotov. Forthcoming. \The Changing Incidence of Geog- 
+raphy," American Economic Review. 
+Baier, Scott L. and Je H. Bergstrand. 2007. \Do free trade agreements actually increase 
+members’ international trade?," Journal of International Economics, 71(1), 72-95. 
+Bergstrand, Je H. (1985), \The Gravity Equation in International Trade: Some Microe- 
+conomic Foundations and Empirical Evidence", Review of Economics and Statistics, 67(3), 
+474-81. 
+Broda, C., J. Green and D. Weinstein, \From Groundnuts to Globalization: A Structural 
+Estimate of Trade and Growth", NBER Working Paper No. 12512, 2006. 
+Cheng, I.-Hui and Howard J. Wall. 2002. \Controlling for heterogeneity in gravity models 
+of trade", Federal Reserve Bank of St. Louis Working Paper vol. 1999-010C. 
+Costinot, Arnaud and Ivana Komunjer (2007), \What Goods Do Countries Trade? New 
+Ricardian Predictions", NBER Working Paper No. 13691. 
+Diewert, W. Erwin. 2008. \Index Numbers", New Palgrave Dictionary of Economics, 2nd 
+Ed., Palgrave-Macmillan, S. N. Durlauf and L.E. Blume, eds. 
+Eaton, Jonathan, and Samuel Kortum. 2002. \Technology, Geography, and Trade", Econo- 
+metrica, 70: 1741-1779. 
+Feenstra, Robert. 2004. Advanced International Trade: Theory and Evidence, Princeton, 
+NJ: Princeton University Press. 
+Gaulier, G. and S. Zignago (2008), \BACI: A World Database of International Trade Analysis 
+35 
+
+========37========
+
+at the Product Level", Technical report, CEPII Working Paper, Forthcoming. 
+Helpman, Elhanan, Marc J. Melitz and Yona Rubinstein. 2008. \Estimating Trade Flows: 
+Trading Partners and Trading Volumes", Harvard University, Quarterly Journal of Eco- 
+nomics, 123: 441-487. 
+Mayer, T. and R. Paillacar and S. Zignago (2008), \TradeProd. The CEPII Trade, Produc- 
+tion and Bilateral Protection Database: Explanatory Notes", CEPII. 
+Mayer, T. and S. Zignago (2006), \Notes on CEPIIs distances measures", CEPII. 
+Mayer, T. and S. Zignago (2005), \Market Access in Global and Regional Trade", CEPII 
+Working Paper 2005-02. 
+Head, Keith and Thierry Mayer (2000), \Non-Europe : The Magnitude and Causes of Market 
+Fragmentation in Europe", Weltwirtschaftliches Archiv 136, 285-314. 
+Nicita, A. and M. Olarreaga (2006), \Trade, Production and Protection 1976-2004", World 
+Bank Economic Review 21(1). 
+Olivero, Maria and Yoto V. Yotov. 2009. \Dynamic Gravity: Theory and Empirical Impli- 
+cations," Manuscript, Drexel University. 
+Redding, Stephen and Anthony J. Venables. 2004. \Economic Geography and International 
+Inequality", Journal of International Economics, 62(1), 53-82. 
+Rose, Andrew K. (2004), \Do WTO members have more liberal trade policy? ", Journal of 
+International Economics, 63, 209-235. 
+Santos Silva, Jorge and Sylvana Tenreyro. 2006. \The Log of Gravity", Review of Economics 
+and Statistics, Vol. 88, No. 4: 641-658. 
+Yoto V. Yotov. 2009. \On the Incidence and Welfare E of Free Trade Agreements," 
+Manuscript. 
+36 
+
+========38========
+
+Table 2: PPML Panel Gravity Estimates 
+Food BevTob Textiles Apparel Leather Wood DIST1 -0.572 -0.876 -0.031 -0.024 -0.085 -0.736 
+(0.134)** (0.254)** (0.139) (0.125) (0.167) (0.175)** DIST2 -0.705 -1.010 -0.232 -0.249 -0.213 -0.833 
+(0.126)** (0.245)** (0.129)+ (0.114)* (0.154) (0.159)** DIST3 -0.681 -0.954 -0.250 -0.229 -0.165 -0.804 
+(0.122)** (0.235)** (0.122)* (0.109)* (0.146) (0.151)** DIST4 -0.657 -0.948 -0.260 -0.227 -0.206 -0.838 
+(0.116)** (0.218)** (0.120)* (0.107)* (0.141) (0.147)** BRDR 0.884 0.003 0.926 0.984 0.639 1.065 
+(0.219)** (0.396) (0.196)** (0.186)** (0.210)** (0.193)** LANG 0.538 0.740 0.653 0.830 0.563 0.595 
+(0.210)* (0.237)** (0.165)** (0.187)** (0.201)** (0.174)** CLNY -0.107 0.639 0.049 0.343 0.251 -0.065 
+(0.189) (0.285)* (0.168) (0.190)+ (0.255) (0.128) SMCTRY 4.046 3.731 3.105 3.506 2.395 3.627 
+(0.271)** (0.547)** (0.269)** (0.272)** (0.321)** (0.267)** CONST 17.002 17.174 12.775 10.239 9.784 16.175 
+(0.979)** (1.919)** (1.007)** (1.043)** (1.187)** (1.200)** N 21172 21029 21168 21160 21072 21172 LL -3.902e+08 -1.655e+08 -2.093e+08 -2.513e+08 -6.912e+07 -6.187e+07 Notes: + p < 0:10, * p < :05, ** p < :01. Huber-Eicker-White clustered standard errors are reported in parentheses. Estimation results for each commodity are obtained with time-varying, directional, country-speci  e The years used in the estimations are 1990, 1994, 1998, and 2002. 
+37 
+
+========39========
+
+Table 3: PPML Panel Gravity Estimates 
+Furniture Paper Priniting Chemicals PetrCoal RbbPlst DIST1 -0.577 -0.642 -0.293 -0.378 -0.344 -0.439 
+(0.206)** (0.156)** (0.129)* (0.117)** (0.244) (0.118)** DIST2 -0.685 -0.768 -0.395 -0.506 -0.406 -0.623 
+(0.187)** (0.144)** (0.121)** (0.109)** (0.224)+ (0.113)** DIST3 -0.687 -0.781 -0.409 -0.506 -0.473 -0.584 
+(0.178)** (0.139)** (0.118)** (0.103)** (0.210)* (0.104)** DIST4 -0.671 -0.774 -0.384 -0.525 -0.502 -0.576 
+(0.177)** (0.135)** (0.114)** (0.098)** (0.202)* (0.097)** BRDR 0.993 0.767 1.042 0.440 0.941 0.942 
+(0.220)** (0.204)** (0.206)** (0.181)* (0.267)** (0.153)** LANG 0.289 0.409 1.197 0.686 0.661 0.228 
+(0.279) (0.146)** (0.157)** (0.155)** (0.210)** (0.182) CLNY 0.180 -0.218 0.446 0.068 0.181 0.030 
+(0.177) (0.203) (0.161)** (0.196) (0.243) (0.243) SMCTRY 3.528 2.734 5.485 2.261 5.032 3.358 
+(0.369)** (0.287)** (0.283)** (0.245)** (0.427)** (0.230)** CONST 15.476 17.151 13.232 16.587 7.967 15.644 
+(1.462)** (1.105)** (0.966)** (0.887)** (1.819)** (0.847)** N 21172 21172 21172 21172 20938 21172 LL -5.657e+07 -1.133e+08 -4.182e+07 -6.543e+08 -2.341e+08 -1.007e+08 Notes: + p < 0:10, * p < :05, ** p < :01. Huber-Eicker-White clustered standard errors are reported in parentheses. Estimation results for each commodity are obtained with time-varying, directional, country-speci  e The years used in the estimations are 1990, 1994, 1998, and 2002. 
+Table 4: PPML Panel Gravity Estimates 
+Minerals Metals Machinery Electric Transport Other DIST1 -0.812 -0.388 -0.184 0.031 -0.612 -0.221 
+(0.126)** (0.097)** (0.130) (0.121) (0.159)** (0.123)+ DIST2 -0.933 -0.503 -0.271 -0.091 -0.745 -0.293 
+(0.123)** (0.091)** (0.117)* (0.112) (0.153)** (0.108)** DIST3 -0.867 -0.512 -0.280 -0.135 -0.680 -0.297 
+(0.115)** (0.087)** (0.108)** (0.101) (0.139)** (0.104)** DIST4 -0.891 -0.513 -0.242 -0.080 -0.675 -0.280 
+(0.110)** (0.084)** (0.103)* (0.095) (0.123)** (0.095)** BRDR 0.748 0.894 0.573 0.954 0.711 0.615 
+(0.190)** (0.142)** (0.154)** (0.229)** (0.194)** (0.163)** LANG 0.376 0.508 0.511 0.274 0.043 -0.148 
+(0.162)* (0.103)** (0.185)** (0.189) (0.177) (0.216) CLNY 0.004 0.169 0.155 0.242 0.024 0.380 
+(0.135) (0.094)+ (0.150) (0.136)+ (0.347) (0.153)* SMCTRY 3.477 2.977 2.203 2.511 1.785 2.061 
+(0.275)** (0.197)** (0.221)** (0.215)** (0.317)** (0.245)** CONST 17.607 16.464 4.872 13.856 13.612 14.134 
+(0.937)** (0.704)** (1.247)** (0.856)** (1.437)** (0.828)** N 21172 21172 21160 21168 21164 21152 LL -7.913e+07 -4.429e+08 -6.863e+08 -7.314e+08 -9.395e+08 -2.424e+08 Notes: + p < 0:10, * p < :05, ** p < :01. Huber-Eicker-White clustered standard errors are reported in parentheses. Estimation results for each commodity are obtained with time-varying, directional, country-speci  e The years used in the estimations are 1990, 1994, 1998, and 2002. 
+38 
+
+========40========
+
+Table 5: Trade Costs and Output Indexes by Country 
+(1) (2) (3) (4) (5) (6) (7) ISO IMR1996 %IMR90=02 OMR1996 %OMR90=02 CHB1996 %CHB90=02 Output ARG 1.5 6.4 3.2 7.2 71 51 -13.6 ARM 1.7 -3.0 3.5 -6.9 2423 -39 10.0 AUS 1.5 -3.1 3.2 9.7 60 15 -6.7 AUT 1.2 -4.1 2.9 7.0 41 13 -2.9 AZE 2.0 8.8 2.7 17.1 737 154 -25.9 BGR 1.6 -2.7 3.1 17.8 194 135 -15.1 BLX 1.1 1.0 2.7 6.8 37 30 -7.8 BOL 2.0 -6.0 4.0 11.2 778 -5 -5.2 BRA 1.5 0.6 3.0 6.8 32 56 -7.4 CAN 1.3 5.0 2.7 -3.9 19 -0 -1.1 CHL 1.7 -2.8 4.0 0.8 168 -10 2.0 CHN 1.3 -15.7 2.3 -0.6 12 -51 16.3 COL 1.6 -2.5 3.2 -3.9 163 -21 6.4 CRI 1.7 -2.6 3.6 -8.8 694 -33 11.5 CYP 1.6 -8.1 3.9 8.1 570 28 0.0 CZE 1.3 -14.6 3.2 15.1 67 -9 -0.5 DEU 1.0 -11.0 2.3 8.7 8 0 2.3 DNK 1.2 -4.8 3.1 1.4 74 14 3.4 ECU 1.7 -7.3 3.6 -0.3 604 -34 7.7 EGY 1.6 -5.4 2.9 20.1 177 40 -14.8 ESP 1.2 -6.8 2.8 6.6 25 -2 0.3 EST 1.6 -1.0 4.3 -6.4 704 -54 7.4 FIN 1.3 -3.8 3.1 7.6 63 -6 -3.9 FRA 1.1 -6.5 2.4 8.8 11 2 -2.3 GBR 1.1 -1.2 2.4 5.4 14 15 -4.2 GRC 1.4 -1.5 3.1 11.5 117 29 -10.0 GTM 1.6 -3.1 3.5 -16.5 618 -56 19.5 HKG 1.4 -3.6 1.8 -9.9 20 -22 13.5 HUN 1.4 -12.7 3.0 13.7 142 -36 -1.0 IDN 1.5 -20.2 3.6 8.5 65 -33 11.7 IND 1.8 -17.0 2.6 9.7 44 -13 7.3 IRL 1.2 -5.1 2.9 -0.0 88 -53 5.1 IRN 1.5 -4.8 3.0 -2.6 126 -26 7.3 ITA 1.1 -10.4 2.8 8.1 13 -14 2.4 JOR 1.7 -14.1 3.6 17.5 866 -28 -3.5 JPN 1.1 -1.0 1.9 7.3 5 41 -6.3 KAZ 1.7 -2.7 3.6 -0.5 464 -31 3.2 KEN 1.8 -9.1 3.3 3.7 359 -56 5.4 KGZ 2.1 0.0 4.0 -3.9 2554 276 3.8 KOR 1.4 -14.9 2.1 8.4 20 -28 6.5 KWT 1.6 -27.9 2.3 84.3 132 13 -56.4 LKA 1.9 -8.1 3.6 3.6 481 -56 4.5 LTU 1.5 -6.5 3.5 8.3 459 -16 -1.8 LVA 1.7 -9.9 4.0 -5.9 679 -43 15.8 MAR 1.5 -2.6 3.4 -0.1 207 11 2.7 MDA 1.8 0.8 4.5 -0.1 1224 24 -0.7 MEX 1.5 -0.8 2.7 -12.4 53 -50 13.3 MKD 1.6 0.3 3.7 5.0 642 94 -5.3 MLT 1.5 -3.5 2.9 -3.3 492 -12 6.8 Continued 
+39 
+
+========41========
+
+Table 5 { continued from previous page 
+(1) (2) (3) (4) (5) (6) (7) ISO IMR1996 %IMR90=02 OMR1996 %OMR90=02 CHB1996 %CHB90=02 Output MNG 2.3 -14.3 3.8 8.8 1328 139 5.5 MOZ 2.2 -9.2 5.7 -0.2 2630 -44 9.4 MUS 2.2 -8.3 4.2 -3.8 658 -37 12.1 MYS 1.5 -15.0 2.8 3.3 36 -52 11.7 NLD 1.1 -2.9 2.8 3.6 39 24 -0.7 NOR 1.3 0.7 3.0 3.5 80 13 -4.2 OMN 1.9 -5.5 3.4 33.6 948 -49 -28.1 PAN 1.7 -9.2 3.5 -2.2 872 -15 11.5 PHL 1.7 -12.5 2.6 10.7 101 -26 1.8 POL 1.3 -11.3 3.1 4.5 59 -23 6.8 PRT 1.3 -3.3 3.3 6.6 72 14 -3.3 ROM 1.4 -4.5 3.5 7.3 136 -14 -2.7 RUS 1.4 13.8 3.0 -6.2 39 33 -7.6 SEN 2.1 4.6 3.3 -7.4 1336 -5 2.9 SGP 1.5 -19.9 2.0 29.6 56 7 -9.6 SLV 1.8 -5.7 3.4 -10.6 1186 -54 16.3 SVK 1.4 -7.9 3.2 10.5 190 -14 -2.6 SVN 1.4 -5.4 3.4 0.2 172 14 5.2 SWE 1.3 -1.5 2.9 8.3 52 13 -6.8 TTO 1.7 -4.8 3.8 3.7 1577 -58 1.1 TUR 1.4 -10.8 2.9 10.3 53 -7 0.5 TZA 1.9 -4.6 4.5 -4.5 1254 -28 9.1 UKR 1.5 -12.8 3.4 17.6 163 203 -4.8 URY 1.8 -3.4 3.8 11.2 440 7 -7.7 USA 1.1 7.3 2.0 -9.9 3 -11 2.6 VEN 1.6 -12.2 3.4 -0.1 196 -67 12.3 ZAF 1.5 -10.2 3.3 18.9 112 29 -8.7 Columns (1) and (3) of this table report de IMR and OMR levels, respectively by country for 1996. IMR (OMR) indexes are obtained from the corresponding individual commodity category values with expenditure (output) shares used as weights. IMR and OMR changes over the period 1990-2002, constructed using the chain procedure described in the text, are reported in columns (2) and (4). CHB levels and changes by country are presented in columns (5) and (6). Column (7) reports real output changes by country over the period 1990-2002. 
+40 
+
+========42========
+
+Output 
+02 
+= 
+90 
+CHB 
+% 
+1996 
+CHB 
+02 
+= 
+90 
+OMR 
+% 
+1996 
+OMR 
+02 
+= 
+90 
+IMR 
+% 
+Table 6: Trade Cost and Output Indexes by Product 
+1996 
+(1) (2) (3) (4) (5) (6) (7) 
+IMR 
+Coal 353 2.21 -80.76 1.19 80.38 9.4 25.2 0.38 
+Plst 355 1.00 8.48 3.17 -8.48 6.5 -5.4 -0.00 
+Tob 313 1.16 -19.12 4.25 19.21 9.8 -5.9 -0.09 
+Prod. Descr ISIC 
+Food 311 1.32 12.01 2.55 -12.40 9.1 -1.3 0.39 
+Bev 
+Textiles 321 1.16 1.35 1.69 -1.82 7.3 -19.4 0.47 
+Apparel 322 0.89 -4.91 3.05 4.77 5.8 -22.3 0.14 
+Leather 323 1.06 1.99 1.49 -2.01 4.0 -32.2 0.02 
+Wood 331 1.40 -20.32 4.57 20.24 5.6 -12.6 0.08 
+Furniture 332 0.86 10.85 6.17 -11.02 6.7 -37.7 0.17 
+Paper 341 1.41 5.13 2.70 -5.10 5.5 -0.1 -0.02 
+Printing 342 1.27 3.50 2.35 -3.51 5.5 -13.7 0.02 
+Chemicals 351 1.28 0.08 2.25 -0.15 6.2 -0.7 0.06 
+Petr 
+Rbb 
+Minerals 361 0.91 0.79 4.40 -0.96 9.6 -2.2 0.17 
+Metals 371 1.08 -2.93 2.49 2.94 6.5 -0.2 -0.01 
+Machinery 382 1.09 -2.26 1.71 2.27 4.4 -2.1 -0.02 
+Electric 383 1.14 7.04 1.44 -7.03 3.5 9.9 -0.00 
+Transport 384 1.06 5.41 1.70 -5.40 4.3 -1.5 -0.01 
+Other 390 1.20 5.24 1.77 -5.27 3.2 -1.2 0.03 
+Columns (1) and (3) of this table report de IMR and OMR levels, respectively by product for 1996. IMR(OMR) 
+indexes are obtained from the corresponding individual commodity category values with expenditure(output) shares 
+used as weights. IMR and OMR changes over the period 1990-2002, constructed using the chain procedure described 
+in the text, are reported in columns (2) and (4). CHB levels and changes by product are presented in columns (5) 
+and (6). Column (7) reports real output changes by product over the period 1990-2002. 
+41 
+
+========43========
+
+Table 7: Gravity Fixed E Composition 
+(1) (2) (3) (4) (5) 
+1990 1996 2002 PANEL NOTXTL 
+AGGREGATE FIXED EFFECTS 
+lnY 
+k 
+i 
+Ekj Pk 
+k 
+ 1kk  1 
+j i 
+0.937 0.967 0.967 0.962 0.972 
+(0.016)** (0.009)** (0.009)** (0.003)** (0.003)** cons -53.355 -55.928 -56.537 -54.660 -55.206 
+(0.818)** (0.453)** (0.500)** (0.169)** (0.167)** R2 0.938 0.944 0.917 0.933 0.942 F(1;) 16.09 14.67 12.49 167.04 87.97 N 1097 1350 1350 16972 15087 
+INWARD EFFECTS 
+lnPk 
+k 
+ 1 
+j 
+0.356 0.383 0.232 0.361 0.390 
+(0.029)** (0.026)** (0.086)** (0.011)** (0.012)** lnEkj 0.759 0.810 0.774 0.798 0.815 
+(0.017)** (0.015)** (0.034)** (0.006)** (0.006)** cons -19.953 -21.203 -20.503 -20.846 -21.277 
+(0.405)** (0.369)** (0.864)** (0.142)** (0.152)** R2 0.900 0.907 0.861 0.899 0.908 lnEkj Pk 
+k 
+ 1 
+j 
+0.788 0.857 0.815 0.842 0.859 
+(0.028)** (0.018)** (0.044)** (0.007)** (0.007)** cons -21.007 -22.870 -22.116 -22.301 -22.711 
+(0.660)** (0.425)** (1.061)** (0.166)** (0.178)** R2 0.796 0.821 0.746 0.814 0.822 N 1098 1350 1350 16992 15104 
+OUTWARD EFFECTS 
+ln k 
+k 
+ 1 
+i 
+0.380 0.490 0.564 0.492 0.496 
+(0.071)** (0.040)** (0.031)** (0.014)** (0.014)** lnY 
+k 
+i 
+0.772 0.839 0.831 0.834 0.837 
+(0.023)** (0.016)** (0.011)** (0.006)** (0.006)** cons -22.137 -24.840 -25.295 -24.139 -24.226 
+(0.862)** (0.542)** (0.391)** (0.204)** (0.210)** R2 0.896 0.908 0.919 0.889 0.893 lnY 
+k 
+k 
+k 
+ 1 
+i i 
+0.801 0.876 0.849 0.866 0.870 
+(0.025)** (0.015)** (0.010)** (0.006)** (0.006)** cons -24.953 -27.795 -27.383 -26.795 -26.895 
+(0.701)** (0.424)** (0.300)** (0.207)** (0.210)** R2 0.862 0.893 0.909 0.873 0.877 N 1097 1350 1350 16972 15087 Standard errors in parentheses. + p < 0:10, * p < :05, ** p < :01. The yearly estimates are obtained with product  e The panel estimates are obtained with product-year  e Fixed e estimates are omitted for brevity. The estimator is weighted least squares. See text for details. 
+42 
+
+========44========
+
+10 
+5 
+0 
+Predicted Residuals 
+-5 
+-5 
+0Difference Between FEs and the Structural Term 5 
+10 
+95% Confidence Interval Fitted Values All FEs Fitted Values No Country FEs 45-degree Line 
+  
+Figure 1: Fixed E 
+43 
+
+========45========
+
+Appendix A: Technical Appendix 
+The conceptual economic foundation for the real output calculations is the expenditure 
+function for a representative consumer e(Pf; u) where Pf denotes the vector of  goods 
+prices to the consumer and u denotes real income; and the maximum value GDP function for 
+the supply side of the economy g(; Pm; v) where  denotes the vector of seller price de 
+(the factory gate price is inversely related to  Pm denotes the vector of intermediate input 
+prices to buyers and v denotes the vector of primary factors. For notational ease the country 
+subscript is suppressed. 
+Conceptually sound index numbers use the distance function to aggregate vectors of price 
+changes into scalar indexes so as to be consistent with economically meaningful objectives. 
+It is helpful as a preliminary step to illustrate with the `true cost of living’ index. The goal 
+is to de a real-income (utility) equivalent index of a`new’ price vector Pt with respect to 
+an `old’ reference price vector P0. There are two consistent alternatives: 
+C(Pt; P0; u0) = C : e(C  Pt; u0) = e(P0; u0)  (18) 
+and 
+E(Pt; P0; ut) = E : e(Pt; ut) = e(D  p0; ut): 
+(19) 
+(18) is a compensating variation index that de the new price vector so as to reduce 
+real income to the old level u0, all while maintaining expenditure at the old level. (19) is an 
+equivalent variation measure that de the new price vector so as to deliver the new level 
+of utility if the economy faced the old vector of prices, all while maintaining expenditure at 
+the new level. Notice that with a set of `new’ prices in a time series, (19) has changing real 
+income ut while (18) maintains real income at u0. 
+We develop the equivalent variation indexes below, and in the text we report only the 
+equivalent variation measures. In practice the di between them in our application 
+involves whether we de the inward Multilateral Resistance of our numeraire country 
+44 
+
+========46========
+
+with its measured CPI. The de and un-de series are very highly correlated in our 
+calculations. Impose the budget constraint in the new situation: 
+e(Pt; ut) = gt: 
+(20) 
+Here, gt is exogenous but eventually it is equated with GDP. Ditiate (19) totally using 
+(20) and solve for 
+0 
+Db = 
+e etu 
+P 
+ Pt 
+X etP 
+tP 
+t 
+k 
+k 
+bt 
+et e0  P0u 
+P 
+D 
+k 
+etP  PtPk 
+ 
+e0u gt 
+t etu e0P  P0Dgb 
+: 
+(21) 
+If the price vector includes all the prices then by construction etP  Pt = e0P  P0D and 
+e0u(D  P0; ut) = etu. The same simplifying cancellation of terms occurs if the price vector P 
+enters the expenditure function separably: e(P; q; u) = f((P); q; u) where (P) is a concave 
+homogeneous of degree one function that naturally aggregates the prices in P and f is the 
+natural quantity aggregate while q is another price vector. To see that the same simpli 
+goes through, note that in the separable case, etP(Pt; qt; ut)  Pt = ettP  Pt = ett and t = D0. Then 
+X et 
+t 
+Db = 
+PtP 
+k 
+k 
+b 
+t 
+etP  PtP 
+k 
+ gbt: (22) 
+k 
+(22) gives the basic logic for the constructed real output index in the text from the de 
+multilateral resistances. The numeraire country has its inward multilateral resistance set 
+equal to one in our calculations for each year. The time series of multilateral resistance are 
+linked by in the inward multilateral resistances for the numeraire country by its CPI 
+for each year and thus in each other country’s inward multilateral resistances by the 
+same factor, corresponding the each Pbtk for each country (country indexes being omitted here 
+for simplicity). The logic of the gravity model equilibrium requires de  each country’s 
+outward multilateral resistance by the same factor. 
+45 
+
+========47========
+
+The real output index G is implicitly ded by 
+e(GtP0f; qt; ut) 
+ g(Gt0; GtP0m; qt; vt) = e(Ptf; qt; ut) 
+ g(t; Ptm; qt; vt): 
+(23) 
+Here, g() is the GDP function, Pf denotes  goods prices to consumers, Pm denotes 
+intermediate goods prices to producers and  is inversely related to the output prices received 
+by producers at the factory gate. The superscript 0 denotes the base year set of multilateral 
+resistances, real incomes and primary factors and t indicates some other year. qt denotes the 
+set of other prices in the economy not captured by the incidence of trade cost analysis. Apply 
+Shephard’s and Hotelling’s Lemmas, and impose separability of preferences with respect to 
+the partition between goods with prices P and other goods combined with separability in the 
+technology that similarly permits natural aggregation of goods with sellers incidence  and 
+buyers’ incidence Pm. Then the local rate of change of G is as given in (9). This equation 
+can be re-written using logs, replacing xb with dlnx. If the functional forms e(); g() were 
+known, the log ditial equation could be integrated to obtain the discrete change in log 
+G, exponentiating to obtain the Divisia index of G. The functional forms of e(); g() being 
+unknown, the observed shares at the various points on the 12 year interval can be used, 
+raising the issue of the best approximation. The Tornqvist approximation that averages 
+adjacent year’s shares has good properties when shares change relatively smoothly. See 
+Diewert (2008) for discussion. 
+The multilateral resistance changes being used in the text cover only a small portion of the 
+economy. If the part not covered experienced equal change in buyers’ and sellers’ incidence 
+then our real output index would equal a real GDP index. With no change elsewhere the 
+real GDP e of the rate of change of the real output we report would be equal to the share 
+of the outputs we include in GDP times the rate of change of the real output index (23). 
+Since this share is not observable (our calculations are based on total shipments, not the 
+value-added that would be needed to construct GDP shares), we report only our `real output’ 
+46 
+
+========48========
+
+index calculated with the logic of (23) using total shipment shares on the supply side and 
+total expenditure shares on the demand side ( and intermediate purchases combined). 
+This development of the logic of our real output suggests that our estimates of G changes 
+are sensible aggregates of the commodity level changes in incidence to buyers and sellers. 
+The discussion indicates how much more work would need to be done to pin down the link 
+from our measures to real GDP itself. 
+Appendix B: Data Appendix 
+The study covers 76 trading partners.47 
+Bilateral trade ws are de as the value of 
+exports, measured in thousands of current US dollars, from partner i to partner j. Trade 
+data are from CEPII’s Trade, Production and Bilateral Protection Database48 (TradeProd) 
+and the United Nation Statistical Division (UNSD) Commodity Trade Statistics Database 
+(COMTRADE).49 TradeProd database is the primary source. The reason is that Trade- 
+Prod is based on CEPII’s Base pour l’Analyse du Commerce International (BACI), which 
+implements a consistent procedure for mapping the CIF (cost, insurance and freight) values 
+reported by the importing countries in COMTRADE to the FOB (free on board) values 
+reported by the exporters in COMTRADE.50 To further increase the number of non-missing 
+bilateral trade values, we follow the standard procedure of adding the mean of the bilateral 
+trade ws from COMTRADE.51 The  issue that we face with the trade data is that 
+47Argentina, Armenia, Australia, Austria, Azerbaijan, Bulgaria, Belgium-Luxembourg, Bolivia, Brazil, Canada, Chile, China, Colombia, Costa Rica, Cyprus, Czech Republic, Germany, Denmark, Ecuador, Egypt, Spain, Estonia, Finland, France, United Kingdom, Greece, Guatemala, Hong Kong, China, Hungary, In- donesia, India, Ireland, Iran, Italy, Jordan, Japan, Kazakhstan, Kenya, Kyrgyz Republic, Korea, Kuwait, Sri Lanka , Lithuania , Latvia, Morocco, Moldova, Mexico, Macedonia, Malta , Mongolia, Mozambique, Mauritius , Malaysia , Netherlands, Norway, Oman, Panama, Philippines, Poland, Portugal, Romania, Rus- sian Federation, Senegal, Singapore , El Salvador, Slovak Republic, Slovenia, Sweden, Trinidad and Tobago, Turkey, Tanzania, Ukraine, Uruguay, United States, Venezuela, South Africa. 
+48For details regarding database see Mayer, Paillacar and Zignago (2008). 
+49We access COMTRADE through the World Integrated Trade Solution (WITS) software, http://wits.worldbank.org/witsweb/. 
+50As noted in Anderson and Yotov (2009), in principle, gravity theory calls for valuation of exports at delivered prices. In practice, valuation of exports FOB avoids measurement error arising from poor quality transport cost data. For details regarding BACI see Gaulier and Zignago (2008). 
+51We also experiment by just using the export data from COMTRADE and then assigning missing trade values to the observations when only data on imports are available. Estimation results are very similar. 
+47 
+
+========49========
+
+in some instances the reported value of output is smaller than the value of exports. These 
+observations were dropped from the gravity estimations sample. 
+Industrial production data comes from two sources. The primary source is the United 
+Nations’ UNIDO Industrial Statistics database, which reports industry level output data 
+at the 3 and 4-digit level of ISIC Code (Revisions 2 and 3). In addition to UNIDO, we 
+use CEPII’s TradeProd database,52 as a secondary source.53 
+10.8 percent of the original 
+data were missing after combining the two data sets. As output data are crucial for the 
+calculation of the multilateral resistance indexes, we construct the missing values. First, we 
+interpolate the data to decrease the missing values to 8.6 percent.54 Then, we extrapolate 
+the rest of the missing values using GDP de data, which comes from the World Bank’s 
+World Development Indicators (WDI) Database.55 
+To construct expenditures, we add the value of total imports from all partners to the 
+value of output and subtract the value of total exports for each country and each industry. 
+The main source of data on total sectoral imports and exports is TradeProd. Once again, 
+we use COMTRADE as a secondary trade data source. 4.7 percent of the expenditures were 
+missing.56 To construct the missing values,57,  we interpolate the data (to decreases the 
+missing observations to 4.2 percent), then, we extrapolate the rest using CPI data from the 
+World Bank’s World Development Indicators (WDI) Database.58 
+In order to calculate the multilateral resistance indexes, we need data on elasticities of 
+substitution at the commodity level. These data are obtained from Broda et al (2006), who 
+52TradeProd uses the OECD STAN Industrial Database as well as UNIDO’s IndStat Database. 
+53We experiment with two output variables, based on the main data source, to obtain virtually identical results. 
+54Most of the missing observations are for the early years in the sample (1990-1993) and for the former Soviet republics (e.g. Armenia, Estonia, Lithuania, etc.), which declared independence during the early 90s. 
+55GDP de data were not available for Belgium-Luxembourg (BLX). We use Belgium’s GDP de data to proxy for BLX. 
+560.29 percent (91 out of 30,888 observations) of the expenditures were negative. We replaced these observations to missing. 
+57Once again, most of the missing observations are for the early years in the sample (1990-1993) and for the former Soviet republics, which declared independence during the early 90s. 
+58CPI data were not available for Belgium-Luxembourg (BLX). We used Belgium’s CPI data to proxy for BLX. 
+48 
+
+========50========
+
+estimate and report 3-digit HS indexes for 73 countries for the period 1994-2003. This period 
+almost coincides with the period of investigation in our study. We use imports as weights 
+to aggregate the original indexes to the level of commodity aggregation in our study. In 
+addition, as some of the original numbers seem implausible,59 we bound the originals in the 
+interval [4,12] before aggregation. We view the aggregated elasticity indexes as plausible. 
+More homogeneous categories (such as Petroleum and Coal, Wood and Paper products) have 
+higher values, while less homogeneous categories , such as Furniture and Transportation 
+products, have lower numbers. 
+As an additional sensitivity check, we estimate our own elasticity indexes as the coet 
+on bilateral taris in the gravity model. Four data sources are used to construct bilateral 
+tari We combine the United Nations Conference on Trade and Development (UNCTAD) 
+Trade Analysis and Information System (TRAINS), the CEPII TradeProd database,60 the 
+World Trade Organization (WTO) Integrated Data Base (IDB),61 and the World Bank’s 
+Trade, Production and Protection (TPP) Database.62 
+TradeProd tari are the base to 
+which we add bilateral tari from TRAINS and IDB. Furthermore, we use imports weighted 
+average tari imposed by a given country on imports from all other nations from TRAINS 
+and TPP, to substitute for the missing bilateral values.63 We also interpolate and extrap- 
+olate some missing tari observations as these data is needed to calculate the multilateral 
+resistances in some of our sensitivity analysis. Finally, we use data on FTA’s from Rose 
+(2004), Baier and Bergstrand (2007) and Yotov (2009) to set tari among FTA members 
+equal to zero. 
+We experiment with several distance variables based on dit approaches in the cal- 
+59For example, the elasticity estimate for the 3-digit HS commodity category 680, which includes Articles of asphalt, Panels, boards, tiles, blocks, Friction materials etc. is 195.95, while the estimate for category 853 including Electrical capacitors, Electrical resistors, Electric sound/visual signalling equipment etc. is 1.07. 
+60This dataset is based on Jon Haveman’s UTBC database and CEPII’s Market Access Map (MAcMap) database. See Mayer and Zignago (2005). 
+61IDB data on bilateral tari is available for the years after 1995. 
+62The TPP database is based on TRAINS but the authors extend on it by collecting data from national statistical documents and web sites. See Nicita and Olarreaga (2006) for further details on the TPP database 
+63We access TRAINS and IDB through the World Integrated Trade Solution (WITS) software. 
+49 
+
+========51========
+
+culation of internal as well as bilateral distances.64 Provided that our results are robust to 
+the choice of alternative distance measures, we employ the procedure for distance calculation 
+from Mayer and Zignago (2006).65 Their approach is appealing because it can be used to 
+calculate consistently both internal distances and bilateral distances.66 In addition, we follow 
+Eaton and Kortum (2002) to decompose distance e into four intervals. The distance 
+intervals, in kilometers, are: [0, 3000); [3000, 7000); [7000, 10000); [10000, maximum]. Eaton 
+and Kortum (2002)  that, with aggregate data, the estimate of the distance coet 
+for shorter distances is larger (in absolute value) than for longer distances. This could re 
+several forces. Motivated by transport costs, there could be mode choice switches (surface 
+for short, air for long). But these switches could happen ditly for dierent goods, which 
+is particularly important for our disaggregated study, surface for heavy low value goods no 
+matter how long the trip vs air for high value/weight goods even for quite short distances. 
+Data on other standard gravity variables such as common language, common border, and 
+colonial ties are from CEPII’s Distances Database and from Rose (2004).67 We also generate 
+a border dummy variable `same country,’ which takes a value of one for internal trade. 
+64Head and Mayer (2000) provide a nice summary and discussion of the alternative approaches of distance calculations. 
+65Their procedure is based on Head and Mayer (2000), using the following formula to generate weighted distances: dij = 
+P 
+pop 
+P 
+k 
+popl 
+k2i pop l2j pop 
+dkl; where pop 
+k 
+is the population of agglomeration k in trading partner 
+i j 
+i, and popl is the population of agglomeration l in trading partner j, and dkl is the distance between agglomeration k and agglomeration l, measured in kilometers, and calculated by the Great Circle Distance Formula. All data on latitude, longitude, and population is from the World Gazetteer web site. 
+66In the few instances where we were not able to implement Mayer and Zignago’s procedure, we just took the distance between the main cities from the two trading partners. 
+67Rose’s (2004) original data covers the period up to the year of 2000, so we update some of the variables in order to match the time span investigated in this study. 
+50 
+
+========52========
+

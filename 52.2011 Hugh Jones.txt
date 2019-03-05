@@ -1,0 +1,1348 @@
+September 2011 
+No.52 
+Reciprocity towards Groups 
+David Hugh Jones and Martin A. Leroch University of Warwick and University of Hamburg 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Reciprocity towards Groups  
+David Hugh-Jones and Martin A. Leroch* 
+30 August 2011 
+People exhibit group reciprocity when they retaliate, not against a person who harmed them, but against another person in that person's group. We tested for group   reciprocity   in   laboratory   experiments.   Subjects   played   a   Prisoner's Dilemma with partners from different groups. They then allocated money between themselves and other participants.  In punishment games, subjects whose partner had defected punished participants from the partner's group more, compared to their punishment of participants from a third group. In dictator-style games, subjects did not exhibit group reciprocity. We examine possible correlates of group reciprocity, including group identification and cooperativeness. 
+Keywords: reciprocity, groups, conflict, experiment         
+JEL classification:  D74, C92 
+* 
+David Hugh-Jones: Warwick University,  D.Hugh-Jones@warwick.ac.uk. Martin Leroch: University of Hamburg, leroch@econ.uni-hamburg.de. This work was supported in part by British Academy Small Research Grant SG101553. We thank Vittoria Levatti, Werner Gueth, Eva Steiger, Johannes Weisser, Ro'i Zultan, David Reinstein, Ryan McKay, Eva van den Broek, Shaun Hargreaves  Heap   and seminar participants at the Max Planck Institute of Economics, University of Hamburg, University of Warwick and King's College London; and the Max Planck Institute ESI group hiwis and administrative staff: Martin Beck, Nadine Erdmann, Adrian Liebtrau, Christian Williges, Christian Streubel,  Claudia Zellmann and especially Christoph Goering. 
+1 
+
+========2========
+
+Introduction 
+In   the   summer   of   1906,   Atlanta,   a   city   previously   known   for   relatively 
+peaceful race relations, saw a spate of newspaper coverage of black attacks on 
+whites, in particular white women. (“Bold Negro Kisses White Girl's Hand,” 
+screamed one headline.) On September 22nd, four assaults upon white women 
+were reported. Armed with guns, a group of whites went downtown to a black 
+neighbourhood  and attacked  black  men, killing  25.1   None  of the original 
+alleged assaults  were later substantiated. 
+Laboratory experiments have persuaded many economists that humans are 
+reciprocators, who will pay so as to punish actions they perceive as unfair 
+towards them or others   (Rabin 1993; Fehr and Gaechter 2000; Bolton and 
+Ockenfels 2000).  Examples like the above suggest that people sometimes 
+strike back, not against the individual who caused the perceived harm, but 
+against other people in that individual's group. In these cases, those punished 
+may have nothing to do with the initial offence,  and the offender himself may 
+be completely unaffected by the retaliation. We call this kind of retaliation 
+group reciprocity. 
+1 
+Bauerlein (2001). 
+2 
+
+========3========
+
+Group   reciprocity  appears   widespread  in  human   conflict,   including   riots, 
+pogroms and ethnic civil wars. Many such  episodes involve calls for revenge 
+against an opposing group for previous harms,  whether   real or imaginary, 
+recent or ancient.2 Indeed, grievances over previous conflicts may provide the 
+cause or pretext for  further outbreaks, leading to cycles of violence.3   These 
+cycles  hinder   development   in   many   of   the   world's   poorest   states   (World 
+Development Report 2011). 
+Group   reciprocity   can   also   be   seen   in   ordinary   economic   behaviour. 
+Consumers   may   boycott   the   produce   of   countries   whose   policies   they 
+disapprove of, or products offered by specific ethnic groups. In 2010, during 
+the European financial crisis, a German news magazine headline described 
+Greeks as “Crooks in the European Family”. This led to a boycott of German 
+products in Greece. Later, when Greek protesters used Nazi symbols to protest 
+bailout conditions, the tabloid Das Bild  commented  “We pay  –  and still get 
+insulted!”   Such   cycles   of   recrimination   may   affect   voters'   support   for 
+Eurozone bailouts (Daily Telegraph 2010; Reuters 2011).  Companies, too, 
+may  be targets for group reciprocity. In 1995, after  the Shell Corporation's 
+2 
+For numerous examples, see Horowitz (1985; 2001). 
+3 
+For the role of grievance in civil wars, see Collier and Hoeffler (2004), Fearon and Laitin 
+(2003), as well as the literature review in Blattman and Miguel (2010). For its role in 
+terrorism see Krueger and Maleckova (2003). 
+3 
+
+========4========
+
+decision to sink the oil drilling platform “Brent Spar” in the North  Sea , several 
+Shell  petrol  stations  in Germany  received bomb threats,  and  at least  one 
+actually received  a letter bomb ( Die Welt 1995). Lastly, group reciprocity may 
+be positive as well as negative: football fan  c ommunities sometimes maintain 
+bonds of friendship, established by  acts of generosity such as refraining from 
+physical assault on specific occasions (Koester 2008).   
+Although group reciprocal  behaviour   has been attested beyond reasonable 
+doubt,   we   know   little   about   the  motivations behind   it.   Acts   of   group 
+reciprocity could be undertaken by materially self-interested, rational actors. 
+For example, boycotting a country's exports may be seen as an effective way 
+to change its policies. Striking back against groups may  help  someone to build 
+a reputation for toughness. Or, not doing so might expose one to punishment 
+from others in one's own group: one eyewitness of the Rwandan genocide 
+stated “ten percent helped; 30 percent were forced to kill; 20 percent killed 
+reluctantly; 40 percent killed enthusiastically”  (Mamdani 2001). However, as 
+this quote suggests, it is also possible that some people may group-reciprocate 
+even when there is no strategic incentive to do so. These people will act as if 
+group fairness is a primitive in their utility function: they simply prefer to 
+harm (or help) members of groups who have harmed (helped) them.4 
+4 
+We do not propose a particular functional form for group-reciprocal utility in this paper. 
+Moreno (2008) models group fairness on the lines of Rabin (1993). 
+4 
+
+========5========
+
+To investigate whether this is the case, we ran laboratory experiments in 
+which there  was  no strategic incentive to group-reciprocate.   Subjects in the 
+experiments were   divided   into   groups.   Each   group  jointly  completed   a 
+cooperative task. Then, each subject played  a Prisoner's Dilemma (PD) against 
+a partner who was a member of a different group. After play in the  PD  was 
+revealed, subjects  ma de  decisions allocating money between themselves and 
+members of other groups. We compare each subject's allocations to the fellow 
+group members of their partner in the PD, with their allocations to members of 
+a different group with which   they ha d   not previously interacted. Using this 
+other   group   as   a   control,   we   can   test   whether   subjects'   PD   partners' 
+cooperation or defection affected  their allocations specifically to the partner's 
+group. 
+Our main findings are as follows. While the majority of our subjects do not 
+group-reciprocate, and indeed do not discriminate at all between groups, a 
+minority of subjects do group-reciprocate. In particular, we find significant 
+evidence of group reciprocity in punishment decisions, where subjects must 
+pay to harm others. However, we do not observe group reciprocity in dictator 
+games where harming others benefits the subject.  Lastly, we examine some 
+possible correlates of group reciprocity. Although group reciprocity is only 
+induced when subjects cooperated and their partner defected, subjects who are 
+more cooperative  in general   are no more likely to group-reciprocate than 
+5 
+
+========6========
+
+others. Group reciprocity is also not predicted by a psychological measure of 
+group identification. 
+In   the   next   section   we   review   the   relevant   literature,   and   explain   our 
+contribution. We then describe our experiments and results. 
+Related Literature 
+Economists have long been interested in the economic consequences of groups 
+and   ethnicity   (Becker   1957;   Arrow   1972;   Akerlof   1976).   More   recently, 
+economic experimentalists have focused on how group membership affects 
+behaviour, a topic that has long fascinated social psychologists (Sumner 1906; 
+Sherif et al. 1961; Tajfel et al. 1971).   Hargreaves Heap and Zizzo (2009) 
+show   experimentally   that   people   will   put   a   monetary   value   on   group 
+membership. Further, people discriminate between in- and outgroups.  They 
+cooperate   more   with   in-group   members   (de   Cremer   and   van   Vugt   1999; 
+Goette and Huffman 2006, Guala et al. 2009; but cf. Bouckaert and Dhaene 
+2004); give in-group members more, reward them more for good behaviour, 
+and punish them less (Chen and Li 2009); they also punish offenders more 
+when   the   victim   is   an   in-group   member   (Goette   and   Huffman   op.   cit., 
+Bernhard et al. 2006). Debate continues over whether this different behaviour 
+is driven by expectations of future reciprocity (Yamagishi and Kiyonari 2000; 
+Yamagishi and Mifune 2008, 2009) or by pure preferences (Guala et al. 2009). 
+6 
+
+========7========
+
+As psychologists have noted (Brewer 1999), ingroup bias  per se   does not 
+imply that people will behave unkindly towards members of an outgroup, only 
+that they will behave  more kindly towards members of their ingroup. For 
+example, when asked to allocate a “bad” (exposure to aversive noise) among 
+ingroup and outgroup members, members of a minimal groups did not favour 
+the ingroup (Mummendey et al. 1992). Therefore, ingroup bias alone may not 
+explain   the   empirical   regularity   that   many   real-world   conflicts   involve 
+appalling   intergroup   violence   (Brewer   op.   cit.).     Dispositions   to   group 
+reciprocity may be a missing part of the story. Individual biases towards one's 
+own group, which are (relatively) innocuous in ordinary circumstances, can 
+become more dangerous after a perceived threat or insult from another group. 
+Psychologists   have   investigated   indirect   group   reciprocity   (i.e.   reciprocity 
+towards groups in retaliation for harms done to other members of one's own 
+group) under the term “vicarious retribution” (Lickel et al. 2006). Stenstrom et 
+al. (2008) show that subjects will verbally express a demand for sanctions in 
+retaliation for a presumed intergroup insult. In Gaertner et al. (2008), subjects 
+allocated unpleasant noise to a group one of whose members had rejected the 
+subject. 
+Group reciprocity may also help to explain the harmful intergroup behaviour 
+observed in some lab experiments.   Abbink and Herrmann (2009) created a 
+ten-round vendetta game  between  two groups: in each round, subjects could 
+7 
+
+========8========
+
+deduct money from the other group, at a cost to themselves. The low observed 
+rates of this inefficient  behaviour (13%) were tripled (40%) by the addition of 
+a symbolic reward.  Suggestively, rates of harmful actions were increased by 
+the other group's harmful actions in the previous round,   although since the 
+group included  the  person who chose the previous harmful action, group 
+reciprocity cannot be clearly distinguished here from individual reciprocity. 
+By contrast, Halevy et al. (2008) observe very low rates of intergroup harm 
+when an option to benefit one's own group without harming the other group 
+was available; this was a one-shot game, with less scope for  group reciprocity 
+to operate. 
+Similarly, some results from field data are compatible with group reciprocity. 
+Shayo and Zussman (2010) show that Israeli judges were more likely to find 
+in favour of Israeli plaintiffs against Arab defendants shortly after terrorist 
+incidents. This could be explained by increased solidarity with the ingroup, or 
+by bias against an outgroup perceived as responsible for an attack; a point 
+favouring the former interpretation is that Arab judges were also more likely 
+to find in favour of Arabs against Israelis after an attack. In a military context, 
+Kocher   et   al.   (2008)   show   that   indiscriminate   US   bombing   in   Vietnam 
+increased Vietcong control, suggesting that it drove Vietnamese civilians “into 
+the arms of the rebels”. 
+8 
+
+========9========
+
+We see our contribution as follows. We test experimentally, using real money 
+payoffs,   whether people will reciprocate the actions of one group member 
+when they make choices affecting other members of that group. Our design 
+rules out strategic motivations, including expectations about others' behaviour 
+towards oneself and reputational considerations. We clearly distinguish group 
+from individual reciprocity, by ensuring that subjects knew they were not 
+harming (helping) the person who had harmed (helped) them, but rather others 
+from that person's group. By having subjects make allocations to multiple out- 
+groups,   we   also   differentiate   reciprocity   towards   a   specific   group   from 
+generalized reciprocity towards third parties (Dufwenberg et al. 2001, Nowak 
+and Roch 2007). Thus, the   laboratory setting allows us to identify group 
+reciprocal behaviour more cleanly than would be possible with field data. 
+Experiments have been run both with lab-created groups (Tajfel et al. 1971; 
+Hargreaves Heap and Zizzo 2009; Guala et al. 2009; Chen and Li 2009; 
+Yamagishi and Kiyonari 2000; Yamagishi and Mifune 2008, 2009; de Cremer 
+and van Vugt 1999) and with naturally occurring groups (Sherif et al. 1961; 
+Fershtman   and   Gneezy   2001;   Bouckaert   and   Dhaene   2004;   Goette   and 
+Huffman 2006; Bernhard et al. 2006; Habyarimana et al. 2009). We chose to 
+use lab-created groups in our experiment, for two reasons. First, lab-created 
+groups reduce the likelihood that subjects will bring into the lab set patterns of 
+intergroup   behaviour,   which   might   have   a   strategic   or   group-reputational 
+9 
+
+========10========
+
+component. Second, lab groups are relatively easy to create without access to a 
+specific subject pool, and this contributes to our goal of developing a  simpl y 
+reusable experimental paradigm.  We also note that the use of lab-created 
+groups arguably provides a stronger test of group reciprocal motivations than 
+using powerful existing identities such as ethnicity. Nevertheless, we believe 
+that future tests of group reciprocity with naturally occurring groups will also 
+be interesting and important. 
+Experimental  Design 
+We ran two experiments. Both experiments shared the following sequence of 
+events. First, subjects were separated into colour-coded groups. Second, to 
+increase   group   identification,   subjects   performed   a   collective   task.   Third, 
+subjects were paired with members of other groups, and played a Prisoner's 
+Dilemma (PD). Following Fehr and Fischbacher (2004), we think defection in 
+a PD would be considered a norm violation by many of our subjects.5  Fourth, 
+after   the   PD,   subjects   completed   allocation   tasks   involving   themselves, 
+members of their PD partner's group (but not the PD partners themselves), and 
+members of a third group with whom they had not previously interacted. 
+Defection by a subject's PD partner might affect the subject's behaviour to 
+5 
+Note, however, that we chose a simultaneous PD game, whereas Fehr and Fischbacher 
+(2004) analysed a sequential PD. 
+10 
+
+========11========
+
+members of all other groups, not just to members of the partner's group; we 
+use the allocations to the third group to control for this.  
+Our basic empirical model is 
+(1) 
+givingi,g  = f( αi  + κ Self Di  + λ  Partner D 
+i 
+ +  μ  (Partner D 
+i 
+ × Self D 
+i) 
++  Xiβ +  γ  Pgrpg   +   δ (Pgrpg ×   Self D 
+i) +  ζ 
+  ( Pgrpg ×   Partner D 
+i) 
++  η 
+(Pgrpg ×  Partner D 
+i 
+×  Self D 
+i) + Pgrpg 
+× Ziθ  +  εi,g) 
+Here, givingi,g is the amount given by individual i  to a member of group  g ∈ 
+{Partner,Other}. Pgrpg  is 1 if  g  is the  group of the subject's PD partner, and 0 
+otherwise. Self Di  is 1 if subject  i defected in the PD and 0 otherwise. Partner 
+Di   is 1 if the subject's PD partner defected and 0 otherwise.   We interact 
+Partner   Di   with   Self   Di   because   it   is   plausible   that   subjects   will   react 
+differently if they cooperated, but their partner defected, than if both they and 
+their   partner   defected.  Parameters  κ,   λ  and  μ capture   the   effect  of   these 
+covariates upon total amounts given. Our parameters of interest, however, are 
+ζ  and  η. These are the effect of the PD partner's defection specifically on 
+giving to the Partner group, above any effect on giving to the Other group. ζ 
+gives the effect for subjects who are themselves PD cooperators and (ζ+η) 
+gives the total effect for subjects who are defectors. Lastly,  αi   is a subject 
+specific   intercept,  Xi   is   a   vector   of   known   covariates   which   may   affect 
+subjects' giving to all groups, and  Zi   is a vector of known covariates which 
+may influence subjects' giving to the Partner group alone. Subjects' individual 
+11 
+
+========12========
+
+propensities to give, αi, are highly likely to be correlated with their behaviour 
+in the PD, and therefore with values of Self D and  Self D ×  Partner D.  For this 
+reason, we treat αi  as a fixed effect. If our specification were linear ( f(x)=x), 
+then we could use first-differencing to eliminate both the fixed effects and all 
+the terms affecting amounts given in general, leaving: 
+(2) 
+   giving 
+i,partner 
+  – giving 
+i,other  =  γ 
+  +   δ   Self D 
+i 
+  +   ζ   Partner D 
+i 
+  +   η 
+(Partner Di ×  Self D 
+i) 
++ Ziθ + εi,partner  –  εi,other 
+Our data is not suitable for a linear model in either experiment, so that naïve 
+first-differencing will not work, but we use estimation strategies based upon 
+the same idea. 
+For clarity and ease of comparison, the sequence of treatments and choices in 
+both experiments is illustrated in Table 1  below. The complete description of 
+the experiments follows. 
+12 
+
+========13========
+
+Subjects 
+Pre-Group Stage 
+Group Formation 
+Post-Group PD 
+Allocation Task 
+Post-experiment 
+180 subject in 6 sessions. 
+None. 
+Random assignment Players endowed with 2 into colour-coded ECU and choose actions groups. A or B. Payoffs in ECU: 
+10 randomly ordered binary choices allocating money. Players choose A or B. Payoffs shown in Table 2.  
+Questionnaire. Pelmanism winners revealed.  
+1 
+t 
+n 
+e 
+3 groups per session. 
+m 
+i 
+r 
+e 
+p 
+x 
+E 
+10 members per group. 
+Task: group pelmanism game. 5 ECU for winners. 
+A B A +2,+2 -2,+5 B +5,-2 -1,-1 
+Payment: 2.50 EURO show up fee plus  pelmanism + PD + results of 1 randomly chosen allocation per subject. 
+1 ECU = 1 EURO. 
+172 subjects in 10 Anonymous sessions. Prisoner's Dilemma 
+with random other 6 groups per participant. Results session.6 revealed at end. 
+2 
+t 
+n 
+3 members per group. 
+e 
+m 
+i 
+r 
+100 ECU = £1. 
+e 
+p 
+Random assignment Players endowed with 6 randomly ordered continuous choices into colour-coded 200 ECU and choose allocating money. 
+groups. actions A or B. Payoffs 
+in ECU: 3 dictator games with taking frame: other Task: quiz on participant has 1000 ECU and subject animal collective 
+names, with group 
+A B 
+can take 0-1000 ECU. 
+chat. 1000 ECU for 
+A +200,+200-200,+500 
+3 punishment games: subject has 400 winners. 100 ECU 
+B +500,-200 -100,-100 
+ECU, other participant has 900 ECU. 
+Subject can spend up to 300 ECU to for losers. punish. Each ECU spent reduces other's 
+payoff by 3 ECU. 
+Questionnaire.  Initial PD results and quiz winners revealed.  
+x 
+E 
+Payment: £5 showup fee plus: 
+Sessions 1-5: 1 chosen at random from: initial PD, quiz, second PD or allocation results (from one randomly chosen allocation per subject). 
+Each game played: once with random member of Own group, once with random member of Partner group (not PD partner him/herself), once with random member of (an) Other group. Other participant identified by group and number. 
+Sessions 6-10: at random, either initial PD + quiz or second PD  + allocation results. 
+TABLE 1: EXPERIMENT DESIGN SUMMARY 
+6 
+One session had 5 groups; 5 groups in total, over 4 sessions, had only 2 members. 
+
+========14========
+
+Experiment 1 
+Experiment 1 was run at the Jena laboratory of the Max Planck Institute for 
+Economics,   using   the   computer   software   zTree   (Fischbacher   2007).7   180 
+subjects, recruited via ORSEE (Greiner 2004), took part during 6 sessions. 
+Each   session   lasted   about   1   hour.   Subjects   were   paid   in   Experimental 
+Currency Units (ECU), with 1 ECU = 1 Euro. 
+In each session, 30 subjects were randomly allocated into three groups named 
+red, green  and  blue. Each subject was given a player number, running from 1- 
+10 within each group. These numbers, together with the group names, were 
+used   to   identify   subjects   to   each   other   throughout   the   remainder   of   the 
+experiment. In order to increase group identification and entitativity (the sense 
+that each group forms a single entity), each group played a team game. This 
+was an adapted version of the card game Pelmanism, in which players have to 
+find pairs of identical cards from a face-down deck. In our computer version, 
+the whole group anonymously voted for which card to turnover, and one 
+selected member then observed the votes and chose a card. The group which 
+found   the   most   pairs   was   awarded   5   ECU.   The   winning   group   was   not 
+revealed until the end of the experiment. 
+7 
+Screenshots of the interface are available online in the file screenshots.zip 
+14 
+
+========15========
+
+After   the   Pelmanism   game,   subjects   were   allocated   into   pairs,   each   pair 
+containing subjects from two different groups. They were informed of their 
+partner's   group   and   player   number.   They   then   played   a   one-shot   PD. 
+Afterwards,  subjects   were shown their   partner's choices  and  the  resulting 
+payoffs for both players. We call each subject's PD partner's group the Partner 
+group; the remaining group is the Other group. For instance, if a red group 
+member played the PD against a green group member, then for her the green 
+group is the Partner group, and the blue group is the Other group. 
+Choice set 1 2 3 4 5 Choice A B A B A B A B A B ECU allocated to... ECU allocated to... 
+Self    2 1 4 3 1 2 4 5 Target 1  1 2 
+Target    5 2 3 0 4 1 3 0 Target 2  3 1 
+1P-4P: Target is from Partner group; 
+5P:   Target   1   is   from   Partner 
+1O-4O: Target is from Other group. 
+group,   Target   2   is   from   Other 
+group.   5O:   Target   1   is   from 
+Other   group,   Target   2   is   from 
+Partner group. 
+TABLE 2: ALLOCATIONS IN  E XPERIMENT  1 
+Lastly,   each   subject   made   a   set   of   ten   binary   choices,   allocating   money 
+between him- or herself and one or more other subjects (the “target(s)”), 
+always identified by their player number and group. The choices are shown in 
+Table 2. Subjects chose between allocation A and allocation B. There are five 
+pairs of similar choices; we refer to each pair as a “choice set”. In each choice 
+set, subjects faced tradeoffs between maximizing their own income, helping 
+15 
+
+========16========
+
+the target, and increasing or decreasing inequality.   Choice sets 1-4 allocate 
+money to the subject him- or herself and to one other target. Choice B always 
+gives less to the target. Choice sets 1 and 2 involve “punishment choices”: the 
+subject can either maximize  his own and the other's income, or pay to reduce 
+the other's income. They also have distributional consequences: the income- 
+maximizing choice in set 1 is unequal in the other's favour, compared to the 
+alternative. In set 2, the income-maximizing choice is less unequal than the 
+alternative. Choice sets 3 and 4 are “dictator” choices: the subject can either 
+maximize his own income, or reduce his income but give more to the other. In 
+set 3 the selfish allocation also reduces other-favouring inequality; in set 4 it 
+increases self-favouring inequality.  Each of choice sets 1-4 is made once 
+where the target is a member of the Partner group (1P-4P) and once when the 
+target is a member of the Other group (1O-4O). Two allocations, 5P and 5O, 
+were between a Partner group member and an Other group member, with the 
+subject herself not being involved. The choice here was which of the two 
+groups to favour; A is the efficient choice. By comparing subjects' decisions 
+within each pair of choices in a choice set, we can observe the effect of the 
+target's group membership.  
+Subjects never made allocations involving their previous PD partner – only 
+involving other members of the same group. They could easily observe this, 
+because the PD partner's group and player number, along with the outcome of 
+16 
+
+========17========
+
+the   PD,   was   shown   onscreen   (in   a   “history   box”)   throughout   the   10 
+allocations. The order of the allocations was randomized. At the end of the 
+experiment a single allocation was randomly selected, and the relevant payoffs 
+were implemented. 
+After   the   experiment,   subjects   were   given   a   questionnaire   including 
+demographics,   measures   of   group   identity,   and   debriefing   questions.   The 
+winning group of the Pelmanism game was then revealed. Finally, subjects 
+were called up and paid privately for their winnings from the Pelmanism 
+game, the Prisoner's Dilemma, and the randomly selected allocations (their 
+own and others'). Each subject also received a 2.50 Euro showup fee. 
+Two points about this design deserve attention. First, allocation into groups 
+and of PD partners within groups was random, and prior to the PD, subjects 
+had no interaction with groups other than their own. Hence, in what follows, 
+we can treat subjects' PD partners' cooperation or defection as an exogenous 
+variable. Second, subjects knew that the allocations were the last part of the 
+experiment. Therefore, in making allocation decisions, they had no strategic 
+reasons to play a particular way (e.g. reputation-building). These comments 
+also apply to Experiment 2. Descriptive statistics for our subjects are shown in 
+Table 3.  
+17 
+
+========18========
+
+N 
+Demographics 
+Male 
+Age 
+Studying: … Law … Social sciences … Economics 
+8 (4.44%) 56 (31.11%) 27 (15.00%) 
+180 
+142 (78.89%) 
+Min 19, max 67, mean 24.6, median 24 
+… Natural sciences … Other … Not a student 
+38 (21.11%) 38 (21.11%) 13 (7.22%) 
+Prisoner's Dilemma choices (self, partner) 
+CC CD 
+72 (40.00%) 44 (24.44%) 
+DC DD 
+44 (24.44%) 20 (11.11%) 
+Allocations (those choosing option B) 
+Choice set 1P Choice set 2P Choice set 3P Choice set 4P Choice set 5P 
+20 (11.11%) 10 (5.56%) 158 (87.78%) 104 (57.78%) 71 (39.44%) 
+Choice set 1O Choice set 2O Choice set 3O Choice set 4O Choice set 5O 
+24 (13.33%) 7 (3.89%) 154 (85.56%) 94 (52.22%) 80 (44.44%) 
+TABLE 3: DESCRIPTIVE STATISTICS, EXPERIMENT  1 
+Figure 1  shows the percentage of B choices made in each of the 10 allocations, 
+split by whether the PD partner cooperated or defected. In choice sets 1-4, B is 
+the decision that gives least to the target. In general,   PD partner defection 
+increases   the   proportion   of   B   choices.   In   choice   set   1,   partner   defection 
+decreases unkind choices (which also reduce the subject's own payoff), but 
+more so towards the Other group than towards the Partner group. Patterns for 
+the other choice sets are less clear. 
+18 
+
+========19========
+
+% B Choices 
+Partner Cooperated 
+Partner Defected 
+100% 90% 80% 70% 60% 50% 40% 30% 20% 10% 
+0% 
+1P 
+1O 
+2P 
+2O 
+3P 
+3O 
+4P 
+4O 
+5P 
+5O 
+FIGURE 1: ALLOCATION DECISIONS BY  PD  PARTNER BEHAVIOUR, EXPERIMENT 
+1 
+Table 4  tabulates the pairs of choices made by our subjects in each choice set, 
+split   up   by   whether   the   PD   partner   cooperated   or   defected.  In   order   to 
+investigate whether PD partner's defection affected discriminatory behaviour, 
+we examine only those subjects who discriminated either for or against the 
+Partner   group.   If   PD   partner   behaviour   does   not   affect   the   level   of 
+discrimination,   i.e.   if  ζ=η=0   in   equation   (1),   then   there   should   be   no 
+association between partner behaviour and the proportion, among those who 
+discriminate in either direction, of those who discriminate against the Partner 
+group. The final row of Table 4  shows the results of the corresponding Fisher 
+19 
+
+========20========
+
+test.8  Only the first choice set shows a significant effect: PD  partner  defection 
+was associated with more discrimination against the Other group. Apparently, 
+subjects who had been defected against were more willing to harm the target 
+when the target was from the Partner group.   
+Choice set PD Partner 
+1 
+2 
+3 
+4 
+5 
+C 
+D 
+C 
+D 
+C 
+D 
+C 
+D 
+C 
+D 
+Choice P/Choice O A/A 
+A/B 
+B/A 
+B/B 
+Fisher test, A/B or B/A   vs   Partner   C or D 
+94 56 8 2 1 5 13 1 0.0350* 
+111 56 0 3 3 3 2 2 
+0.464 
+9 6 10 91 
+5 2 2 55 
+47 19 7 3 9 11 53 31 0.260 
+53 18 12 33 
+28 10 7 19 
+1 
+1 
+C = PD partner cooperated. D = PD partner defected. +  p  < 0.10; *  p  < 0.05; **  p  < 0.01; *** p  < 0.001. 
+TABLE 4: PARTNER AND  O THER GROUP ALLOCATIONS BY  PD  PARTNER 
+BEHAVIOUR, EXPERIMENT  1 
+To separate out the effect of partner defection on defectors and cooperators, 
+we run logit regressions. Thus, in equation (1), we take  
+f(x)=GA  if x>0; G 
+B 
+ otherwise 
+in each of the five choice sets, where  GJ  is the amount given to the target by 
+choice  J   in { A,B}, and we assume that  εi,g   has a logistic distribution.   Fixed 
+8 
+We use a Fisher test rather than a chi-squared test because the Fisher test is exact when 
+there are small numbers in each cell, as in this case.  
+20 
+
+========21========
+
+effects logits  failed to converge in 2 out of 5 regressions, probably because 
+this approach ignores subjects who made the same choice against both Partner 
+and Other group members, leaving   insufficient cases for estimation. As a 
+second   best,   we   estimate   random   effects   logits.  Table   5   reports   selected 
+coefficients. For each choice set, the first column comes from a regression 
+without controls (i.e.  with  X  and  Z  empty). Controls are not necessary, since 
+the   main   variable  Partner   D   is   guaranteed   to   be   exogenous   by   the 
+experimental design, but appropriate controls will increase the accuracy of our 
+estimates in the nonlinear logit model. The second column adds a vector of 
+controls   to   both  X  and  Z: dummies   for   gender,   for   subjects   studying 
+economics, and for group colour. The third column adds the controls and also 
+a vector of session dummies.9   The coefficients of interest are quite stable 
+across these specifications. Partner D  significantly predicts less generosity to 
+the partner group in choice set 1 only, although this variable approaches weak 
+significance in choice set 4. The Partner D × Self D  interaction is significant 
+in choice set 5, but this is not easy to interpret, since the coefficient on Partner 
+D  is small and insignificant. Thus, group reciprocity was only evident in one 
+out of the five choice sets.  
+9 
+Regressions for choice set 2 failed to converge and are omitted. It is clear from Table 4 
+that partner defection would not be significant in choice set 2, under any specification. 
+21 
+
+========22========
+
+(2) 
+1 -0.67 (9.2)  
+(3) 
+-2.12 
+(11.48)  (0.8)  
+-8.02 
+-7.81 
+(4.05)* (3.88)* (1.68)  
+8.12 (9.38)  -2.31 
+8.67 
+(10.17)  (1.41)  
+-1.87 
+(10.65)  (10.28)  (2.74)  
+1 
+(4) 
+3 -0.97 
+(5) 
+3 -0.98 (2.55)  
+(6) 
+3 -0.93 (2.53)  
+(7) 
+4 -0.29 (0.53)  
+-1.35 (0.88)  0.29 (0.84)  0.85 (1.47)  
+(8) 
+4 -0.78 (1.12)  
+(9) 
+4 -0.77 (1.21)  
+(10) 
+5 -0.4 (0.41)  
+(11) 
+5 -0.49 (0.84)  
+(12) 
+5 -0.5 (0.85)  
+-1.4 (0.93)  0.41 (0.9)  0.76 (1.54)  
+-1.63 (1.04)  0.41 (0.97)  0.92 (1.66)  
+-0.77 (0.68)  0.07 (0.67)  2.59 (1.2)* 
+-0.92 -0.96 (0.72)  (0.73)  0.11 0.13 (0.68)  (0.7)  2.79 2.86 (1.26)* (1.27)* 
+(1) Choice set 1 Pgrp 2.47 
+(1.64)  Pgrp × ... 
+Partner D -9.37 
+(4.2)* 
+Self D 6.87 
+(7.73)  Partner D × Self D 0.02 
+(8.86)  Log Likelihood -75.99 
+(9 df) Controls No Session dummies No 
+-73.32 (19 df) Yes No 
+-72.99 (24 df) Yes Yes 
+0.67 1.99 
+(3.04)  0.19 1.78 
+(2.55)  0.06 1.08 
+(5.33)  -106.37 -96.7 (9 df) (19 df) No Yes No No 
+1.89 (3)  1.54 (2.51)  1.32 (5.32)  -96.31 (24 df) Yes Yes 
+-208.46 -204.23 -196.94 -225.67 -217.99 -210.94 
+(9 df) No No 
+(19 df) Yes No 
+(24 df) Yes Yes 
+(9 df) No No 
+(19 df) (24 df) Yes Yes No Yes 
+Dependent variable is choice favouring Partner group (A in choice sets 1-4, B in choice set 5). Controls: gender, group colour, economics student, Partner group decision taken before Other group decision. Standard errors in parentheses. +  p  < 0.10; *  p  < 0.05; **  p  < 0.01; ***  p  < 0.001. 
+TABLE 5: RANDOM EFFECTS LOGITS, EXPERIMENT  1 
+
+========23========
+
+Experiment  2 
+Experiment   1   produced   evidence   for   group   reciprocity   in   1   out   of   2 
+punishment choices, with little evidence for group reciprocity in the dictator 
+choices (sets 3 and 4). To confirm these results, we ran a second experiment. 
+In this design, subjects made continuous rather than binary choices at the final 
+stage.   By allowing subjects finer-grained control over their allocations, we 
+hoped to get more accurate estimates of the distribution of group reciprocal 
+preferences   in   the   population.   We   also   changed   our   group   identity 
+manipulation to increase levels of group identification. The new manipulation 
+was a quiz on collective animal names, allowing for computer-based chat 
+among participants of the same group.10 
+Experiment 2 was run at the University of Warwick experimental laboratory, 
+again using zTree. 172 subjects, recruited from the subject pool via ORSEE, 
+participated in 10 sessions. Subjects were paid in ECU, this time with 100 
+ECU = £1. At the start of the experiment, subjects were informed that the 
+experiment   had   4   stages,   and   that   instructions   for   each   stage   would   be 
+revealed prior to the stage itself. In stage 1, subjects were randomly paired to 
+play an initial PD, the results of which were not revealed until the end of the 
+10 
+Pretests showed that this manipulation was successful in increasing subjects' levels of 
+group identification. 
+23 
+
+========24========
+
+experiment. The aim of this pre-group PD was to observe subjects' propensity 
+to cooperate, before any group assignment took place. 
+In stage 2, subjects were separated into 6 groups,  red,  green,  blue,  purple, 
+orange   and   cyan.11   For the remainder of the experiment, all subjects were 
+identified to others by their group name, combined with an individual, within- 
+group number. (In this experiment, subjects were not informed of their own 
+number.) After being assigned to their group, subjects took a collective quiz 
+on   animal   group   names.   Subjects   could   communicate   with   other   group 
+members via computer chat.12    The members of the group with the highest 
+average   number   of   correct   answers   won   1000   ECU   each.   Other   groups 
+received 100 ECU each. Announcement of the winning group took place after 
+a final questionnaire was answered. 
+After the quiz, in stage 3, subjects were paired with subjects from other 
+groups, identified by group name and player number, and played a one-shot 
+11 
+Most sessions consisted of 18 subjects in 6 groups of 3. However, due to no-shows, some 
+sessions   had   fewer   subjects   and   one   session   had   only   5   groups.   Subjects   were   not 
+explicitly informed of the groups' sizes. 
+12 
+We required subjects not to reveal personal information during the chat. All subjects 
+obeyed   this  instruction.   Chat   messages   were   almost   exclusively   focused   on   the  quiz 
+answers. 
+24 
+
+========25========
+
+PD, just as in Experiment 1. Afterwards, as before, subjects were shown their 
+partner's choices and the resulting payoffs.  
+Finally, in stage 4, subjects made 6 allocation decisions allocating money 
+between themselves and another participant (the “target”). 3 of these decisions 
+were dictator games, with a “taking” frame: the target was endowed with 1000 
+ECU, and subjects could take up to 1000 ECU from the target for themselves. 
+This dictator game was played once against a member of the PD partner's 
+group (but not the PD partner himself: subjects knew this because a history of 
+play, including player numbers, was visible on screen), once against a member 
+of a third group subjects had not previously any interacted with, and once 
+against a member of the subject's own group. Again, we refer to these groups 
+as the Partner, Other and Own groups. We do not analyse choices against the 
+Own group further in this paper.13   The remaining 3 decisions were costly 
+punishment games in which subjects chose the number of ECU to deduct from 
+the other subject's payoff. Subjects chose x between 0 and 300;  they received 
+400-x   and   the   target   received   900-3 x.   Again   this  game   was   played   once 
+against   members   of   the   Partner,   Other,   and   Own   groups.   The   order   of 
+allocation tasks was randomized.   
+After the experiment, subjects answered a questionnaire. Then the winning 
+group of the quiz, the result of the stage 1 PD, and the stage(s) chosen for 
+13 
+We intend to examine these decisions in separate work on in-group favoritism. 
+25 
+
+========26========
+
+payment were revealed. Finally,  subjects were called up and paid privately, 
+receiving in addition a GBP 5  showup fee. For 5 of the 10 sessions one of the 
+four different stages was selected for payment; in the other 5 sessions, either 
+stages 1 and 2, or stages 3 and 4 were paid. Under the first payment method 
+(selection of one stage only), if the stage 3 PD is paid, then the subject's stage 
+4 allocations are not paid. This allows us to examine whether others' intentions 
+alone suffice to induce group reciprocity, or whether those intentions must 
+also   have   material   results.   We   found   few   consistent   differences   between 
+behaviour under the two payment methods, so we pool them in the subsequent 
+analysis.14  Table  6  shows descriptive statistics for Experiment 2. 
+N 
+Demographics 
+Male 
+Age 
+Studying: … Law … Social sciences … Economics 
+9 (5.23%) 23 (13.37%) 32 (18.60%) 
+172 
+78 (45.35%) 
+Min 17, max 42, mean 20.8, median 20 
+… Natural sciences 29 (16.86%) … Other 79 (45.93%) … Not a student 0 (0.00%) 
+Prisoner's Dilemma choices (self, partner) 
+CC CD 
+80 (46.51%) 36 (20.93%) 
+Dictator, vs Partner 
+DC DD 
+36 (20.93%) 20 (11.63%) 
+0 / 6 / 235 / 1000 
+Allocations (ECU allocated to target, min / median / mean / max) 
+0 / 10 / 241 / 1000 Dictator, vs Other 
+Punishment,vs Partner 0 / 900 / 762 / 900 Punishment, vs Other 0 / 900 / 763 / 900 
+TABLE 6: DESCRIPTIVE STATISTICS, EXPERIMENT  2 
+14 
+See the Appendix. 
+26 
+
+========27========
+
+Figure 2  shows empirical Cumulative Distribution Functions of the amounts 
+given to the other subject, in the “dictator” or “taking” choice, and in the 
+“punishment” choice, split up by PD partner behaviour. The first row shows 
+amounts given by all subjects. The second row shows amounts given by 
+subjects who themselves cooperated in the PD. Three facts stand out. First, 
+most subjects gave either 500 or nothing in the taking choice, quite typically 
+for dictator games (Engel 2010; see Bardsley 2008 for a dictator game with a 
+taking   frame),   and   most   subjects   did   not   punish   (i.e.   gave   900)   in   the 
+punishment   choice.   Second,   subjects   became   more   selfish   in   the   dictator 
+choices   if   their   PD   partners   defected.   Third,   in   punishment   choices, 
+cooperators appear to have punished the Partner group more, but the Other 
+group less, if their PD partners defected. 
+The data is highly non-normal. In the punishment decisions, more than half of 
+our subjects chose to give the maximum amount of 900 ECU. We therefore 
+analyse the data using a Tobit model: f(x) = min{x, 900} in equation (1). We 
+use the semi-parametric estimator defined by Honore (1992), which removes 
+the subject-specific fixed effects by a process analogous to first-differencing, 
+and which does not rely on assumptions about the functional form of the errors 
+εi,g. The dictator decisions are more complex: many subjects gave 0 ECU, and 
+many gave 500 ECU, with some donations between 0 and 500 and a few 
+27 
+
+========28========
+
+above 500. We analysed these using a fixed effects Tobit with f(x)=max{x,0} 
+in (1)15.  
+15 
+We also tried a fixed effects ordered logit estimator using the approach of Baetschmann et 
+al. (2011), categorizing the amount given as 0, 1-499, 500, or above 500. The results are 
+qualitatively similar to those reported here, and are available on request. 
+28 
+
+========29========
+
+FIGURE 2: EMPIRICAL  CDF  PLOTS OF AMOUNTS GIVEN, EXPERIMENT  2 
+
+========30========
+
+(1) (2) Decision 
+Punishment Punishment Pgrp 150 -476.17 
+(162.85)  (317.49)  Pgrp × ... 
+Self D -107.58 -212.23 
+(190.17)  (181.68)  Partner D -376.12 -364.64 
+(277)  (177.36)* 
+Self D × 
+Partner D 443.56 599.8 
+(302.65)  (216.55)** (262.58)  
+Controls Session dummies 
+No No 
+Yes No 
+(3) Punishment 
+(4) (5) Dictator Dictator 
+(6) Dictator 
+-296.56 (206.84)  
+-33.04 -206.14 25.4 (58.69) (106.46)+ (141.58) 
+-91.79 -38.01 11.85 (187.04)  (84.74) (74.09)  -426.67 -49.73 26.43 (137.63)** (85.42) (78)  
+9.35 (79.91)  17.45 (86.36)  
+391.1 
+Yes Yes 
+167.11 6.77 (125.2) (97.39)  No Yes No No 
+30.06 (102.96) Yes Yes 
+Controls:  Z=(gender,   group  colour,   economics   student,   session   %   male,   Partner   group decision taken before Other group decision). Session % male omitted when session dummies included. Standard errors in parentheses. +  p  < 0.10; *  p  < 0.05; **  p  < 0.01; ***  p  < 0.001. 
+TABLE 7: FE TOBIT REGRESSIONS, EXPERIMENT  2 
+Table 7  shows the results. Columns 1-3 are regressions on the amount given in 
+the punishment decisions. The first column is a simple regression on Self D, 
+Partner D  and their interaction, without controls. The second column adds a 
+vector of controls to Z in equation (1). As before, appropriate controls should 
+increase  the   efficiency   of  our  estimates.   (The   Honore  estimator   does  not 
+estimate the fixed effects, nor effects for variables that are constant across a 
+30 
+
+========31========
+
+group, so we cannot include controls in X  in (1).) Controls include dummies 
+for gender, for subjects who studied economics, and for subjects' colour  group; 
+in addition we include a measure of the proportion of male subjects in the 
+whole session, since this varied quite widely and we considered that it might 
+affect levels of group reciprocity, and a dummy for the order of the Partner 
+group and Other group decisions. Column 3 adds session fixed effects. The 
+coefficient on PD partner defection is consistently large and negative, and is 
+more precisely estimated when controls are included. The coefficient on the 
+interaction of partner defection and own defection is large and positive; the 
+sum of these two coefficients (i.e. ζ+η  in equation (1))  is never significantly 
+different from 0. Columns 4-6 are regressions on the amount given in dictator 
+decisions. The coefficients on both  Partner D   and   Self D × Partner D   are 
+small and not statistically significant. Thus, subjects who cooperated in the PD 
+responded to PD partner defection by giving less to members of the Partner 
+group, but only in punishment decisions, where harming the other participant 
+was costly to the subject.  
+These   results   conformed   to   the   basic   pattern   of   Experiment   1:   group 
+reciprocity was observed in punishment decisions but not in dictator decisions. 
+In addition, group reciprocity was observed only among those who themselves 
+cooperated in the PD. This finding could be interpreted in two ways. Subjects 
+may   react   strongly   to   betrayal   in   the   PD,   but   not   to   mutual   defection. 
+31 
+
+========32========
+
+Alternatively, subjects who are in general more cooperative may react more to 
+others' defection, whether or not they themselves cooperated in a particular 
+instance (but these subjects are also more likely to cooperate in the PD). To 
+distinguish between these two explanations, Experiment 2 included an initial, 
+anonymous Prisoner's Dilemma without feedback, before subjects were placed 
+into groups. We use subjects' behaviour in this first PD to categorize them as 
+cooperative or non-cooperative “types”. Decisions in the first and second PD 
+were correlated: about 50% of cooperators in the first PD defected in the 
+second PD, while about 75% of defectors in the first PD defected again in the 
+second (chi-squared test, p<0.01). 
+32 
+
+========33========
+
+Decision 
+Punishment 
+Pgrp 
+161 
+(186.83)  
+Pgrp × ... 
+Self D -78 
+(236.31)  
+Partner D -248 
+(257.7)  Self D × Partner D 303.85 
+(308.61)  
+Self D1 -86 
+(194.64)  
+Self D1 × Self D -33.76 
+(258.73)  
+Self D1 × Partner D -427.01 
+(321.15)  Self D1 × Self D × Partner D 437.41 
+(384.82)  
+Summed coefficients: 
+Self D + (Self D1 × Self D) -111.75 
+(105.34)  
+Partner D + (Self D1 × Partner D) -675 
+(191.65) *** 
+Self D × Partner D + (Self D1 × Self D × 
+Partner D) 741.25 
+(229.88) ** 
+Controls Session dummies 
+No No 
+(1) 
+(2) Punishment 
+(3) Punishment 
+-521.99 (271.53) + 
+-441.22 (371.62)  
+-44.88 (183.21)  -291.5 (208.29)  408.83 (255.08)  132.05 (219.16)  -237.23 (303.34)  -275.75 (364.69)  324.72 (472.07)  
+-32.31 (241.76)  -195.76 (188.54)  162.7 (318.56)  78.63 (194.49)  -242.24 (437.06)  -444.21 (366.1)  747.73 (592.28)  
+-355.36 (207.64) + -603.62 (272.32) * 
+-284.26 (229.61)  -641.13 (271.71) * 
+804.35 (344.13) * Yes No 
+902.42 (352.8) * Yes Yes 
+Controls:  Z=(gender, group  colour, economics student, session % male, Partner group decision   taken   before   Other   group   decision).   Session   %   male   omitted   when   session dummies included. Standard errors in parentheses. +  p  < 0.10; *  p  < 0.05; **  p  < 0.01; *** 
+p  < 0.001. 
+TABLE 8: FE TOBIT REGRESSIONS, INTERACTIONS WITH INITIAL  PD 
+33 
+
+========34========
+
+Table 8  adds  Self D1, a dummy taking the value 1 if subjects defected in the 
+initial anonymous PD, to the first 3 regressions of Table 7, and interacts it with 
+Partner D  and  Self D. If the size of the Partner D × Self D  interaction in  Table 
+7  is genuinely caused by betrayal in the main PD, then the  Self D1  coefficient 
+should not be significant. On the other hand, if the interaction arises because 
+people with cooperative personalities react more strongly to partner defection, 
+then the interactions with Self D  should lose significance, and interactions with 
+Self D1  should be significant instead. In fact,  Self D1  and its interactions are 
+never significant, and, as the “summed coefficient” rows show, the effect of 
+partner defection is consistently larger for subjects who  defected   in stage 1. 
+Thus, behaviour in the initial PD does not help to explain why “betrayal” 
+causes more group reciprocal behaviour than mutual defection. We conclude 
+that only betrayal induces group reciprocity, and that it does so among both 
+more and less cooperative subjects. 
+Social identity theorists argue that intergroup discrimination is caused by the 
+level of people's identification with their own group – the extent to which they 
+perceive themselves as part of the group and take on its interests as their own 
+(Tajfel   et   al.   1971;   Tajfel   1982).   We   were   interested   in   whether   group 
+identification   could   help   explain   group-reciprocal   behaviour.   In   both 
+experiments,   the   final   questionnaire   included   questions   measuring   group 
+identification, adapted from Ellemers et al. (1999). We created a variable 
+34 
+
+========35========
+
+Group ID  by summing answers to these questions. 
+16 
+Table 9  reproduces the 
+first 3 columns of  Table 7, interacting the other independent variables with 
+Group ID. We expected that subjects who showed higher identification with 
+their group would be more likely to group-reciprocate. In fact, while Group 
+ID  itself predicts less giving to the partner group, its interaction terms are not 
+significant. Indeed, the effect of partner defection is stronger among those 
+with lower Group ID. Thus, group identification does not seem to be a useful 
+predictor of group reciprocal behaviour. 
+16 
+Results using an alternative Group ID variable, derived from the questionnaire scores by 
+factor analysis, were very similar to those shown here. 
+35 
+
+========36========
+
+Decision Pgrp 
+Punishment 
+-68.41 
+(102.13)  
+Pgrp × ... 
+Self D 148.64 
+(173.06)  Partner D -331.28 
+(248.02)  
+Self D × Partner D 361.42 
+(293.75)  
+Group ID -50.74 
+(17.61) ** 
+Group ID × Self D 30.03 
+(23.97)  
+Group ID × Partner D 5.27 
+(41.33)  
+Group ID × Self D × Partner D 14.84 
+(44.85)  
+Effect of Partner D at... 
+first quartile Group ID -362.87 
+(155.12) * third quartile Group ID -304.95 
+(432.06)  
+Controls Session dummies 
+No No 
+(1) 
+(2) Punishment -804.2 (425.85) + 
+(3) Punishment -192.26 (439.18)  
+171.15 (178.72)  -238.14 (329.72)  288.59 (344.95)  -45.52 (19.36) * 26.56 (21.83)  21.47 (49.08)  -1.58 (49.61)  
+120.69 (250.75)  -257 (240.09)  217.99 (369.31)  -38.91 (28.34)  23.83 (34.51)  12.71 (28.01)  1.92 (39.63)  
+-426.54 (161.31) ** -178.86 (574.97)  Yes No 
+-297.19 (205.57)  -125.08 (327.21)  Yes Yes 
+Controls:  Z=(gender,  group  colour, economics student, session % male, Partner group decision   taken   before   Other   group   decision).   Session   %   male   omitted   when   session dummies included. Group ID was centered at its median. Standard errors in parentheses. + p  < 0.10; *  p  < 0.05; **  p  < 0.01; ***  p  < 0.001. 
+TABLE 9: FE TOBIT REGRESSIONS, INTERACTIONS WITH GROUP IDENTITY, 
+EXPERIMENT  2 
+36 
+
+========37========
+
+Experiments involving lab-created groups can run the risk of demand effects, 
+in   which   subjects   follow   norms   implicitly   suggested   by   the   experimental 
+design. We took steps to minimize this risk. For example, we randomized the 
+order of allocation decisions, so as to avoid obvious pairings of similar choices 
+made vis-à-vis Partner and Other group members. We also asked subjects 
+about   the   experiment's   purpose   in   the   final   questionnaire.   Many   subjects 
+answered   that   the   experiment   was   about   teamwork;   only   a   few   (7   in 
+Experiment   1;   3   in   Experiment   2)   mentioned  e.g.   “revenge”   or   related 
+concepts. Rerunning our analyses without these subjects does not affect our 
+results. 
+Interpretation 
+The   results   above,   coming   from   a   new   experimental   design,   need   to   be 
+interpreted with care. Nevertheless, we here draw some initial conclusions. 
+Firstly   and   most   importantly:   taken   together,   our   experiments   provide 
+evidence for group reciprocity. Some subjects responded to their PD partner's 
+defection by reducing their allocations specifically to other members of the 
+partner's group, even at a cost to themselves. Group reciprocity was observed 
+in   the   absence   of   strategic   incentives,   supporting   a   preferences-based 
+explanation.  
+37 
+
+========38========
+
+Second,   group   reciprocity   did   not   affect   all   decisions   equally.     We   saw 
+significant   evidence   for   it   only   in   choices   where   the   Pareto-dominant 
+allocation would give subjects less than the other participant, but subjects 
+could pay to lower the discrepancy.  This is surprising, since we did not 
+observe group reciprocation in the dictator games, where subjects could have 
+punished   costlessly   (indeed   at   a   profit).   One   possibility   is   that   group 
+punishment does not obey the law of demand (cf. Anderson and Putterman 
+2006). 
+Lastly,  not all subjects group-reciprocated. Indeed, the majority of subjects did 
+not discriminate between groups. More cooperative subjects, as measured by 
+an initial anonymous PD,  were not more likely to group-reciprocate than less 
+cooperative ones, conditional on their choice to cooperate in the main PD. 
+Also, group reciprocal behaviour was not predicted by psychological measures 
+of   group   identification,   which   suggests   that   a   different   psychological 
+mechanism is at work than that posited by Social Identity Theory. Other 
+psychological   theories   not   tested   here,   such   as   social   dominance   theory 
+(Sidanius and Pratto 1999), might have more explanatory power. 
+Conclusion 
+In recent years, evidence from laboratory and field experiments has challenged 
+the motivational  assumption of material self-interest, introducing  concerns 
+38 
+
+========39========
+
+such as fairness and reciprocity.  One so far under-emphasized  factor, we 
+believe, is that humans, who often act in groups, often also treat other groups 
+as actors. They may therefore assign blame and praise to groups as well as 
+individuals – with important consequences for human society and politics. At 
+times in history, entire groups have been blamed and scapegoated for their 
+members' real or imagined behaviour. Laboratory experiments could help in 
+understanding the processes behind this phenomenon. In our experiments, 
+subjects   responded   to   one   group   member's   behaviour   by   treating   other 
+members of that group differently. 
+Discriminatory behaviour may be driven by beliefs rather than by preferences. 
+For example, ethnic discrimination in hiring may come from   statistical or 
+screening   discrimination   (Arrow   1972)   rather   than   from   a   “taste   for 
+discrimination” (Becker 1957).  In our experiments, strategic incentives were 
+ruled   out:   group   reciprocity   appear s   to   be   a  matter   of   pure   preference. 
+However,  we caution   against  too  narrow an  interpretation  of  this.  Group 
+reciprocity may be due to the activation of context-specific norms, rather than 
+to “preferences” thought of as unchanging characteristics of  individuals. 
+The majority of our subjects did not exhibit group reciprocity, and it was not 
+visible in all decisions. To investigate the causes and correlates of group 
+reciprocity,   our   experimental   paradigm   needs   further   refinement. 
+Complementary experiments could be done using homegrown identities such 
+39 
+
+========40========
+
+as ethnicity. Lastly, we have still to investigate third-party group reciprocity, 
+in which people retaliate against a group for harm done not to themselves, but 
+to a fellow group member of theirs. 
+Demonstrating   group   reciprocity   in   a   reproducible   laboratory   experiment 
+could open the door to deeper exploration of how it works. We draw an 
+analogy with the minimal group paradigm in psychology. After Sherif's initial 
+research   in   the   1950s   on   in-group   prejudice,   the   famous   Robber's   Cave 
+experiment   (Sherif  1961),  researchers  developed   a canonical  experimental 
+paradigm to analyse in-group prejudice (Tajfel et al. 1971). By making the 
+behaviour of interest reproducible, the minimal group paradigm catalysed a 
+productive tradition of research on prejudice. We hope that our experiment 
+will similarly encourage further study of this phenomenon under controlled 
+conditions. This could be a valuable complement to field study of the often 
+extreme situations where group reciprocity produces its most visible effects. 
+40 
+
+========41========
+
+Bibliography 
+Abbink,   Klaus   and   Benedikt   Herrmann   (2009),   “Pointless   Vendettas”, Manuscript. 
+Akerlof, George (1976), “The Economics of Caste and of the Rat Race and Other Woeful Tales.” The Quarterly Journal of Economics  90 (4): 599-617. 
+Anderson, C. M, and L. Putterman. 2006. “Do non-strategic sanctions obey the law of demand? The demand for punishment in the voluntary contribution mechanism.” Games and Economic Behavior  54 (1): 1-24. 
+Arrow, Kenneth J. (1972), “Some mathematical models of race discrimination in the labor market”, in: Pascal, Anthony H. (ed.),  Racial discrimination in economic life, Lexington: Lexington Books: 187-203. 
+Bardsley, Nicholas (2008), “Dictator Game Giving: Altruism or Artefact?”, Experimental Economics  11(2): 122-133. 
+Bauerlein, Mark (2001), Negrophobia: A race riot in Atlanta, 1906,  Encounter Books. 
+Becker,   Gary   S.   (1957),  The   economics   of   discrimination,   University   of Chicago Press. 
+Baetschmann,   Gregori,   Kevin   E   Staub,   and   Rainer   Winkelmann   (2011) “Consistent   Estimation   of   the   Fixed   Effects   Ordered   Logit   Model.”   IZA discussion paper. 
+Bernhard, H., Urs Fischbacher, and Ernst Fehr (2006), “Parochial altruism in humans.” Nature  442 (7105): 912-5.Bornstein, Gary (1992), “The Free Rider Problem   in   Intergroup   Conflicts   over   Step-Level   and   Continuous   Public Goods”, Journal of Personality and Social Psychology  62: 597-606.  
+41 
+
+========42========
+
+Blattman, Christopher., and Edward Miguel (2010), “Civil War.” Journal of Economic Literature  48 (1): 3-57. 
+Bolton, Gary E., and Axel Ockenfels (2000) “ERC: A Theory of Equity, Reciprocity, and Competition.” The American Economic Review  90 (1): 166- 193. 
+Bornstein, Gary (1992), “The free-rider problem in intergroup conflicts over step-level and continuous public goods.”  Journal of Personality and Social Psychology  62 (4): 597. 
+Bornstein,   Gary   (2003),   “Intergroup   Conflict:   Individual,   Group,   and Collective Interests”,  Personality and Social Psychology Review  7(2): 129- 145. 
+Bouckaert, Jan, and Geert Dhaene (2004), “Inter-ethnic trust and reciprocity: results   of   an   experiment   with   small   businessmen.”  European   Journal   of Political Economy  20 (4): 869-886. 
+Brewer,   Marilynn   B.   (1979),   “Ingroup   Bias   in   the   Minimal   Intergroup Situation:   A   Cognitive-Motivational   Analysis”,  Psychological   Bulletin   86, 307-324. 
+Brewer, Marilynn B. (1999), “The Psychology of Prejudice: Ingroup Love or Outgroup Hate?” Journal of Social Issues  55(3): 429-444. 
+Chen, Yan and Sherry Xin Li (2009), “Group Identity and Social Preferences”, American Economic Review  99(1): 431-457. 
+Collier, Paul, and Anke Hoeffler (2004), “Greed and grievance in civil war.” Oxford Economic Papers  56 (4) (October 1): 563 -595. 
+Daily Telegraph (2010). “Germany divided again as Europe grapples with euro   bailout   plan.” 
+42 
+
+========43========
+
+http://www.telegraph.co.uk/news/worldnews/europe/eu/8656892/Germany- divided-again-as-Europe-grapples-with-euro-bailout-plan.html. Downloaded 1 August 2011. 
+De Cremer, David and Mark van Vugt (1999), “Social Identification Effects in Social Dilemmas: A Transformation of Motives”, European Journal of Social Psychology  29: 871-893. 
+Dufwenberg, Martin, Uri Gneezy, Werner Güth, and Eric Van Damme (2001), “Direct vs indirect reciprocity: an experiment.”  Homo Oeconomicus   18: 19- 30. 
+Ellemers,   Naomi,   Russel   Spears,   and   Bertjan   Doosje   (1997),   “Sticking together   of   falling   apart:   In-group   identification   as   a   psychological determinant of group commitment versus individual mobility”,  Journal of Personality and Social Psychology  72 (3): 617. 
+Ellemers, Naomi, Pauleen Kortekaas, and Jaap W. Ouwerkerk, (1999), “Self- categorisation, commitment to the group and group self-esteem as related but distinct aspects of social identity”, European Journal of Sococial Psychology 29: 371-389. 
+Engel, Christoph (2010), “Dictator games: A meta study”,  Preprints of the Max Planck Institute for Research on Collective Goods Bonn  7: 2010. 
+Fearon, James D., and David D. Laitin (2003), “Ethnicity, Insurgency, and Civil War.” The American Political Science Review  97 (1) (February 1): 75- 90.Fehr,   Ernst   and   Urs   Fischbacher   (2004),   “Third-Party   Punishment   and Social Norms”, Evolution and Human Behavior  25: 63-87. 
+Fehr,   Ernst,   and   Simon   Gächter   (2000),   “Fairness   and   Retaliation:   The Economics of Reciprocity.” Journal of Economic Perspectives  14: 159-181. 
+43 
+
+========44========
+
+Fershtman, Chaim, and Uri Gneezy (2001), “Discrimination in a segmented society: an experimental approach.”  Quarterly Journal of Economics   115: 351- 377.  
+Fischbacher, Urs (2007), “z-Tree: Zurich toolbox for ready-made economic experiments”, Experimental Economics  10(2): 171-178. 
+Gaertner,   Lowell,   Jonathan   Iuzzini,   and   Erin   M.   O’Mara   (2008),   “When rejection by one fosters aggression against many: Multiple-victim aggression as a consequence of social rejection and perceived groupness.”  Journal of Experimental Social Psychology  44 (4) (July): 958-970. 
+Gaertner, Lowell and John Schopler (1998), “Perceived Ingroup Entitativity and   Intergroup   Bias:   An   Interconnection   of   Self   and   Others”,  European Journal of Social Psychology  28: 963-980. 
+Goette, Lorenz, David Huffman, and Stephan Meier (2006), “The impact of group membership on cooperation and norm enforcement: Evidence using random assignment to real social groups”, American Economic Review  96 (2): 212-216. 
+Greiner, Ben (2004), “The online recruitment system ORSEE 2.0 – a guide for the   organization   of   experiments   in   economics”,  University   of   Cologne, Working Paper Series in Economics  10: 2004. 
+Guala,   Francesco,   Luigi   Mittone   and   Matteo   Ploner   (2009),   “Group Membership,   Team   Preferences,   and   Expectations”,   University   of   Trento, CEEL Working Papers 0906. 
+Habyarimana, James, Macartan Humphreys, and Daniel N. Posner (2009), Coethnicity: Diversity and the Dilemmas of Collective Action (Russell Sage Foundation Series on Trust,  Russell Sage Foundation Publications, August. 
+44 
+
+========45========
+
+Halevy, Nir, Gary Bornstein and Lilach Sagiv (2008), “`In-Group Love´ and `Out-Group   Hate´   as   Motives   for   Individual   Participation   in   Intergroup Conflict”, Psychological Science 19(4): 405-411. 
+Hargreaves Heap, Shaun and Daniel J. Zizzo (2009), “The Value of Groups”, American Economic Review  99(1): 295-323 
+Honoré,   Bo   E.   (1992),   “Trimmed   LAD   and   least   squares   estimation   of truncated and censored regression models with fixed effects.” Econometrica: Journal of the Econometric Society: 533-565. 
+Horowitz, Donald L. (1985), Ethnic Groups in Conﬂict,  Berkeley: University of California Press. 
+Horowitz, Donald L. (2001), The Deadly Ethnic Riot,  University of California Press. 
+Kocher, Matthew A., Thomas B. Pepinsky, and Stathis N. Kalyvas (2008), “Into the Arms of the Rebels? Aerial Bombardment, Indiscriminate Violence, and Territorial Control in the Vietnam War”, Paper prepared for the  ISA’s 49th annual convention, San Francisco. 
+Krueger, A. B, and J. MaLeckova (2003) “Education, Poverty and Terrorism: Is There a Causal Connection?” The Journal of Economic Perspectives  17 (4): 119-144. 
+Koester, Philipp (2008), “Fanfreundschaften: Die Liebe kommt, die Liebe geht”, http://www.spiegel.de/sport/fussball/0,1518,575641,00.html 
+Lickel, Brian, Norman Miller, Douglas M. Stenstrom, Thimas F. Denson, and Toni Schmader (2006), “Vicarious retribution: The role of collective blame in intergroup aggression”, Personality and Social Psychology Review  10, no. 4: 372. 
+45 
+
+========46========
+
+Mamdani,   Mahmood   (2001),  When   victims   become   killers:   colonialism, nativism, and the genocide in Rwanda,  Princeton University Press Princeton. 
+Moreno,   Alexandro   T.   (2008),   “Group   Fairness   and   Game   Theory”, Universidad de Guanajuato, School of Economics Working Papers. 
+Mummendey,   Amélie,   and   Sabine   Otten   (1998),   “Positive–negative asymmetry in social discrimination”,  European review of social psychology 9(1): 107-143. 
+Mummendey, Amélie, Bernd Simon, Carsten Dietze, Melanie Grünert, Gabi Haeger, Sabine Kessler, Stepahn Lettgen, and Stefanie Schäferhoff (1992), “Categorization is not enough: Intergroup discrimination in negative outcome allocation”, Journal of Experimental Social Psychology  28(2): 125-144. 
+Nowak, Martin A, and Sébastien Roch (2007), “Upstream reciprocity and the evolution   of   gratitude.”  Proceedings   of   the   Royal   Society   B:   Biological Sciences  274 (1610). 
+Rabin,   Matthew   (1993),   “Incorporating   fairness   into   game   theory   and economics.” The American Economic Review  83 (5): 1281-1302. 
+Reuters   (2011),   “Bailout   fatigue   forces   Germany   to   hear   the   skeptics.” http://www.reuters.com/article/2011/07/13/us-germany-eurosceptics- idUSTRE76C1FS20110713. Downloaded 1 August 2011. 
+Shayo,   Moses   and   Asaf   Zussman   (2011),   “Judicial   Ingroup   Bias   in   the Shadow of Terrorism”, The Quarterly Journal of Economics (forthcoming).   
+Sherif, Muzafer, O. J. Harvey, B. Jack White, William R. Hood, and Carolyn W. Sherif (1961),  The Robbers Cave experiment: Intergroup conflict and 
+46 
+
+========47========
+
+cooperation,  Wesleyan University Press Scranton, Pa.: Distributed by Harper & Row, Middletown, Conn.  
+Sidanius, Jim, and Felicia Pratto (1999),  Social dominance: An intergroup theory of social hierarchy and oppression. Cambridge University Press. 
+Stenstrom, Douglas M., Brian Lickel, Thomas F. Denson and Norman Miller (2008), “The Roles of Ingroup Identification and Outgroup Entitativity in Intergroup   Retribution”,  Personality   and   Social   Psychology   Bulletin 34(11):1570-1582. 
+Sumner, William G. (1906), Folkways: A study of the sociological importance of usages, manners, customs, mores, and morals. Ginn. 
+Tajfel,  Henri (1982), “Social psychology of intergroup  relations”,  Annual review of psychology  33 (1): 1-39. 
+Tajfel, Henri, M. G Billig, R. P Bundy, and Claude Flament (1971), “Social categorization   and   intergroup   behavior”,  European   Journal   of   Social Psychology  1 (2): 149-178. 
+Yamagishi, Toshio and Toko Kiyonari (2000), “The Group as the Container of Generalized Reciprocity”, Social Psychology Quarterly  63(2): 116-132. 
+Yamagishi,   Toshio   and   Nobuhiro   Mifune   (2008),   “Does   Shared   Group Membership Promote Altruism?”, Rationality and Society  20(1): 5-30. 
+Yamagishi,   Toshio   and   Nobuhiro   Mifune   (2009),”Social   Exchange   and Solidarity:   In-Group   Love   or   Out-Group   Hate?”,  Evolution   and   Human Behavior  30: 229-237. 
+47 
+
+========48========
+
+Appendix: further statistical analyses 
+For online publication 
+The experiment questionnaire asked if subjects had met any of the other 
+participants before. Some subjects (39) answered that they had. These subjects 
+might have had strategic motivations for behaving in a certain way if they 
+expected to meet these subjects again. We are not very concerned about this, 
+because   all   decisions   were   anonymous   and   subjects'   roles   were   assigned 
+randomly. Nevertheless,  Table 10   reruns the basic regressions of   Table 7, 
+excluding all these subjects. Results are basically unchanged. 
+48 
+
+========49========
+
+Decision Pgrp 
+173.5 
+Punishment Punishment Punishment Dictator 
+-677.06 
+(186.34)  
+(248.01) ** (317.93)  
+Pgrp × ... 
+Self D 
+-93.19 
+(210.62)  
+-83.59 
+(179.9)  
+Partner D 
+-282.36 
+(253.45)  
+-405.56 
+(176.97) * 
+Self D × Partner D 281.85 
+(285.49)  
+419.38 (215.59) + 
+Controls Session dummies N 
+No No 
+Yes 
+No 
+133 
+-368.19 
+56.67 
+(40.49)  
+-108.3 
+-11.28 
+(176.24)  
+(81.95)  
+-313.14 
+-141.67 
+(142.85) * 
+(79.94) + 
+357.27 (232.29)  
+146.84 (138.3)  
+Yes Yes 
+No No 
+133 
+133 
+Dictator -184.6 
+Dictator -16.21 
+(90.92) * 
+(139.17)  
+3.91 
+-4.5 
+(61.36)  
+(62.28)  
+-38.59 
+-58.69 
+(64.2)  
+(69.85)  
+51.2 (96.59)  
+117.16 (112.22)  
+Yes No 
+Yes Yes 
+133 
+133 
+133 
+Controls:  Z=(gender, group  colour, economics student, session % male, Partner group decision   taken   before   Other   group   decision).   Session   %   male   omitted   when   session dummies included. Standard errors in parentheses. +  p  < 0.10; *  p  < 0.05; **  p  < 0.01; *** 
+p  < 0.001. 
+TABLE 10: FE TOBITS EXCLUDING SUBJECTS WHO HAD MET OTHER 
+PARTICIPANTS, EXPERIMENT  2 
+Sessions 6-10 of Experiment 2 used a different payment method, paying either 
+both stages 1 and 2, or both stages 3 and 4 (the PD and the allocations). Table 
+11  adds a dummy  Payboth  to columns 1, 2, 4 and 5 of   Table 7, and interacts it 
+with Self D, Partner D  and their interaction.  Results are not very clear. The 
+Payboth  dummy interacts significantly with  Partner D  in the regression on 
+punishment choices in column 1,  but the coefficient is much smaller and 
+insignificant when controls are added. There is also a significant interaction in 
+49 
+
+========50========
+
+the controlled regression on dictator choices (column 4). However, neither the 
+coefficient on Partner D itself, nor the summed coefficient Partner D + 
+Payboth × Partner D, is significantly different from zero. Overall, we think it 
+reasonable to pool the sessions for analysis, as in the main text. 
+(1) 
+Decision Pgrp 
+Punishment Punishment Dictator 
+183.81 (219.9)  
+Pgrp × ... 
+Self D -12.6 
+(254.35)  Partner D -735.23 
+(282.64) ** (265.28)  
+Self D × Partner D 687.43 
+(341) * 
+Payboth -123.81 
+(229.2)  
+Payboth × Self D -253.09 
+(278.98)  
+Payboth × Partner D 678.23 
+(329.11) * 
+Payboth × Self D × 
+Partner D -324.16 
+(398.28)  Controls No 
+(2) 
+(3) 
+-473.66 (279.66) + 
+-91.66 (98.92)  
+(4) Dictator -308.2 (181.86) + 
+-36.81 (221.53)  -415.15 
+416.67 (315.26)  -61.5 (286.23)  -154 (348.57)  77.73 (395.97)  
+47.92 (134.25)  -7.08 (147.13)  144.33 (194.38)  160.14 (106.86)  -216.4 (162.4)  -131.38 (167.77)  
+133.93 (141.62)  205.59 (142.73)  -150.3 (161.18)  120.86 (162.02)  -187.51 (148.29)  -303.39 (139.4) * 
+211.31 (472.67)  Yes 
+56.15 (239.47)  No 
+224.67 (181.93)  Yes 
+Controls:  Z=(gender, group  colour, economics student, session % male, Partner group decision taken before Other group decision). Standard errors in parentheses. +  p  < 0.10; * 
+p  < 0.05; **  p  < 0.01; ***  p  < 0.001. 
+TABLE 11: FE TOBITS, INTERACTION WITH PAYMENT METHOD, EXPERIMENT  2 
+50 
+
+========51========
+

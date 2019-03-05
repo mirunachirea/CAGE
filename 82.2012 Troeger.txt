@@ -1,0 +1,1335 @@
+March 2012 
+                 No. 82 
+MONETARY POLICY FLEXIBILITY  
+IN FLOATING EXCHANGE RATE REGIMES: CURRENCY DENOMINATION AND IMPORT SHARES 
+Vera E. Troeger University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Monetary Policy Flexibility in Floating Exchange Rate Regimes: Currency Denomination and Import Shares 
+Vera E. Troeger 
+University of Warwick, CAGE, v.e.troeger@warwick.ac.uk 
+Preliminary Draft: do not circulate. Comments welcome. 
+Summary: 
+This paper argues that the degree of monetary flexibility a government enjoys does not only depend on the implemented monetary institutions such as exchange rate arrangements and central bank independence but also on the economic and financial relationships with key currency areas. I develop a formal theoretical framework explaining the degree of monetary independence in open economies under flexible exchange rate regimes by trading relations and financial integration. The model suggests that a) higher import shares from the key currency area increase the imported inflation when monetary authorities try to offset an exogenous shock by cutting back the interest rate while the base country does not encounter a similar shock, and b) the more cross border assets of a country are denominated in the base currency the higher the exchange rate effects of interest rate differences to the interest rate of the key currency area. The presented empirical evidence largely supports the theoretical predictions. 
+For helpful comments and support I wish to thank Thomas Plümper, David A. Singer and Quan Li. In addition, I am very grateful to the Bank for International Settlement for providing data on currency break downs of banks' cross border assets. 
+1 
+
+========2========
+
+1. Introduction 
+Few if any observers would doubt that ‘the international economy’ influences a domestic government’s choice of monetary policy. Too obvious have been the various attempts to find an monetary regime which on the one hand produces the conditions for a stable international exchange of goods, services and capital, while on the other hand granting sufficient monetary policy autonomy to the national policy makers in order to allow flexible responses to economic shocks. 
+Yet, scholars working on the international influences of domestic monetary policies hardly agree on the consequences of integrated capital markets and exchange-rate systems on monetary policy autonomy. While adherents of the Mundell-Fleming approach typically argue that in the absence of capital controls, governments face a trade-off between exchange-rate stability and monetary autonomy. Often, the unholy trinity argument has been interpreted as if an exchange-rate peg leads to a complete loss of monetary policy autonomy, while the choice of a flexible exchange-rate system assures full monetary autonomy to the government (or the independent central bank). The ‘fear of floating’ literature provides a very helpful addition to this simplified dichotomous view of monetary policy. In its proponent’s view do countries with flexible exchange-rates often not enjoy full monetary policy autonomy but rather take into account the exchange-rate effects when making monetary policy choices. Accordingly, most governments prefer a managed floating to a free floating exchange-rate system. 
+This paper analyzes the determinants of de facto monetary policy autonomy from the angle of the fear of floating literature1. In brief, my main argument states that the degree to which the monetary policy of the key currency determines the monetary policy of other countries depends on the countries’ trade openness, their trade relations with the key currency area, and the assets which domestic capital owners hold in the key currency. I thus provide an explanation for the huge variance to which floating countries actually maintained de facto monetary policy autonomy. 
+I start with developing a comprehensive theoretical framework determining the conditions for the degree of monetary policy autonomy in small open economies maintaining flexible 
+1 
+I thereby build on the work of Plümper and Troeger (2006a,b) who show that monetary policy set in the EMU influences the monetary policy flexibility of governments in outsider countries. 
+2 
+
+========3========
+
+exchange rate arrangements. I develop a formal political economy model of the monetary policy choice of governments who are constraint by domestic and international factors. With respect to national constrains governments have the incentive to counterbalance exogenous shocks, maximize domestic consumption, and satisfy interest groups. On the other hand international pressures such as trading relations and integration into international monetary markets also influence monetary policy decisions. 
+In line with the fear of floating approach my main argument holds that monetary authorities under floating exchange rate regimes do only enjoy limited monetary policy autonomy. However, the degree of monetary independence is conditioned upon the economic relationships with key currency areas. The more a country imports from the key currency area and the more cross border assets are denominated in the key currency the more the domestic monetary policy depends on the policy set in the key currency area. The reason is that greater economic dependence on the key currency area leads to larger exchange rate effects of domestic monetary policy diverging from the policy set in the key currency area. In turn, importing large amounts of goods and services from the key currency area translates the exchange rate effects of domestic monetary policy into domestic inflation. Rising inflation, however, reduces domestic consumption leading to losses in voter support for the incumbent. Following this reasoning, governments in open economies must care about stable exchange rates to the base currency to avoid importing inflation and diminishing consumption. Thus, small open economies with close trading relations to a key currency area are prone to bring their own monetary policy in line with the interest rate policy issued by the base country. My argumentation partly relies on the assumption that interest differentials to key currency areas exert real exchange-rate effects which lead to devaluation of the domestic currency. (Dornbusch 1976, Rogoff 1985, Shambaugh 2005). This effect is the larger the more goods and services are imported from the key currency area and the more cross border assets are denominated in the key currency. 
+I subject the theoretical predictions of my formal model to a rigorous empirical test. The empirical findings lend ample support to the main hypotheses that a) countries importing a large share of their goods and services from the base country follow the monetary policy choices of the base central bank much closer and b) that the same holds true the more cross border assets are denominated in the key currency. From this result I can draw the 
+3 
+
+========4========
+
+conclusion that the degree of monetary flexibility is crucially conditioned on the economic relations with the key currency area. 
+I proceed as follows: the next section shortly reviews the relevant literature on the choice of monetary institutions and monetary policy autonomy. Based on this discussion I develop a formal theoretical model of monetary flexibility by comparing the closed economy to the open economy case in section 3. Section 4 tests the theoretical predictions empirically on monthly data of 38 countries over a period of 25 years (1980-2004) and section 5 concludes. 
+2. Monetary Policy Autonomy in Open Economies: A Brief Literature Review 
+The political economic literature dealing with monetary policy is dominated by the well known and widely used open economy trilemma. The “fear of floating” literature which serves as basis for the argument brought forward in this paper can be seen as an extension to the Mundell-Fleming theorem. The trilemma or unholy trinity argument roots in the seminal work of Mundell (1961/1962) and Fleming (1962) and states in a nutshell that a policy maker in an open economy only can achieve two of the three policy goals: open capital markets, stable exchange rates, and monetary policy flexibility. From this it is often derived that in a world where capital is mobile authorities under fixed exchange rate regimes cannot use monetary policy to reach domestic goals but governments maintaining floating exchange rate arrangements enjoy full monetary policy autonomy. Since in the political-economic literature the Mundell-Fleming theorem was mainly employed to focus on fixed exchange rate regimes and their merits the “fear of floating” theory (Calvo and Reinhart 2002) mainly focuses on monetary policy under flexible exchange rate arrangements. Proponents argue that in a world with highly integrated capital and product markets governments cannot or choose not to use monetary policy independently from base economies even in case they face floating regimes because of credibility issues and exchange rate pass-through. Since financial integration has become almost perfect in the last decade and capital mobility is higher than ever governments have to choose between exchange rate stability and monetary policy autonomy if one follows the reasoning of the Mundell-Fleming model. Yet, the fact that monetary authorities lose monetary policy autonomy when pegging the exchange-rate (given absence of capital controls) does not 
+4 
+
+========5========
+
+mean they enjoy perfect monetary independence under flexible exchange-rate regimes. In other words: under a fixed exchange-rate system governments are obliged or committed to defend the exchange-rate, under a flexible exchange-rate regime it might still be rational for the monetary authority to defend relatively stable exchange-rates. 
+Both theoretical arguments complement and inform each other but generate quite different predictions about the monetary flexibility policy makers enjoy in countries under floating exchange rate arrangements. The open economy trilemma concludes that governments under flexible exchange rate regimes maintain full monetary policy autonomy since under a floating regime the supply and demand for the domestic currency against the foreign currency is determined by the market and there is no need for the central bank to intervene. Therefore, domestic monetary aggregates are not affected by external flows, and monetary policy can be pursued independently of monetary policy in other countries (Bernhard, Broz and Clark 2002). The “fear of floating” theory maintains that even in floating regimes monetary authorities are not able to use monetary policy to achieve domestic goals since governments are constraint by foreign currency liabilities and loss of credibility. In political science research on monetary institutions the traditional view of the open economy dilemma dominates since this literature mainly focuses on fixed exchange rate regimes and their consequences. William Bernhard, Lawrence Broz and William Robert Clark (2002: 695) for example state: “When a nation fixes its currency’s value to that of another nation, it is, to a large extend, delegating monetary policy to a foreign central bank. The pegging nation not only forgoes exchange-rate flexibility as a policy tool, it also subordinates its monetary policy to that of a foreign central bank.” The implicit assumption that monetary authorities under pegged regimes forsake all monetary autonomy while governments under flexible regimes enjoy full monetary flexibility underlies a wide range of research on monetary institutions. In particular, the literature on the choice of exchange rate arrangements (Rogoff 1985, Giavazzi and Pagano 1988, Canavan and Tommasi 1997, Walsh 1995) and central bank independence (Barro and Gordon 1983, Rogoff 1985, Neumann 1991) relies on the predictions of the Mundell-Fleming theorem. 
+Scholars in economics concerned with monetary policy either base their research on the unholy trinity theory or the “fear of floating” view depending on the focus of their studies. In line with the open economy approach early economists (Mundell 1961, McKinnon 1962, Kenen 1969) have argued that fixed exchange rate regimes lower the exchange rate 
+5 
+
+========6========
+
+risk and the transaction costs which can impede international trade and investment. Freely floating exchange rates therefore create uncertainty about international transactions by adding a risk premium to the costs of goods and assets traded across borders. Pegging thus reduces these risks and encourages more trade and investment. However, the flipside of the augmented stability is the complete loss of monetary policy as a policy instrument. The traditional economic view on exchange rate choices, thus, hinges on the benefits of integration. Stable exchange rates moderate the transaction costs of international trade and therefore foster economic growth (Rose 2000). The literature on optimal currency areas (Mundell 1961, McKinnon 1962; Kenen 1969, Frankel and Rose 1997, Rogoff 2001; Alesina, Barro and Tenreyro 2002; McKinnon 2004) and currency unions (Alesina/ Barro 2001 and 2002; Tenreyro and Barro 2003) is based on the benefits of intensified trade and loss of monetary independence arguments. On the one hand, members of currency unions benefit since a joint currency decreases trading costs induced by exchange rate risks and hence generates efficiency gains. On the other hand, governments of member states have to surrender monetary policy autonomy to the union’s central bank and can no longer tailor their policy to country specific exogenous shocks (Mundell 1963). 
+In addition, the international institution mainly concerned with monetary and exchange rate policy the International Monetary Fund (IMF) follows in its policy recommendations the predictions of the Mundell-Fleming theorem. In the view of most IMF economists only the adoption of a flexible exchange rate regime fosters economic growth especially in developing countries since policy makers in a floating regime dispose of the necessary flexibility to adapt monetary policy to domestic economic needs (Gosh et al. 1996, Fisher 2001). The IMF even provides guidance for developing countries how to manage best the transition from a pegged regime to a flexible exchange rate arrangement (Ingves 2004). In an address to the Fraser Institute (Vancouver, Canada) in May 2006 the First Deputy Managing Director of the IMF, Anne Krueger, stated: 
+“So what did our experience in the 1990s teach us about delivering growth and 
+prosperity? Several important lessons stand out. 
+First and foremost is the crucial importance of a flexible exchange rate regime. Fixed exchange rate regimes pose significant challenges because they mean fiscal and monetary policies must always be consistent with the exchange rate regime and subordinated to it. 
+The countries affected by capital account crises were all hampered in their initial 
+response to trouble by fixed or heavily managed exchange rate regimes.” 
+6 
+
+========7========
+
+The “fear of floating” theory (Calvo and Reinhart 2002) adds some interesting thoughts to the dichotomous use of the Mundell-Fleming model since it argues that interest rate policy other than following the base interest rate generates immediate exchange rate fluctuations beyond the amount most countries are willing to tolerate. Accordingly, no country enjoys monetary flexibility and all governments must maintain a tight connection to the interest rate of the relevant base economy. 
+Even though scholars in the tradition of the “fear of floating” approach question the restrictive assumptions of the open economy trilemma they do not elaborate on the factors determining the extent of the “fear”. The conditions responsible for the degree of monetary policy autonomy in floating regimes are not analyzed. In this respect the “fear of floating” literature makes equally strict predictions about monetary flexibility since it asserts that monetary authorities facing flexible exchange rate arrangements must closely follow the monetary policy choices of the relevant key currency area. 
+Empirical tests for the predictions of both theoretical strands are very limited and the evidence supporting either view is rather mixed. 
+Borensztein, Zettlmeyer and Philippon (2001) provide limited empirical support for the traditional view of the Mundell-Fleming model. They focus on some countries with easy identifiable exchange rate regimes (such as Argentina, Mexico, Hong Kong and Singapore) and try to identify the response of domestic interest rates to exogenous shocks in world interest rates. Obstfeld, Shambaugh and Taylor (2004) test the empirical contents of the unholy trinity and find strong support for the logic of the trilemma theory by analyzing data of the inter-war period. They argue that under open capital markets and pegged exchange rates, the half lives of interest rate deviations can be counted in month, and interest rate pass-through is very strong whether before or after World War I, or even today. They conclude that the logic of the trilemma has enduring power. Shambaugh (2004) seriously compares the two theories, he asserts that even if countries with flexible exchange rate arrangements are somewhat reluctant to use monetary policy due to reasons the “fear of floating” literature proclaims, the open economy trilemma still holds because countries with fixed exchange rates enjoy much less monetary flexibility. Shambaugh shows how pegged countries follow the interest rate of the key currency area more closely than non-pegged countries and that there exist significant differences to countries with 
+7 
+
+========8========
+
+flexible exchange rate regimes. Furthermore, the monetary authorities of pegged countries react more quickly to changes in the key currency area’s monetary policy (ibid. p. 344). This implies that the non-pegged countries have significantly more room for using monetary policy for domestic reasons than countries under fixed regimes. 
+With respect to the claims of the “fear of floating” approach Calvo and Reinhard provide only anecdotic evidence for developing countries supporting their theoretical predictions. Frankel (1999) and Hausmann et al. (1999) report some empirical results for selected countries during the 1990s supporting the “fear of floating” reasoning. The most convincing findings supporting the view of “fear of floating” are provided by Frankel, Schmukler and Sevén (2002) who examine whether the choice of the exchange rate system affects the sensitivity of local interest rates to international interest rates. To test this assertion they use a quite large sample of developing and industrialized countries during the period between 1970 and 1999. Frankel et al. empirically show that all exchange rate arrangements exhibit high sensitivity of local interest rates to international ones in the 1990s supporting the claims of the “fear of floating” literature. The speed of adjustment is in the long run lower for floating than for pegged regimes. Flexible regimes therefore appear to offer at least some temporary monetary independence. Yet, in most cases they cannot deny full transmission of international interest rates in the long run even for countries with floating regimes. 
+The two approaches on monetary policy make either un-satisfying predictions about monetary independence or fail to identify the determinants of the degree of monetary policy autonomy in open economies. Moreover, the empirical evidence for both the traditional unholy trinity and the extensions provided by the “fear of floating” view is rather mixed and inconclusive. In the following I go one step further than asking whether the open economy trilemma holds or not. The exchange rate system is not the only factor determining monetary flexibility of policy makers. Hence, the next section provides a formal theoretical model of the determinants of monetary policy autonomy in open economies with (more or less) flexible exchange rate arrangements. 
+3. The Political Economy of Monetary Independence 
+In what follows I give up the dichotomous treatment of monetary policy autonomy suggested by the open economy trilemma. In line with Calvo and Reinhart (2002) I argue 
+8 
+
+========9========
+
+that countries under flexible regimes do not enjoy full monetary policy autonomy. However, these countries follow the monetary policy of those key currency countries from which they import the largest part of their goods and services and in which currency most of the cross border assets are denominated. My argumentation builds on work of Plümper and Troeger (2006a,b) who examine how the foundation of the European Monetary Union impacts monetary policy flexibility of countries which did not join the Union. The theoretical argument is partly based on McKinnon's (1963) argument that small open economies with flexible exchange rate arrangements have only limited monetary flexibility due to the fact that interest rate differentials to the relevant key currency area have real exchange-rate effects. Accordingly, cutting back the interest rate for achieving domestic goals would lead to a devaluation of the domestic currency and accordingly to imported inflation. I will show that this effect is the larger the more goods and services are imported from the key currency area and the more domestic cross border assets are denominated in the key currency. The trade argument builds upon the Optimal Currency Area (OCA) theory (see Alesina and Barro 2001 and 2002, Mundell 1961, Frankel and Rose 1997, Rogoff 2001, Alesina/ Barro and Tenreyro 2002, McKinnon 2004) stating that a common currency reduces hedging and exchange rate risks. In accordance, countries with a joint currency benefit largely from intensified trade. In some contrast to the OCA literature and the “fear of floating” literature I develop a model explaining monetary policy choices of governments who are constraint by efforts to satisfy domestic voters on the one hand and international consequences of domestic policy choices on the other hand. The formal model developed in this section generates predictions about the factors defining the level of monetary policy autonomy in open economies under floating exchange rate regimes. 
+The Model 
+I develop the formal model in two steps. In the first stage I describe the basic settings and assumptions of the model and the optimal monetary policy choice of a government in a closed economy. I adopt a standard textbook version of a rational expectations model of monetary policy with non-partisan governments as it has been suggested by several authors in the late 1980s (Cukierman/ Meltzer 1986; Rogoff/ Sibert 1988; Persson/ Tabellini 1996). I do not, however, incorporate the idea of governments signalling competence to the voters by manipulating the business cycle. Instead, I follow Persson and Tabellini (2002) 
+9 
+
+========10========
+
+and Obstfeld and Rogoff (1995) in assuming monetary policy to be a political instrument, which may offset the impact of economic shocks to consumption. 
+In a second step, I allow for capital flows, exchange-rate effects and trading relations. I find that monetary policy becomes a more costly political instrument if agents can transfer capital into other currencies, because the devaluation of the domestic currency will lead to higher prices of imported goods and thus to more inflation. This effect increases with the ratio between the consumption of imported goods to the consumption of domestic goods. The model is consistent with the finding that small open economies are less likely to use monetary policy than large closed economies. Countercyclical monetary policy becomes less attractive the smaller the domestic economy relative to the key currency area and the larger the share of imports from the key currency area relative to the size of the domestic economy and relative to imports from other countries. The exchange rate effect of monetary policy also becomes stronger with the share of bank cross border assets denominated in the currency of the base country. 
+Monetary Policy Decisions in a Closed Economy 
+Consider a standard political economic model (see Persson/ Tabellini 1996, 2002, Obstfeld and Rogoff 1996: 648-652) in which governments maximize a support (or minimize a loss) function. Implicitly, governments are solely interested in maintaining power; they do not have ideological preferences2. The government’s loss increases with inflation induced suboptimal consumption and decreases with output growth due to unexpected inflation: 
+L C Y 
+  
+ 
+e e 
+g t t t t t t t 
+ 
+ 
+2 1/ 2 
+ 
+  
+   
+ 
+, (1) 
+whereby C 
+t 
+denotes actual consumption,  
+t 
+and  
+t 
+e 
+are actual and expected inflation 
+respectively,  
+t 
+stands for an exogenous shock to the economy, and Y 
+t 
+denotes the actual output. The second term of equation 1 accounts for government’s exploitation of the Phillips-curve (Phillips 1958). In the short run governments can boost output by introducing surprise inflation which is actual inflation exceeding the expected inflation (for a detailed discussion of business cycle theory see Franzese 2002). However in the long run 
+2 
+It is nevertheless easy to augment the model by the assumption of party differences. Yet, the basic conclusions should hold. Moreover, in the empirical part of this paper I also test for partisan differences. 
+10 
+
+========11========
+
+this opportunistic behavior cannot create output but raises the long-term inflation rate. Monetarists like Milton Friedman argue that money is neutral – governments cannot boost consumption and employment by augmenting money supply or lowering central bank interest rates (Friedman 1968). Friedman claims that wages would have to rise faster than inflation expectation to make employment more attractive. If wages and inflation increase at about the same rate, inflating the economy does not lead to more employment. As a consequence, expansionary monetary policies would raise inflation without altering employment (Iversen 1999: 19). In addition, Robert Lucas (1972) maintained that voters do not make systematic errors when predicting the future. Monetary policy would thus be ineffective even in the short run. Due to this reasoning I will suppress the second term from equation 1, assuming that on average rational voters expect inflation rates which do not allow governments to pursue business cycles or at least only on a very short term basis. Instead I follow the explanation provided by Persson and Tabellini (1996). In their view, monetary policy has a political value not because governments can manipulate the business cycle but because higher money supply or reducing interest rates can offset the effects of economic shocks. In particular, unexpected changes of monetary policy may stimulate the economy and employment, while expected expansionary monetary policy increases 
+inflation rather than employment. This possibility is captured by  
+t 
+in the first term of equation 1. Nevertheless, I will test for the possibility of electoral cycles in the empirical part of the article. 
+Following this line of argument the expected inflation then follows: 
+e et t 
+ 1 
+ E i |  
+ 
+(2) 
+where  denotes the natural rate of unemployment. i 
+e 
+stands for the expected monetary policy (expected interest rate). 
+I assume voters to rationally expect the inflation rate so that governments cannot create output growth by expansionary monetary policy. As a consequence, monetary authorities have an incentive to set monetary policy according to the non-accelerating inflation rate of unemployment (NAIRU) (Mankiw 2001; Ball/ Mankiw 2003). Accordingly, the inflation target of the government equals the natural output growth. For mathematical tractability 
+the target rate is set to zero ( 
+e 
+t 
+ 0 ). This is just a numerical assumption and does not alter the predictions of the model. 
+11 
+
+========12========
+
+However, in case there is an unexpected supply shock policy makers may use monetary policy to counterbalance the shock. 
+t t 
+1 
+ i 
+ 
+(3) 
+where i denotes the actual interest rate and  > 0 is a constant describing the degree of monetary policy pass-through into actual inflation. The degree of pass-through is for example contingent upon the elasticity of capital markets in their reaction to cuts and increases in the leading interest rates. 
+For simplicity reasons I assume that natural unemployment does not change over time. The actual inflation rate then follows: 
+ i i 
+t 
+t t t t 1 1 
+   
+ 
+ ; 0 
+i 
+ 
+t 
+(4) 
+In accordance with equation 4 inflation in a closed economy equals a combination of the inflation encountered in the previous year and the change in monetary policy. 
+Combining equations 4 and 1 reveals the part of a government’s loss function depending on its monetary policy choice. 
+L C i ig t t t t t 
+  
+ 
+1 1 
+  
+ 
+  
+ 2 
+(5) 
+Inflation is politically costly unless the monetary authority lowers the real interest rate to offset an exogenous shock to the economy. The first order condition for optimal monetary policy choices in a closed economy implies: 
+Lg it 
+ 2 0C C i it t t t t t 
+ 
+ 
+ 
+ 
+1 1 
+   
+ 
+  
+(6) 
+which results in the optimal policy decision: 
+iopt close, t 
+ 
+C C it t t t t 
+1 1  
+  
+Ct 
+(7) 
+Equation 7 suggests that the optimal choice of monetary policy for a government in a closed economy equals the NAIRU, unless there is an exogenous shock to the economy which can be partly offset by expansive monetary policy in the closed economy case. When governments do not bring monetary policy in line with exogenous shocks consumption decreases while inflation remains constant. This is obviously not in the 
+12 
+
+========13========
+
+interest of the policy maker since it reduces support. On the other hand increasing inflation to offset an economic shock diminishes consumption as well. The best reaction of the monetary authority is therefore to only partly counterbalance the exogenous shock by monetary policy. Thus, the optimal monetary policy stabilizes inflation at acceptable levels while the unemployment rate approaches its natural rate. 
+In the next section I abandon the restrictive assumption of a closed economy and allow for capital flows, trading relations and exchange rate effects. This produces a more realistic picture of monetary policy choices in open economies and detects the factors that determine the de facto level of monetary independence. 
+Monetary Policy, Exogenous Shocks, Trading Relations and Foreign Assets in an Open Economy: 
+In an open economy the optimal policy choice not only depends on the degree to which governments maximize output and consumption by counterbalancing exogenous shocks, but also on the exchange rate effects of domestic monetary policy settings. In what follows I show a) that offsetting economic shocks by monetary policy has different consequences than in the closed economy case, and b) which factors determine the actual level of monetary independence in open economies with floating exchange rate arrangements. If a government relaxes monetary discipline while having to deal with an exogenous shock to the economy, it will not only stimulate the domestic economy but also provide an incentive for capital exports (which is matched by an increase in the imported goods and services). Hence, the stimulating effect of ‘cheap money’ is partly absorbed abroad and this part is larger the smaller the domestic economy is in relation to imports from the rest of the world. In other words, monetary policy is less efficient in more open economies. For the sake of the argument it is most convenient to model the inflationary push of lax monetary policy as a consequence of the exchange-rate effect. This view is consistent with empirical evidence. For instance, David Romer (1993) finds robust support for the hypothesis that more open countries tend to have lower inflation rates. The Dornbusch- model (1976, 1987) associates lower nominal interest rates with depreciation. Dornbusch’s model predicts that unanticipated monetary expansion by a small open economy will in general lead to real currency depreciation. Rogoff (1985) shows that the tendency for the exchange rate to depreciate following a monetary expansion may temper the incentives of 
+13 
+
+========14========
+
+governments to inflate unless the country’s trade partners inflate at the same time. If the price index which monetary authorities seek to stabilize includes foreign goods, real currency depreciation exacerbates the CPI inflation cost of unilateral monetary expansion. Even though the correlation between nominal interest rates and nominal exchange rates does not fully support this assertion the Dornbusch model makes strong predictions about the relationship between real interest rates and real exchange rates. Countries adopting monetary tightening (increasing the interest rate) almost invariably appear to experience real currency appreciation.3 The empirical results however are mixed (Meese and Rogoff 1983). Yet, the relationship between real interest differentials and real exchange rates seems to be closer than that between nominal variables (Frankel and Rose 1995, Meese and Rogoff 1983).4 Shambaugh (2005) finds that import prices move in the same direction as the nominal exchange rate after monetary shocks. This supports the idea that import prices tend to be set in the producer’s currency. The import price pass-through is almost perfect and very high inflation can generate relatively larger import price pass-through. Based on the fact that the majority of the literature supports the notion of exchange rate pass-through and monetary policy influencing the exchange rate, I assume monetary policy to have real exchange rate effects. 
+The government’s loss function in an open economy changes in the following way: 
+L C z E Ig t t t b     
+2 
+ / 
+(8) 
+where  zb denotes the change of the exchange rate towards the base currency, E and I stand for total Exports and Imports respectively. The last term of equation 8 captures an interest group argument brought forward e.g. by Frieden et al. (2001) describing the fact that exporters rather prefer a weak domestic currency and a higher level of inflation. Since the interests of a well organized export industry can often be better fed into the political process than more diffuse consumer interests (Olson 1971) a larger export share of the economy as compared to the import share should have a significant impact on monetary policy decisions. However, a depreciation of the domestic currency brought about by 
+3 
+Examples include the Volcker deflation of the 1980s in the US, Britain’s monetary tightening under Margaret Thatcher starting in 1979, the attempts by Italy and France to deflate by pegging to the D-Mark and in the 1990s several Latin American countries drastically tightened monetary policy after the severe inflations of the 1980s, with similar effects on the real exchange rates. 
+4 
+Because of this finding I will base the empirical analysis on real exchange rates. 
+14 
+
+========15========
+
+interest rate cuts can stimulate the economy only in the long run. True, a depreciation makes domestic producers more competitive on foreign markets and foreign producers less competitive on domestic markets. From a political perspective and in the short run, however, a depreciation causes a deterioration of the current account because contracts are long-term and economic subjects and corporations can not respond immediately. Thus, the political short-term effects of an exchange-rate depreciation are negative: a depreciation causes a current account deterioration in the short run and an improvement in the long run – a J-curve effect. Therefore I am only interested in short run effects here and argue that governments use a rapid and significant exchange-rate depreciation only as ‘policy of last resort’. 
+I define the base currency as the currency of the country having most impact on the domestic economy and the domestic monetary policy. After the breakdown of the gold standard the US dollar became the main key currency (Aliber 1966). It remained an important reserve currency since a large volume of international trade transactions is still denominated in US dollars and foreign official institutions hold large amounts of their international reserves in liquid dollar assets. However, after the break down of the Breton Woods System other currencies like the British Pound (for the Common Wealth nations), the French Franc (for North Africa) and the Deutsche Mark (for European countries) served as local key currencies. Still, the emergence of the Euro has fundamentally changed the picture since the formation of the European Monetary Union and especially since it serves as real means of payments in many European countries (Plümper and Troeger 2006 a and b). The Euro proliferated as the second most important key currency in addition to the US dollar. This assertion is supported by empirical evidence: The Bank of International Settlement issues yearly reports on cross border assets of national banks that are hold in foreign currencies. In this respect the Euro caught up with the dollar in the late 1990s and early 2000 while other main currencies such as the Yen, the Swiss Franc and the British Pound only marginally serve as reserve currencies. Assets denominated in Euro exceed Yen denominated assets by factor 8 in early 2004 and Swiss Franc denominated assets by factor 21. Over the last decades, a moderate concentration process in international cross- border assets and a declining role of the Dollar took place. In early 2004, approximately 40 percent of total trans-border assets were held in Euro – up from a historical low of 13 percent in 1984 for the two dominant Euro-zone currencies, D-Mark and French Franc, 
+15 
+
+========16========
+
+together. The Euro has eroded many of the barriers that segmented the European market and gave rise to a unified market comparable in size to the one denominated in US dollars.5 Allowing for exchange-rate effects of monetary policy draws the attention back to inflation, which in open economies depends on domestic monetary policy and on the exchange-rate. Specifically, 
+t t t t b 
+1 1 
+i i z 
+ 
+ 
+  
+ 
+Ib I E   I Y 
+ 
+(9) 
+Y denotes Gross Domestic Product (GDP) and I 
+b 
+are the imports from the base country. Equation 9 underlines that if the import share from the base country is very large stabilization of the exchange rate towards the base country is very important since otherwise the imported inflation might be very large. 
+The exchange rate to the base currency itself largely depends on the interest rate difference between domestic interest rate and the base country's interest rate multiplied by the share of the domestic cross border assets denominated in the base currency: 
+b 
+z i i i i 
+A 
+A 
+ 
+ 
+ 
+ 
+b b 
+b t t t t1 1 
+ 
+ 
+ 
+, assume 
+i it t 
+1 1 
+ 
+b 
+ 
+(10) 
+A I E 
+b b 
+notation: 
+A I Y I 
+A I E A I E ; ; ; 0 , , 1I E 
+  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+(11) 
+z A i ib t t 
+ 
+ 
+b  
+(12) 
+Equations 10 and 12 suggest that the change of the exchange rate to the base country not only depends on the interest rate differential but also on the share of bank cross border assets denominated in the base currency. This effect is known as size effect of currencies (McKinnon 1962). It holds that the exchange rate effect towards a certain currency of monetary policy increases in the share of cross border assets hold in the currency. Assume an exogenous shock to the domestic economy which the government tries to bolster by cutting back the interest rate. Decreasing the domestic interest rate induces capital flight 
+5 
+This also holds true for the denomination of international contracts in traded goods and the denomination of bonds, where the Euro outstripped the Dollar already in 1999. For more details, see Galati/ Tsatsaronis 2001; BIS 2004. In accordance with real world developments either the US dollar or the Euro serve as base currencies in the formal model and especially in the empirical analysis. See also figure 2 for the development of asset denomination in the countries used for the empirical analysis. 
+16 
+
+========17========
+
+and causes asset holders to shift their assets denominated in domestic currency to assets denominated in a reserve currency. As a consequence, the domestic currency depreciates towards all other currencies but the devaluation is larger against the reserve currency in which most cross border assets are denominated. Empirical evidence for the size effect can be easily found: for instance, the currencies of countries most heavily affected by the Asian crisis, South Korea, Indonesia, and Thailand (Radalet/ Sachs 1998) lost approximately 80 percent of their pre-crises value against all major currencies, but the drop vis-à-vis the US dollar was even larger since most cross border assets were hold in US dollars. Accordingly, the Dollar appreciated vis-à-vis all major reserve currencies (Hausken and Plümper 2002). The described causal mechanisms underline that the roots of domestic inflation can be manifold in an open economy and hence this also enhances the complexity of the government’s decision on the optimal interest rate: 
+ 
+t t t t t t 
+1 1 
+i i A I i i A I 
+  
+ 
+i 
+ 
+  
+ 
+  
+ 
+    
+b 
+; 0 
+t 
+ 
+    
+t 
+(13) 
+Equation 13 demonstrates that the exchange rate pass-through of domestic monetary policy is a function of the interest rate differential to the base country multiplied by the share of cross border assets hold in the base currency and the imports from the key currency area. Accordingly, the smaller the domestic interest rate compared to the key currency’s interest rate, the larger the share of assets hold in the key currency and the larger the share of imports from the key currency area the higher the domestic inflation. 
+Inserting equation 12 and 13 into equation 8 gives a more complete picture of the trade off a government faces in an open economy: 
+L C i i A I i i i i A Eg t t t t t t t t t 
+  
+      
+  
+ 
+2 
+ 
+ 
+  
+1 1  
+ 
+b b 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(14) 
+The decision to offset an exogenous shock now not only depends on domestic settings but also on the monetary policy set in the relevant key currency area. Especially in case the shock is asymmetric and only affects the domestic economy. Unilaterally cutting back the interest rate to contradict the consequences of the shock to the domestic economy can boost the domestic inflation largely and thereby reduces consumption down to an undesired level. This unfavorable effect increases with the share of assets denominated in the key currency and the share of imports from the key currency. A larger share of key currency denominated assets leads to a stronger depreciation of the domestic currency 
+17 
+
+========18========
+
+against the main reserve currency whereas more imports from the key currency raise the domestic inflation rate over-proportionally since all imported goods become more expensive. Hence it might even be suboptimal to counterbalance an exogenous shock because the adverse effects of exchange rate pass-through outweigh the positive effects of stimulating the economy by expansionary monetary policy. On the other hand a dominant export oriented industry could lobby for a weaker currency towards the main trading partners. Since specialized interests are often better organized than diffuse consumer interests (Olson 1971) a strong export oriented industry might be able to put pressure on the policy makers and enforce more expansionary monetary policy. Domestic policy making in open economies therefore is faced with divers trade-offs since governments always have more policy goals than instruments at hand to achieve these domestic goals. 
+The first order condition for optimal domestic monetary policy then implies: 
+Lg it 
+ A E C A I C i i A I i i 
+ 
+2 0 
+b 
+t t t t t t t t 
+ 
+  
+ 
+  
+ 
+  
+  
+ 1 1 
+  
+ 
+      
+(15) 
+solving for the domestic interest rate gives: 
+iopt open, t 
+2 2C C i I A C it t t t t t t 
+   
+   
+ 1 1 
+ 
+ 
+ 
+ 
+ 
+2 2 2 b  
+A E C I C i i 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+t t t t t t  
+  
+ 
+ 
+ 1 
+  
+ 
+ 
+2C A I2t 
+ 
+  
+ 
+2 
+b 
+ 
+  
+(16) 
+Optimal monetary policy making in open economies is conditioned upon domestic demands and economic relationships with the relevant key currency. Exogenous shocks to the economy enhance the incentives for governments to use monetary policy in order to offset the adverse consequences of this shock for domestic consumption and employment. In contrast, greater import shares of goods and services coming from the relevant base country contradict the stimulating effect of cutting back the interest rate because of imported inflation via exchange rate pass-through of import prices. Moreover, the effect of isolated domestic monetary economy on the exchange rate to the base country depends on the share of cross border assets hold in the key currency. As a consequence, the domestic monetary authority should follow the monetary policy of the key currency area’s central bank more closely the higher the amount of imports from the base country and the higher the asset share denominated in the reserve currency. 
+18 
+
+========19========
+
+Since the expression in equation 16 is very complex I simulate the optimal policy choice in an open economy for different parameter settings. 
+Table 1 shows the values for the parameters remaining unchanged in the simulations. The pass-through variables import shares, export shares, and asset shares are set to medium values. I assume that the domestic economy faces a current exogenous shock (set to 3) and the inflation in the previous period exceeds zero (2). 
+Table 1: Parameter settings for simulations: 
+Parameter Value 
+ 0.5 
+Ct 
+1 
+t 
+3 t1 
+2 
+it1 
+4 
+( I 0.5) 
+A 0.5 
+E 0.5 
+Table 2 depicts the optimal domestic interest rate dependent on the foreign interest rate and the share of imports coming from the relevant key currency area. 
+Table 2: optimal domestic policy for different values of the interest rate in the base country and import share of the key currency area 
+Import share of the key currency area 
+0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 
+Interest rate of the Base country 
+0 0.5 1 1.5 2 2.5 3 3.5 4 4.5 5 
+1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 
+1.4 1.45 1.5 1.54 1.59 1.63 1.68 1.72 1.77 1.81 1.86 
+1.32 1.4 1.49 1.57 1.65 1.74 1.82 1.9 1.99 2.07 2.15 
+1.24 1.36 1.47 1.59 1.7 1.82 1.93 2.05 2.17 2.28 2.4 
+1.17 1.32 1.46 1.6 1.74 1.89 2.03 2.17 2.32 2.46 2.6 
+1.11 1.28 1.44 1.61 1.78 1.94 2.11 2.28 2.44 2.61 2.78 
+1.05 1.24 1.43 1.62 
+1.99 2.18 2.37 2.55 2.74 2.93 
+1.8 
+1 1.21 1.42 1.62 1.83 2.03 2.24 2.44 2.65 2.86 3.06 
+0.96 1.18 1.4 1.62 1.85 2.07 2.29 2.51 2.73 2.96 3.18 
+0.91 1.15 1.39 1.62 1.86 2.1 2.34 2.57 2.81 3.05 3.28 
+0.88 1.13 1.38 1.63 1.88 2.13 2.38 2.63 2.88 3.13 3.38 
+Column 1 indicates the optimal monetary policy for an open economy having no trading relations with the key currency area for the parameter settings of table 1. Since the country faces and economic shock it has to cut back the interest rate compared to the previous year 
+19 
+
+========20========
+
+but not as much as it would have needed to fully offset the shock since the inflation target is zero and the inflation of the previous period was larger than zero. For an open country the exchange rate effect of monetary policy is enforced by the share of imports from the base country. The first thing to observe is that the influence of the foreign interest rate choice increases in the share of imports. Note that the interest rate of 1.5 (the first column of table 2) in this case does not reveal the closed economy result but the optimal policy in an open economy which does not import from the base country but holds assets in the key currency (asset share = 0.5 see table 1) and has a total export to import relation of 0.5 (see table 1). This is quite unrealistic but demonstrates that export oriented open countries pursue ceteris paribus a laxer monetary policy than countries importing largely from a key currency area. The optimal domestic monetary policy converges to the foreign interest rate in the amount of goods and services imported from the base country. A larger share of imports raises the effects of interest rate differentials on the domestic inflation rate via exchange rate pass-through. The more goods and services are imported from the key currency area the higher the share of foreign products in the consumption basket responsible for the domestic inflation rate. If the foreign interest rate falls short of the domestically optimal interest rate than the domestic interest rate is cut back accordingly and almost completely with increasing share of imports from the base country (light grey shaded area). The dark grey shaded area in table 2 shows what happens in case the foreign interest rate exceeds the domestic optimal interest rate when import share is zero. The domestic monetary policy converges to the foreign one with greater share of imports from the key currency area. However, the convergence is less than complete accounting for the relatively large export share of 0.5 (see table 1). Export oriented industries prefer a weaker currency and accordingly a more expansionary monetary policy in order to ensure competitiveness of the exported goods and services on the international markets. The first conclusion to draw from the theoretical model is that domestic monetary policy autonomy is conditioned upon trading relations with relevant key currency areas. In particular, a government follows the interest rate policy of a key currency area more closely the more the domestic economy is contingent upon imports from the base country. 
+At this point it is clear that the optimal domestic interest rate depends in addition to domestic settings on the interest rate difference to the base country, the share of imports from the relevant key currency area and the total amount of exports relative to imports. 
+20 
+
+========21========
+
+Figure 1 depicts the same relationship graphically. It presents in three dimensions how the domestically optimal monetary policy is shaped by foreign influences: in this case the foreign monetary policy setting depicted by the key currency’s interest rate and the amount of goods and services imported from the key currency area. 
+Figure 1: optimal domestic policy for different values of the interest rate in the base country and import share of the key currency area 
+4.0 
+3.5 
+e 
+t 
+a 
+r 
+ 
+t 
+s 
+e 
+3.0 
+r 
+e 
+t 
+n 
+i 
+ 
+c 
+2.5 
+i 
+t 
+s 
+e 
+m 
+2.0 
+o 
+d 
+ 
+l 
+a 
+m 
+1.5 
+i 
+t 
+p 
+o 
+1.0 
+0.00.10.2 
+0.3 
+sh 
+0.4 
+are 
+0.5 
+ o 
+to 
+f  
+i 
+0.6 
+0.7 
+ a 
+m 
+ll 
+ 
+p 
+im 
+or 
+p 
+ts 
+0.8 
+0.9 
+or 
+ f 
+ts 
+rom 
+and 
+ base 
+1.0 
+ 
+ dom 
+ c 
+ou 
+e 
+st 
+n 
+ic 
+try 
+ GDP 
+ 
+4.55.0 
+3.54.0 
+te 
+2.53.0 
+ 
+ra 
+st 
+1.52.01.0 
+re 
+te 
+in 
+0.5 
+e 
+ 
+0.0 
+b 
+as 
+Consequently, the autonomy of the domestic monetary authority is largely constrained by the trading relations with the relevant base country. Imagine, the domestic economy is affected by and asymmetric exogenous shock and the government tries to contradict the negative effects of this shock to domestic consumption and output by cutting back the domestic interest rate. The base country however does not encounter the same shock and therefore has no incentive to equally reduce the base interest rate. The increased interest rate difference between domestic and base country translates into a devaluation of the domestic currency leading to higher prices of imported goods. As a consequence, the more the domestic economy imports from the key currency area the higher is the imported inflation. Hence the expected stimulating effect of the expansionary monetary policy is largely absorbed abroad and almost fully offset by the imported inflation what in turn 
+21 
+
+========22========
+
+reduces domestic consumption and economic growth. A domestic government anticipating these adverse effects of using monetary policy in order to counterbalance an asymmetric shock will be highly reluctant to augmenting the interest rate difference to the base country from which large amounts of goods and services are imported. Consequently the government follows the monetary policy in the base country more closely. 
+A similar relationship between asset shares denominated in the key currency and exchange-rate effects of monetary policy can be observed.6 The exchange rate effect of monetary policy works through the share of banks' cross border assets denominated in the foreign currency. The influence of the foreign interest rate choice on the domestically optimal interest rate increases in the share of assets. The more assets are denominated in the foreign currency the higher the exchange rate effect of interest rate differences. Thus, unilaterally changing monetary policy has larger effects on the exchange rate to the base country the more assets are hold in the key currency. Consequently, depreciation of the domestic currency towards the key currency increases in asset shares and so do real prices of imported goods. Again, the incentives for governments to stabilize the exchange rate via the key currency and avoid imported inflation become stronger if the asset share that is denominated in the key currency is larger. 
+To sum up: Governments in open economies face dilemmatic policy choices since they cannot reach different policy goals with one policy instrument. In the present case monetary policy has at least four effects: First, expansive monetary policy directly reduces domestic consumption what in turn decreases support for the incumbent. Second, monetary policy affects the level of the currency through interest rate differences to foreign countries. Third, this on the one hand leads to depreciation of the domestic currency and fosters exports. On the other hand it increases the domestic inflation via exchange rate pass through that is dependent on the amount of imports from the key currency area and the asset share denominated in the base currency. And fourth, monetary policy can be used to partly offset economic shocks to the economy. However, the possibility of employing monetary policy to counterbalance the negative effects of an exogenous shock to the economy is crucially conditioned upon the economic and financial connections with the relevant key currency area. A country that imports a lot from the key currency area suffers from imported inflation and reduced consumption when unilaterally cutting back interest 
+6 
+See table A1 and figure A1 in the appendix to this paper. 
+22 
+
+========23========
+
+rates. Those countries must maintain a stable exchange rate to the key currency and accordingly have to follow the monetary policy of the base country closely. 
+From the present model one can derive the following predictions about monetary independence of open economies under flexible exchange rate regimes: 
+1. Countries with floating exchange rate systems enjoy only limited monetary policy 
+autonomy. 
+2. The impact of the monetary policy of a key currency area is largely dependent on the 
+relative amount of imported goods and services from this area. 
+3. The effect of the key currency’s monetary policy is hinges as well on the amount of 
+assets denominated in the key currency. 
+In accordance, small open economies largely dependent on trading relations and financial integration do enjoy only a very limited monetary flexibility even though they maintain floating exchange rates. In comparison economies with a large domestic market that depend to a lesser extent on trade and international financial markets should be able to maintain relatively more monetary policy autonomy. 
+In the next section I empirically test the predictions of the theoretical model by analysing monthly interest rates of 38 countries from 1980 to 2004. 
+4. Empirical Analysis: The Determinants of De Facto Monetary Policy Autonomy 
+The theoretical argument presented in the previous section implies that the most important factors determining the degree of monetary flexibility are the amount of imports of goods and services from the relevant key currency area as well as the share of domestic cross border assets denominated in the key currencies. These two variables impact the extent to which monetary authorities must follow the monetary policy of the base country or currency area. The larger the share of cross border assets hold in the key currency and the greater the import share of the economy coming from the base country the less flexible is the choice of monetary policy and the closer should a domestic policy maker follow the interest rate policy of the base country’s central bank. 
+I test the hypotheses derived from the theoretical model by analyzing the influence of the interest rate set by the US Federal Reserve and the interest rate set by the Bundesbank/European Central Bank on the interest rate policies of 38 countries from 
+23 
+
+========24========
+
+Europe, Asia, Africa, Oceania, Latin America and North America. Table 3 shows which countries are covered: 
+- table 3 about here - 
+All of the included countries maintain a (partly) floating exchange rate regime for at least several years during the period under observation. The empirical analysis only includes observations where the implemented regime was at least partly flexible.7 Shares of cross border assets were only available for a sub-sample of 20 of the countries in table 3 (these countries are marked in bold). This sub-sample is heavily dominated by European countries. To avoid selection bias, I test propositions 2 and 3 of the previous chapter separately and therefore run models that include either asset shares or import shares. It is hardly possible to measure actual monetary policy flexibility without asking monetary policy makers directly on which factors they base their decisions to raise or cut back domestic interest rates. In addition, even though I could gather this information from different monetary authorities the answers would be hardly comparable and what is a more serious problem the answers would be – with a very high probability – endogenous to the actual monetary policy decisions. I therefore operationalize monetary policy autonomy by the degree to which domestic policy makers follow the monetary policy decisions taken in the two key currency areas.8 As dependent variable I choose the “actual instrument used by most central banks to impose their policy” (Obstfeld et al. 2004: 3). I use monthly data from 1980-2004.9 This period seems very much suited to my theoretical question since many countries moved towards more flexible exchange-rate arrangements in the 1980s. Due to availability I employ either central bank discount rates or lending rates. Since for 
+7 
+Table A2 in the Appendix shows for each country the number of month under flexible and fixed exchange-rate regime. The choice of countries is purely driven by data availability and the question whether a floating exchange-rate system was in place for at least parts of the time period under observation. 
+8 This obviously introduces some noise into the empirical analysis since I cannot distinguish between the 
+fact that domestic monetary authorities follow the monetary policy in key currency areas because they are 
+constraint by import and asset shares, or because they react to the same economic shock etc. However, on 
+the one hand I expect this noise to be random so that it does not influence the estimation result 
+systematically. In addition, I can show that governments follow the monetary policy set in key currency 
+areas more closely the more assets are denominated in the key currency and the more goods and services 
+are imported from the key currency area. 
+9 
+For several variables observations were not available for the whole period under observation. 
+24 
+
+========25========
+
+the German / European and the US monetary policy both types of central bank rates can be obtained I can regress lending rates on lending rates and discount rates on discount rates.10 I test the robustness of the results with deposit rates since these are less persistent and show a higher variation over time, however, the main substantial results are not altered.11 In the choice of the dependent and the main independent variables I follow recent empirical research on similar topics (Frankel et al. 2002; Obstfeld et al. 2004, and Shambaugh 2004). 
+Model Specification: 
+In contrast to Frankel et al. (2002) and following Shambaugh (2004) I employ differenced interest rates to avoid spurious regression results. The levels of the interest rates are at least close to non-stationarity and are trended as other authors (Wu and Zhang 1997) claim and my own unit root tests reveal.12 Significant results for regressing levels on levels therefore might just reflect common trends. Granger and Newbold 1974 and Phillips 1986 show that the use of data with unit roots may generate spurious correlations between two independent integrated series, and in general, that unit roots cause inference problems for standard statistical testing. Differencing the data and proceeding with standard estimation techniques should yield sound empirical results (Banerjee et al. 1997). There is also a theoretical reason for using differenced data: As mentioned in the theoretical part of this paper I am interested in the short-term effects of interest rate adjustments since I assume that domestic monetary authorities react to changes in the key currency's interest rate relatively quickly to avoid adverse exchange rate effects. 
+Departing from standard empirical testing of monetary policy transmission I use real interest rates (nominal interest rate minus inflation rate) instead of nominal interest rates to eliminate noisy short-term variations in the interest rates. It is plausible to assume that central bankers are able to control the real interest rate since they can adjust the rates even on a daily basis if necessary. In addition, central bank interest rates and inflation rates are highly collinear suggesting that monetary authorities are able to target real interest rates. 
+10 
+See Table A3 in the appendix for descriptive statistics of all used variables for all countries. 
+11 
+Results can be obtained upon request from the author. 
+12 
+I use the Fisher unit root test for unbalanced panel data (Maddala and Wu 1999) which confirms that the 
+interest rates are integrated and are stationary after first differencing. 
+25 
+
+========26========
+
+Differencing the data removes serial correlation and non-stationarity. However, the variance of the real interest rates shows still high persistency and is time dependent. This autoregressive conditional variance of the dependent variable renders the estimation results of linear regressions inefficient leading to unreliable point estimates (Plümper and Troeger 2005). To account for this problem I run Panel-GARCH (Generalized Autoregressive Conditional Heteroskedasticity) models which do not only estimate the usual mean equation of linear models but also specify a variance equation controlling for time- dependency of the error variance. One might argue that the variance is not only time dependent but highly volatile variance is associated with exogenous shocks like the high inflation periods during the 1980s in Argentina and other Latin American countries. Even if this was the case, I am not interested in substantial results for the variance equation and treat the time dependence therefore as mere noise. Controlling for autoregressive conditional heteroskedasticity increases the efficiency of the estimation and consequently improves the reliability of the point estimates (Plümper and Troeger 2007). 
+Frankel et al. (2002) mainly work with US interest rates as the key currency’s monetary policy. In the pooled regression they use only the US interest rate even though some countries may follow a different base interest rate. Since my sample starts in 1980 only two international base interest rates are reasonable to look at: the US central bank rate and the German/European interest rate. Both currencies, the Euro and US Dollar are mainly used as reserve currencies. Figure 2 supports this claim and displays for the countries for which data on asset share were available the share of cross border assets denominated in US Dollar, Euro, Japanes Yen, Swiss Frank and British Pound. 
+- figure 2 about here - 
+I use the German Bundesbank interest rate from 1980 until December 1998 and the interest rate set by the European Central Bank thereafter. In January 1999, the EMU countries fixed their exchange-rate and introduced the Euro. I estimate the impact of the German/EMU real interest rate changes and the US real interest rate changes to examine whether different key currencies have different impacts on the monetary policy of other countries depending on their import shares from these two key currency areas and the shares of assets denominated in the two key currencies. I test for the 2 main hypotheses 
+26 
+
+========27========
+
+separately by weighting these two key currency interest rates by either import shares from the US and the Eurozone or by cross border asset shares denominated in US Dollar and Euro. I only use time points in which countries had implemented a more or less flexible exchange rate regime.13 I estimate different models for subpopulations: First, my theoretical model crucially hinges on the assumption of highly mobile capital which can be transferred into a reserve currency in case the domestic economy faces an asymmetric shock.14 I therefore include only countries which have implemented low or no capital account restrictions.15 Second, my argument is also contingent upon the assumption that governments or monetary authorities depend on support of the median voter in order to stay in office. Since this assumption only applies to democratic countries, I exclude non- democratic countries from the sample.16 I thereby rely on the polity2 variable of the PolityIV (2005) dataset and only include countries with a score of 8 or higher. In a third step, I exclude hyperinflation periods from the analysis. 
+As control variables I include the export-import ratio to test for the prediction that higher export shares lead to laxer monetary policy in order to devaluate the domestic currency against foreign currencies and to enhance the competitiveness of the domestic exporting industry. 
+Furthermore, I control for several factors found to be significant in the literature. Greater central bank independence should increase the interest rate since central banks are more conservative, have a low inflation target, and therefore usually implement more restrictive monetary policy. The most important empirical result is the often supported inverse relation ship between CBI and the level of inflation (De Haan and Sturm 1992; Alesina and Summers 1993, Eijffinger and Schaling 1993). Cargill (1995) argues, however, that this statistical relationship is not robust and depends on included countries and time-periods as well as on the model specification. In addition I insert an interaction term between Central bank independence and the interest rate set by the Federal Reserve and the European 
+13 
+To determine whether a country had a flexible exchange rate regime I use the de facto classification by 
+Reinhart and Rogoff (2004). Countries with a de facto peg are excluded (1 in the crude classification). 
+Countries which at least implemented a semi-flexible system with crawling or moving bands are included 
+(2-5 in the crude classification). 
+14 
+I am very grateful to Quan Li for pointing this out to me. 
+15 
+I use the measure provided by Dennis Quinn (1997) on legal capital account restrictions and include 
+countries with a value large than 2. 
+16 
+Thanks to Thomas Plümper for making me aware of this fact. 
+27 
+
+========28========
+
+Central Bank. I also test for the impact of capital controls whereby more open countries should be more vulnerable to changes in the monetary policy of key currencies which is captured by an interaction effect between capital mobility and the impact of the monetary policy set in the key currency area. 
+Since a very large body of the political-economic literature is concerned with electoral business cycles (see Franzese 2002) and how monetary policy is used to manipulate the business cycle I include a dummy variable for election dates as an exogenous factor that controls for possible electoral business cycles. Governments should have higher incentives to use laxer monetary policy in the year before an election in order to boost demand and consumption and therefore employment. In addition, the economic conditions of a country might influence the level of domestic interest rates. Hence, I test for the impact of domestic GDP growth and domestic unemployment rates. Wealthier countries do much less rely on monetary policy to improve economic conditions and therefore should implement a more conservative monetary policy. In contrast countries that face high unemployment and low growth rates are expected to employ a laxer monetary policy in order to advance the domestic economy. 
+Including an evenly weighted spatial lag on the right hand side as well as spatial lags weighted with the distance between the capitals or the import shares to account for a general diffusion of monetary policy turned out to be highly insignificant throughout all model specifications. Since I am analyzing first differenced data where initial conditions that are likely to differ between countries are already eliminated including fixed effects does not change the substantial results. 
+Variables: 
+As dependent variable I choose real changes of monthly discount or lending rates for 38 (20) countries. The sample spans from 1980-2004. 
+The main independent variables are real changes of the monthly discount and lending rates determined by the US Federal Reserve and the German Bundesbank or from 1999 onwards the European Central Bank. All data on interest rates stem from Global Financial Data Inc. The trade data is taken from the IMF monthly direction of trade statistics (DoT). Trade data is available all 38 countries. In contrast to Shambaugh (2004) who uses total trade share with key currency area I use, in accordance with my theoretical model, the share of 
+28 
+
+========29========
+
+imports from key currency areas US and EMU as compared to all imports. Table 4 provides an overview over average trade shares by region. 
+- table 4 about here - 
+The data on cross-border assets of banks denominated in EURO and US dollar was provided by the Bank for International Settlements (BIS).17 The BIS reporting countries only include 20 countries that are relevant to the present analysis.18 Even though I cannot conclude that these 20 countries constitute a random sample I am confident that the obtained results present at least a first test for the second main hypotheses derived from the theoretical model. Table 5 displays cross border asset shares denominated in US Dollar and Euro by Region. It also breaks the asset shares down for two periods before and after 1999 when the EMU countries fixed their exchange-rate and introduced the Euro. As can be also concluded from figure 2, the Euro proliferated as second most important reserve currency and especially capital owners in European countries shifted assets towards this key currency. 
+- table 5 about here - 
+Central Bank Independence is measured in two ways: first I use a measure of legal CBI from Cukierman, Webb, Neyapti 1992. The measure ranges between 0 and 1, whereby 0 means highly dependent and 1 denotes a highly independent central bank. On the other hand I am including turnover rates of central bank presidents since turnover rates have shown to be more appropriate for developing countries. De Haan and Kooi (2000) and Cukierman, Webb, Neyapti (1992) provide turnover rates. Since both measures are highly correlated but cover different time spans and countries I combine the two. The measure for capital mobility was generated by Dennis Quinn (1997) and account for legal capital account regulations. The measure ranges between 0 and 4, where 0 stands for a high number of restrictions/ closed capital markets, 4 means no restrictions on capital account/ open capital markets. The two election variables distinguish between legislative and 
+17 
+I am so thankful to the members of the BIS Monetary and Economic Department especially to Philippe 
+Mesny and Swapan-Kumar Pradhan for providing this highly confidential data. 
+18 
+These countries are: Australia, Austria, Brazil, Canada, Chile, Denmark, Finland, France, Greece, Ireland, 
+Italy, Japan, Korea, Mexico, Netherland, Norway, Portugal, Sweden, Switzerland and the United 
+Kingdom. 
+29 
+
+========30========
+
+executive elections and are coded as dummy variables which are 1 in the month of the election and the 12 month before to test for possible business cycle manipulation of the interest rate and zero for all other month. The election data are taken from the Beck et al. (2001) data set (World Bank) for the period from 1980 – 2000 and from www.Electionguide.de for 2000 – 2005. Economic control variables such as export-import ratio, inflation rates, GDP growth and unemployment rates are gathered either from Global Financial Data Inc. or from the World Development Indicators of the World Bank. Political scientists often claim that party politics make a difference in monetary policy. Analyzing a partisan variable within my empirical model, hence, seems reasonable. To do so, I construct a categorical variable measuring whether the majority of the government in power is ruled by a left-wing party (1) a centrist party (2) or a right-wing party (3). The data comes from Keefer's (2005) database of political institutions and the Comparative Welfare States Data Set (Huber et al. 1997, updated by Brady et al. 2004). 
+Finally, the classification of the exchange rate system follows the natural classification system of Reinhart and Rogoff (2004) that is based on de facto rather than de jure exchange rate arrangements. There exist several classification schemes in the literature, the most important classification in addition to the Reinhart-Rogoff scheme which is also based on de facto arrangements was generated by Levi-Yeati and Sturzenegger (LYS) (2002). Using the LYS classification, however, wouldn’t be appropriate in the present analysis for the same reason as in Schambaugh (2004): The LYS system uses intervention data to classify regimes, e.g. direct intervention in currency markets and changes in domestic interest rates to ensure that the government is actively managing the exchange rate. Since the variable under consideration is the domestic interest rate, using an exchange rate classification based on the interest rate intervention would be endogenous. 
+The classification scheme focuses on de facto and not on official or legal national exchange rate systems since more often than not the true underlying monetary system is radically different from the official categorization. They thus focus on market-determined dual and/or parallel exchange rates. Another advantage of the re-classification of Reinhard and Rogoff is that it captures regime changes by month. All previous approaches have used only annual classifications (see Côté 1994 for a review of the relevant literature). 
+30 
+
+========31========
+
+Empirical Results: Denomination of Cross Border Assets 
+In a first step I empirically examine the impact of cross border asset shares denominated in one of the tow key currencies on the monetary flexibility of a country. Table 6 presents the estimation results for countries maintaining a flexible exchange rate regime and the 3 sub- samples. Let me first note that a look at the variance equation of the estimation reveals that controlling for autoregressive conditional variance is necessary. High frequency data often suffers from ARCH and not accounting for time dependent variance would violate one of the Gauss-Markov assumptions of linear models rendering the estimation much less efficient and the coefficients much less reliable. The inclusion of a lagged error term into all models, however, is not warranted since after having differenced the data almost no autocorrelation remains. Controlling for serial correlation and autoregressive conditional heteroskedasticity leaves the remaining residuals white noise. 
+Turning to the mean equation: the lagged level of the real interest rates has a negative albeit small but significant effect. In error correction models this negative coefficient ensures that the changes are not explosive once the interest rate crosses a critical threshold and that the process eventually reaches an equilibrium. 
+Having a general look at the substantial results (models 1.1 and 1.2) seems to support the main theoretical claims of the formal model. The monetary policy set by the European Central Bank has a positive and significant effect on the real interest rate in other countries. The negative but significant coefficient of the US interest rate seems counterintuitive though. Recall, however, that the sample for which asset shares are available is dominated by European countries which are prone to follow the monetary policy set in the EMU more closely (Plümper and Troeger 2006a,b). Yet, weighting the interest rates of the key currencies by cross border asset shares denominated in Euro or US Dollar clearly supports the proposition derived from the formal theoretical model. The more capital is shifted towards a certain reserve currency the stronger are the exchange-rate effects of interest rate differentials and the more the domestic currency depreciates towards the key currency if the monetary authority unilaterally cuts interests rates to counterbalance and asymmetric exogenous shock. Thus, governments follow the interest policy of a key currency area closer when large asset shares are dominated in that currency. In line with the proposed theoretical model and the underpinning assumptions this effect seems to become slightly stronger if we focus on democratic countries with weak or no capital account restrictions 
+31 
+
+========32========
+
+(models 1.3 and 1.4). It seems straightforward to conclude that the monetary flexibility of governments maintaining a floating exchange-rate system is not perfect but partly depends on the decisions of capital owners in which currency to hold assets. 
+- 
+table 6 about here – 
+Analyzing the effect of control variables gives a mixed picture. A strong export sector can lobby for a laxer monetary policy in order to ensure competitiveness of the domestic products on the world market (Frieden et al. 2001). This line of argument is mirrored by the negative significant coefficient for the overall export/import ratio (models 1.2-1.5). Legislative elections don't seem to exert an impact on monetary policy making – at least not in the 20 (mostly European) countries in the sample. However, executive elections appear to have an increasing effect on interest rates. If we believe in simple business cycle models, we would rather expect that governments implement a laxer monetary policy shortly before elections in order to boost the economy and decrease unemployment in the short run. Since increasing the main interest rates is normally associated with recession this finding might be and artifact of the time period and country sample under observation. If we exclude periods with high inflation (model 1.5) the coefficient changes the sign and becomes insignificant, which indicates that the variable executive elections may coincide with high inflation periods and the need to bring inflation down exerts a much stronger effect than the incentives for governments to manipulate the political business cycle. The partisanship of the government affects monetary policy in the expected way: right wing government prefer a more conservative monetary policy and implement slightly higher interest rates throughout. 
+Economic factors such as GDP growth and unemployment impact domestic monetary policy decisions significantly. The coefficient for economic growth points into the expected direction suggesting the possibility of counter-cyclical policy setting. Favorable economic conditions, e.g. greater economic growth, lead to more restrictive monetary policy (higher interest rates). Yet, a rise in domestic unemployment causes governments to increase interest rates slightly as shown by the positive significant coefficient. Even though very small, this effect is counterintuitive since we would expect governments to relax monetary policy in order to stimulate the economy and decrease unemployment at least in 
+32 
+
+========33========
+
+the short run. This finding rather lends support to the argument that unemployment creates an incentive for governments to attract capital by implementing higher interest rates in order to benefit from the employment effects of additional capital. 
+Checking for central bank independence also has a rather unexpected effect. The coefficient is negative and significant throughout all 5 models. Yet, the CBI variable does not vary much over time and the dependent variable measures changes of real interest rates. Hence, we only can conclude that countries with more independent central banks decrease real interest rates more often than countries with dependent central banks. We cannot draw any conclusions about the levels of the interest rates, though. In interaction with the key currency's monetary policy setting, however, higher central bank independence seems to weaken the effects of the US and European interest rates. A highly independent central bank reduces the influence of foreign interest rate policy because opportunistic governments are not in charge to decide upon monetary policy. Governments forsake monetary flexibility to a more conservative central bank to increase credibility and display commitment to a low inflation target. 
+Higher capital mobility increases the overall domestic interest rate (models 1.1 – 1.5). High mobility causes capital owners to react more elastically to higher interest rates abroad because it is easier for asset holders and investors to shift capital to countries where the earnings from interests are higher. Policy makers try to keep capital by increasing the interest rates and decreasing inflation with tighter, more conservative monetary policy. Interestingly, however, governments do not react to (higher) interest rates in all (neighboring or other) countries. This assertion is supported by the highly insignificant spatial lags (not reported). In addition, this confirms the theoretical size bias argument: asset holders do not only care about interest rates but they prefer larger currencies as reserve currency. The negative sign of the interaction effect between capital mobility and the interest rates set in the EMU demonstrates that the higher the capital mobility the smaller the incentives for domestic governments to follow the monetary policy of the key currency area. Yet, the interaction effect between capital mobility and US interest rate changes remains positive and mostly significant. Recall that the coefficient for US real interest rate changes is negative and that the sample is dominated by European countries. The negative interactions effects, therefore, suggest that with higher capital mobility 
+33 
+
+========34========
+
+countries tend to care more about monetary policy even in the less important key currency area. 
+Empirical Results: Import Shares 
+Table 7 displays the estimation results for the size of import shares from the US and the EMU. Since data on direction of trade is available for all 38 countries, the sample used for examining the trade hypothesis is much larger and includes African countries, as well as more Asian and Latin American Countries. I again estimate models for countries with flexible exchange-rate systems (models 2.1 and 2.2) as well as for sub-samples of democratic countries implementing low capital account restrictions (models 2.3. and 2.4) and also exclude hyperinflation periods from the model (model 2.5). Restricting the sample by these criteria seems to be more important in the second part of the analysis, since the sample includes several non-democratic countries, as well as more closed economies and longer periods of hyperinflation – especially in Latin American countries. The high volatility of the real interest rates in Latin American countries also affects the variance equation of the GARCH models and renders the ARCH term explosive (see models 2.1 – 2.4). In model 2.5 I exclude hyperinflation periods which generates a stable variance equation (the sum of the ARCH and GARCH coefficients is smaller than 1). The substantial results for democratic countries maintaining high capital mobility and no hyperinflation support the theoretical arguments more strongly and validate the underlying assumptions. 
+- 
+table 7 about here – 
+The discussion of the effect of the lagged level of the real interest rate as well as the interpretation of the coefficients of all control variables remains unchanged as compared to the models analyzing cross border asset shares in table 6 with one notable exception: the impact of executive elections in the overall sample seems to support the business cycle hypotheses. Governments have an incentive to boost economic performance by implementing a laxer monetary policy right before executive elections. 
+Substantially the estimation results show that there is no or no coherent direct effect of monetary policy in the two key currency areas. The coefficients of the real interest rate 
+34 
+
+========35========
+
+changes in the US and the EMU remain mostly insignificant. Since these coefficients measure mean effects and the sample analyzed is very heterogeneous this result is not surprising. I examine different countries at the same time which either lean towards the EMU or the US. Nevertheless, weighting the changes in the monetary policy of the two key currencies by import shares from the respective currency area shows a clear positive and significant effect throughout all models. Thus, the higher the import shares from a specific key currency area the more important the exchange-rate stability towards this currency becomes in order to avoid imported inflation. Governments forsake at least some monetary flexibility in order to keep the domestic interest rate close to the key currency's interest rate. 
+The overall findings provide strong empirical evidence for the theoretical argument that governments who are interested in avoiding imported inflation are willing to adjust the domestic monetary policy to the interest rate policy of the key currency area from which they import the largest share of goods and services and in which currency most of the national banks' cross-border assets are denominated. Import prices have an impact on domestic inflation via exchange rate pass-through. It is thus reasonable for policy makers to adjust the domestic interest rate to the interest rate set in the country where most of the imports come from to avoid increased domestic inflation. Furthermore, the denomination of cross boarder assets mostly impacts the exchange rate towards the currency most assets are denominated in. Hence, it is necessary to use monetary policy in order to stabilize the exchange rate towards this currency. 
+Countries that maintain a floating regime do not enjoy full monetary policy autonomy but the flexibility of governments in setting interest rates is contingent upon trading relations with relevant key currency areas as the denomination of cross border assets. The empirical results support this theoretical proposition throughout different model specifications. Monetary policy in open economies follows the interest rate decisions in main reserve countries the closer the more goods and services are imported from this key currency area and the more assets are denominated in the respective key currency. This suggests that governments tend to pursuit the goal of exchange rate stability towards currencies of main trading partners and are reluctant to use monetary policy to stabilize the domestic economy while increasing the interest rate differential to main currency areas and thereby inducing higher inflation. 
+35 
+
+========36========
+
+5. Conclusion 
+The level of monetary flexibility a government enjoys does not only depend on the monetary institutions such as exchange rate arrangement and central bank independence but also on the economic and financial relationships a country keeps with key currency areas. The present analysis gives up the dichotomous view of the open economy trilemma on monetary policy autonomy. In addition, I develop a formal theoretical framework explaining the degree of monetary independence in open economies under flexible exchange rate regimes by import shares from base countries and amount of cross border assets hold in the base currency. The model suggests that a) higher import shares from the key currency area increase the imported inflation when monetary authorities try to offset and exogenous shock by cutting back the interest rate while the base country does not encounter a similar shock, and b) the more cross border assets of a country are denominated in the base currency the higher the exchange rate effects of interest rate differences to the interest rate of the base country. Accordingly, exchange rate effects of monetary policy are the basic assumption of the theoretical argument. 
+The presented empirical evidence largely supports the theoretical predictions concerning trading relations and asset shares. Countries that import a significant share of goods and services from a certain key currency area and/ or denominate a large share of their banking assets in Euro and US dollar have strong incentives to maintain a stable exchange rate towards these key currencies. Therefore monetary authorities in countries maintaining floating exchange rate regimes are not as flexible or choose not to act as flexible as the widely known and applied open economy trilemma might suggest. They use monetary policy to stabilize exchange rates rather than exploiting interest rate policy for purely opportunistic or domestic reasons. At the least governments face a trade off between utilizing monetary policy in order to stimulate the domestic economy or to stabilize exchange rates to main currencies. 
+Consequently, the ability of monetary authorities to base their monetary policy decisions on the economic state of their country is largely dependent on the extent of monetary independence. The more open and more integrated in international financial and trading markets a country is the more vulnerable it becomes towards exchange rate volatility. 
+36 
+
+========37========
+
+Governments, thus, try to target two policy goals with one policy instrument: stabilizing the economy by using monetary policy to counterbalance exogenous shocks and maintaining stable exchange rates to the main trading partners. The degree to which governments are able to offset shocks to the domestic economy is therefore conditioned on how much the country is interwoven into international markets and whether the exogenous shock is symmetric or only affects the domestic economy. Hence, the de facto monetary policy autonomy of countries not issuing a key currency heavily depends on trading and financial relationships with key currency areas. 
+37 
+
+========38========
+
+References 
+Alesina, Alberto, and Robert J. Barro. 2002. Currency unions. The Quarterly Journal of 
+Economics 117 (2):409-436. 
+Alesina, Alberto, and Robert J. Barro.(eds.) 2001. Currency Unions: Hoover Institution 
+Press Publication. 
+Alesina, Alberto, Robert J. Barro, and Silvana Tenreyro. 2002. Optimal currency areas. 
+NBER Working Paper Series 9072. 
+Alesina, Alberto, and Lawrence H. Summers. 1993. Central Bank Independence and 
+Macroeconomic Performance: Some Comparative Evidence. Journal of Money, 
+Credit and Banking 25(2):151-62. 
+Aliber, Robert Z. 1966. The Furture of the Dollar as an International Currentcy. New 
+York, Washington, London: Frederick A. Praeger. 
+Ball, Laurence, and Gregory N. Mankiw. 2003. The NAIRU in theory and practice. NBER 
+Working Paper Series 8940. 
+Barro, Robert J., and David B. Gordon. 1983. A Positive Theory of Monetary Policy in a 
+Natural-Rate Model. Journal of Political Economy 91 (3):589-610. 
+Beck, Thorsten, George Clarke, Alberto Groff, Philip Keefer, and Patrick Walsh. 2001. 
+New Tools and New Tests in Comparative Political Economy: The Database of 
+Political Institutions. World Bank Economic Review 15 (1):165-176. 
+Bernhard, William, Lawrence J. Broz, and William Roberts Clark. 2002. The political 
+economy of monetary institutions. International Organization 56 (4):693-723. Borensztein, Eduardo, Jeromin Zettelmeyer, and Thomas Philippon. 2001. Monetary 
+Independence in emerging Markets: Does the Exchange Rate Make a Difference? 
+IMf Working Paper WP/01/1. 
+Brady, David, Beckfield, Jason and John D. Stephens 2004. Comparative Welfare States 
+Data Set: Update. University of North Carolina, Chapel Hill. 
+Calvo, Guillermo A., and Carmen M. Reinhart. 2002. Fear of Floating. Quarterly Journal 
+of Economics 117 (2):379-408. 
+Canavan, Chris, and Mariano Tommasi. 1997. On the Credibility of Alternative Exchange- 
+Rate Regimes. Journal of Developmental Economics 54 (1):101-122. 
+Cargill, Thomas F. 1995. The statistical Association Between Central Bank Independence 
+and Inflation. Banca Nazionale del Lavoro Quarterly Review XLVIII (193):159-72. Côté, Agathe. 1994. Exchange Rate Volatility and Trade. ASurvey. Bank of Canada 
+Working Paper 94 (5). 
+Cukierman, Alex, and Allan H. Meltzer. 1986. A theory of ambiguity, credibility, and 
+inflation under discretion and assymetric information. Econometrica 54 (5):1099- 
+1128. 
+38 
+
+========39========
+
+Cukierman, Alex, Steven B. Webb, and Bilin Neyapti. 1992. Measuring the Independence 
+of Central Bank and its Effect on Policy Outcomes. World Bank Economic Review 
+6(3):353-98. 
+De Haan, Jakob, and Willem Kooi. 2000. Does Central Bank Independence Really Matter? 
+new Evidence for Developing Countries Using a New Indicator. Journal of Banking 
+and Finance 24 (4):646-664. 
+De Haan, Jakob, and Jan Egbert Sturm. 1992. The Case for Central Bank Independence. 
+Banca Nazionale del Lavoro Quarterly Review XLV (182):305-27. 
+Dornbusch, Ruediger. 1976. Expectations and Exchange Rate Dynamics. Journal of 
+Political Economy 84 (4):1161-1176. 
+Dornbusch, Ruediger. 1987. Exchange Rates and Prices. American Economic Review 77 
+(2):93-106. 
+Durbin, J. 1970. Testing for serial correlation in least squares regression when some of the 
+regressors are lagged dependent variables. Econometrica 38: 410-421. 
+Eijffinger, Sylvester, and Eric Schaling. 1993. Central Bank Independence: Theory and 
+Evidence. CentER Discussion Paper Series 9325:1-32. 
+Fleming, J. Marcus. 1962. Internal Financial Policies Under Fixed and Floating Exchange 
+Rates. IMF Staff Papers 9:369-379. 
+Frankel, Jeffrey. 1999. No Single Exchange Rate Regime is Right for All Countries or at 
+All Times. Vol. 215, Essays in International Finance. Princeton: Princeton 
+University Press. 
+Frankel, Jeffrey A., and Andrew K. Rose. 1995. Empirical Research on Nominal Exchange 
+Rates. In Handbook of International Economics, edited by G. M. Grossman and K. 
+Rogoff. Amsterdam: North Holland. 
+Frankel, Jeffrey A., and Andrew K. Rose. 1997. The endogeneity of the optimum 
+currency-area criteria. Swedish Economic Policy Review 4 (2):487-512. 
+Frankel, Jeffrey A., Sergio L. Schmukler, and Luis Serven. 2002. Global transmission of 
+interest rates: monetary independence and currency regime. NBER Working Paper 
+Series 8828. 
+Franzese, Robert J. Jr. 2002. Electoral and partisan cycles in economic policies and 
+outcomes. Annual Review of Political Science 5:369-421. 
+Frieden, Jeffrey A., Piero Ghezzi, and Ernesto Stein. 2001. Politics and Exchange Rates: A 
+Cross Country Approach. In The Currency Game: Exchange Rate Politics in Latin 
+America, edited by J. A. Frieden and E. Stein. Washington D.C.: Inter-American 
+Development Bank. 
+Friedman, Milton. 1968. The Role of Monetary Policy. American Economic Review 58 
+(1):1-17. 
+Galati, Gabriele, and Kostas Tsatsaronis. 2001. The impact of the euro on Europe'S 
+financial markets. BIS Working Papers 100. 
+39 
+
+========40========
+
+Giavazzi, Francesco, and Marco Pagano. 1988. The Advantage of Tying One's Hands: 
+EMS Discipline and Central Bank Credibility. European Economic Review 32 
+(5):1055-1082. 
+Granger, Clive, and Paul Newbold. 1974. Spurious Regressions in Econometrics. Journal 
+of Econometrics 2:111-120. 
+Hausken, Kjell, and Thomas Plümper. 2002. Containing Contagious Financial Crises: The 
+Political Economy of Joint Intervention into the Asian Crisis. Public Choice 111 (3- 
+4):209-236. 
+Hausmann, Ricardo, Michael Gavin, Carmen Pages-Serra, and Ernesto Stein. 1999. 
+Financial Trumoil and the Choice of Exchange Rate Regime: Inter American 
+Development Bank. 
+Huber, Evelyne, Ragin, Charles and John D. Stephens. 1997. Comparative Welfare States 
+Data Set. University of North Carolina, Chapel Hill. 
+Im, Kyung So, M. Hashem Pesaran, and Yongcheol Shin. 2003. 'Testing for Unit Roots in 
+Heterogeneous Panels'. Journal of Econometrics 115: 53-74. 
+Iversen, Torben. 1999. Contested Economic Institutions. The Politics of Macroeconomics 
+and Wage Bargaining in Advanced Demoncracies. Cambridge MA: Cambridge 
+University Press. 
+Keefer, Philip. 2005. DPI 2004: Database of Political Institutions: Changes and Variables 
+Definitions. Development Research Group. The World Bank. 
+Kenen, Peter. 1969. The Theory of Optimum Currency Areas. In Monetary Problems of 
+the International Economy, edited by R. A. Mundell and A. K. Swoboda. Chicago: 
+University of Chicago Press. 
+Levy-Yeyati, Eduardo, and Federico Sturzenegger. 2002. Classifying Exchange Rate 
+Regimes: Deeds vs. Words: Universidad Torcutato Di Tella. 
+Lucas, Robert E. 1972. Expectations and the Neutrality of Money. Journal of Economic 
+Theory 4 (2):103-124. 
+Maddala, G.S. and Wu, Shaowen. 1999. 'A Comparative Study of Unit Root Tests With 
+Panel Data and A New Simple Test'. Oxford Bulletin of Economics and Statistics 61: 
+631-652. 
+Mankiw, N. Gregory. 2001. The Inexorable and Mysterious Tradeoff Between Inflation 
+and Unemployment. The Economic Journal 111 (471):C45-C61. 
+McKinnon, Ronald I. 1962. Optimum Currency Areas. American Economic Review 
+53:717-725. 
+McKinnon, Ronald I. 2004. Optimum currency areas and key currencies: Mundell I versus 
+Mundell II. Journal of Common Market Studies. 
+Maddala, G.S. and Wu, Shaowen. 1999. A Comparative Study of Unit Root Tests With 
+Panel Data and A New Simple Test. Oxford Bulletin of Economics and Statistics 61: 
+631-652. 
+40 
+
+========41========
+
+Meese, Richard A., and Kenneth Rogoff. 1983. Empirical Exchabge Rate Models of the 
+Seventies: Do they fit out of Sample? Journal of International Economics 14 (1):3- 
+24. 
+Mundell, Robert A. 1961. A theory of optimum currency areas. The American Economic 
+Review 51 (4):657-665. 
+Mundell, Robert A. 1962. The Appropriate Use of Monetary and Fiscal Policy for Internal 
+and External Stability. IMF Staff Papers 9 (1):70-79. 
+Mundell, Robert A. 1963. Capital mobility and stabilization policy under fixed and flexible 
+exchange rates. The Canadian Journal of Economics and Political Science 29 
+(4):475-485. 
+Neumann, Manfred J. M. 1991. Precommited by Central Bank Independence. Open 
+Economies Review 2 (1):95-112. 
+Obstfeld, Maurice, and Kenneth S. Rogoff. 1995. Exchange rate dynamics redux. The 
+Journal of Political Economy 103 (3):624-660. 
+Obstfeld, Maurice, Jay C. Shambaugh, and Alan M. Taylor. 2004. Monetary sovereignity, 
+exchange rates, and capital controls: the trilemma in the interwar period. NBER 
+Working Paper Series 10393. 
+Obstfeld, Maurice, and Kenneth S. Rogoff. 1996. Foundations of International 
+Macroeconomics. Cambridge, London: MIT Press. 
+Olson, Mancur. 1971. The Logic of Collective Action: Public Goods and the Theory of 
+Groups. Cambridge MA: Harvard University Press. 
+Persson, Torsten, and Guido Tabellini. 1996. Macroeconomic Policy, Credibility and 
+Politics. Amsterdam: Harwood Academic Pulishers. 
+Persson, Torsten, and Guido Tabellini. 2002. Political Economics: Explaining Economic 
+Policy. Cambridge, London: MIT Press. 
+Phillips, Alban W. 1958. The relation between unemployment and the rate of change of 
+money: wage rates in the United Kingdom, 1861-1957. Economica 25 (100):283- 
+299. 
+Plümper, Thomas, Vera E. Troeger, and Philip Manow. 2005. Panel Data Analysis in 
+Comparative Politics: Linking Method to Theory. European Journal of Political 
+Research 44: 327-354. 
+Plümper, Thomas, and Vera E. Troeger. 2006a. External Effects of Currency Unions. 
+Mimeo, University of Essex. 
+Plümper, Thomas, and Vera E. Troeger. 2006b. Monetary Policy Autonomy in European 
+Non-Euro countries, 1980-2005. European Union Politics 7 (2): 213-234. Plümper, Thomas, and Vera E. Troeger. 2007. Efficient Estimation of Time Invariant and 
+Rarely Changing Variables in Finite Sample Panel Analyses with Unit Fixed Effects. 
+Political Analysis 15 (2): 124-139. 
+Quinn, Dennis. 1997. The Correlates of Change in International Financial Relations. 
+American Political Science Review 91 (3):531-552. 
+41 
+
+========42========
+
+Radelet, Steve, and Jeffrey Sachs. 1998. The East Asian Financial Crisis. Diagnosis, 
+Remedies, Prospects. Brookings Papers on Economic Activity:1-90. 
+Reinhart, Carmen M., and Kenneth S. Rogoff. 2004. The Modern History of Exchange 
+Rate Arrangements: A Reinterpretation. Quarterly Journal of Economics 119 (1):1- 
+48. 
+Rogoff, Kenneth S. 1985. The Optimal Degree of Commitment to an Intermediate 
+Monetary Target. Quarterly Journal of Economics 100 (4):110-124. 
+Rogoff, Kenneth S. 2001. Why not a global currency. The American Economic Review 91 
+(2):243-247. 
+Rogoff, Kenneth, and Anne Sibert. 1988. Elections and Macroeconomic Policy Cycles. 
+Review of Economic Studies 55 (1-16). 
+Romer, David. 1993. Openness and Inflation: Theory and Evidence. Quarterly Journal of 
+Economics 108 (3):870-903. 
+Rose, Andrew K. 2000. One money, one market: the effect of common currencies on trade. 
+Economic Policy 15 (30):7-45. 
+Shambaugh, Jay C. 2004. The effect of fixed exchange rates on monetary policy. The 
+Quarterly Journal of Economics 119 (1):301-352. 
+Shambaugh, Jay C. 2005. A New Look at Pass-through: Dartmouth College. 
+Tenreyro, Silvana, and Robert J. Barro. 2003. Economic effects of currency unions. NBER 
+Working Paper Series 9435. 
+Walsh, Carl E. 1995. Optimal Contracts for Central Bankers. American Economic Review 
+85 (1):150-167. 
+Wooldridge, Jeffrey M. 2003. Introductory Econometrics. South-Western. 
+Wu, Yangru, and Hua Zhang. 1997. Do Interest Rates Follow Unit-Root Processes? 
+Evidence from Cross-Maturity Treasury Bill Yields. Review of Quantitative Finance 
+and Accounting 8:69-81. 
+42 
+
+========43========
+
+Table 3: Countries included into the analysis 
+Africa Asia Europe Latin 
+Egypt Hong Kong 
+Austria 
+South Africa 
+America Argentina 
+Oceania North 
+America Australia Canada 
+Morocco Indonesia (Belgium) Bolivia New Zealand 
+Japan Denmark Brazil 
+Korea Finland Chile 
+Malaysia Philippines 
+France 
+Greece Mexico Thailand Iceland Peru 
+Ireland 
+Italy (Luxembourg) Netherlands 
+Norway 
+Portugal 
+Spain 
+Sweden Switzerland 
+Turkey 
+United Kingdom 
+Colombia 
+Uruguay Venezuela 
+Luxembourg and Belgium are not part of the analysis since they follow pegged regimes 
+throughout the period under observation 
+Table 4: Import shares form the EMU and the US by Region 
+Region 
+Share of Imports of Goods and Services EMU US 
+Europe 0.48 0.07 Latin America 0.17 0.30 Asia 0.16 0.10 Africa 0.10 0.47 Australia and New Zealand 0.34 0.12 Canada 0.07 0.65 
+Table 5: Cross border asset shares denominated in Euro and US Dollar 
+Region 
+Share of cross border 
+assets 
+Before 1999 After 1999 
+EURO US$ EURO US$ EURO US$ Europe 0.29 0.40 0.22 0.44 0.48 0.29 Latin America 0.07 0.76 - - 0.07 0.76 Asia 0.07 0.54 0.05 0.50 0.11 0.62 Australia 0.02 0.70 0.02 0.80 0.03 0.53 Canada 0.02 0.80 0.02 0.83 0.02 0.73 
+43 
+
+========44========
+
+Table 6: Estimation Results for Cross border Asset shares 
+DV: monthly change of real 
+CB interest rate 
+Model 1.1 
+Model 1.3 + Capmob. 
+Flex WKS Intercept 0.076 
+0.027 
+(0.119) 
+Real CB interest rate (t-1) -0.044*** 
+Δ real interest rate 
+GER/EMU Δ real interest rate US 
+Δ real interest rate EMU weighted with Euro Asset 
+shares Δ real interest rate US weighted with USD Asset 
+shares 
+(0.004) 0.353*** (0.098) -0.479*** (0.168) 0.280** (0.153) 
+Model 1.2 Flex WKS 0.030 (0.128) -0.048*** (0.005) 0.385*** (0.106) -0.463*** (0.174) 0.352** (0.156) 
+(0.134) -0.047*** (0.005) 0.408*** (0.110) -0.300* (0.179) 0.438*** (0.157) 
+0.989*** (0.140) 
+0.997*** (0.140) 
+1.032*** (0.141) 
+Model 1.4 +Democ 0.027 (0.134) -0.047*** (0.005) 0.408*** (0.110) -0.300* (0.179) 0.438*** (0.157) 
+Model 1.5 - Hyperinfl 
+0.014 (0.134) -0.047*** (0.005) 0.607*** (0.113) -0.436** (0.197) 0.282** (0.150) 
+1.032*** (0.141) 
+1.030*** (0.149) 
+Total exports/ total imports -0.028 
+(0.085) 
+-0.066 (0.087) 
+-0.070 
+(0.088) 
+Legislative elections 0.011 
+0.009 
+(0.021) 
+Executive elections 0.211*** 
+(0.042) 
+(0.021) 0.299*** (0.046) 
+Colour of the Government 0.022** 
+0.021* 
+GDP Growth 0.012*** 
+(0.002) 
+Unemployment 0.007** 
+(0.003) 
+(0.011) 0.013*** (0.003) 0.007** (0.003) 
+Capital Mobility (CAP) 0.016 
+CAP* Δ real interest rate 
+GER/EMU CAP* Δ real interest rate US 
+CBI -0.236*** 
+CBI* Δ real interest rate 
+GER/EMU CBI* Δ real interest rate US 
+MA 1 
+ 
+t1 
+ 
+Variance Equation: ARCH 1  
+2 
+t1 
+ GARCH 1  
+2 
+t1 
+ 
+(0.019) -0.060 (0.037) 0.091** (0.042) 
+(0.070) -0.045 (0.161) -0.203 (0.177) -0.007 (0.025) 
+(0.011) 0.014*** (0.003) 0.007** (0.003) 0.028* (0.018) -0.075** (0.038) 0.085** (0.043) -0.265*** (0.072) -0.032 (0.161) -0.213 (0.179) 0.001 (0.025) 
+0.032* 
+(0.020) -0.096** (0.039) 
+0.023 
+(0.046) -0.264*** (0.075) 
+0.049 
+(0.162) 
+-0.092 
+(0.185) 
+0.004 
+(0.026) 
+0.102*** (0.008) 0.878*** (0.008) 
+0.099*** (0.008) 0.880*** (0.008) 
+0.102*** (0.008) 0.876*** (0.008) 
+-0.070 (0.088) 0.009 (0.021) 0.299*** (0.046) 0.021* (0.011) 0.013*** (0.003) 0.007** (0.003) 0.032* (0.020) -0.096** (0.039) 0.023 (0.046) -0.264*** (0.075) 0.049 (0.162) -0.092 (0.185) 0.004 (0.026) 
+-0.042 (0.089) 0.006 (0.021) -0.044 (0.107) 0.012 (0.011) 0.013*** (0.003) 0.010*** (0.003) 0.024 (0.023) -0.147*** (0.040) 0.055 (0.050) -0.211*** (0.079) 0.128 (0.157) -0.033 (0.185) 0.001 (0.028) 
+0.102*** (0.008) 0.876*** (0.008) 
+0.096*** (0.009) 0.861*** (0.012) 
+N 2573 2573 2489 2489 2230 
+Wald chi² (Prob > chi²) 
+2308.63 (0.000) 
+2864.13 (0.000) 
+2592.57 (0.000) 
+2592.57 (0.000) 
+2172.66 (0.000) 
+Log likelihood -2311.896 -2306.169 -2235.719 -2235.719 -1770.298 
+***p<=0.01; **p<=0.05; *p<=0.1 
+44 
+
+========45========
+
+Table 7: Estimation Results for Import shares 
+DV: monthly change of real 
+CB interest rate 
+Model 2.1 
+Flex WKS Intercept -0.216*** 
+(0.030) 
+Real CB interest rate (t-1) -0.085*** 
+Δ real interest rate 
+GER/EMU Δ real interest rate US 
+Δ real interest rate EMU weighted with Import shares 
+from the EMU 
+Δ real interest rate US weighted with Import shares 
+from the US 
+(0.001) 0.238*** (0.053) -0.516*** (0.063) 1.111*** (0.070) 
+Model 2.2 Flex WKS 0.813*** (0.057) -0.096*** (0.001) -0.009 (0.058) -0.291*** (0.078) 1.601*** (0.089) 
+Model 2.3 + Capmob. 0.264*** (0.099) -0.023*** (0.002) 
+0.053 
+(0.136) 
+0.036 
+(0.160) 0.507*** (0.082) 
+0.530*** (0.115) 
+0.989*** (0.142) 
+0.364*** (0.135) 
+Model 2.4 +Democ 0.284*** (0.092) -0.024*** (0.002) 0.163 (0.111) -0.069 (0.129) 0.454*** (0.082) 
+Model 2.5 - Hyperinfl 
+0.143 (0.106) -0.051*** (0.002) 0.278** (0.115) -0.042 (0.145) 0.719*** (0.080) 
+0.424*** (0.127) 
+0.443*** (0.133) 
+Total exports/ total imports 0.420 
+(0.430) 
+-0.076** (0.037) 
+-0.202** (0.070) 
+Legislative elections 0.105*** 
+0.014 
+(0.014) 
+(0.017) 
+Executive elections -0.219*** 
+-0.051 
+(0.028) 
+(0.082) 
+Colour of the Government -0.023*** 
+-0.001 
+GDP Growth 0.013*** 
+(0.001) 
+Unemployment 0.006*** 
+(0.001) 
+(0.009) 0.016*** (0.002) 0.005** (0.002) 
+Capital Mobility (CAP) 0.014*** 
+CAP* Δ real interest rate 
+GER/EMU CAP* Δ real interest rate US 
+CBI -0.424*** 
+CBI* Δ real interest rate 
+GER/EMU CBI* Δ real interest rate US 
+MA 1 
+ 
+t1 
+ 
+Variance Equation: ARCH 1  
+2 
+t1 
+ GARCH 1  
+2 
+t1 
+ 
+(0.005) -0.048*** (0.013) 0.232*** (0.015) 
+(0.007) 0.023*** (0.001) 0.003** (0.001) 0.017*** (0.006) 0.000 (0.016) 0.162*** (0.021) -0.872*** (0.063) -1.142*** (0.115) -0.535*** (0.161) 0.076*** (0.009) 
+0.018 
+(0.018) 
+-0.035 
+(0.043) 
+0.060 
+(0.038) -0.789*** (0.103) -0.461*** (0.145) -0.042*** (0.006) 
+(0.047) -0.248*** (0.059) 
+0.017 
+(0.148) 
+-0.208 
+(0.188) 
+0.017 
+(0.018) 
+2.004*** (0.018) 0.227*** (0.001) 
+1.918*** (0.029) 0.233*** (0.001) 
+0.289*** (0.007) 0.812*** (0.002) 
+-0.225*** (0.064) 0.002 (0.013) -0.258*** (0.039) 0.002 (0.008) 0.014*** (0.002) 0.000 (0.002) 0.008 (0.015) -0.102*** (0.035) 0.107*** (0.040) -0.146*** (0.057) 0.331** (0.137) -0.409** (0.175) -0.055** (0.022) 
+-0.133* (0.074) 0.042** (0.018) -0.075 (0.081) 0.012 (0.010) 0.017*** (0.003) 0.011*** (0.003) 0.005 (0.018) -0.097** (0.039) 0.061 (0.045) -0.157** (0.067) -0.169 (0.153) -0.177 (0.187) -0.014 (0.017) 
+0.519*** (0.014) 0.637*** (0.007) 
+0.218*** (0.009) 0.753*** (0.008) 
+N 7174 6140 4041 3846 3164 
+Wald chi² (Prob > chi²) 
+46588.24 (0.000) 
+17711.05 (0.000) 
+516.54 
+(0.000) 
+920.49 (0.000) 
+862.48 (0.000) 
+Log likelihood -170066.9 -14502.82 -5900.358 -5209.747 -3335.422 
+***p<=0.01; **p<=0.05; *p<=0.1 
+45 
+
+========46========
+
+Figure 2: Cross border asset shares 
+8 
+. 
+s 
+e 
+i 
+c 
+n 
+US$ 
+e 
+r 
+r 
+u 
+6 
+. 
+c 
+ 
+n 
+g 
+i 
+e 
+r 
+o 
+f 
+ 
+4 
+n 
+. 
+i 
+Euro 
+ 
+d 
+l 
+o 
+h 
+ 
+s 
+t 
+2 
+e 
+. 
+s 
+s 
+a 
+CHF 
+JPY 
+ 
+f 
+o 
+ 
+% 
+0 
+01/80 
+05/83 
+09/86 
+GBP 
+01/90 05/93 
+Date 
+09/96 
+01/00 
+05/03 
+46 
+
+========47========
+
+Appendix 
+Table A1: optimal domestic policy for different values of the interest rate in the base country and assets denominated in the base currency 
+Asset share denominated in the base currency 
+0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 
+0 0.5 1 1.5 
+2 2 2 2 
+1.74 1.78 1.83 1.87 
+1.53 1.61 1.69 1.78 
+1.36 1.48 1.59 1.71 
+1.22 1.37 1.51 1.65 
+1.11 1.28 1.44 1.61 
+1.02 1.2 1.39 1.58 
+0.93 1.14 1.35 1.55 
+0.86 1.09 1.31 1.53 
+0.8 1.04 1.28 1.51 
+0.75 1 1.25 1.5 
+Interest rate of the Base country 
+2 2 1.92 1.86 1.82 1.8 1.78 1.77 1.76 1.75 1.75 1.75 2.5 2 1.96 1.94 1.94 1.94 1.94 1.95 1.96 1.98 1.99 2 
+3 3.5 4 4.5 5 
+2 2 2 2 2 
+2.01 2.05 2.1 2.14 2.19 
+2.03 2.11 2.19 2.28 2.36 
+2.05 2.17 2.28 2.4 2.51 
+2.08 2.22 2.37 2.51 2.65 
+2.11 2.28 2.44 2.61 2.78 
+2.14 2.33 2.52 2.7 2.89 
+2.17 2.38 2.58 2.79 2.99 
+2.2 2.42 2.64 2.86 3.09 
+2.22 2.46 2.7 2.93 3.17 
+2.25 2.5 2.75 3 3.25 
+Figure A1: optimal domestic policy for different values of the interest rate in the base country and assets denominated in the base currency 
+4.0 
+3.5 
+e 
+t 
+a 
+r 
+ 
+t 
+s 
+3.0 
+e 
+r 
+e 
+t 
+n 
+i 
+ 
+2.5 
+c 
+i 
+t 
+s 
+e 
+2.0 
+m 
+o 
+d 
+ 
+l 
+a 
+1.5 
+m 
+i 
+t 
+p 
+o 
+1.0 
+0.00.10.2 
+0.3 
+sha 
+0.4 
+re 
+ o 
+0.5 
+f  
+as 
+0.6 
+s 
+0.7 
+in 
+et 0.8 
+ b 
+s 
+a 
+ d 
+s 
+en 
+omin 
+0.9 
+e 
+ cu 
+ated 
+1.0 
+rrency  
+4.55.0 
+3.54.0 
+te 
+2.53.0 
+ 
+ra 
+st 
+1.52.01.0 
+re 
+te 
+in 0.5 
+e 
+ 
+0.0 
+b 
+as 
+47 
+
+========48========
+

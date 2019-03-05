@@ -1,0 +1,1891 @@
+June 2010 (revised February 2011) 
+             No.13 
+The Elasticity of Trade: Estimates & Evidence Ina Simonovska (University of California, Davis and NBER) and Michael E.  
+Waugh (New York University) 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+The Elasticity of Trade: Estimates and Evidence 
+Ina Simonovska 
+University of California, Davis and NBER 
+Michael E. Waugh New York University 
+First Version: April 2009 This Version: February 2011 
+ABSTRACT ——————————————————————————————————– 
+Quantitative results from a large class of international trade models depend critically on the elasticity of trade with respect to trade frictions. We develop a simulated method of moments estimator to estimate this elasticity from disaggregate price and trade-ﬂow data using the Ricardian model. We motivate our estimator by proving that the estimator devel- oped in Eaton and Kortum (2002) is biased in any ﬁnite sample. We quantitatively show that the bias is severe and that the data requirements necessary to eliminate it in practice are extreme. Applying our estimator to new disaggregate price and trade-ﬂow data for 123 countries in the year 2004 yields a trade elasticity of roughly four, nearly ﬁfty percent lower than Eaton and Kortum’s (2002) approach. This difference doubles the welfare gains from international trade. 
+————————————————————————————————————————- JEL Classiﬁcation: F10, F11, F14, F17 
+Keywords: elasticity of trade, bilateral, gravity, price dispersion, indirect inference 
+Email: inasimonovska@ucdavis.edu, mwaugh@stern.nyu.edu. 
+We are grateful to the World Bank for providing us with the price data from the 2005 ICP round. We thank George Alessandria, Alexander Aue, Robert Feenstra, Timothy Kehoe, Matthias Lux, B. Ravikumar, seminar participants at UC San Diego, Syracuse, ETH/KOF, Princeton, Uppsala, Oslo, San Francisco Fed, UC Berke- ley, NYU and participants at the NBER ITI Program Meeting Winter 2010, 2010 International Trade Workshop at the Philadelphia Fed, Conference on Microeconomic Sources of Real Exchange Rate Behavior at Vanderbilt, Midwest International Trade Meeting Fall 2010, SED 2010, WEAI 2010, Conference on Trade Costs and Interna- tional Trade Integration: Past, Present and Future in Venice, International Comparisons Conference at Oxford, North American Winter Meeting of the Econometric Society 2010, AEA 2010 for their feedback. 
+
+========2========
+
+1. Introduction 
+Quantitative results from a large class of structural gravity models of international trade depend critically on a single parameter that governs the elasticity of trade with respect to trade frictions.1 To illustrate how important this parameter is, consider three examples: Anderson and van Wincoop (2003) ﬁnd that the estimate of the tariff equivalent of the U.S.- Canada border varies between 48 and 19 percent, depending on the assumed elasticity of trade with respect to trade frictions. Yi (2003) points out that observed reductions in tariffs can explain almost all or none of the growth in world trade, depending on this elasticity. Arkolakis, Costinot, and Rodriguez-Clare (2011) argue that this parameter is one of only two parameters needed to measure the welfare cost of autarky in a large and important class of trade models. Therefore, this elasticity is key to understanding the size of the frictions to trade, the response of trade to changes in tariffs, and the welfare gains or losses from trade. 
+Estimating this parameter is difﬁcult because quantitative trade models can rationalize small trade ﬂows with either large trade frictions and small elasticities, or small trade frictions and large elasticities. Thus, one needs satisfactory measuresof trade frictions independentof trade ﬂows to estimate this elasticity. Eaton and Kortum (2002) (henceforth EK) provide an inno- vative and simple solution to this problem by arguing that, with product-level price data, one could use the maximum price difference across goods between countries as a proxy for bilateral trade frictions. The maximum price difference between two countries is meaningful because it is bounded by the trade friction between the two countries via simple no-arbitrage arguments. 
+We develop a new simulated method of moments estimator for the elasticity of trade in- corporating EK’s intuition. The argument for a new estimator is that their method results in estimates that are biased upward by economically signiﬁcant magnitudes. We prove this result and then provide quantitative measures of the bias via Monte Carlo simulations of the EK model. Finally, we apply our estimator to novel disaggregate price and trade-ﬂow data for the year 2004, spanning 123 countries that account for 98 percent of world output. Our benchmark estimate for the elasticity of trade is 4.12, rather than approximately eight, as EK’s estimation strategy suggests. This difference doubles the measured welfare gains from international trade across various models. 
+Since the elasticity of trade plays a key role in quantifying the welfare gains from trade, it is important to understand why our estimates of the parameter differ substantially from EK’s. 
+1These models include Krugman (1980), Anderson and van Wincoop (2003), Eaton and Kortum (2002), and Melitz (2003) as articulated in Chaney (2008), which all generate log-linear relationships between bilateral trade ﬂows and trade frictions. 
+1 
+
+========3========
+
+We show that the reason behind the difference is that their estimator is biased in ﬁnite sam- ples of price data. The bias arises because the model’s equilibrium no-arbitrage conditions imply that the maximum operator over a ﬁnite sample of prices underestimates the trade cost with positive probability and overestimates the trade cost with zero probability. Conse- quently, the maximum price difference lies strictly below the true trade cost, in expectation. This implies that EK’s estimator delivers an elasticity of trade that lies strictly above the true parameter, in expectation. As the sample size grows to inﬁnity, EK’s estimator can uncover the true elasticity of trade, which necessarily implies that the bias in the estimates of the parameter is eliminated. 
+Quantitatively, the bias is substantial. To illustrate its severity, we discretize EK’s model, simulate trade ﬂows and product-level prices under an assumed elasticity of trade, and apply their estimating approach on artiﬁcial data. Assuming a trade elasticity of 8.28, EK’s preferred estimate for 19 OECD countries in 1990, the procedure suggests an estimate of 12.5, nearly 50-percent higher than originally postulated. Moreover, in practice, the true parameter can be recovered when 50,000 goods are sampled across the 19 economies, which constitutes an extreme data requirement to produce unbiased estimates of the elasticity of trade. 
+Based on these arguments, we propose an estimator that is applicable when the sample size of prices is small. Our approach builds on our insight that one can use observed bi- lateral trade ﬂows to recover all sufﬁcient parameters to simulate EK’s model and obtain trade ﬂows and prices as functions of the parameter of interest. This insight then suggests a simulated method of moments estimator that minimizes the distance between the moments obtained by applying EK’s approach on real and artiﬁcial data. We explore the properties of this estimator numerically using simulated data and show that it can uncover the true elasticity of trade. 
+Applying our estimator to alternative data sets and conducting several robustness exercises allows us to establish a range for the elasticity of trade between 2.47 and 4.42. In contrast, EK’s approach would have found a range of 4.17 and 7.75. Thus, our method ﬁnds elastic- ities that are roughly half the size of EK’s approach. Because the inverse of this elasticity linearly controls changes in real income necessary to compensate a representative consumer for going to autarky, resolving this bias doubles the welfare gains from international trade. 
+The elasticity of trade has been a focus of many studies; see for example the seminal works of Feenstra (1994) and Broda and Weinstein (2006), and Anderson and van Wincoop (2004) for a survey. Like the existing literature, our estimation approach relies on the gravity equa- tion of trade. Unlike the literature, our paper’s methodological insight is to exploit the 
+2 
+
+========4========
+
+particular micro-level structure of the EK model to correct for data limitations. As we show quantitatively, this insight is powerful and has large welfare implications. 
+Finally, our estimation approach would not have been possible in models without hetero- geneous outcomes such as Krugman (1980) and the Armington model of Anderson and van Wincoop (2003). This is an important point in light of Arkolakis, Costinot, and Rodriguez- Clare’s (2011) arguments. While the new international trade models of EK, Melitz (2003) and Chaney (2008) give the same formula for the welfare gains from trade as Krugman (1980) or a simple Armington model would, their heterogenous micro-level structure enables re- searchers to better estimate the elasticity of trade with a gravity-based estimator. Our paper illustrates this point and thus provides an alternative rationale for the value added of new heterogenous production models of trade. 
+2. Model 
+We outline the environment of the multi-country Ricardian model of trade introduced by EK. We consider a world with N countries, where each country has a tradable ﬁnal-goods sector. There is a continuum of tradable goods indexed by j ∈ [0,1]. 
+Within each country i, there is a measure of consumers Li. Each consumer has one unit of time supplied inelastically in the domestic labor market and enjoys the consumption of a CES bundle of ﬁnal tradable goods with elasticity of substitution ρ > 1: 
+ 
+1 
+Ui = 
+xi(j) 
+ρ  1 
+ρ 
+dj 
+ 
+ρ 
+ρ  1 
+. 
+0 
+To produce quantity xi(j) in country i, a ﬁrm employs labor using a linear production func- tion with productivity zi(j). Country i’s productivity is, in turn, the realization of a random variable (drawn independently for each j) from its country-speciﬁc Fr´echet probability dis- tribution: 
+Fi(zi) = exp(−Tiz−θi ). 
+(1) 
+The country-speciﬁc parameterTi > 0 governs the location of the distribution; higher values of it imply that a high productivity draw for any good j is more likely. The parameter θ > 1 is common across countries and, if higher, it generates less variability in productivity across goods. 
+Having drawn a particular productivity level, a perfectly competitive ﬁrm from country 
+3 
+
+========5========
+
+i incurs a marginal cost to produce good j of wi/zi(j), where wi is the wage rate in the economy. Shipping the good to a destination n further requires a per-unit iceberg trade cost of τni > 1 for n =  i, with τii = 1. We assume that cross-border arbitrage forces effective geographic barriers to obey the triangle inequality: For any three countries i, k, n, τni ≤ τnkτki. 
+Below, we describe equilibrium prices, trade ﬂows, and welfare. 
+Perfect competition forces the price of good j from country i to destination n to be equal to the marginal cost of production and delivery: 
+pni(j) = 
+τniwi 
+zi(j). 
+So, consumers in destination n would pay pni(j), should they decide to buy good j from country i. 
+Consumers purchase good j from the low-cost supplier; thus, the actual price consumers in n pay for good j is the minimum price across all sources k: 
+  
+pn(j) = mink=1,...,N pnk(j) . (2) 
+The pricing rule and the productivity distribution allow usto obtain the following CES exact price index for each destination n: 
+ 
+ 
+N 
+ 
+1 
+Pn = γΦ−n 
+θ 
+where Φn = Tk(τnkwk)−θ . (3) 
+k=1 
+θ+1−ρ 
+1 In the above equation, γ = 
+ 
+ 
+1  ρ 
+θ stricted such that θ > ρ − 1. 
+is the Gamma function, and parameters are re- 
+To calculate trade ﬂows between countries, letXn be country n’s expenditure on ﬁnal goods, of which Xni is spent on goods from country i. Since there is a continuum of goods, comput- ing the fraction of income spent on imports from i, Xni/Xn, can be shown to be equivalent to ﬁnding the probability that country i is the low-cost supplier to country n given the joint distribution of efﬁciency levels, prices, and trade costs for any good j. The expression for the share of expenditures that country n spends on goods from country i or, as we will call it, the trade share is: 
+Xni Xn 
+= N 
+Ti(τniwi)−θ 
+.− 
+k=1 
+Tk(τnkwk) 
+θ 
+(4) 
+4 
+
+========6========
+
+Expressions (3) and (4) allow us to relate trade shares to trade costs and the price indices of each trading partner via the following equation: 
+Xni/Xn Xii/Xi 
+= 
+Φi 
+Φ 
+τ−θni =n 
+Piτ −θni 
+Pn 
+, 
+(5) 
+where 
+Xii 
+X 
+is country i’s expenditure share on goods from country i, or its home trade share. 
+i 
+In this model, it is easy to show that the welfare gains from trade are essentially captured by changes in the CES price index a representative consumer faces. Because of the tight link between prices and trade shares, this model generates the following relationship be- tween changes in price indices and changes in home trade shares, as well as, the elasticity parameter: 
+P′ 
+ 
+n 
+− 1 = 1 − 
+X′nn/X′ 
+ 1 
+n 
+θ Pn Xnn/X 
+,n 
+(6) 
+where the left-hand side can be interpreted as the percentage compensation a representative consumer in country n requires to move between two trading equilibria. 
+Expression (5) is not particular to EK’s model. Several popular models of international trade relate trade shares, prices and trade costs in the same exact manner. These models include the Armington framework of Anderson and van Wincoop (2003), as well as, the monopolistic competition frameworks of ﬁrm heterogeneity by Melitz (2003) and Chaney (2008), and ﬁrm homogeneity by Krugman (1980). Arkolakis, Costinot, and Rodriguez-Clare (2011) show how equation (6) arises within these same models. 
+2.1. The Elasticity of Trade 
+The key parameter determining trade ﬂows (equation (5)) and welfare (equation (6)) is θ. To see the parameter’s importance for trade ﬂows, take logs of equation (5) yielding: 
+log 
+Xni/X n 
+Xii/Xi 
+= −θ log (τni) − θ log(Pi) + θ log(Pn). 
+(7) 
+As this expression makes clear, θ controls how a change in the bilateral trade costs, τni, will change bilateral trade between two countries. This elasticity is important because if one wants to understand how a bilateral trade agreement will impact aggregate trade or to simply understand the magnitude of the trade friction between two countries, then a stand on this elasticity is necessary. This is what we mean by the elasticity of trade. 
+5 
+
+========7========
+
+To see the parameter’s importance for welfare, it is fairly easy to demonstrate that (6) implies that θ represents the inverse of the elasticity of welfare with respect to domestic expenditure shares: 
+ 
+log(Pn) = −1θ log 
+X 
+nn 
+Xn 
+(8) 
+Hence, decreasing the domestic expenditure share by one percent generates(1/θ)/100-percent increase in consumer welfare. Thus, in order to measure the impact of trade policy on wel- fare, it is sufﬁcient to obtain data on realized domestic expenditures and an estimate of the elasticity of trade. 
+Given θ’s impact on trade ﬂows and welfare, this elasticity is absolutely critical in any quan- titative study of international trade. 
+3. Estimating θ: EK’s Approach 
+Equation (5) suggests that one could easily estimate θ if one had data on trade shares, ag- gregate prices, and trade costs. The key issue is that trade costs are not observed. In this section, we discuss how EK approximate trade costs and estimate θ. Then, we character- ize the statistical properties of EK’s estimator. The key result is Proposition 1, which states that their estimator is biased and overestimates the elasticity of trade with a ﬁnite sample of prices. The second result is Proposition 2, which states that EK’s estimator is a consistent and an asymptotically unbiased estimator of the elasticity of trade. 
+3.1. Approximating Trade Costs 
+To estimate θ, the key problem is that one must disentangle trade costs from θ, when direct measures of trade costs are not observed. EK propose approximating trade costs in the following way. The idea is that by using disaggregate price information across countries, the maximum price difference between two countries bounds the trade cost and, thus, solves the indeterminacy issue. 
+To illustrate this argument, suppose that we observe the price of good ℓ across locations, but we do not know its country of origin.2 We know that the price of good ℓ in country n 
+2This is the most common case, though Donaldson (2009) exploits a case where he knows the place of origin for one particular good, salt. He argues convincingly that in India, salt was produced in only a few locations and exported everywhere; thus, the relative price of salt across locations identiﬁes the trade friction. 
+6 
+
+========8========
+
+relative to country i must satisfy the following inequality: 
+pn(ℓ) pi(ℓ) 
+≤ τni. 
+(9) 
+That is, the relative price of good ℓ must be less than or equal to the trade friction. This inequality must hold because if it does not, then pn(ℓ) > τnipi(ℓ) and an agent could import ℓ at a lower price. Thus, the inequality in (9) places a lower bound on the trade friction. 
+Improvements on this bound are possible if we observe a sample of L goods across loca- tions. This follows by noting that the maximum relative price difference must satisfy the same inequality: 
+maxℓ∈L 
+pn(ℓ) pi(ℓ) 
+≤ τni. 
+(10) 
+This suggests a way to exploit disaggregate price information across countries and to arrive at an estimate of τni by taking the maximum of relative prices over goods. Thus, EK approx- imate τni, in logs, by 
+log ˆτni(L) = max{log (pℓ∈L 
+n(ℓ)) 
+− log (pi(ℓ))}, 
+(11) 
+where the “hat” denotes the approximated value of τni and (L) indexes its dependence on the sample size of prices. 
+3.2. Estimating the Elasticity 
+Given the approximation of trade costs, EK simply take equation (7) and run a regression. Thus, for a sample of L goods, they essentially estimate a parameter, β, using the following equations: 
+log 
+Xni/X  
+ n 
+Xii/Xi 
+= −β log ˆτni(L) + logPˆi − logPˆn , 
+(12) 
+where 
+log ˆτni(L) = max{logpℓ∈L 
+n(ℓ) 
+− logpi(ℓ)}, 
+and 
+1 
+ 
+L 
+logPˆi = 
+L 
+log(pi(ℓ)). 
+ℓ=1 
+7 
+
+========9========
+
+As discussed, the second line of expression (12) approximates the trade cost. The third line approximates the aggregate price indices. The top line relates these observables to the regression they run. 
+To recover β, EK employ a method of moments estimator by taking the average of the left- hand side of (12) divided by the average of the right-hand side of (12), with the averages across all country pairs.3 
+Mathematically, their estimator is: 
+  
+  
+log 
+Xni/Xn 
+βˆ = − 
+ 
+ 
+n i Xii/Xi 
+ . 
+n i 
+log ˆτni(L) + logPˆi − logPˆ 
+n 
+(13) 
+The value of β is EK’s preferred estimate of the elasticity θ.4 Throughout, we will denote by βˆ the estimator deﬁned in equation (13) to distinguish it from the value θ. 
+3.3. Properties of EK’s Estimator 
+Before proving properties of the estimator βˆ, we want to be clear about the sources of ran- domness in equation (12). We view the trade data on the left-hand side of (12) as being ﬁxed. The variables on the right-hand side of (12) are random variables. That is, we are treating the micro-level prices as being randomly sampled from the equilibrium distribu- tion of prices. The parameterization of productivity draws in equation (1), marginal cost pricing, and equation (2) are sufﬁcient to characterize these distributions. This interpreta- tion is consistent with EK’s interpretation. 
+Given that random variation in the sampled prices is the source of randomness, we deﬁne the following objects. 
+Deﬁnition 1 Deﬁne the following objects 
+1. Let ǫni = θ[logpn − logpi] be the log price difference of a good between country n and country 
+i, multiplied by θ. 
+2. Let the vector S = {log(T1w−θ1 ), . . . ,log(TNw−θN )}. 
+3They also propose two other estimators. One uses the approximation in (11) and the gravity equation in (22) — our arguments are applicable to this approach as well. The other approach does not use disaggregate price data and this estimate is remarkably similar to our benchmark results. 
+4To alleviate measurement error, they resort to using the second-order statistic over price differences rather than the ﬁrst-order statistic. Our estimation approach is robust to the consideration of using the ﬁrst- or second-order statistic. 
+8 
+
+========10========
+
+3. Let the vector τ˜i = {θ log(τi1), . . . , θlog(τiN)} and let τ˜ be a matrix with typical row, τ˜i. 
+4. Let g(pi;S,τ˜i) be the pdf of prices of individual goods in country i, pi ∈ (0,∞). 
+5. Let fmax(ǫni;L,S,τ˜i,τ˜n) be the pdf of max(ǫni), given prices of a sample L ≥ 1 of goods. 
+ X 6. Let X denote the normalized trade share matrix, with typical (n, i) element, log 
+ni/Xn 
+. 
+Xii/Xi 
+The ﬁrst item is simply the scaled log price difference. As we show in Appendix B.1, this happens to be convenient to work with, as the second line in (12) can be restated in terms of scaled log price differences across locations. The second item is a vector in which each element is a function of a country’s technology parameter and wage rate. The third item is a matrix of log bilateral trade costs, scaled by θ, with a typical vector row containing the trade costs that country i’s trading partners incur to sell there. The fourth item speciﬁes the probability distribution of prices in each country. The ﬁfth item speciﬁes the probability distribution over the maximum scaled log price difference and its dependence on the sample size of prices of L goods. We derive this distribution in AppendixB.1. Finally, the sixth item summarizes trade data, which we view as constant. 
+3.4. βˆ is a Biased Estimator of θ 
+Given these deﬁnitions, we establish two intermediate results and then state Proposition 1, which characterizes the expectation of βˆ, shows that the estimator is biased and discusses the reason why the bias arises. The proof of Proposition 1 can be found in Appendix B.1. 
+The ﬁrst intermediate result is the following: 
+Lemma 1 Consider an economy of N countries with a sample of L goods’ prices observed. The expected value of the maximal difference of logged prices for a pair of countries is strictly less than 
+the true trade cost, 
+(14) 
+ 
+Ψni(L;S,τ˜i,τ˜n) ≡ 
+1 
+θ log(τni) 
+θ 
+ǫnifmax(ǫni;L,S,τ˜i,τ˜n)dǫni < log(τni).−θlog(τ 
+in) 
+The difference in the expected values of logged prices for a pair of countries equals the difference in 
+the price parameters, Φ, of the two countries, 
+ 
+∞ 
+Ωni(S,τ˜n,τ˜i) ≡ 
+log(pn)g(pn;S,τ˜n)dpn − 
+0 
+with Φn deﬁned in equation (3). 
+ 
+∞ 
+0 
+log(pi)g(pi;S,τ˜i)dpi = 
+1 
+θ 
+(log Φi − log Φn), 
+(15) 
+9 
+
+========11========
+
+The key result in Lemma 1 is the strict inequality in (14). It says that Ψni, the expected maxi- mal logged price difference, is less than the true trade cost. Two forces drive this result. First, with a ﬁnite sample L of prices, there is positive probability that the maximal logged price difference will be less than the true trade cost. In other words, there is always a chance that the weak inequality in (10) does not bind. Second, there is zero probability that the maximal logged price difference can be larger than the true trade cost. This comes from optimality and the deﬁnition of equilibrium. These two forces imply that the expected maximal logged price difference lies strictly below the true trade cost. 
+The second result in Lemma 1 is that the difference in the expected log prices in expression (15) equals the difference in the aggregate price parameters deﬁned in equation (3). This result is important because it implies that any source of bias in the estimator βˆ does not arise because of systematic errors in approximating the price parameter Φn. 
+The next intermediate step computes the expected value of 1/βˆ. This step is convenient because the inverse of βˆ is linear in the random variables that Lemma 1 characterizes. 
+Lemma 2 Consider an economy of N countries with a sample of L goods’ prices observed. The expected value of 1/βˆ equals: 
+1 
+  
+= 
+1 
+ 
+  
+E − 
+n i(θΨni(L) 
+− 
+n)) 
+θ 
+(log Φi 
+−log Φ 
+ 
+  
+, 
+Xni/X  
+< 
+1 
+βˆ 
+n θX 
+(16) 
+n i 
+log 
+ii/Xi 
+with 
+ 
+  
+ 1 > 
+n i 
+(θΨ (L) − (log Φ − log Φ )) 
+− 
+ 
+ni 
+ 
+ 
+i 
+ 
+n 
+log 
+Xni/Xn 
+ 
+> 0. 
+n i Xii/Xi 
+(17) 
+This results says that the expected value of the inverse ofβˆequals the inverse of the elasticity multiplied by the bracketed term of (17). The bracketed term is the expected maximal logged price difference minus the difference in expected logged prices, both scaled by theta, and divided by trade data. This term is strictly less than one because Ψni does not equal the trade cost, as established in Lemma 1. If Ψni did equal the trade cost, then the bracketed term would equal one, and the expected value of the inverse of βˆ would be equal to the inverse of θ. This can be seen by examining the relation betweenΦs and aggregate prices Ps in (3), and by substituting expression (7) into (17). 
+Inverting (16) and then applying Jensen’s inequality establishes the main result: that EK’s estimator is biased above the true value of θ. 
+10 
+
+========12========
+
+Proposition 1 Consider an economy of N countries with a sample of L goods’ prices observed. The expected value of βˆ is 
+ 
+ 
+  
+  
+ 
+  log 
+Xni/Xn 
+n i Xii/Xi 
+ˆ 
+E β ≥ θ × 
+− 
+ (18) 
+n i(θΨni(L) 
+− (log Φi − log Φn)) 
+> θ. 
+The proposition establishes that the estimator βˆ provides estimates that exceed the true value of the elasticity θ. The weak inequality in (18) comes from applying Jensen’s inequal- ity to the strictly convex function of βˆ, 1/βˆ. The strict inequality follows from Lemma 1, which argued that the expected maximal logged price difference is strictly less than the true trade cost. Thus, the bracketed term in expression (18) is always greater than one and the elasticity of trade is always overestimated. 
+3.5. Consistency and Asymptotic Bias 
+While the estimatorβˆis biased in a ﬁnite sample, the asymptotic properties of EK’s estimator are worth understanding. Proposition 2 summarizes the result. The proof to Proposition 2 can be found in Appendix B.2. 
+Proposition 2 Consider an economy ofN countries. The maximal log price difference is a consistent estimator of the trade cost, 
+plim max (logpℓ=1,...,L 
+n(ℓ) 
+− logpi(ℓ)) = logτni. L→∞ 
+(19) 
+The estimator βˆ is a consistent estimator of θ, 
+plim βˆ(L;S,τ˜,X) = θ, L→∞ 
+(20) 
+and the asymptotic bias of βˆ is zero, 
+  
+lim E βˆ(L;S,τ˜,X) − θ = 0.L→∞ 
+(21) 
+There are three elements to Proposition 2, each building on the previous one. The ﬁrst statement says that the probability limit of the maximal log price difference equals the true trade cost between two countries. Intuitively, this says that as the sample size becomes large, the probability that the weak inequality in (10) does not bind becomes vanishingly small. 
+11 
+
+========13========
+
+The second statement says that the estimator βˆ converges in probability to the elasticity of trade—i.e., βˆ is a consistent estimator of θ. The reasons are the following. Because the maximal price difference converges in probability to the true trade cost, and the difference in averages of log prices converges in probability to the difference in price parameters, 1/βˆ converges in probability to 1/θ. Since 1/βˆ is a continuous function of βˆ (with β >ˆ 0), βˆ must converge in probability to θ because of the preservation of convergence for continuous functions (see Hayashi (2000)). 
+The third statement says that, in the limit, the bias is eliminated. This follows immediately from the argument that βˆ is a consistent estimator of θ (see Hayashi (2000)). 
+The results in Proposition 2 are important for two reasons. First, they suggest that with enough data, EK’s estimator provides informative estimates of the elasticity of trade. How- ever, as we will show in the next section, Monte Carlo exercises suggest that the data require- ments are extreme. Second, because EK’s estimator has desirable asymptotic properties, it underlies the simulation-based estimator that we develop in Section 5. 
+4. How Large is the Bias? How Much Data is Needed? 
+Proposition 1 shows EK’s estimator is biased in a ﬁnite sample. Many estimators have this property, which raises the question: How large is the bias? Furthermore, even if the mag- nitude of the bias is large, perhaps only moderate increases in the sample size are sufﬁcient to eliminate the bias (in practical terms). The natural question is then: How much data is needed to achieve that? 
+To answer these questions, we perform Monte Carlo experiments in which we simulate trade ﬂows and samples of micro-level prices under a known θ. Then, we apply EK’s esti- mator to the artiﬁcial data. We employ the same simulation procedure described in Steps 1-3 in Section 5.2 and we estimate all parameters (except for θ) using the trade data from EK. We set the true value of θ equal to 8.28, which is EK’s estimate when employing the approach described above. The sample size of prices is set to L = 50, which is the number of prices EK had access to in their data set. 
+Table 1 presents the ﬁndings. The columns of Table 1 present the mean and median es- timates of β over 100 simulations. The rows present two different estimation approaches: method of moments and least squares with suppressed constant. Also reported are the true average trade cost and the estimated average trade cost using maximal log price differences. 
+The ﬁrst row in Table 1 shows that the estimates using EK’s approach are larger than the 
+12 
+
+========14========
+
+Table 1: Monte Carlo Results, True θ = 8.28 
+Approach 
+Mean Estimate of θ (S.E.) Median Estimate of θ 
+EK’s Estimator 
+12.5 (0.06) 12.5 
+Least Squares 
+11.8 (0.06) 11.8 
+True Mean τ = 1.79 
+Estimated Mean τ = 1.48 
+Note: S.E. is the standard error of the mean. In each simulation there are 19 countries and 500,000 goods. Only 50 realized prices are randomly sampled and used to estimate θ. 100 simulations performed. 
+true θ of 8.28, which is consistent with Proposition 1. The key source of bias in Proposition 1 was that the estimates of the trade costs were biased downward, as Lemma 1 argued. The ﬁnal row in Table 1 illustrates that the estimated trade costs are below the true trade costs, where the latter correspond to an economy characterized by a true elasticity of trade among 19 OECD countries of 8.28. 
+The second row in Table 1 reports results using a least squares estimator with the constant suppressed rather than the method of moments estimator.5 Similar to the method of mo- ments estimates, the least squares estimates are substantially larger than the true value of θ. This is important because it suggests that the key problem with EK’s approach is not the method of moment estimator per se, but, instead, the poor approximation of the trade costs. 
+The ﬁnal point to note is that the magnitude of the bias is substantial. The underlying θ was set equal to 8.28, and the estimates in the simulation are between 11.8 and 12.5. Equation (8) can be used to formulate the welfare cost of the bias. It suggests that the welfare gains from trade will be underestimated by 50 percent as a result of the bias. 
+How much data is needed to eliminate the bias? Table 2 provides a quantitative answer. It performs the same Monte Carlo experiments described above, as the sample size of micro- level prices varies. 
+Table 2 shows that, as the sample size becomes larger, the estimate of θ becomes less biased and begins to approach the true value of θ. The ﬁnal column shows how the reduction in the bias coincides with the estimates of the trade costs becoming less biased. This is consistent with the arguments of Proposition 2, which describes the asymptotic properties 
+5Including a constant in least squares results in slope coefﬁcient that underestimate the true elasticity. This result is symptomatic of an “errors in variables” problem. 
+13 
+
+========15========
+
+Table 2: Increasing the Sample of Prices Reduces the Bias, True θ = 8.28 
+Sample Size of Prices 
+Mean θ (S.E.) Median θ 
+Mean τ 
+50 
+12.51 (0.06) 12.50 1.48 
+500 
+9.34 (0.02) 9.32 1.68 
+5,000 
+8.43 (0.01) 8.43 1.77 
+50,000 
+8.30 (0.002) 8.30 1.78 
+Note: S.E. is the standard error of the mean. In each simulation, there are 19 countries and 500,000 goods. The results reported use least squares with the constant suppressed. 100 simu- lations performed. True Mean τ = 1.79. 
+of this estimator. 
+We should note that the rate of convergence is extremely slow; even with a sample size of 5,000, the estimate of β is meaningfully larger than the value generating the data. Only when 50,000 prices are sampled does the estimate approach the true value. This exercise allows us to conclude that the data requirements to minimize the bias in estimates of the elasticity of trade (in practice) are extreme. This motivates our alternative estimation strategy in the next section. 
+5. A New Approach To Estimating θ 
+In this section, we develop a new approach to estimating θ and discuss its performance on simulated data. 
+5.1. The Idea 
+Our idea is to exploit the structure of the model in the following way. First, in Section 5.2, we show how to recover all parameters necessary to simulate the model up to the unknown scalar θ from trade data only. These parameters are the vector S and the scaled trade costs in matrix τ˜. Given these values, we can simulate moments from the model as functions of θ. 
+Second, Lemma 1 and Lemma 2 actually suggest which moments are informative. Inspec- tion of the integral (14) and the density fmax in (b.28) leads to the observation that the ex- pected maximal log price difference monotonically varies with θ and linearly with 1/θ. This follows because of the previous point—the vector S and scaled log trade costs τ˜ are pinned down by trade data, and these values completely determine all parameters in the integral 
+14 
+
+========16========
+
+(14), except the value 1/θ lying outside the integral. Similarly, the integral (15) is completely determined by these values and scaled in the same way by 1/θ as (14) is. 
+These observations have the following implication. While the maximum log price difference is biased below the true trade cost, if θ is large, then the value of the maximum log price difference will be small. Similarly, if θ is small, then the value of the maximum log price difference will be large. A large or small maximum log price difference will result in a small or large estimate of βˆ. This suggests that the estimator βˆ will vary monotonically with the true value of θ. Furthermore, this suggests that βˆ is an informative moment with regard to θ.6 
+14 
+β(θ) 
+13 
+  Moment Seen in Data 
+12 
+11 
+10 
+) 
+9 
+θ 
+ ( 
+β 
+8 
+7 
+  Estimate of  θ 
+6 
+5 
+4 
+33 
+4 
+5 
+6 
+7 
+8 
+θ 
+9 
+10 
+11 
+12 
+13 
+14 
+Figure 1: Schematic of Estimation Approach 
+Figure 1 quantitatively illustrates this intuition by plotting β(θ) from simulations as we varied θ. It is clear that β is a biased estimator because these values do not lie on the 45o line. However, β varies near linearly with θ. These observations suggest an estimation procedure that matches the data moment β to the moment β(θ) implied by the simulated model under a known θ.7 Because of the monotonicity implied by our arguments, the known θ must be the unique value that satisﬁes the moment condition speciﬁed. 
+6While we have not shown this formally, it can be shown that the 
+expected value of 1/βˆ is proportional to 1/θ. Modulo effects from Jensen’s inequality, this suggests that βˆ is proportional to θ. Figure 1 conﬁrms this. 
+7Another reason for using the moment 
+β is that it is a consistent estimator of θ, as argued in Proposition 2. 
+15 
+
+========17========
+
+5.2. Simulation Approach 
+We show how to recover all parameters of interest up to the unknown scalar θ from trade data only, and then we describe our simulation approach. This provides the foundations for the simulated method of moments estimator we propose. 
+Step 1.—We estimate parameters for the country-speciﬁc productivity distributions and trade costs from bilateral trade-ﬂow data. We perform this step by following EK and Waugh (2010b) and deriving the gravity equation from expression (4), by dividing the bilateral trade share by the importing country’s home trade share, 
+Xni/X n 
+log 
+Xnn/Xn 
+= Si − Sn − θlogτni, (22) where Si is deﬁned as logTiw−θi and is the same value in the parameter vector S in Deﬁ- nition 1. Note that this is a different equation than expression (5), which is derived by di- viding the bilateral trade share by the exporting country’s home trade share, and is used to estimate θ. Sis are recovered as the coefﬁcients on country-speciﬁc dummy variables given the restrictions on how trade costs can covary across countries. Following the arguments of Waugh (2010b), trade costs take the following functional form: 
+log(τni) = dk + bni + exi + νni. 
+(23) 
+Here, trade costs are a logarithmic function of distance, where dk with k = 1,2, ...,6 is the effect of distance between country i and n lying in the kth distance intervals.8 bni is the effect of a shared border in whichbni = 1, if country iandn share a border and zero otherwise. The termexi is an exporter ﬁxed effect and allows for the trade-cost level to vary depending upon the exporter. We assume that νni reﬂects other factors and is orthogonal to the regressors and normally distributed with mean zero and standard deviation σν. We use least squares to estimate equations (22) and (23). 
+Step 2.—The parameter estimates obtained from the ﬁrst-stage gravity regression are sufﬁ- cient to simulate trade ﬂows and micro-level prices up to a constant, θ. 
+The relationship is obvious in the estimation of trade barriers since log(τni) is scaled by θ in (22). To see that we can simulate micro-level prices as a function of θ only, notice that for any good j, pni(j) = τniwi/zi(j). Thus, rather than simulating productivities, it is sufﬁcient 
+8Intervals are in miles: 
+[0,375); [375,750); [750,1500); [1500,3000); [3000,6000); and [6000,maximum]. An alternative to specifying a trade-cost function is to recover scaled trade costs as a residual using equation (5), trade data, and measures of aggregate prices as in Waugh (2010a). 
+16 
+
+========18========
+
+to simulate the inverse of marginal costs of production ui(j) = zi(j)/wi. In Appendix B.3, we show that ui is distributed according to: 
+  
+Mi(ui) = exp −S˜iu−θi , with S˜i = exp(Si) = Tiw−θi . (24) 
+Thus, having obtained the coefﬁcients Si from the ﬁrst-stage gravity regression, we can sim- ulate the inverse of marginal costs and prices. 
+To simulate the model, we assume that there are a large number(150,000) of potentially trad- able goods. In Section 8.1, we discuss how we made this choice and the motivation behind it. For each country, the inverse marginal costs are drawn from the country-speciﬁc distri- bution (24) and assigned to each good. Then, for each importing country and each good, the low-cost supplier across countries is found, realized prices are recorded, and aggregate bilateral trade shares are computed. 
+Step 3.—From the realized prices, a subset of goods common to all countries is deﬁned and the subsample of prices is recorded – i.e., we are acting as if we were collecting prices for the international organization that collects the data. We added disturbances to the predicted trade shares with the disturbances drawn from a mean zero normal distribution with the standard deviation set equal to the standard deviation of the residuals from Step 1. 
+These steps then provide us with an artiﬁcial data set of micro-level prices and trade shares mimicking their analogs in the data. Given this artiﬁcial data set, we can then compute moments—as a function of θ—to compare to moments in the data. 
+5.3. Estimation 
+Below, we describe the moments we try to match and the formalities of our estimation pro- cedure. 
+5.3.1. Moments 
+In this section, we deﬁne the moments of interest. We perform two estimations: one overi- dentiﬁed procedure with two moments and an exactly identiﬁed procedure with one mo- ment. 
+Deﬁne βk as EK’s method of moment estimator deﬁned in (12) using the kth-order statistic 
+17 
+
+========19========
+
+over micro-level price differences. Then, the moments we are interested in are: 
+  
+  
+log 
+Xni/Xn 
+βk = − 
+n i Xii/Xi 
+ 
+  , k = 1,2 
+n i 
+log ˆτkni(L) + logPˆi − logPˆ 
+n 
+(25) 
+where τˆkni(L) is computed as the kth-order statistic over L micro-level price differences be- tween countries n and i. In the exactly identiﬁed estimation, we use β1 as the only moment. 
+We denote the simulated moments by β1(θ, us) and β2(θ, us), which come from the analo- gous formula as in (25) and are estimated from artiﬁcial data generated by following Steps 1-3 above. Note that these moments are a function of θ and depend upon a vector of ran- dom variables us associated with a particular simulation s. There are three components to this vector. First, there are the random productivity draws for production technologies for each good and each country. The second component is the set of goods sampled from all countries. The third component mimics the residuals νni from equation (22), which are described in Section 5.2. 
+Stacking our data moments and averaged simulation moments gives us the following zero function: 
+ 
+ 
+ 
+β1 − 
+1 
+S 
+S s=1 
+β1(θ, us) 
+y(θ) = 
+  
+ 
+.S 
+(26) 
+β2 − 
+1 
+S s=1 
+β2(θ, us) 
+5.3.2. Estimation Procedure 
+We base our estimation procedure on the moment condition: 
+E [y(θo)] = 0, 
+where θo is the true value of θ. Thus, our simulated method of moments estimator is 
+θˆ= arg min[y(θ)′ W y(θ)],θ 
+(27) 
+where W is a 2 × 2 weighting matrix that we discuss below. 
+The idea behind this moment condition is that, though β1 and β2 will be biased away from θ, the moments β1(θ, us) and β2(θ, us) will be biased by the same amount when evaluated at θo, in expectation. Viewed in this language, our moment condition is closely related to the estimation of bias functions discussed in MacKinnon and Smith (1998) and to indirect 
+18 
+
+========20========
+
+inference, as discussed in Smith (2008). The key issue in MacKinnon and Smith (1998) is how the bias function behaves. As we argued in Section 5.1, the bias is monotonic in the parameter of interest and Figure 1 shows that it is basically linear and, thus, is well behaved. 
+For the weighting matrix, we use the optimal weighting matrix suggested by Gouri´eroux and Monfort (1996) for simulated method of moments estimators. Because the weighting matrix depends upon our estimate of θ, we used a standard iterative procedure outlined in the next steps. 
+Step 4.—We make an initial guess of the weighting matrix W0 and solve for θˆ0. Then, given this value we simulate the model to generate a new estimate of the weighting matrix.9 With the new estimate of the weighting matrix we then solve for a new θˆ1. We perform this iterative procedure until our estimates of the weighting matrix andθˆconverge. We explicitly consider simulation error because we utilize the weightingmatrix suggested by Gouri´eroux and Monfort (1996). 
+Step 5.—We compute standard errors using a bootstrap technique. We compute residu- als implied by the estimator in (25) and the ﬁtted values, we resample the residuals with replacement, and we generate a new set of data using the ﬁtted values. Using the data constructed from each resampling b, we computed new estimates βb1 and βb2. 
+For each bootstrap b, we replace the moments β1 and β2 with bootstrap-generated moments βb1 and βb2. To account for simulation error, a new seed is set to generate a new set of model- generated moments. Deﬁning yb(θ) as the difference in moments for each b, as in (26), we solve for: 
+θˆb = arg minyb(θ)′ W yb(θ).θ 
+(28) 
+We repeat this exercise 100 times and compute the estimated standard error of our estimate of θˆas: 
+ 
+S.E.(θˆ) = 
+1 
+ 
+ 1 
+100 2 100 
+(θˆb − θˆ)(θˆb − θˆ)′ . 
+b=1 
+(29) 
+This procedure for constructing standard errors is similar in spirit to the approach of Eaton, Kortum, and Kramarz (2011), who use a simulated method of moments estimator to esti- mate the parameters of a similar trade model from the performance of French exporters. 
+9The computation of this matrix is described in Gouri´eroux and Monfort (1996). 
+19 
+
+========21========
+
+5.4. Performance on Simulated Data 
+In this section, we evaluate the performance of our estimation approach using simulated data when we know the true value of θ. 
+Table 3 presents the results from the following exercise. We generate an artiﬁcial data set of trade ﬂows and disaggregate prices with true value of θ equal to 8.28 and 4.00, and then we apply our estimation routine.10 We repeat this procedure 100 times. Table 3 reports average estimates. The sequence of artiﬁcial data is the same for both the overidentiﬁed case and exactly identiﬁed case to facilitate comparisons across estimators. 
+The ﬁrst row presents the average value of our simulated method of moments estimate, which is 8.29 with a standard error of 0.03. For all practical purposes, the estimation routine recovers the true value of θ generating the data. To emphasize our estimator’s performance, the next two rows of Table 3 present the approach of EK (which also corresponds to the moments used). Though not surprising given the discussion above, this approach generates estimates of θ that are signiﬁcantly (in both their statistical and economic meaning) higher than the true value of θ of 8.28. 
+Table 3: Estimation Results With Artiﬁcial Data 
+Estimation Approach 
+True θ = 8.28 True θ = 4.00 
+Overidentiﬁed 
+Mean Estimate of θ (S.E.) Mean Estimate of θ (S.E.) 
+SMM 
+8.29 (0.03) 3.99 (0.02) 
+Moment, β1 
+12.47 (0.05) 6.03 (0.03) 
+Moment, β2 
+15.20 (0.05) 7.34 (0.03) 
+Exactly Identiﬁed 
+SMM 
+8.24 (0.04) 3.98 (0.02) 
+Moment, β1 
+12.47 (0.05) 6.03 (0.03) 
+Note: In each simulation there are 19 countries, 150,000 goods and 100 simulations performed. The sequence of artiﬁcial data is the same for both the overidentiﬁed case and exactly identiﬁed case. 
+The ﬁnal two rows present the exactly identiﬁed case when we use only one moment to estimate θ. In this case, we use β1. Similar to the overidentiﬁed case, the average value of our simulated method of moments estimate is 8.24 with a standard error of 0.04. Again, this is effectively the true value of θ. 
+10To generate the artiﬁcial data set, we employ the same simulation procedure described in Steps 1-3 in Section 5.2 using the trade data from EK. 
+20 
+
+========22========
+
+Table 4: Comparison to Alternative Statistical Approaches to Bias Reduction 
+True θ = 8.28 True θ = 4.00 
+Estimation Approach 
+Mean Estimate of θ (S.E.) Mean Estimate of θ (S.E.) 
+SMM 
+8.29 (0.03) 3.99 (0.02) 
+Robson and Whitlock (1964) 
+10.54 (0.07) 5.11 (0.03) 
+Moment, β1 
+12.47 (0.05) 6.03 (0.03) 
+Note: In each simulation there are 19 countries, 150,000 goods and 100 simulations performed. The se- quence of artiﬁcial data is the same for all cases. 
+The second column reports the results when the true value of θ is set equal to 4.00. The esti- mates using our estimator are 3.99 and 3.98 in the overidentiﬁed and the exactly identiﬁed case, respectively. Similar to the previous results, these values are effectively the true value of θ. Furthermore, the alternative approaches that correspond to the moments we used in our estimation are biased away from the true value of θ. 
+We also compare our estimation approach to an alternative statistical approach to bias re- duction, which does not depend on the model’s explicit distributional assumptions. Robson and Whitlock (1964) propose a way to reduce the bias when estimating the truncation point of a distribution. This problem is analogous to estimating the trade cost from price differ- ences. This can be seen by inspecting the integral in (14) of Lemma1. Robson and Whitlock’s (1964) approach would suggest (in our notation) an estimator of the trade cost of 2ˆτ1ni − τˆ2ni, or two times the ﬁrst-order statistic minus the second-order statistic. This makes intuitive sense because it increases the ﬁrst-order statistic by the difference between the ﬁrst- and second-order statistic. They show that this estimator is as efﬁcient as the ﬁrst-order statistic but with less bias.11 
+We follow their approach to approximate the trade friction and then use it as an input into the simple method of moments estimator. We compare the results from this estimation pro- cedure to the results obtained using our SMM estimator. Table 4 presents the results. The second row reports the results when using Robson and Whitlock’s (1964) approach to re- duce the bias in the estimator of the trade friction. This approach reduces the bias relative to using the ﬁrst-order statistic (EK’s approach) reported in the third row. It is not, however, a complete solution, as the estimates are still meaningfullyhigher than both the true value of θ and the estimates from our estimation approach. This suggests that exploiting the structure 
+11Robson and Whitlock (1964) provide more-general reﬁnements using inner-order statistics, but methods using inner-order statistics will have very low efﬁciency. Cooke (1979) provides an alternative bias reduction technique but only considers cases in which the sample size (L in our notation) is large. 
+21 
+
+========23========
+
+of the model has content because it outperforms a naive statistical procedure. 
+Overall, we view these results as evidence supporting our estimation approach and empir- ical estimates of θ presented in Section 6 below. 
+6. Empirical Results 
+In this section, we apply our estimation strategy described in section 5 to several different data sets. The key ﬁnding of this section is that our estimation approach yields an estimate around four, in contrast to previous estimation strategies, which yield estimates around eight. 
+6.1. Baseline Results Using New ICP 2005 Data 
+6.1.1. New ICP 2005 Data 
+Our sample contains 123 countries. We use trade ﬂows and production data for the year 2004 to construct trade shares. The price data used to compute aggregate price indices and proxies for trade costs come from basic-heading-level data from the 2005 round of the Inter- national Comparison Programme (ICP). The ICP collects price data on goods with identical characteristics across retail locations in the participating countries during the 2003-2005 pe- riod.12 The basic-heading level represents a narrowly-deﬁned group of goods for which expenditure data are available. The data set contains a total of 129 basic headings, and we reduce the sample to 62 categories based on their correspondence with the trade data em- ployed. Appendix A.2 provides more details. 
+On its own, this data set provides two contributions to the existing literature. First, because this is the latest round of the ICP, the measurement issues are less severe than in previous rounds. Furthermore, this data set provides very extensive coverage, as it includes as many as 123 developing and developed countries that account for 98 percent of world output. 
+The ICP provides a common list of “representative” goods whose prices are to be randomly sampled in each country over a certain period of time. A good is representative of a coun- try if it comprises a signiﬁcant share of a typical consumer’s bundle there. Thus, the ICP samples the prices of a common basket of goods across countries, where the goods have been pre-selected due to their highly informative content for the purpose of international comparisons. 
+12The ICP Methodological Handbook is available at http://go.worldbank.org/MW520NNFK0. 
+22 
+
+========24========
+
+EK’s model gives a natural common basket of goods to be priced across countries. In this model, the agents in all countries consume all goods that lie within a ﬁxed interval, [0,1]. Thus, we consider this common list in the simulated model andrandomly sample the prices of its goods across countries, in order to approximate trade barriers, much like it is done in 
+the ICP data. 
+6.1.2. Results—New ICP 2005 Data 
+Table 5 presents the results.13 The ﬁrst row simply reports the moments that our estimation procedure targets. As discussed, these values correspond with EK’s estimate of θ. 
+Table 5: Estimation Results With 2005 ICP Data 
+Estimate of θ (S.E.) 
+Data Moments 
+Exactly Identiﬁed Case 
+Overidentiﬁed Case 
+β1 
+β2 
+— 7.75 9.61 
+4.12 (0.02) 7.75 — 
+4.06 (0.01) 7.65 9.62 
+The second row reports the results for exactly identiﬁed estimation, where the underlying moment used is β1. In this instance, our estimate of θ is 4.12, roughly half of EK’s estimate 
+of θ. 
+The third row reports the results for the overidentiﬁed estimation. The estimate ofθ is 4.06— almost the same as in our exactly identiﬁed estimation and, again, roughly half of EK’s estimate. The second and third columns report the resulting moments from the estimation routine, which are close to the data moments targeted, giventhat only one parameter is used 
+to match two moments. 
+6.2. Estimates Using EK’s Data 
+In this section, we apply our estimation strategy to the same data used in EK as another check of our estimation procedure. Their data set consists of bilateral trade data for 19 OECD countries in 1990 and 50 prices of manufactured goods for all countries. The prices come from an earlier round of the ICP, which considered only OECD countries. Similar 
+13The results from the Step 1 gravity regressions are presented in Table 
+9 and Table 12. 
+23 
+
+========25========
+
+to our data, the price data are at the basic-heading level and are for goods with identical characteristics across retail locations in the participating countries. 
+6.2.1. Results—EK’s Data 
+Table 6 presents the results.14 The ﬁrst row simply reports the moments that our estimation procedure targets. The entry in the third column corresponds with β2, which is EK’s baseline estimate of θ. 
+Table 6: Estimation Results With EK’s Data 
+Estimate of θ (S.E.) 
+β1 
+β2 
+Data Moments 
+— 5.93 8.28 
+Exactly Identiﬁed Case 
+3.93 (0.09) 5.93 — 
+Overidentiﬁed Case 
+4.42 (0.06) 6.64 8.10 
+The second row reports the results for exactly identiﬁed estimation, where the underlying moment used is β1. In this instance, our estimate of θ is 3.93, which is, again, roughly half of EK’s estimate of θ. The standard error of our estimate is fairly tight. 
+The third row reports the results for the overidentiﬁed estimation. Here, our estimate of θ is 4.42. Again, this is substantially below EK’s estimate. Unlike our results in Table 5 with newer data, the overidentiﬁed case seems to be giving a different value than the exactly identiﬁed case gives. This contrasts with the Monte Carlo evidence, which suggests that the estimation procedure should not deliver very different estimates. Furthermore, compar- ing the data moments in the top row versus the implied moments in the second and third columns of the third row suggests that the estimation routine is facing challenges ﬁtting the observed moments. We view this as pointing towards a problemwith measurement error in the data, as EK suggested. 
+6.3. Discussion 
+Our estimation results compare favorably with alternative estimates of θ that do not use the max over price data to approximate trade costs. For example,estimates of θ using ﬁrm-level 
+14The results from the Step 1 gravity regressions are presented in Table 
+10 and Table 12. 
+24 
+
+========26========
+
+data, as in Bernard, Eaton, Jensen, and Kortum (2003) and Eaton, Kortum, and Kramarz (2011), are in the range of 3.6 to 4.8—exactly in the range of values we ﬁnd. EK provide an alternative estimate of θ using wage data and ﬁnd a value of 3.6. Burstein and Vogel (2009) estimate θ matching moments regarding the skill intensity of trade and ﬁnd a value of ﬁve. Simonovska (2010) uses a non-homothetic model of trade featuring variable mark-ups and calibrates θ to a level of 3.8, which allows her model to match average mark-ups in OECD countries. 
+Donaldson (2009) estimates θ as well, and his approach is illuminating relative to the issues we have raised. His strategy for approximating trade costs is to study differences in the price of salt across locations in India. In principle, his approach is subject to our critique, as well—i.e., how could price differences in one good be informative about trade frictions? However, he argues convincingly that in India, salt was produced in only a few locations and exported everywhere. Thus, by examining salt, Donaldson (2009) ﬁnds a “binding” good. Using this approach, he ﬁnds estimates in the range of 3.8-5.2, again consistent with the range of our estimates of θ. 
+Finally, it should be noted that the elasticity of trade, θ, is closely related to the elasticity of substitution between foreign and domestic goods, the Armington elasticity, which deter- mines the behavior between trade ﬂows and relative prices across a large class of models. Ruhl (2008) presents a comprehensive discussion of the puzzle regarding this elasticity. In particular, he argues that international real business-cycle models need low elasticities, in the range of one to two, to match the quarterly ﬂuctuations in trade balances and the terms of trade, but static applied general-equilibrium models need high elasticities, between ten and 15, to account for the growth in trade following trade liberalization. Recently, Imbs and Mejean (2010) estimate import and export price elasticities for 28 countries within a range of three to ﬁve. Moreover, using very disaggregate data, Feenstra, Obstfeld, and Russ (2010), Romalis (2007), Broda and Weinstein (2006), and Hummels (2001) provide estimates for the Armington elasticity parameter across a large number of industries. Feenstra, Obstfeld, and Russ’s (2010) median estimate is 4.4; Romalis’s (2007) estimates range between four and 13, Hummels’s (2001) estimates range between three and eight; while the most comprehensive work of Broda and Weinstein (2006), who provide tens of thousands of elasticities using ten-digit HS US data, results in a median value of 3.10. 
+Given our estimates of θ, it is straightforward to back out the Armington elasticity ρ within the context of the model of Anderson and van Wincoop (2004), where ρ = θ + 1. Using our estimates of the elasticity of trade, the implied Armington elasticity ranges between 4.93 and 5.42. This utility parameter also appears in the heterogeneous ﬁrm framework of Melitz (2003) parameterized by Chaney (2008). Together with the elasticity of trade, θ, the utility 
+25 
+
+========27========
+
+parameter governs the distribution of ﬁrm sales arising from the model, which has Pareto tails with a slope given by θ/(ρ − 1). Luttmer (2007) discusses ﬁrm-level evidence that this slope takes on the value of 1.65, which given our estimates of θ, provides the range of 3.38- 3.68 for ρ. Hence, the Armington elasticity implied by our estimates ranges between 3.38 and 5.42, which falls within the low end of the ranges of estimates of existing studies. Thus, our results close the gap between (implied) estimates of the elasticity of trade stemming from a rich demand structure and the ones obtained from the general-equilibrium structure of a Ricardian model of trade. 
+7. Why Estimates of θ Matter: The Welfare Gains From Trade 
+The elasticity parameter θ is key in measuring the welfare gains from trade across a large class of models. In section 2.1, we argued that θ−1 represents the elasticity of welfare with respect to trade. Recall expression (6), reproduced below for convenience: 
+ 
+log(Pn) = −1θ log 
+X 
+nn 
+Xn 
+Consider a trade liberalization episode that results in a one-percent fall in domestic expendi- ture share, generating (1/θ)/100 percent increase in consumer welfare. Using the estimates for θ obtained from the original procedure and the improved simulated method of moments procedure, roughly eight and four, respectively, the welfare gains from trade would be mis- measured by a hundred percent. Namely, an estimate for θ of eight would generate a 0.125- percent welfare increase for a percent fall in the domestic share, while an estimate of four suggests a 0.25-percent welfare gain from trade, twice as high as the original calculation. These differences illustrate the importance of obtaining better estimates of trade elasticity. 
+8. Robustness 
+8.1. The Number of Goods 
+The estimation routine requires us to take a stand on the number of goods in the economy. We argue that the appropriate way to view this issue is to ask: how many goods are needed to numerically approximate the inﬁnite number of goods in the model? Thus, the number of goods chosen should be judged on the accuracy of the approximation relative to the com- putational cost. The choice of the number of goods should notbe judged on the basis of how many goods actually exist in the “real world” because this value is impossible to know or 
+26 
+
+========28========
+
+discipline. 
+To understand our argument, recall that our estimation routine is based on a moment con- dition that compares a biased estimate from the data with a biased estimate using artiﬁcial data. In Section 3.4, we argued that the bias depends largely on the expected value of the max over a ﬁnite sample of price differences—i.e., the integral of the left-hand side of equa- tion (14). Thus, when we compute the biased estimate using artiﬁcialdata, we are effectively computing this integral via simulation.15 This suggests that the number of goods should be chosen in a way that delivers an accurate approximation of the integral. Furthermore, a way to judge if the number of goods selected delivers an appropriate approximation is to increase the number of goods until the estimate of θ does not change too much. 
+Table 7 shows the results of this analysis. It shows how our estimate of θ varies as the number of goods in the economy changes, using the EK data and 2005 ICP data. For the EK data, notice that our estimates are relatively similar across all the different numbers of goods employed, ranging from 4.14 to 3.93. Moreover, the estimates are effectively the same after the number of goods is above 100,000, suggesting that this is a reasonable starting point. 
+Table 7: Results with Different # of Goods 
+Number of Goods 
+EK’s Data, Exactly Identiﬁed Case, θˆ 
+Fraction of Wrong Zeros 
+Fraction of Correct Zeros 
+5,000 25,000 100,000 150,000∗ 
+4.14 3.99 3.93 3.93 
+0.10 0.03 0.005 0.003 
+— — — — 
+2004 ICP Data, Exactly Identiﬁed Case, θˆ 
+Fraction of Wrong Zeros 
+Fraction of Correct Zeros 
+5.54 4.67 4.22 4.12 
+0.46 0.31 0.21 0.18 
+0.85 0.72 0.55 0.50 
+The results with the 2005 ICP data vary more depending upon the number of goods used. While the change from 4.22 to 4.12 when going from 100,000 to 150,000 goods is numerically large, computational costs force our hand to settle on 150,000 as the number of goods in the 
+economy.16 
+15An alternative estimation strategy would be to use different numerical methods to compute the integrals (14) and then to adjust the EK estimator given this value. 
+16The reason is that 150,000 goods is near the maximum number of 
+goods feasible while still being able to execute the simulation routine in parallel on a multi-core machine, which allows a speed-up of just under a 
+factor of eight. 
+27 
+
+========29========
+
+Table 7 also reports a side effect of using a low number of goods—zero trade ﬂows between countries predicted by the model in places where we observe positive trade ﬂows in the data. Table 7 reports the fraction of zeros that the model produces in instances where there are positive trade ﬂows observed in the data. With only 5,000 goods, using the 2005 ICP data set, in almost half of the instances where trade ﬂows are observed in the data, the model generates a zero. While not as severe, ten percent of positive trade ﬂows are assigned zeros with the EK data. Results of this nature suggest increasing the number of goods to minimize the number of wrong zeros, as well. 
+8.2. Country-Speciﬁc Effects 
+The price data used in our estimation were collected at the retail level. As such, they nec- essarily reﬂect local (distribution) costs, sales taxes and mark-ups. These market frictions do not affect our estimates of the elasticity parameter, for as long as they are country- but not good-speciﬁc. The basic way to see this is to note that any country-speciﬁc effects will cancel out in the denominator of (13). This is another reason for using β as a moment in our estimation routine rather than some other moment. 
+8.3. Measurement Error 
+Measurement error in price data is a general concern in empirical work. In our estimation, error of this nature may artiﬁcially generatelargermaximal price differences than implied by the underlying model. This would result in estimates of θ that are biased downwards. An advantage of our estimation approach is that one can potentially address this issue directly. For example, one can take a stand on the form of measurement error, introduce the simu- lated measurement error into the artiﬁcial data set, and potentially estimate it jointly with the trade elasticity. While we feel a formal treatment of this issue is beyond the scope of this paper, we did perform some Monte Carlo experiments with additive log-normal measure- ment error. We found that the magnitude of measurement error needed to affect our results was extreme. 
+8.4. Variable Mark-ups 
+The price data used in our estimation likely reﬂect retail mark-ups, which are not only country-, but also retailer-speciﬁc. In order to check whether such variable mark-ups af- fect our results, we make use of a richer price data set. In particular, we obtain price data from the EIU Worldwide Cost of Living Survey, which spans 77 of the original 123 countries 
+28 
+
+========30========
+
+we consider. More importantly, the data are comprised of 111 tradable goods per country, and the price of each product is recorded once in a supermarket and once in a mid-price store. We repeat our exercise by ﬁrst using the prices of items collected in mid-price stores, which appear to be cheaper on average, and then the prices found in supermarkets or chain stores. We postpone the results until section 8.5.1, since the level of detail in the EIU data allows us to also address aggregation bias, described there. 
+8.5. Aggregation 
+8.5.1. Data Approach 
+The basic-heading price data employed in our analysis are disaggregated; but, they are not at the individual-good level. For example, a price observation titled “rice” contains the average price across different types of rice sampled, such as basmati rice, wild rice, whole- grain rice, etc. Suppose that basmati rice is the binding good for a pair of countries. In the ICP data, we compute the difference between the average price of rice between the two countries, which is smaller than the price difference of basmati rice, if the remaining types of rice are more equally priced across the two countries. In this case, trade barriers are underestimated and, consequently, the elasticity of trade is biased upwards.17 
+In order to alleviate the aggregation problem, Table 8 presents estimates of the elasticity parameter using EIU’s good-level price data set, which spans a subset of 77 countries from our original data set, but provides prices for 111 individual tradable goods in two types of retail stores.18 
+The results in Table8 suggest that aggregation causes a downward bias on trade-barrier esti- mates, resulting in trade-elasticity estimates that are biased upwards. Indeed, when we use the highly disaggregate EIU dataset, the elasticity of trade falls to 2.47-2.60. However, retail mark-ups do not seem to bias the estimates, since the elasticity of trade is not dramatically different whether high- or low-end store prices are used. 
+8.5.2. Model Approach 
+A more structural way to address aggregation bias is to view price data through the lenses of a monopolistic competition framework (ex. Melitz (2003) and Chaney (2008)). In these 
+17Our aggregation argument is different from the argument by Imbs and Mejean (2009), who demonstrate that imposing equal elasticities across disaggregated sectors of the economy results in lower elasticity of sub- stitution estimates than ones obtained by allowing for heterogeneity. 
+18The results from the Step 1 gravity regressions are presented in Table 
+11 and Table 12. 
+29 
+
+========31========
+
+Table 8: Estimation Results With EIU Data 
+Estimate of θ (S.E.) 
+Cheap Stores 
+Data Moments 
+Exactly Identiﬁed Case 
+Overidentiﬁed Case 
+Expensive Stores 
+Data Moments 
+Exactly Identiﬁed Case 
+Overidentiﬁed Case 
+β1 
+β2 
+— 4.17 5.11 
+2.47 (0.02) 4.17 — 
+2.48 (0.02) 4.19 5.09 
+— 4.39 5.23 
+2.60 (0.02) 4.39 — 
+2.54 (0.02) 4.29 5.21 
+models, varieties produced by ﬁrms with identical productivity draws from different source countries can be thought of as varieties of a good produced with a particular productivity level. Then, a basic-heading price would represent the average price of all varieties pro- duced by ﬁrms with a particular productivity draw originating from different source coun- tries. Simonovska and Waugh (2011) explore the implications of the monopolistic competi- tion micro-structure for estimates of the elasticity of trade. 
+9. Conclusion 
+In this paper, we estimate the elasticity of trade using a simulated method of moments esti- mator that exploits micro-price data. Our estimates of the elasticity of trade for 123 countries that comprise most of world output range from 2.47 to 4.42. These results imply a doubling in the measured welfare gains from trade, relative to existing estimates obtained following 
+the approach of EK. 
+The analysis in our paper has broader implications than merely arriving at unbiased es- timates of the elasticity of trade. Results from Arkolakis, Costinot, and Rodriguez-Clare (2011) suggest that heterogeneous ﬁrm and production models provide no value added for aggregate outcomes over models that abstract from heterogeneity. Our methodological ap- 
+proach suggests otherwise. 
+In this paper, we exploit the micro-level structure of EK’s model to provide an estimate of the elasticity of trade, which is the key parameter to measuring the welfare gains from trade. 
+30 
+
+========32========
+
+The important insight is that our approach to estimating this key parameter would not have been possible in models without heterogeneous outcomes. Thus, while the EK, Melitz (2003) and Chaney (2008) models may provide no new additional gains from trade, their structure allows us to provide a better estimate of the elasticity of trade than a simple Armington model would have allowed. The ability to use both measurement and theory in ways that alternative models would not allow is an important component of the value added that new heterogeneous ﬁrm and production models of international trade provide. 
+References 
+ALVAREZ, F., AND R. J. LUCAS (2007): “General Equilibrium Analysis of the Eaton-Kortum 
+Model of International Trade,” Journal of Monetary Economics, 54(6), 1726–1768. 
+ANDERSON, J., AND E. VAN WINCOOP (2003): “Gravity with Gravitas: A Solution to the 
+Border Puzzle,” American Economic Review, 93, 170–192. 
+(2004): “Trade Costs,” Journal of Economic Literature, 42(3), 691–751. 
+ARKOLAKIS, C., A. COSTINOT, AND A. RODRIGUEZ-CLARE (2011): “New Trade Models, 
+Same Old Gains?,” American Economic Review (forthcoming). 
+BERNARD, A., J. EATON, J. B. JENSEN, AND S. KORTUM (2003): “Plants and Productivity in 
+International Trade,” American Economic Review, 93(4), 1268–1290. 
+BRODA, C., AND D. WEINSTEIN (2006): “Globalization and the Gains from Variety,” Quar- 
+terly Journal of Economics, 121(2). 
+BURSTEIN, A., AND J. VOGEL (2009): “Globalization, Technology, and the Skill Premium,” 
+Discussion paper. 
+CHANEY, T. (2008): “Distorted Gravity: The Intensive and Extensive Margins of Interna- 
+tional Trade,” American Economic Review, 98(4), 1707–1721. 
+COOKE, P. (1979): “Statistical inference for bounds of random variables,” Biometrika, 66(2), 
+367. 
+DAVIDSON, R., AND J. MACKINNON (2004): Econometric Theory and Methods. New York: 
+Oxford University Press. 
+DONALDSON, D. (2009): “Railroads of the Raj: Estimating the Economic Impact of Trans- 
+portation Infrastructure,” unpublished paper, MIT. 
+31 
+
+========33========
+
+EATON, J., AND S. KORTUM (2002): “Technology, Geography, and Trade,” Econometrica, 
+70(5), 1741–1779. 
+EATON, J., S. KORTUM, AND F. KRAMARZ (2011): “An Anatomy of International Trade: 
+Evidence from French Firms,” Econometrica (forthcoming). 
+FEENSTRA, R. (1994): “New product varieties and the measurement of international prices,” 
+The American Economic Review, 84(1), 157–177. 
+FEENSTRA, R. C., M. OBSTFELD, AND K. N. RUSS (2010): “In Search of the Armington 
+Elasticity,” University of California - Davis, unpublished mimeo. 
+GOURIEROUX´ , C., AND A. MONFORT (1996): Simulation-based econometric methods, CORE 
+lectures. Oxford University Press. 
+HAYASHI, F. (2000): Econometrics. Princeton. 
+HUMMELS, D. (2001): “Toward a Geography of Trade Costs,” Purdue University, unpublished 
+mimeo. 
+IMBS, J., AND I. MEJEAN (2009): “Elasticity Optimism,” HEC Lausanne, unpublished mimeo. 
+(2010): “Trade Elasticities,” Paris School of Economics, unpublished mimeo. 
+KRUGMAN, P. (1980): “Scale Economies, Product Differentiation, and the Pattern of Trade,” 
+American Economic Review, 70(5), 950–959. 
+LUTTMER, E. G. J. (2007): “Selection, Growth, and the Size Distribution of Firms,” The Quar- 
+terly Journal of Economics, 122 (3)(3), 1103–1144. 
+MACKINNON, J. G., AND A. A. SMITH (1998): “Approximate bias correction in economet- 
+rics,” Journal of Econometrics, 85(2), 205–230. 
+MELITZ, M. J. (2003): “The Impact of Trade on Intra-Industry Reallocations and Aggregate 
+Industry Productivity,” Econometrica, 71(6), 1695–1725. 
+MUENDLER, M.-A. (2009): “Converter from SITC to ISIC,” University of California - San 
+Diego, unpublished mimeo. 
+ROBSON, D., AND J. WHITLOCK (1964): “Estimation of a truncation point,” Biometrika, 51(1- 
+2), 33. 
+ROMALIS, J. (2007): “NAFTA’s and CUSFTA’s Impact on International Trade,” Review of 
+Economics and Statistics, 89(3), 416–35. 
+32 
+
+========34========
+
+RUHL, K. (2008): “The International Elasticity Puzzle,” unpublished paper, NYU. 
+SIMONOVSKA, I. (2010): “Income Differences and Prices of Tradables,” Working Paper 
+16233, National Bureau of Economic Research. 
+SIMONOVSKA, I., AND M. WAUGH (2011): “The Elasticity of Trade: Estimates and Evidence 
+II,” mimeo. 
+SMITH, A. (2008): “Indirect inference,” The New Palgrave Dictionary of Economics, 2nd Edition 
+(forthcoming). 
+WAUGH, M. (2010a): “Bilateral Trade, Relative Prices, and Trade Costs,” unpublished paper, 
+NYU. 
+WAUGH, M. E. (2010b): “International Trade and Income Differences,” American Economic 
+Review, 100(5), 2093–2124. 
+YI, K.-M. (2003): “Can Vertical Specialization Explain the Growth of World Trade?,” Journal 
+of Political Economy, 111(1), 52–102. 
+A. Data Appendix 
+A.1. Trade Shares 
+To construct trade shares, we used bilateral trade ﬂows and production data as follows: 
+Xni Xn 
+= 
+Importsni 
+Gross Mfg. Productionn − Exportsn + Imports 
+, 
+n 
+Xnn Xn 
+= 1 − 
+N 
+Xni. k=n  
+Xn 
+Putting the numerator and denominator together is simply computing an expenditure share by dividing the value of goods countrynimported from country iby the total value of goods in country n. The home trade share 
+Xnn 
+X 
+is simply constructed as the residual from one minus 
+n 
+the sum of all bilateral expenditure shares. 
+To construct 
+Xni 
+X 
+, the numerator is the aggregate value of manufactured goodsthat country n 
+n 
+imports from country i. Bilateral trade-ﬂow data are from UN Comtrade for the year 2004.19 We obtain all bilateral trade ﬂows for our sample of 123 countries at the four-digit SITC 
+19We use data for the year 1990 in section 
+6.2, which estimates the elasticity of trade using EK’s price data. 
+33 
+
+========35========
+
+level. We then used concordance tables between four-digit SITC and three-digit ISIC codes provided by the UN and further modiﬁed by Muendler (2009).20 We restrict our analysis to manufacturing bilateral trade ﬂows only—namely, those that correspond with manufactur- ing as deﬁned in ISIC Rev.#2. 
+The denominator is gross manufacturing production minus manufactured exports (for only the sample) plus manufactured imports (for only the sample). Gross manufacturing pro- duction data are the most serious data constraint we faced. We obtain manufacturing pro- duction data for 2004 from UNIDO for a large sub-sample of countries. We then imputed gross manufacturing production for countries for which data are unavailable as follows: We ﬁrst obtain 2004 data on manufacturing (MVA) and agriculture (AVA) value added, as well as population size (L) and GDP for all countries in the sample. We then impute the gross output (GO) to manufacturing value added ratio for the missing countries using coefﬁcients resulting from the following regression: 
+log 
+MV A 
+GO 
+= β0 + βGDPCGDP + βLCL + βMV ACMV A + βAV ACAV A + ǫ, 
+where βx is a 1x3 vector of coefﬁcients corresponding to Cx, an Nx3 matrix which contains [log(x),(log(x))2,(log(x))3] for the sub-sample of N countries for which gross output data are available. 
+A.2. Prices 
+The ICP price data we employ in our estimation procedure is reported at the basic-heading level. A basic heading represents a narrowly-deﬁned group of goods for which expenditure data are available. For example, basic heading “1101111 Rice” is made up of prices of dif- ferent types of rice, and the resulting value is an aggregate over these different types of rice. This implies that a typical price observation of ”Rice” contains different types of rice, as well as different packaging options that affect the unit price of rice within and across countries. 
+According to the ICP Handbook, the price of the basic heading ”Rice” is constructed using a transitive Jevons index of prices of different varieties of rice. To illustrate this point, sup- pose that the world economy consists of three countries, A, B, C and ten types of rice, 1-10. Further suppose that consumers in country A have access to all 10 types of rice; those in country B only have access to types 1-5 of rice; and those in country C have access to types 
+20The trade data often report bilateral trade ﬂows from two sources. For example, the exports of country A to country B can appear in the UN Comtrade data as exports reported by country A or as imports reported by country B. In this case, we take the report of bilateral trade ﬂows between countries A and B that yields a higher total volume of trade across the sum of all SITC four-digit categories. 
+34 
+
+========36========
+
+4-6 of rice. Although all types of rice are not found in all three countries, it is sufﬁcient that each pair of countries shares at least one type of rice. 
+The ICP obtains unit prices for all available types of rice in all three countries and records a price of 0 if the type of rice is not available in a particular country. The relative price of rice between countries A and B, based on goods available in these two countries, pA,BAB , is a geometric average of the relative prices of rice of types 1-5 
+  1 
+ 
+5 
+pA,BAB = 
+pA(j) 
+5 
+pB(j) 
+. 
+j=1 
+Similarly, one can compute the relative price of rice between countries A and C (B and C) based on varieties available in both A and C (B and C). The price of the basic heading ”Rice” reported by the ICP is: 
+ 
+A,C pAB = pA,BAB pA,BpACAB 
+pB,CBC 
+ 1 
+3 
+, 
+which is a geometric average that features not only relative prices of rice between countries A and B, but also cross-prices between A and B linked via country C. This procedure en- sures that prices of basic headings are transitive across countries and minimizes the impact of missing prices across countries. 
+Thus, a basic-heading price is a geometric average of prices of varieties that is directly com- parable across countries. 
+B. Proofs 
+Below, we describe the steps to proving Lemmata 1 and 2. The key part in Lemma 1 is deriving the distribution of the maximal log price difference. We then prove Propositions 1 and 2. 
+B.1. Proof of Lemma 1, Lemma 2, and Proposition 1 
+First, we derive the distribution of the maximal log price difference. The key insight is to work with direct comparisons of goods’ prices (i.e., do not impose equilibrium and work from the equilibrium price distribution) and to compute the distribution of log price differ- 
+35 
+
+========37========
+
+ences and then the distribution of the maximal log price difference. 
+Having obtained the distribution of the maximum log price difference, we show that the expected value of the maximum log price difference is biased in a ﬁnite sample and the estimator βˆ is biased. 
+B.1.1. Preliminaries 
+In deriving the distribution of maximum log price differences, we will work with a rela- beling of the production functions and exponential distributions following an argument in Alvarez and Lucas (2007). They relate the pdfs of the exponential and Fr`echet distributions. 
+1 
+The claim is that if zi ∼ exp(Ti), then yi ≡ z− 
+θ 
+i 
+∼ exp(−Tiy−θi ). To see this, notice that since yi = h(zi) is a decreasing function, it must be that f(zi)dzi = −g(yi)dyi, where f, g are the pdf’s of zi, yi, respectively. The result will allow us to characterize moments of the log price difference by invoking properties of the exponential distribution. 
+B.1.2. Proof of Lemma 1 
+The proof of Lemma 1 follows. 
+1 1 
+Let z− 
+θ 
+k 
+∼ exp(−Tk(z− 
+θ 
+k 
+)−θ) be the productivity associated with good z, drawn from the Fr`echet pdf in country k. By the argument above, the underlying distribution of zk is exponential. The price for good z produced in country k and supplied to country i is 
+1 
+pik ≡ wkτikz 
+θ 
+k 
+. The relative price ratio of good z between countries n and i is: 
+ 
+1 1 
+ 
+min mink=i[wkτnkz 
+ 
+θ 
+k 
+], wiτniz 
+θ 
+vni(z) =  
+i 
+1 1 
+ (b.1) 
+min mink=n[wkτikz 
+ 
+θ 
+k 
+], wnτinzn 
+θ 
+Take this object to the power of θ: 
+mink=i[wθkτθnkzk], wθiτθ 
+ (v (z))θ = 
+min 
+ 
+nizi 
+ni 
+min mink=n[wθkτθikzk], wθnτθinz 
+ 
+ n 
+(b.2) 
+We want to characterize the distribution of (b.2), so we will ﬁrst derive the pdf’s of its com- ponents. Deﬁne z˜ik = wθkτθikzk. Since zk ∼ exp(Tk), it must be that z˜ik ∼ exp(T 
+−kw θ 
+k 
+τ−θik ). Let λ˜ ≡ T 
+θkw−ik 
+k 
+τ−θik . 
+Next, we derive the distribution of z˜i ≡ mink=n[wθkτθikzk] = mink=n[˜zik]. Since each 
+  
+z˜ik ∼ exp( λ˜ik) and independent across countries k, z˜i ∼ exp( λik). Deﬁne 
+˜k=n 
+λ˜i ≡ 
+ 
+λik. 
+˜k=n 
+  
+36 
+
+========38========
+
+Repeat the procedure for importer n in the numerator. 
+Given these deﬁnitions, (b.2) can be rewritten as: 
+min 
+ 
+(v (z))θ = 
+z˜n, wθiτθ 
+nizi 
+ni 
+min z˜i, wθnτθinz 
+ 
+n 
+(b.3) 
+Deﬁne ǫni(z) = log(vni(z)). Taking logs of expression (b.3) gives: 
+θǫni(z) = min{log(˜zn),[θ log(wi) + θlog(τni) + log(zi)]} 
+− min{log(˜zi),[θ log(wn) + θlog(τin) + log(zn)]} 
+(b.4) 
+Next, we argue that θǫni(z) ∈ [−θ log(τin), θ log(τni)]. For any good z, θǫni(z) can satisfy one and only one of the following three cases: 
+1. Countries n and i buy good z from two different sources. Then, 
+θǫni(z) = log(˜zn) − log(˜zi) 
+(b.5) 
+2. Country n buys good z from country i. Assuming that trade barriers don’t violate the 
+triangle inequality, it must be that i buys the good from itself. Then, 
+θǫni(z) = θ log(wi) + θ log(τni) + log(zi) − θ log(wi) − log(zi) = θ log(τni) 
+(b.6) 
+3. Country i buys good z from n. Then it must be that n buys the good from itself, so: 
+θǫni(z) = θ log(wn) + log(zn) − θ log(wn) − θlog(τin) − log(zn) = −θ log(τin) 
+(b.7) 
+We claim that the following ordering occurs: −θ log(τin) ≤ log(˜zn) − log(˜zi) ≤ θ log(τni). To show this, we need to consider the following two scenarios: 
+1. Countries n and i buy good z from the same source k. Then, 
+log(˜zn) − log(˜zi) = log(wθkτθnkzk) − log(wθkτθikzk) 
+= θ(log(τnk) − log(τik)) 
+(b.8) 
+Clearly, 
+θ(log(τnk) − log(τik)) ≥ −θ log(τin) ⇐⇒ τinτnk ≥ τik, 
+37 
+
+========39========
+
+where the latter inequality is true under the triangle inequality assumption. 
+Similarly, 
+θ(log(τnk) − log(τik)) ≤ θ log(τni) ⇐⇒ τnk ≤ τniτik, 
+again true by triangle inequality. 
+2. Country n buys good z from source a and country i from source b, a  = b. We want to 
+show that −θ log(τin) ≤ log(wθaτθnaza) − log(wθbτθibzb) ≤ θ log(τni). 
+Since n imported from a over b, it must be that: 
+wθaτθnaza ≤ wθbτθnbzb 
+(b.9) 
+Similarly, since i imported from b over a, it must be that: 
+wθbτθibzb ≤ wθaτθiaza 
+(b.10) 
+To ﬁnd the upper bound, take logs of (b.9) and subtract log(wθbτθibzb) from both sides: 
+log(wθaτθnaza) − log(wθbτθibzb) ≤ log(wθbτθnbzb) − log(wθbτθibzb) 
+(b.11) 
+It sufﬁces to show that the right-hand side is itself below the upper bound since, by transitivity, so is the left-hand side (which is the object of interest). 
+log(wθbτθnbzb) − log(wθbτθibzb) ≤ θlog(τni) ⇐⇒ θ log(τnb) − θ log(τib) ≤ θ log(τni) ⇐⇒ τnb ≤ τniτib, 
+(b.12) 
+which is true by triangle inequality. 
+The argument for the lower bound is similar. Take logs of (b.10), multiply by −1 (and reverse inequality) and add log(wθaτθnaza) to both sides: 
+log(wθaτθnaza) − log(wθbτθibzb) ≥ log(wθaτθnaza) − log(wθaτθiaza) 
+(b.13) 
+It sufﬁces to show that the right-hand side is itself above the lower bound since, by 
+38 
+
+========40========
+
+transitivity, so is the left-hand side (which is the object of interest). 
+log(wθaτθnaza) − log(wθaτθiaza) ≥ −θ log(τin) ⇐⇒ θ log(τna) − θ log(τia) ≥ −θ log(τin) ⇐⇒ τinτna ≥ τia, 
+(b.14) 
+which is true by triangle inequality. 
+Hence, θǫni(z) ∈ [−θ log(τin), θ log(τni)]. 
+Next, we proceed to derive the distribution of θǫni(z) = log(˜zn)−log(˜zi). First, we derive the pdfs of its two components. 
+Let yi ≡ log(˜zi). Then z˜i = exp(yi). The pdf of yi must satisfy: 
+f(yi)dyi = g(˜zi)dz˜i ⇒ 
+⇒ 
+⇒ 
+f(yi) = λ˜i exp(−λ˜iz˜i)dz˜idyi f(yi) = λ˜i exp(−λ˜i exp(yi)) exp(yi) F(yi) = 1 − exp(−λ˜i exp(yi)) 
+(b.15) 
+The same holds for n. 
+Now that we have the pdf’s of the two components, we can deﬁne the pdf of ǫ ≡ θǫni(z) ∈ [−θ log(τin), θlog(τni)] as follows: 
+ 
+∞ 
+f(ǫ) ≡ fy 
+n−yi(x) = 
+fy 
+n(y)fyi(y 
+− x)dy, (b.16) 
+−∞ 
+where we have used the fact that yn and yi are independently distributed hence, the pdf of their difference is the convolution of the pdfs of the two random variables. 
+Substituting the pdfs of yn and yi into (b.16) yields: 
+ 
+∞ 
+f(ǫ) = λ˜n exp(−λ˜n exp(y)) exp(y)λ˜iexp(−λ˜i exp(y − ǫ)) exp(y − ǫ)dy 
+−∞ 
+ y=+∞ 
+−λ˜nλ˜i 
+ 
+λ˜= 
+n 
+exp(y + ǫ) + λ˜i exp(y) + exp( 
+ǫ) 
+(λ˜ 
+n 
+exp(ǫ) + λ˜i)2 
+exp exp(y)(λ˜n + λ˜i exp(−ǫ)) 
+y=−∞ 
+(b.17) 
+Let v(y) be the expression in the bracket. 
+lim v(y) =0 + 0 + exp(ǫ)y→−∞ 
+exp{0} 
+= exp(ǫ) 
+(b.18) 
+39 
+
+========41========
+
+For the upper bound, we use l’Hopital rule: 
+lim v(y) = lim  
+λ˜n exp(y + ǫ) + 
+y→∞ 
+λ˜i exp(y) 
+y→∞ 
+exp exp(y)(λ˜n + λ˜i exp(−ǫ)) exp(y)(λ˜n + λ˜i exp(−ǫ)) 
+= lim  
+λ˜n exp(ǫ) + λ˜i 
+y→∞ 
+exp exp(y)(λ˜n + λ˜i exp(−ǫ)) (λ˜n + λ˜i exp(−ǫ)) 
+= 0 
+(b.19) 
+Thus, (b.17) becomes: 
+f(ǫ) =(λ˜ 
+λ˜nλ˜i exp(ǫ) 
+n 
+exp(ǫ) + λ˜i)2 
+(b.20) 
+The corresponding cdf is: 
+F(ǫ) =1 − 
+λ˜i 
+λ˜n exp(ǫ) + λ˜i 
+(b.21) 
+Given that ǫ is bounded, we can compute the truncated pdf as: 
+fT(ǫ) =F(θlog(τni)) 
+f(ǫ) 
+− F(−θ log(τin)) 
+= γ−1(λ˜ 
+λ˜nλ˜i exp(ǫ) 
+n 
+exp(ǫ) + λ˜i)2, 
+(b.22) 
+where: 
+γ = −λ˜ 
+λ˜i 
+n 
+exp(θ log(τni)) + λ˜ 
++ 
+λ˜i 
+i 
+λ˜n exp(−θ log(τin)) + λ˜i 
+(b.23) 
+Similarly, the truncated cdf is: 
+ 
+ǫ 
+FT(ǫ) = γ−1 
+f(t)dt 
+(b.24) 
+−θ log(τin) 
+Now that we have these distributions, we compute order statistics from them, which allow us to characterize the trade barriers estimated from price data. We use the following result: Given L observations drawn from pdf h(x), the pdf of the r-th order statistic (where r = L 
+40 
+
+========42========
+
+is the max and r = 1 is the min) is: 
+L! 
+(b.25) 
+hr(x) = 
+(r − 1)!(L − r)!H(x) 
+r−1(1 
+− H(x))L−rh(x) 
+The pdf of the max reduces to: 
+hmax(x, L) =LH(x)L−1h(x) 
+With this pdf deﬁned, we can compute the expectation of the maximum statistic: 
+E[max(xz∈L 
+z)] = 
+ 
+∞ 
+xhmax(x, L)dx 
+(b.26) 
+−∞ 
+Recall that we are interested in computing the expectation of the maximum logged price difference between countries n and i. But, so far, we have derived the truncated pdf and cdf of ǫ = θ log(vni(z)). Our object of interest is actually log(vni(z)) = 
+1 
+θǫ. The expectation of this object, which represents the maximum log price difference, for L draws, is given by: 
+(b.27) 
+ 
+E[max(log(pz∈L 
+n(z)) 
+− log(pi(z)))] = 
+1 
+θ log(τni) 
+θ 
+ǫfmax(ǫ, L)dǫ,−θlog(τ 
+in) 
+where: 
+fmax(ǫ, L) =LFT(ǫ)L−1fT(ǫ) 
+  
+ǫ 
+=L γ−1 
+−θlog(τin) 
+L−1 
+f(t)dt 
+γ−1(λ˜ 
+λ˜nλ˜i exp(ǫ) 
+n 
+exp(ǫ) + λ˜i)2 
+(b.28) 
+Hence, the expectation of the maximum of the log price difference is proportional to 1/θ, where the proportionality object comes from gravity, 
+(b.29) 
+E[max(log(pn(z)) − log(pi(z)))] = Ψz∈L 
+ni(L; 
+S,τ˜i,τ˜n), 
+where: 
+(b.30) 
+ 
+θ log(τni) 
+Ψ 
+n) 
+≡ 
+1ni(L;S,τ˜i,τ˜ 
+θ 
+ǫfmax(ǫ, L)dǫ,−θlog(τ 
+in) 
+and the values S and τ˜n correspond with the deﬁnitions outlined in Deﬁnition 1. It is worth emphasizing the nature of this integral: Other than the scalar in the front, it depends com- pletely on objects that can be recovered from the standard gravity equation in (22). 
+41 
+
+========43========
+
+Finally, one can rewrite equation (b.30) via integration by parts as: 
+ 
+θ log(τni) 
+E[max(log(pn(z)) − log(pi(z)))] = logτni − 
+1 
+z∈L θ 
+Fmax(ǫ, L)dǫ−θlog(τ 
+in) 
+(b.31) 
+ 
+θ log(τni) 
+logτni = E[max(log(pn(z)) − log(pi(z)))] + 
+1 
+z∈L θ 
+Fmax(ǫ, L)dǫ,−θlog(τ 
+in) 
+(b.32) 
+which implies the following strict inequality: 
+logτni > E[max(log(pn(z)) − log(pi(z)))] = Ψz∈L 
+ni(L; 
+S,τ˜i,τ˜n), 
+(b.33) 
+where the strict inequality simply follows from the inspection of the CDF Fmax(ǫ, L) which has positive mass below the point θ log(τni). This then proves claim 1. in Lemma 1. 
+To prove claim 2. in Lemma 1, we compute the difference in the expected values of log prices between two countries. We show that they are equal to the (scaled) difference in the price parameters Φ. 
+Rather than working with the distribution described above,it is more convenient to directly compute the expectation of log prices using the equilibrium price distribution. Note that EK show that the cdf and pdf of prices in country i are G(p) = 1 − exp(−Φipθ) and g(p) = pθ−1θΦi exp(−Φipθ), respectively. 
+For any country i, deﬁne the expectation of logged prices as 
+ 
+∞ 
+E[log(pi(z))] = 
+log(p)g(p)dp 
+(b.34) 
+0 
+Substituting the pdf of prices and then utilizing some algebra to ﬁnd an appropriate change in variables, expression (b.34) yields 
+ 
+∞ 
+E[log(pi(z))] = 
+log(p)pθ−1θΦi exp(−Φipθ)dp 
+0∞ 
+= 
+0 
+log(p)θΦi exp(θlog(p)) exp(−Φi exp(θlog(p)))dpp 
+Our change of variables will set x = log(p), which yields dx/dp = 1/p. Then, integration by 
+42 
+
+========44========
+
+change of variables allows us to rewrite the above as 
+ 
+∞ 
+E[log(pi(z))] = 
+0∞ 
+= 
+0 
+log(p)θΦi exp(θlog(p)) exp(−Φi exp(θlog(p)))dpp xθΦi exp(θx) exp(−Φi exp(θx))θθdx 
+Let y = θx, so that dy/dx = θ; then, another change of variables gives 
+ 
+∞ 
+E[log(pi(z))] =1 
+θ 
+yΦi exp(y) exp(−Φi exp(y))dy0 
+Let t = Φi exp(y), so that dt/dy = Φi exp(y) and y = log(t/Φi). Then, 
+ 
+∞ 
+ 
+E[log(pi(z))] =1 
+θ 
+log 
+t 
+ 
+ 
+0 
+Φ 
+exp(−t)dt 
+i 
+∞ 
+ 
+∞ 
+=1θ log (t) exp(−t)dt − log (Φi) exp(−t)dt 
+0 0 
+= − 
+1 
+θ 
+{γ + log(Φi)}, 
+ 
+(b.35) 
+where γ is the Euler-Mascheroni constant. Finally, using (b.35) and taking the expected dif- ference in log prices between country n and country i, the scaled Euler-Mascheroni constant cancels between the two countries and leaves the following expression 
+E[log(pn(z))] − E[log(pi(z))] = −1θ {log (Φn) − log (Φi)} 
+(b.36) 
+≡ Ωni(S,τ˜n,τ˜i), 
+which then proves claim 2. in Lemma 1. 
+B.1.3. Proof of Lemma 2 and Proposition 1 
+To prove Lemma 2 and Proposition 1, we invert EK’s estimator for the elasticity of trade: 
+1 = − βˆ 
+  
+  
+n i 
+log ˆτni + logPˆi − logPˆ 
+  
+n 
+  
+log 
+Xni/Xn 
+n i Xii/Xi 
+(b.37) 
+Given the assumption that the trade data are ﬁxed, equation (b.37) is linear in the random variables log ˆτni and (logPˆn − logPˆi). With this observation, taking expectations of these 
+43 
+
+========45========
+
+random variables yields 
+1 
+ 
+ 
+ 
+ 
+ 
+n)) 
+E = 
+1 
+− 
+n i(θΨni(L) 
+− 
+(log Φi 
+−log Φ 
+ 
+  
+, 
+n i 
+log 
+Xni/X 
+ 
+< 
+1 
+βˆ 
+θ n θX 
+ii/Xi 
+(b.38) 
+by substituting in for the expectation of the maximum log price difference using (b.30), and the difference in expectations of log prices using (b.36). Inspection of the bracketed term above implies that the following strict inequality must hold, 
+ 
+  
+ 
+1 > 
+n i 
+(θΨ 
+ 
+ni 
+(L) − (log Φ − 
+ 
+ 
+i 
+ 
+log Φ 
+n 
+)) 
+− 
+log 
+Xni/Xn 
+ 
+> 0, (b.39) 
+n i Xii/Xi 
+with the reason being that Ψni(L) < logτni from Lemma 1; otherwise, the bracketed term would correspond exactly with equation (5) in logs and, thus, equal one. Now, inverting the expression above and applying Jensen’s inequality results in the following: 
+ 1 
+ 
+  
+  
+−1 
+ 
+Xni/Xn 
+E(βˆ) ≥ E = θ  
+n i 
+log 
+Xii/Xi 
+ 
+− − (log Φi − log Φn)) 
+> θ, (b.40) 
+βˆ 
+n i(θΨni(L) 
+with the strict inequality following from (b.38) and (b.39). This proves Proposition 1. 
+B.2. Proof of Proposition 2 
+In this subsection, we prove Proposition 2. To prove the claims in Proposition 2, we start with claim 1. 
+To prove claim 1., we argue that the sample maximum of scaled log price differences is a consistent estimator of the scaled trade cost. In particular, we argue that as the sample size becomes inﬁnite, the probability that the sample scaled trade cost is arbitrarily close to the true scaled trade cost is one. 
+To see this, consider an estimate of the scaled trade barrier, given a sample of L goods’ prices, 
+  
+θ log ˆτLni = θ max (logpℓ=1,...,L 
+n(ℓ) 
+− logpi(ℓ)) . (b.41) 
+The cdf of this random variable is the integral of its pdf, which is given in expression (b.28), over the compact interval in which the scaled logged price difference lies,[−θ logτin, θlogτni]. 
+44 
+
+========46========
+
+Denote this cdf by FLmax. From (b.28), FLmax ≡ (FT)L, where FT is the truncated distribution of the scaled log price difference over the domain [−θ logτin, θlogτni]. By deﬁnition, FT and FLmax take on values between zero and one, as they are cdfs. In particular, for any realization x < θlogτni, FT(x) < 1. For any L > 1, FL 
+L 
+max(x) = (FT 
+(x)) ≤ FT(x) < 1. 
+Take L → ∞. Then, for any x ∈ [−θ logτin, θ logτni), FLmax = (FT)L becomes arbitrarily close to zero since FT < 1. Hence, all the mass of the cdf FLmax becomes concentrated at θ logτni. Thus, as the sample size becomes inﬁnite, the estimated scaled trade barrier converges to the true scaled trade barrier, in probability. Rescaling everything by 
+1 
+θ 
+then implies 
+plim log ˆτLni = plim max (logpL→∞ 
+ℓ=1,...,L 
+n(ℓ) 
+− logpi(ℓ)) = logτni. L→∞ 
+(b.42) 
+This proves claim 1. of Proposition 2. 
+To show consistency of the estimator βˆ, we argue that 
+plim βˆ(L;S,τ˜,X) = θ, L→∞ 
+(b.43) 
+or, equivalently, that ∀δ > 0, 
+  
+lim Pr  βˆ(L;S,τ˜,X) − θ < δ = 1.L→∞ 
+(b.44) 
+Basically, we will argue that, by sampling the prices of an ever-increasing set of goods and applying the estimator β over these prices, with probability one, we will obtain estimates that are arbitrarily close to θ. 
+Inverting the expression for the estimator βˆin expression (13), rearranging, and multiplying and dividing by the scalar θ yields 
+1 = 
+1 βˆ 
+θ 
+  
+  
+n i 
+θlog ˆτLni − θ[logPˆn − logPˆi] 
+  .X 
+− 
+ 
+ni/Xn 
+n i 
+log 
+Xii/Xi 
+(b.45) 
+By assumption, the denominator is trade data and is not a random variable. 
+In the numerator, logPˆn−logPˆi is the difference in the average of logged prices for countries n and i, given a sample of L goods. In particular, 
+1 
+L  logPˆn − logPˆi ≡ 
+L 
+logp − 
+1n(ℓ) 
+L 
+ℓ=1 
+L 
+logpi(ℓ) 
+ℓ=1 
+(b.46) 
+45 
+
+========47========
+
+We refer the reader to Davidson and MacKinnon (2004) for a proof of the well known result that the sample average is both an unbiased and consistent estimator of the mean. Since the difference operator is continuous, the difference in the sample average of logged price is an unbiased and consistent estimator of the difference in mean logged prices. Finally, multi- plying these sample averages by a scalar θ, a continuous operation, ensures convergence to true difference in the price terms Φ. 
+We have argued that the two components in the numerator converge in probability to their true parameter counterparts, as the sample size becomes inﬁnite. Taking the difference of 
+these two components, summing over all country pairs 
+  
+  
+(n, i), and dividing by the scalar − log 
+Xni/Xn 
+n i Xii/X 
+, all of which are continuous operations, allows us to conclude that 
+i 
+  
+  
+plim 
+n i 
+θlog ˆτLni − θ[logPˆn − logPˆi] 
+ X 
+− 
+ 
+L→∞ 
+ni/Xn 
+n i 
+log 
+Xii/Xi 
+= plim 
+L→∞ 
+  
+  
+1 
+ L 
+L 
+1 
+n i 
+θmaxℓ=1,...,L(logpn(ℓ) − logpi(ℓ)) − θ 
+L ℓ=1 
+logp 
+  
+n(ℓ) 
+− 
+L ℓ=1 
+logpi(ℓ) 
+− 
+  
+log 
+Xni/Xn 
+n i Xii/Xi 
+  
+=− 
+n i 
+(θ logτni − [log Φi − log Φn]) 
+  
+  . 
+log 
+Xni/Xn 
+n i Xii/Xi 
+(b.47) 
+To complete the argument, consider the log of expression (5), which involves Φ. Summing this expression over all (n, i) country pairs gives: 
+ 
+ 
+log 
+Xni/X 
+n 
+ 
+Xii/X 
+= − (θ logτni − [log Φi − log Φn]).i 
+n i n i 
+(b.48) 
+Substituting expression (b.48) in the denominator of (b.47) above makes the fraction in that expression equal to unity. Hence, 1/βˆ converges to 1/θ in probability. Since, for β ∈ (0,∞), 1/βˆ is a continuous function of βˆ, βˆ converges to θ in probability. This proves claim 2. of Proposition 2. 
+Claim 3. of Proposition 2 follows from the fact that βˆ is a consistent estimator of θ (see Hayashi (2000) for a discussion). 
+46 
+
+========48========
+
+B.3. Deriving the Inverse Marginal Cost Distribution 
+To simulate the model, we argue that by using the coefﬁcients S estimated from the gravity regression (22), we have enough information to simulate prices and trade ﬂows. The key insight is that the S’s are sufﬁcient to characterize the inverse marginal cost distribution. Thus, we can sample from this distribution and then compute equilibrium prices and trade ﬂows. 
+To see this argument, let zi ∼ Fi(zi) = exp(−Tiz−θi ) and deﬁne ui ≡ zi/wi. The pdf of zi is fi(zi) = exp(−Tiz−θi )θTiz−θ−1i . To ﬁnd the pdf of the transformation ui, mi(ui), use the fact that fi(zi)dzi = mi(ui)dui, or mi(ui) = fi(zi)(dui/dzi)−1. Let S˜i = Tiw−θi . Using fi(zi), S˜i, and the fact that dui/dzi = 1/wi, we obtain: 
+mi(ui) = fi(zi) 
+du −1  
+1 
+−1i 
+dzi 
+= exp(−Tiz−θi )θTiz−θ−1 
+i 
+ 
+wi 
+w−θ 
+ −1 
+−θ 
+= exp −Tiz−θi 
+i 
+w−θi 
+θTiz−θ−1 
+1 wi 
+i 
+ 
+wi w−θ 
+i 
+z−θ 
+−θ−1 
+= exp −S˜iw−θ 
+i 
+θS˜ 
+zii 
+i 
+ 
+w−θ−1 
+i 
+= exp − S˜iu−θi θS˜iu−θ−1i 
+Clearly mi(ui) is the pdf that corresponds to the cdf Mi(ui) = exp(−S˜iu−θi ), which concludes the argument. 
+47 
+
+========49========
+
+Table 9: 2005 ICP Data, Step 1 Country-Speciﬁc Estimates 
+Country 
+Angola 
+Argentina 
+Armenia 
+Australia 
+Austria 
+Azerbaijan 
+Bangladesh 
+Belarus 
+Belgium 
+Benin 
+Bhutan 
+Bolivia 
+Bosnia and Herzegovina Botswana 
+Brazil 
+Brunei Darussalam Bulgaria 
+Burkina Faso 
+Burundi 
+Cameroon 
+Canada 
+Cape Verde 
+Central African Republic Chad 
+Chile 
+China 
+Colombia 
+Comoros 
+Congo, Dem. Rep. Congo, Rep. 
+Cte d’Ivoire 
+Croatia 
+Cyprus 
+Czech Republic Denmark 
+Djibouti 
+Ecuador 
+Egypt, Arab Rep. Equatorial Guinea Estonia 
+Ethiopia 
+Sˆi S.E. −1.04 0.21 
+exi 
+−2.67 0.35 1.13 0.18 2.34 0.25 
+−3.91 0.29 0.24 0.16 3.59 0.23 0.39 0.16 2.71 0.22 
+−2.76 0.28 0.76 0.18 0.46 0.24 
+−0.98 0.25 −2.75 0.16 8.26 0.22 
+−3.66 0.36 
+−5.45 0.43 
+−1.65 0.29 
+−3.68 0.32 
+−3.73 0.37 1.30 0.16 3.67 0.23 
+−5.15 0.37 0.30 0.17 0.39 0.24 
+−4.07 0.31 
+−3.12 0.34 
+−3.34 0.30 −0.27 0.16 4.59 0.22 
+−4.86 0.38 
+−4.67 0.36 
+−6.49 0.40 0.27 0.18 1.96 0.25 1.13 0.16 5.74 0.23 0.38 0.17 0.50 0.24 
+−4.54 0.42 
+−2.31 0.34 
+−1.08 0.30 
+−1.22 0.30 
+−1.29 0.24 −0.86 0.17 0.45 0.24 0.43 0.16 2.02 0.23 −0.24 0.16 3.63 0.23 
+−2.37 0.38 −0.24 0.18 0.12 0.26 0.44 0.17 0.62 0.23 
+−4.24 0.39 −1.74 0.17 1.61 0.24 
+−2.15 0.31 
+0.83 0.20 
+−0.03 0.20 
+1.27 0.18 
+−0.62 0.22 0.37 0.30 0.28 0.19 1.14 0.23 0.97 0.25 
+1.68 0.25 
+48 
+0.32 0.20 −1.52 0.20 1.54 0.21 
+−0.37 0.21 0.55 0.25 0.54 0.24 
+−0.84 0.27 −0.65 0.24 −0.95 0.21 0.78 0.21 1.08 0.16 
+−2.04 0.24 
+0.47 0.24 
+−0.66 0.21 
+S.E. 
+Country Fiji 
+Finland France Gabon Gambia, The Georgia Germany Ghana Greece Guinea Guinea-Bissau Hungary Iceland India 
+Indonesia Iran, Islamic Rep. Ireland Israel 
+Italy 
+Japan 
+Jordan Kazakhstan Kenya Korea, Rep. Kyrgyz Republic Lao PDR Latvia Lebanon Lesotho Lithuania Macedonia, FYR Malawi Malaysia Mali 
+Mauritania Mauritius Mexico Moldova Morocco Mozambique Namibia 
+Sˆi S.E. exi −0.58 0.20 
+1.09 0.17 2.15 0.23 0.39 0.16 5.09 0.22 −1.07 0.18 
+−2.40 0.22 
+−2.78 0.19 0.70 0.27 0.40 0.16 5.57 0.22 −1.32 0.21 0.44 0.29 0.78 0.16 0.58 0.23 −1.76 0.22 
+−0.40 0.28 
+0.86 0.17 0.98 0.23 −0.26 0.18 
+0.94 0.16 3.53 0.25 1.34 0.16 3.07 0.23 1.02 0.21 
+−3.21 0.16 6.39 0.22 0.59 0.17 1.70 0.24 0.58 0.16 4.56 0.22 1.51 0.16 4.89 0.23 −0.25 0.18 
+0.28 0.18 
+−0.53 0.16 
+1.04 0.16 4.38 0.22 0.03 0.20 
+1.43 0.27 
+−0.46 0.19 
+0.60 0.20 
+1.09 0.30 
+0.67 0.21 
+0.41 0.18 
+−0.63 0.19 
+−1.43 0.16 6.58 0.22 −1.03 0.23 
+−1.97 0.23 
+−1.63 0.17 1.44 0.24 0.21 0.16 2.61 0.24 −0.47 0.19 
+−0.39 0.17 1.32 0.23 −0.16 0.22 
+1.09 0.23 
+−2.06 0.31 
+−1.52 0.27 −2.32 0.34 
+−2.16 0.33 −5.77 0.48 
+−0.55 0.26 
+−0.85 0.28 
+−0.65 0.25 −0.03 0.26 −0.07 0.23 
+−2.86 0.30 −3.92 0.35 −0.10 0.26 −2.29 0.28 −5.44 0.44 −0.88 0.29 −2.71 0.27 −2.59 0.28 
+−2.66 0.32 −1.79 0.33 
+−2.12 0.29 
+−2.06 0.33 −3.64 0.33 
+S.E. 
+Country 
+Nepal 
+New Zealand Nigeria 
+Norway 
+Oman 
+Pakistan 
+Paraguay 
+Peru 
+Philippines Poland 
+Portugal 
+Romania 
+Russian Federation Rwanda 
+Sierra Leone Saudi Arabia Senegal 
+Slovak Republic Slovenia 
+South Africa Spain 
+Sri Lanka 
+Sudan 
+Swaziland Sweden 
+Switzerland Syrian Arab Republic Tajikistan 
+Tanzania 
+Thailand 
+Togo 
+Tunisia 
+Turkey 
+Uganda 
+Ukraine 
+United Kingdom United States Uruguay 
+Venezuela, RB Vietnam 
+Zambia 
+Sˆi S.E. exi 0.48 0.24 −3.00 −0.25 0.30 3.17 −0.85 0.25 −1.00 0.33 0.37 1.88 −0.19 0.36 −0.74 0.55 0.29 2.03 0.04 0.36 −0.74 0.47 0.24 1.10 −0.34 0.39 2.64 0.84 0.34 1.76 −0.20 0.24 2.71 0.60 0.25 0.75 1.32 0.34 2.12 0.09 0.27 −5.05 −0.97 0.25 −3.61 0.70 0.30 0.70 −0.86 0.27 −0.63 −0.31 0.26 1.34 1.02 0.38 −0.20 0.41 0.25 3.61 0.29 0.31 4.09 −0.14 0.42 0.65 −0.12 0.33 −3.47 2.10 0.38 −3.30 0.75 0.31 3.34 0.10 0.25 3.69 −0.34 0.31 −0.86 1.10 0.37 −3.19 −1.01 0.26 −1.41 0.86 0.29 3.57 −1.40 0.25 −1.34 0.34 0.36 −0.30 0.93 0.28 2.38 −0.71 0.29 −2.30 1.41 0.24 0.88 −0.29 0.32 5.59 0.06 0.34 6.87 −0.51 0.29 1.40 0.72 0.29 −0.60 −0.44 0.24 2.69 −3.99 0.30 2.59 
+S.E. 0.32 0.24 0.29 0.23 0.26 0.23 0.28 0.25 0.24 0.23 0.23 0.23 0.23 0.36 0.41 0.28 0.25 0.23 0.24 0.23 0.22 0.25 0.32 0.33 0.22 0.27 0.26 0.34 0.31 0.28 0.27 0.24 0.23 0.26 0.28 0.22 0.22 0.27 0.26 0.28 0.27 
+
+========50========
+
+S.E. 
+exi 
+S.E. 
+Sˆi 
+2.54 0.13 1.74 0.21 −3.09 0.12 0.80 0.18 −1.42 0.15 0.37 0.24 
+S.E. 
+−1.65 0.18 
+−0.67 0.18 −1.33 0.18 
+exi 
+S.E. 
+Country Australia Austria Belgium Canada Denmark Finland France Germany Greece Italy 
+Table 10: EK Data, Step 1 Country-Speciﬁc Estimates 
+Sˆi 
+−0.20 0.15 0.54 0.24 
+0.50 0.12 
+−4.38 0.12 0.98 0.18 
+−0.46 0.13 1.06 0.22 
+−1.16 0.12 
+0.82 0.12 
+1.15 0.12 0.05 0.18 
+1.44 0.12 0.82 0.18 
+−0.38 0.12 
+1.81 0.12 
+S.E. 
+exi 
+49 
+0.06 0.17 
+1.59 0.21 0.03 0.17 
+0.69 0.21 
+0.11 0.16 0.80 0.18 
+−2.51 0.18 −0.12 0.18 
+Country Japan Netherlands New Zealand Norway Portugal Spain Sweden United Kingdom United States 
+−0.34 0.12 −0.28 0.12 1.56 0.12 0.05 0.12 
+0.52 0.12 0.89 0.18 1.34 0.13 2.83 0.22 
+S.E. 
+exi −3.09 0.24 
+−2.71 0.26 
+−1.88 0.24 −2.45 0.24 −2.69 0.24 
+−0.65 0.23 −5.07 0.28 
+−1.01 0.18 −1.38 0.19 −1.35 0.18 −0.06 0.18 
+S.E. 
+Country 
+Argentina 
+Australia 
+Austria 
+Azerbaijan 
+Belgium 
+Brazil 
+Brunei Darussalam Bulgaria 
+Canada 
+Central African Republic Chile 
+China 
+Colombia 
+Cote d’Ivoire 
+Czech Republic Denmark 
+Ecuador 
+Egypt, Arab Rep. Ethiopia 
+Finland 
+France 
+Germany 
+Greece 
+Hungary 
+Table 10: EIU Data, Step 1 Country-Speciﬁc Estimates 
+Sˆi 
+0.71 0.17 0.74 0.24 
+−0.23 0.16 2.19 0.24 
+0.11 0.16 1.31 0.23 
+−5.28 0.25 
+−2.79 0.16 6.16 0.23 
+0.59 0.16 2.33 0.23 
+−7.49 0.32 
+−1.23 0.24 
+−0.44 0.16 2.89 0.23 
+−7.07 0.31 
+−0.04 0.17 0.56 0.24 
+0.71 0.16 4.04 0.23 
+−1.18 0.24 
+−3.42 0.27 
+0.05 0.16 0.68 0.23 
+−0.37 0.16 1.74 0.23 
+−1.84 0.24 
+−1.30 0.23 
+−4.15 0.27 
+0.60 0.16 0.93 0.23 
+0.38 0.16 3.04 0.23 
+0.11 0.16 3.95 0.23 
+−0.92 0.23 
+−0.17 0.23 
+−0.32 0.17 0.29 0.16 −0.68 0.18 
+0.33 0.16 0.59 0.16 
+Country Iceland India 
+Indonesia Iran, Islamic Rep. Ireland Israel 
+Italy 
+Japan 
+Jordan Kazakhstan Kenya Korea, Rep. Malaysia Mexico Morocco Nepal 
+New Zealand Nigeria Norway Oman Pakistan Paraguay Peru 
+Philippines 
+Sˆi S.E. 
+−0.06 0.17 
+0.54 0.16 1.76 0.24 1.01 0.16 1.39 0.23 0.75 0.18 
+−3.13 0.16 4.65 0.23 0.08 0.17 0.37 0.24 0.35 0.16 2.93 0.23 1.09 0.16 3.49 0.23 −0.81 0.17 
+0.55 0.17 
+−0.65 0.16 
+0.58 0.16 3.06 0.23 −1.93 0.16 5.33 0.23 −0.23 0.16 1.43 0.24 −0.47 0.16 
+0.43 0.21 
+−0.62 0.17 1.75 0.24 −1.02 0.18 
+0.35 0.16 0.00 0.23 −0.36 0.17 
+0.30 0.16 0.09 0.23 −0.03 0.18 
+0.22 0.17 
+−0.72 0.16 1.50 0.23 
+−2.98 0.26 
+−2.94 0.25 
+−3.03 0.26 −0.73 0.24 
+Country 
+Poland 
+Portugal 
+Romania 
+Russian Federation Saudi Arabia Senegal 
+Slovak Republic South Africa Spain 
+Sri Lanka 
+Sweden 
+Switzerland Syrian Arab Republic Thailand 
+Tunisia 
+Turkey 
+Ukraine 
+United Kingdom United States Uruguay 
+Venezuela, RB Vietnam 
+Zambia 
+Sˆi S.E. exi 0.56 0.16 0.26 −0.03 0.16 0.31 0.13 0.16 −0.42 1.17 0.16 0.55 0.22 0.18 −0.59 −0.70 0.17 −3.76 −0.45 0.16 −0.21 0.00 0.16 1.76 0.03 0.16 2.48 −0.25 0.17 −1.06 0.42 0.16 1.86 −0.04 0.18 2.05 −0.41 0.17 −3.04 0.51 0.18 1.87 0.10 0.16 −2.02 0.71 0.16 0.51 1.52 0.18 −1.21 −0.38 0.16 3.71 −0.25 0.16 5.19 −0.53 0.18 −0.59 0.85 0.17 −2.51 −0.37 0.18 0.63 −1.91 0.17 −1.84 
+S.E. 0.23 0.23 0.23 0.24 0.26 0.25 0.23 0.23 0.23 0.24 0.23 0.25 0.24 0.25 0.24 0.23 0.26 0.23 0.23 0.25 0.24 0.26 0.26 
+
+========51========
+
+Table 12: Step 1 Trade Cost Estimates and Summary Statistics 
+50 
+Geographic Barriers ICP 2005 Data EK Data EIU Data Barrier Parameter Estimate S.E. Parameter Estimate S.E. Parameter Estimate S.E. [0,375) − 5.30 0.21 −2.89 0.14 −5.02 0.19 [375,750) − 6.29 0.14 −3.56 0.10 −5.28 0.11 [750,1500) − 7.27 0.09 −3.87 0.07 −5.71 0.07 [1500,3000) − 8.50 0.06 −4.10 0.15 −6.63 0.05 [3000,6000) − 9.65 0.04 −6.15 0.09 −7.70 0.04 [6000,maximum] −10.35 0.05 −6.60 0.10 −8.41 0.04 Shared border 1.25 0.12 0.44 0.14 1.04 0.16 Summary Statistics 
+ICP 2005 Data EK Data EIU Data No. Obs 10,513 342 4,607 TSS 152,660 2,936 47,110 SSR 30,054 76.56 8,208 σ2ν 2.93 0.25 1.84 
+
+========52========
+

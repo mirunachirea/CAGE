@@ -1,0 +1,1257 @@
+June 2010 
+             No.18 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Roll out the Red Carpet and They Will Come: 
+Investment Promotion and FDI Inflows  
+Torfinn Harding and Beata S Javorcik* 
+University of Oxford 
+Abstract As red tape in host countries and information asymmetries constitute a  significant obstacle to investment flows across international borders, an important  policy question is: what can aspiring FDI destinations do to reduce such barriers? This  study uses newly collected data on 124 countries to examine the effects of investment  promotion on inflows of US FDI. We test whether sectors explicitly targeted by  investment promotion agencies in their efforts to attract FDI receive more investment  in the post-targeting period, relative to the pre-targeting period and non-targeted  sectors. The results of our analysis are consistent with investment promotion leading  to higher FDI flows to countries in which red tape and information asymmetries are  likely to be severe. The data suggest that investment promotion works in developing  countries but not in industrialized economies. 
+Keywords: foreign direct investment, investment promotion, investment incentives, emerging  markets, information asymmetries, red tape 
+JEL codes: F21, F23 
+                                                 
+* We would like to thank Naotaka Sawada and Geoff Revell for assistance with data collection. We are  indebted to Kelly Andrews Johnson for helpful suggestions on how to conduct an IPA Census. We are  thankful to Rita Almeida, Gabor Bekes, Andy Bernard, Antonio Ciccone, Wim Douw, Jon Fiva, C.  Fritz Foley, Holger Görg,  Keith Head, Bernard Hoekman, Leonardo Iacovone, Kozo Kiyota, Aart  Kraay, Phil Levy, Molly Lipscomb, Bob Lipsey, Rocco Macchiavello, Will Martin, Timo Mitze, Ted  Moran, Rick van der Ploeg, Jørn Rattsø, two anonymous referees, participants of the 2007 European  Research Workshop on International Trade in Kiel, the 2007 Empirical Investigation in International  Economics conference in Ljubljana, the 2007 Spring Meeting of Young Economists, the 2009 Royal  Economic Society conference, the 2009 Empirical Investigation in Trade and Growth conference in  Melbourne, the 2010 Empirical Investigation in Trade and Investment conference in Tokyo and  seminar participants at the Norwegian University of Science and Technology, University of Oxford,  Statistics Norway, the World Bank and the US International Trade Commission for useful comments.  
+
+========2========
+
+1. Introduction 
+Countries around the globe compete fiercely to attract foreign direct investment (FDI). Policy  makers believe that FDI can contribute to a faster economic growth by bringing additional  capital, creating jobs, and transferring new technologies and know-how across international  borders. Recent empirical evidence suggests that FDI may also lead to positive productivity  spillovers to local firms, particularly in the supplying industries.1 Given these potential  benefits of FDI inflows, an important question for policy makers is how to attract foreign  investors. 
+This paper argues that investment promotion may be a cost-effective way of increasing FDI  inflows, particularly to developing countries where information about business conditions is  less readily available and bureaucratic procedures tend to be more burdensome. The purpose  of investment promotion is to reduce transaction costs facing foreign investors by providing  information (on business opportunities, prevailing laws and regulations as well as factor cost  in a host country) and helping foreign investors deal with bureaucratic procedures. Investment  promotion is a widespread but a relatively new phenomenon. In 2001, there existed more than  160 national and over 250 sub-national investment promotion agencies (IPAs) (UNCTAD  2001). The 2005 Census of Investment Promotion Agencies conducted by the World Bank  revealed that 85 percent of the responding IPAs in developing countries were established in  1980 or later (see Figure 1). 
+This study aims to rigorously assess the effectiveness of investment promotion activities by  examining three questions: (i) does investment promotion lead to higher FDI inflows? (ii) is  there evidence that information provision and assistance with bureaucratic procedures are important channels through which investment promotion works? (iii) how do the costs of  investment promotion compare to the benefits it brings?  
+Our study was made possible by the availability of new data that we collected through a  worldwide Census of Investment Promotion Agencies conducted under the aegis of the World  Bank. The data set is unique in terms of the extent of its coverage and the level of detail. The  data set includes information on investment promotion efforts (or the lack thereof) in 124 countries, representing all income groups and geographic regions. About three quarters of responses pertain to developing countries. An extremely useful feature of the Census is that it  includes time-varying information specifying which sectors were given priority by IPAs in  their investment promotion efforts.  
+Our identification strategy relies on the fact that the majority of IPAs target particular sectors  in their efforts to attract FDI. Sector targeting is considered to be best practice by investment  promotion professionals (Loewendahl 2001, Proksch 2004). It also allows us to identify the  effect of investment promotion using a difference-in-differences approach. We compare FDI  inflows into targeted sectors, before and after targeting, to FDI inflows into non-targeted  sectors during the same time period. Our analysis is based on data on US outward FDI, disaggregated by host country and sector and available for the period 1990-2004, provided by the  US Bureau of Economic Analysis.  We control for changes in host country business  environment by including country-year fixed effects, for heterogeneity of sectors in different  locations by including country-sector fixed effects and for shocks to supply of FDI in  particular sectors by adding sector-time fixed effects. The ability to control for all these  factors enables us to credibly identify the effects of investment promotion.  
+As sector targeting is a choice of the IPA, the targeting decision could be a response to earlier  experience of the sector, which could present a reverse causality problem. However, when we  exclude countries that reported in the Census that the targeting decision was based on the past  success or failure in attracting FDI to the sector, our results hold. In addition, we find no  evidence suggesting that targeting took place in sectors with relatively high or low inflows in  
+                                                 
+1 
+See studies by Javorcik (2004a), Blalock and Gertler (2007), Javorcik and Spatareanu (2008, 2009,  2010); and literature reviews by Görg and Strobl (2001) and Görg and Greenaway (2004). 
+1 
+
+========3========
+
+the years preceding targeting. Finally, a strict exogeneity test does not reject our empirical  strategy. 
+Our results suggest that investment promotion efforts lead to higher FDI inflows. Investment  promotion appears to be more effective in countries where English is not an official language and in countries which are more culturally distant from the US. Investment promotion also  works better in countries with less effective governments, higher corruption and a longer time  period required to start a business or obtain a construction permit. All of these findings are  consistent with investment promotion alleviating problems associated with the scarcity of  information and cumbersome bureaucratic procedures. Further, when we split the sample into  industrialized and developing countries we find that investment promotion has a positive  impact on FDI inflows in the developing world but not in industrialized countries. This is  consistent with the observation that information and bureaucratic permits tend to be harder to  obtain in a developing country setting. Finally, even within the subsample of developing  countries,  we  confirm that investment promotion works better in places with higher  information asymmetries and more red tape. 
+The result that investment promotion is more effective in the presence of information  asymmetries or more complex bureaucratic procedures is an interesting finding in its own  right. Moreover, showing that investment promotion works better where we would expect it  to do so suggests that we are indeed capturing the effects of IPA efforts rather than something  else. 
+Our analysis allows us to conduct a back-of-the-envelope cost-benefit calculation. On the  benefit side, we find that targeted sectors receive more than twice as much FDI as non- targeted sectors in developing countries. This magnitude is plausible, given that many sectors  receive small amounts of FDI in absolute terms. For instance, during the period covered by  our study the median sector-level inflow of US FDI to developing countries that received  some US investment was 11 million dollars. Thus, an increase of 155 percent estimated in our  analysis would translate into additional 17 million dollars of FDI flowing into a targeted  sector. On the cost side, we rely on the 2004 budget figures obtained from the Census and  find that an average IPA spent 90,000 dollars per sector targeted. Combining the benefit and  the cost side, we conclude a dollar spent on investment promotion leads to 189 dollars of FDI  inflows. In other words, bringing a dollar of FDI inflows costs half a cent in investment  promotion expenditures.  
+In an alternative exercise, we focus on the cost of creating a new job in a foreign affiliate.  This is also a relevant metric as most policy makers care about creating employment and  recent research shows that foreign affiliates tend to pay higher wages than domestic firms even when worker characteristics are taken into account (see, for instance, Lipsey and  Sjöholm 2004, Almeida 2007). Using a data set on employment in US affiliates abroad, we  find that targeted sectors see a 68 percent increase in affiliate employment relative to non- targeted sectors. This translates into additional 1,159 jobs for the average sector or 78 dollars  per job created.  
+Our cost-benefit calculations  should be treated with caution. On the one hand, these  calculations capture only the effect of targeting on flows of FDI from the US. As investment  promotion is likely to have a similar impact on investors from other source countries, our  analysis underestimates the benefits of investment promotion activities. On the other hand,  there may be other factors which contribute to the success of investment promotion and  whose costs we are not taking into account (for instance, priority sectors may be awarded  access to accelerated bureaucratic procedures). Finally, one needs to stress that our analysis  captures the average, not the marginal, effect. Thus we are not suggesting that a large increase  in investment promotion spending on the part of countries already engaged in such practice  will lead to spectacular increases in FDI inflows. Rather, we interpret our results as  suggesting that countries not engaged in investment promotion may benefit from such  activities. 
+2 
+
+========4========
+
+A series of robustness checks further supports our conclusions. First, we demonstrate that  inclusion of country-sector specific time trends has no effect on our conclusions. Second, we  show that the results hold if we exclude services sectors and utilities. This makes us confident that our findings are not driven by simultaneous opening to FDI and targeting of services  industries where entry of foreign investors was restricted in the past. Third, we demonstrate  that controlling for the past stock of FDI, a proxy for agglomeration effects, does not affect  the estimated coefficients. Fourth, to address the concern that FDI flows may be a poor  reflection of actual activities of foreign investors (Lipsey 2007), we demonstrate that our  results hold if we use sales or employment of US affiliates abroad as our dependent variable. Finally, to give us confidence that we are capturing the benefits of investment promotion in  the form of information provision and help with bureaucratic procedures, we examine  whether the effect of targeting is stronger in the presence of financial or fiscal incentives. This  does not appear to be the case. Our conclusion is further supported by the fact that there is no  evidence that targeting of the same sector by other countries in the same geographic region  leads to a diversion of FDI flows. 
+Our study is related to two distinct literatures. The first one is the literature evaluating the  effects of industrial policies. Within this literature, the strand most relevant to our work focuses on investment promotion. The few existing studies on this subject produce mixed  conclusions. While Bobonis and Shatz (2007) and Charlton and Davis (2006) provide  evidence suggesting that investment promotion is associated with higher FDI inflows, Head,  Ries and Swenson (1999) do not find any significant effect of investment promotion efforts.2 Our paper differs from the existing studies in several respects. First, we explicitly focus on  whether investment promotion is more effective in countries where information asymmetries  tend to be greater and bureaucratic procedures more burdensome. Examining this question  was not possible in the earlier studies which focused on FDI flows to US states, which are  very homogenous in terms of availability of information on business conditions, or OECD  countries among which differences may be limited.3 In contrast to these studies, we use a  broad sample of both developed and developing economies, which not only gives us a lot of  variation in terms of potential information asymmetries but also makes our results more  general. Second, we conduct a cost-benefit calculation in order to shed some light on whether  the fruits of investment promotion are worth the expenditure.4 And third, we take into account  investment promotion activities of competing host countries. 
+A related strand of studies examines the effectiveness of export promotion efforts. Again, the  results appear to be mixed. Bernard and Jensen (2004) do not find a statistically significant  relationship between expenditures of US states on export promotion and export market  
+                                                 
+2 
+Head, Ries and Swenson (1999) estimate a location choice model on a sample of 760 Japanese  manufacturing establishments in the US between 1980 and 1992. The findings show that the presence  of a state investment promotion office in Japan does not have a statistically significant effect on entry  of Japanese investors. In contrast, Bobonis and Shatz (2007), who analyze determinants of the FDI  stock in US states from eight source countries using Arellano-Bond dynamic panel data estimator,  reach the opposite conclusion. They measure investment promotion with the number of years a state  had a full-time state trade or investment office in each of the eight countries and find that a one-percent  increase in the number of years with an investment office increases the FDI stock by between 0.14 and  0.27 percent. Charlton and Davis (2006) use data on FDI inflows into 19 industries in 22 OECD  countries during the 1990-2001 period combined with information on targeted industries. Using  propensity score matching and the difference-in-differences specification, the authors show that  targeting of an industry increases the growth rate of FDI inflows into that industry by 41 percent. 3 
+For instance, Head et al. (1999, p. 209) state “Promotion offices, like other forms of advertising,  would be more likely to work when investors have little information about the choices they face. The  low efficacy of this policy suggests that Japanese investors may already be well-informed about [US]  state characteristics and therefore unswayed by the information the offices provide.” 
+4 
+For a very useful case study evidence of benefits and costs associated with investment promotion  efforts see Moran (2009). 
+3 
+
+========5========
+
+participation of US firms based in that state. Using Irish data, Görg, Henry and Strobl (2007)  show that large enough government export grants encourage existing exporters to compete  more effectively on the international market but find little evidence that grants encourage  non-exporters to start exporting. Using cross-country data, Lederman, Olarreaga and  Payton (2010) conclude that export promotion agencies have on average a strong and  statistically significant impact on exports.5,6 
+The second literature relevant to our study postulates that information asymmetries and poor  business climate constitute a significant obstacle to capital flows across international borders.  Information asymmetries between domestic and foreign investors have been put forward as a  possible explanation for home bias, the tendency of investors to invest less in foreign equities  relative to the prediction of a portfolio choice model (Stulz 1981, Ahearne, Griever, and  Warnock 2005). The negative effects of information asymmetries on capital flows have been  documented in empirical studies (Portes et al. 2001, Portes and Rey 2005, Gelos and Wei  2005). Moreover, Daude and Fratzscher (2008) have shown that FDI flows are “substantially  more sensitive to information frictions than investment in portfolio equity and debt  securities.”  Information asymmetries are the reason why  Bond and Samuelson (1986)  conclude  in their theoretical contribution that high-productivity countries should use tax  holidays as signals in their efforts to attract FDI. For the same reason, the theoretical model of  Gordon and Bovenberg (1996) suggests that a capital-importing country could raise welfare  by subsidizing foreign direct investment and other capital inflows from abroad.7 The negative  impact of corruption on investment flows has been documented in a number of studies  including Wei (2000a, 2000b), Javorcik (2004b) and Javorcik and Wei (2009), just to name a  few.8 
+This study is structured as follows. Section 2 focuses on the role of investment promotion in  an investor’s decision making process. The empirical strategy and the data are described in  Section 3. Section 4 discusses the results, while the last section presents the conclusions. 
+2. Role of investment promotion 
+2.1 What is investment promotion? 
+Wells and Wint (2000) define investment promotion as activities through which governments  aim to attract FDI inflows. These activities encompass: advertising, investment seminars and  missions, participation in trade shows and exhibitions, distribution of literature, one-to-one  direct marketing efforts, facilitating  visits of prospective investors, matching prospective  investors with local partners, help with obtaining permits and approvals, preparing project  proposals, conducting feasibility studies and servicing investors whose projects have already  become operational. Their definition of promotion excludes granting incentives to foreign  investors, screening potential investment projects and negotiations with foreign investors,  even though some IPAs may also be engaged in such activities. 
+Investment promotion activities can be grouped into four areas: (i) national image building,  (ii) investment generation, (iii) investor servicing, and (iv) policy advocacy. Image building  activities aim to build a perception of the country as an attractive location for foreign direct  investment. Investment generation involves identifying potential investors who may be  
+                                                 
+5 
+In a related study, Rose (2007) finds that the presence of foreign diplomatic missions is positively  correlated with exports to the country where the mission is located. 
+6 
+Industrial policies, even if effective, may have some downsides. Ades and Di Tella (1997) warn that  corruption tends to be higher in countries pursuing industrial policies. 
+7 
+For an analysis focusing on import-substituting FDI see Raff and Srinivasan (1998). 
+8 
+Our study is also related to the literature on general determinants of FDI inflows, which is, however,  too large to be reviewed here. For a recent survey of the literature see Blonigen and Wang (2004). 
+4 
+
+========6========
+
+interested in establishing a presence in the country, developing a strategy to contact them and  starting a dialogue with the purpose of having them commit to an investment project. Investor  servicing involves assisting committed investors in analyzing business opportunities,  obtaining permits and approvals for establishing a business in the host country and  maintaining business operations. Policy advocacy encompasses initiatives aiming to improve  the quality of the investment climate and identifying the views of private sector in this area. Investment promotion practitioners believe that the most effective way of attracting FDI is to  focus on a few priority sectors (so called targeting) rather than attempt to attract all types of  foreign investors. Thus, an agency not engaged in targeting will promote its country as a good  place to do business, while an IPA targeting particular sectors will emphasize why its country  is an ideal location for investors operating in these industries. Similarly, the former IPA will  attend many different types of fairs and conferences while the latter will present only at  events specific to the industries it aims to attract. The idea behind targeting is that a more  focused message tailored and delivered to a narrow audience will be more effective than  general investment promotion activities. 
+2.2 How can investment promotion affect the decision process of a  
+potential investor?9 
+A company that has decided to engage in FDI usually starts the process of selecting the  investment location by drawing a long list of potential host countries. The list is put together  by the company executives or by a consulting firm hired for the purpose of site selection. The  long list typically includes 8 to 20 countries which can be thought of as belonging to three  groups: (i) most popular FDI destinations in the world, (ii) countries located in proximity to the existing operations of the investor, and (iii) emerging FDI destinations (that is, countries  that the investor may not be initially very serious about but which represent “out of the box”  thinking). The inclusion of the third category presents an opportunity for IPAs. The potential  investor or the consulting firm working on its behalf is likely to include in the third group  countries whose advertisements they have recently seen in international media, countries  whose IPAs have recently approached them or their colleagues, or countries whose IPA  representatives they have met at conferences and industry fairs.10 
+Based on the trade-off between costs and the quality of business environment, the long list is  narrowed down to a short list of up to 5 potential host countries. This is usually done without  visiting the potential host countries, so the accessibility of the information about the business  conditions in a host country plays a crucial role. IPAs that provide up-to-date, detailed and  accurate data on their websites and IPAs that are willing to spend time preparing detailed  answers to investors’ inquiries and customize these answers to the needs of an individual  investor can increase the chances of their countries being included in the short list. 
+The next step in the decision-making process involves visiting the countries included in the  short list. This can be done by the potential investor, consultants or both. Multiple sites in  each country may be visited. A visit often involves interactions with an IPA which has the  opportunity to emphasize the advantages of locating in its country, answer questions, show  executives potential investment sites or introduce them to potential local business partners.  In the final stage of the process, the foreign investor chooses an investment location based on  the availability of potential sites, costs, the overall quality of business climate and availability  
+                                                 
+9 
+This subsection draws on MIGA (2006) and the authors’ interviews with former professional  consultants assisting companies in establishing facilities abroad. 
+10 
+For instance, the Polish IPA believes that TV advertising spots abroad increased the number of  visitors to its website by 43 percent in 2006 (source: Dziennik online. “Wielka promocja rozpoczeta.  Polska jak proszek do prania” December 29, 2006.   
+http://www.dziennik.pl/Default.aspx?TabId=97&ShowArticleId=26406). 
+5 
+
+========7========
+
+of incentives. An IPA can assist in providing information on incentives and prevailing  regulations (for instance, labor law), helping with the registration process and compliance  with other applicable bureaucratic requirements (for example, obtaining construction permits,  appropriate licenses and work permits for expatriate staff). 
+As evident from the above outline, IPAs can play a significant role in the selection process of  FDI sites and the process of establishing a foreign affiliate. The national IPA is often the first  entity contacted by a potential investor in order to obtain information. Absence of an IPA not  only increases the investor’s cost of gathering information but may also constitute a reason to  eliminate a location during the selection process. An IPA is also a key partner of a foreign  investor during the actual investment process. It often serves as an intermediary between the  investor and the national or local government agencies. A well-functioning IPA can to some  extent compensate for deficiencies of the bureaucracies in its country. 
+3. Empirical strategy and data 
+3.1 Empirical strategy 
+Our identification strategy relies on the fact that most IPAs focus their efforts on a certain  number of priority (targeted) sectors. Sector targeting is viewed by investment promotion practitioners as best practice, as it is believed that more intense efforts concentrated on a few  priority sectors are likely to lead to greater FDI inflows than less intense across-the-board  attempts to attract FDI. Thus in our empirical analysis we use a difference-in-differences approach and ask whether targeted sectors receive higher FDI inflows in the post targeting  period, relative to the pre-targeting period and non-targeted sectors. More specifically, we  estimate the following model: 
+ln (FDI inflowcit) = α0 + β0 Post targetingcit + γci + γct + γit + εcit 
+(1) 
+The dependent variable is the log of inflow of foreign direct investment into sector i in  country c at time t. Post targetingcit equals oneif country c targets sector i at time t and zero otherwise. γci, γct and  γit are country-industry, country-year and industry-year fixed effects,  respectively. Time-invariant characteristics that differentiate sectors chosen for targeting from  other sectors will be captured by country-sector fixed effects (so there is no need to include a  dummy for targeted sectors). Shocks common to all sectors in a particular country in a  particular year will be captured by country-year fixed effects (so there is no need to include a  dummy for the post-targeting period). Shocks affecting supply of FDI in a particular sector  will be controlled for by sector-year fixed effects. The model will be estimated on a sample of  countries that have or have not practiced sector targeting. Narrowing the sample to only  countries engaged in targeting does not change the conclusions of the study. 
+We will also aim to shed light on channels through which investment promotion works. In an extended specification, we will examine whether the effects of targeting differ depending on  the host country characteristics. In particular, we will focus on proxies that capture difficulties  with obtaining information on the host country or/and doing business in the host country: 
+ln (FDI inflowcit) = α1+ β1Post targetingcit +β2 Post targetingcit*Information  asymmetryc+  β3 Post targetingcit *Transaction costsc + γci + γct + γit + εcit 
+   
+(2) 
+6 
+
+========8========
+
+We anticipate that in countries where information asymmetries are likely to be greater and  transaction costs higher, investment promotion will be more effective (i.e., β2 and β3 will be positive). 
+3.2 Econometric issues 
+Identifying the relationship between investment promotion efforts and FDI inflows poses  some challenges.  Perhaps the most important challenge is establishing the direction of  causality. It could be argued that the choice of sectors to be targeted is endogenous; IPAs  could be targeting sectors which already experienced high inflows or are likely to do so in the  future. In the Census, IPAs were asked about who decided which sectors to target.11 The  incentive to target sectors that already have high expected FDI inflows may have been present  at the agency board level, but it is harder to make the same case for other entities involved. Of  the 97 agencies that responded, only 6 said the decision was entirely left to the agency board,  24 reported the board having some input into the decision, and 67 said the agency board was  not at all involved in the decision. Since the majority of the countries in the sample responded  that the agency board was not involved in the choice of sectors, we do not view this  possibility as a cause for concern.  
+What determined the choice of priority sectors? According to the data collected through the  Census,  priority sectors were overwhelmingly chosen as part of the country’s efforts to  develop these industries—this answer was given by 82 respondents.  34 respondents  mentioned that past success in attracting FDI was a factor, while 6 said it was part of a  national strategy plan. Other answers included: the country having a comparative advantage  in the sector (5 respondents), availability of raw materials (2), spare capacity in the sector (1),  efforts to develop linkages (1), global FDI trends (1), increased potential to earn foreign  exchange (1), local expertise in the sector (1), import substitution strategy (1) and the success  of other countries in the region (1). 
+We use five different strategies to deal with the potential reverse causality problem. First, we include country-industry fixed effects which take out unobserved time-invariant  characteristics specific to country-industry combinations. If, for example, the mining sector in  South Africa was chosen for targeting because of the endowment of gold and this endowment  is also the reason for large FDI inflows into the sector, this is controlled for by the country- sector fixed effect.  Country-industry fixed effects will also allow us to control for the  country’s comparative advantage in a given sector. Second, we show that our results are  robust to a specification with first, second and third lags. A change in FDI inflows is unlikely  to explain a change in policy which precedes it, although the strategy is not robust to forward- looking behavior of policy makers. Third, we investigate whether the sectors targeted were  different from other sectors in the years before the targeting started. We find no evidence of relatively successful or unsuccessful sectors (in terms of attracting FDI) being chosen for  targeting. Fourth, we show that the results hold even  if we exclude targeted sectors in  countries that made targeting decisions based on the past success or failure in attracting FDI  to that sector. Finally, we perform a strict exogeneity test suggested by Wooldridge (2002, p.  285) and show that it does not reject our empirical strategy. 
+Another challenge in our analysis is to distinguish the effect of an IPA from other changes in  policies (or anything else relevant for FDI inflows) occurring at the same time. We address  this challenge by including country-year fixed effects which capture country-specific factors  that may influence FDI inflows at a particular point in time. For instance, if country c started special investment promotion efforts in the automotive sector in year t and at the same time  simplified registration procedures for foreign investors, to the extent that the latter reform  
+                                                 
+11 
+The entities involved in the decision were: president’s office, prime minister’s office, ministry of  foreign affairs, ministry of finance, ministry of industry, ministry of commerce, agency board or the  decision was based on a national strategy plan. In some cases, several entities were involved.  
+7 
+
+========9========
+
+affected all sectors equally, it would be captured by the country-year fixed effect. We also  include sector-time fixed effects to capture factors affecting worldwide supply of FDI in a  particular sector at a particular point in time. These fixed effects capture global unobserved  sector-specific shocks. For example, if international investors suddenly decided to increase  investments in the ICT sector, and a country at the same time started targeting the ICT sector,  the investment promotion variable could capture the global shock rather than the country’s  promotion efforts. Inclusion of sector-year fixed effects takes care of this possibility. We also  show that our results are not affected by inclusion of country-sector-specific time trends or  geographic region-sector-year fixed effects. 
+3.3 Data 
+Our data on investment promotion activities come from the 2005 Census we conducted under  the aegis of the World Bank’s Research Department and  in cooperation with the Foreign  Investment Advisory Services, the Multilateral Investment Guarantee Agency and the World  Association of Investment Promotion Agencies. An electronic survey was sent out to all  national investment promotion agencies around the world. After several weeks reminder e- mails were sent out, and after some more weeks phone calls were made to increase the  likelihood of responding. As the survey forms came in, the data were carefully checked for  inconsistencies and missing information. Then new rounds of phone calls were made to  clarify inconsistencies and complete the data. The survey was sent out in December 2005, and  by April 2006 most of the information was complete. The survey form gave uniformity  needed for comparison across countries, while the information collected through the phone  calls  provided guidance on interpretation of the responses. This comprehensive process  yielded responses from 97 national investment promotion agencies. The  sample covers countries across all geographic regions as well as all income levels.  Seventy three of the  responses received were from developing countries. The sample also includes an additional 27 countries that we regard as very likely to not have an investment promotion agency. These  were identified by their absence in different directories of IPAs, lack of websites, by  confirmation of national embassies/other national public institutions or by consultations with  World Bank country economists. Thus in total, we consider 124 countries. 
+A potential concern is that high quality agencies are overrepresented in the sample due to self- selection. We cannot rule out this possibility completely, but a glance at our sample reveals a  wide representation of countries across all income groups and regions. Also our experience  from collecting the data suggests the opposite. Some developed countries were among the  hardest to obtain answers from, while countries in, for example, Sub-Saharan Africa were  often  extremely helpful in providing as extensive and precise information as possible.  Therefore, it is not clear which way a potential sample bias would work. If anything, it could make investment promotion appear less efficient than it actually is.   
+In the design of the survey, special attention was given to collecting time-varying sector- specific information on investment promotion activities. Agencies were asked if they targeted  specific sectors and when targeting started and ended. While this increased the effort needed  to collect the data, it allowed for making comparisons within countries and controlling for  country-sector-specific heterogeneity.12 
+Our sample covers 124 countries.13 This includes 56 countries which gave complete timing of  the targeting efforts towards at least one sector (we did not include in the sample sectors with  incomplete timing information). It also includes 30 countries which were at some point  engaged in targeting but did not provide complete timing information (for these countries we  
+                                                 
+12 
+One may be concerned about the quality of the recall information for the initial period of the sample.  However, restricting the analysis to the last decade of the data (1995-2004) does not change the  conclusions of the study. 
+13 
+The number of 124 countries corresponds to the baseline specification in Table 2. 
+8 
+
+========10========
+
+included only non-targeted sectors in the sample). Further 11 countries reporting no current or  previous targeting efforts can be found in the sample. Finally, the sample includes 21  countries which, to the best of our knowledge, do not have an IPA and 6 countries where we  know for sure that no agency exists.14 The complete list of countries covered by the analysis  and the number of observations capturing targeting efforts can be found in the  Appendix  Table 1. The overall sectoral breakdown of observations is listed in Appendix Table 2. 
+As evident from Figure 2, sectors most frequently targeted by developing countries included ICT, electrical equipment and machinery. In developed countries, the sectors of choice were  ICT, professional services, banking and finance. Wholesale trade was the least popular sector  in both groups of countries.  
+FDI data come from the US Bureau of Economic Analysis (BEA). These data give the stocks  of US FDI abroad.15 We use the first difference of the stocks to calculate flows. The BEA  publishes information on 13 sectors until 1998 and 15 sectors from 1999.16 We made two  changes to the BEA data. We aggregated “Other manufacturing” and “Other industries” into  one sector in the pre-1999 data, and “Machinery” and “Computer and electronic products” into one sector in the post-1998 data. The second change was to match sectors over time. Due  to a break in the aggregation in 1998 in the BEA data, sector definitions are not exactly the  same during the entire period. As our identification strategy is to follow sectors over time and  test if post-targeting inflows are significantly higher than pre-targeting inflows (and inflows to  non-targeted sectors), we would like to have long time periods before and after targeting. As  the break in aggregation appeared around the middle of the period, we would typically have  either very few years pre-targeting or very few years post-targeting had we not implemented  the matching procedure.  
+After these two changes, we match BEA sectors to the sector classification used in the Census to collect targeting information. See Appendix Table 3 for  the concordance. We have a  maximum of 15 sectors per country. The stock data are available from 1989-2004 (first  differenced for 1990-2004). The summary statistics are presented in Table 1. 
+The US is one of the top FDI source countries, so by focusing on US FDI we capture a large  share of the world’s FDI stock. Figure 3, which compares the stock of US FDI to the stock of  FDI from other OECD countries in 2000, demonstrates that US was the dominant source  country in Latin America, East Asia and industrialized economies. Additional advantages of  using the BEA data are their comparability across countries and access to figures on sales and  
+                                                 
+14 
+Note that restricting the sample to the 56 countries which provided complete timing information  would not change the conclusions of the study. This is also the case for the sample covering the 56  countries mentioned and 30 countries which do not have an IPA. 
+15 
+US direct investment abroad is defined as the ownership or control, directly or indirectly, by one US  resident of 10 percent or more of the voting securities of an incorporated foreign business enterprise or  the equivalent interest in an unincorporated foreign business enterprise. The data capture the  cumulative value of parents' investments in their affiliates (source:  http://www.bea.gov/bea/ai/0395iid/maintext.htm).  
+Data points suppressed by the BEA for confidentiality reasons are treated as missing. Twelve  percent of data points are suppressed. We check whether there is a correlation between sector targeting  and the suppressed observations by estimating a linear probability model where the dependent variable  is equal to one if the information on FDI in the sector-country-year cell has been suppressed, and zero  if it is reported. The set of explanatory variables is the same as in our baseline specification (equation  1). We find no statistically significant relationship between the likelihood of an observation being  suppressed and sector targeting. 
+Data points reported as values belonging to the range between -500,000 and 500,000 US dollars are  treated as equal to 500,000 dollars. We interpolated missing information on stocks to increase the  number of observations.  Excluding interpolated observations from the analysis would not change the  conclusions of the study. 
+16 
+From 1999, the BEA-data are classified under the 1997 North American Industry Classification  System (NAICS).  Previously, data were classified under the Standard Industrial Classification System  (SIC). 
+9 
+
+========11========
+
+employment of US affiliates abroad. The sales and employment figures are available 1983- 2003. We use these figures in our robustness checks. 
+In the analysis, we use the log of FDI inflows as our dependent variable. To deal with zeros  we add one US dollar to all observations before taking logs. To deal with negative values we  follow Blonigen (2004) and Eichengreen and Tong (2005) and set all negative values to 0.1  US dollar before taking logs. 
+In the extended specification, we include proxies capturing the difficulties associated with  obtaining information on the host country and the extent of bureaucratic procedures in the  host country. The first proxy is a dummy for host countries where English is an official  language. The data come from CEPII.17 The second measure is the average cultural distance  between the US and the host country. We use time-invariant scores on four cultural  dimensions constructed by Geert Hofstede based on surveys conducted throughout several  decades (starting out in the late 1960s) among workers of multinational firms, commercial  airline pilots, students, civil service managers and other groups. The following dimensions are  included: power distance, individualism, masculinity and uncertainty avoidance.18 The figures  are available for 56 countries. Each score ranges from 0 to 100. We take the absolute value of  the difference between the US and the host country for each of the scores and find the average  of the four figures. The variable enters the regressions in the log form.  
+In addition to using the average of the indicators, we will also use the index of power  distance, which in our view is the most relevant one for companies undertaking FDI. This  index captures how cultures differ in terms of the extent to which less powerful members of  organizations accept unequal power distribution. A high value of the index correlates with a  strong bureaucracy, hierarchical organizations and with low task orientation. Bypassing  someone in the chain of command in order to get something done is less acceptable in  countries with a high value of the index (Pakistan, Portugal, Venezuela) than in places with a  low value (US, Ireland, Canada). In cultures such as the US, Netherlands, and Britain, the  manager’s role tends to be more that of a facilitator/problem solver than an expert. Managers  in these countries do not suffer a severe loss of credibility by virtue of not having precise  answers to subordinate’s questions. The French, Japanese, Spanish, and Indonesians, on the 19 
+other hand, are more likely to expect their managers to be experts. 
+The final proxy used in the regression aims to capture the availability of information about the  host country in the US. Following Daude and Fratzscher (2008), we use the value of exports  of newspapers from the host country to the US, normalized by the population size of the host  country. The information on trade in newspapers is time-varying and expressed in current US  dollars. The data come from the UN’s COMTRADE database. We use trade flows for SITC  codes 6411 “Newsprint” and 8922 “Newspapers, journals, and periodicals”.20 
+We use four proxies to capture how burdensome bureaucratic procedures are in a host  country. The first two proxies are the number of days required to obtain a construction permit  in the host country and the number of day required to start a business in the host country. The  figures come from the 2009 Doing Business Indicators compiled by the World Bank and are  
+                                                 
+17 
+http://www.cepii.fr/anglaisgraph/bdd/distances.htm, 
+18 
+For a detailed description, see http://www.geert-hofstede.com/hofstede_dimensions.php. 
+According to these measures, the US ranks high (91 compared to the world average of 43) in terms of  individualism, which suggests it is a “society with a more individualistic attitude and relatively loose  bonds with others.” The US ranks low in terms of uncertainty avoidance (46 versus the average of 64),  which indicates a society that has fewer rules and does not attempt to control all outcomes and results  and has a greater level of tolerance for a variety of ideas, thoughts, and beliefs. 
+This data set has been cited by several economic studies (for instance, Shiller et al. 1992, Cozzi  1998, Flanagan 1999). 
+19 
+See http://www.orcworldwide.com/readroom/diversity_basics.php. 
+20 
+We use the import figures as reported by the US. If the data are missing, we rely on exports reported  by the host country. 
+10 
+
+========12========
+
+based on the information collected in 2008.21 The definitions of the Doing Business  Indicators are as follows. 
+“Doing Business records all procedures required for a business in the construction industry to  build a standardized warehouse. These procedures include submitting all relevant project - specific documents (for example, building plans and site maps) to the authorities; obtaining  all necessary clearances, licenses, permits and certificates; completing all required  notifications; and receiving all necessary inspections. Doing Business also records procedures  for obtaining all utility connections. Procedures necessary to register the property so that it  can be used as collateral or transferred are also counted. The survey divides the process of  building a warehouse into distinct procedures and calculates the time and cost of completing  each procedure in practice under normal circumstances. Information is collected from experts  in construction licensing, including architects, construction lawyers, construction firms, utility  service providers and public officials who deal with building regulations, including approvals  and inspections.”22 
+“Doing Business records all procedures that are officially required for an entrepreneur to start  up and formally operate an industrial or commercial business. These include obtaining all  necessary licenses and permits and completing any required notifications, verifications or  inscriptions for the company and employees with relevant authorities.”23 
+The next two measures capture government ineffectiveness and the extent of corruption. They  were compiled by Kaufmann, Kraay and Mastruzzi and are described in detail in their 2009 publication. The measure of corruption captures “perceptions of the extent to which public power is exercised for private gain, including both petty and grand forms of corruption, as  well as "capture" of the state by elites and private interests.” The measure of government  ineffectiveness captures “perceptions of the quality of public services, the quality of the civil  service and the degree of its independence from political pressures, the quality of policy  formulation and implementation, and the credibility of the government's commitment to such  policies.” Each measure is a composite index extracting information on governance from 35 different sources. The authors assume that the available individual governance ratings reflect  both some true but unobserved level of governance and sampling variations and perception  errors. The unobserved “true” level of governance can be backed out statistically (assuming a  linear unobserved component specification). The resulting estimates range from –2.5 to 2.5,  with a mean of zero and standard deviation of one. The higher the estimate for each country,  the better governed the country. For the purpose of our analysis, we multiply the index by -1 so  that a higher value corresponds to a higher level of corruption or government  ineffectiveness. Both measures are available for 1996, 1998, 2000, and annually for 2002- 2008. We use the average value for the period covered by our sample.24 
+                                                 
+21 
+The mismatch in the timing of this measure and our FDI data is regrettable, but unfortunately Doing  Business Indicators are not available for the 1990s. The first version of the database was published in  2004, but its country coverage was limited. Hence, we chose to use the latest available data in which  the largest number of countries is included. Doing Business Indicators are widely used in the literature,  see for instance Ciccone and Papaioannou (2007). 
+22 
+For more information, see http://www.doingbusiness.org/MethodologySurveys/DealingLicenses.aspx 23 
+For more information, see  
+http://www.doingbusiness.org/MethodologySurveys/StartingBusiness.aspx 
+24 
+The corruption index compiled by Kaufmann et al. (2009) was used, for instance, by Javorcik and  Wei (2009). 
+11 
+
+========13========
+
+4. Results 
+4.1 Baseline analysis 
+Taking advantage of information on sectors targeted by IPAs (if any), we use the difference- in-differences approach and examine whether sectors targeted by IPA receive more FDI  inflows in the post-targeting period relative to the pre-targeting period and non-targeted  sectors. Our goal is not to check whether countries with IPAs engaged in sector targeting  receive more FDI than countries that do not follow this approach. Rather, targeting is used as  a convenient identification strategy that allows us to ask whether IPAs are successful at  bringing the type of FDI they strive to attract. 
+The estimated specification includes a set of controls. To take into account heterogeneity  across sector-country combinations, we include sector-country fixed effects. Rather than  including explicit country-level controls, we include in the specification country-year fixed  effects. These control for all country-specific changes taking place over time. To the extent  that changes in the host country policies, regulations and other factors affect FDI inflows to  all sectors in the same way, country-year fixed effects will capture them. It is also possible  that some global shocks affect the supply of FDI in a particular sector. To take this into  account, we add sector-year fixed effects. To the extent global shocks affect flows of FDI into a particular sector in the same way across countries, they will be captured by sector-year fixed  effects. 
+The results, presented in the top panel of Table 2, suggest that investment promotion efforts  are associated with higher FDI inflows. The coefficient on the post-targeting dummy is  positive and statistically significant in 3 of 4 specifications. While we find no  contemporaneous effect, all lagged specifications suggest a positive link between investment  promotion and FDI inflows. This pattern is intuitive as it may take time for investment  promotion efforts to bear fruit. The lag may be particularly pronounced when it comes to the  effects of marketing campaigns.25 
+In the other panels of the table, we present two robustness checks. First, we show that our  results are robust to controlling for region-sector-year fixed effects. Geographic regions are  defined based on the World Bank classification and include Latin American and the  Caribbean, East Asia and the Pacific, Europe and Central Asia, Sub-Saharan Africa, South  Asia, Middle East and North Africa, and developed countries. Thus if, for instance, South  Asia becomes a more attractive destination for ICT investment due to an increase in skilled  labor availability, these fixed effects will take it into account. Second, we show that our  results are robust to controlling for country-sector-specific time trends. So if, for example,  India becomes a more attractive destination for ICT investment due to an increasing  availability in computer programmers, this trend will be taken into account. 
+4.2 What about reverse causality? 
+To investigate the possibility that our results are driven by reverse causality–that is  investment inflows determine subsequent targeting done by host countries rather the other  way around–we conduct a strict exogeneity test. As suggested by Wooldridge (2002, p. 285),  we estimate a specification with a contemporaneous effect of targeting as well as its lead and  lag. We do so for the full sample as well as for the subsamples of developing and developed  countries. We find a positive and significant effect of lagged targeting in the full sample and  the subsample of developing countries (see Table 3). No significant effect is detected for  
+                                                 
+25 
+When the contemporaneous and the lagged effects enter the same specification, only the latter is  statistically significant. A more detailed investigation of the timing of the effects suggests that the  effect of targeting increases over time. This gradual increase is very pronounced in the developing  country subsample. 
+12 
+
+========14========
+
+developed economies. More importantly, we find that leads of targeting variables are negative  and insignificant in all three models. Moreover, in the first two samples we can reject the  hypothesis that the effect of the lead value is the same as the combined effect of the current  and past targeting. These estimation results give us confidence that our analysis does not  suffer from reverse causality problems. 
+We also estimate a probit regression modeling the determinants of sector targeting. The  dependent variable is equal to one if country c begins targeting industry i at time t, and zero if  the industry is not targeted at time t.26 The purpose of the exercise is to find out whether past  FDI inflows or FDI stocks in industry i in country c (lagged one, two or three periods) can  predict future targeting of the industry. The model also includes controls for country  characteristics, such as log of GDP per capita, log of population size, GDP growth, inflation,  restrictions on civil liberties as well as country and year fixed effects.27 We do not find a  statistically significant coefficient on the FDI variable in any of the six specifications (see  Appendix Table 4). 
+As another robustness check, we remove from the sample observations for targeted sectors in  countries where the investment promotion agencies reported in the Census that the choice of  priority sectors was based on the earlier success in attracting inflows to those sectors or the  lack thereof. As can be seen in  Appendix Table 5, removing these countries leads to a  stronger rather than weaker effect of the investment promotion efforts. 
+In sum, all of the above results suggest that reverse causality is not an issue in our analysis. 
+4.3 Is the effectiveness of IPAs influenced by information asymmetries? The theoretical and empirical literature, reviewed in the introduction, suggests that  information asymmetries constitute a significant obstacle to capital flows across international  borders.28 One of the core functions of investment promotion is to alleviate the problems  associated with the lack of information. If investment promotion is an effective channel of  alleviating information asymmetries, it should be more effective in countries where  information is harder to obtain.29 
+To examine this question in more detail, we first ask whether the effects of targeting are more pronounced in countries where English is not an official language. As evident from Table 4, this is indeed the case. In both specifications, the coefficient on sector targeting is positive  and statistically significant, but its interaction with the dummy for English being an official  
+                                                 
+26 
+Thus observations for targeted sectors in years other than the first year of targeting are not included  in the sample. 
+27 
+The GDP and population variables are used as proxies for the market size. They come from the  World Bank’s World Development Indicators (WDI). The inflation rate, provided by the IMF  International Financial Statistics, is a proxy for macroeconomic stability. As measures of political  institutions and business climate we use a time-varying index of civil liberties from Freedom House. It  ranges from 1 denoting the freest countries to 7 denoting the least free countries.  
+28 
+Gordon and Bovenberg (1996, p. 1059) argue that “Investors, by living and working in a particular  country, know much more about the economic prospects of that country than they do about those in  other countries. . . . Foreigners' lack of knowledge can result also in a less efficient use of real  resources, due for example to their poorer ability . . . to deal with idiosyncratic aspects of the domestic  contract law . . . and local customs governing labor relations.”  
+29 
+There is a long standing debate in the literature on whether marketing plays an informative or a  persuasive role. While this question has not been resolved, there is ample evidence suggesting that  marketing efforts pay off. For instance, using data from a field experiment in South Africa Bertrand et  al. (2010) find that advertising content affects demand for loans. They also find that showing a female photo increases demand by about as much as a 200-basis point reduction in the interest rate.  
+In our study, we do not take a stand on whether IPAs play an informative or persuasive role (they  probably do both), we are simply interested in exploring whether their efforts are effective. 
+13 
+
+========15========
+
+language is negative and significant.30 This suggests that investment promotion efforts are  more effective in countries where English is not widely spoken, which is consistent with our  belief that it is easier to obtain information and learn how to do business in these economies. We cannot reject the hypothesis that investment promotion has no effect in countries where  English is an official language.31 
+In the remainder of Table 4, we use the other proxies for information asymmetries. To  facilitate the comparison of results across various specifications, we subtract from each proxy  its mean calculated over the relevant sample.32 Thus, for instance in column 3 the interaction  term for the country with the average cultural distance vis a vis the US will take on the value  of zero. It will take on a positive value for countries more culturally different than the average  and a negative value for countries less culturally different than the average.33 
+The results, presented in columns 3 through 6, confirm that the effectiveness of investment  promotion depends on the cultural distance between the US and the host country. The results  for the overall distance and the difference in perceptions of hierarchy (power distance) are  quite similar. The interaction term between the dummy for targeted sectors and the cultural  distance is positive and significant in all cases. The Post targeting dummy itself bears a  positive sign (though it is not statistically significant  in one specification).  These results  suggest that investment promotion plays a greater role in attracting FDI to culturally distant  countries. 
+Finally, we turn to the proxy capturing the availability of information about the host country  in the US (exports of newspapers). In both specifications, we find that lower availability of  newspapers is associated with greater effectiveness of investment promotion, though only the  contemporaneous effect is statistically significant.  
+In sum, we conclude that the evidence presented so far suggests that the positive relationship  between investment promotion and FDI inflows works (at least to some extent) through IPAs  alleviating information asymmetries. 
+4.4 Are IPAs more effective in countries with more burdensome red  
+tape? 
+As mentioned earlier, one of the functions of an IPA is to assist committed investors with  obtaining investment permits, licenses, business registration, work permits for expatriate staff  and other bureaucratic procedures. Well-functioning IPAs can to some extent compensate for  deficiencies of bureaucracies in their countries. If this is indeed one of the channels through which investment promotion works, we would expect to see that investment promotion efforts  are more effective in countries with less efficient bureaucracies and more burdensome red tape. 
+Our results, presented in the first four columns of Table 5, are consistent with this view. We  find that targeted sectors receive on average more FDI and that this effect is larger in  
+                                                 
+30 
+Note that our specification does not include the English variable by itself as the model contains  country-year fixed effects. 
+31 
+Note that we used the DFITS statistics of Welsch and Kuh (1977) to drop influential observations  from the regressions presented in the first two columns of Table 4. We used the cutoff of 2√(k/N) suggested by Belsley, Kuh and Welsch (1980). 
+32 
+For instance, the full data set is the relevant sample in Table 4, while in Table 8 developing countries  are the relevant sample. 
+33 
+Although the information on cultural distance is not available for all countries, we avoid losing  observations for country-sectors which are not engaged in targeting because in those cases Post  targeting*Information asymmetry equals 0 due to Post targeting being equal to 0, and it is not  necessary to have non-missing data for cultural distance. 
+14 
+
+========16========
+
+countries with less effective governments and a higher corruption level.34 In all specifications,  the estimated coefficients are statistically significant. In the next four columns, we show that  investment promotion plays a greater role in countries where it takes longer to start a business  and to obtain a construction permit.35 The targeting dummy is positive and significant in all  specifications and the interaction term is positive and statistically significant in 3 of 4 cases. Summing up, our data provide evidence consistent with IPAs stimulating inflows of FDI by  alleviating the burden of the red tape. 
+4.5 What matters more: information provision or help with  
+bureaucratic procedures? 
+In Table 6, we present specifications where proxies for information asymmetries and  transaction costs are included in the same specification. In all regressions, the targeting effect  is positive and statistically significant and the interaction terms have the expected signs. Of  the 16 interaction terms in 8 specifications, 10 are statistically significant. 4 of these terms  pertain to information asymmetries and 6 to transaction costs.  
+Thus we conclude that while investment promotion appears to work both through information  provision and assistance with red tape, the preponderance of evidence suggests that the latter  channel is more important. 
+The result that investment promotion is more effective in the presence of information  asymmetries or more burdensome bureaucratic procedures is an interesting finding in its own  right. Moreover, testing a more nuanced prediction and showing that investment promotion  works better where we would expect it to do so suggests that we are indeed capturing the  effects of IPA efforts rather than some other factors. 
+4.6 Is there a difference between developed and developing countries? Next we investigate whether the effects of investment promotion differ between developed  and developing countries.36 As information on business conditions is less readily available on  developing countries and since such economies tend to have more burdensome regulations,  we expect to find that investment promotion is more effective in a developing country setting.  As evident from Table 7, we find no evidence of investment promotion being effective in  industrialized economies. The estimated coefficient is negative in all specification and in two of them appears to be insignificant. Note that this result is not driven by outliers. 
+What is more interesting from the perspective of our study is that investment promotion  appears to lead to higher FDI inflows in emerging markets. The coefficient on the post- targeting dummy is positive and statistically significant in all specification in the developing  country subsample. As time may be needed for the effects of investment promotion to become  visible, it is not surprising the coefficients on lagged dummies increase with the length of the  lag. 
+In the next table (Table 8), we show that even within the subsample of developing countries  investment promotion is more effective in economies with worse performing governments,  countries where it takes longer to obtain a construction permit and places more culturally  different from the US. An interaction between the targeting dummy and exports of  
+                                                 
+34 
+Recall that by construction both of these proxies have a mean zero. 
+35 
+Recall that to facilitate comparisons, we subtract from the measure of bureaucratic burden the  average value for the sample. 
+36 
+The definition of developing countries is based on the World Bank classification. For a list of  developing countries, see Appendix Table 1. 
+15 
+
+========17========
+
+newspapers does not produce a statistically significant coefficient. These results confirm our  earlier conclusions about information provision and lessening of bureaucratic burden being  two channels through which investment promotion stimulates inflows of FDI. 
+We also perform additional checks testing the robustness of the relationship between  investment promotion and FDI inflows in developing countries, which we do not report to  save space. First, one may be concerned that our findings could be driven by simultaneous  opening to FDI and targeting of services industries where entry of foreign investors was  restricted in the past. To eliminate this possibility, we exclude from the sample services  sectors and utilities and show that this change does not affect our findings. Second, as  agglomeration effects may be important in attracting FDI (see Wheeler and Mody 1992, Bobonis and Shatz 2007), we include the lagged FDI stock in the sector. Note that in this way  we control for sector-specific agglomeration effects. General agglomeration effects associated  with FDI are already captured by country-year fixed effects. Including lagged FDI in our  model does not affect our results with respect to investment promotion. Third, the choice of  the control group is an important consideration. In our analysis, we have compared targeted  sectors before and after targeting with sectors that were not targeted. A potential concern is  that inclusion of a large number of low performing (in terms of FDI inflows) sectors could  amplify the effect of targeting and thus exaggerate its effect. To evaluate this concern we  estimate the effect of targeting on the subsample of 56 countries that targeted at least one  sector during the period covered by our analysis (for the list see Appendix Table 1). The  estimated coefficients on the targeting variable are positive and significant at the 1 or 5 percent level. 
+An aspect of investment promotion that typically receives high levels of attention from both  policy makers and academics is investment incentives. Thus we would like to shed light on  whether our findings on IPA effectiveness are driven mostly by information provision or  lessening the red tape costs or whether they could be capturing existing financial and fiscal  incentives. 
+In the Census, we collected time-varying information on different  types of investment  incentives: financial incentives, tax holidays, reduced tax rates and subsidized infrastructure  or services. Unfortunately, this information is available only at the country (and not country- sector) level. However, the Census questionnaire did ask whether targeted sectors were  eligible for more incentives than other industries and when such policy was in effect. While  we recognize that this information is imperfect, we nevertheless find it interesting to check  whether the existence of incentives has an effect beyond sector targeting.  
+In additional regressions, not reported to save space, we augment the specification from  column 4 in Table 7 by adding an interaction between the post-targeting dummy and the  special incentives dummy. The latter dummy takes on the value of 1 if the agency indicated  that the investors in targeted sectors had been eligible at some point in time for more  incentives than those entering non-targeted sectors, and zero otherwise. While we find that  priority sectors receive more FDI, there is no indication that special incentives boost inflows  to targeted sectors. Next, we include a triple interaction between the post-targeting dummy,  the special incentives dummy and a dummy for a country offering any type of general  incentives at any point in time. Again while our basic result holds, the interaction term is not  statistically significant. Then we take into account the timing of special incentives, but doing  so does not affect our findings. Finally, we interact the post-targeting dummy with the general  incentives dummy. The interaction term is not statistically significant, but the post-targeting  dummy is both positive and significant. In sum, we find no evidence of investment incentives  leading to additional FDI inflows, which supports our earlier conclusion of  information  provision being the key channel through which investment promotion works. 
+In the final exercise, we search for evidence of FDI diversion due to IPA efforts in competing  host countries. Evidence confirming the existence of diversion would be suggestive of  investment incentives playing a role in IPA efforts. To take into account competition, we  
+16 
+
+========18========
+
+include in the regression the number of countries in the same geographic region targeting FDI  inflows in the same sector.37 This sum is weighted either by the GDP or the population size of  the relevant countries. The variable enters the regression in the log form.38 The results,  presented in Table 9, show no evidence of FDI diversion due to competition from other  countries. While the coefficients on sector targeting are positive and statistically significant,  the coefficients on the competition measure never reach the conventional significance levels.  We also repeated this exercise focusing on competition from countries in the same income  group (low income, lower middle income, upper middle income) rather than in the same  geographic region. The results, not reported to save space, are similar to those found in Table  9.  
+In sum, our results suggest that investment promotion efforts are associated with higher FDI  inflows to targeted sectors in emerging markets. Lessening of the red tape costs and  information asymmetries appear to be the key channels through which investment promotion  works.  
+4.7 Comparing benefits and costs of investment promotion 
+Our analysis allows us to conduct a back-of-the-envelope cost-benefit calculation. On the  benefit side, we find that in the post-targeting period, priority sectors in developing countries  tend to receive 155% higher FDI inflows (column 4 in  
+relative to non-targeted sectors. This effect is statistically significant at the 1% level. While  the magnitude of the effect may seem large, it is not implausible. Many sectors experience zero and close to zero inflows. If we consider only positive flows of US FDI, the median  value in our developing country subsample is 11 million dollars. Thus, the estimated 155%  percent increase would mean an additional annual inflow of 17 million dollars for the median  sector-country observation.  
+A quick look at the amounts multinational corporations actually invest in emerging markets reveals that FDI inflows of this magnitude are not uncommon. For example, hosting one of  the world’s most successful investment promotion agencies (according to Sachs 2006),  Malaysia attracted about 17.5 billion dollars of FDI in 2007, distributed across 949 projects  and representing a potential of 98,000 jobs.39 CzechInvest reports investment projects in  which the investors have been in contact with the agency. One example is the US based  company  IRCR Manufacturing s.r.o. that invested 42 million dollars in the automotive  industry in 2001, another is the US based Kimberly-Clark s.r.o. investing 54 million dollars in  2003 and a third is the US-based  ExxonMobil Business Support Center Czechia s.r.o.,  investing 34 million dollars in the sector of financial and accounting operations in 2003. The  average size of the 91 US sourced investment projects taking place over the 1993-2007 period  in the Czech Republic was 16 million dollars and 211 jobs.40 
+On the cost side, we rely on the 2004 budget figures obtained from the Census and find that  an average IPA spent 90,000 per sector targeted. Combining the benefit and the cost side, we  conclude a dollar spent on investment promotion leads to 189 dollars of FDI inflows. In other  
+                                                 
+37 
+The definition of geographic regions is based on the World Bank classification and includes: East  Asia and Pacific, Europe and Central Asia, Latin America and Caribbean, Middle East and North Africa, South Asia, and Sub-Saharan Africa. 
+38 
+One may wonder whether this analysis does not call for the inclusion of terms capturing spatial  interdependence between host countries. However, recent analysis by Blonigen et al. (2007) suggests  that the estimated relationships of traditional determinants of FDI are surprisingly robust to the  inclusion of measures of spatial interdependence and, after controlling for country-specific dummy  variables, estimated effects of spatial terms are often insignificant. 
+39 
+http://www.mida.gov.my/ 
+40 
+http://www.czechinvest.org/en/why-invest-in-the-czech-republic 
+17 
+
+========19========
+
+words, bringing a dollar of FDI inflows costs half a cent in investment promotion  expenditures.  
+In an alternative exercise, we focus on the cost of creating a new job in a foreign affiliate.  This is also a relevant metric as most policy makers care about creating employment and  recent research shows that foreign affiliates tend to pay higher wages than domestic firms to  workers with similar characteristics. In Appendix Table 6, we repeat our exercise but change  the dependent variable to employment and sales of US affiliates abroad. These data also come  from the US Bureau of Economic Analysis but they are more limited in their coverage. We  confirm our earlier conclusions. Investment promotion efforts lead to higher FDI inflows in  developing countries. In all specifications, we find positive and statistically significant (at the  five or one percent level) coefficients. Based on the specification from column 5, we find that  targeted sectors see a 68 percent increase in employment relative to non-targeted sectors. This  translates into additional 1,159 jobs per sector. Using the above figures on costs of targeting  would suggest an investment promotion spending of 78 dollars per job created. This figure  suggests that investment promotion is an inexpensive policy. It seems even more so, if we  keep in mind that the value of productivity spillovers from FDI estimated by Haskel et al.  (2007) was equal to 4,300 dollars (in 2000 prices) per job created by foreign affiliates.41 How does investment promotion compare to other policies available to host countries? An  alternative way to draw in FDI would be to offer foreign investors tax reductions. In a meta- analysis of the empirical literature, Mooij and Everdeen (2003) find that the semi-elasticity of  FDI with respect to the host country tax rate is -3.3. Thus a tax reduction of 10 percentage  points would lead to an increase in FDI of 39 percent.42 If the tax reduction applied only to  new FDI investment projects, lasted 5 years and the average return on assets (ROA) were  equal to 20 percent, the cost in terms of lost corporate tax revenue over the 5 year period  would  be  Δtax*5  years*ROA*FDI  =0.2*5*0.2*FDI  =  0.2FDI.    Thus  the  benefit-cost ratio  would equal to 0.39/0.2 or about 10 dollars of additional FDI per a dollar of foregone tax  revenue.43 
+Alternatively, a government could attempt to stimulate employment growth by subsidizing  entrepreneurs who create jobs. Scott A. Shane provides a rough calculation of the costs of  such policy in the US.44 A representative survey of new business start-up efforts in the US  indicates that the median entrepreneur needs 15,000 dollars to pursue a new business idea and  can provide 6,000 dollars. Therefore, 9,000 dollars in additional financing would be needed to  overcome this capital gap and allow an entrepreneur to start a business. Data from the Small  Business Administration reveal that the average number of employees in a new employer firm  is 5.6. Hence, the average cost per a new employee (not taking into account business failures)  would be about 2,678 dollars. 
+The cost-benefit ratio of investment promotion compares favorably to those of alternative  policies available to governments. We do caution the readers, however, that our cost-benefit  calculations of investment promotion efforts are very rough and should be taken with a grain  of salt. On the one hand, they capture only the effect of targeting on flows of US FDI. To the  extent that investment promotion has a similar effect on investors from other economies, our  analysis will underestimate the benefits of investment promotion activities. On the other hand,  there may exist other factors which contribute to the success of investment promotion and  whose costs we are not taking into account (for instance, priority sectors may be awarded  
+                                                 
+41 
+Admittedly, these estimates pertain to the UK and one can question whether spillovers in developing  countries are similar to those found in industrialized countries. 
+42 
+   exp(-3.3(Δtax))=exp(-3.3(-0.1))=1.39. 
+43 
+A larger reduction in the tax rate would increase the amount of foregone tax revenue per dollar of  additional FDI. If the tax reduction were offered to all foreign investors, rather than just new FDI projects, the cost of policy would increase substantially. We are grateful to an anonymous reviewer for  suggesting this exercise. 
+44 
+http://boss.blogs.nytimes.com/2009/07/06/how-much-does-it-cost-to-create-a-job-by-encouraging- entrepreneurship/ 
+18 
+
+========20========
+
+access to accelerated bureaucratic procedures). Finally, one needs to stress that our analysis  captures the average, not the marginal, effect. Thus we are not suggesting that a large increase  in investment promotion spending on the part of economies already engaged in such practice  will lead to spectacular increases in FDI inflows. Rather, we interpret our results as  suggesting that countries not engaged in investment promotion may be benefit from such  activities. 
+5. Conclusion 
+Given that information asymmetries between host countries and potential foreign investors  and the burden of the red tape in host countries act as barrier to investment flows across  international borders, an important policy question is: what can aspiring FDI destinations do to reduce such barriers?  
+The newly collected and very detailed data on sector-specific investment promotion efforts in  124 countries allow us to examine this question. We do so by testing whether sectors  explicitly targeted by investment promotion agencies in their efforts to attract FDI receive  more investment in the post-targeting period, relative to the pre-targeting period and non- targeted sectors. 
+The results of our analysis are consistent with investment promotion decreasing information  asymmetries, lessening the burden of bureaucratic procedures and leading to higher FDI flows  to developing countries. No such link is found for industrialized economies. Our findings suggest  that  investment promotion can  be a potent tool for emerging markets wishing to  attract FDI inflows.  
+The past several years have witnessed a resurgence of interest in industrial policies on the part  of developing country governments. In contrast to most industrial policies whose benefits are  often disputed, our results suggest that investment promotion is an inexpensive and effective  option available to emerging country governments wishing to stimulate economic  development. 
+19 
+
+========21========
+
+Bibliography 
+Ades, Alberto and Rafael Di Tella, 1997. “National Champions and Corruption: Some  Unpleasant Interventionist Arithmetic,” Economic Journal, 107(443): 1023- 1042. 
+Ahearne, Alan, William Griever, and Francis E. Wanrock, 2004. “Information Costs and  Home Bias: An Analysis of U.S. Holdings of Foreign Equities,” Journal of International  Economics, 62: 313-336. 
+Almeida, Rita, 2007 . “The Effects of Foreign Owned Firms on the Labor Market,” Journal of  International Economics, 71: 75-96. 
+Belsley, David, Roy Welsch and Edwin Kuh, 1980. Regression Diagnostics: Identifying  Influential Data and Sources of Collinearity. New York: Wiley. 
+Bernard, Andrew and Jensen, J. Bradford, 2004. “Why Some Firms Export,” Review of  Economics and Statistics, 86: 561–569. 
+Bertrand, Marianne, Dean Karlan, Sendhil Mullainathan, Eldar Shafir and Jonathan Zinman,  2010. “What’s Advertising Content Worth? Evidence from a Consumer Credit Marketing  Experiment,” Quarterly Journal of Economics, 125(1): 263–305. 
+Blalock, Garrick and Paul J. Gertler, 2008. “Welfare Gains from Foreign Direct Investment  through Technology Transfer to Local Suppliers," Journal of International Economics,  forthcoming. 
+Blonigen, Bruce A. and Miao Wang, 2004. "Inappropriate Pooling of Wealthy and Poor  Countries in Empirical FDI Studies," National Bureau of Economic Research, Working  Paper, 10378. 
+Blonigen, Bruce A., Ronald B. Davies, Glen R. Waddella and Helen T. Naughton, 2007. “FDI  in Space: Spatial Autoregressive Relationships in Foreign Direct Investment,” European  Economic Review, 51(5): 1303-1325. 
+Bobonis , Gustavo J. and Howard J. Shatz, 2007. “Agglomeration, Adjustment, and State  Policies in the Location of Foreign Direct Investment in the United States,”  Review of  Economics and Statistics, 89(1): 30-43. 
+Bond, Eric and Larry Samuelson, 1986. Tax holidays as signals. American Economic Review,  76: 820–826. 
+Charlton, Andrew and Nicholas Davis, 2006. “Does Investment Promotion Work?” London  School of Economics, mimeo. 
+Ciccone, Antonio and Elias Papaioannou, 2007. “Red Tape and Delayed Entry,” European  Central Bank Working Paper 758. 
+Cozzi, Guido, 1998. “Culture as a Bubble,” Journal of Political Economy , 106(2): 376-394. 
+Daude, Christian and Marcel Fratzscher, 2008. “The Pecking Order of Cross-border  Investment,” Journal of International Economics, 74: 94–119. 
+de Mooij, Ruud A. and Sjef Ederveen, 2003. “Taxation and Foreign Direct Investment: A  Synthesis of Empirical Research,” International Tax and Public Finance, 10: 673–693. 
+20 
+
+========22========
+
+Eichengreen, Barry and Hui Tong, 2005. "Is China's FDI Coming at the Expense of Other  Countries?" National Bureau of Economic Research, Working Paper, 11335. 
+Flanagan, Robert J. Flanagan, 1999. “Macroeconomic Performance and Collective  Bargaining: An International Perspective,” Journal of Economic Literature, 37(3): 1150- 1175. 
+Gelos, Gaston and Shang-Jin Wei, 2005. “Transparency and International Portfolio  Holdings,” Journal of Finance, 60(6): 2987- 3020. 
+Gordon, Roger, and Lans Bovenberg. 1996. “Why Is Capital So Mobile Internationally?  Possible Explanations and Implications for Capital Income Taxation.” American Economic  Review, 86 (5): 1057–75. 
+Görg, Holger, and Eric Strobl. 2001. “Multinational Companies and Productivity Spillovers:  A Meta-Analysis,” Economic Journal, 111: 723–739. 
+Görg, Holger, Michael Henry and Eric Strobl, 2007. "Grant support and exporting activity,"  Review of Economics and Statistics, 90(1), 168-174. 
+Greenwald, Bruce, and Joseph E. Stiglitz, 1986. “Externalities in Economies with Imperfect  Information and Incomplete Markets,” Quarterly Journal of Economics, 101(2), 229-264. 
+Haskel, Jonathan E., Sonia C. Pereira, and Matthew J. Slaughter (2007). Does Inward Foreign  Direct Investment Boost the Productivity of Domestic Firms? Review of Economics and  Statistics 89(3): 482-496 
+Head, Keith, John Ries and Deborah Swenson, 1999. “Attracting Foreign Manufacturing:  Investment Promotion and Agglomeration,” Regional Science and Urban Economics, 29(2): 197-218. 
+Javorcik Beata Smarzynska, 2004a. “Does Foreign Direct Investment Increase the  Productivity of Domestic Firms? In Search of Spillovers through Backward Linkages,”  American Economic Review, 94(3): 605-627. 
+Javorcik Beata Smarzynska, 2004b. “The Composition of Foreign Direct Investment and  Protection of Intellectual Property Rights in Transition Economies,” European Economic  Review, 48(1): 39-62. 
+Javorcik, Beata Smarzynska and Mariana Spatareanu, 2008. “To Share or Not to Share: Does  Local Participation Matter for Spillovers from FDI?” Journal of Development Economics, 85(1-2): 194-217. 
+Javorcik, Beata Smarzynska and Mariana Spatareanu, 2009. “Tough Love: Do Czech  Suppliers Learn from Their Relationships with Multinationals?”  Scandinavian  Journal of  Economics, 85(1-2): 194-217. 
+Javorcik, Beata Smarzynska and Mariana Spatareanu, 2010. “Does It Matter Where You  Come From? Vertical Spillovers from Foreign Direct Investment and the Origin of Investors”  Journal of Development Economics, forthcoming. 
+Javorcik, Beata Smarzynska and Shang-Jin Wei, 2009. “Corruption and Cross-border  Investment in Emerging Markets: Firm-Level Evidence” Journal of International Money and  Finance, 28(4): 605-624. 
+21 
+
+========23========
+
+Kaufmann, Daniel, Aart Kraay, and Massimo Mastruzzi, 2009. “Governance Matters VIII:  Aggregate and Individual Governance Indicators, 1996-2008,” World Bank Policy Research  Working Paper 4978. 
+Lipsey, Robert E. and Fredrik Sjöholm, 2004. “Foreign Direct Investment, Education and  Wages in Indonesian Manufacturing,” Journal of Development Economics, 73(1): 415-422. 
+Loewendahl, Henry, 2001. “A Framework for FDI Promotion,” Transnational Corporations,  10(1), 1-42. 
+Lederman, Daniel, Marcelo Olarreaga and Lucy Payton, 2010. "Export Promotion Agencies: Do They Work?" Journal of Development Economics, 91(2): 257- 265. 
+Lipsey, Robert E., 2007. “Defining and Measuring the Location of FDI Output,” National  Bureau of Economic Research, Working Paper 12996. 
+Moran, Theodore H., 2009. Foreign Direct Investment and Development, Launching a Second  Generation of Policy Research:  Avoiding the Mistakes of the First, Re-Evaluating Policies  for Developed and Developing Countries,  Peterson Institute for International Economics,  Washington DC, forthcoming. 
+Multilateral Investment Guarantee Agency (MIGA), 2006. Investment Promotion Agency Performance Review 2006, World Bank, Washington DC. 
+Portes, Richard and Helene Rey, 2005. “The Determinants of Cross-Border Equity Flows,”  Journal of International Economics, 65(2): 269–296. 
+Portes, Richard, Helene Rey and Yonghyup Oh, 2001. "Information and Capital Flows: The  Determinants of Transactions in Financial Assets," European Economic Review, 45(4-6):  783-796. 
+Proksch,  Marc,  2004.  “Selected Issues on Promotion and Attraction of Foreign Direct  Investment in Least Developed Countries and Economies in Transition,” Investment  Promotion and Enterprise Development Bulletin for Asia and the Pacific, 2, 1-17, United  Nations Publications. 
+Raff, Horst and Krishna Srinivasan, 1998. “Tax Incentives for Import-substituting Foreign  Investment: Does Signaling Play a Role?” Journal of Public Economics, 67: 167–193. 
+Rose, Andrew, 2007. “The Foreign Service and Foreign Trade: Embassies as Export  Promotion,” The World Economy, 30(1): 22-38. 
+Sachs, Jeffrey D., 2006. “The Importance of Investment Promotion in the Poorest Countries,”  In World Investment Prospects Special Edition, edited by The Economist Intelligence Unit  Ltd. London, UK. 
+Shiller, Robert J., Maxim Boycko, Vladimir Korobov, Sidney G. Winter and Thomas  Schelling, 1992. “Hunting for Homo Sovieticus: Situational versus Attitudinal Factors in  Economic Behavior,” Brookings Papers on Economic Activity, 1: 127-194.  
+Stulz, Rene, 1981. “On the Effects of Barriers to International Investment, ” Journal of  Finance, 36: 923–934. 
+22 
+
+========24========
+
+UNCTAD, 2001. “The World of Investment Promotion at a Glance: A Survey of Investment  Promotion Practices,” United Nations Advisory Study 17, UNCTAD/ITE/IPC/3. 
+Wei, Shang-Jin, 2000a. "How Taxing Is Corruption on International Investors?" Review of  Economics and Statistics,. 82 (1): 1-11.  
+Wei, Shang-Jin, 2000b. "Local Corruption and Global Capital Flows," Brookings Papers on  Economic Activity, 2: 303-354. 
+Wells, Louis T. and Alvin G. Wint, 2000. “Marketing a Country,” Foreign Investment  Advisory Service, Occasional Paper, 13. 
+Welsch, Roy and Edwin Kuh, 1977. “Linear Regression Diagnostics,” Technical Report 923- 977, Sloan School of Management, MIT.  
+Wheeler, David and Ashoka Mody, 1992. “International Investment Location Decisions: The  Case of US Firms,” Journal of International Economics, 33, 57–76. 
+Wooldridge, Jeffrey, 2002. Economic Analysis of Cross Section and Panel Data, Massachusetts Institute of Technology, Cambridge MA. 
+23 
+
+========25========
+
+Tables 
+Table 1: Descriptive statistics  
+No. of obs. 
+Mean Std. dev. 
+Country-sector-specific variables FDI inflow (million current US dollars) Post targeting  
+17196 17196 
+49.20 0.10 
+791.00 0.30 
+Country-specific variables English as official language Cultural distance  
+Power distance  
+Construction permits  
+Starting a business 
+Government ineffectiveness Corruption 
+Exports of newspapers/population of  exporter (US dollars/person) 
+123 0.26 49 29.59 49 22.78 113 228.46 114 41.30 122 0.06 122 0.03 
+0.44 11.96 15.27 188.88 70.84 1.02 1.04 
+1628 
+2.52 
+24.73 
+24 
+
+========26========
+
+Table 2: Baseline specification 
+Post targeting 
+0.308 (0.341) 
+L. Post targeting 
+L2. Post targeting 
+L3. Post targeting 
+No. of observations No. of country-sector groups Within R-squared 
+17196 1570 
+All 
+All 
+All 
+All 
+0.770** (0.362) 
+1.033** (0.406) 
+0.17 
+17193 1570 0.18 
+16610 1570 0.18 
+0.968** (0.457) 16009 
+1568 
+0.18 
+Robustness check: Controlling for region-sector-year fixed effects 
+Post targeting 
+0.362 (0.337) 
+L. Post targeting 
+L2. Post targeting 
+L3. Post targeting 
+No. of observations Within R-squared 
+17196 
+0.764** (0.358) 
+0.952** (0.403) 
+0.14 
+17193 0.14 
+16610 0.15 
+0.801* (0.455) 
+16009 
+0.14 
+Robustness check: Controlling for country-sector-specific time trends 
+Post targeting 
+0.125 [0.374] 
+L. Post targeting 
+L2. Post targeting 
+L3. Post targeting 
+No. of observations Within R-squared 
+17196 
+0.689* [0.395] 
+1.048** [0.444] 
+0.55 
+17193 0.55 
+16610 0.55 
+1.057** [0.498] 
+16009 
+0.56 
+Note: Standard errors are reported in parentheses. ***, **, * denotes significance at the 1, 5 and  10% level, respectively. The dependent variable is the log of inflow of US foreign direct  investment into industry i in country c at time t. Post targeting is equal to one if industry i was  targeted by country c at time t, and zero otherwise. LX means lagged X periods. All models in  the top panel include country-year, sector-year and country-sector fixed effects. All models in  the middle panel include country-year, region-sector-year and country-sector fixed effects. Geographic regions are defined based on the World Bank classification. All models in the  bottom panel include country-year and sector-year fixed effects as well country-sector time  
+trends 
+25 
+
+========27========
+
+Table 3: Strict exogeneity test.   
+All 
+Post targeting 
+L. Post targeting 
+0.095 (0.654) 1.097* (0.568) 
+Lead F. Post targeting 
+-0.787 (0.507) 
+Constant 
+3.188 
+No. of observations Country-sectors 
+R-sq within 
+Test Post targeting + L. Post targeting t=0 (p-value) 
+(2.624) 15775 
+1554 0.17 0.04 
+Test Post targeting + L. Post targeting t= F. Post  targeting (p-value) 
+0.04 
+Developing 
+0.418 (0.628) 
+0.962* (0.542) 
+Developed -1.248 (1.972) 
+1.045 (1.776) 
+-0.240 (0.492) 
+-2.273 (1.483) 
+6.074 (4.861) 11927 1188 0.19 0.01 
+5.110** (2.457) 3848 366 0.19 0.91 
+0.09 
+0.48 
+Note: Standard errors are reported in parentheses. ***, **, * denotes significance  at the 1, 5 and 10% level, respectively. The dependent variable is the log of inflow  of US foreign direct investment into industry i in country c at time t. Post targeting  is equal to one if industry i was targeted by country c at time t, and zero otherwise.  L denotes the first lag and F denotes a one period lead. All models include  country-year, sector-year and country-sector fixed effects. 
+26 
+
+========28========
+
+Table 4: Proxies for information asymmetries 
+All 
+English 
+Post targeting 
+Post targeting*Information  asymmetry 
+L. Post targeting 
+0.805*** (0.252) -1.261** (0.504) 
+L. Post targeting* Information  asymmetry 
+No. of observations No. of country-sector groups Within R-squared 
+15312 1529 0.45 
+All 
+All All 
+Cultural distance 
+0.912 
+(0.574) 
+2.355*** 
+(0.849) 
+1.511** 
+(0.616) 
+1.607* 
+(0.901) 
+14871 14868 
+1358 1358 
+0.18 0.18 
+All 
+1.457** (0.651) 1.701*** (0.641) 
+0.716*** (0.277) -0.952* (0.550) 14539 1528 0.45 
+14871 
+1358 0.18 
+All Power distance 
+2.025*** (0.711) 1.361** (0.681) 14868 1358 0.18 
+All All Exports of newspapers to  
+USA/population 
+0.438 
+(0.344) 
+-0.017* 
+(0.009) 
+0.810** 
+(0.365) 
+-0.005 
+(0.009) 
+17170 17165 
+1570 1570 
+0.17 0.18 
+Note: Standard errors are reported in parentheses. ***, **, * denotes significance at the 1, 5 and 10% level, respectively. T he dependent variable is  the log of inflow of US foreign direct investment into industry i in country c at time t. Post targeting is equal to one if industry i was targeted by  country c at time t, and zero otherwise. LX means lagged X periods. All models include country-year, sector-year and country-sector fixed effects.  All proxies for information asymmetry (with the exception of English) have been demeaned. 
+27 
+
+========29========
+
+Table 5: Proxies for transaction costs  
+All 
+Government  ineffectiveness 
+Post targeting 
+Post targeting*Transaction  costs 
+L. Post targeting 
+0.633* (0.360) 1.159*** (0.359) 
+L. Post targeting* Transaction  costs 
+No. of observations No. of country-sector groups Within R-squared 
+17166 1568 0.17 
+All 
+All All 
+Corruption 0.621* 
+(0.358) 
+1.080*** 
+(0.327) 
+0.993*** 
+(0.380) 
+0.648* 
+(0.358) 17166 17163 1568 1568 0.17 0.18 
+1.218*** (0.442) 1.198*** (0.405) 
+1.003*** (0.383) 0.688* (0.391) 17163 1568 0.18 
+17091 
+All All Starting a business 
+(no. of days) 
+1561 0.17 
+1.271*** (0.464) 0.664 (0.432) 17088 1561 0.18 
+All All Construction permits  
+(no. of days) 0.933** 
+(0.405) 
+1.589** 
+(0.633) 
+1.201*** 
+(0.419) 
+1.213* 
+(0.673) 17091 17088 1561 1561 0.17 0.18 
+Note: Standard errors are reported in parentheses. ***, **, * denotes significance at the 1, 5 and 10% level, respectively. The dependent variable is  the log of inflow of US foreign direct investment into industry i in country c at time t. Post targeting is equal to one if industry i was targeted by  country c at time t, and zero otherwise. LX means lagged X periods. All models include country-year, sector-year and country-sector fixed effects. All proxies for transaction costs have been demeaned or have a mean of zero by construction. 
+28 
+
+========30========
+
+Table 6: Proxies for information asymmetry and transaction costs  
+All 
+Proxies for information  asymmetry 
+Proxies for transaction costs Post targeting 
+Exports of newspapers to  
+the US/population 
+Government  
+ineffectiveness 
+Post targeting*Information  asymmetry 
+Post targeting 
+* Transaction costs 
+0.680* (0.360) -0.009 (0.009) 1.020*** (0.379) 
+L. Post targeting 
+L. Post targeting* Information  asymmetry 
+L. Post targeting* Transaction  costs 
+No. of observations 
+No. of country-sector groups Within R-squared 
+17140 1568 0.17 
+All 
+All 
+All English 
+All 
+Corruption 1.107*** 
+(0.397) 
+-2.288*** 
+(0.815) 
+0.994*** 
+(0.329) 
+1.306*** 
+(0.421) 
+-1.456* 
+(0.872) 
+0.605* 
+(0.360) 16995 16992 
+1553 1553 
+0.18 0.18 
+Construction permits 
+(0.775) 1.974** (0.949) 
+(1.302) 
+1.014*** (0.383) -0.000 (0.009) 0.698* (0.416) 17135 1568 0.18 
+All Cultural distance 
+(no. of days) 1.380* 
+1.170 
+14871 1358 0.18 
+1.439* (0.794) 1.670* (1.000) -0.204 (1.412) 14868 1358 0.18 
+All All 
+Power distance 
+Starting a business 
+(no. of days) 2.800*** 
+(0.755) 
+0.938 
+(0.677) 
+2.078*** 
+(0.592) 
+2.635*** 
+(0.795) 
+0.924 
+(0.727) 
+1.067* 
+(0.621) 
+14871 14868 
+1358 1358 
+0.18 0.18 
+Note: Standard errors are reported in parentheses. ***, **, * denotes significance at the 1, 5 and 10% level, respectively. The dependent variable is  the log of inflow of US foreign direct investment into industry i in country c at time t. Post targeting is equal to one if industry i was targeted by  country c at time t, and zero otherwise. LX means lagged X periods. All models include country-year, sector-year and country-sector fixed effects. All proxies for information asymmetry (with the exception of English) and transaction costs have been demeaned or have a mean of zero by  
+construction. 
+29 
+
+========31========
+
+Table 7: Developed versus developing countries 
+Post targeting 
+Developed 
+-1.913* 
+(0.998) 
+L. Post targeting 
+L2. Post targeting 
+No. of observations No. of country-sector groups Within R-squared 
+Developed 
+Developed 
+-0.892 (1.106) 
+-0.525 (1.291) 
+4184 367 0.19 
+4181 367 0.19 
+4088 367 0.19 
+Developing 0.935*** 
+(0.330) 
+Developing 
+Developing 
+1.159*** (0.346) 
+1.377*** (0.387) 
+13012 1203 0.19 
+13012 1203 0.19 
+12522 1203 0.19 
+Note: Standard errors are reported in parentheses. ***, **, * denotes significance at the 1, 5 and 10% level, respectively. The dependent variable is the log of inflow of US foreign direct investment into industry i in country c at time t. Post targeting is equal to  one if industry i was targeted by country c at time t, and zero otherwise. LX means lagged X periods. All models include country- year, sector-year and country-sector fixed effects. 
+30 
+
+========32========
+
+Table 8: Developing countries and information asymmetries 
+Developing 
+Government  ineffectiveness 
+Post targeting 
+Post targeting*Information  asymmetry 
+L. Post targeting 
+1.243*** (0.375) 0.956* (0.509) 
+L. Post targeting* Information  asymmetry 
+No. of observations 
+No. of country-sector groups Within R-squared 
+12982 1201 0.19 
+Developing 
+Developing Developing Construction permits 
+(no. of days) 1.490*** 
+(0.395) 
+1.720** 
+(0.669) 
+1.634*** 
+(0.405) 
+1.546** 
+(0.683) 
+13012 13012 
+1203 1203 
+0.19 0.19 
+Developing 
+3.464*** (0.774) 2.295** (0.932) 
+1.380*** (0.403) 0.471 (0.533) 12982 1201 
+0.19 
+10832 
+1004 0.21 
+Developing Power distance 
+3.784*** (0.866) 2.250** (0.994) 10832 1004 0.21 
+Developing Developing Exports of newspapers to  
+the US/population 
+0.942*** 
+(0.330) 
+2.572 
+(1.823) 
+1.178*** 
+(0.347) 
+2.066 
+(2.270) 
+13012 13012 
+1203 1203 
+0.19 0.19 
+Note: Standard errors are reported in parentheses. ***, **, * denotes significance at the 1, 5 and 10% level, respectively. The dependent variable is  the log of inflow of US foreign direct investment into industry i in country c at time t. Post targeting is equal to one if industry i was targeted by  country c at time t, and zero otherwise. LX means lagged X periods. All models include country-year, sector-year and country-sector fixed effects. All proxies for information asymmetry and transaction costs have been demeaned or have a mean of zero by construction. 
+31 
+
+========33========
+
+Table 9: Competition from other countries in the same geographic region 
+Developing 
+Targeting by competitors (GDP weighted) 
+Developing 
+Developing 
+Developing 
+Developing 
+Post targeting 
+Competition 
+0.971*** (0.338) 
+0.158 (0.158) 
+L. Post targeting 
+L. Competition 
+L2. Post targeting 
+L2. Competition 
+No. of observations No. of country-sector groups Within R-squared 
+12479 1174 0.19 
+Developing 
+Targeting by competitors (population weighted) 0.949*** 
+1.140*** (0.355) 
+-0.164 (0.150) 
+1.341*** (0.396) 
+-0.143 (0.157) 
+12463 1174 0.19 
+11981 1173 0.19 
+(0.334) 0.132 (0.214) 
+1.129*** (0.350) 
+-0.247 (0.214) 
+1.351*** (0.391) 
+-0.193 (0.229) 
+12847 1187 0.19 
+12834 1187 0.19 
+12345 1174 0.19 
+Note: Standard errors are reported in parentheses. ***, **, * denotes significance at the 1, 5 and 10% level, respectively. The dependent variable is  the log of inflow of US foreign direct investment into industry i in country c at time t. Post targeting is equal to one if industry i was targeted by  country c at time t, and zero otherwise. LX means lagged X periods. All models include country-year, sector-year and country-sector fixed effects. 
+32 
+
+========34========
+
+Figures 
+Figure 1: Number of IPAs in existence 
+120 
+100 
+80 
+60 
+40 
+20 
+0 
+1980 
+1982 
+1984 
+1986 
+1988 
+1990 
+1992 
+1994 
+1996 
+1998 
+2000 
+2002 
+2004 
+33 
+
+========35========
+
+Figure 3: US FDI stock versus FDI stock from other OECD countries in year 2000 
+180,000 
+1,600,000 
+160,000 
+1,400,000 
+140,000 
+1,200,000 
+120,000 
+1,000,000 
+100,000 
+800,000 
+80,000 
+In million USD 
+600,000 
+60,000 
+40,000 
+400,000 
+in million USD (High income only) 
+20,000 
+200,000 
+0 
+0 
+EAP 
+ECA 
+LAC 
+MENA 
+SSA 
+High income 
+Note: Figure based on bilateral OECD data, FDI stocks in million USD,  year 2000. Regional breakdown corresponds to the World Bank  classification of developing countries: Latin American and the Caribbean  (LAC), East Asia and the Pacific (EAP), Europe and Central Asia (ECA),  Sub-Saharan Africa (SSA), South Asia (SA) and Middle East and North  Africa (MENA). High income countries do not include the US. 
+34 
+
+========36========
+
+Appendix 
+Appendix Table 1: Countries included in the analysis 
+Survey respondents 
+No 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 
+Albania 
+Algeria 
+Argentina 
+Armenia 
+Aruba* 
+Australia* 
+Bangladesh 
+Belize 
+Bhutan 
+Bosnia and Herzegovina Botswana 
+Brazil 
+Bulgaria 
+Cambodia 
+Canada* 
+Chile 
+China 
+Colombia 
+Congo, Dem. Rep. Costa Rica 
+Cyprus* 
+Czech Republic Côte d'Ivoire Denmark* 
+Ecuador 
+Egypt, Arab Rep. El Salvador Fiji 
+Finland* 
+France* 
+Georgia 
+Ghana 
+Greece* 
+Targeted 
+20 
+0 
+0 
+25 
+30 
+172 
+0 
+0 
+0 
+55 
+20 
+0 
+59 
+58 
+84 
+98 
+0 
+0 
+50 
+96 
+40 
+53 
+133 
+0 
+43 
+0 
+120 
+41 
+46 
+40 
+0 
+82 
+124 
+Total 129 175 180 70 161 187 60 160 29 128 170 155 104 81 178 151 177 79 180 176 173 108 174 131 163 137 163 156 164 92 65 165 183 
+No 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 
+Guatemala Guinea 
+Guyana 
+Hungary 
+Iceland* 
+Iran, Islamic Rep. Ireland* 
+Israel* 
+Italy* 
+Jamaica 
+Japan* 
+Jordan 
+Kazakhstan Kenya 
+Korea, Rep. Lao PDR Latvia 
+Lebanon 
+Lesotho 
+Lithuania Macedonia, FYR Madagascar Malta* 
+Mauritania Mauritius Mexico 
+Moldova 
+Mozambique Netherlands* Netherlands Antilles* New Zealand* Nicaragua Oman 
+Group total Total 
+Targeted 
+58 
+97 
+0 
+24 
+40 
+0 
+0 
+0 
+0 
+14 
+0 
+129 
+64 
+0 
+0 
+0 
+28 
+103 
+0 
+85 
+0 
+180 
+0 
+100 
+99 
+18 
+0 
+35 
+25 
+35 
+97 
+74 
+78 
+Total 165 161 65 98 170 187 76 104 79 78 188 162 123 141 188 59 88 176 85 110 60 180 66 184 178 141 35 114 107 163 156 163 159 
+No 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 
+Pakistan 
+Palau 
+Panama 
+Paraguay 
+Peru 
+Poland 
+Portugal* 
+Romania 
+Samoa 
+Saudi Arabia* Senegal 
+Serbia and Montenegro Singapore* Slovak Republic Slovenia 
+Solomon Islands South Africa St. Vincent and the G Sweden* 
+Switzerland* Taiwan* 
+Thailand 
+Tunisia 
+Turkey 
+Uganda 
+United Kingdom* Uruguay 
+Vanuatu 
+Venezuela, RB Zambia 
+Zimbabwe 
+Targeted 
+0 
+0 
+4 
+0 
+26 
+0 
+121 
+0 
+30 
+0 
+65 
+43 
+0 
+0 
+110 
+0 
+115 
+50 
+119 
+0 
+0 
+0 
+68 
+0 
+150 
+0 
+0 
+108 
+64 
+0 
+0 
+Total 
+60 
+177 
+49 
+163 
+147 
+37 
+166 
+163 
+189 
+95 
+165 
+106 
+179 
+107 
+150 
+13 
+140 
+189 
+153 
+173 
+79 
+50 
+161 
+166 
+180 
+189 
+169 
+178 
+151 
+171 
+123 
+13051 
+Existence of IPA could not be confirmed 
+Total Andorra* 70 Brunei* 180 Cameroon 183 Central African Rep 70 Chad 189 Cuba 174 Djibouti 179 Equatorial Guinea 153 Ethiopia 188 Eritrea 93 Gabon 178 Haiti 173 Iraq 14 Kyrgyz Republic 70 Libya 177 Mali 174 Sudan 189 Suriname 162 Togo 189 Turkmenistan 129 Uzbekistan 123 
+No IPA exists 
+No 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 
+No 119 120 121 122 123 124 
+Congo, Rep. Kuwait* Liechtenstein* Norway* Somalia St. Kitts and Nevis 
+Total 
+188 
+176 
+171 
+175 
+189 
+189 
+3057 
+1088 17196 
+Note: Sample corresponding to column 1, Table 2. These countries either responded to the World Bank Census or they are very likely not to have an  IPA. Those who responded to the Census gave the full timing (start and end year of the targeting) for at least one targeted sector, or they informed that  did not practice sector targeting. (Sectors with incomplete timing information are excluded from the sample.) The column “Targeted” indicates the  number of sector-years observations for the post-targeting period used in the estimation. “Total” is the total number of observations on the country  included in the estimations. Developed countries, classified according to the World Bank definition as of July 1st 2006, are marked with an asterisk. 
+35 
+
+========37========
+
+    Appendix Table 2: Sectors included in the analysis 
+Sector  Number of observations  Petroleum  1,370 Utilities  526 Food  1,353 Chemicals  1,430 Metals  1,435 Machinery  1,389 Electrical equipment  1,449 Transportation equipment  1,429 Wholesale trade  1,612 Banking  1,186 Other Finance  1,356 Services  473 ICT  445 Professional services  491 Other industries  1,252 Total 17,196 Note: The number of observations corresponds to the regression of  column 1, Table 2. 
+36 
+
+========38========
+
+Appendix Table 3: Aggregation across sectors and time, and matching Census sectors with BEA data 
+Sector Petroleum 
+Targeted sectors matched Mining and Quarrying 
+Utilities 
+Electricity, gas and water provision 
+Food  
+Food products 
+Chemicals   
+Petroleum, chemical, rubber, plastic  
+products 
+Metals 
+Metal and metal products 
+Machinery 
+Machinery;  Computers and electronic  
+equipment 
+Electrical  equipment 
+Computers and electronic equipment 
+Transportation  equipment   
+Vehicles and other transport equipment 
+Wholesale  trade 
+Trade and repairs 
+BEA-data Petroleum Mining 
+Utilities 
+Food and kindred products   
+Food 
+Chemicals and allied products   
+Chemicals 
+Primary and fabricated metals 
+Industrial machinery and equipment 
+Machinery 
+Computer and electronic products 
+Electronic and other electric  equipment 
+Electrical equipment, appliances, and  components 
+Transportation equipment   
+Wholesale trade 
+Aggregated 
+Time period in BEA-data 
+1989-1998 
+1999-2004 
+1999-2004 
+1989-1998 
+1999-2004 
+1989-1998 
+1999-2004 
+1989-2004 
+1989-1998 
+Yes Yes 
+1999-2004 1999-2004 
+1989-1998 
+1999-2004 
+1989-2004 
+1989-2004 
+37 
+
+========39========
+
+Appendix Table 3 cont. 
+Sector Targeted sectors matched Banking 
+services 
+Financial intermediation; Back office  
+Other Finance 
+Financial intermediation; Real estate and  business activities; Back office services 
+Services 
+Hotels and restaurants (until 1998); Real  estate and business activities; Software;  Biotechnology; Back office services 
+BEA-data Banking 
+Depository institutions 
+Finance (except banking), insurance  and real estate 
+Finance (except depository  institutions) and insurance 
+Services 
+Aggregated 
+Time period in BEA-data 
+1989-1998 
+1999-2004 
+1989-1998 
+1999-2004 
+1989-1998 
+ICT 
+Transport and telecommunications (from  Information 
+1999); Real estate and business  
+activities; Software; Back office services 
+Professional  services 
+Software; Biotechnology 
+Other industries 
+Agriculture, Fishing and Forestry;  Textiles and apparel;  Wood and wood  products;  Construction;  Hotels and  restaurants (from 1999);  Transport and  
+telecommunications (until 1998) 
+Professional, scientific, and technical  services 
+Other industries 
+Other manufacturing 
+1999-2004 
+1999-2004 
+Yes 
+1989-2004 
+Yes 
+1989-1998 
+Note: Aggregated means that we have combined the sectors into one.  
+38 
+
+========40========
+
+Appendix Table 4: Explaining the choice of sectors to be targeted. Probit. 
+L.FDI flow 
+-0.006 (0.005) 
+L2.FDI flow 
+L3.FDI flow 
+No. of observations L.FDI stock 
+4274 0.000 (0.005) 
+L2.FDI stock 
+L3.FDI stock 
+No. of observations 
+All 
+All 
+All 
+0.000 (0.005) 
+4079 
+-0.008 (0.005) 3842 
+0.005 (0.005) 
+4295 
+0.005 (0.006) 4097 
+4914 
+Note: Standard errors are reported in parentheses. ***, **, * denotes significance at the  1, 5 and 10% level, respectively. The dependent variable is equal to one if country c  begins targeting industry i at time t, and zero if the industry is not targeted at time t. LX  means lagged X periods. Other controls include GDP per capita, population size, GDP  growth, inflation, restrictions on civil liberties, country and year fixed effects.  Population, GDP per capita, FDI flow and FDI stock enter in the log form. 
+Appendix Table 5: Removing cases of targeting determined by  previous success or failure in attracting FDI to the sector 
+Post targeting 
+L. Post targeting 
+L2. Post targeting 
+L3. Post targeting 
+No. of observations No. of country-sector groups Within R-squared 
+All 0.866* [0.488] 
+All 
+All 
+All 
+1.373*** [0.514] 
+1.166** [0.564] 
+15285 1389 0.19 
+15282 1389 0.20 
+14750 1389 0.20 
+0.839 [0.640] 14204 1387 
+0.20 
+Note: Standard errors are reported in parentheses. ***, **, * denotes significance at the 1, 5  and 10% level, respectively. The dependent variable is the log of inflow of US foreign direct  investment into industry i in country c at time t. Post targeting is equal to one if industry i was  targeted by country c at time t, and zero otherwise. LX means lagged X periods. All models  include country-year, sector-year and country-sector fixed effects. 
+39 
+
+========41========
+
+Appendix Table 6: Using US affiliate sales and employment as dependent variables 
+US affiliate sales 
+US affiliate employment 
+Developing Developing Developing Developing Developing Developing Developing Developing 
+Post targeting 
+1.033*** [0.363] 
+L. Post targeting 
+L2. Post targeting 
+L3. Post targeting 
+No. of observations No. of country-sector groups Within R-squared 
+3087 227 0.37 
+0.520*** [0.143] 
+1.096*** [0.402] 
+1.054** [0.452] 
+3034 226 0.37 
+2976 225 0.37 
+1.164** [0.534] 
+2917 
+225 
+0.37 
+0.483*** [0.158] 
+0.505*** [0.186] 
+3360 233 0.40 
+3295 233 0.39 
+3227 233 0.39 
+0.507** [0.223] 
+3159 
+233 
+0.39 
+Note: Standard errors are reported in brackets. ***, **, * denotes significance at the 1, 5 and 10% level, respectively. The dependent  variable is the log of inflow of US foreign direct investment into industry i in country c at time t. Post targeting is equal to one if  industry i was targeted by country c at time t, and zero otherwise. LX means lagged X periods. All models include country-year,  
+sector-year and country-sector fixed effects. 
+40 
+
+========42========
+

@@ -1,0 +1,1808 @@
+July 2012 
+                No.93 
+Everyone Wants a Chance:  Initial Positions and Fairness in Ultimatum Games 
+Gianluca Grimalday , Anirban Karz and Eugenio Proto 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Everyone Wants a Chance: Initial Positions 
+and Fairness in Ultimatum Games 
+Gianluca Grimalda, Anirban Kary 
+zand Eugenio Protox 
+5 April 2012 
+Abstract 
+Fairness emerges as a relevant factor in redistributive preferences in surveys and experiments. We study experimentally the impact of vary- ing the probability with which players are assigned to initial positions in Ultimatum Games (UGs). In the baseline case players have equal opportunities of being assigned the proposer position Œarguably the more advantaged one in UGs. Chances become increasingly unequal across three treatments. We also manipulate the inter-temporal allo- cation of opportunities over rounds. We –nd that: (1) The more initial chances are distributed unequally, the lower the acceptance rates of a given o¤er; consequently, o¤ers increase; (2) Being assigned a mere 1% chance of occupying the proposer role compared to none, signi–cantly increases acceptance rates and decreases o¤ers; (3) Players accept even extreme amounts of unequal chances within each round in exchange for overall equality of opportunities across rounds. Procedural fairness Œboth static and dynamic - has clear relevance for individuals. 
+We thank Iwan Barankay, Dirk Engelmann, Enrique Fatás, Peter Hammond, Andrew Oswald, Elke Renner, Blanca Rodriguez, Tim Salmon, Stefan Traub, Stefan Trautmann for useful discussion, participants in the Workshop on "Procedural fairness - theory and evidence", Max Planck Institute for Economics (Jena), the 2008 IMEBE conference, the 2008 European ESA conference, the 2010 International Seminar on "Reason and Fairness", Granada University, and seminar participants at the Instituto Superior Tecnico (Lisbon), Nottingham, Royal Holloway, Trento, Warwick. We especially thank Malena Digiuni for her excellent research assistance. The usual disclaimers apply. This project was –nanced by the University of Warwick RDF grant RD0616. Gianluca Grimalda acknowledges –nancial support from the European Commission under the grant N. 029093 (INEQ). 
+yUniversitat Jaume I, Castelló, Spain. Corresponding author: grimalda@uji.es 
+zDelhi School of Economics, University of Delhi 
+xUniversity of Warwick 
+1 
+
+========2========
+
+1 Introduction 
+"[...]All are equal, all are free, and all deserve a chance to pursue their full measure of happiness.ﬂ(from Barack Obama™s swearing- in speech after the 2008 US elections). 
+ﬁThere is a symbolic utility to us of certainty itself. The di¤erence between probability .9 and 1.0 is greater than between .8 and .9, though this di¤erence between di¤erences disappears when each is embedded in larger otherwise identical probabilistic gamblesŒthis disappearance marks the di¤erence as symbolic.ﬂ (Nozick 1994, p. 34). 
+The idea that initial positions have to be assigned equitably in the com- petition for scarce resources is one of the cornerstones of systems of distribu- tive justice in contemporary societies. It is functional to guaranteeing equal opportunities to citizens in the pursuit of their goals, along with the require- ment that the rules of the competition confer no advantage to participants (Diamond, 1967; Rawls, 1999; Arneson, 1989; Cohen, 1989; Roemer, 1998). 
+In practice, large amounts of resources are spent to ™level the playing –eld™ in many developed countries. A clear example is public spending on primary and secondary education 
+1. Fairness in the allocation of initial positions also bears on preferences for redistribution. Corneo and Gruner (2002) –nd that people believing that ﬂcoming from a wealthy family is important for get- ting ahead in lifeﬂare also more supportive of income redistribution. Their sample includes 12 countries from both Western economies and ex-socialist countries, so this view seems widespread. This evidence may be construed as proof that people perceiving initial positions as unfairly distributed also see the –nal income allocation as unfair and thus demand more income re- distribution2. Since US citizens generally believe that their society grants more opportunities for climbing the economic ladder than their European counterparts (Gilens, 1999), fairness considerations have been deemed to be 
+1According to OECD data (2002), governments in OECD countries allocate substantial public spending to primary and secondary education, the average being 3.5% of GDP in 1999. Interestingly, US expenditures are in line with the OECD average and with continental European countries, whilst they di¤er markedly with respect to other public expenditure provisions (Alesina and Glaeser, 2004). This can be interpreted as a general expression of political support for policies equalizing initial positions. See also Lipset (1997). 
+2Other factors a¤ecting the fairness of the competition for –nal positions have also been shown to be relevant. For instance, both Fong (2001) and Alesina and La Ferrara (2005) show that US citizens believing that hard work and e¤ort are important for getting ahead in life are less supportive of income redistribution. 
+2 
+
+========3========
+
+at the root of the much lower redistribution taking place in the US vis-à-vis Europe (Alesina and Angeletos, 2005; Benabou and Tirole, 2006). 
+In spite of the widespread support for the ™level playing –eld™idea, many people nonetheless judge their society to fall short of this principle. 77% of the participants in the 2006 International Social Survey Programme re- sponded that the government should spend "more" or "much more" on ed- ucation - even if that implied increased taxation - in a sample including 33 countries. Education comes second after health as the item for which re- spondents want most to increase public spending, ahead of pensions, law enforcement, the environment, unemployment bene–ts, culture and arts, and defence3. 
+A –rst basic requirement of equality of opportunities is formal in that nobody should be prevented from entering a competition for –nal positions, o¢ ces, or powers, and everyone should be judged on the merits relevant for that position. However, many societies fall short of this objective. This is the case when people are discriminated against for their belonging to as- criptively de–ned social groups, such as apartheid systems, or the caste sys- tem in India4. A stronger requirement has been put forward that societies should provide not only formal but also substantial equality of opportunities. That is the notion that all citizens should be materially put in the condition to compete for positions regardless of circumstances for which they cannot be held responsible, such as their social background or genetic endowment (Williams, 1962; Rawls, 1999). However, most societies fall short of this ideal by a greater or smaller margin (see e.g. Bowles et al., 2008). This may be put down to either the conceptual di¢ culty in providing a sound notion of oppor- tunity (Fleurbaey, 1995; Dworkin, 2000: 87), or to the practical di¢ culties associated with its implementation (see Romer, 1998, for a method in this respect, and Fleurbaey, 2002, for a critic). However, in other cases lack of political willpower may be to blame, especially as this objective may con⁄ict with society™s other objectives, for instance e¢ ciency (Roemer, 1998). 
+Not only is luck relevant to the assignment of social and economic groups, but also it plays a role in several other dimensions of one™s career. For in- stance, job selection procedures may involve some degrees of discretionality by the selectors, so the outcome of the selection may partly depend on the 
+3Even in the US, the country traditionally seen as the "land of opportunity", 29% of respondents to the 1998 Gallup Social Audit declared that "all Americans do not have an equal opportunity to succeed" (Gallup, 1999). Corneo and Fong (2008) –nd this measure of availability of opportunity to be a strong (negative) predictor of individual preferences for redistribution. 
+4As recently as 2006, India™s prime minister Mr Manmohan Singh likened discrim- ination against the "untouchables" in India to an apartheid system. See report in http://www.guardian.co.uk/world/2006/dec/28/india.mainsection. See also Deshpande (2011) and Ho¤ and Pandey (2006). 
+3 
+
+========4========
+
+luck that a person has in meeting the selectors™favour. Such arbitrary ele- ments in judgements may be di¢ cult to eliminate completely. 
+It is thus undoubtedly important for economic policy to understand how deviations from the ideal of a fully level playing –eld or a fully unbiased judgement are perceived by individuals. How negative is individuals™eval- uation of the lack of equal opportunities, and how more negative does it become as we move farther away from the ideal? What value do individuals attach to a purely symbolic opportunity, such as one attributing one very small chance of gaining an advantaged position, in comparison to a situa- tion of absolute discrimination? Do equal opportunities need to be granted at any instance of social interaction? Or are people happy to accept equal opportunities on average across time, for instance being advantaged half the time and disadvantaged the other half? 
+The empirical investigation on the topic su¤ers from its almost exclusive reliance on survey questions where, by necessity, the notion of opportunity is often vague and prone to subjective interpretation. In this paper we seek to shed some light on these issues adopting an experimental approach. Experi- ments have the advantage of allowing the researcher to manipulate the degree of fairness in assigning initial positions, and to measure rigorously individu- als™reactions to deviations from the benchmark situation of perfect fairness. Many experiments have already dealt with the issue of procedural fairness showing its relevance to individuals (see section 2). We are, to the best of our knowledge, the –rst to tackle the issue of fairness in the assignment of initial positions proper. 
+We take the Ultimatum Game (UG henceforth) as our basic interaction. This game has been used extensively to examine individuals™assessment of the fairness of a payo¤ allocation involving two players. For the purpose of our investigation what matters is that interaction in the UG takes place from asymmetric positions. The proposer in a UG has a –rst-mover advantage over the responder in that she can dictate the shares of the –nal allocations. This position of advantage is normally conducive to a larger share of the payo¤s accruing to proposers, who on average obtain more than 60% of the pie (see e.g. Oosterbeek et al., 2004). Guth and Tiez (1986) show that when subjects are asked to bid on the two positions of a UG before bargaining, they o¤er twice as much to occupy the proposer™s role than the receiver™s role. Arguably, the proposer™s position is more desirable than the responder™s. 
+The main novelty of our experimental design is to make the access to the two UG roles subject to a lottery, and to manipulate the distribution of probability of these lotteries. The baseline case is that both players have equal opportunities, as the lottery assigns both individuals a 50% chance of acquiring the proposer role. In the other treatments, the initial lottery is biased in favour of one of the two players. We consider three treatments in 
+4 
+
+========5========
+
+which one of the two players is favoured with respect to the other in that she has, respectively, 80%, 99%, and 100% probability of becoming the proposer, while the unfavoured player only has the residual probability. In this way we are able to assess the impact of increasing disparity in the distribution of initial chances on individual perception of allocation fairness. We also study another dimension of procedural fairness, relative to the distribution of opportunities over time. In what we call the –xed role condition (FRC), an unfavoured player remains disadvantaged throughout the 20 interactions of the experiment. Under the variable role condition (VRC), positions are reassigned before each round. We claim that VRC provides for equality of opportunity in a dynamic rather than in a static sense. We believe our study to be the –rst to tackle the issue of the inter-temporal distribution of opportunities. 
+It is worth noting that the initial lottery represents a purely proce- dural addition to the bargaining stage that brings about no strategic con- sequences. Individuals who are consequentialist (Machina, 1989; Hammond, 1988) should regard such initial stage as irrelevant. Self-interested people should therefore attach no value to them. People having other-regarding consequentialist preferences, as those modelled in Fehr and Schmidt™s (1999) (FS henceforth) and Bolton and Ockenfels™s (2000) (BO henceforth) theories, should –nd such an initial stage irrelevant, too. The same holds for theories of intention-based reciprocity, and theories emphasizing concerns for e¢ ciency (Charness and Rabin, 2002). The fairness of the initial lottery should in- stead be relevant for procedural individuals. Models of procedural fairness have been put forward (Bolton, Brandts and Ockenfels, 2005 - BBO hence- forth; Trautmann, 2009), where preferences are de–ned over the procedures bringing about outcomes, rather than on mere outcomes. However, these models are de–ned over lotteries that directly determine –nal outcomes, so they remain silent on procedures determining the initial positions of an in- teraction. Section 8 shows how a simple modi–cation of the FS model can account for most of our –ndings. 
+We illustrate the main hypotheses and the experimental protocol in sec- tions 2 and 3. In sections 4 and 5 we show the results for FRCTs and the VRCTs, respectively. Section 6 focuses on the –rst round of interactions while 7 contrasts FRC with VRC and analyses the dynamic evolution of play. Section 8 presents our theoretical model. Section 9 concludes the paper. 
+2 Review of the literature 
+The UG is an allocation problem among two players. The –rst-mover (the proposer) makes an o¤er to the second-mover (the receiver) about how to 
+5 
+
+========6========
+
+divide a given pie. The receiver can then accept the o¤er, in which case both players receive what dictated by the proposal, or reject it, in which case neither receives anything. The subgame perfect Nash equilibrium (SPNE) of this simple interaction is the most unequal allocation possible: the pro- poser should demand all but the smallest possible amount the pie, and the receiver should accept this o¤er. It is well-known that experimental evidence consistently and conspicuously deviates from this prediction (Oosterbeek et al., 2004). 
+Several experiments have varied the way initial positions are assigned in UGs - or in Dictator Games (DGs) 
+5. A –rst class of experiments conditions role assignment to a contest, based e.g. on general knowledge quizzes, ability tests, or simple tasks. In the pioneering study by Ho¤man et al. (1994), best-ranked (worst-ranked) players were assigned the proposer (receiver) role. This resulted in proposers demanding signi–cantly more for themselves, and UG receivers being willing to accept such higher claims. This result has been construed in terms of the enhanced legitimacy that being assigned to the advantaged position has when this has been "earned" in a fair contest. Hence the proposers™ entitlement to a larger share. A similar impact of earning one™s initial endowment has been con–rmed in several other studies6. 
+A second class of experiments makes players™initial endowments unequal. In Armantier (2006) either proposers or receivers were assigned a larger en- dowment than their counterparts. In the initial rounds of interactions, sub- jects tried to compensate for this imbalance, with proposers (receivers) hav- ing larger endowments o¤ering more (accepting more) in comparison with the baseline case of endowment equality7. A similar willingness to compen- sate arbitrary di¤erences in initial endowments has been found in Becker and Miller (2009). Guth and Tietz (1986) let players alter their initial endow- ments through their own choice when participating in an auction to determine their roles. Proposers paid on average twice as much as receivers to acquire their role. In the subsequent bargaining phase, the mode of the distribution shifted away from the 50-50 split, and moved closer to a 2/3-1/3 split. This 
+5A Dictator Game is the same as a UG apart from the removal of the receiver™s action space. In other words, the receiver of a DG is a passive player who takes home all of what the dictator has left to her. This interaction was –rst studied by Forsythe et al. (1994) to tease out whether proposer™s behaviour in UGs was due to fairness or self-interested calculation. The fact that o¤ers still remain positive in DGs but are lower than in UGs is evidence that both motivations are present in individuals™decision-making. 
+6See e.g. Konow (2000), Cherry 
+et al. (2002), Esarey et al. (2006), Cappelen et al. (2007), Durante and Putterman (2008), Schurter and Wilson (2009), for (modi–ed versions of) dictator games. 
+7This trend was however reversed in the –nal rounds of the game. It has been conjec- tured that this may be due to something alike a "moral credit": Players tend to be more pro-social in initial rounds than in –nal ones. 
+6 
+
+========7========
+
+means that, taking into account the initial costs sustained in the auction, the resulting payo¤ distribution came close to a 50-50 split. The lesson from these experiments seems to be that players perceive the disparity in their initial endowment as arbitrary, and act in ways to compensate it. 
+In a third class of games, it is the –nal outside options which are mod- i–ed. Buchan et al. (2006) compare a standard UG with a "buyer power" condition where the proposer has a greater-than-zero outside option in case of rejection by the receiver. They –nd that such treatment condition has opposite results in the US - where receivers lower, albeit slightly, their accep- tance thresholds - and Japan - where receivers signi–cantly increase theirs. Binmore et al. (1991) study repeated UGs where a player has a much larger outside option than the other player. They –nd that the exploitation of such "power" is not universal but is limited to speci–c bargaining schemes. Similarly, Suleiman (1996) and Handgraaf et al. (2008) consider UGs where receivers have varying powers to modify the pair™s payo¤s after rejecting the proposal. A rejection by the receiver entails that only a percentage (1  ) of the pie is destroyed, while a percentage  is preserved. So, receivers™s power is maximal (minimal) when  = 0 ( = 1);which corresponds to a standard UG (DG). Both studies consider treatments where  is set at values in the interior of the interval as well as at the two extremes. Suleiman (1996) –nds, as expected, an overall negative relationship between receivers™power and proposers™ o¤ers. No –rm inference on receivers™ behaviour can be drawn due to the paucity of low o¤ers in some of the treatments. Handgraaf et al. (2008) –nd a signi–cant variation in proposers™behaviour triggered by a 10% change in : Moreover, when given the possibility to choose how much power they want to have, receivers show a strong preference to have more power than less. It is worth noting that both studies –nd signi–cant e¤ects for relatively small variations of their manipulation parameter , and some reversal in the otherwise monotonic trends linking  to players™behaviour. We –nd similar instances of both e¤ects in our setting, too. 
+All of these studies –nd relevant e¤ects on –nal payo¤s of modifying the way initial positions, initial endowments, or –nal outside options, are as- signed. This is remarkable because the strategic nature of the bargaining problem is left unaltered by such modi–cations - namely, the SPNE remains the same as in the standard UG (or DG). Equity theory (Homans, 1958; Walster et al., 1978) - the idea that allocations should be distributed in pro- portion to one™s relative e¤ort, abilities, or investment, compared to others™ - has been called upon to account for some of these results. In contexts where proposers ™earn™their position of advantage, their increased demand is legitimate. In cases where greater power is arbitrarily assigned, a substantial portion of players try to compensate for such imbalance, sometimes at the cost of destroying the whole pie. 
+7 
+
+========8========
+
+All the studies reviewed above more or less explicitly a¤ect the fairness of the game procedures, either introducing a competition for initial positions (–rst class of games) or by modifying the game™s material aspect, that is, ini- tial endowments, and outside options (second and third class). Only recently has the focus been extended to studying the impact of unequal opportunities to achieve monetary payo¤s, rather than inequality in the payo¤s them- selves. BBO show that individuals are indeed sensitive to the way chances are distributed in a social interaction. They contrast a treatment where UG proposers can choose between an equal share of the pie and an unequal al- location, to a treatment in which proposers can choose between an unbiased lottery - giving equal chances to win the whole pie - and the same unequal allocation as in the previous treatment. They notice that responders™behav- iour when o¤ered the unequal allocation is virtually the same in these two scenarios. Thus they conclude that procedural fairness is a substitute for out- come fairness. This result has been replicated in several other experiments using modi–ed DGs, although it appears that equality of opportunity is not a full substitute for equality of outcomes (Karni et al., 2008; Becker and Miller, 2009; Krawczyk and Le Lec, 2010). In a second study, BBO report how rejection rates in a modi–ed UG with random computer-generated pro- posals is signi–cantly higher when the lottery is strongly biased in favour of the proposer than when it is unbiased. Hence, they conclude that receivers seem to dislike situations where they had signi–cantly fewer chances than proposers, even when the –nal outcome is the same. 
+Other studies use modi–ed versions of DGs to investigate how variations in initial opportunities a¤ect redistributive choices. In Krawczyk (2010), participants are matched in groups of four, and are assigned di¤erent prob- abilities of winning (PoW) monetary prizes. After being informed of their own and others™PoW, players are asked to propose a tax rate which will be applied to the individuals™earnings. This acts as a redistributive scheme, which ranges from the two extremes of either leaving the prize assignment unchanged (in case of a 0% tax rate), or bringing about equal –nal allocations (if a 100% tax rate is selected). Each player has an even probability of having her proposed tax rate selected. PoWs are manipulated so that each player makes decisions in groups with either a high or a low dispersion of PoW. The theoretical prediction is that procedural players should react to higher dispersion in PoW by increasing their proposed tax rates. However, this is not the case. Demanded tax rates do not react to changes in the dispersion of PoWs. The only aspect in which procedures seems to matter lies in the fact that players react to the varying dispersion in PoW more in the "merit" treatment - where incomes are determined by the relative performance in a contest - relative to the "luck" treatment - where incomes are determined randomly. 
+8 
+
+========9========
+
+Cappelen et al. (2010) also study the impact of varying initial positions, where these are determined by individual choice rather than luck. In an initial stage players choose between participating in a lottery and opting for a safe alternative payment. Players are then matched in twos and asked to put forward a tax rate to be applied to their pair. This has an even probability of being selected. Even in this setting players have an even chance of acting as "dictators" for their pair. The important aspect for our investigation is that players are faced with di¤ering values of the safe alternative to the lottery. A player having a small safe alternative may be thought of as having fewer opportunities than a player having a high safe option. However, even in this case, such a manipulation of initial opportunity does not bring about the expected results: Players do not in fact react to the variation in their respective initial opportunities. 
+The results coming from these two papers seemingly imply that distrib- ution of initial opportunity does not matter much to people - at least in an experimental context - whereas considerations of merit (in Krawczyk™s (2010) paper), or the actual choice of how much risk one wants to take (in Cappelen et al™s (2010) paper) are much more relevant for "pro-social" individuals. We believe, though, that the negative result emerging from these two papers may be due to the choice of a within-subject design, which may dilute the di¤erences across conditions. It is also possible that the information over ini- tial opportunities was not salient enough to subjects, partly because of the existence of other experimental manipulations, partly because the parameter range variation was not extreme. 
+In order to eliminate these possible causes of concern and magnify the di¤erences across decisions, we revert to a between-subject approach, and we consider extreme values in the possible dispersion in initial opportunities. In fact, our baseline case consists of players having even chances, whereas at the other extreme a treatment assigns all chances to one player and no chances to the other. Alike Suleiman (1996) and Handgraaf et al. (2008), we manipulate fairness parameters from the extremes to the interior of the rele- vant interval in order to examine in detail the impact of fairness variations. Similarly to BBO we use receivers™rejection rates of a given o¤er as a way to measure the degree to which a certain procedure is deemed as unfair. The existing models of procedural fairness predict that changes in initial chances should make no di¤erence to players™ behaviour. The reason is that they only consider procedures falling within the players™strategy sets, or a¤ecting –nal outcomes. On the contrary, our conjecture is that individuals may be sensitive to the distribution of relative chances even when these determine initial positions. 
+9 
+
+========10========
+
+3 Experimental design and hypotheses 
+The game tree of the stage game is displayed in Figure 1. 10 GBP are at stake in every round. Two players, named Player 1 and Player 2, are matched to play an extended version of a UG. Players simultaneously make a proposal, which is a division of the pie, to their counterpart. Formally, a proposal by player i is a division (xi;10  xi) where xi is the amount player i demands for herself and 10  xi is the residual being o¤ered to her counterpart, i 2 f1;2g. Players do not know the counterpart™s proposal. After the proposals x1and x2 have been submitted, one of the two is selected at random. The key aspect of the design is that treatments di¤er according to the probability with which proposal 2 (1) is randomly selected. This is given by the probability p (1  p). Such probability has a maximum (minimum) of p = 0:5 for Player 2 (1  p = 0:5 for Player 1) in the 50% treatment, it goes down (up) to p = 0:2 (1  p = 0:8) in the 20% treatment, it goes further down (up) to p = 0:01 (1  p = 0:99) in the 1% treatment, and –nally reaches a minimum of p = 0 (1  p = 1) in the 0% treatment. In the 0% treatment we dispense Player 2 from submitting a proposal, as this would have no possibility of being selected. Both Suleiman (1996) and Handgraaf et al. (1998) follow a similar strategy in not asking players to perform an action when this has a 0% probability of being relevant to the game. 
+At the top node of the decision tree, people are informed of whether they are Player 1 or 2, so they know from the outset whether they are favoured or not. For this reason we have also named Player 1 and Player 2 "(1Œ p)-player" and "p-player", respectively. After Nature makes the draw and selects the proposal, the interaction is exactly like a standard UG. Suppose it is i™s proposal that is selected. Then player i becomes the proposer of the UG in the bottom part of the game tree, and player j becomes the receiver. Player i is informed that her o¤er has been selected, but does not receive any information about j™s o¤er. Conversely, xi is communicated to player j, who has to either accept or reject the proposal. Should player j accept, payo¤s are xi and 1  xi for player i and player j respectively. Should player j reject, both players™payo¤ is 0. All random draws were made by the computer. 
+Apart from the 50% baseline case where opportunities to become the proposer are even, in the other three treatments Player 1 always has higher opportunities to be selected as the proposer of the game. We thus refer to Player 1 (2) as the favoured (unfavoured) player. Note that for a conse- quentialist agent all treatments are strategy equivalent. The NE for rational payo¤-maximisers is, as in standard UGs, the proposer obtaining the highest possible allocation consistent with making the responder willing to accept and the responder obtaining the residual. That is, the only SPNE is (10  "; ")8, 
+8Since players were allowed to make o¤ers up to the second decimal digit, 
+" = 0:01 in 
+10 
+
+========11========
+
+for all p. 
+Subjects played the game described above anonymously for 20 rounds with random re-matching at the beginning of each round. Payo¤s were given by the outcomes of two randomly-selected rounds out of the 20: Random pay- ments were done partly to limit income e¤ects as the play went on, partly to minimise the pro–tability of dynamic strategic behaviour such as rejecting with higher frequency in the early stages of the game to induce counterparts to o¤er more at later stages. We preferred to pay subjects for two rounds in- stead of just one because we feared that a payment based on only one round, coupled with the relatively low show-up fee (5 GBP), may have discouraged receivers from rejecting unfair proposals. After each round each pair was informed of the outcome of the interaction. No information about the out- come of the other pairs™interactions was instead released. The experiment instructions are reported at the end of the paper. 
+We want to test the following hypotheses. First, a reasonable assump- tion, in line with BBO™s –nding and the survey results reported in 1, is that the higher the fairness of the initial lottery - i.e. the less unbiased the distri- bution of initial chances, the more acceptable a certain earnings allocation. We thus posit our –rst hypothesis, which we call the ﬂMonotonic Fairness Hypothesisﬂ: 
+H1a: The more biased the initial lottery, the lower responders™ accep- tance rate. 
+If proposers correctly anticipate this behaviour, then we can also posit that: 
+H1b: The more biased the initial lottery, the lower proposers™demands. 
+Whilst BBO compare only two extremely di¤erent lotteries in their sec- ond study, our setting enables us to study a –ner range of distribution of chances within lotteries. We are particularly interested in testing for Noz- ick™s prediction that individuals are highly sensitive to the symbolic value of actions. Nozick argues that individuals attach value to the possibility of expressing their own individuality through actions, where this power of ex- pression magni–es the utility intrinsic to the action. As Nozick (1994: 27.28) puts it: ﬁHaving a symbolic meaning, the actions are treated as having the utility of what they symbolically mean [...] Since symbolic actions often are expressive actions, another view of them would be this: the symbolic connec- tion of an action to a situation enables the action to be expressive of some attitude, belief, value, emotions or whatever. Expressiveness not utility is 
+our experiments. 
+11 
+
+========12========
+
+what ⁄ows back.ﬂ Furthermore, Nozick™s citation reported in the introduc- tion implies that the individual™s value metric over the probability space may not be linear, and may su¤er "discontinuities" in the origin of the space, i.e. when we move from full certainty to even limited uncertainty. Accordingly, our conjecture is that the act of making a proposal with a sheer 1% chance of it being relevant, may symbolize, for the unfavoured player, expressive value independently of the intrinsic expected utility coming from having this option. This power of "voice" (Anand, 1991; see also discussion in section 9) may give the individual what Nozick calls an "expressiveness", that is, a source of "value" that goes beyond the mere utility associated with the act itself. 
+If this were true, we should expect a signi–cant di¤erence in behaviour between the treatment where a player has a mere 1% chance of acquiring the proposer™s role to that in which she has no chance. We thus posit what we call the "Symbolic Opportunity Hypothesis": 
+H2a: Responders™acceptance rate decreases signi–cantly in the 0% treat- ment in comparison to the 1% treatment. 
+H2b: Proposers demand signi–cantly less in the 0% treatment in compar- ison to the 1% treatment. 
+Hence, the second hypotheses is consistent with the –rst hypothesis, claiming that even allowing a purely symbolic chance of acquiring the ad- vantaged position in the UG has a signi–cant e¤ect in changing the fairness judgement of the resulting allocations. 
+We are also interested in testing for the impact of varying the allocation of opportunities over time. As mentioned in the introduction, the FRC setting entails a relevant procedural change vis-à-vis the VRC setting in that in FRC a player keeps the same role as either favoured or unfavoured throughout the whole 20 rounds. This is determined prior to all interactions taking place. Conversely, in VRC treatments players™positions are reassigned before each round. In both cases players are informed of the way roles are assigned prior to the beginning of the interactions. So, a player being assigned the unfavoured role in a FRC setting can see her fate as being sealed throughout the whole 20 rounds, whereas in the VRC setting a player who is unfavoured in the current round knows that she may be assigned the favoured role in each of the future rounds. Arguably, FRCTs are less fair from the procedural point of view than VRC treatments, because there is no possibility of reversing the initial role assignment9. Consistently with the above considerations, we 
+9One may object that opportunities are fairly distributed in FRC treatments because before the initial role assignment each player had an even chance of being assigned the advantaged position. Nevertheless, we believe that this observation does not actually a¤ect 
+12 
+
+========13========
+
+expect that procedural individuals will be sensitive to this di¤erence, and will –nd the same allocation more acceptable when this has been generated within an overall fairer setting rather than a less fair one. We thus posit our third set of hypotheses, which we call "Dynamic Opportunities Hypothesis": 
+H3a: Receivers™acceptance rate decreases signi–cantly in the FRC setting vis-à-vis the VRC setting. 
+H3b: Proposers demand less in the FRC setting vis-à-vis the VRC setting. 
+Finally, our setting also enables us to test the presence of learning, i.e. convergence, or nearing, the SPNE of the game. In spite of the initial nega- tive results in Slonim and Roth (1996), subsequent studies have found some evidence that players behaviour™s in repeated UGs tend to converge to the SPNE (List and Cherry, 2000; Armantier, 2006). We then test whether: 
+H4a: Receivers™acceptance rate increases over time. 
+H3b: Proposers demand more over time. 
+Experiments were conducted with a sample of 426 Warwick University undergraduate students, with an average of 60 students per treatment. Only subjects who had not been attending courses in Game Theory were allowed to participate. We ran three sessions per treatment. Due to varying show-up rates, the number of subjects per session was not constant across sessions but varied from a minimum of 16 to a maximum of 24 subjects, with an average of around 20 subjects per session. The analysis we present in the next sections is however robust to controlling for the number of subjects participating in each session. Each subject only participated in one session. We took care to balance the composition of the sessions in terms of gender and number of people enrolled in Economics and Psychology courses with respect to the total. Each session was organised according to the following procedures. Subjects were paid a show-up fee of 5 GBP upon their entering the experimental room, and were randomly assigned to a computer in the room. After instructions were administered, written comprehension quizzes were carried out. Subjects were asked to re-try answering the quizzes until they gave the correct answer. Subjects were then involved in the 20 inter- actions of the stage game. At the end of the decisions subjects completed a short questionnaire asking demographic and attitudinal questions, and –- nally received their payo¤s. The whole session lasted around an hour. The average earnings - in addition to the show-up fee - was GBP8.22 . The game was conducted using the z-tree software (Fischbacher, 1999). 
+our statement. Because in FRC the outcome of the initial - and only - role assignment is extremely unequal - one player is favoured (unfavoured) for all 20 rounds. Conversely, in VRC treatments the outcome of the 20 di¤erent role assignments is undoubtedly less unequal, as the probability that a player ends up as favoured a certain number of times is given by a binomial distribution with parameters (20; 1=2):The most likely outcome is thus that each player is assigned the favoured role half of the times. 
+13 
+
+========14========
+
+4 Results for FRCTs 
+In the following two sections we analyse the baseline 50% treatment in con- junction with FRCTs. 
+4.1 Analysis of Receivers™Behavior in FRC 
+4.1.1 Descriptive Analysis 
+Table 1 reports descriptive statistics for the relevant features of proposers and responders™ behaviour in each treatment. First, we note that overall acceptance rate in our 0%_FRC treatment is in line with what found in standard UGs, though at somewhat lower levels. In the meta-analysis by Oosterbeek et al. (2004), the weighted average acceptance rate from 66 UG studies is 84:25%, whereas it equals 77:58% in our study. Our 0%_FRC is the treatment in our experiment that is closest to standard UGs, so we have some assurance that the behavioural patterns we observe in our study are not due to speci–c idiosyncrasies of our sample. Comparing the 50% treatment (Table 1a) and the FRCTs (Tables1 b, c, d) brings out the existence of a monotonic pattern consistent with H1 and H2. First, as the bias of the initial lottery increases, both the mean and the median values of rejected demands decreases (see Tables 1a-d, Columns 1). This means that as the initial lottery becomes more biased, responders request larger shares of the pie to accept the o¤er. 
+Second, the acceptance rates of low o¤ers decreases as the bias of the initial lottery increases (see Tables 1a-d, Columns 3). The acceptance rate for a treatment is the proportion of o¤ers that were accepted over the total number of o¤ers that were made. We consider a demand as "high" when the proposer demanded at least 80% of the pie for herself, thus leaving a share equal to or less than 20% to the responder. This is a somewhat arbitrary value but it is often taken as a reference point in the UG literature. It is worth noting that the drop in the acceptance rate for high demands is particularly pronounced between FRC 1% and FRC 0%, consistently with H2a. This monotonic pattern does not emerge in overall acceptance rate, but this is because the magnitudes of proposals varied considerably across treatments (see Tables 1a-d, Columns 2). The econometric analysis of the next section controls for this aspect. 
+Finally, Figure 2 o¤ers a graphical representation of responders and pro- posers™behavior in each treatment by reporting histograms of proposals as well as acceptance rates for di¤erent classes of proposals. Here proposals have been grouped in intervals of length equal to 0.5 for all demands greater than –ve, whereas all demands smaller than –ve have been grouped in one 
+14 
+
+========15========
+
+category. It is evident that acceptance rates tend to decrease within each class as the initial lottery becomes more biased. 
+4.1.2 Econometric Analysis 
+We pool all observations coming from FRCTs and the 50% treatment to- gether. We model the repeated nature of the data with a random-e¤ects model. Given the dichotomic nature of the receiver™s variable, we –t the following logit models: 
+ACCEP T ANCEi;t 
+=  
+i 
++ ˝CHANCE +  
+i;tOFF ER 
++ (1) 
++i;tF AV OURED + tROUNDt + iZi + ui + "i;t 
+ACCEP T ANCEi;t 
+=  
+i 
++  
+jT REAT MENTj 
++  
+i;tOF F ER 
++ (2) 
++i;tF AV OURED + tROUNDt + iZi + ui + "i;t 
+The dependent variable is the dichotomic variable ACCEP T ANCE - where 1 (0) denotes acceptance (rejection) of a given proposal. In model 1 the key variable to test for H1a is CHANCE. This variable takes the value of p, that is, the probability for an unfavoured player to become the proposer. Hence, CHANCE o¤ers a continuous measure of the bias in the initial lot- tery. Furthermore, we control for the size of the o¤er assigned to the receiver through the variable OFFER. The probability of acceptance is likely to be highly correlated with the size of the o¤er, which in turn may vary consider- ably across treatments (see next section). The dummy variable FAVOURED identi–es the interactions where a subject being in the favoured role was later drawn as receiver of the game. Obviously this only applies to the 1% and the 20% treatments. It may be the case that subjects initially drawn as favoured formed higher earnings expectations for that particular round than if they were drawn as unfavoured. Or maybe fairness concerns due to their awareness of being overall more likely to occupy the proposer role made them more lenient to accept o¤ers when occupying the receiver role. Having a higher initial ™reference point™in terms of expected earnings may a¤ect the likelihood with which they subsequently accepted o¤ers. Zi is a set of individual characteristics that may a¤ect propensity to accept. Zi in- cludes a subject™s age and gender, and two dummy variables identifying UK citizenship and enrolment in economic degrees. Introducing Zi considerably reduces the number of observations due to missing questionnaire answers, so 
+15 
+
+========16========
+
+we shall report regression results with and without Zi: ROUND dummies are also included to control for time trend e¤ects of e¤ects associated with speci–c rounds. Finally, ui and "i;t are individual-speci–c and observation- speci–c error terms. The indexes i and t denote the individual and the round of the interaction, respectively. Hence, i = 1: : : N; and t = 1: : :20. Note that all regressors apart from the dummy variable identifying attendance of economic degree are exogenous. Hence, in regressions not including Zi the individual-speci–c e¤ects  
+i 
+must be uncorrelated with the other regressors, thus ensuring that a between estimator is consistent. 
+Model (2) keeps the same speci–cation as (1) apart from replacing CHANCE with dummy variables identifying individual treatments. We introduce three dummy variables identifying each treatment, leaving the 50% treatment as the baseline. The index j of the variable T REAT MENT denotes observa- tions coming from a given treatment. This enables us to study the di¤erential e¤ects of pairs of treatments on propensity to accept, thus testing directly H2a as well as performing a more stringent test of H1a. 
+Regression results are reported in Table 2. Column 1 reports results for model (1) without including demographic controls Zi: CHANCE has a strong and positive e¤ect, thus supporting H1a. For instance, the pre- dicted probability of accepting an o¤er equal to 20% of the pie shifts from 0:95 when CHANCE = 0:5:to 0:75 for CHANCE = 0:2, and to 0:48 for CHANCE = 0. Thus, receivers clearly reacted to procedural fairness in the initial lottery, and were more likely to accept o¤ers when these came after a less unbiased initial lottery. OFF ER has a positive and strong e¤ect, as expected. F AV OURED also has a positive sign and is signi–cant at the 5% level. Favoured subjects were more likely to accept o¤ers when drawn as receivers than unfavoured subjects. As conjectured above, this may be due to fairness considerations10. 
+The speci–cation in the second column adds the demographic and individ- ual characteristics measures Zi. CHANCE keeps a strong and positive e¤ect in this speci–cation, too, thus con–rming the validity of H1a. OF F ER and F AV OURED also show positive and signi–cant e¤ects. Among the demo- graphic variables, it is interesting to note that attending Economics degrees signi–cantly increases probability of acceptance - this is so at the 5% level. Hence, similarly to other experiments, Economics students show patterns of behaviour closer to ™Homo Economicus™(Marwell and Ames, 1981). More- over, GENDER also exerts signi–cant e¤ects. Women are signi–cantly more inclined to accept o¤ers than men. This is in line with Eckel and Grossman 
+10Note that this result is mainly driven by behaviour in 
+20%_FRC because there were only four observations in which a favoured subject was drawn as receiver in 1%_FRC. Qualitatively similar results to those illustrated hold when these four observations are omitted. 
+16 
+
+========17========
+
+(2001). UK students were signi–cantly more likely to accept o¤ers, ceteris paribus, than foreigners. Age did not exert signi–cant e¤ects. 
+Table 2, Column 3, reports the results for model (2) without including individual characteristics Zi. Figure 3 reports the probabilities of acceptance in each treatment for various o¤ers, as predicted by this model. ROUND has been set to equal the last interaction, and F AV OURED is set at the mean value of the sample. The horizontal axis reports point values for o¤ers ranging from 5% to 35% of the pie. The estimated probability of acceptance for each treatment is reported on the vertical axis. The diagram shows that for any o¤er, as the bias of the initial lottery decreases, the probability of acceptance increases. Probabilities are close to 0 (1) for the lowest (highest) o¤er considered. For the other intermediate o¤er values, sizable di¤erences emerge across treatments. For instance, for o¤ers equal to 20% of the pie, the predicted probability of acceptance is equal to 0:92 in the baseline case, drops to 0:85 in the 20%_FRC and to 0:69 in the 1%_F RC, and drops to a mere 0:17 in the 0%_FRC. For o¤ers equal to 15% of the pie, the predicted probability of acceptance is equal to 0:69 in the baseline case, drops to 0:51 in the 20%_FRC and to 0:28 in the 1%_F RC. Finally, it goes down to 0:03 in the 0%_FRC. Clearly, di¤erences are particularly pronounced comparing the 0%_F RC vis-à-vis other treatments, but are relevant in other treatments, too. 
+Table 3 reports the z-statistics and standard errors of two-tailed Wald tests over the null hypothesis Ho:  
+k 
+  
+l 
+= 0 against H1:  
+k 
+  
+l 
+= 0, for 6 each pair of T REAT MENT coe¢ cients.  
+k 
+(  
+l) is the row (column) entry. This is done for model (3), but results for model (4) are virtually identical. Note that a positive (negative) sign for the z-statistic means that probability of acceptance was higher (lower) in treatment k (row entry) than in treatment l (column entry). Table 3 supports hypothesis HP2a of a symbolic value of opportunity. The di¤erence between  
+0%_F RC 
+and  
+1%_F RC 
+is negative and signi–cant (P  value = 0:017). Receivers in 1%_F RC had, ceteris paribus, a signi–cantly higher probability of accepting a given o¤er than receivers in the 0%_F RC Hence, an assignment of even minimal opportunities seems to matter a great deal for receivers of FRCTs. As for all other comparisons, the di¤erence between  
+0%_F RC 
+and the other two treatments coe¢ cients is negative and signi–cantly di¤erent to 0 at less than the 1% level. The dif- ference between  
+1%_F RC 
+and both  
+50% 
+is also signi–cantly di¤erent from 0 (P = 0:049). The di¤erences between  
+1%_F RC 
+and  
+20%_F RC 
+and  
+20%_F RC and  
+50% 
+are not large enough to reach signi–cance level, but it is notewor- thy that all the signs in the Table are negative and thus in line with HP1a. Overall, receivers of FRCTs seem to react to the increased bias of the initial lottery, with a large portion of the di¤erences being driven by the sizable reduction in the frequency of acceptance in  
+0%_F RC 
+compared to all other 
+17 
+
+========18========
+
+treatments and  
+1%_F RC 
+in particular. 
+Very similar results in the estimation of the  coe¢ cients obtain using Model (4) of Table 2. It is noteworthy that individual characteristics bring about the same e¤ects as those stressed for Model (2). The only di¤erence is that F AV OURED drops out of the signi–cance region. We can thus conclude: 
+Conclusion 1 Descriptive, graphical and econometric analysis supports HP1a. 
+Proof: Descriptive statistics and graphical analyses show the existence of a negative relationship between the bias of the initial lottery and (a) the mean and median value of rejected demands; (b) the acceptance rate of high demands. Econometric analysis shows a strong and positive e¤ect of the vari- able CHANCE over probability of acceptance. Pairwise comparisons between treatment dummy coe¢ cients all have the correct sign and are statistically signi–cant in four out of six cases. 
+Conclusion 2 Descriptive, graphical and econometric analysis supports HP2a. 
+Proof: Descriptive statistics and graphical analyses show (a) lower mean and median values of rejected demands; (b) lower acceptance rate of high demands, in the 0%_FRC compared to the 1%_FRC. Econometric analysis shows a signi–cant di¤erence at the 5% level between  
+0%_F RC 
+and  
+1%_F RC. 
+4.2 Proposers Behavior in FRC 
+4.2.1 Descriptive Analysis 
+Similar patterns to those observed above for receivers™behaviour are found for proposers™behaviour. Again, the average proposal in the 0%_FRC treat- ment is seemingly not too dissimilar from what found in other UGs. Oost- erbeek et al. (2004) report average o¤ers equal to 59:5% of the pie from 75 UG experiments, whereas this is equal to 62:8% in our study. As the initial lottery becomes more biased, both the mean and median proposals of favoured proposers decrease (see Tables 1a-d, Columns 4), with the only exception of 50% and FRC_20% where the median remains constant as we move from the former to the latter. The drop in proposals is particularly pronounced between 1%_FRC and 0%_FRC, consistently with H2b. More- over, the frequency of high demands decreases with the bias of the initial lottery. 
+Furthermore, the same monotonic pattern emerges between 20%_FRC and 1%_FRC with respect to non-favoured proposers (see Tables 1a-d, 
+18 
+
+========19========
+
+Columns 5). Distinguishing between favoured and unfavoured proposers in these two treatments is necessary, as the di¤erence in initial opportunities may in⁄uence their behaviour. It is interesting to note that unfavoured pro- posers demanded more than their favoured counterparts in both 20%_FRC and 1%_FRC. This di¤erence is statistically signi–cant in the 20%_FRC according to a Mann-Whitney test at a signi–cance level of less than 1% (z =  5:620; P < 0:001;n = 620), whereas it is not distinguishable from 0 in 1%_FRC (z = 0:19; P = 0:85;n1 = 640). Perhaps unfavoured proposers tried to compensate for having been discriminated against in the initial lot- tery by demanding a larger share of the pie. This would be consistent with attempting to minimise the expected earnings between favoured and un- favoured proposers. We return to this point below. However, the di¤erence between favoured and unfavoured proposers is not statistically signi–cant in 1%_FRC. Moreover, Figure 2 shows that the distribution of proposals tends to become more skewed towards the left as the chances of the non-favored player decrease. 
+4.2.2 Econometric Analysis 
+Even in this case we model the longitudinal characteristic of the data using a random e¤ects model. We consider the following models, analogous to models (1) and (2) of section 4.1.2: 
+DEMANDi;t 
+=  
+i 
++ ˝CHANCE + i;tUNF AV OURED + 
++tROUNDt + iZi + ui + "i;t 
+(3) 
+DEMANDi;t 
+=  
+i 
++  
+jT REAT MENTj 
++ i;tUNF AV OURED +(4) 
++tROUNDt + iZi + ui + "i;t 
+The dependent variable DEMAND is how much proposers demanded for themselves. In model (3), the main independent variable is CHANCE (see section 4.1.2). Moreover, all controls included in model 1, suitably adjusted, are included here, too. In particular, UNFAVOURED identi–es subjects who were in Player 2 role. The error structure includes an individual-speci–c error term ui, and an observation-speci–c error term "i;t. To prevent the risk of error heteroschedasticity, we use robust estimates of the variance-covariance matrix of the estimator, with errors clustered on individuals (Froot, 1989). Clustering makes it possible to treat errors as independent across decisions from di¤erent individuals, and arbitrarily correlated for decisions made by 
+19 
+
+========20========
+
+the same individual11. Model (4) substitutes treatment dummies for the CHANCE variable in model (3). 
+The results of the regression are reported in Table 4. Columns (1) and (2) show that CHANCE has a positive and strongly signi–cant e¤ect, thus supporting HP1b. Hence proposers™ behaviour, too, reacted markedly to the degree of unbiasedness in the initial lottery. The higher the unbiased- ness of the initial lottery, the higher proposers™demands. A weak e¤ect for UNF AV OURED also emerges. Unfavoured players, knowing they had a low probability of being selected as proposers, may have been less attentive in their choices, or they may have applied di¤erent patterns of behaviour compared to favoured players. For instance, they might have sought to com- pensate for their overall disadvantaged position by demanding more than favoured players. In line with what observed for receivers, Economics stu- dents demanded signi–cantly more than students from other degrees. The other demographic variables are not signi–cant predictors of DEMAND. 
+Speci–cation introduces treatment dummies. Table 5 reports in each cell (k,l) the z-statistics and the standard error for Wald tests over the null hy- pothesis Ho:  
+k 
+  
+l 
+= 0 against H1:  
+k 
+  
+l 
+6 = 0,where  
+k 
+is the row entry and  
+l 
+the column entry. Table 5 supports HP2b relative to the symbolic value of opportunity. The di¤erence between  
+F RC_0% 
+and  
+F RC_1% 
+is neg- ative and signi–cant (P = 0:024). Table 5 also supports hypothesis HP1b postulating a monotonic relationship between the fairness of the initial lot- tery and proposers™demands. All the coe¢ cient signs are in accord with this hypothesis, apart from  
+20%_F RC- 
+ 
+50% 
+where the sign is positive but the co- e¢ cient is indistinguishable from 0. In all of the other –ve comparisons, the lower the initial opportunity for the unfavoured player, the lower on average the proposals in that treatment. The di¤erence across treatments is signi–- cant at the 1% level in three out of the six comparisons, and signi–cant at the 5% level in two other comparisons. Speci–cation 4 brings about similar results to Speci–cation 2 as far as  coe¢ cients are concerned, and con–rms the same individual characteristics e¤ects found in Speci–cation (2). 
+Figure 2 also allows us to examine whether o¤ers made by proposers were those maximising expected earnings, given the acceptance rates for each treatment. The dotted line marked with asterisks shows the expected earnings for each proposal category, given by the product of the acceptance rate for that category and the lowest extreme of the interval. One can no- tice that in two cases out of four, the mode of the proposal lies in the same category as the payo¤ maximising proposal. In the 0% _FRC the maximum 
+11Note that clustering on sessions instead of individuals would be inappropriate because a necessary conditions for the validity of cluter-robust standard errors is that the number of clusters tend to in–nity. Given the relatively small number of sessions, this assumption would not be satis–ed. See Woolridge (2002). 
+20 
+
+========21========
+
+is in the adjacent category and is very close to the payo¤ maximising cat- egory. Only in the 1%_FRC can a sizable di¤erence be detected. Apart from this case, proposers™behaviour seems to have converged towards the income-maximising proposal. 
+On the grounds of this analysis, we conclude: 
+Conclusion 3 Descriptive, graphical and econometric analysis supports HP1b. 
+Proof: Descriptive statistics and graphical analyses show the existence of a negative relationship between the bias of the initial lottery and the mean and median proposals, the only exception being 50% and 20%_F RC where proposals are very close. Econometric analysis shows a strong and positive e¤ect of the variable CHANCE over demands as the lottery bias decreases. Di¤erences between treatment dummy coe¢ cients all have the correct sign and are statistically signi–cant in –ve out of six cases. 
+Conclusion 4 Descriptive, graphical and econometric analysis supports HP2a. 
+Proof: Descriptive statistics and graphical analyses show lower mean and median demands in the 0%_FRC than in the 1%_FRC. Economet- ric analysis shows a signi–cant di¤erence at the 5% level between  
+0%_F RC and  
+1%_F RC. 
+5 The Variable Role Condition 
+As illustrated in section 3, VRCTs have the same structure as FRCTs except for the fact that in VRC a random assignment to the favoured or unfavoured role occurs in each round, whereas in FRC players™ roles are –xed by one random draw prior to play. In this section we analyse jointly VRCTs and the 50% treatment. 
+5.1 Analysis of Receivers™Behavior in VRC 
+5.1.1 Descriptive Analysis 
+Table 1 shows that the monotonic pattern linking bias in the initial lottery and rejection rates still holds moving from 0%_VRC to 20%_VRC, but is reversed between 20%_VRC and 50%. Mean and median values of rejected demands increase from 0%_VRC through 20%_VRC, but subsequently drop when moving from 20%_VRC to 50%. Hence, receivers™hostility decreases between 0%_VRC up to 20%_VRC, but then it rises again (see Tables 
+21 
+
+========22========
+
+1a,e-g, Columns 1). A similar trend can be detected with respect to the acceptance rate of ™low™o¤ers (see Tables 1a, e-g, Columns 3). 
+Figure 2 shows a noticeable drop in acceptance rates for high demands in 0%_VRC, whereas acceptance rates remain high (i.e. higher than 80%) for a larger class of proposals in the 20%_VRC than in other treatments. Figure 2 also bears out that the mode of proposals did not generally coincide with the class with higher expected earnings, although the latter are generally situated in an adjacent class. 
+5.1.2 Econometric Analysis 
+We –t models analogous to (1) and (2) to analyse receivers™ behaviour in VRCTs (see section 4.1.2). The results are reported in Table 6. The main result of speci–cation (1) is that, contrary to what occurred for FRCTs, the variable CHANCE is no longer signi–cant (Table 6, column 1). Clearly the inversion of the monotonic trend between 20%_VRC and 50% already observed in the descriptive statistics is what prevents this variable to be a signi–cant predictor of acceptance rates. Speci–cation (2) shows instead a sizable increase of the coe¢ cient relative to CHANCE, which is now weakly signi–cant (Table 6, column 2). However, we interpret this result with cau- tion. We think this result is mostly due to the treatment 20%_VRC being particularly a¤ected by missed observations in individual characteristics. The elimination of the observations in this treatment clearly attenuates the weight of the very treatment causing the break in monotonicity12. 
+As for the individual controls, ECONOMICS is not signi–cant this time, but the sign is consistent with what found in section 4.1. GENDER is again a signi–cant predictor of receivers™behaviour, with women more likely to accept o¤ers. No signi–cant di¤erence emerges between UK students and foreigners, and AGE is also insigni–cant. To check whether HP1a may hold limitedly to a portion of the relevant interval, we add a squared term for the variable CHANCE. The resulting speci–cations (3) and (4) show that both the linear term and the quadratic term have indeed signi–cant e¤ects, particularly in speci–cation (3) (see Table 6, columns 3 and 4). Probability of acceptance reaches a maximum for CHANCE = 0:27 in speci–cation 3 and 0:30 in speci–cation 4. Hence, HP1a appears to be supported within a limited region of the interval. 
+12In fact, using speci–cation (1) on the same observations available for speci–cation (2) has the e¤ect of increasing the coe¢ cient of CHANCE to 2.15, which is nearly two thirds of the overall increase of CHANCE. Therefore, we conjecture that about two thirds of the increase in the CHANCE coe¢ cient is due to sample omissions and only one third to the introduction of demographic controls. 
+22 
+
+========23========
+
+Speci–cation (5) replaces CHANCE with treatment dummies, as per model 2. Figure 4 depicts the predicted probability as per speci–cation (5), estimated in the last round of interaction at the mean value for F AV OURED (see Table 6, column 5). The main feature of this diagram is that the three treatments 0%_V RC; 1%_V RC; 20%_V RC, do follow a monotonic trend. For instance, for o¤ers equal to 10% of the pie, the predicted probability of acceptance is equal to 0:16 in the 0%_VRCT, and it rises to 0:40 in the 1%_V RC, and to 0:69 in 20%_V RC: However, rather than following the monotonic trend, the probability of acceptance in 50% drops to 0:37, even further below than the predicted probability in 1%_V RC. For o¤ers equal to 15% of the pie, the predicted probability of acceptance is equal to 0:45 in the 0%_VRCT, and it rises to 0:74 in the 1%_V RC, and 0:90 in 20%_V RC: Even in this case, the probability of acceptance in 50% drops to 0:91, below the 1%_V RC level of predicted probability. 
+Table 7 reports the results of Wald tests for the null hypothesis H0:  
+k 
+  
+l 
+= 0 against the hypothesis H1:  
+k 
+  
+l 
+6 = 0. HP1a appears to be supported limitedly to the three treatments 0%_VRC, 1%_VRC, and 20%_VRC. All the signs of the z-statistics are negative, and thus consis- tent with the idea that less unbiasedness in the initial lotteries is associated with higher acceptance rates. The di¤erence is weakly signi–cant between 1%_VRC and 20%_VRC (P = 0:078), and strongly signi–cant between 0%_VRC and 20%_VRC (P<0.01). This analysis con–rms that respon- ders in 50% did not behave in accordance to HP1a. The signs are con- trary to the hypothesis for both  
+50% 
+  
+1%_V RC 
+and  
+50% 
+  
+20%_V RC; and the test even results in a weakly signi–cant di¤erence in the latter case (P = 0:051). Finally, the test returns a weakly negative signi–cant di¤erence for  
+50% 
+  
+0%_V RC 
+(P = 0:084). As far as HP2a of a symbolic value of opportunity is concerned, Table 7 shows support for the hypothesis, albeit weakly. The di¤erence between  
+0%_V RC 
+and  
+1%_V RC 
+is negative and sig- ni–cant at the 10% level (P = 0:063). Even in VRCTs, giving players a mere 1% of having their proposal selected raises the probability of acceptance in comparison to giving no chance at all, though less markedly than in FRCTs. Speci–cation 6 brings about qualitatively similar results to speci–cation 5 as far as treatment dummies are concerned, and to speci–cations (2) and (4) with respect to demographic variables (see Table 6, column 6). 
+On the grounds of this analysis, we conclude: 
+Conclusion 5 Descriptive, graphical and econometric analysis supports HP1a only limitedly to the 0%_V RC through 20%_VRCTs. The monotonic pat- tern breaks between 20%_V RC and 50%: 
+Proof: Descriptive statistics and graphical analyses show the existence of a negative relationship between the bias of the initial lottery and (a) 
+23 
+
+========24========
+
+the mean and median value of rejected demands; (b) the acceptance rate of high demands, between 0%_V RC and 20%_V RC. The opposite occurs between 20%_V RC and 50%: Econometric analysis shows no e¤ect for the variable CHANCE over probability of acceptance, but a strong e¤ect when a linear and a quadratic term are both included. The estimate suggests a maximum around p = 0:30: All pairwise comparisons between 0%_V RC through 20%_V RC have the correct signs and are statistically signi–cant (weakly in two cases). Conversely, the di¤erence  
+50% 
+  
+20%_V RC 
+has the wrong sign and is (weakly) statistically signi–cant. 
+Conclusion 6 Descriptive, graphical and econometric analysis supports HP2a. 
+Proof: Descriptive statistics and graphical analyses show (a) lower mean and median values of rejected demands; (b) lower acceptance rate of high de- mands, in the 0%_VRC than in the 1%_VRC. Econometric analysis shows a signi–cant di¤erence at the 10% level between  
+0%_V RC 
+and  
+1%_V RC. 
+5.2 Proposers Behavior in VRC 
+5.2.1 Descriptive Analysis 
+A pattern similar to what observed for receivers holds for proposers in VRCTs (see Tables 1a,e-g, Columns 4). As far as being favoured in the lottery is con- cerned, a striking di¤erence between VRCTs and FRCTs is given by the fact that unfavoured proposers demand less than favoured proposers. This is the case for both 20%_VRC and 1%_VRC. Although the di¤erence is statis- tically signi–cant in the –rst case (z = 1:884; P = 0:06;n = 600) but not in the latter (z = 1:240; P = 0:22;n1 = 560): Hence, the intuition that unfavoured proposers may demand more to compensate for their being dis- advantaged in their chance to access the proposer role clearly does not hold in this case. This hints at the possibility that players may have considered the VRC procedure less unfair than the FRC procedure. We return to this point in section 7.2. Likewise, Figure 2 shows that the distribution of pro- posals is clearly more skewed towards the right in the 20%_VRC than in the remaining treatments. 
+5.2.2 Econometric Analysis 
+Table 8 reports the results of regressions using models (3) and (4) applied to VRCTs and 50% (see section 4.2.2). This analysis con–rms the patterns ob- served for responders behaviour. CHANCE is not signi–cant in either speci- –cation (1) or (2) (see Table 8, columns 1-2), but the inclusion of a quadratic 
+24 
+
+========25========
+
+term makes both coe¢ cients signi–cant predictors of proposers™behaviour (see Table 8, columns 3-4). The models predicts the maximum to be reached at CHANCE = 0:27 (speci–cation 3) and CHANCE = 0:29 (speci–cation 4). Hence, HP1b seems to hold for a region of similar size to what found for responders™behaviour. The analysis of Wald tests over di¤erences in  con–rms the validity of HP1b limitedly to the three treatments 0%_VRC, 1%_VRC, and 20%_VRC. The di¤erence between  
+20%_V RC 
+and  
+1%_V RC is not large enough to reach signi–cance levels (P = 0:22), but  
+0%_V RC 
+is sig- ni–cantly smaller than both  
+20%_V RC 
+(P < 0:01) and  
+1%_V RC 
+(P < 0:01). HP2b relative to a symbolic value of opportunity for UG proposers is thus strongly supported in VRCTs. Conversely,  
+20%_V RC 
+is signi–cantly greater than  
+50% 
+(P < 0:01), thus reverting the previous trend, whereas the hy- pothesis that  
+1%_V RC 
+is the same as  
+50% 
+cannot be rejected (P = 0:15) and  
+0%_V RC 
+is signi–cantly smaller than  
+50% 
+(P < 0:01). 
+Even in this case, speci–cation (6) controlling for individual characteris- tics brings about qualitatively similar results to speci–cation (5) (see Table 8, columns 5-6). It is noteworthy that unfavoured proposers demand sig- ni–cantly less than favoured ones, this result being strongly signi–cant in speci–cations (1), (3), and (5), and weakly signi–cant in Speci–cation (6). This result is in contrast with what found in FRCTs. No e¤ect for individ- ual characteristics can be detected. We thus conclude: 
+Conclusion 7 Descriptive, graphical and econometric analysis supports H1a only limitedly to the 0%_V RC through 20%_VRCTs. The monotonic pat- tern breaks between 20%_V RC and 50%: 
+Proof: Descriptive statistics and graphical analyses show the existence of a negative relationship between the bias of the initial lottery and the mean and median proposals limitedly to the 0%_V RC through 20%_VRCTs, but the trend is reversed between 50% and 20%_V RC. Econometric analysis shows a strong e¤ects for the linear and the quadratic term of CHANCE, with a maximum being reached around p = 0:30. All pairwise comparisons between 0%_V RC through 20%_VRCTs have the correct signs and are statistically signi–cant in two out of three cases. Demands are signi–cantly higher in 20%_V RC than 50%: 
+Conclusion 8 Descriptive, graphical and econometric analysis supports H2a and H2b. 
+Proof: Descriptive statistics and graphical analyses show lower mean and median demands in the 0%_VRC than in the 1%_VRC. Economet- ric analysis shows a signi–cant di¤erence at the 1% level between  
+0%_V RC and  
+1%_V RC. 
+25 
+
+========26========
+
+6 Results for First Round 
+The random e¤ects model used in the foregoing sections is a popular method to analyse experimental data coming from repeated interactions (see e.g. Dickinson, 2000; Armantier, 2006; Gächter and Thöni, 2010). However, it is plausible that as interactions went on, subjects adapted their strategies to the feedback received at the end of each interaction. In particular, it is quite likely that proposers updated their beliefs over responders™minimum accept- able o¤er on the basis of their past experience, and modi–ed their demands accordingly13. It is then interesting to investigate the priors that agents had before such feedback were received. Is the monotonic behaviour that we observed over the whole experiment something that subjects - proposers in particular - anticipated right from the start? To answer this question we analyse subjects™behaviour in the –rst round of interactions. 
+Table 10 reports descriptive statistics for the –rst round of interactions only. Although paucity of observations prevent us from drawing –rm con- clusions, patterns are striking similar to what we observed across the whole 20 rounds. In fact, proposals and rejected demands in the –rst round of FRCTs present an identical pattern to that emerging in the whole 20 rounds as far as mean values are concerned, whereas there is one deviation from this pattern for median values. This means that in the –rst round receivers par- ticipating in more biased initial lotteries gave proposers a harsher treatment than receivers participating in less biased initial lotteries, and that proposers correctly anticipated this. However, acceptance rates of small o¤ers do not match the pattern observed across the 20 rounds. In VRCTs the pattern in the –rst round is the same as that observed over the whole 20 rounds, except that the VRC_1% treatment lies above the VRC_20% in terms of mean and median of rejected demands, and mean and median of proposals. Figure 5 depicts mean proposals in each round. It is noteworthy that FRCTs follow a monotonic pattern consistent with H1b, and a sizable gap between FRC_0% and FRC_1% consistent with H2b exists. 
+We also use econometric speci–cations analogous to those applied earlier. The removal of the time component calls for estimation with a logit model for acceptance and an OLS estimator for proposals. Moreover we drop controls for individual characteristics Zi to save degrees of freedom and avoid missing observations. The econometric speci–cations we use are thus as follows: 
+13Indeed, in unreported analyses some variables de–ned over a subject™s history in the game (such as the number of demand having been rejected to a proposer) turn out as strong predictors of future behaviour for proposers. Not surprisingly, past rejections have a negative impact on subjects™demands. 
+26 
+
+========27========
+
+ACCEP T ANCEi;1 
+=  
+i 
++ ˝CHANCE +  
+i;1OF F ER 
++ 
++i;1F AV OURED + ui + "i;1 
+(5) 
+ACCEP T ANCEi;1 
+=  
+i 
++  
+jT REAT MENTj 
++  
+i;1OF F ER 
++ (6) 
++i;1F AV OURED + ui + "i;1 
+DEMANDi;1 
+=  
+i 
++ ˝1CHANCE + 
++i;1UNF AV OURED + ui + "i;1 
+(7) 
+DEMANDi;1 
+=  
+i 
++  
+jT REAT MENTj 
++ 
++i;1UNF AV OURED + ui + "i;t 
+(8) 
+Clearly the sharp decrease in the number of observations considerably re- duces the power of statistical tests in comparison to regressions conducted on the whole sample. All the same, we –nd clear similarities to the patterns de- tected over the whole 20 rounds. This is clearer in proposers™behaviour. As shown in Table 14 (column 1), the variable CHANCE has a positive and sig- ni–cant e¤ect in FRCTs. The pairwise comparisons of treatment coe¢ cients from Model 2 (see Table 14, column 2), shows that the sign of coe¢ cient di¤erences is always negative, consistently with HP1b (See Table 15). That is, the higher the bias of the initial lottery, the lower the proposals. In two cases such di¤erences are small, but in four out of the six comparisons the di¤erences are statistically signi–cant. This is so when comparing 20%_FRC with 1%_FRC (P = 0:098), 20%_FRC with 0%_FRC (P = 0:027), 50% vis-à-vis 1%_FRC (P = 0:076) and 50% vis-à-vis 0%_FRC (P = 0:019). HP2b is instead not supported in this case. 
+In the VRCT, HP1b cannot be supported because proposals are highest in 1%_VRC, so CHANCE is no longer signi–cant (see Table 14, column 3). Nevertheless, proposals in 0%_VRC are considerably lower than in all other treatments (see Table 14, column 4, and Table 16). The di¤erence is strongly signi–cant with respect to 1%_VRC (P = 0:009), thus clearly supporting HP2b (See Table 16). Di¤erences are also signi–cant comparing 0%_VRC to 20%_VRC (P = 0:025) and 0%_VRC to 50% (P = 0:012). However, beyond this point the di¤erences are not consistent with a monotonic pattern, 
+27 
+
+========28========
+
+and they are in fact far from the conventional region of hypothesis rejection. 
+As already pointed out when commenting descriptive statistics, proposers™ behaviour mirrors responders™actions. The pattern of signs in the acceptance Tables mirrors that in the proposals Tables. This means that variations in proposers™behaviour across treatments exactly matched responders™ac- tions. It seems that proposers were able to anticipate those treatments where probabilities of acceptance were lower raising their o¤ers to receivers corre- spondingly. We cannot say whether this is due to fairness considerations by proposers or to their willingness to maximise income, though research on this speci–c issue argues that both motives are present (Cox, 2004). More in detail, signs of coe¢ cient pairs always change monotonically in FRCTs, though di¤erences are never signi–cant (see Table 12). A binomial test sug- gests that this pattern cannot be considered as random. The null hypothesis of –nding a positive and a negative sign with equal probability over the 6 tests conducted in Table 12 yields a P-value of B(6;0:5) = 0;016 and is thus rejected. Although this test is not as stringent as that carried out above, this evidence supports H1a in FRCTs. 
+In VRCTs, we observe a clear di¤erence in 0%_VRC compared to other treatments, with di¤erence being signi–cant in 0%_VRC vis-à-vis 1%_VRC (P = 0:003). This strongly supports HP2b. Di¤erences are also signi–cant in 0%_VRC vis-à-vis 20% (P = 0:042), 0%_VRC vis-à-vis 50% (P = 0:018). In all other treatments, di¤erences appear small and are not signi–cant. We conclude: 
+Conclusion 9 Descriptive analysis supports H1a in FRCTs. Descriptive, graphical, and econometric analysis supports H1b in FRCTs. 
+Proof: In FRCTs mean and median values of rejected demands decrease as the initial lottery becomes more biased (see Table 10). Moreover, a bi- nomial test over the hypothesis that z-statistics of pairwise tests in FRCTs have equal probability of being positive or negative is rejected at less than the 5% level. This further supports H1a. 
+As for H1b, in FRCTs demands decrease monotonically as the bias of the initial lottery decreases (See Table 10 and Figure 5). The variable CHANCE has a positive sign and is statistically signi–cant at the 5% level (see Table 14, column 1). The z-statistics of pairwise tests are again all negative, and in four out of the six cases the di¤erences are statistically signi–cant. 
+Conclusion 10 Descriptive, graphical, and econometric analyses support H2a and H2b in VRCTs. Descriptive and graphical analyses supports H2a and H2b in FRCTs. 
+28 
+
+========29========
+
+Proof: Descriptive statistics show lower mean and median values for re- jected demands in the 0%_VRC than in the 1%_VRC, as well as lower demands (see Table 10 and Figure 5). Pairwise tests over the null hypothesis that  
+0%_V RC 
+  
+1%_V RC 
+= 0 strongly reject this hypothesis in both the analysis of demands and acceptances, thus supporting both H2a and H2b. 
+Table 10 and Figure 5 also indicate lower mean and median values for rejected demands in the 0%_FRC than in the 1%_FRC, as well as lower demands. Finally, we put forward: 
+Conclusion 11 There exists a one-to-one correspondence between proposers and responders behaviour across each treatment within VRC and FRCTs. As the probability of rejection increases, demands decrease. 
+Proof: See comparison of Tables 12 and 15, and of Tables 13 and 16. 
+7 Comparing VRC and FRC 
+7.1 Comparison across all rounds 
+Let us focus on comparing FRCTs and VRCTs. If subjects were consequen- tialist (see section 1), they would be indi¤erent between FRCTs and VRCTs because their decision node takes place after Nature has moved, thus it bears no consequence on their future strategies. Conversely, were subjects proce- dural, they may take into account Nature™s moves prior to their choices. As posited in H3a and H3b, we believe that procedural individuals see VRCTs as implying a more fair procedure than FRCTs, thus we expect both acceptance rates and demands to be higher in VRCTs compared to FRCTs. 
+We –rst note that descriptive statistics from Table 1 support H3a and H3b. For each pair of treatments - e.g. 20%_FRC vis-à-vis 20%_VRC, the mean and median value of rejected demands, and the acceptance rate of high demands, are all lower in FRCTs than VRCTs. Moreover, demands are higher in VRC than FRC in each pair of treatments. 
+As for econometric analysis, we –t models analogous to (2) and (4) for pooled observations coming from FRCTs and VRCTs (see sections 4.1.2 and 4.2.2). This enables us to test directly for di¤erences in the coe¢ cients associated with di¤erent treatments. The result of the analysis are reported in Tables 17 and 21. Tables 18 through 20 (Tables 22 through 24) report in each cell the coe¢ cient value and the standard error for  
+k 
+  
+l, as estimated in model (2) (model (4)) applied to the whole data. Row (column) entries denote FRCTs (VRCTs). We only report the result of Wald tests on the null H0:  
+k 
+  
+l 
+= 0 against the hypothesis H1:  
+k 
+  
+l 
+= 0 6 for the three 
+29 
+
+========30========
+
+pairs of treatments on the "diagonal" of all possible pairings. Acceptance rates are ceteris paribus signi–cantly lower in FRCTs than in VRCTs in all three comparisons. As shown in Table 18, the di¤erence is signi–cant at less than the 5% level for 20%_FRC vis-à-vis 20%_VRC (P = 0:012) and for 1%_FRC vis-à-vis 1%_VRC (P = 0:033), and strongly signi–cant for 0%_FRC vis-à-vis 0%_VRC (P < 0:01). Tests reported in Table 22 also con–rm that demands were signi–cantly lower in FRCTs than VRCTs, by a factor of 0.48 GBP in 20%_FRC vis-à-vis 20%_VRC (P < 0:01), £ 0.42 in 1%_FRC vis-à-vis 1%_VRC (P < 0:01), and £ 0.26 in 0%_FRC vis-à-vis 0%_VRC (P < 0:095)14. We thus conclude: 
+Conclusion 12 Descriptive and econometric analyses support H3a and H3b. 
+Proof: See Table 1, Table 18 and 22. 
+7.2 Learning and strategies evolution 
+We turn to analyse the di¤erence between VRC and FRC by looking at the evolution of strategies over time. We speculate that the break of monotonicity we observe in VRCTs is due to the establishment of a "convention" assigning favoured players a dominant role in the allocation of the pie. The existence of a trend for some of the VRCTs is quite clear in Figure 5, which plots the evolution over rounds of mean proposals from favored proposers. Secondly, we –t a model similar to the one used in the previous section. We replace all round dummies by a single ROUND variable that simply equals the number of the round to which an observation refers. It thus captures the existence of trends in the evolution of proposals and acceptance rates over time. We also add interaction terms of this variable with a dummy variable identifying FRCTs (FRC_X_ROUND) and VRCTs (VRC_X_ROUND). 
+These models enable us to assess the existence of di¤erent trends in the evolution of strategies between FRCTs and VRCTs. First we focus on re- ceivers™behaviour. The coe¢ cient of ROUND refers to the baseline 50% condition. The sign is positive and is signi–cant at the 5% level (See Table 17, column 2). As for FRCTs and VRCTs, the coe¢ cient estimate is only weakly signi–cant for the FRC (  = 0:032; z=1:94; P = 0:052; N= 4260), whereas it is strongly signi–cant for the VRC (  = 0:064; z=3.31; P < 0:01 ; N= 4260). Notwithstanding, the coe¢ cient di¤erence between VRC and 
+14We have restricted the analysis to favoured proposers only. Including unfavoured proposers would weaken the results, although the general pattern would be unaltered. As already mentioned in sections 4 and 5, unfavoured proposers behaviour was dyammetrical opposite in FRCTs and VRCTs, and this has the e¤ect of weakening the regression results conducted over the unrestricted set of observations. 
+30 
+
+========31========
+
+FRC is not signi–cant (  = 0:032; z = 1:26; P = 0:208; N= 4260). It has to be noted, though, that acceptance rates start o¤ at a considerably lower level in FRC from the beginning (  = 1:409; z=2:73, P = 0:006 ; N= 4260). So, the model predicts the probability of accepting an o¤er of 20% of the pie is in round 20 equal to 69% in the average FRCT while it is 90% in the average VRCT. 
+Although the sign of the coe¢ cient is positive, 14.6% of the proposals (31 out of 231) are rejected even in the last round. We are thus very far away from NE behaviour. A Wilcoxon signed-rank test strongly rejects the hypothesis that acceptance rate is equal to 1 in the last round (z=  5:568; P <0:0001). It is interesting to ask why responders ™softened up™over time. We doubt this is due to subjects learning to play the NE of the game. Should this be the case, learning should be faster in the FRC than the VRC - because FRC responders play more often in this role than VRC ones - but, if any- thing, the opposite happens. As we argue below, we believe that the higher intertemporal fairness of VRC made it possible for a convention to arise in VRC, which made responders more lenient in VRC than FRC. All the same, we do observe some evidence of increased willingness to accept in FRC, too. We believe this is due to the fact that the "value" of punishing a greedy pro- poser is higher in the –rst rounds than in later rounds. This may be due to either an "altruistic punishment" motive - if punishment "redeems" a greedy proposer to making fairer o¤ers, the value of punishment in early rounds is higher than punishing in later rounds - or to a purely sel–sh motive - since there is a positive, albeit small, probability of meeting the same proposer in future rounds, the value of early punishment is again higher. 
+Di¤erent is the case of proposals. Here no trend can be detected in neither the 50% treatment (see Table 21, column 2), nor in FRCTs (  =  2:5X10 
+ 3; z=0:63, P = 0:526), whereas a steep trend occurs in VRCTs (  = 0:02; z=5:47, P < 0:01). The di¤erence between FRCTs and VRCTs is strongly signi–cant (  =  0:021; z=  3:55, P < 0:01). It is worth noting that o¤ers in the last round are still much lower than the SPNE of the game (See Figure 5). Rather than "learning" the NE of the game, we are inclined to believe that subjects used information relative to receivers™acceptance thresholds to their own advantage. We summarise these results as follows: 
+Conclusion 13 Support for convergence towards the SPNE of the game is limited. 
+We –nd evidence of convergence in the direction of the SPNE of the game only in VRCTs, where both acceptance rates and demands increase over time. Weak evidence of convergence is also found in both FRC and 50% treatments but limitedly to acceptance rates. Conclusions are similar even if we analyse 
+31 
+
+========32========
+
+single treatments separately15. Both acceptance rates and demands are very distant from the game SPNE in the last round of the game. 
+Proof: See Table 17 and 21. 
+7.2.1 A social norm emerging in VRCTs? 
+To understand the extent to which the two sets of treatments di¤ered at the beginning and at the end of the interaction we have –tted the same econometric speci–cations illustrated in section 7.1 to the –rst and last –ve rounds only, and then run Wald tests over the null hypothesis that coe¢ cients di¤er between FRC and VRC in corresponding treatments. Overall, the picture that emerges is one of very small di¤erences, if any, at the beginning of the interactions, and of large di¤erences at the end. Di¤erences are weak for proposals in FRC_1% and VRC_1% (P = 0:055), and non-existing in the other two cases (see Table 23). Conversely, in the last –ve rounds proposers in VRCTs demand signi–cantly more than FRC proposers in all treatments, the di¤erences being strongly signi–cant in the 20% and the 0% treatment, and signi–cant in the 1% treatment (P = 0:012). Acceptance rates are already higher in the –rst –ve rounds in VRCTs compared to FRCTs, particularly in the 1% treatment (P < 0:01), but also in the 20% treatment (P = 0:091), whereas no statistical di¤erence emerges in the 0% treatment (see Table 19). Perhaps receivers in the 1%_FRC treatment perceived the unfairness of the procedure even more than participants in the 0%_ FRC. All the same, di¤erences grew even larger at the end of the interactions. Responders were signi–cantly more likely to accept a given o¤er in the 0% treatment (P < 0:01), in the 1% treatments (P = 0:024) and in the 20% treatment (P = 0:035). 
+One can conclude that the pronounced di¤erences we observe between 
+15Fitting to individual treatments the same model for 
+P ROP OSAL as the one con- sidered in this section, yields the following values for the coe¢ cient of PERIOD:  = 0.011(p = 0:236) in 50%,  = :008(p = 0:124) in 20%_F RC,  =  :006(p = 0:555) in 1%_F RC,c  =  :006(p = 0:349) in 0%_V RC,  = 0.030 (p < 0:01) in 20%_V RC,  = 0:007 (p = 0:407) in 1%_V RC;  = :036 (p < 0:01) in 0%_V RC:As for ACCEP T ANCE, we –nd the following values:  = 0.037(p = 0:501) in 50%;  = 0:059(p = 0:086) in 20%_F RC,  = 0:083(p < 0:01) in 1%_F RC,  =  :0242(p = 0:356) in 0%_F RC,  = 0:057(p = 0:252) in 20%_V RC,  = 0:035(p = 0:256) in 1%_V RC,  = 0:165(p < 0:01) in 0%_V RC. 
+Hence, 0%_V RC is the only treatment in which both proposals and acceptance rates increased signi–cantly over time. Proposals grew strongly in 20%_V RC but this time the coe¢ cient term for acceptance was not signi–cant at conventional levels. However, this is partly due to the drop in observations brought about by the introduction of demographic controls. If we remove these, the PERIOD coe¢ cient is positive and strongly signi–cant for 20%_V RC, too. 
+32 
+
+========33========
+
+VRC and FRC over the whole 20 rounds are relatively small at the be- ginning of the interactions, but grow larger as the number of interactions increases. This is particularly the case for proposers™behaviour. It is thus clear that they are not the result of the beliefs held by players prior to the start of the interactions. It is instead plausible, although our design does not enable us to prove it, that what we observe is the result of the estab- lishment of a convention in VRC. Hargreaves-Heap and Vaourofakis (2002; HHV henceforth) de–ne a convention as the situation in which players use an exogenously given characteristic to solve a co-ordination problem. In their experiments, such characteristic was the assignment of players to one of two colours and the interaction was the Hawk-Dove game. They found that as time went by players being assigned one colour played "Hawk" with higher frequency whereas those assigned the other colour played Dove with higher frequency. This obviously resulted in increased e¢ ciency than the control case where no colour was assigned. Colour assignment was entirely random, and, in principle, completely irrelevant to the strategic interaction. The es- tablishment of such convention took time, but was rather stable towards the end of the interaction. 
+We believe something similar occurred in our VRCTs. Players used the assignment to the favoured role in the random draw as a characteristic en- abling them to demand a larger share of the pie - thus acting more "hawk- ishly" - whereas players being assigned to the unfavoured role accepted with higher frequency such demands - thus acting more like "doves" - in compar- ison to FRCTs. In other words, players used an exogenously given charac- teristic of the interaction - in a sense analogous to the colour assignment - to "co-ordinate" over an equilibrium assigning around three quarters of the pie to the proposer. Admittedly, in our game such characteristic is not irrelevant to the interaction, as it has a direct in⁄uence in determining the odds with which a proposal is selected. All the same, it may be deemed as sharing simi- lar properties to a convention in HHV game. The second important di¤erence between HHV and our experiments lies in that their colour assignment was invariant throughout the whole of the interaction, whilst in our VRCTs the random assignment occurred at each round. However, we believe that the nature of the HHV result carries over to our case as well. It was exactly this feature of the interaction that explains why the convention got established in VRCTs and not in FRCTs. Only on the backdrop of overall inter-temporal fairness did VRC receivers accept the higher inequality of the distribution in comparison to FRCTs. This is hardly surprising. It is easier to stick to a disadvantageous convention today knowing the same convention may turn advantageous tomorrow, rather than sticking to a convention in which one is always on the receiving end. 
+We believe this account also helps explain the reversal in monotonicity 
+33 
+
+========34========
+
+that we observe in VRCTs with respect to the 50% treatment. If subjects were only concerned with procedural fairness, and if there existed a (negative) monotonic relationship between overall procedural fairness and acceptance rates, then we should clearly observe higher or equal acceptance rates in 50% compared to 20%_VRC. The opposite occurs instead. We tentatively conjecture that the existence of a characteristic able to di¤erentiate players at each round has made it possible that players reduced their overall level of con⁄ictuality. Perhaps surprisingly, the existence of a characteristic randomly di¤erentiating players in terms of their luck made it more salient that subjects would be favoured on average half of the times and be unfavoured the other half. This may have induced them to –nd the asymmetric distribution of power in UG more acceptable, thus reducing their con⁄ictuality rate. 
+In fact, the random assignment of roles to individual leads to surprising consequences in terms of overall e¢ ciency and allocation inequality. Figure 6 o¤ers a graphical representation of the share of total surplus that (a) has gone lost because of receivers™rejection (black segment of the bar), (b) has been accrued to proposers (grey segment of the bar), (c) has been accrued to receivers (white segment of the bar), for each of the treatments. It is worth noting that the two treatments where losses are lowest are 20%_VRC and 0%_VRC. Acceptance rates over the whole 20 rounds are exactly the same in these two treatments (85%). 20%_FRC comes third, with an acceptance rate of 84%, and 50% is only fourth in this ranking, with an acceptance rate of 81%. In the last –ve rounds of the game (See Figure 6b), all three VRCTs present lower con⁄ictuality rates than 50%. Such di¤erences are not huge but are sizable. A Mann-Whitney test conducted on the dicotomic variable ACCEPT between 50% and 20%_VRC over the whole 20 rounds rejects the null that observations come from the same distribution, though only weakly ( z =  1:657, p=0:0976, N=1220). Exactly the same result holds comparing the distribution of ACCEPT between 50% and 0%_VRC. What is also interesting to note is that overall inequality between proposers and receivers is considerably lower in 0%_VRC than in both 20%_VRC and 50%. Running a Mann-Whitney test on receivers payo¤s yields a strongly signi–cant di¤erence favouring 0%_VRC compared to 20%_VRC ( z = - 10.238, p<0:01, N=1200) and 50% ( z = -5.896, p<0:01, N=1200). In fact, only 0%_FRC guarantees receivers a higher share ( z = 3.111, p= 0.0019, N=1220). 
+34 
+
+========35========
+
+8 A post-hoc model 
+8.1 Existing models of other-regarding preferences 
+In this section we try to move towards an explanation connecting the concept of opportunity with allocation inequality. Our results show the existence of a generally increasing monotonic pattern in the relationship between fair allocation of opportunities on the one hand, and demands and probability of acceptance on the other- with the exception of the non-linearity found in VRCTs (see section 5). Moreover, we –nd a "discontinuous" jump between the 0% and the 1% treatments, which is strong and robust in both FRCTs and VRCTs (see sections 4 and 5). 
+Before introducing our own explanation, let us brie⁄y discuss why tradi- tional models fail to explain our result. There are three main class of models that departs from the traditional rational choice theory and o¤er explana- tions for the anomalies observed in laboratory experiments. The –rst group of models assume that individuals maximize well de–ned preferences, but permit preferences to depend on the payo¤s of other players. FS and BO among others have followed this approach and have suggested speci–c func- tional form for interdependent preferences. These utility function, in general, could be written in the following form: 
+ui(x) = xi + ij(xi 
+ xj)xj 
+(9) 
+ui(x) is agent i™s utility given an allocation x where xi and xj denote the shares of i and j respectively. The function ij is the source of interdepen- dence - it connects i™s utility with j™s share. In this formulation, it is easy to see that irrespective of the opportunity level, the responder™s behaviour in a UG always remains the same. Hence, proposers™behaviour will also remain una¤ected by the opportunity level as well as the ex-post inequality in allo- cation. A second approach seeks to introduce fairness concerns directly into the utility function, by making individuals™utility dependent on the charac- teristics of the lotteries they face in their decisional process. For instance, Trautmann (2009) applies FS model of inequality aversion to expected payo¤s rather than –nal payo¤s. In similar fashion, BBO extend the original BO model by de–ning the "fairest" available allocation in the game as the closest possible - in expected value - to the equal divide, after taking into account players™strategy sets and the set of lotteries available for choice. Individ- uals condition their social motivations to the distance between the actual allocation and the fairest allocation possible. In this way, preferences over procedures may be accommodated directly into utility functions. A third stream of argument is based on reciprocity and permits the preference over 
+35 
+
+========36========
+
+outcomes to depend on the context in which the outcome was reached (see e.g. Rabin, 1993). 
+The reason why these approaches fail to account for our results is ulti- mately that they make individuals™utilities depend either on –nal allocations, or on lotteries that are directly de–ned over such allocations. However, in our experiments the only source of variation across treatments is given by lotteries determining the game initial positions, rather than –nal allocations. As such, these lotteries cannot but be irrelevant for these models16. Fur- thermore, such models are ‚continuous™ in nature and are thus unsuitable to explain the discontinuous jump that we observe between no opportunity and positive opportunity settings. Finally, although the context dependence of the third class of models sounds promising in our setup, the source of unfairness in our setting is due to external lotteries rather than human ac- tion. Therefore, intention-based reciprocity cannot be held responsible for our –ndings. 
+8.2 Envy factor dependent on ‚Opportunity™ 
+Here, we demonstrate that a simple combination of inequality aversion model with Nozick™s idea of symbolic utility can rationalise our –ndings. It would be proper to mention at this stage that our aim is no broader than that. We neither claim this to be the only possible explanation nor we propose symbolic utility to be the basis of a new social utility model. The analysis we sketch here is rudimentary and leaves many important questions unanswered. We propose a simple extension of the inequality aversion model introduced by FS. In a two-person society, FS utility function for an agent can be represented 
+16A possible strategy for models of the second class to accommodate lotteries applied to initial positions, rather than to –nal outcomes, may be the following. Let us call I (F) lotteries de–ned over the initial (–nal) positions of the game. We argued that the main limitation of models of the second class was that no payo¤ can directly be attached to I. However, subjects may attach their subjective expected payo¤ to I;either taking into account their previous experience in the game, or their a priori beliefs over others™ behaviour. For instance, individuals may use their subjective distribution of a receiver™s probability of rejection of a given o¤er to attribute an expected value to being selected as proposer of the game. Likewise, individuals may use their subjective distribution of prob- ability of receiving a certain o¤er from a proposer, and determine the expected payo¤s on the basis of their own minimum acceptable o¤ers. In this way, expected payo¤s may be indirectly attributed to all the events associated with I. Such expected payo¤s may thus be used in a similar fashion as the "objective" payo¤s that can be derived from F. The main problem of this strategy is obviously that the subjective expected payo¤s so deter- mined may (widely) di¤er across individuals, thus making it di¢ cult for an equilibrium to become established. 
+36 
+
+========37========
+
+as follows: 
+ui(x) = xi 
+  
+i 
+max(xj 
+ xi;0) 
+  
+i 
+max(xi 
+ xj;0) 
+(10) 
+where xi and xj are share of agent i and j respectively.  
+i 
+ 0 is the envy factor and 0   
+i 
+  
+i 
+is the altruism factor. Our experimental results, in particular, rejection rate across di¤erent opportunity level suggests that ‚opportunity™enters into the utility function through the envy factor. That is,  
+i 
+is not a constant but depends on p, where p is a measure of opportunity. We have already argued that in our settings it is simply the probability with which a proposal from an unfavoured player is selected as a proposal. Thus p can vary between 0 and 0:5. Moreover, one can expect that the higher the di¤erence in opportunity levels between the two players, the stronger the envy factor. That is  
+i(p) 
+is a decreasing function in p. Following FS, we assume that the proposer does not know the exact value of the envy factor of the responder, but knows that it is distributed according to some distribution function Fp(  ). The equivalent of decreasing function  
+i(p) 
+in this setup is as follows. If p1 > p2 then Fp2 –rst-order stochastically dominates Fp1. 
+To keep our model simple we assume  
+i 
+= 0 and we use our toy model to explain two main observations: i) ceteris paribus, a decrease in inequality of opportunity (that is, an increase in p) increases the probability of acceptance of a proposal and ii) a decrease in inequality of opportunity increases the 
+inequality of the allocation. 
+ xi)  0 and agent i accepts  xi)]  0. Equivalently, an o¤er will 
+a proposal if and only if [xi be accepted if and only if  
+i 
+ xi is accepted is Fp 
+xi 
+1  2xi 
+Suppose j is the proposer and i is the responder. Since, xi and xj denote the share of agent i and j respectively, we have xi + xj = 1. First note that in equilibrium, xj  0:5. Otherwise j can increase her utility because any xj < 0:5 will be accepted by i. Thus (xj 
+  
+i(xj 
+xi 
+ 
+1 2x 
+. Hence, the probability with whichi 
+. If p1 
+> p2 
+then Fp2–rst-order stochastically 
+ 
+dominates Fp1, implying Fp1 acceptance increases with p. 
+xi 1  2xi 
+ Fp2 
+xi 1  2xi 
+h 
+. That is probability of 
+Now, the expected payo¤ of the proposer ish (1 agent j chooses xi which maximizes (1 
+condition is as follows, 
+(1 (1  2xi)2 
+ xi) 
+Fp 
+=  xi 
+1 2xi 
+ xi)Fp 
+ i  xii)Fp 
+xi 
+1  2xi 
+. Thus xi 
+1  2xi 
+. The –rst order 
+ 
+ 
+xi 1  2xi 
+(11) 
+fp 
+ 
+37 
+
+========38========
+
+where fp is the density function. To show our next result on allocation inequality, we need to make further assumptions on F. We assume that f is non increasing. Moreover we only consider one particular type of –rst order stochastic dominance which comes from a shift in the support. For example, consider the following family of exponential distribution, 
+ˆ 
+e 
+ (t  a(p)) 
+fp(t) = 
+if t  a(p) 
+0 otherwise 
+(12) 
+where a(p) is a decreasing function of p. One can check that if p1 > p2 then Fp1 (t)  Fp2 (t) for all t. p1 > p2 also implies a(p1) < a(p2) and hence for all t, fp1(t)  fp2(t). Therefore, for all xi 
+    
+Fp1 
+xi 
+1  2x 
+Fi 
+xi 
+  
+p 
+ 
+2 
+ 
+1  2xi 
+xi (13) 
+fp1 
+xi 
+1  2xi 
+fp2 
+1  2xi 
+Note that the left-hand side of Equation 11 is an increasing function of xi and starts above the right hand side (at xi = 0). Let xi(p) be the equilibrium share of the pie that j o¤ers to i, where 
+xi(p) = fminxijxi satis–es Equation 11} (14) 
+ 
+xi 
+ 
+Thus for all xi < xi(p1), we have 
+(1  xi) 1  2xi 
+(1 2xi)2 
+> 
+Fp1 
+ 
+xi 
+. By Equation 
+f p1 
+1  2xi 
+Fp2 
+x 
+i 
+13, 
+(1  xi) 1  2xi 
+(1  2xi)2 
+> 
+ 
+fp2 
+x 
+i 
+for all xi < xi(p1). Therefore xi(p2)  xi(p1).1 
+ 2x 
+That is, inequality of allocation increases with a decrease in inequality ofi 
+opportunity. From the data (see sections 4 and 5) we observe a jump from p = 0 to p = 0:01. This can be accommodated in our post-hoc model if we assume that there is a jump from F0 to Fp for any p > 0. This is consistent with what we called the Symbolic Opportunity Hypothesis. As illustrated in section 3, our application of Nozick™s symbolic utility argument to our case is that the purely symbolic opportunity of submitting a proposal in the game su¢ ces to give "expressive" (or symbolic) utility to the agent that adds to the intrinsic utility. Such symbolic act su¢ ces to make the overall assessment of procedures as more fair than when this act is not possible, thus making receivers more lenient to accept o¤ers, ceteris paribus. This may thus explain the discontinuity between F0 and F0:1. 
+38 
+
+========39========
+
+9 Conclusions 
+The following conclusions can be drawn from the present study. First, we –nd robust support for the Monotonic Fairness Hypothesis in FRCTs. The greater the inequality in the distribution of initial opportunities, the lower the acceptance rates of a given o¤er. Consequently, average o¤ers increase. In VRCTs we instead –nd an inverted-U pattern. The trend in acceptance rates and proposals increases between 0% and 20%, but then su¤ers a re- versal, as we –nd higher acceptance and inequality rates in the 20%_VRC treatment than in the equal opportunity treatment. Overall, it is striking that manipulations of initial opportunities which should leave a consequen- tialist player indi¤erent seem to matter a great deal to individuals. Although several other studies have emphasised the relevance of procedural fairness, we believe our study to be the –rst to investigate the issue, systematically varying the degree of initial opportunity over the whole range of the scale. Another exception is Suleiman (1996), who analyses behavioural patterns as- sociated with changes in a "structural" parameter over the whole extension of the relevant interval. Nevertheless, in his study procedural changes are mixed with payo¤ changes (see section 2), so cannot be deemed to be sin- gling out the purely procedural aspect of fairness. We discuss below possible reasons for the break in monotonicity in VRCTs. 
+Second, we –nd clear support for the Symbolic Opportunity Hypothesis. In both FRCTs and VRCTs, receivers act signi–cantly more leniently after having been previously assigned a mere 1% initial chance of acting as pro- posers compared to having no chance. We believe that ours is the –rst study –nding such a clear variation in behaviour associated with such a small mod- i–cation of chances in an experimental context. Our results are reminiscent of those by Suleiman (1996), and Handgraaf et al. (2004), who –nd some signi–cant changes in behavioural patterns between the "corner" and the in- terior of the interval scale. However, their –ndings have nothing to do with the attribution of symbolic chances to unfavoured players, but rather to a sense of "responsibility" by favoured players (see in particular Handgraaf et al., 2004). 
+In this fashion, our study validates experimentally other pieces of em- pirical and survey evidence regarding the importance of "voice" for people. Frey and Stutzer (2005) –nd support for the thesis that the mere right to participate in the political process - rather than actual participation - in- creases individual satisfaction - a phenomenon they refer to as "procedural utility". Anand (2001) reports survey evidence supporting the importance people place on having the right to have their opinion heard - or appropri- ately represented - in collective decision processes. The relevance of this right to voice may be caused by the desire to express one™s position, or to obtain 
+39 
+
+========40========
+
+respect for one™s worth. 
+As a matter of fact, in our experiments we are not able to disentangle whether such a result is due to the purely procedural aspect of having a say in the collective decision problem, or to the actual allocation of a 1% chance of acquiring the advantaged position. Discriminating between these two in- terpretations would call for the running of a treatment where subjects have a 0% chance of having their proposal submitted, but are nonetheless asked to submit a proposal17. In other words, the symbolic value of opportunity may matter for individuals in a purely representative sense, even if it is not attached to any chance - as small as it may be - of in⁄uencing the assign- ment of positions. This is certainly an interesting topic worth studying in the continuation of our research. 
+Third, we also –nd support for the Dynamic Opportunities Hypothesis. Acceptance rates are signi–cantly higher in VRCTs than FRCTs, and as a consequence, proposers™demands are also higher. As argued in section 3, this is consistent with our claim that subjects see VRCTs as a fairer procedure by which to allocate initial opportunities. It appears that players are prepared to accept even extreme levels of opportunity inequality within each round, in exchange for overall equality of opportunity across the whole series of interactions. 
+What we did not expect is that each VRC treatment ended up with even lower con⁄ictuality rates - and thus greater e¢ ciency - than the baseline case of equal opportunities. This result is arguably worth more investigation. It may be the case that VRCTs simply made more salient to subjects the possibility of achieving some form of fairness, albeit in a dynamic rather than in a static sense, thus inducing subjects to become more lenient over proposed allocations. Perhaps paradoxically, the treatment that allows perfect fairness both in a static and in a dynamic sense is less conducive than VRCTs to elicit such a perception, and consequently con⁄ictuality is higher. 
+However, our –ndings may point to something more substantial. One hypothesis that is worth examining in future research is whether creating "spheres" of relative advantage of opportunity is conducive to a public en- dorsement as potent as that of granting equal opportunities under all cir- cumstances. For instance, a¢ rmative action has been criticised as a measure for redressing unfairly distributed initial opportunities on the grounds that it grants unfair advantage to some groups of normally disadvantaged people. It has been argued that a truly meritocratic society should not grant a speci–c advantage to someone in any domain, even if this person happens to be gen- erally disadvantaged. Our results stress that, on the contrary, people may perceive favourably the allocation of preferential advantage to some people in 
+17We thank Tim Salmon for this suggestion. 
+40 
+
+========41========
+
+some domains, even when the degree of favouritism is very high. Admittedly, this occurs within a context of overall equality of opportunity, thus it may not generalise to other contexts. Obviously we do not need to be reminded of the wide gulf existing between our experiments and real-life social relations, especially when a topic as important as that of opportunities is concerned. However, at the very least we believe that our research points to the possibil- ity that individuals™endorsement of the fairness of opportunity distribution over time may not be as clear-cut as one may at –rst have thought. 
+Fourth, we –nd strong evidence of convergence towards the SPNE only in VRCTs, whereas in FRCTs and the 50% treatment, this occurs only for receivers but not for proposers. We have argued that this is not due to "learning". If that was the case convergence should have been faster in FRCTs, where there is less variation across roles. Rather, in section 7.2 we conjectured that it may be due to the emergence of a speci–c social norm of fairness emerging in VRCTs, whose characteristics have already been discussed above. We also found that most of the patterns emerging over the whole period of interactions were already present in the –rst round. Proposers were able to anticipate correctly the variation of receivers™behaviour across treatments. 
+To sum up, we believe that our study con–rms and substantially extends recent survey and experimental evidence regarding the relevance of proce- dural fairness for individuals. The major innovation of our study has been to focus on the fairness in the assignment of initial positions in a standard problem of division of resources. This is a topic of paramount importance for our societies. However, it had been so far neglected in experimental studies, which had focussed on procedural fairness related to –nal allocations. Our results show that the most basic results gained so far in the context of –nal positions carry over to the case of initial positions. More speci–cally, sub- jects are sensitive to the fairness in the assignment of initial positions. This calls for an extension of existing theoretical models, which in their current form fail to attach any relevance to the way initial positions are assigned. We have o¤ered a theoretical extension that goes in this direction, although others are possible. However, some of our results - such as the symbolic value of opportunities, and the relevance of the dynamic allocation of opportunity - are entirely novel. 
+We have also shown and debated how some of our –ndings escape a straightforward theoretical rationalisation, thus indicating further avenues of research. More generally, we believe that an open question in the lit- erature is the assessment of the relative importance of procedural fairness vis-à-vis individual merit, responsibility, or needs, in acquiring certain po- sitions. We have already stated that existing studies seem to imply that individual merit or responsibility prevail over procedural fairness when the 
+41 
+
+========42========
+
+two are considered jointly. For instance, Anand (2001) reports situations - such as health care decisions - where random lotteries are deemed as unfair by survey respondents. Other experimental studies seem to agree with this hypothesis (Krawczyk, 2010; Schurter and Wilson, 2009; Cappelen et al., 2010). However, we believe that the available evidence is still too limited to draw any –rm conclusion. More in-depth research on the role and the interplay among the various components of an individual™s sense of justice is, to be sure, needed to shed light on these issues. 
+References 
+[1] Alesina, A., Angeletos, G.-M. (2005). Fairness and Redistribution: US 
+versus Europe, American Economic Review, 95, 960-980. 
+[2] Alesina, A. and Glaeser, E. (2004). Fighting Poverty in the US and 
+Europe: A World of Di¤erence, Oxford: Oxford University Press. 
+[3] Alesina, A. & La Ferrara, E. (2005). ﬂPreferences for redistribution in 
+the land of opportunities,ﬂ Journal of Public Economics, 89(5-6), 897- 
+931. 
+[4] Anand, P. (2001). "Procedural fairness in economic and social choice: 
+Evidence from a survey of voters," Journal of Economic Psychology, 
+22(2), 247-270. 
+[5] Armantier, O. (2006). "Do Wealth Di¤erences A¤ect Fairness Consid- 
+erations?," International Economic Review, 47(2), 391-429. 
+[6] Arneson, R. (1989). ﬁEquality and Equal Opportunity for Welfare,ﬂ 
+Philosophical Studies, 56, 77Œ93. 
+[7] Becker, A., Miller, L. (2009). "Promoting justice by treating people un- 
+equally: an experimental study," Experimental Economics, 12(4), 437- 
+449. 
+[8] Benabou, R., Tirole, J. (2006). Belief in the Just World and Redistrib- 
+utive Politics, Quarterly Journal of Economics, 699-746. 
+[9] Binmore, K., Morgan, P., Shaked, A., Sutton, J. (1991). Do People 
+Exploit Their Bargaining Power?: An Experimental Study, Games and 
+Economic Behavior, 3, 295Œ322. 
+[10] Bolton, G., Ockenfels, A. (2000), A theory of equity, reciprocity and 
+competition, American Economic Review, 2000, 90, 166-93. 
+42 
+
+========43========
+
+[11] Bolton, G. E., Brandts, J.,Ockenfels, A. (2005). ﬂFair Procedures: Ev- 
+idence from Games Involving Lotteriesﬂ. Economic Journal, 115(506), 
+pp. 1054-1076. 
+[12] Bowles, S., Gintis, H., Osborne Groves, M. (2008). "Unequal Chances: 
+Family Background and Economic Success", Princeton: Princeton Uni- 
+versity Press. 
+[13] Buchan, N., Croson, R., Johnson, E. (2004). When Do Fair Beliefs In- 
+⁄uence Bargaining Behavior? Experimental Bargaining in Japan and 
+the United States, Journal of Consumer Research, 31, 181-190. 
+[14] Cappelen, A., Konow, J., Sorensen, E., Tungodden, B. (2010). Just luck: 
+an experimental study of risk taking and fairness, mimeo. 
+[15] Cappelen, A., Hole, A., Sørensen, E., Tungodden, B. (2007). The Plural- 
+ism of Fairness Ideals: An Experimental Approach, American Economic 
+Review, 97(3): 818-827. 
+[16] Charness, G., Rabin. M. (2002). Understanding social preferences with 
+simple tests, Quarterly Journal of Economics, 117, 817Œ869. 
+[17] Cherry, T, Frykblom, P., Shogren, J. (2002). Hardnose the dictator. 
+American Economic Review, 92(4), 1218Œ1221. 
+[18] Cohen, G. A. (1989). ﬁOn the Currency of Egalitarian Justice,ﬂEthics, 
+99: 906Œ44. 
+[19] Corneo, G., Fong, C. (2008). What™s the monetary value of distributive 
+justice? Journal of Public Economics, 92, 289Œ308. 
+[20] Corneo, G., Gruner, H. M. (2002). Individual preferences for political 
+redistribution, Journal of Public Economics, 83, 83Œ107 
+[21] Cox, J. (2004). "How to Identify Trust and Reciprocity", Games and 
+Economic Behavior, 46, 260-281. 
+[22] Deshpande, A. (2011). ﬁGrammar of casteﬂ, Oxford: Oxford University 
+Press. 
+[23] Diamond, P.A., (1967), ﬁCardinal Welfare, Individualistic Ethics, and 
+Interpersonal Comparison of Utility: A Commentﬂ, The Journal of Po- 
+litical Economy, 75(5), 765-766. 
+[24] Dickinson, D. (2000). Ultimatum Decision-Making: A Test of Reciprocal 
+Kindness. Theory and Decision, 48(2): 151-177. 
+43 
+
+========44========
+
+[25] Durante, R., Putterman, L. (2008). ﬁPreferences for Redistribution and 
+Perception of Fairness: An Experimental Studyﬂ, mimeo. 
+[26] Dworkin, R. (2000). Sovereign Virtue, Cambridge, MA: Harvard Uni- 
+versity Press. 
+[27] Eckel, C., Grossman, P.J. (2001). ﬁChivalry and Solidarity in Ultimatum 
+Games.ﬂEconomic Inquiry. 39 (2), 171Œ188. 
+[28] Esarey, J., Salmon, T., Barrilleaux, C. (2006). ﬁWhat Motivates Polit- 
+ical Preferences? Self-Interest, Ideology, and Fairness in a Laboratory 
+Democracyﬂ, mimeo. 
+[29] Fehr E.,Schmidt, K. (1999). A theory of fairness, competition and co- 
+operation, Quarterly Journal of Economics, 114, 817-68. 
+[30] Fischbacher, U. (2007). z-Tree: Zurich toolbox for ready-made economic 
+experiments. Experimental Economics 102, 171Œ178. 
+[31] Fleurbaey, M. (2002). Equality of Resources Revisited, Ethics, 113(1), 
+82-105. 
+[32] Fleurbaey, M. (1995). The requisites of equal opportunity. In: W. 
+A.Barnett (ed.), Social Choice, Welfare, Ethics. Cambridge: Cambridge 
+University Press, 37Œ53. 
+[33] Fong, C. (2001). ﬁSocial preferences, self-interest, and the demand for 
+redistributionﬂ, Journal of Public Economics, 82(2), 225-246. 
+[34] Frey, B., Stutzer, A. (2005). Beyond outcomes: measuring procedural 
+utility. Oxford Economic Papers 57: 90-111. 
+[35] Froot, K. A. (1989). Consistent covariance matrix estimation with cross- 
+sectional dependence and heteroskedasticity in –nancial data. Journal of 
+Financial and Quantitative Analysis 24: 333-355. 
+[36] Forsythe R., Horowitz J., Savin N., Sefton M. (1994). Fairness in simple 
+bargaining experiments, Games and Economic Behavior, 6 (3), 347-369. 
+[37] Gächter, S., Thöni, C. (2010). Social comparison and performance: Ex- 
+perimental evidence on the fair wage-e¤ort hypothesis, Journal of Eco- 
+nomic Behavior & Organization, 76(3), 531-543. 
+[38] Gallup Organization (1999). Haves and Have-Nots: Perceptions of Fair- 
+ness and Opportunity. Gallup Organization. 
+44 
+
+========45========
+
+[39] Gilens, M. (1999), Why Americans Hate Welfare: Race, Media, and the 
+Politics of Anti-Poverty Policy, Chicago University Press. 
+[40] Guth, W., Tietz, R. (1986). Auctioning ulitmatum bargaining 
+positionsŠ how to act rational if decisions are unacceptable? In R.W. 
+Scholz (ed.), "Current Issues in West German Decision Research", 
+Frankfurt: Verlag Peter Lang, 173Œ185. 
+[41] Hammond, P. (1988). Consequentialist foundations for expected utility, 
+Theory and Decision, 25 (1), 25-78. 
+[42] Handgraaf, M., Van Dijk, E., Vermunt, R., Wilke, H., De Dreu, C. 
+(2008). Less power or powerless? Egocentric empathy gaps and the 
+irony of having little versus no power in social decision making, Journal 
+of Personality and Social Psychology 2008. 95 (5), 1136-49. 
+[43] Hargreaves Heap, S., Varoufakis, Y. (2002). Some Experimental Evi- 
+dence on the Evolution of Discrimination, Co-operation and Perceptions 
+of Fairness, Economic Journal, 112, 679-703. 
+[44] Ho¤, K., Pandey, P. (2006). Discrimination, Social Identity, and Durable 
+Inequalities, American Economic Review, 96(2), 206-211. 
+[45] Ho¤man E., McCabe K., Shachat, K., Smith, V. (1994)., Preferences, 
+Property Rights, and Anonymity in Bargaining Games, Games and Eco- 
+nomic Behavior, 7 (3), 346-380. 
+[46] Homans, G. (1958). ﬁSocial Behavior as Exchange,ﬂAmerican Journal 
+of Sociology 63, pp. 597Œ606. 
+[47] Karni, E., Salmon, T., Sopher, B. (2008). "Individual sense of fairness: 
+an experimental study," Experimental Economics, 11(2), 174-189. 
+[48] Konow, J. (2000). Fair shares: accountability and cognitive dissonance 
+in allocation decisions. American Economic Review, 90, 1072Œ1091. 
+[49] Krawczyk, M., Le Lec, F. (2010). Give me a chance! An experiment 
+in social decision under risk, Journal of Experimetnal Economics, 13, 
+500Œ511. 
+[50] Krawczyk, M. (2010). A glimpse through the veil of ignorance: Equality 
+of opportunity and support for redistribution, Journal of Public Eco- 
+nomics, 94, 131Œ141. 
+[51] ISSP Research Group, International Social Survey Programme (ISSP): 
+Role of Government IV (2006). Distributor: GESIS Cologne Germany 
+ZA4850, Data Version 2.0.0 (2009-10-29). 
+45 
+
+========46========
+
+[52] Lipset, S.M. (1997). ﬁAmerican Exceptionalism: A Double-Edged 
+Swordﬂ, New York: W. W. Norton & Company. 
+[53] List, J., Cherry, T. (2000). Learning to Accept in Ultimatum Games: 
+Evidence from an Experimental Design that Generates Low O¤ers, Ex- 
+perimental Economics, 3(1), 11-29. 
+[54] Machina, M. (1989). Dynamic Consistency and Non-Expected Utility 
+Models of Choice Under Uncertainty, Journal of Economic Literature, 
+27 (4), 1622-1668. 
+[55] Marwell, G., Ames, R.E. (1981). Economists free ride, does anyone else?: 
+Experiments on the provision of public goods, Journal of Public Eco- 
+nomics, 15 (3), 295-310. 
+[56] Nozick, R. (1994). ﬁThe nature of rationalityﬂ, Princeton: Princeton 
+University Press. 
+[57] OECD (2002). Education at a Glance, online edition. 
+[58] Oosterbeek, H., Sloof, R., van de Kuilen, G. (2004). Cultural Di¤erences 
+in Ultimatum Game Experiments: Evidence from a Meta-Analysis, Ex- 
+perimental Economics, 7 (2), 171-188. 
+[59] Rawls, J. (1999). A Theory of Justice, revised edition. Harward Univ 
+press. 
+[60] Roemer, J. (1998). Equality of Opportunity, Cambridge: Cambridge 
+University Press. 
+[61] Slonim, R., Roth, A. (1998), "Learning in High Stakes Ultimatum 
+Games: An Experiment in the Slovak Republic," Econometrica, 66, 569- 
+596. 
+[62] Schurter, K., Wilson, B.J. (2009). "Justice and Fairness in the Dictator 
+Game," Southern Economic Journal, 76(1), 130-145. 
+[63] Suleiman, R. (1996). Expectations and fairness in a modi–ed UG, Jour- 
+nal of Economic Psychology, 17, 531Œ554. 
+[64] Trautmann, S.T. (2009). A tractable model of process fairness under 
+risk. Journal of Economic Psychology, 30(5), 803-813. 
+[65] Walster, E., Walster, G.W., Berscheid, B. (1978). Equity: Theory and 
+Research. Boston: Allyn and Bacon, Inc. 
+46 
+
+========47========
+
+[66] Williams, B. (1962), ﬂThe Idea of Equality,ﬂin Peter Laslett and W. G. 
+Runciman (eds.), Philosophy, Politics, and Society, Series II, London: 
+Basil Blackwell, pp. 110-131. 
+[67] Woolridge, J.M. (2002). Introductory Econometrics: A Modern Ap- 
+proach, Cincinnati, OH: South-Western College Publishing. 
+A Instructions 
+Welcome to this research project. A team of researchers is looking at the way in which people make decisions. If you pay close attention to the instructions then you could make a signi–cant amount of money. The research team that is here today includes myself, Gianluca Grimalda, and my assistants. 
+Before starting with the explanation of the decisions you are going to make, please pay attention to some important information and recommen- dations. 
+In this project you are going to be asked to make decisions with other people who are currently in this room. Your choices, and the choices of others, will be matched with the help of a computer programme as we proceed. It is important for you to note that all interactions are entirely anonymous. Firstly, we will not know anything about your choices and your payment. We will just record your choices through the ID number that you have just drawn, and the payments will be made using that number as identi–cation. It is therefore important that you do not lose the card you have drawn, because that is the only document that enables you to be paid. You may collect your payments at the end of this session. You will be required to sign a receipt, but there is no need for you to print your name. University administration does require that you write in your student number when signing this receipt. However, your student number will be held con–dentially by our research group, and we will not make any attempt to link your student number to the decisions you have made. 
+At the end of your decisions, while we prepare your payments, we would ask that you complete a short questionnaire. You are required to state your Student ID number. Even in this case, your responses to this questionnaire will be held under con–dentiality rules by our research group. 
+Secondly, the decisions you are going to make involve interacting with other people who are present in this room. However, you will not have to talk or communicate directly in any way with anybody in this room. Instead, your decisions will be processed through a computer programme that networks all 
+47 
+
+========48========
+
+of the computers in this room. In this way, nobody will be able to identify with whom s/he is actually making decisions. The interaction will proceed as follows: You will receive some messages on the screen in front of you. This will either include some information on the state of the decisions, or prompt you to make certain choices. Once you are sure about your choice, you have to press the button OK, which will take you to the next stages of the decisions. At times, you will be asked to wait for further instructions, because it may take a bit of time before the programme processes all your decisions. 
+If you are not clear on this or on other issues, please raise your hand. 
+You will be involved in 20 di¤erent interactions with other people in this room. In each interaction, you will be paired with another person, and the two of you will be making a decision together. Our programme will draw at random the pairs at the beginning of each interaction. This means that with very high probability you will be paired with a di¤erent partner at each interaction. 
+As you will see, the decisions involve money. In each decision there will be £ 10 at stake. Unfortunately, we will not be able to pay you for each decision you make, but only for TWO interactions out of the 20. These will be drawn at random at the end of this session, and everyone will be paid according to the outcome of those 2 rounds. In this way, you are required to pay maximum attention to each decision you are going to make, because only at the end of the session we will learn which ones determine your payments. 
+We are now going to look at the simple rules that will govern each of the interactions: 
+ [All treatments]: An amount worth £ 10 is to be divided between you and the person you have been paired with. 
+ [1%, 20%, 50%]: Both of you are asked to make a proposal. [0%]: One of the two people is drawn at random, and both people are informed about whether s/he has been selected or not. The person who has been selected is asked to make a proposal. [All treatments]: The proposal is any amount X less than or equal to £ 10 that the ™proposer™wants to keep for him/herself. The proposer may use any number up to the second decimal digit. The residual amount (10-X) is to be assigned to the other person in the group (the ‚receiver™). 
+ [1%, 20%, 50%]: Once you and the other person in your group have submitted your proposals, one of them is drawn at random. [1%, 20%]: The random selection works as follows. Half of the people in this room are favoured with respect to the others in having their proposals selected. In particular, half of the people in this room have a [1-p]% probability that their proposals will be selected within their groups, whereas the others have a [p]% probability. [{p= 0.01, 0.2}] [50%]: There is a 50-50 probability that 
+48 
+
+========49========
+
+either proposal is extracted. 
+ [0%]: Each group is composed of a ™proposer™ and a ™receiver™. Whether you will act as a proposer or as a receiver is determined by a ran- dom draw that will occur [0%_FRC]: before the –rst round. Your role will remain the same throughout the 20 rounds. [0%_VRC]: before each round. [1%, 20%]: Each group will be made up of a person with a [1-p]% proba- bility and another person with a [p]% probability of their proposals being selected. [{p= 0.01, 0.2}] You will be informed about which probability your proposal has of being selected [1%_FRC, 20%_FRC]: before the –rst round, and this probability will remain the same throughout all the remaining rounds. [1%_VRC, 20%_VRC]: before submitting it. 
+ [All treatments]: The person whose proposal has been selected (the ‚proposer™) is asked to wait for the decision of the other person in the group. The person whose proposal has not been selected (the ‚receiver™), is informed of the share allocated to him/her by the proposal of the other person. She is then asked to either ACCEPT or REJECT this proposal. 
+ [All treatments]: If the receiver accepts this proposal, then every- one gets the share determined by this proposal. If the receiver rejects this proposal, then both people in the group get £ 0 each. 
+ [All treatments]: At the end of each interaction, a new random draw will take place to determine your next partner. [For FRCTs only]: This will be a person from the half of the people in this room with a probability di¤erent from yours of their proposals being selected. [All treatments]: It is therefore very unlikely you will be paired with the same person again. Moreover, all decisions are independent. What you do in a round does not in⁄uence the next rounds and is not in⁄uenced by the previous rounds. 
+Examples and comprehension test follow. 
+49 
+
+========50========
+
+Figure 1:  Game tree of the stage game 
+Player 1 ((1 -p) -player) 
+X1 
+1-p 
+Proposal 1:  x1 
+Player 2 
+Accept 
+Reject 
+    x1 10-x1 
+0 0 
+Player 2 (p -player) 
+X2 
+p 
+Proposal 2: x2 
+Player 1 
+Accept 
+Reject 
+10 -x2 
+    x 
+2 
+0 0 
+
+========51========
+
+Table 1: Descriptive Statistics of Responses and Demands per Treatment  
+Table 1a: Eq-Opp.  
+Responses  Demands  
+  (1)  (2)  (3)  (4)  (5)  
+Mean  7.85 St. Dev  0.85 Median  8 Obs  115 
+RD 
+AR (All) 81.45% 
+0.39 
+AR (Low) 
+53.7% 
+0.50 
+620 
+134 
+FAV 6.97 1.07 7.00 1240 
+UNF 
+Table 1b:FRC 20%  
+Responses  Demands  
+Table 1e: VRC 20%  
+Responses  Demands  
+  (1)  (2)  (3)  (4)  (5)  
+RD Mean  7.61 St. Dev  0.75 Median  7.6 Obs  99 
+AR (All) 84.03% 
+0.37 
+AR (Low) 
+52.7% 
+0.50 
+620 
+91 
+Table 1c:FRC 1%  Responses  Demands  
+  (1)  (2)  (3)  (4)  (5)  
+FAV 6.89 0.82 7.00 620 
+UNF 7.17 1.09 7.20 620 
+Mean  8.39 St. Dev  0.75 Median  8.4 Obs  90 
+RD 
+AR (All) 
+85% 
+0.36 
+AR (Low) 
+66.6% 
+0 .47 
+600 
+225 
+FAV 7.37 0.98 7.50 600 
+UNF 7.13 1.40 7.50 600 
+Table 1f: VRC 1%  Responses  Demands  
+  (1)  (2)  (3)  (4)  (5)  
+RD Mean  7.47 St. Dev  0.71 Median  7.5 Obs  135 
+AR (All) 78.91% 
+0.41 
+AR (Low) 
+46.9% 
+0 .50 
+640 
+66 
+Table 1d:FRC 0%  Responses  Demands  
+  (1)  (2)  (3)  (4)  (5)  
+FAV 6.77 0.88 6.99 640 
+UNF 6.62 1.77 6.75 640 
+Mean  7.97 St. Dev  0.78 Median  8 Obs  106 
+RD 
+AR (All) 81.07% 
+0.39 
+AR (Low) 
+51.4% 
+0 .50 
+560 
+134 
+FAV 7.20 0.90 7.00 560 
+UNF 6.87 1.79 7.00 560 
+Table 1g: VRC 0%  Responses  Demands  
+  (1)  (2)  (3)  (4)  (5)  
+RD Mean  7.04 St. Dev  0.71 Median  7  Obs  139 
+AR (All) 77.58% 
+0.42 
+AR (Low) 
+21.7% 
+0.42 
+620 
+23 
+  (1)  (2)  (3)  (4)  (5)  
+FAV  6.28  0.91  6.17 620 
+UNF 
+Mean  7.56 St. Dev  0.91 Median  7.33 Obs  90 
+RD 
+AR (All) 
+85% 
+0.36 
+AR (Low) 
+47.1% 
+0.50 
+FAV 6.56 1.07 6.50 600 
+UNF 
+600 
+70 
+Notes: RD= Rejected demands; AR (All) =Acceptance Rate with respect to all offers; AR (Low)  =Acceptance Rate with respect to low offers (less or equal to 20% of the pie); FAV=Favoured;  
+UNF=Unfavoured. 
+
+========52========
+
+Figure 2: Histograms – All rounds  
+50% Treatment 
+.3 
+1 
+.8 
+.2 
+.6 
+.4 
+.1 
+.2 
+Frequency of proposals 
+0 
+Acceptance Prob. / Expected Earnings (%) 
+<4.5 
+4.5-5 
+5-5.5 
+5.5-6 
+6-6.5 
+6.5-7 
+7-7.5 
+7.5-8 
+8-8.5 
+8.5-9 
+9-9.5 
+9.5-10 
+Proposal categories 
+Proposal frequency Acceptance Prob. Expected Earnings (%) 
+20%_FRC Treatment 
+20%_VRC Treatment 
+1 
+1 
+.25 
+.25 
+.8 
+.8 
+.2 
+.2 
+.6 
+.6 
+.15 
+.15 
+.4 
+.4 
+.1 
+.1 
+.2 
+.2 
+Frequency of proposals 
+Frequency of proposals 
+.05 
+.05 
+0 
+0 
+0 
+Acceptance Prob. / Expected Earnings (%) 
+Acceptance Prob. / Expected Earnings (%) 
+<4.5 
+<4.5 
+4.5-5 
+5-5.5 
+5.5-6 
+6-6.5 
+6.5-7 
+7-7.5 
+7.5-8 
+8-8.5 
+8.5-9 
+9-9.5 
+4.5-5 
+5-5.5 
+5.5-6 
+6-6.5 
+6.5-7 
+7-7.5 
+7.5-8 
+8-8.5 
+8.5-9 
+9-9.5 
+9.5-10 
+9.5-10 
+Proposal categories 
+Proposal categories 
+Proposal frequency Acceptance Prob. Expected Earnings (%) 
+Proposal frequency Acceptance Prob. Expected Earnings (%) 
+1%_FRC Treatment 
+1%_VRC Treatment 
+1 
+.3 
+1 
+.25 
+.8 
+.8 
+.2 
+.2 
+.6 
+.6 
+.15 
+.4 
+.4 
+.1 
+.1 
+.2 
+.2 
+Frequency of proposals 
+Frequency of proposals 
+.05 
+0 
+0 
+0 
+Acceptance Prob. / Expected Earnings (%) 
+Acceptance Prob. / Expected Earnings (%) 
+<4.5 
+<4.5 
+4.5-5 
+5-5.5 
+5.5-6 
+6-6.5 
+6.5-7 
+7-7.5 
+7.5-8 
+8-8.5 
+8.5-9 
+9-9.5 
+4.5-5 
+5-5.5 
+5.5-6 
+6-6.5 
+6.5-7 
+7-7.5 
+7.5-8 
+8-8.5 
+8.5-9 
+9-9.5 
+9.5-10 
+9.5-10 
+Proposal categories 
+Proposal categories 
+Proposal frequency Acceptance Prob. Expected Earnings (%) 
+Proposal frequency Acceptance Prob. Expected Earnings (%) 
+0%_FRC Treatment 
+0%_VRC Treatment 
+.3 
+1 
+.3 
+1 
+.8 
+.8 
+.2 
+.2 
+.6 
+.6 
+.4 
+.4 
+.1 
+.1 
+.2 
+.2 
+Frequency of proposals 
+Frequency of proposals 
+0 
+0 
+0 
+0 
+Acceptance Prob. / Expected Earnings (%) 
+Acceptance Prob. / Expected Earnings (%) 
+<4.5 
+<4.5 
+4.5-5 
+5-5.5 
+5.5-6 
+6-6.5 
+6.5-7 
+7-7.5 
+7.5-8 
+8-8.5 
+8.5-9 
+9-9.5 
+4.5-5 
+5-5.5 
+5.5-6 
+6-6.5 
+6.5-7 
+7-7.5 
+7.5-8 
+8-8.5 
+8.5-9 
+9-9.5 
+9.5-10 
+9.5-10 
+Proposal categories 
+Proposal categories 
+Proposal frequency Acceptance Prob. Expected Earnings (%) 
+Proposal frequency Acceptance Prob. Expected Earnings (%) 
+
+========53========
+
+Table 2: Regression Analysis of Logit model for probability of acceptance –  50%  treatment & FRC treatments  DEP VAR  ACCEPT  
+   (1)  (2)  (3)  (4)  
+CHANCE  5.872***  6.695***  
+(1.552)  (1.878)  
+FRC_20%  -0.782  -1.438  
+(0.898)  (1.025)  
+FRC_1%  -1.735**  -1.788*  
+(0.882)  (1.003)  
+FRC_0%  -4.114***  -4.819***  
+(0.919)  (1.068)  
+OFFER  3.425***  3.525***  3.438***  3.545***  
+(0.214)  (0.237)  (0.214)  (0.238)  
+FAVOURED  1.870**  1.666*  1.061  1.173  
+(0.897)  (0.934)  (1.062)  (1.069)  
+ECONOMICS  1.757**  1.858**  
+(0.786)  (0.765)  
+YEAR  -0.0654  -0.0405  
+(0.203)  (0.196)  
+GENDER  1.512**  1.438**  
+(0.737)  (0.717)  
+UK  1.646**  1.559**  
+(0.752)  (0.726)  
+Constant  -7.422***  118.8  -4.751***  72.50  
+(0.831)  (402.5)  (0.779)  (388.7)  
+ROUND DUMMIES  YES  
+YES YES YES 
+Observations  2,500  2,165  2,500  2,165  
+Number of id  189  159  189  159  
+Chi2  264.7  227.5  265.8  228.8  
+Percentage of correct predic ted  
+outcomes  81.9%  82.7%  81.7%  82.5%  
+Notes:  Predicted outcomes are computed from the model predicted probability of acceptance by assigning a predicted outcome  of acceptance (rejection) whenever the predicted probability is greater (smaller or equal) to 0.5. So a predicted outcome is  correct when it matches the actual decision of the subject, i.e. when the subject accepted (rejected) an offer and the model  predicted a probability greater (smaller or equal) than 0.5.   
+Figure 3: Predicted probability of acceptance according to  specification (3) of Table 2  
+1.2 
+1 
+0.8 
+50% 
+0.6 
+FRC_20% 
+0.4 
+FRC_1% 
+FRC_0% 
+0.2 
+0 
+0.5 1 1.5 2 2.5 3 3.5 
+Table 3: Results of Wald test relative to specification  (3) of Table 2  
+   50%  20%  1%  20%  -0,87         (0,898)      1%  -1,97**  -0,97       (0,882)  (0,979)  
+0%  -4,48***  -3,28***  -2,39**  
+(0,918)  (1,016)  (0,994)  Note : The Table reports z-statistics and its  standard errors relative to Wald tests of Ho: β 
+k- βl=0 against H ₁: β 
+k-βl 
+ ≠0, where β 
+k 
+ and β 
+l  
+are the  coefficients of Treatment dummies determined in  specification 3 of Table 2. Rejections of H ₀  at the  10% / 5% / 1% is denoted by one, two and three  stars respectively.  
+
+========54========
+
+Table 4: Regression Analysis of proposals – 50%  treatment & FRC treatments   DEP VAR  DEMAND  
+   (1)  (2)  (3)  (4)  
+               CHANCE  0.995***  1.072***  
+(0.274)  (0.341)  
+FRC_20%  
+FRC_1%  
+FRC_0%  
+0.0384  -0.0937  (0.157)  (0.185)  -0.298*  -0.274  (0.154)  (0.190)  -0.684***  -0.810***  (0.159)  (0.179)  
+UNFAVOURED  0.258*  0.273*  0.0649  0.0910  
+(0.154)  (0.148)  (0.165)  (0.162)  
+ECONOMICS  
+YEAR  
+GENDER  
+UK  
+0.499***  (0.143)  0.0663  (0.0492)  0.0174  (0.132)  0.152  (0.140)  
+0.527***  (0.151)  0.0665  (0.0476)  0.0330  (0.128)  0.161  (0.140)  
+Constant  6.357***  -125.7  6.786***  -125.7  
+(0.110)  (97.74)  (0.117)  (94.56)  
+ROUND DUMMIES  YES  
+YES 
+YES 
+YES 
+Observations  4,380  3,740  4,380  3,740  Number of id  219  187  219  187  R2 Between  0.0510  0.143  0.0817  0.174  R2 Within  0.00855  0.0117  0.00855  0.0117  R2 Overall  0.0339  0.0906  0.0522  0.110  
+   
+Table 5: Results of Wald test relative to specification (3) of Table 4.  
+FRC DEMANDS ALL ROUNDS  
+   50%  20%  1%  
+20%  0,03      
+    
+1%  -0.2***  -0.3**    
+   
+(0,156)  
+   
+(0.154)  (0.164)  
+   
+Notes:  See Table 3. 
+0%  -0.6***  -0.7***  -0.3**  
+(0.159)  (0.172)  (0.17)  
+
+========55========
+
+Table 6: Regression Analysis of Logit model for probability of acceptance –  50%  treatment & VRC treatments  
+DEP VAR  
+ACCEPT  
+(1)  (2)  (3)  (4)  (5)  (6)  
+                     CHANCE  1.245  2.615*  15.11***  14.33**  
+(1.199)  (1.587)  (4.837)  (6.787)  
+CHANCE SQUARED  
+VRC_20%  
+VRC_1%  
+VRC_0%  
+-27.85***  -23.83*  (9.391)  (13.37)  
+1.274*  0.691  (0.654)  (0.942)  0.108  -0.776  (0.654)  (0.844)  -1.134*  -1.589*  (0.657)  (0.902)  
+3.061***  
+OFFER  2.845***  3.043***  2.861***  3.049***  2.880***  
+(0.188)  (0.253)  (0.188)  (0.252)  (0.189)  (0.253)  FAVOURED  0.263  0.402  0.0704  0.248  0.0746  0.250  
+(0.443)  (0.659)  (0.454)  (0.672)  (0.454)  (0.672)  
+ECO  
+YEAR  
+GENDER  
+UK  
+1.365**  (0.666)  0.368  (0.229)  1.301**  (0.659)  0.124  (0.648)  
+1.401**  (0.658)  0.279  (0.230)  1.185*  (0.651)  0.132  (0.638)  
+1.400**  (0.654)  0.257  (0.230)  1.127*  (0.650)  0.160  (0.635)  
+Constant  -4.839***  -738.8  -5.378***  -561.6  -4.836***  -517.7  
+(0.662)  (454.8)  (0.688)  (456.7)  (0.716)  (456.4)  
+ROUND DUMMIES  YES  
+YES 
+YES 
+YES 
+YES 
+YES 
+Observations  2380  1610  2380  1610  2380  1610  N_g  238  161  238  161  238  161  chi2  236.1  153.1  239.8  154.3  241.3  154.9  
+Percentage of correct ly 
+predicted outcomes  84.2%  85.6%  84.6%  86%  84.3%  85.7%  
+Notes : See Table 2  
+Figure 4: Predicted probability of acceptance according to  specification (3) of Table 6  
+1.2 
+1 
+0.8 
+50% 
+0.6 
+VRC_20% 
+0.4 
+VRC_1% 
+0.2 
+VRC_0% 
+0 
+0.5 1 1.5 2 2.5 3 3.5 
+   
+Table 7: Results of Wald test relative to specification  (3) of Table 6  
+VRC ACCEPTANCES ALL ROUNDS  
+   50%  20%  1%  20%  1,95*         (0,653)      1%  0,17  -1,7*       (0,653)  (0,661)  0%  -1,73*  -3,56***  -1,86*  
+(0,657)  (0,676)  (0,669)  Notes : See Table 3 . 
+
+========56========
+
+Table 8: Regression Analysis of proposals – 50%  treatment & VRC treatments  
+DEP VAR  
+DEMAND  
+   (1)  (2)  (3)  (4)  (5)  (6)  
+                     CHANCE  0.277  0.485  4.711***  3.545**  
+(0.266)  (0.345)  (1.196)  (1.552)  
+CHANCE SQUARED 
+FRC_20%  
+FRC_1%  
+FRC_0%  
+-8.889***  -6.214**  (2.281)  (3.073)  
+0.434***  0.234  (0.151)  (0.215)  0.221  0.0676  (0.154)  (0.192)  -0.415***  -0.523***  (0.143)  (0.177)  
+UNFAVOURED  -0.264***  -0.137  -0.279***  -0.144  -0.292***  -0.157*  
+(0.0956)  (0.0908)  (0.0961)  (0.0911)  (0.0957)  (0.0908)  
+ECONOMICS  
+AGE  
+GENDER  
+UK  
+0.134  (0.144)  0.0499  (0.0597)  0.0808  (0.141)  -0.0641  (0.142)  
+0.156  (0.146)  0.0276  (0.0604)  0.0522  (0.137)  -0.0622  (0.136)  
+0.162  (0.145)  0.0111  (0.0592)  0.00372  (0.136)  -0.0453  (0.134)  
+Constant  6.714***  -92.76  6.574***  -48.42  6.710***  -15.40  
+(0.113)  (118.8)  (0.119)  (120.1)  (0.124)  (117.7)  
+ROUND DUMMIES 
+YES  
+YES 
+YES 
+YES 
+YES 
+YES 
+Observations  4160  2824  4160  2824  4160  2824  Number of id  238  161  238  161  238  161  R2 Between  0.00591  0.0143  0.0330  0.0389  0.0820  0.0911  R2 Within  0.0381  0.0360  0.0382  0.0360  0.0382  0.0360 R2 Overall  0.00593  0.0169  0.0289  0.0279  0.0493  0.0499  
+Table 9: Results of Wald test relative to specification (3) of Table 8  
+VRC DEMANDS ALL ROUNDS  
+   50%  20%  1%  20%  0,43***         (0,15)      1%  0,22  -0,21       (0,153)  (0,174)  
+   
+Notes : See Table 3 . 
+0%  -0,41***  -0,84***  -0,63***  
+(0,142)  (0,152)  (0,155)  
+
+========57========
+
+Table 10: Descriptive Statistics of Responses and Demands per Treatment – Round 1  
+Table 10a: Eq-Opp.  
+Responses  Demands  
+  (1)  (2)  (3)  (4)  (5)  
+RD Mean  
+7.9 St. Dev  0.82 Median  7.5 Obs  5 
+AR (All) 83.9% 
+0.37 
+Table 10b:FRC 20%  
+Responses  Demands  
+  (1)  (2)  (3)  (4)  (5)  
+RD AR (All) AR (Low) FAV UNF Mean  
+7.7 
+83.9% 57.1% 6,66 7,01 St. Dev  1.40 0.37 0.53 ,94 1,27 Median  8 6,5 Obs  5 31 7 31 31 
+Table 10c:FRC 1%  Responses  Demands  
+  (1)  (2)  (3)  (4)  (5)  
+RD AR (All) AR (Low) FAV UNF Mean  7,48 81.2% 50% 6,59 6,30 St. Dev  0,55 0.40 0.58 ,97 1,92 Median  7,5 6,625 Obs  6 32 4 32 32 
+Table 10d:FRC 0%  
+Responses  Demands  
+  (1)  (2)  (3)  (4)  (5)  
+RD AR (All) AR (Low) FAV UNF Mean  7,33 80.6% 66.7% 6,21 St. Dev  0,98 0.401 0.58 1,19 Median  7,25  6 Obs  6 31 3 31 
+Note s: See Table 1  
+AR (Low) 
+77.8% 
+0.44 
+FAV 6,83 1,15 
+7 62 
+UNF 
+31 
+9 
+Table 10e: VRC 20%  
+Responses  Demands  
+7 
+  (1)  (2)  (3)  (4)  (5)  
+RD AR (All) AR (Low) FAV UNF Mean  8.87 73.3% 22.2% 6,77 6,86 St. Dev  0,74 0.45 .44 1,08 1,55 Median  9 6,5 6,78 Obs  8 30 9 30 30 
+Table 10f: VRC 1%  
+Responses  Demands  
+6 
+  (1)  (2)  (3)  (4)  (5)  
+RD AR (All) AR (Low) FAV UNF Mean  8,48 85.7% 42.9% 6,98 6,89 St. Dev  0.41 0.36 53.4 1,07 2,16 Median  8,46 7 7,09 Obs  4 28 7 28 28 
+Table 10g: VRC 0%  
+Responses  Demands  
+  (1)  (2)  (3)  (4)  (5)  
+RD AR (All) AR (Low) FAV UNF Mean  7,64 76.7% 0 6,10 St. Dev  1,38 0.43 1,37 Median  7 6 Obs  7 30 2 30 
+
+========58========
+
+Table 11: Regression Analysis of Logit model for probability of acceptance in Round 1  
+(1)  (2)  (3)  (4)  
+   
+DEP VAR: ACCEPT  FRC & 50% CHANCE  1.952  
+(1.498)  FRC_20%  
+FRC_1%  
+FRC_0%  
+VRC_20%  
+VRC_1%  
+VRC_0%  
+FRC & 50% 
+VRC & 50% 
+2.089  (1.697)  
+VRC & 50% 
+-0.394  (0.828)  -0.785  (0.773)  -1.150  (0.889)  
+-0.982  (1.013)  0.00710  (0.992)  -2.875**  (1.214)  
+OFFER  1.121***  1.123***  1.637***  2.083***  
+(0.275)  (0.280)  (0.308)  (0.398)  FAVOURED  0.533  0.395  0.666  1.325  
+(0.794)  (0.870)  (0.854)  (1.070)  Constant  -2.144**  -1.223  -3.360***  -3.170***  
+(0.938)  (0.831)  (0.896)  (1.022)  Observations  125  125  119  119  Chi2  16.95  17.19  29.90  31.62  
+Percentage of correctly predicted  
+outcomes  83%  82.4%  87.4%  88.2%  
+Notes : See Table 2  
+Table 12: Results of Wald test relative to specification (2)  of Table 11  
+FRC ACCEPTANCES ROUND 1  
+   50%  20%  1%  20%  -0,48         (0,828)      1%  -1,01  -0,53       (-1,01)  (0,743)  
+0%  -1,29  -0,87  -0,49  
+(0,889)  (0,866)  (0,743)  Notes : See Table 3.               
+   
+Table 13 Results of Wald test relative to specification (4)  of Table 11  
+VRC ACCEPTANCE  ROUND 1  
+   50%  20%  1%  20%  -0,97         (1,012)      1%  0,01  1,22       (0,992)  (0,812)  
+0%  -2,37**  -2,04**  -2,98***  
+(1,213)  (0,929)  (0,965)  
+Notes : See Table 3. 
+
+========59========
+
+Table 14: Regression Analysis of Demands for Round 1  
+   (1)  (2)  (3)  (4)  DEP VAR: DEMAND  FRC & 50%  FRC& 50%  VRC& 50%  VRC& 50%  
+CHANCE  1.051**  
+(0.406)  FRC_20%  
+FRC_1%  
+FRC_0%  
+-0.00498  (0.225)  -0.401*  (0.225)  -0.611**  (0.259)  
+VRC_20%  
+VRC_1%  
+VRC_0%  
+0.556  (0.453)  
+-0.0128  (0.246)  0.107  (0.251)  -0.731**  (0.289)  
+UNFAVOURED  0.165  0.0222  0.248  -0.00397  
+(0.223)  (0.239)  (0.265)  (0.282)  Constant  6.373***  6.830***  6.563***  6.830***  
+(0.127)  (0.147)  (0.156)  (0.147)  Observations  219  219  208  208  R-squared  0.026  0.035  0.009  0.037  
+Table 15: Results of Wald test relative to specification (2)  of Table 14  
+FRC DEMANDS ROUND 1  
+   50%  20%  1%  20%  -0,005         (0,224)      1%  -0,4*  -0,39*       (0,224)  (0,238)  
+0%  -0,61**  -0,6**  -0,21     (0,019)  (0,272)  (0,272)  Notes : See Table 3.            
+Table 16: Results of Wald test relative to specification (4)  of Table 13  
+VRC DEMANDS ROUND 1  
+   50%  20%  1%  20%  -0,01         (0,245)      1%  0,11  0,12       (0,25)  (0,284)  
+0%  -0,73**  -0,71**  -0,83***     (0,288)  (0,317)  (0,321)  
+Notes : See Table 3. 
+Figure 5: Evolution of mean proposals over rounds –  FRC and VRC treatments  
+8 
+7.5 
+7 
+Mean Proposal 
+6.5 
+6 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 11 Round 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+50% 20% _FRC 1% _FRC 0% _FRC 
+    
+8 
+7.5 
+7 
+Mean Proposal 
+6.5 
+6 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 11 Round 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+50% 20% _VRC 1% _VRC 0% _VRC 
+
+========60========
+
+Table 17: Regression Analysis of Logit model for probability of acceptance – All Treatments   DEPENDENTE VARIABLE  ACCEPT  
+   
+FRC_20%  -0.396  
+(0.689)  
+FRC_1%  -1.492**  
+(0.754)  
+FRC_0%  -3.613***  
+(0.778)  
+VRC_20%  1.315**  
+(0.669)  
+VRC_1%  0.135  
+(0.673)  
+VRC_0%  -1.181*  
+(0.673)  
+OFFER  3.057***  3.000***  2.667***  4.983***  
+(0.145)  (0.143)  (0.309)  (0.648)  FAVOURED  0.243  0.688*  -0.0240  0.500  
+(0.413)  (0.400)  (0.757)  (1.011)  
+ROUND  
+FRC TREATMENTS  
+VRC TREATMENTS  
+ROUND_X_FRC  
+ROUND_X_VRC  
+(1)  (2)  (3)  (4)  
+            
+-0.150  0.233  
+(0.786)  (1.246)  
+-1.685**  -2.095  
+(0.778)  (1.282)  
+-2.262***  -5.817***  
+(0.826)  (1.462)  
+1.335*  2.865**  
+(0.788)  (1.244)  
+0.703  0.941  
+(0.757)  (1.215)  
+-1.506**  -0.430  
+(0.752)  (1.225)  
+0.0642**  (0.0315)  -1.363**  (0.690)  0.0458  (0.674)  -0.0323  (0.0355)  -0.000420  (0.0367)  
+Constant  -4.740***  -5.083***  -4.318***  -7.433***  
+(0.624)  (0.648)  (0.808)  (1.575)  ROUND DUMMIES  YES   NO  YES  YES  Observations  4,260  4,260  1,065  1,065  chi2  452.7  442.0  75.49  60.66  
+Percentage of correctly predicted  
+outcomes  83.26%  82.61%  81.78%  85.53%  
+Notes : See Table 2  
+Table 18: Results of Wald test relative to specification (1), Table 17  
+VRC ACCEPTANCE ALL ROUNDS  
+     20%  1%  0%  
+20%  -1.71**      
+(0.679)  
+1%   
+    (0.76)  
+0%       
+      Notes : See Table 3. 
+    -1.63**    
+FRC  
+ACCEPTANCE   
+-2.43***  (0.773)  
+
+========61========
+
+Table 20: Results of Wald test relative to specification (4), Table 17  
+VRC ACCEPTANCE LAST 5 ROUNDS   
+Table 19: Results of Wald test relative to specification (3),  Table 17  
+VRC ACCEPTANCE FIRST 5 ROUNDS  
+     20%  1%  0%  
+20%  -1.69*      
+(0.930)      
+1%   -2.95***    
+    (0.847)  
+0%       -0.96  
+      (0.793)  
+     20%  1%  0%  
+FRC ACCEPTANCE  
+FIRST 5 ROUNDS   
+Notes : See Table 3. 
+Notes : See Table 3. 
+Table 21: Regression Analysis of Demands – All Trea tments  DEP VAR  
+   
+   
+FRC_20%  -0.0700  
+(0.158)  FRC_1%  -0.193  
+(0.155)  FRC_0%  -0.684***  
+(0.159)  VRC_20%  0.414***  
+(0.147)  VRC_1%  0.223  
+(0.144)  VRC_0%  -0.415***  
+(0.143)  ROUND  
+(1)  (2)  (3)  (4)  
+            
+FRC TREATMENTS  
+VRC TREATMENTS  
+ROUND_X_FRC  
+20%  -2.11**      
+(1.250)      1%   -2.26**        (1.343)  
+0%       - 3.74***  
+      (1.440)  
+FRC ACCEPTANCE  
+LAST 5 ROUNDS   
+PROPOSAL  
+-0.0897  -0.114  (0.195)  (0.150)  -0.116  -0.259  (0.199)  (0.159)  -0.594***  -0.866***  (0.205)  (0.155)  0.231  0.410***  (0.176)  (0.155)  0.272  0.161  (0.179)  (0.145)  -0.649***  -0.275*  (0.188)  (0.144)  
+0.00819  
+(0.00682)  
+-0.255  
+(0.165)  
+-0.0912  
+(0.161)  
+-0.00562  
+(0.00793)  
+0.0154*  
+(0.00807)  
+Constant  6.729***  6.876***  6.756***  7.083***  
+(0.111)  (0.137)  (0.128)  (0.103)  
+ROUND_X_VRC  
+   
+ROUND DUMMIES  YES  
+YES 
+YES 
+YES 
+Observations  4,880  4,880  1,220  1,220  R-squared  0.108  0.0385  0.0819  0.142  
+
+========62========
+
+Table 22: Results of Wald test relative to specification (1) – Table 21  
+VRC PROPOSALS ALL ROUNDS  
+     20%  1%  0%  
+20%  -2.96***      
+(0.163)      
+1%   -2.63***    
+    (0.158)  
+0%       - 1.67*  
+      (0.161)  Notes : See Table 3. 
+FRC PROPOSAL  
+ALL ROUNDS  
+Table 23: Results of Wald test relative to specification (3),  Table 21  
+VRC PROPOSAL FIRST 5 ROUNDS  
+     20%  1%  0%  
+20%  -1.64      
+(0.195)      
+1%   -1.92*    
+    (0.202)     
+0%       0.25  
+      (0.215)  
+Table 24: Results of Wald test relative to specification  (4), Table 21  
+VRC PROPOSAL LAST 5 ROUNDS  
+     20%  1%  0%  
+20% -3.14***      
+(0.167)      
+1%   -2.52 **    
+    (0.167)  
+0%       -3.67***  
+      (0.161)  
+FRC PROPOSAL  
+FIRST 5 ROUNDS  
+FRC PROPOSAL  
+LAST 5 ROUNDS   
+Notes : See Table 3.            
+Notes : See Table 3. 
+Figure 6: Allocation per Treatments: All rounds and  last five rounds  
+Panel a: All rounds  Panel b: Last five rounds  
+1 
+1 
+.9 
+.9 
+.8 
+.8 
+.7 
+.7 
+.6 
+.6 
+.5 
+.5 
+.4 
+.4 
+.3 
+.3 
+.2 
+.2 
+.1 
+.1 
+0 
+0 
+50% 20%_FRC 1%_FRC 0%_FRC 20%_VRC 1%_VRC 0%_VRC 
+50% 20%_FRC 1%_FRC 0%_FRC 20%_VRC 1%_VRC 0%_VRC 
+Loss Proposer Share Receiver Share 
+Loss Proposer Share Receiver Share 
+Examples:    
+Reference to a journal publication:   
+Van der Geer, J., Hanraads, J.A.J., Lupton, R.A., 2010. The art of writing a scientific article. J. Sci.  Commun. 163, 51–59.   
+Reference to a book:   
+Strunk Jr., W., White, E.B., 2000. The Elements of Style, fourth ed. Longman, New York.   Reference to a chapter in an edited book:   
+Mettam, G.R., Adams, L.B., 2009. How to prepare an electronic version of your article, in: Jones, B.S.,  Smith , R.Z. (Eds.), Introduction to the Electronic  Age. E-Publishing Inc., New York, pp. 281–304. 
+
+========63========
+

@@ -1,0 +1,899 @@
+July 2011  
+No.64  
+The Power of Political Voice: Women's Political Representation and  
+Crime in India 
+Anandi Mani (University of Warwick), Lakshmi Iyer (Harvard Business School),  
+Prachi Mishra (Research Department, IMF) and Petia Topalova (Research  
+Department, IMF) 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+THE POWER OF POLITICAL VOICE:   
+WOMEN’S POLITICAL REPRESENTATION AND CRIME IN INDIA* 
+July 2011  
+Lakshmi Iyer Harvard Business School  
+Anandi Mani University of Warwick  
+Prachi Mishra Research Department, IMF  
+Petia Topalova Research Department, IMF  
+Abstract  
+Using state-level variation in the timing of political reforms, we find that an  increase in female representation in  local government induces a large and  significant rise in documented crimes against women in India. Our evidence  suggests that this increase is good news, as it is driven primarily by greater  reporting rather than greater incidence of  such crimes. In contrast, we find no  increase in crimes against men or gender-neutral crimes. We also examine the  effectiveness of alternative forms of political representation: large scale  membership of women in local councils affects crime against them more than  their presence in higher level leadership positions.  
+JEL Classification Numbers: J12, J15, J16, P16    
+Keywords: crime; women’s empowerment; minority representation; voice  
+                                                       
+*Authors’ e-mail addresses: liyer@hbs.edu; 
+ a.mani@warwick.ac.uk; pmishra@imf.org;  ptopalova@imf.org  
+The views expressed in this paper are those of the author(s) and do not necessarily represent those  of the IMF or IMF policy. We are grateful to  Irma Clots-Figueras, Rafael di Tella, Irfan  Nooruddin, Emily Oster, Rohini Pande, colleagues at the IMF and seminar participants at Boston  University, Bristol, Georgia Tech, Harvard Business School, IIM Bangalore, ISI Delhi, NEUDC  2009, Tufts University, University of Virginia, IV Annual Workshop on Gender Economics  (2011) and University of Warwick for helpful comments. Maya Shivakumar, Filipa Jorge and  Heisnam Thoihen Singh provided excellent research assistance.  
+1  
+  
+
+========2========
+
+1. Introduction  
+One of the most fundamental aspects of civil society is the assurance of personal  safety and fair treatment under the law for all  citizens. However, protecting the  rights of disadvantaged groups, such as  population minorities and politically  under-represented citizens, has remained a challenge in many developing  countries, and even in developed ones. Individuals from such groups are often the  target of a whole gamut of injustices, ranging from everyday indignities such as  verbal abuse and discrimination to serious crimes including murder and even  genocide. Concerned governments have considered a broad range of policies to  prevent or redress such injustices, including welfare support, affirmative action  quotas in education and jobs, legal protection and allocation of more law  enforcement resources. Our paper is the first to examine the consequences of a  very different policy reform on crime outcomes: greater political representation of  disadvantaged groups in elected office.   
+Our paper makes three major contributions. First, we find strong and  surprising evidence that political representation is an important means of  providing voice to disadvantaged groups within the criminal justice system. The  introduction of mandated political representation for women leads to a large and  statistically significant increase in the documented number of crimes against  women. We argue that this is good news for women’s empowerment:  considerable evidence suggests that this rise is primarily due to higher reporting,  rather than an increase in  the actual incide nce of crime. Second, we shed light on  the political architecture that maximizes female voice. It is the presence of women  in the broad base of political representatives, rather than in leadership positions at  higher levels of governance per se, that  generates a more powerful impact on  reporting of crimes. Finally, our work highlights how biases in reporting may lead  to misleading interpretation of the underlying reality with respect to crime.   Reporting issues have long been regarded as a serious shortcoming of developing  
+2  
+  
+
+========3========
+
+country crime data (Soares, 2004). Our work illustrates this in a concrete and  important context – albeit with favorable consequences.   
+  How could political repres entatives from disadvantaged groups affect their  crime outcomes? For one, members of a minority group are likely to have  different preferences with regard to policy formulation and implementation, since  their life experiences would give them a different perspective on justice.1  In turn,  this could influence the functioning of the police or law enforcement agencies,  which may now be more responsive to the concerns of the disadvantaged groups.  Second, the presence of minority group individuals in public office could alter the  nature of interaction between the advantaged and disadvantaged groups, by  changing perceptions or the degree of  social bias against the latter. 
+2 
+ Finally,  observing members of their own group in positions of public office could change  the attitudes and self-confidence of the disadvantaged group.3  In a broader sense,  political representatives from disadvantaged groups could reduce injustice  because they help to articulate the voice of their group members, as described by  Hirschman (1970).    
+  In practice, accurately measuring  the impact of minority group public  officials on crime outcomes is difficult, because the assignment of minority group  members to particular positions is often endogenous to the outcomes of interest.   For instance, police officers of either race may be assigned to a particular locality  
+                                                       
+1 
+ As the recent U.S. Supreme  Court appointee Sonia Sotomayor observed, “…Our experiences as  women or people of color affect our decisions...Hence, one must accept the proposition that a  difference there will be by the presence of women or people of color on the bench. Personal  experiences affect the facts that judges choose to see.” (Sotomayor, 2002).  
+2 
+ For instance, in the U.S. cont ext, the U.S. Kerner Commission (1968) endorsed the use of a  mixed race police force as a tool to tackle law and order issues and inter-racial tensions.  In India,  Beaman et al (2009) demonstrate that the perceptions of women as leaders become more positive  after men are exposed to women in leadership roles.  
+3 
+ Jensen and Oster (2009) show that this role model effect is quite strong in India: exposure to  strong women characters on cable television reduces women’s reported tolerance for domestic  violence and increases their decision-making authority in the household. La Ferrara et al (2008)  also show strong role model effects of television characters on Brazilian women.  
+3  
+  
+
+========4========
+
+because of its specific racial composition or crime conditions, which may  confound any causal inference.4  A minority individual’s  election may reflect the  changing preferences of the electorate, or the changing social status of previously  disadvantaged groups, which may directly  influence crimes committed against  such groups.   
+  In our paper, we are able to a ddress this endogeneity issue by taking  advantage of a unique, countrywide policy experiment in India. In 1993, a  constitutional amendment made it mandatory  for Indian states to set aside one- third of all positions in local government councils for women.5  The amendment  also mandated reservation for other marginalized groups in proportion to their  population ratio (members of Scheduled Castes and Scheduled Tribes).6   It is one  of the largest such experiments implemented in the political arena.7  Our analysis  exploits the fact that the legislation, which significantly increased female and  lower caste representation in local leadership positions across India, was  implemented at varying dates across Indian states. We can thus construct  difference-in-difference estimates of the impact of political representation for  women and lower castes on crimes against them.  
+                                                       
+4 
+ For instance, while the policy of a mixed race police force has been widely implemented in the  United States, the evidence on how it has affected crime outcomes is mixed.  See Donohue and  Levitt (2001a) for details.  
+5 
+ This represents a substantial increase in the  representation of women in political office. For  instance, in state legislatures where there are no such mandates, only 5% of state legislators were  women over the period 1985-2007. A proposal to extend such one-third political representation to  women in state and national legislatures is under consideration by the Indian parliament.  6 
+ The Scheduled Castes are communities that have historically been at the bottom of the Hindu  caste hierarchy; they suffered systematic economic and social discrimination including being  considered “untouchable.” Scheduled Tribes include communities that have traditionally been  outside the Hindu caste system.  
+7 
+ A number of countries, including Rwanda, Tanzania, Sierra Leone and the Philippines, now have  mandated quotas for women’s representation in national or subnational elected bodies (see  http://www.quotaproject.org for details). Several European political parties and governments in  some Latin American countries have minimum quotas in their candidate lists (Norris, 2001). See  Pande and Ford (2011) for a comprehensive review of the effects of  female leadership quotas on a  range of outcomes.     
+4  
+  
+
+========5========
+
+We find that the introduction of mandated political representation for  women leads to a large and statistically significant increase in the number of  reported crimes against women. Across all categories, documented crimes against  women rose by 44%, while rapes per capita rose by 23% and kidnapping of  women showed a 13% increase. These results are robust to the inclusion of a host  of controls for economic, demographic and political variables, the strength of the  police force and state-specific time trends. We note that there is no significant  effect on any categories of crime not specifically targeted against women – such  as kidnapping of men, crimes against property or crimes against public order. This  strongly suggests that there is no overall deterioration in law and order conditions  or policy changes other than the political representation that are driving our  results. These findings are somewhat surprising, and potentially distressing.    
+In considering possible explanations, one obvious hypothesis is that  crimes against women rose sharply because  of a backlash against women by those  who resent greater female political power (the retaliation  hypothesis). This  explanation, while plausible,  runs somewhat counter to  the increased (if gradual)  acceptance of women in the public arena in India, as documented by Beaman et al  (2009).  Besides, it seems equally plausible that a woman leader would deter  potential criminals, since she is likely to be more sympathetic to women’s  concerns.  Alternatively, it could be the case that greater participation in public  life exposes women to situations where potential criminals have the opportunity  to harm them (the increased crime opportunities).  
+On the other hand, the surge in reported crimes may simply reflect  improvements in reporting rather than a rise in actual crimes (the reporting  hypothesis).  The presence of women leaders could influence reporting of crimes  against women in several ways. First, it could make the police more responsive to  crimes against women.  Further, women victims who encounter more sympathetic  women leaders and (hence) more responsive police would be more encouraged to  
+5  
+  
+
+========6========
+
+report crimes.  In other words, thinking about the incentives of the police and  victims suggests that the rise in documented crimes against women may actually  be good news: the observed increase in crime could be driven by greater reporting  of crimes by victims and greater recording of such reports by the police -- rather  than the actual occurrence of more crimes. Further analysis of our data offers  several pieces of evidence that support this “good news” reporting hypothesis over the “bad news” retaliation or  increased crime opportunities  hypothesis. 
+For one,  we find evidence of greater police responsiveness to crimes  against women after the reservation policy was implemented. The number of  arrests increases significantly, particularly for cases dealing with kidnapping of  women, with no decline in the quality of police effort.8  This has likely encouraged  more reporting by women victims. Survey data on interactions with police show  both a higher degree of satisfaction and lower bribes paid by women when their  village council was headed by a woman.   
+Second, for crimes where reporting biases are expected to be minimal,  such as murders or suicides of women, we find no significant increases after the  introduction of women’s political reservation.9  Data from a government report  show no differences in women’s freedom of mobility and interaction with  strangers between villages with male and female leaders. If backlash against  women were driving the story, we would expect to see increases in violent crime,  or at least in restrictions to women’s mobility in women-headed villages.    
+Third, women’s exposure to potential crime situations would be a function  of the time they spend outside their home.  Using women’s labor force  participation as a measure of such exposure, we find little support for the  increased crime opportunities hypothesis. There has been hardly any movement  
+                                                       
+8 
+ The quality of police effort is measured by the percentage of cases where the prima facie  evidence for arrests was upheld by a magistrate.  
+9 
+ Deaths are hard to hide, irrespective of the reasons.    
+6  
+  
+
+========7========
+
+in women’s labor force participation in India since the early 1990s, both in rural  and urban areas.    
+Fourth, we compare changes in crime rates against females across districts  with varying levels of women’s empowerment (proxied by sex ratios and female  literacy rates) as we would expect the potential “backlash” effect to be lower in  places where women are more empowered. We  find that the rise in documented  crimes after reservation was implemented was larger in places where women are  more literate to begin with, a finding inconsistent with a “backlash” interpretation.  Further, we find that the number of years since the reform has a non-linear effect  on crimes against women: crime rates increase the most in the first few years, but  they tend to decrease with greater length of exposure to the reform. This evidence  is consistent with the interpretation that increased police (and possibly victim)  responsiveness to women leaders resulted  in a deterrence effect on potential  criminals against women, in the long run.  
+ Finally, we find very similar effect s of mandated representation for low  castes in local councils, namely a significant increase in documented crimes  specifically targeted on the basis of caste identity.   
+Having established that mandated political representation for women  results in a large increase in reporting of  crimes against them, we now address an  important related question: At what  level of governance does political  representation have a greater impact? We exploit a specific feature of the  mandated representation system in India: in addition to village presidents, as well  as village and district council member positions, one-third of district council  chairperson positions were also reserved for women, by rotation across districts.   Using district-level crime data, we can compare districts with and without women  chairpersons to estimate the marginal effect of having a woman district  chairperson, over the cumulative impact of all the lower level representatives  mentioned earlier. We find that the bulk of the impact on crime comes from the  
+7  
+  
+
+========8========
+
+latter set of women representatives, rather than female district chairpersons. Our  results imply that the presence of women representatives at the lowest level of  governance, where they have greatest proximity to potential crime victims, is  more important in giving voice to women than their presence in higher-level  leadership positions.  
+Our paper brings together two streams of literature in political economy,  crime and development. A few papers have examined crimes against specific  sections of society (African Americans:  Donohue and Levitt, 2001a) or against  women (in Africa: Miguel, 2005;  in India: Sekhri and  Storeygard, 2010; in the  US: Stevenson and Wolfers, 2006; Aizer and Dal Bo, 2009; Iyengar, 2009; Aizer,  2010),10  but none have examined the role of  political power of minorities on  crime outcomes against them.  There is also an extensive literature on the socio- economic determinants of crime, ranging from local inequality and economic  shocks to peer effects and family structure.11   A specific policy measure, whose  impact on crime has been widely examined, is increased police hiring (Di Tella  and Schargrodsky, 2004; Levitt, 1997; Draca, Machin and Witt, 2011).   
+A second stream of literature has examined the effect of increased political  representation for minority groups on policy making and attitudes.12 
+ Many of the  
+                                                       
+10 
+ Miguel (2005) studies the effect of economic shocks on witch-killing; Sekhri and Storeygard  (2010) looks at the effects of natural disasters on crimes against women; Donohue and Levitt  (2001a) examine the link between the racial profile of police offers and the racial pattern of  arrests. Stevenson and Wolfers (2006) study the impact of divorce laws on violence against  women, Aizer and Dal Bo (2009) investigate the effect of prosecution no-drop policies on  reporting of domestic violence, while Aizer (2010) examines the effect of women’s relative  wages. Iyengar (2009) examines the effect of mandatory arrest laws for domestic violence, and  finds that it leads to greater under-reporting of less serious incidents, and consequently a rise in the  number of homicides.  
+11 
+ See, among others, Kelly (2000); Donohue and Levitt (2001b); Bloch and Rao (2002);  Demombynes and Ozler (2005); Fafchamps and Minten (2006).  
+12 
+ Most studies find significan t positive effects of women or women-friendly leaders on female- oriented policies (Chattopadhyay and Duflo, 2004; Powley, 2007; Washington, 2008; Clots- Figueras, 2011), as well as improved attitudes towards women leaders (Beaman et al, 2009).  Similarly increased representation of disadvantaged castes in political office has been found to  bring greater benefits for these castes (Pande, 2003; Besley et al, 2007; Bardhan et al, 2010). A  
+8  
+  
+
+========9========
+
+studies analyzing the Indian case compare outcomes across villages reserved for a  female (or minority) council president and those that are not; i.e. they do not  estimate the impact of increased representation among council members of the  village council but examine only the effect of the village council leader.13  Our  study, in contrast, focuses precisely on  the impact of the change in the  composition of local councils by comparing crime rates before and after the  implementation of reservation across Indian states. We also  consider the effects of  the identity of council leaders at the district  level. 
+14 
+ We find that having a female  district council head has a much smaller marginal effect, compared to the overall  effect of increased mandated representation of women among the members of the  councils.    
+  The rest of the paper proceeds as follows.  Section 2 provides institutional  details of the criminal justice system and mandated political representation in  India, focusing specifically on the reasons for the variation in policy  implementation dates across Indian states. Section 3 describes our data and  empirical strategy, and Section 4 presents  our main results.  Section 5 discusses  possible interpretations of these results, and presents  evidence to distinguish  between the reporting and the retaliation hypotheses. Section 6 examines the  effect of the reservation of  district leadership positi ons for women, and Section 7  concludes.    
+                                                                                                                                                  few recent studies, however, have challenged these findings (Rajaraman and Gupta, 2010;  Bardhan et al, 2010; Dunning and Nilekani, 2010).  
+13 
+ The empirical strategy of these studies, whic h relies on the cross-sectional variation in the  reservation status of the council leader position, does not permit the estimation of the impact of  increased representation among council members as  one-third of member positions are reserved  for women in all village councils.  
+14 Since village level crime data are not available, we are unable to examine the impact of having a  female leader at the village council level.  
+9  
+  
+
+========10========
+
+2. Mandated Political Representation of Women and Disadvantaged Castes  in India  
+2.1 Women’s Socio-Economic Status  and Political Representation  
+Women, as well as Scheduled Castes (SCs) and Scheduled Tribes (STs), are  particularly disadvantaged sections of Indian society.  Women were significantly  under-represented in political institutions  in India, accounting for only 10% of the  membership of national legislatures  in 2009. Over the period 1985-2007, only  5.5% of state legislators on average were  women. Women were also significantly  disadvantaged in terms of human development. In 2007, India was ranked 114 out  of 182 countries on the Gender Development Index of the UNDP and had only  940 women for every 1000 men in the 2011 census. The Economist  magazine  estimated the number of “missing women” in  India to be greater than 100 million  in 2009. Only 65% of women in India were literate in 2011, compared with 82%  of men. Similarly, the literacy rates for SCs and STs were 55% and 47%  respectively in 2001, compared to the nationwide average of 65%. Previous  studies have also documented that members of the SCs and STs have significantly  lower access to public goods such as health and education facilities (Banerjee and  Somanathan, 2007).  
+2.2 Mandated Political Representation in Local Councils  
+In April 1993, the 73rd  Amendment to the Indian constitution came into force.  This Act required each state to set up a three-tier system of local government,  comprising village, intermediate and district level governance bodies, collectively  known as the Panchayati Raj.15  All members of these lo cal bodies were to be  directly elected by the people every five  years, and the Act provided for the  establishment of State Election Commissions to conduct such elections. Twenty- 
+                                                       
+15 
+ Certain small states were required to set  up only two-tier systems of local government.  
+10  
+  
+
+========11========
+
+nine areas of administration, including decisions over health and education  services, roads, sanitation and other local services were to be devolved to these  local government bodies. State Finance Commissions were set up to provide  recommendations on revenue-sharing and making grants to these local  government institutions. The Act thus provided for a considerable degree of  
+political, administrative and fiscal decentralization to  the local bodies. 
+16 
+Two further provisions were made to  strengthen the representation of  political minorities in these local bodies. At  least one-third of  all council seats at  the village, intermediate (sub-district) or district level were required to be filled  by women, and seats were also to be reserved for SC and ST communities in  proportion with their population in the village, sub-district  or district level.  The  positions of chairpersons of these local bodies were also to be reserved for women  and members of the SCs and STs. The chairperson reservations would function by  rotation, i.e. in each election cycle, one-third of the districts would have their  chairperson position reserved for women, and another set of districts would have  this reservation in the next election cycle. Similar provisions were made for urban  local bodies as well.  
+All states amended existing laws or passed new laws to be  compliant with  the 73rd  Amendment within one year. 
+17 
+ Elections were eventually held by all  states, though there is considerable variation in the timing of elections across  states. Of the many components of the new law, the most salient effects on crime  are likely to come from the change in the gender (and caste) composition of local  
+                                                       
+16 
+ The village-level governing bodies (Gram Panchayats) have been known to exist in India since  ancient times. However, their real power, effectiveness and representativeness have varied  considerably over time.  Ghatak and Ghatak (2002) argu e that prior to the 1990s, the Panchayati  Raj  was not generally effective: elections were not held, and the Panchayats did not assume any  active role.  
+17 
+ The exceptions are Delhi, which has passed no  Panchayati Raj  legislation, Jammu & Kashmir  which did not explicitly pass legislation but amended the state laws to be in compliance, and the  small states of Nagaland, Mizoram and Meghalaya, which were not required to comply with this  constitutional provision.  
+11  
+  
+
+========12========
+
+government councils. Law and order was not on the list of functions to be  devolved to local governments. Fiscal decentralization also has not gone very far,  with most of local governments’ revenue still coming from grants from the state.   
+2.3. Variation in the Timing of Local Government Elections across States  Our main measure of political representation is an indicator for when  marginalized sections of society are given political representation in a particular  state. In the case of women, this indicator  equals one in years following the first  local government election which implemented the “not less than one-third”  reservation scheme for women representatives. As Table II shows,  the date of this  first election varies considerably across the major states of India.  
+There are three main reasons for the variation in election timing across  states. First, several states  already had a system of local government even before  the enactment of the 73rd  Amendment. In many of  these cases, the state  government waited for the term of office of  incumbent local officials to expire  before conducting fresh elections in compliance with the 73rd  Amendment. On the  other hand, several states chose to incorporate the provisions regarding women’s  representation into their own state laws even before the constitutional amendment  came into effect. This was because they were aware of the impending legislation  due to the long process of amending the Constitution,18  and had elections for local  bodies scheduled as per their existing system. For instance, West Bengal made  major amendments to their state-level legislation to provide reservation for  women and SCs and STs in the 1993 election, once the passage of the  constitutional amendment was imminent. Kerala made a similar change to its law  in 1991. Other states had unilaterally implemented reservation for women  
+                                                       
+18 
+ The 73rd Amendment Act was introduced in the national parliament in 1991, after two earlier  failed attempts. After some debate, the bill was passed in December 1992. Thereafter, it needed to  be ratified by a majority of the states, and finally came into effect in April 1993.  
+12  
+  
+
+========13========
+
+(Karnataka) or SCs and STs (Maharashtra  and Madhya Pradesh) long before the  constitutional amendment. We can, of course, control explicitly for the presence  of a pre-scheduled local government election, but since all our regressions include  state fixed effects, we expect this characteristic to be captured by the state fixed  effect.  
+A second reason for variation in election timing is due to lawsuits  challenging certain aspects of PR implementation. For instance, elections in Bihar  were delayed due to a lawsuit challenging the proposed reservations for Other  Backward Castes (OBCs) which had not  been explicitly mandated by the  constitutional amendment. These can be regarded as reasonably exogenous factors  in causing the delay.  
+A third reason is potentially more endogenously determined: some states  delayed the elections due to budgetary constraints or other unspecified reasons.  Assam is one example of this. The state had elections in  1992, and therefore  should have had its first PR-compliant elections in 1997, but the elections were  conducted only in December 2001. The second round of elections was also  delayed, taking place in December 2007, rather than in December 2006. However,  our main results are robust to the exclusion of any specific state.  
+3. Data and Empirical Strategy  
+3.1 Crime Procedures in India  
+The Code of Criminal Procedure provides the basis for the criminal justice system  in India. This code specifies that all information given to the police must be  included in a written report by the police officer, read and signed by the  informant. After this “First Information Report” (FIR) has been filed, the police  are required to investigate the crime, and maintain detailed police diaries of the  progress of the investigation. During such investigation, the police may question  or arrest any suspects.  
+13  
+  
+
+========14========
+
+Under the habeas corpus  requirements of Indian law, all arrested persons  must be produced before a magistrate and charged with a specific crime within 24  hours or be released. The police must deliver to the magistrate a report which  details the results of the investigation, and whether the accused has been arrested  and/or released on bail. Based on this report, the magistrate makes a decision of  whether there are sufficient grounds for proceeding against the accused. If he so  rules, a formal chargesheet is prepared, detailing the offence with which the  accused is charged. If the magistrate feels that the police report does not provide  sufficient grounds on which to frame a charge, the case is dismissed at that point.  The fraction of cases in which the magistrate upholds the charges (the  “chargesheeting” rate) therefore reflects in part the quality of the investigation  carried out by the police; this  will be a variable we  will use in the empirical  analysis.  
+3.2. Data on Crime and Police Activity  
+We obtained data on the reported number of crimes at the district and state level  from various issues of the “Crime in India” publications of the National Crime  Records Bureau (NCRB) at  the Ministry of Home  Affairs, for the period 1985- 2007. These data come from the first stage of  the criminal justice system, namely  the filing of FIRs with the police.19  We also have annual data on the number of  
+arrests made for each crime category, as well as the chargesheeting rate.20 
+Our main variable of interest is crimes against women. These include the  following crime categories: rape, kidnapping of women and girls, dowry deaths,  
+                                                       
+19 
+ The Criminal Procedure Code of India divides a ll crimes into two categories: (i) cognizable –  which are dealt by the Police, and in which a police officer may arrest a person with or without a  warrant and (ii) non-cognizable – which are generally left to be pursued by the affected parties  themselves in Courts. Only cognizable crimes are reported in the NCRB publications.   
+20 
+ We do not analyze later processes in the cr iminal justice system, such as the number of  convictions obtained, because long delays in the Indian judicial system mean that trials for crimes  committed in one year may be held only several years later.  
+14  
+  
+
+========15========
+
+sexual harassment, molestation, cruelty by  husbands or relatives, importation of  women and girls, prostitution, pornography, giving and receiving dowry and sati (widow-burning). The reporting system for these crimes changes over time, as the  NCRB started reporting additional crime categories separately. For instance, only  rape and kidnapping of women were reported in the period before 1995, while  other categories such as dowry death, molestation, sexual harassment and cruelty  by husband or relatives started being recorded in 1995. Importation of women and  girls was included in 2001. In all our regressions, we include year fixed effects to  control for such nationwide changes in  reporting. We analyze separately the  specific crime categories of rape and kidnapping of women and girls, which are  consistently reported over a longer time period.   
+We also examine crimes against SCs and STs, which are recorded  separately by the NCRB starting in 1992, and crimes which are not gender- specific, such as property crimes or crimes against public order. It is interesting to  see that crimes against women follow a very  different national trend compared to  other violent crimes (Figure I). The incidence of murders and riots shows a  secular decline in the period after 1990, while the documented incidence of rapes  has steadily increased.   
+The empirical analysis uses many control variables and additional  outcomes at the state level, the sources for which are listed in Appendix 1. These  include economic variables, such as  state GDP levels , police strength,  demographic variables (female-male ratio, literacy rates, urbanization), and  political variables such as the presence of  a female chief executive in the state.  We also examine survey data on the quality  of interactions with the police from  two sources. First, we present some evidence from the Public Affairs Centre’s  Millennial Survey, an India-wide household survey which aims to assess the  
+15  
+  
+
+========16========
+
+functioning of a range of public services in 2000.21  We supplement this with data  on citizen perceptions of the impact of local leaders on police behavior, based on  household-level interviews from the State of the Nation Survey (Centre for the  Study of Developing Societies, 2009). Our data on the dates of the first local  election with one-third representation of women comes from several different  sources, summarized in Appendix 1.22    
+3.3 Empirical strategy  
+We conduct the analysis for the 17 major states of India over the period 1985- 2007.23  Table I provides the summary statistics for the crime data used in our  analysis. To gauge the impact of political representation, we run state-level  regressions of crimes rates (number of crimes per 1000 people) on our measure of  political representation. Our base  specification is the following:  
+(1)                        ln ( Cst/Pst  ) =  αs  +  βt  + fD 
+st 
+ + d’X 
+st 
+ +  εst 
+where   is the number of crimes in state Cst s  in year  t, Pst  is the population in state  
+s  and year  ,  t αs  is a fixed effect for state  s, βt  is a fixed effect for year  t, Dst is a  
+                                                       
+21 
+ The Millennial Survey analysis was conducted while one of the authors was an intern with the  Public Affairs Centre (a non-governmental organization) in spring 2003. For further description of  the survey, see Beaman et al (2010).  
+22 
+ In some cases, elections were held without implementing the provisions of the  Panchayati Raj amendment fully. For instance, Uttar Pradesh had considerably less than 33% of women in local  councils in the elections of 1995 and 2000. In a few cases where elections for village councils and  district councils are held at different times, we have taken the reform date to be the date of district  council elections. Our results are unchanged if we use the date for village council elections as the  reform date.  
+23 
+ The states included in the study  are the large states of India, which account for 97% of the total  population and 98% of total crimes reported: Andhra Pradesh, Assam, Bihar, Gujarat, Haryana,  Himachal Pradesh, Jammu & Kashmir, Karnataka,  Kerala, Madhya Pradesh, Maharashtra, Orissa,  Punjab, Rajasthan, Tamil Nadu, Uttar Pradesh and West Bengal. Three new states—Chhattisgarh,  Jharkhand and Uttarakhand—were carved out in 2001, from Madhya Pradesh, Bihar and Uttar  Pradesh respectively. All our analysis is conducted by merging these newly created states with  their original states, for the sake of comparability  of sample units over time. All of these split  states carried over the PR legislation from their parent states, but this aggregation can sometimes  cause measurement error in our explanatory variable: for instance, Bihar conducted local elections  in 2001 and 2006, but Jharkhand has not conducted a single PR election yet.   
+16  
+  
+
+========17========
+
+dummy variable that equals one in years including and following the first election  
+with political representation for a given minority group in state s, and   is a set Xst of state-time varying controls. The coefficient of interest, f, captures the effect of  reservation for women on crimes against women.  All standard errors are  clustered at the state level, to account for possible correlated shocks to state-level  crimes over time.  
+Our specification controls for a range of factors that might affect crime  against women in a given time and place. Literacy rates could affect awareness of  victims’ legal rights and influence reporting of crimes. Per capita income has also  been found to be associated with higher probabilities of reporting crime (Soares,  2004). Crime is typically higher in urban areas relative to  rural ones. Other studies  have documented that high male-female ratios result in increased rates of crime  (Edlund et al, 2007). Perhaps states which implemented reforms earlier were  those where the Chief Minister was a woman, and so we might mistakenly  attribute the effect of a higher-level woman representative to a lower-level one.  We explicitly control for all of these variables in our regressions. Finally, we also  include measures of the size of the state police force as a control for varying  levels of commitment to crime deterrence across states, though this might in fact  be the channel through which political representation affects crime.  
+A further concern is that the timing of policy changes may be endogenous  to the trends in crime. In addition to including state and time fixed effects, we also  control for state-specific linear time trends.  
+4. Political Representation and Crimes against Disadvantaged Groups 4.1 Crimes against Women  
+We find that political representation for women is associated with a large and  significant increase in the reported crimes against women. Table III shows the  
+17  
+  
+
+========18========
+
+coefficients on the post-reform dummy Dst, when we run specification (1) for a  range of crime categories and with a variety of controls. The coefficient on the  post-reform dummy is 0.365 for overall  crimes against women (per 1000  population), which corresponds to a 44% increase in reported crimes against  women after the implementation of political reservation (column 1). A large  positive effect is also confirmed in specific types of crimes against women: the  coefficient on the post-reform dummy is 0.206 for rapes and 0.125 for kidnapping  of women, which works out to a 23% increase in rapes and a 13% increase in the  kidnapping of women (estimates from column 3).   
+The size and statistical significance of the estimated coefficients are little  affected by the inclusion of a large number of demographic, economic and  political controls (column 2), and controls for the strength of police in the state at  that time (column 3). This suggests that the estimated effect is not due to a policy  change in policing, but to the change in the identity of the politician.   
+The results are practically unchanged when we control for female literacy  rather than overall literacy (column 4). The inclusion of state-specific linear  trends in addition to demographic, political and economic  controls (columns 5 and  6) affects little the estimated effect of  mandated representation for women, though  the coefficients are somewhat smaller in magnitude. We should note that this  specification controls for all linearly varying state-level variables, including any  linear effect of representation of women (and therefore might be “over- controlling” for the effects of the reform).    
+Our results are robust to the exclusion of any specific state, which means  that the results are not driven by specific states which might have unusual  characteristics. These include Jammu & Kashmir (which has a significant military  presence due to a long-running conflict between India and Pakistan), Karnataka  (which was the first state to implement women's reservations) and Uttar Pradesh  (the last state to implement women's reservation). Figure II shows the coefficients  
+18  
+  
+
+========19========
+
+obtained from a specification like (1) where the post-reform dummy is replaced  by a series of dummies for one to five or  more years since the reform, along with  a similar number of pre-reform dummies. The figure shows a considerable  increase in the number of documented crimes against women, starting at the date  when women’s reservation is implemented.24    
+4.2 Crimes Against Men and Gender-Neutral Crimes   
+Could the increase in reported crimes against women be simply a part of an  overall surge in documented crimes after mandated political representation of  women? This could occur if the entry of  inexperienced female policymakers led  to a general decline in law and order or if political reservation were associated  with other concurrent reforms such as changes to reporting rules, policing strategy  or overall economic growth  or inequality trends. 
+25 
+ We therefore  examine the  impact of political reservation on other categories of crime, where the victims are  not necessarily women. One such category is the kidnapping of men and boys,  which is reported separately from 1988 onwards. We also show results for other  crime categories that do not have any overt gender component: crimes against  property (robberies and burglaries), crimes  against public order (riots and arson)  and economic crimes (counterfeiting, cheating and breach of trust). None of these  crime categories show any statistically significant relationship with the  implementation of women’s political  reservations (Table IV).   
+  This makes us more confident that  the results of Table III are indeed  capturing the effect of women’s political  representation, rather than any other  concurrent reforms that might have been  implemented, or an overall increase in  crime as a result of having less experienced female leaders.   
+                                                       
+24 
+ We further discuss the long term, cumulative impact of women’s representation on crime  outcomes in section 5.4  
+25 
+ For the impact of overall economic growth or  rising inequality on crime in India, see Prasad  (2008) and Charmarbagwala and Sharma (2008).  
+19  
+  
+
+========20========
+
+4.3 Crimes Against Scheduled Castes and Scheduled Tribes  
+Since the Panchayati Raj  policy provided for the mandated representation of SCs  and STs in local councils, we examine whether documented crimes against these  communities also increased after reservation was implemented. The case of  SCs/STs is slightly different from the mandated representation of women. First,  these communities already had mandated representation in the state legislature (in  proportion to their population share). A priori, we do not know whether the  already existing representation at the higher level would increase or decrease the  impact of greater representation at the lower level of government. Second, data on  crimes against SCs/STs are only available from 1992 onwards. In order to ensure  that there are sufficient pre-reform observations, we restrict our analysis only to  states which implemented the Panchayati Raj  provisions for SCs/STs in 1995 or  later. Further, some states do not have any STs in their population, which restricts  our sample size for these regressions.  
+Similar to the results for women, we find a significant increase in the  documented crimes against SCs after these groups obtain mandated representation  in local councils (Table V). In particular, the largest increase is in crimes that are  prosecuted under the Prevention of Atrocities Act, which specifically includes  offences committed against SCs by non-SCs (including stripping, insulting,  forced labor and sexual exploitation). As before, we show results controlling for a  range of demographic, economic and political controls (columns 2-3). The results  on overall crimes against SCs, in particular those classified as “atrocities,” are  robust to all these specifications.26  Interestingly, we do not see significant  increases in crimes which are not caste-specific (e.g. murder or rape, where the  victims might be targeted for reasons other than their caste).  This lends greater  
+                                                       
+26 
+ These results are robust to using a tobit specification, as well as using non-logged crime  variables.  
+20  
+  
+
+========21========
+
+weight to our hypothesis that it is political representation of such communities  which is driving higher reporting of such caste-related crimes.   
+We do not find any significant results of political representation for STs  on crimes committed against them (Table V,  columns 4-6). This could be because  of poorer data availability, or perhaps the inability of STs to mobilize as  effectively as SCs. Other studies on STs have also found that mandated political  representation for STs has not resulted in greater access to primary schools or  other types of infrastructure (Krishnan, 2007; Banerjee and Somanathan, 2007).   
+5.  Interpreting the Results: More Crime or More Documentation of Crime?   5.1 Potential Effects of a Change in Leader Identity  
+We outline a framework similar to Donohue and Levitt (2001a) that considers the  incentives of three parties relevant to a crime situation: criminals, victims and the  policing authority. First, a potential criminal decides whether to commit a crime  or not.  Next, when a crime occurs, the crime must be reported.  This stage  requires both that the victim comes forward to report the crime and that the police  documents the victim’s report.  Finally, for a crime that is so documented or  reported, the police must decide how much time and effort to devote to  investigating the crime and bringing the criminal to justice.   
+Stage 1:  Crime Occurrence  (Criminals)  
+Stage 2:  Crime Reporting  (Victims)  
+Stage 3:  
+Crime Recording &  Investigation (Police)  
+In what ways does increased female  representation in  local government  affect the behavior of agents at each of these stages above? We examine this  question working backwards, from stage 3 to  stage 1, since change s in behavior of  the police would influence behavior of victims and criminals in the earlier stages.  
+21  
+  
+
+========22========
+
+The presence of women leaders makes it more likely that police are responsive to  crimes against women, i.e. that they record and investigate crimes against women  more often in Stage 3. The presence of female leaders at the local level might also  induce the police to be more sympathetic towards female victims, either because  their attitudes towards women undergo a change after observing female political  leaders,27  or because these local leaders have the ability to highlight poor  behaviour by the police to higher level officials or the local press. We examine  the evidence on police responsiveness to crimes against women in detail in  section 5.4  
+If the police take women’s grievances  more seriously, victims would be  more encouraged to report crimes in stage 2.  Further, the presence of female local  leaders can directly affect crime reporting by women, independent of police  responsiveness, through a “role-model” effect: Having more sympathetic women  village councillors could give female victims greater self-confidence and a lower  tolerance for being badly treated (the reporting  effect). 
+28 
+ We should note that most  victims of physical or sexual violence  do not come fo rward with their  experiences: the National Family Health Survey of 2005-06 (NFHS-3) reports that  66% of women who experienced domestic violence did not tell anyone about such  incidents.29    
+These effects of greater female representation in local government on the  behavior of the police and victims would likely deter potential criminals from  committing crimes in stage 1. This would lead  to a decline in th e actual number of  crimes against women (the deterrence  effect). However, gr eater political power  for women may result in an increase in crimes against them for other reasons. For                                                         
+27 
+ See Beaman et al (2009) for evidence of im proved attitudes towards women in places which  experienced women local leaders.  
+28 
+ Jensen and Oster (2009) document significant changes in women’s autonomy and tolerance for  domestic violence after observing women characters on television.  
+29 
+ This question was not asked in previous rounds of the NFHS, hence we are unable to document  whether the propensity to seek help for domestic violence changes over time.  
+22  
+  
+
+========23========
+
+instance, if men are resentful of being mandated to elect women into leadership  positions, they may commit more crimes against women – either as a way of  simply expressing resentment, or as a calculated strategy to intimidate women  leaders and voters (the retaliation  effect). Alternatively, if more women are  encouraged to work outside the home or undertake more travel following  women’s political representation, then they may be more exposed to potential  criminals as a result (opportunistic crimes effect).   
+In sum, there are several potential channels through which mandated  political representation for women (and minorities) can influence both actual  crimes and reported crimes. First, the presence of female politicians should induce  the police to be more active in investigating crimes against women. Even with no  change in the actual number of crimes committed, documented crimes against  women are likely to increase -- both because of women victims being more likely  to report crimes, and police being more likely to record  such reports. Actual  incidence of crime can decrease in response to changes in police and victims’  behavior (the deterrence  effect).  However, the actual incidence of crimes may  increase if women’s greater participation in public life exposes them to crime  (increased  crime opportunities  effect) or if their political power triggers strong  resentment among men (retaliation  effect). In the following sections, we present  evidence on each of these potential effects. 
+5.2 Are Police More Likely to Investigate Crimes and Make Arrests?  One of the potential channels outlined in  our framework is the higher probability  of punitive action against those who commit crimes against women as a result of  increased female representation. We examine data on the number of arrests and  chargesheeting rates to shed some light on this issue. Our data on police activity  shows that the number of arrests per 1000 people for crimes against women  increases by a nearly 30% after women’s reservation is implemented (Table VI,  
+23  
+  
+
+========24========
+
+column 1). Arrests for rape also show  an increase of 12%, and arrests for  kidnapping of women increase by a statistically significant 18% (columns 2-3).   For all other crimes taken together, the impact is slightly smaller (at 25%) and the  impact on arrests for kidnapping of males is  in fact negative  (Table VI, columns  4-5). We also examine the results for the ratio of arrests to total crimes.  While  there is only a small increase in this ratio for crimes against women when  compared to this ratio for all other crimes, it must be pointed out that the relative  increase in the reporting of crimes against women is much greater.  Thus, it is fair  to conclude that there is no adverse effect on the quantity of police follow-up on  crimes against women, in the post-reform period.   
+Does this increased police arrest activity  come at the cost of the quality of  investigation? We examine the impact of political empowerment of women on  chargesheeting rates i.e. the fraction of cases in which the police report about the  crime is held up by a magistrate and results in a formal chargesheet against the  accused. As shown in columns (8)-(9) of Table VI, political empowerment of  women has no statistically significant effect on chargesheeting rates.30  Hence,  there is no evidence of a decline in the quality of police action with increased  political representation of women either.   
+5.3 Do Local Leaders Affect Women’s Experience with Law Enforcement  Officials?  
+We begin by noting that previous studies have found the lack of documentation of  crimes against women by the police to be a serious problem.  Case studies report  
+                                                       
+30 
+ Chargesheeting rate for crimes against women is  computed as the average of the chargesheeting  rate for the following crime categories: rape, kidnapping of women and girls, dowry deaths,  molestation, sexual harassment, cruelty by husbands or relatives and importation of girls.  These  rates are not separately available for other crime categories, hence we  cannot report the  chargesheeting rate for “all crimes other than those against women”.   
+24  
+  
+
+========25========
+
+instances of the police characterizing an attempt to record a rape as a method to  extort money, refusing to record domestic violence because “the husband has a  right to beat the wife,” and assuming that a missing girl had eloped rather than  been kidnapped (National Commission for Women, 2003). In a study using decoy  crime victims, Banerjee et al (2009) find that only 50% of  sexual harassment  cases and 53% of domestic violence cases  are registered by the police (when a  male relative tries to report it on behalf of a female victim), in contrast to 92% of  break-ins and more than 64%  of motorcycle thefts.   
+These differences can also be observed when comparing data on recorded  crimes with those reported in the India Human Development Survey 2005  (IHDS), which is the first crime victimization survey for India as a whole. For  instance, 3.9% of households in the IHDS report a theft in the past 12 months, and  2.5% of households report being attacked or threatened (Desai et al, 2005).  However, based on the National Crime Records Bureau (NCRB) data, only 0.12%  of all households reported  a theft in 2005, and only 0.2%  of households report any  violent crime.31  Similarly, 12% of households  in the IHDS reported that  unmarried girls were “sometimes” or “often” harassed in their neighborhoods,  compared to only 0.06% of households based on the NCRB data.    
+As discussed earlier, the increased female representation in local  governments may mitigate such lack of documentation of crimes against women  for multiple reasons. When women victims perceive a woman leader as more  sympathetic to their concerns, they may become more self-confident as a result of  seeing other women in political office, hence reducing their tolerance of injustice  and their reluctance to report crimes.32. If the police were expected to be more  
+                                                       
+31 
+ Authors’ calculations from NCRB data, assumi ng an average household size of 5 members.  Unfortunately the lack of any previous victimization survey prevents us from comparing trends in  actual crime over time.  
+32 
+ We note that the presence of women political  representatives does not increase the overall  strength of the police force or the presence of female police officers, which might be an important  
+25  
+  
+
+========26========
+
+responsive to their complaints as a direct  consequence of the  presence of a local  female leader, female victims would feel more confident in voicing their  complaints.   
+Data from the nationwide State of the Nation 2009 survey show that local  leaders are widely perceived to change the degree of responsiveness of the police  (Table VII, Panel A). First, the survey  finds that nearly half the respondents  identify their village council member or president as being the local influential  person they would approach for help, if they had a problem to fix (columns 1 to  4). Second, the presence of a local influential person is believed to greatly  increase the responsiveness of the police to citizen complaints: the perceived  likelihood of the police listening sympathetically to a crime victim, and the  likelihood of follow-up action increase by 10 percentage points (or 63 and 68  percent respectively) if the victim is accompanied by a local influential person  (columns 5-8). A separate government survey of elected women representatives  found that 62% of village-level women leaders had tried to reduce instances of  domestic violence (Government  of India, 2008a, Table 7.20).  
+Further, data from the Millennial Survey show that women display greater  satisfaction in their interactions with the police when they live in villages with a  female council head (Table VII, panel B).33  Women are slightly more likely to  approach the police in such villages (columns 1 and 2). While the sample of  respondents who actually had dealings with the police is relatively small, we do  find that women in villages with female council heads were significantly more  likely to say that the police solved their case (column 3) and significantly less  
+                                                                                                                                                  variable in the victim’s decision to approach the police (results not shown). This is not too  surprising in light of the administrative setting where local councils (village or district) have no  direct jurisdiction over the police in terms of staffing or salaries.  
+33 
+ Since the Millennial Survey is a single cross-section, we cannot estimate the impact of increase  female presence among village council members, but only the effect of reservation for women of  the village council head position.   
+26  
+  
+
+========27========
+
+likely to pay bribes to the police (column 7). They were also somewhat less likely  to say that the police refused to register their complaint (column 5). We should  note that the difference in women’s responses across villages that did and did not  have women council heads was larger than  the difference for men in all these  cases. These results are indicative of a positive change in police attitudes towards  crimes against women, in the presence of women leaders. This evidence is also  consistent with the results on greater  police action after women’s political  representation, as shown in Table VI.  
+5.4 Do Actual Crimes Increase?  
+Given the challenge of separating out actual increases in crime from higher  reporting/recording of crime, we begin by examining categories of crime where  the incidence of underreporting is likely to be the least:  murders and suicides of  women (The reason for this is simply that it is relatively hard to hide a dead  body). If the overall results in Table III were primarily driven by an increase in  actual crimes committed, we may expect to find some effects in these crime  categories as well.   
+We do not find any increase in overall murder rates after women’s  political reservation was implemented (Table VIII, column 1). Zooming on  murders of women, there is also no evidence of an increase following the surge in  female representation in local governments. Since data on number of murders by  gender are available only after 1999, we focus only on the four states that enacted  women’s empowerment after 1999. Though the small sample size means that we  are unlikely to get statistically significant results, it is nevertheless notable that the  point estimate for the effects of female political representation is negative for  murders of women (Table VIII, columns 2-3). We also examined data on murders  where the motive was stated as love affairs or sexual causes as a proxy for  murders of women (on the plausible assumption that most victims of such  
+27  
+  
+
+========28========
+
+murders are likely to be female); data on motives of murders are available for our  entire time period. Again, we find no significant impact of women’s reservation  on the number of such murders or their share in overall murders (Table VIII,  columns 4-5). We also find no evidence of any statistically significant increase in  the incidence of female suicides following women’s greater political role (Table  VIII, columns 6-7).   
+Next, we examine the increased crime opportunities  hypothesis, i.e. the  idea that greater exposure situations or  locations where crime occurs may be  driving the observed increases in crimes against women.  One important source of  such exposure would be women’s labor force participation, which would increase  their interaction with those outside the home.  It also seems plausible that  women’s labor force participation would increase over the post-reform period,  with the opening up of the Indian economy  in the early 1990s -- but we find that  this is not the case. Data from the National Sample Survey (NSS) of India  indicates that the female labor force participation has remained around 33% in  rural areas between 1987-88 and 2004-05; in  urban areas, the female labor force  participation rate increased from 16.2% to 17.8% over the same period.34  This  increase is not correlated with the timing of women’s political representation: we  find that the increase in female labor force participation and the number of years  since the Panchayati Raj  reforms have a correlation coefficient of 0.06.   
+Finally, we assess whether there is any evidence for the retaliation hypothesis. We have already documented little change in murders of women  (Table VIII), but this might be considered a very extreme form of retaliation  against women – just as suicides may be regarded as an extreme response.  Nonetheless, if there was actually an increase in crimes committed against  
+                                                       
+34 
+ These are labor force participa tion rates for the entire population. Labor force participation rates  for those aged 15 and above also show similarly small increases.  
+28  
+  
+
+========29========
+
+women, it would lead to greater curtailment of their freedoms in places with  women leaders.  We do not find any evidence for this.  Based on household level  surveys of over 19,000 respondents across all states of  India (Government of  India, 2008a), a study of women’s role in local governance finds very little  difference across village units represented by women and men in the fraction of  women requiring permission to go outside the home, to attend social events, to  interact with strangers and to send girls to school.35  For instance,  61.5% of women  who are represented by women councilors reported needing permission to go out  of their homes; the corresponding figure for women in areas with male  representatives was 60%. In our district level analysis in Section 6, we also  consider the district characteristics that are likely to be associated with greater  retaliation against women.  Examining the interaction effects of characteristics  such as female literacy and sex ratios with the introduction of political  reservations for women provides further evidence against the retaliation  hypothesis.   
+Finally, we examine whether there is any evidence for the deterrence hypothesis. Here, the fact that we observe an overall increase in documented  crimes against women suggests that any deterrence effect is  outweighed by other  factors, at least in the short run. What about longer-run effects? We ran a  specification where we included the number  of years since the reform and its  squared term as regressors, rather than  a single post-refo rm dummy. We find a  significant negative coefficient on the squared term, suggesting that the rise in the  number of crimes slows down over time.  In fact the total number of crimes  against women starts declining 9.5 years after the reform  is passed. Similarly, the  number of rapes per capita is expected to  decline 20 years after the reform (results  available upon request).  This evidence is consistent with the interpretation that in  
+                                                       
+35 
+ Government of India, 2008a, Table 7.14, page 139.  
+29  
+  
+
+========30========
+
+the long run increased police (and possibly victim) responsiveness to women  leaders deters potential criminals against women, as outlined in section 5.1. 
+6. Women’s Political Representation: At What Level Does It Matter?   Beginning with Hirschman (1970), social  scientists have recognized the  importance of voice for the survival and success of any organization, be it a  country or a firm. However, we know very little about the specific forms of  representation that maximize effective voice. For instance, in our context, are the  benefits to the minority community maximized by being represented in more  influential positions at higher levels of governance, or by large scale  representation at the lower level? We are able to address this question by using  the fact that, in addition to village presidents, as well as village and district  council member positions, one-third of district council chairperson positions in  India were also reserved for women, by rotation across districts. While all districts  within a state have an identical (one-third) fraction of their council membership  reserved for women, they do differ in whether the chairperson position is reserved  for women. A priori, it is not obvious whether the impact of women district  chairpersons will be larger or smaller than  that of female district council members  and sub-district level representatives. If district chairpersons have a greater degree  of influence with local police, their impact on crime may be larger, while if the  greater proximity of village level leaders to both the police and the victims is a  major factor, then having a female district chairperson might not have much  additional impact.36    
+                                                       
+36 
+ The district is the lowest level at  which the NCRB reports crime statistics.  
+30  
+  
+
+========31========
+
+We collected data on the reservation status of the district chairperson in 10  out of our 17 major states.37  We run the following specification, similar to the  state-level regression in (1):  
+(2)                ln (Cdt/Pdt  ) = a 
+d 
+ + b 
+t 
+ + gChairPerson 
+dt 
+ + d’X 
+dt 
+ + fD 
+st 
+ + e 
+dt 
+         
+where the dependent variable is the number of crimes per capita in the district (in  logs). The key independent variable is the dummy variable ChairPersondt  which  equals 1 if the district chairperson post in district d  in year  t  is reserved for  women, and zero otherwise.  The specification includes district and time fixed  effects, district level controls for female-male population ratios, literacy rates and  urbanization, as well as a control for the timing of overall Panchayati Raj  reform  implementation at the state level (Dst). All standard errors are clustered at the  district level.  
+We find that, in any given year, the state-level implementation of local  council reservations has a much larger  effect on documented crimes against  women, than having the district chairperson post reserved for women (Table IX,  Panel A, column 1).38  Having a woman district chai rperson increases documented  crimes against women in the district by 4.6%; this estimate is statistically  insignificant and considerably smaller in  magnitude than the coefficient for  implementing broad-based representation (0.168). This result is important,  because it shows that when it comes to giving voice (in this case, to female crime  victims), political representatives who have greater proximity to those whose                                                         
+37 
+ These states are Andhra Pradesh, Bihar, Gujara t, Haryana, Kerala, Maharashtra, Orissa, Punjab,  Rajasthan and West Bengal. The data were obtained by contacting the State Election Commissions  or the Ministry of Rural Development or Ministry of Panchayati Raj  of individual states.  38 
+ Nevertheless, the presence of a woman district chairperson does have some long-term effect.   Each additional year a woman has been in the district chairperson position increases the number of  reported crimes by 3.4%, which is statistically  significant at the 5% level. The results are  qualitatively similar if we use a dummy for whether the district ever  had a woman chairperson as  the key explanatory variable (results available upon request).  
+31  
+  
+
+========32========
+
+voice needs to be heard is more important than their presence in higher level  leadership positions.39  It is also consistent with  the previously reported evidence  that it is the village level representative who is most commonly sought for help on  important matters by villagers, over any other locally influential person including  higher level political officials (Table VII, Panel A).  
+We then explore whether the effect of  a district chairperson varies across  districts where women are more/less empowered.  We use two (relatively crude)  proxies for status of women – the population ratio of women to men and the  literacy rate of women in a district. We interact ChairPersondt with these two  proxies; the results are shown in columns 2 and 3 of Table IX, Panel A. In  districts where women are more empowered, having a woman district chairperson  is associated with a larger number of  documented crimes against women. The  magnitude of the woman chairperson effect in more progressive districts is  
+considerable: Using these coefficients, we  compute that for a district in the 75 
+th 
+percentile of the female/male ratio or the female literacy rate in our data, the  marginal impact of having a woman district  chairperson raises the reported crimes  against women by about 8%.  Resistance to, and hence retaliation against, a  greater public role for women is more likely to happen in places where women’s  socioeconomic status is relatively low. These findings therefore lend further  support to our hypothesis that the observed increase in crime is driven by greater  reporting, rather than the alternative retaliation hypothesis.  They also show that  district chairpersons have a bigger impact on crime outcomes against women  when women are more empowered -- although the magnitude of their impact is  
+                                                       
+39 
+ Our findings here also have policy relevance in the context of domestic violence cases in  developed countries, where failure of female victims to bring charges against perpetrators is a  considerable problem (see for instance, New York Times, 2011). Iyengar (2009) also finds that  high-level policy changes, such  as mandatory arrest laws,  reduce reporting of domestic violence,  with adverse consequences on the rate of incidence.  
+32  
+  
+
+========33========
+
+still much smaller than that of more proximate, lower level leaders and council  members.  
+Finally, we extend our analysis to consider the effects of having women  members in the state legislative assembly (MLAs). We should note that women  are significantly under-represented at these levels of government, where no  mandated representation rules are in place. In our data set, only 5.5% of the state  legislators in any given year are female. We run a regression specification similar  to (1), except that the independent variable of interest  is the fraction of female  MLAs in power at the state level (Table  IX, Panel B, column  1).  Since this  fraction is potentially endogeneous, we instrument for the fraction of women  MLAs using the fraction of closely contested elections (with winning margin less  than 5%) where the winner was female.40  We should note that the OLS and IV  coefficients show a positive relationship between women’s representation and  reported crime, though none of these coefficients are statistically  significant at the  5% level (Table IX, Panel B, Column 2).   
+7. Conclusions   
+This paper demonstrates that political voice is an important determinant of access  to justice for socially disadvantaged  groups. We provide one of the first  systematic analyses of the effects of mandated political representation for women  and low caste groups on crime outcomes against them, using data from the  Panchayati Raj  experiment in India. Furthermor e, we shed light on the relative  effectiveness of alternative forms of political representation for minority  empowerment.   
+                                                       
+40 
+ A similar instrument is used by Clots-Figueras (2011) in her analysis of the effects of women  legislators on public goods outcomes.  
+33  
+  
+
+========34========
+
+We find that having female political representation at the local  government level induces strong positive and significant effects on reporting  of  crimes by women. It also induces greater responsiveness of law enforcement  officials to crimes against women, as measured by the number of arrests as well  as the quality of women’s interactions with police. We find a similar result for the  case of SCs: despite already enjoying mandated representation at higher levels of  government, we find that representation of SCs in local councils leads to  increased reporting of crimes where the victims are specifically targeted because  of their caste. Most of the effects are driven by the increase in broad-based  representation of women in local government councils at  the district and village  level, rather than women in district  leadership positions. Our results are  particularly relevant in the context of the proposed bill to grant one-third  representation for women in India’s state and national legislatures.   
+Crime against women and under-reporting of such crime is a problem in  both developing and developed countries. Encouraging victims to report such  crimes is a crucial first step, both in understanding the magnitude of the problem,  and in ensuring justice. Our work shows the key role that local women  representatives can play in facilitating this  process. Our insights on the identity of  local leaders in ensuring access to justice are equally valuable for other racial,  religious or ethnic minorities.  
+References  
+Aizer, Anna. 2010. “The Gender Wage Gap and Domestic Violence.” American  
+Economic Review  100(4): 1847-1859.  
+Aizer, Anna and Pedro Dal Bo. 2009. “Love, hate and murder: Commitment  
+devices in violent relationships.” Journal of Public Economics  93: 412- 
+428.  
+34  
+  
+
+========35========
+
+Banerjee, Abhijit, Raghabendra Chattopadhyay, Esther Duflo and Daniel  
+Keniston. 2009. “Rajasthan Police Performance and Public Perceptions.”  
+Poverty Action Lab Report.  
+http://www.povertyactionlab.org/sites/default/files/publications/118_Duflo 
+_Rajasthan_Police_Performance.pdf.  
+Banerjee, Abhijit, and Rohini Somanathan. 2007. “The Political Economy of  
+Public Goods: Some Evidence from India.” Journal of Development  
+Economics  82 (2): 287–314.  
+Bardhan, Pranab, Dilip Mookherjee and Monica Torrado. 2010. “Impact of  
+Political Reservations in West Bengal Local Governments on Anti- 
+Poverty Targeting.” Journal of Globalization and Development  1(1):  
+Article 5.  
+Beaman, Lori, Raghabendra Chattopadhyay, Esther Duflo, Rohini Pande and  
+Petia Topalova. 2009. “Powerful Women: Does Exposure Reduce Bias?”  
+Quarterly Journal of Economics 124(4): 1497-1540.  
+Beaman, Lori, Esther Duflo, Rohini Pande and Petia Topalova. 2010. “Political  
+Reservation and Substantive Representation: Evidence from Indian  
+Village Councils” India Policy Forum  forthcoming.  
+Besley, Tim, Rohini Pande, and Vijayendra Rao. 2007. “Just Rewards? Local  
+Politics and Public Resource Allocation in South India.” mimeo, Harvard  
+University.  
+Bloch, Francis and Vijayendra Rao. 2002. “Terror as a Bargaining Instrument: A  
+Case Study of Dowry Violence in Rural India.” American Economic  
+Review  92(4): 1029-1043.  
+Centre for the Study of Developing Societies (CSDS). 2009. State of the Nation  
+Survey Wave VII. CSDS, New Delhi.  
+Chamarbagwala, Rubiana and Gunjan Sharma, 2008. “Crime and Inequality in  
+India.” Indiana University Working Paper.  
+35  
+  
+
+========36========
+
+Chattopadhyay, Raghabendra and Esther Duflo. 2004. “Women as Policy Makers:  
+Evidence from a Randomized Policy Experiment in India.” Econometrica 
+72(5): 1409-1443.  
+Clots-Figueras, Irma. 2011. “Women in Politics: Evidence from the Indian  
+States.” Journal of Public Economics 95: 664-690.  
+Demombynes, Gabriel and Berk Ozler. 2005. “Crime and Local  Inequality in  
+South Africa.” Journal of Development Economics, 76: 265-292.  Desai, Sonalde, Reeve Vanneman, and National Council of Applied Economic  
+Research, New Delhi. 2005. India Human Development Survey (IHDS),  
+[Computer file]. ICPSR22626-v4. Ann Arbor, MI:Inter-university  
+Consortium for Political and Social Research [distributor], 2009-02-10.  
+doi:10.3886/ICPSR22626  
+Di Tella, Rafael and Ernest Schargrodsky. 2004. “Do Police Reduce Crime?  
+Estimates Using the Allocation of Police Forces after a Terrorist Attack.”  
+American Economic Review  94(1): 115-33.  
+Donohue III, John and Steven Levitt. 2001a. “The Impact of Race on Policing and  
+Arrests.” Journal of Law and Economics  44(2): 367-394.    
+Donohue III, John and Steven Levitt. 2001b. “The Impact of Legalized Abortion  
+on Crime.” Quarterly Journal of Economics  116(2): 379-420.  
+Draca, Mirko, Stephen Machin and Robert Witt. 2011. “Panic on the Streets of  
+London: Crime, Police and the July 2005 Terror Attacks.” American  
+Economic Review, forthcoming.  
+Dunning, Thad and Janhavi Nilekani. 2010. “Caste, Political Parties and  
+Distribution in Indian Village Councils.” Working Paper, Yale University.  Edlund, Lena, Hongbin Li, Junjian Yi and Junsen Zhang. 2007. “Sex Ratios and  
+Crime: Evidence from China’s One-Child Policy.” IZA Discussion Paper  
+3214.  
+36  
+  
+
+========37========
+
+Fafchamps, Marcel and Bart Minten. 2006. “Crime, Transitory Poverty and  
+Isolation: Evidence from Madagascar.” Economic Development and  
+Cultural Change  54: 579-603.  
+Ghatak, Maitreya and Ghatak, Maitreesh. 2002.  “Recent Reforms in the  
+Panchayat System in West Bengal: Toward Greater Participatory  
+Governance?” Economic and Political Weekly of India 37(1).  
+Government of India. 2008a. Study on Elected Women Representatives in  
+Panchayati Raj Institutions. Ministry of Panchayati Raj, New Delhi.   Government of India. 2008b. The State of Panchayats, 2007-08: An Independent  
+Assessment.  Ministry of Panchayati Raj,  Government of India, New Delhi  
+(www.panchayat.gov.in, accessed February 2009).  
+Hirschman, Albert.  1970.  Exit, Voice, and Loyalty: Responses to Decline in  
+Firms, Organizations, and States. Cambridge, MA: Harvard University  
+Press.  
+Institute of Social Sciences. 1994. Status of Panchayati Raj in the States of India,  
+1994.  Institute of Social Sciences, New Delhi.  
+Institute of Social Sciences. 2000. Status of Panchayati Raj in the States and  
+Union Territories of India, 2000.  Institute of Social Sciences, New Delhi.  Iyengar, Radha. 2009. “Does the Certainty of Arrest Reduce Domestic Violence?  
+Evidence from Mandatory and Recommended Arrest Laws.” Journal of  
+Public Economics 93(1):  85-93.   
+Jensen, Robert and Emily Oster. 2009. “The Power of TV: Cable Television and  
+Women's Status in India.” Quarterly Journal of Economics  124 (3): 1057- 
+1094.  
+La Ferrara, Eliana, Alberto Chong and Suzanne Duryea. 2008. “Soap Operas and  
+Fertility: Evidence from Brazil.” CEPR Discussion Paper 6785.  
+Kelly, Morgan. 2000. “Inequality and Crime.” Review of Economics and Statistics 
+82(4): 530-539.  
+37  
+  
+
+========38========
+
+Krishnan, Nandini. 2007. “Political Reservations and Rural Public Good  
+Provision in India.” Working Paper, Boston University, Boston.   Levitt, Steven. 1997. “Using Electoral Cycles in Police Hiring to Estimate the  
+effect of Police on Crime.” American Economic Review, 87(3): 270-290.  Miguel, Edward. 2005.  “Poverty and Witch Killing.” Review of Economic  
+Studies 72(4): 1153-1172.  
+National Commission for Women. 2003. “Report of the Workshop on Gender  
+Justice: Forging Partnership with Law Enforcement Agencies.” National  
+Commission for Women, New Delhi.  
+Norris, Pippa. 2001. “Breaking the Barriers: Positive Discrimination Policies for  
+Women.” In Jytte Klaussen and Charles S. Maier, eds., Has Liberalism  
+Failed Women? Assuring Equal Representation in Europe and the United  
+States, New York, NY: Palgrave.   
+New York Times. 2011. “Abuse Suspects, Your Calls Are Taped. Speak Up.” Feb  
+25.  http://www.nytimes.com/2011/02/26/nyregion/26tapes.html?  
+_r=2&sq=domestic%20violence,%20new%20york&st=cse&scp=3&page 
+wanted=print, accessed March 2011.  
+Pande, Rohini. 2003. “Can Mandated Political Representation Provide  
+Disadvantaged Minorities Policy Influence? Theory and Evidence from  
+India.” American Economic Review 93(4): 1132-1151.   
+Pande, Rohini and Deanna Ford. 2011. “Gender Quotas and Female Leadership:  
+A Review,” Background paper for the World Development Report on  
+Gender.    
+Powley, Elizabeth. 2007. “Rwanda: The Impact of women Legislators on Policy  
+Outcomes Affecting Children and Families.” Background Paper, State of  
+the World’s Children, UNICEF.  
+Prasad, Kislaya. 2008. “Economic Liberalization and Violent Crime in India:  
+1985-2005.” University of Maryland Working Paper.  
+38  
+  
+
+========39========
+
+Rajaraman, Indira and Manish Gupta.  2010. “Public Expenditure Choices and  
+Gender Quotas.” Working Paper, Indian  Statistical Institute, New Delhi.  Sekri, Sheetal and Adam Storeygard. 2010. “The Impact of Climate Variability on  
+Vulnerable Populations: Evidence on Crimes against Women and  
+Disadvantaged Minorities in India.” Working paper, University of  
+Virginia.  
+Soares, Rodrigo. 2004. “Development, Crime and Punishment: Accounting for  
+the International Differences in Crime Rates.” Journal of Development  
+Economics, 73(1): 155-184.  
+Sotomayor, Sonia. 2002. “Raising the Bar:  Latino and Latina Presence in the  
+Judiciary and the Struggle for Representation.” Berkeley La Raza Law  
+Journal, Spring symposium issue. 
+Stevenson, Betsey and Justin Wolfers. 2006. “Bargaining in the Shadow of the  
+Law: Divorce Laws and Family Distress.” Quarterly Journal of  
+Economics, 121(1): 267-288.  
+U.S. Kerner Commission. 1968. United States Kerner Commission Report. New  
+York: Dutton.  
+Washington, Ebonya. 2008. “Female Socialization: How Daughters Affect Their  
+Legislator Fathers' Voting on Women's Issues.” American Economic  
+Review 98(1): 311-332.  
+   
+39  
+  
+
+========40========
+
+Appendix 1: Data Sources  
+Crimes, arrests, chargesheeting rates,  police strength: Annual issues of  Crime in  
+India, published by the National Crime Records Bureau, New Delhi.  Suicides: Annual issues of Accidental Deaths and  Suicides in India , published by  
+the National Crime Records Bureau, New Delhi.  
+Population, female-male ratio, literacy rates, urbanization: Census of India 1981,  
+1991, 2001. Values for intervening years by interpolation.  
+Real per capita GDP at state level: Central Statistical Organization, Ministry of  
+Statistics and Programme Implementation, Government of India.  Dates of local elections: Institute of Social Sciences (1994, 2000); Government of  
+India, 2008b.  
+Woman Chief Minister  dummy: State government webs ites of respective states  Survey data from State of the Nation Wave VII, January 2009: State-level means  
+obtained from Centre for Developing Societies, New Delhi.  
+Survey on interactions with the police: Millennial Survey conducted by the Public  
+Affairs Centre, Bangalore, India.  
+Dummy for whether District Chairperson post is reserved for women: Obtained  
+from State Election Commissions/Ministry of Panchayati Raj/Ministry of  
+Rural Development for each state.  
+Presence of women in state legislatures: Election reports from Election  
+Commission of India.  
+40  
+  
+
+========41========
+
+Table I Summary Statistics 
+Panel A: Crime data #obs Mean S.D Min Max Total crimes against women per 1000 women (1985-2007) 391 0.173 0.137 0.001 0.570 Rapes per 1000 women (1985-2007) 391 0.031 0.020 0.001 0.102 Kidnapping of women and girls per 1000 women (1988-2007) 340 0.038 0.031 0.005 0.149 Kidnapping of men and boys per 1000 men (1988-2007) 340 0.010 0.008 0.000 0.045 Murders per 1000 pop (1985-2007) 391 0.035 0.018 0.011 0.150 Crimes against property per 1000 pop (1985-2007) 391 0.446 0.191 0.099 1.087 Crimes against public order per 1000 pop (1985-2007) 391 0.110 0.086 0.000 0.449 Economic crimes per 1000 pop (1985-2007) 391 0.059 0.033 0.019 0.200 Total crimes against SCs per 1000 SC pop (1992-2007) 175 0.171 0.175 0.000 0.766 Civil rights violations of SC per 1000 SC pop (1992-2007) 175 0.008 0.013 0.000 0.080 Atrocities against SCs per 1000 SC pop (1992-2007) 175 0.052 0.067 0.000 0.320 Total crimes against STs per 1000 ST pop (1992-2007) 145 0.084 0.126 0.000 1.031 Civil rights violations of ST per 1000 ST pop (1992-2007) 145 0.003 0.010 0.000 0.087 Atrocities against STs per 1000 ST pop (1992-2007) 145 0.021 0.044 0.000 0.279 
+Panel B: Police activity 
+Arrests for crimes against women per 1000 pop (1985-2007) 340 0.351 0.220 0.020 0.929 Arrests for rape per 1000 pop (1988-2007) 340 0.020 0.012 0.004 0.062 Arrests for kidnapping of women per 1000 pop (1988-2007) 340 0.020 0.016 0.000 0.101 Arrests for crimes excluding crimes against women (1988-2007) 340 0.006 0.005 0.001 0.027 Arrests for kidnapping of men per 1000 pop (1988-2007) 340 0.008 0.007 0.000 0.041 Arrests per crime (crimes against women; 1988-2007) 340 1.545 0.388 0.729 2.659 Arrests per crime (crimes excluding crimes against women; 1988-2007) 340 1.491 1.333 0.369 20.042 Chargesheeting rate for crimes against women (1991-2007; %) 289 89.60 7.75 60.50 98.30 Chargesheeting rate for all crimes (1991-2007; %) 289 76.66 10.90 41.50 94.50 Police strength per 1000 population 391 1.541 0.885 0.084 5.923 Fraction of female police officers (1988-2007) 337 0.022 0.020 0.000 0.124 
+Panel C: Demographic and economic control variables (1985-2007) 
+Female-male ratio 391 0.937 0.045 0.859 1.070 Proportion of rural population 391 0.748 0.093 0.510 0.919 Proportion literate 391 0.513 0.121 0.273 0.811 Proportion with farming as main activity 391 0.178 0.054 0.021 0.294 Woman Chief Minister (dummy) 391 0.079 0.271 0.000 1.000 Per capita state GDP ('000 rupees) 391 1.674 0.762 0.000 4.239 
+
+========42========
+
+Table II 
+Dates of Panchayati Raj Implementation Across States of India 
+Year of first election  
+with reservation for  
+women Number of states 
+1987 1 
+1991 1 
+1992 2 
+1993 1 
+1994 2 
+1995 5 
+1996 1 
+2001 2 
+2002 1 
+2006 1 
+Total 
+17 
+
+========43========
+
+Table III 
+Women's Political Representation and Crimes against Women 
+No  controls 
+Women's reservation implemented 
+police  strength 
+female  literacy 
+Control for  Control for state- 
+state- specific time  specific  trends + other  time trends controls 
+Total crimes against women per 1000 women 
+Demographic,  Control for  Control for  
+economic  and  
+political controls 
+(1) (2) (3) (4) (5) (6) 
+0.365 * 0.365 ** 0.376 ** 0.375 ** 0.225 ** 0.229 ** 
+[0.190] [0.149] [0.150] [0.147] [0.099] [0.084] R-squared 0.85 0.9 0.9 0.9 0.95 0.95 Observations 391 391 391 391 391 391 
+Rapes per 1000 women 
+0.201 ** 0.199 ** 0.206 ** 0.203 ** 0.147 * 0.106 
+[0.087] [0.076] [0.083] [0.081] [0.072] [0.078] R-squared 0.81 0.83 0.83 0.84 0.91 0.92 Observations 391 391 391 391 391 391 
+Kidnapping of women & girls per 1000 women 
+0.160 ** 0.133 ** 0.125 ** 0.125 ** 0.135 ** 0.115 ** 
+[0.056] [0.049] [0.047] [0.047] [0.059] [0.053] R-squared 0.91 0.92 0.92 0.92 0.96 0.96 Observations 340 340 340 340 340 340 
+Demographic & economic controls Y Y Y Y Control for woman CM Y Y Y Y Control for police strength Y Y Y 
+All crime variables are in logs. All regressions include state and year fixed effects. Standard errors in brackets, corrected for clustering at state-level. 
+ *, ** and *** indicate significant at 10%, 5% and 1% respectively. 
+Regression for 17 major states and years 1985-2007. 
+Each cell represents the coefficient on the post-reform dummy for the outcome variables with appropriate controls. Post-reform dummy equals 1 for years after the first local government elections  
+with reservations for women. 
+Demographic & economic controls include literacy, urbanization, female-male ratio, % population in farming and  
+real per capita state domestic product.  See Appendix 1 for crime category definitions. 
+
+========44========
+
+Table IV 
+Women's Political Representation and Crimes not Targeted Towards Women 
+Kidnapping of men & boys per 1000 men 
+Women's reservation implemented 
+Demographic,  
+economic  and  Control for  No controls political controls police strength 
+(1) (2) (3) 
+0.005 -0.003 -0.03 [0.135] [0.105] [0.113] 
+R-squared 0.66 0.68 0.69 Observations 330 330 330 
+Crimes against property per 1000 pop 
+0.073 0.025 0.026 [0.073] [0.051] [0.050] 
+R-squared 0.82 0.86 0.86 Observations 391 391 391 
+Crimes against public order per 1000 pop 
+0.193 ** 0.124 0.116 [0.085] [0.075] [0.077] 
+R-squared 0.89 0.92 0.92 Observations 391 391 391 
+Economic crimes per 1000 pop 
+0.122 0.104 0.103 [0.075] [0.062] [0.062] 
+R-squared 0.7 0.71 0.71 Observations 391 391 391 
+Demographic & economic controls Y Y Control for woman CM Y Y Control for police strength Y 
+All crime variables are in logs. All regressions include state and year fixed effects. Standard errors in brackets, corrected for clustering at state-level. 
+ *, ** and *** indicate significant at 10%, 5% and 1% respectively. 
+Regression for 17 major states and years 1985-2007. 
+Each cell represents the coefficient on the post-reform dummy for the outcome variables with appropriate controls. Post-reform dummy equals 1 for years after the first local government elections  
+with reservations for women. 
+Demographic & economic controls include literacy, urbanization, female-male ratio, % population  in farming and real per capita state domestic product. 
+See Appendix 1 for crime category definitions. 
+
+========45========
+
+Table V 
+SC/ST Political Representation and Crimes Against SC/ST 
+Crimes against SC Crimes against ST 
+Demographic,  Demographic,  
+economic  and  Control for  economic  and  Control  
+No  political  police  No  political  for police  
+controls controls strength controls controls strength 
+(1) (2) (3) (4) (5) (6) Total crimes against SC/ST  0.066 0.377 0.402 * 0.153 0.141 0.144 per 1000 SC/ST pop [0.440] [0.253] [0.213] [0.307] [0.333] [0.332] R-squared 0.81 0.86 0.87 0.53 0.61 0.61 Observations 168 168 168 134 134 134 
+Murders of SC/ST 0.209 0.262 0.306 0.625 0.573 0.583 per 1000 SC/ST pop [0.186] [0.222] [0.241] [0.596] [0.426] [0.434] R-squared 0.78 0.81 0.82 0.54 0.61 0.62 Observations 146 146 146 103 103 103 
+Rapes of SC/ST 0.148 0.141 0.141 0.004 -0.252 -0.237 per 1000 SC/ST pop [0.115] [0.160] [0.160] [0.494] [0.447] [0.446] R-squared 0.79 0.83 0.83 0.68 0.74 0.74 Observations 157 157 157 112 112 112 
+Atrocities against SC/ST  0.841 ** 0.991 *** 0.991 *** 0.086 0.027 -0.02 per 1000 SC/ST pop [0.328] [0.310] [0.313] [0.365] [0.565] [0.598] R-squared 0.72 0.8 0.8 0.44 0.6 0.62 Observations 127 127 127 104 104 104 
+Civil Rights violations  1.134 ** 1.420 *** 1.410 ** 0.037 0.235 0.183 per 1000 SC/ST pop [0.366] [0.392] [0.449] [0.941] [0.695] [0.772] R-squared 0.71 0.79 0.8 0.75 0.9 0.9 Observations 132 132 132 64 64 64 
+Demographic & economic controls Y Y Y Y Control for woman CM Y Y Y Y Control for police strength Y Y 
+All crime variables are in logs. All regressions include state and year fixed effects. 
+Standard errors in brackets, corrected for clustering at state-level. 
+Regression for 11 major states and years 1992-2007. 
+Demographic & economic controls include literacy, urbanization, female-male ratio, % population in farming and real per capita state domestic product. 
+ *, ** and *** indicate significant at 10%, 5% and 1% respectively. 
+
+========46========
+
+Table VI 
+Women's Political Representation and Police Activity 
+Women's Reservation Implemented 
+Log (Arrests per 1000 population) Arrests per crime Chargesheeting rate 
+All crimes  All crimes  
+Crimes  other than  Crimes  other than  Crimes  against  Kidnapping of  against  Kidnapping  against  against  against  All  women Rape women women of men women women women crimes (1) (2) (3) (4) (5) (6) (7) (8) (9) 0.296* 0.116 0.175 *** 0.251 * -0.062 0.029 0.206 0.345 -0.216 [0.153] [0.076] [0.060] [0.120] [0.109] [0.066] [0.201] [0.979] [1.864] 
+R-squared 0.88 0.85 0.87 0.78 0.73 0.82 0.22 0.83 0.87 Observations 340 340 323 340 312 340 340 289 289 
+Demographic & economic controls Y Y Y Y Y Y Y Y Y Control for woman CM Y Y Y Y Y Y Y Y Y Control for police strength Y Y Y Y Y Y Y Y Y 
+Chargesheeting rates in percentages. Chargesheeting rate is the percentage of arrests which are upheld by a magistrate. All regressions include state and year fixed effects. 
+Standard errors in brackets, corrected for clustering at state-level. 
+Regression for 17 major states and years 1988-2007; chargesheeting data is from 1991-2007. 
+Demographic & economic controls include literacy, urbanization, female-male ratio, % population in farming and real per capita state domestic product. 
+Each cell represents the coefficient on the post-reform dummy for the outcome variables with appropriate controls. Post-reform dummy equals 1 for years after the first local government elections with reservations for women.  *, ** and *** indicate significant at 10%, 5% and 1% respectively. 
+
+========47========
+
+Table VII 
+How Do Local Leaders Affect Interactions with Law Enforcement Officials? 
+Panel A: Perceptions of Local Leader Impact 
+If you ever have difficulty in getting an important work done,  
+whom will you first think of approaching for help? 
+Village council  member or  
+president 
+Local  politician 
+Government  
+official 
+Others/Don’t  
+know 
+In a case of theft, do you  think the police will listen  
+sympathetically 
+If victim goes  
+with a local  If victim  influential  goes alone person 
+In a case of theft, do you think  
+the police will take  
+appropriate action 
+If victim goes  If victim  with a local  goes alone influential person 
+(1) (2) (4) (5) (6) (7) (8)(3) 
+Fraction responding "Yes" 
+0.48 0.16 0.14 0.22 0.15 0.25 0.14 0.24 
+Individual level responses from the State of the Nation Survey, January 2009.  Survey data covers 14404 respondents from 17 major states. 
+"Others" in column (4) include state legislators, caste leaders, religious leaders and elders outside your family. Don't know responses coded as "no" for columns (5)-(8). The difference between column (5) and (6) is statistically significant at the 1% level; similarly for the difference between columns (7) and (8). 
+Panel B: Women's Political Representation and Women's Interactions with Police 
+Approached the police in last  
+5 years 
+Police acted efficiently and  
+the case was solved 
+Police did not register the  
+complaint Paid Bribe to Police 
+Village council head position reserved  for women in 2000 
+Female Male Female Male Female Male Female Male (1) (2) (3) (4) (5) (6) (7) (8) 0.024 0.017 0.120 * -0.039 -0.023 0.07 -0.356 * 0.006 [0.023] [0.013] [0.069] [0.026] [0.087] [0.045] [0.211] [0.051] 
+Observations 1514 9282 132 900 132 900 49 433 R-squared 0.07 0.03 0.23 0.07 0.29 0.13 0.54 0.11 
+Individual level responses from the Millenial Survey 
+Standard errors in brackets, clustered at the Gram Panchayat (village council) level.  All regressions control for state fixed effects, village class dummies,  
+and individual characteristics (religion, caste, education and occupation). Columns (3)-(8) only for those who report having some interaction with the police.  *, ** and *** indicate significant at 10%, 5% and 1% respectively. 
+
+========48========
+
+Table VIII 
+Women's Political Representation and Crimes where Reporting Bias is Likely to be Least 
+Women's Reservation Implemented 
+Share of murders  
+Log (murders  Log (murders of  Log (murders of  Log (murders due  attributed to sexual  Log (suicides of  Log (suicides  per 1000  women per  men per 1000  to sexual affairs  affairs/dowry  women per 1000  of men per  population) 1000 women) men) per 1000 women) reasons women) 1000 men) 
+(1) (2) (3) (4) (5) (6) (7) 
+-0.148 -0.068 0.195 0.089 0.01 0.055 0.069 
+[0.105] [0.175] [0.125] [0.089] [0.008] [0.070] [0.054] 
+Observations 391 32 32 R-squared 0.76 0.78 0.81 
+315 0.89 
+320 390 390 0.81 0.96 0.97 
+State & year fixed effects Y Y Y Y Y Y Y Demographic & economic controls Y Y Y Y Y Control for woman CM Y Y Y Y Y Control for police strength Y Y Y Y Y 
+Notes: Regressions in (2) and (3) contain data from 1999-2007, and are restricted to the four states which implemented women's political reservations after 1999. All other columns include 17 major states and the period 1985-2007. Standard errors in brackets, corrected for clustering at state-level. 
+ *, ** and *** indicate significant at 10%, 5% and 1% respectively. 
+Each cell represents the coefficient on the post-reform dummy for the outcome variables with 
+appropriate controls. Post-reform dummy equals 1 for years after the first local government elections  
+with reservations for women. 
+Demographic & economic controls include literacy, urbanization, female-male ratio, % population  
+in farming and real per capita state domestic product. 
+
+========49========
+
+Table IX 
+The Effect of Women's Political Representation at Higher Levels of Office 
+Panel A: The Impact of Women District Chairpersons 
+Log (Crimes against women per 1000 women) 
+(1) (2) (3) 
+District Chairperson reserved for women 0.046 0.019 -0.008 
+[0.030] [0.030] [0.032] 
+District Chairperson reserved for women *Female/Male ratio 2.206*** 
+[0.541] 
+District Chairperson reserved for women *Female literacy 0.702*** 
+[0.179] 
+Women's reservation implemented at state level 0.168** 0.188*** 0.197*** 
+[0.073] [0.067] [0.068] 
+Observations 3943 3943 3943 R-squared 0.86 0.87 0.87 District and year FE Y Y Y Demographic controls Y Y Y 
+Regressions are for 188 districts in 10 major states and years 1987-2007. Demographic controls include female  literacy, urbanization and female-male ratio. Standard errors in brackets, clustered at district-level. *, ** and ***  indicate significant at 10%, 5% and 1% respectively. Female/Male ratio and Female literacy variables are demeaned in  
+columns 2 and 3 respectively. 
+Panel B: The Impact of Women in State Legislatures 
+Log (Crimes against women per 1000 women) 
+Proportion of women legislators 
+OLS IV 
+(1) (2) 
+2.809 5.049 * 
+[1.935] [2.859] 
+R-squared 0.89 0.89 Observations 391 391 
+Log (Rapes per 1000 women) 
+1.123 0.93 [1.215] [1.700] 
+R-squared 0.83 0.83 Observations 391 391 
+Log (Kidnapping of women & girls per 1000 women) 
+1.199 1.23 [0.994] [1.982] 
+R-squared 0.92 0.92 Observations 340 340 
+State & year FE Y Y Demographic & economic controls Y Y 
+Control for woman CM & police strength 
+YY 
+Regressions are for 17 major states and years 1985-2007. Standard errors in brackets, clustered at the state-level. *, **  and *** indicate significant at 10%, 5% and 1% respectively. Demographic controls include female literacy,  urbanization and female-male ratio; economic controls include % population in farming and real per capita state  
+domestic product. 
+
+========50========
+
+Figure I 
+Nationwide Trends in Selected Crime Categories 
+ 5.00 
+ 14.00 
+ 4.50 
+ 12.00 
+ 4.00 
+ 3.50 
+ 10.00 
+ 3.00 
+ 8.00 
+ 2.50 
+ 2.00 
+ 6.00 
+ 1.50 
+ 4.00 
+ 1.00 
+ 0.50 
+ 2.00 
+ ‐ 
+ ‐ 
+1985 1990 1995 2000 2005 
+Rapes per 100,000 pop 
+Murders per 100,000 pop 
+Riots per 100,000 pop (right scale) 
+Figure II 
+Year-by-year Effects of Women's Empowerment 
+Total crimes against women per 1000 women 
+1.2 
+1 
+0.8 
+0.6 
+0.4 
+0.2 
+0 
+‐5 
+‐4 
+‐3 
+‐2 
+‐10123455+ Years since women's representation 
+Total crimes against women per 1000 women 
+Notes: Each point on the graph represents the impact of women's representation on total crimes against women after a given  number of years. The zero point on the X-axis represents the year of the reform; the dates of reform vary across states as  documented in Table 2. 
+
+========51========
+

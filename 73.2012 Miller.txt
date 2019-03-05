@@ -1,0 +1,718 @@
+January2012 
+No.73 
+Borrowing from thy neighbour: a European 
+perspective on sovereign debt 
+Marcus Miller, Neil Rankin and Lei Zhang  University of Warwick and University of York 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Borrowing from thy neighbour: a European 
+perspective on sovereign debt 
+Marcus Millery, Neil Rankinzand Lei Zhangx 
+November 2011 
+Abstract 
+European capital markets show increasing concern about the ex- tent of sovereign debts and their sustainability. Here we explore some insights that the Overlapping Generations (OLG) framework has to o on such issues. The OLG framework implies, for example, that there is a limit to the amount of debt that may be sustained in a closed economy | with high debt raising interest rates and crowd- ing out capital formation. But capital market integration with less indebted partners allows for a fall in interest rates as a result of bor- rowing from one’s neighbour. Indeed we  that | in equilibrium | most of the debt of a high indebted country will be transferred to partner countries. 
+Rather like ECB discount policy, our formal analysis is conducted without taking sovereign default risk properly into account, however. We go on to discuss three possible sources of default risk | creditor panic, exogenous interest rate shocks and \over-borrowing" | and we emphasize the need for comparative statics to be complemented by disequilibrium dynamics. 
+Key words: debt sustainability, overlapping generations, sovereign de- fault, Euro-zone debt crisis 
+JEL: F21, F34, F36, F41 
+We are grateful to ancial support from the ESRC funded Research Centre of Com- petitive Advantage in the Global Economy. 
+yUniversity of Warwick. 
+zUniversity of York. 
+xUniversity of Warwick. 
+1 
+
+========2========
+
+1 Introduction 
+In the ancial crisis of 2008/9, counter-party risk was triggered by doubts about the value of mortgage assets | or their o MBSs | held by highly leveraged banks. The situation is now compounded by market concern as to the extent and sustainability of debt of sovereigns. 
+The Overlapping Generations (OLG) framework as initially developed by Peter Diamond (1965) for a closed economy has, we believe, some insights to o As debt transfers spending power from Young to Old it decreases the overall savings rate and crowds out physical capital. In addition, it is well known that an unfunded pension scheme has very similar e to government debt in an OLG context: an unfunded pension scheme can be represented as a direct lump-sum transfer from Young to Old. 
+If there was a problem of excess capital formation, debt can have the virtue of avoiding `dynamic ine where the rate of return on capital falls below the rate of depreciation. But the same logic implies that there is a limit to the amount of debt that can be sustained in a closed economy, Rankin & Ro (2003). Beyond a certain point, debt will absorb so much savings that the capital stock cannot be maintained, leading ceteris paribus to progressive de-cumulation. 
+What of capital market integration, surely more relevant for European countries? This is what we explore in this paper applying the OLG frame- work in a multi-country context with countries that are homogeneous in all respects except for initial conditions in terms of sovereign indebtedness. For simplicity, we work with two countries, one so heavily indebted that the amount of debt in issue equals the maximum sustainable in autarky; the other debt-free. In equilibrium, after debt has spread from one to the other, interest rates and GDP converge to common values | but national incomes will di as interest payments follow debt across national frontiers. Rela- tive to a totally debt-free alternative, the presence of debt will lead to some crowding out in the region as a whole (which may or may not be desirable depending on the risk of dynamic ine but there will be no risk of imminent capital de-cumulation. 
+What is perhaps more remarkable is that, in the process, the bulk of the debt of the highly indebted partner must be transferred to its neighbour. That the initially debt-free neighbour winds up holding more debt is because its national income and wealth rises thanks to the transfer payments of inter- est it receives as integration proceeds: and conversely for its high-borrowing 
+2 
+
+========3========
+
+neighbour. 
+In short, the OLG model predicts the situation which exists at present, where debts of the Southern Euro-member countries are widely spread among their Northern neighbours. The model shows that giving highly indebted Southern member countries (e.g., Greece and Portugal) access to interna- tional capital markets by joining the Euro is a double-edged sword. On the one hand it increases the maximum sustainable government debt in those countries by moving them well clear of the risk of a Rankin-Royle col- lapse. On the other hand it creates incentive problems: the incentive to get debt down is much reduced, both because the risk of the economy im- ploding is lower, and because more than half of its debt gets transferred to North member states, so default will reverse an income transfer from South to North. 
+When the liberalisation of capital markets led to a succession of crisis in Emerging Markets, in Mexico and East Asia, for example, Europe was seen as a haven of stability, partly because the adoption of a common money eliminated currency risk. But the build up of cross border holdings of non- contingent sovereign debt raises the prospect of default from several sources: from creditor panic, for example, and from the temptation to over-borrow in a context where the e of crowding out are widely dissipated. These are causes for concern | particularly in a context where current account adjustment has to be achieved without exchange rate changes. 
+Our formal analysis looks only at steady states: and the dynamics con- sidered in Diamond’s original paper | and in a recent two country study by Farmer & Zotti (2010) | assume full employment, as with exible wages and prices extra savings leads to more investment. But in a context where wages and prices are less  | as they are in Europe relative to the US, for example | there is the risk that plans to reduce debt in order to increase saving in the long run will cause a recession in the short run (as consumption falls before investment expands). So in practice credible plans for deleveraging will need to take the dynamics of adjustment into account. Another great simpliion we make is to assume both economies produce the same good: but Farmer & Zotti (2010) discuss how this assumption may be relaxed. 
+The paper proceeds as follows. The formal results are developed in Sec- tion 2 and illustrated in the next section with numerical examples using parameter values based on those in Rankin & Ro (2003). This is followed in Section 4 by a comparison autarchy versus integration using a graphical 
+3 
+
+========4========
+
+analysis based on the Diamond model. In Section 5 we discuss three factors that might lead to default and how they may apply in the European context; and in Section 6 we return to the important distinction between long-run equilibrium and short-run dynamic outcomes. In conclusion, we consider brie what this analysis might imply for checking the crisis-prone nature of European sovereign bond markets. 
+2 A two-country overlapping generations model 
+Our model is a two-country version of Diamond’s (1965) well-known overlap- ping generations model. Consider an economy with two countries: country H which is heavily indebted, issuing a substantial amount b of sovereign debt; and country F which is debt-free, i.e., issues no debt. In each country, at any given time t, these is a continuum of measure 1 of young consumers who live for two periods. A young consumer is endowed with 1 unit of labour and supplies it inelastically when he/she is young and nothing when he/she is old. Each country has equal proportional young and old generations and the size of the population (consisting of both young and old generations) in each country at any time is assumed constant (of measure 2). 
+For simplicity, we assume that, in both countries, consumers share identi- cal preferences and  share the same constant return to scale technology. In addition, both countries are assumed to produce the same traded good. 
+Let the capital markets for this two-country economy be integrated: so capital and bonds can be traded internationally. Strictly speaking, consumers are indit about the composition of their assets in this world of perfect certainty. However, it would take only an inal transaction cost of acquiring foreign assets to make them prefer to hold domestic ones, and this is also quite a realistic assumption. Hence we shall assume a form of home bias: so young consumers in country F would allocate their savings  in domestic capital and then in foreign bonds, and  in foreign capital. The discussion of the incentive for country F to prefer holding foreign debt is deferred to later sections. 
+We assume that the government in country H uses lump-sum taxes to  the interest payment on the debt b and default is excluded. In the model below, we let b to be exogenously given and constant over time. The government in country F charges no taxes. 
+In what follows, we  outline the structure of the economy for country 
+4 
+
+========5========
+
+H and F respectively. We then analyze the property of the steady-state equilibrium in this two-country economy. 
+2.1 Heavily indebted country H 
+A representative young consumer in country H, born in period t, maximizes the following time-separable utility function 
+U(cYt ; cOt+1)  f u(cYt ) + u(cOt+1)g; 
+(1) 
+where U(cYt ; cOt+1) represents the life time utility, cYt and cOt+1 the consumption when he is young and old respectively,  the discount factor, and u() the period utility satisfying u0() > 0 and u00() < 0. His budget constraints are 
+cYt = wt  t  st; cYt  0; cOt+1 = Rt+1st  (1  )t+1; cOt+1  0; 
+(2) (3) 
+where wt and st represent wages and savings when he is young,  the fraction of taxes paid by the young generation, t and t+1 the total taxes in period t and t + 1, and Rt+1 the gross real interest rate between periods t and t + 1. So the allocation problem faced by the young is to  some fcYt ; cOt+1g to maximise (1) subject to (2) and (3). 
+The aggregate taxes at t are used to  the interest payment on the government debt b, i.e., 
+1  t + 1  (1 
+ )t = t = (Rt 
+ 1)b; 
+(4) 
+where Rt is the real gross interest rates between period t  1 and t. 
+The  order condition for the optimal consumption allocation is given by the following Euler equation 
+u0(cYt ) = Rt+1u0(cOt+1): 
+(5) 
+Given fwt; b; Rt; Rt+1g, (2){(5) determine fcYt ; cOt+1; st; tg. The consumption of the old in period t, cOt , is determined in a similar fashion by the young generation born at period t  1. 
+Assuming perfectly competitive  that can access a constant to return technology represented by the production function 
+Y = F(K; L) 
+5 
+
+========6========
+
+where K, L and Y are the aggregate capital, labour and output respectively. Let F(;) be of homogenous of degree 1 such that F(K; L) = LF(K=L;1)  Lf(k) with f satisfying Inada conditions.1 For the size of the young gener- ation assumed above, L = 1, the aggregate capital K is the same as the per labour capital k (scaled by the size of the young generation). So K and k 
+will be used interchangeably below. 
+A representative  maximizes its per period pro as in 
+F(K; L) 
+ RK 
+^ 
+ wL; 
+(6) 
+by choosing some fK; Lg subject to given rental cost of capital R^ and the 
+wage rates w. 
+Given the property of F, the two  order conditions for (6) are 
+f(k) 
+ kf0(k) = w: 
+f0(k) = R;^ 
+(7) (8) 
+Note that (7) and (8) specify aggregate demand for capital and labour. Given inelastic labour supply of L = 1, (8) species the wage rates. 
+Let the depreciation rate of capital be . No arbitrage between renting capital and buying bonds (from t to t + 1) implies 
+Rt+1 = R^t+1 
+ : 
+(9) 
+So for given Rt+1, (7) and (9) determine the aggregate capital Kt+1, and (8) 
+determines the wages, wt. 
+ Kt + Kt, and the 
+We now turn to capital accumulation and the division of the output. Note that the gross aggregate investment in period t is Kt+1 
+aggregate consumption, given the size of either generation is of measure 1, is Ct  CYt + COt  1  cYt + 1  cOt . The division of the aggregate output is as follows 
+Yt = F(Kt; Lt = 1) = Ct + Kt+1 
+ Kt + Kt + (Rt 
+ 1)bt(); 
+i.e., output is divided between aggregate consumption, investment and the interest payment on the fraction of the debt held by country F, (Rt 
+Writing in per capita form yields 
+f(kt) = cYt + cOt + kt+1 
+ 1)bt(). 
+ kt + kt + (Rt 
+ 1)bt(): 
+(10) 
+1Here we assume there is no productivity growth. 
+6 
+
+========7========
+
+Finally, the clearing condition for domestic capital markets is given by 
+st = kt+1 + b 
+ bt+1(); 
+(11) 
+where bt+1() is the foreign holding of the debt issued by country H. Since the real interest rates are determined by the integrated capital markets, (11) determines the allocation of the debt between the two countries. 
+2.2 Debt-free country F 
+The young generation in country F faces a similar problem as speci in (1){(3), except that no lump-sum taxes are levied. By setting  = 0, one can obtain respective consumption and savings fcYt (); cOt+1(); st()g, where () indicates variables in country F. 
+A representative  in country F faces the same problem as that in country H. So demand for capital and the wages are the same as in (7) and (8). 
+The allocation of domestically produced output in country F is as follows 
+f(kt()) = cYt () + cOt () + kt+1() 
+ kt() + kt() 
+ (Rt() 
+ 1)bt(): (12) 
+Note that (Rt()  1)bt() represents the transfer from country H. 
+The equilibrium condition for the domestic capital markets in country F is given by 
+st() = kt+1() + bt+1(): (13) 
+2.3 The equilibrium 
+Here we rst outline the procedure for obtaining full employment dynamics in such a neoclassical model. We then move on to study the properties of steady state equilibrium. 
+As capital markets in these two countries are integrated, the extra clearing condition required is the equalisation of real interest rates in both countries, 
+Rt = Rt(); 
+8t: 
+(14) 
+Given (14), (7) for country H and its equivalent for country F imply 
+kt = kt(); 
+8t: 
+(15) 
+7 
+
+========8========
+
+Both (15) and (8) imply that wages are equalised across the two countries and they only depend on kt, 
+wt = wt()  wt(kt): 
+(16) 
+Consumption and savings for country H can be obtained using (2){(5) which imply 
+cYt = cYt (kt; Rt; Rt+1); cOt = cYt (kt 
+ 1; Rt  1; Rt); st = st(kt; Rt; Rt+1); 
+(17) (18) (19) 
+and similarly for country F. 
+Summing (10) and (12), and (11) and (13) respectively yield 
+f(kt) = [cYt (kt; Rt; Rt+1) + cOt (kt 
+ 1; Rt 
+ct 
+Y 
+1; Rt) + 
+(kt; Rt; Rt+1;) 
++ cOt (kt 
+ 1; Rt  1; Rt; 
+)]=2 + kt+1  kt + kt; 
+2kt+1 + b = st(kt; Rt; Rt+1) + st(kt; Rt; Rt+1;): 
+(20) (21) 
+The above equations jointly determine the dynamics of fkt; Rtg10 for some given initial conditions. 
+Equation (17){(19) are then used to back out consumption and savings for country H (and their counterparts for country F). Finally, (11) or (13) can be used to trace the sequence of foreign holding of the debt, bt(). 
+We now turn to analysing the steady state. To make things simple, we assume  = 0, u(c) = ln(c) and f(k) = k where 0 <  < 1. The steady state equilibrium for k and R can be obtained by imposing kt+1 = kt;8t and Rt+1 = Rt;8t, and  the  point in (20) and (21). Then, other quantities can be backed out using the procedure outlined above. As pointed out in Rankin & Ro (2003) that there is an upper limit in b above which capital stock converges to zero, we assume b is always below that limit. The results are summarized in the following proposition. 
+Proposition 1 With no capital depreciation, log utility and Cobb-Douglas production function, the steady state capital stock for both countries is the larger root of 
+2[(1  )k 
+ 1 
+ (1 + )k] 
+1 +  + (1  )k 
+ 1 
+ k 
+ 1=(1 + 
+k 
+ 1) 
+= b: 
+(22) 
+8 
+
+========9========
+
+The real gross interest rates and the wages for both countries are given by 
+R = 1 + k 
+1; 
+w = (1 
+ 
+ )k: 
+(23) (24) 
+Consumption and savings in country H are given by 
+ cY = 
+1 
+1 +  
+(1 
+ 
+ )k 
+ 
+ 
+ )k 
+1 
+(25) 
+ 
+(26) 
+ + 
+1 + k 
+1 
+ 
+ cO = 
+(1 + k 
+1) 
+ 
+1 
+1 +  
+(1 
+(1 
+)bk 
+1 
++ k(1 
+s = 
+1 
+1 +  
+ 1 + k 
+ 1 
+ 
+  
+  
+bk 
+ 1 
+ 
+; 
+   + 
+  
+bk 
+ 1 
+1 + k 
+ 1 
+; 
+    bk 
+ 1) 
+: 
+(27) 
+Consumption and savings in country F are given by 
+cY() = 
+(1 
+1 +  
+ )k; 
+(1 + 
+ cO() = 
+k 
+1)(1 
+1 +  
+ )k: 
+s() = 
+(1 
+1 +  
+(28) 
+ 
+ )k; 
+(29) 
+(30) 
+The fraction of the debt held by country F is 
+b() = 
+(1 
+1 +  
+Proof: See Appendix A. 
+ )k 
+ k: 
+(31) 
+The outcomes outlined in the proposition above are highly non-linear in k. The detailed comparative static analysis is done numerically in the next section when country H chooses its maximum autarky level of debt. Here we present some selected comparative static results:  some properties of the equilibrium capital in the steady state and then the properties of the fraction of the debt held by non-debt-issuing country. 
+Proposition 2 In the steady state equilibrium: 
+9 
+
+========10========
+
+i  Increasing b reduces the steady state capital stock k. 
+ii  Increasing the discount factor  raises the steady state capital. 
+iii  Increasing, , the fraction of taxes levied on the young generation in 
+country H reduces the common steady state level of capital. 
+Proof: See Appendix B. 
+Note that properties in Proposition 2 resemble those in a closed economy and they are quite intuitive. Take, for example, Proposition 2(ii). An increase in  makes young generations in both countries value more consumption when they are old and so raises their savings. This depresses the real interest rate and results in an increase in the equilibrium capital stock. 
+Proposition 3 The fraction of the debt held by country F is strictly greater than a half when  is large and strictly less than half when  is small. 
+Proof: See Appendix C. 
+The detailed discussion of the property in Proposition 3 is deferred to Section 4. 
+3 Comparative statics of the steady state equi- 
+librium: numerical results 
+To gauge the quantitative signi of changes of parameters on the out- comes in the steady state equilibrium, we use numerical simulations. As a baseline case, we set parameters to be  = 1,  = 1=3,  = 1 and b the maximum level of debt in a closed economy. We report the fraction of debt held by the foreign country, the equilibrium prices, the allocation of GNP for both countries and asset holding for both countries. We then vary the parameter values of  to 1/2 and 2,  to 0.4,  to 1/2 and 0, to see the robustness of the results. 
+Table 1 reports results allocation of output, the holdings of assets in both countries. We also report prices, total debt and the share of the holding from country F for comparison. Tables 2 and 3 presents the results when  changes. It is evident that varying the discount factor  has negligible e on the foreign fraction of the debt holding. 
+10 
+
+========11========
+
+Table 1: Debt holdings, prices, consumption and asset allocations in a two-country model: the baseline.a 
+Allocation of GNP Asset holding 
+CY CO GNP (R  1)bF s k Debt Home 0.157 0.342 0.500 -0.032 0.157 0.150 0.007 Foreign 0.177 0.386 0.563 0.032 0.177 0.150 0.027 
+Prices w=0.354 R =2.180 
+Total debt 0.034 
+Foreign Fraction 0.796 
+a 
+We use  = 1,  = 1=3,  = 1 and b the maximum level of debt in a closed economy. 
+Table 2: Debt holdings, prices, consumption and asset allocations in a two-country model: changing .a 
+Allocation of GNP Asset holding 
+CY CO GNP (R  1)bF s k Debt Home 0.171 0.237 0.408 -0.026 0.086 0.082 0.004 Foreign 0.193 0.267 0.460 0.026 0.096 0.082 0.015 
+Prices w=0.266 R =3.095 
+Total debt 0.019 
+Foreign Fraction 0.795 
+a 
+We use  = 1=2,  = 1=3,  = 1 and b the maximum level of debt in a closed economy. 
+Table 4 reports results when the capital share of output, , is increased from 1/3 to 0.4. Comparing with the baseline case, increasing the capital share raises the fraction of the debt held by country F signitly. 
+Tables 5 and 6 present results when, , the share of taxes levied on the young generation in country H is progressively reduced. Notice that the fraction of the debt held by the foreign country is larger than half in the previous ve cases. It only drops below half when the old generation in country H is heavily taxed. This con our results in Proposition 3. 
+11 
+
+========12========
+
+Table 3: Debt holdings, prices, consumption and asset allocations in a two-country model: changing .a 
+Allocation of GNP Asset holding 
+CY CO GNP (R  1)bF s k Debt Home 0.121 0.456 0.577 -0.037 0.242 0.231 0.011 Foreign 0.136 0.514 0.651 0.037 0.273 0.231 0.042 
+Prices w=0.409 R =1.885 
+Total debt 0.052 
+Foreign Fraction 0.795 
+a 
+We use  = 2,  = 1=3,  = 1 and b the maximum level of debt in a closed economy. 
+Table 4: Debt holdings, prices, consumption and asset allocations in a two-country model: changing .a 
+Allocation of GNP Asset holding 
+CY CO GNP (R  1)bF s k Debt Home 0.108 0.274 0.383 -0.025 0.108 0.106 0.002 Foreign 0.122 0.310 0.432 0.025 0.122 0.106 0.016 
+Prices w=0.245 R =2.538 
+Total debt 0.018 
+Foreign Fraction 0.884 
+a 
+We use  = 1,  = 0:4,  = 1 and b the maximum level of debt in a closed economy. 
+4 Capital market integration | an applica- 
+tion 
+Alan Greenspan (2011) argues that, in the European Union, there is a useful distinction to be drawn between the economies of North and South in terms of sovereign spreads: 
+The [debt] burden is primarily on southern Europe, where sovereign bond credit spreads (relative to the German Bund) range from 370 basis points (Italy) to 1,960 basis points (Greece). The north- ern eurozone countries have tight spreads against Germany | a 
+12 
+
+========13========
+
+Table 5: Debt holdings, prices, consumption and asset allocations in a two-country model: changing .a 
+Allocation of GNP Asset holding 
+CY CO GNP (R  1)bF s k Debt Home 0.153 0.337 0.490 -0.036 0.167 0.145 0.021 Foreign 0.175 0.387 0.562 0.036 0.175 0.145 0.030 
+Prices w=0.351 R =2.206 
+Total debt 0.051 
+Foreign Fraction 0.582 
+a 
+We use  = 1,  = 1=3,  = 1=2 and b the maximum level of debt in a closed economy. 
+Table 6: Debt holdings, prices, consumption and asset allocations in a two-country model: changing .a 
+Allocation of GNP Asset holding 
+CY CO GNP (R  1)bF s k Debt Home 0.131 0.308 0.439 -0.058 0.200 0.123 0.077 Foreign 0.166 0.389 0.555 0.058 0.166 0.123 0.043 
+Prices w=0.331 R =2.350 
+Total debt 0.120 
+Foreign Fraction 0.356 
+a 
+We use  = 1,  = 1=3,  = 0 and b the maximum level of debt in a closed economy. 
+narrow 40 to 80 basis points for the Netherlands, Austria, Fin- land and France. There are thus two distinctly de eurozone areas: in the north and in the south. (FT 7Oct 2011). 
+Here we consider the impact of capital market integration in the case where the two economies are identical but di in one respect only | the amount of sovereign debt in issue. Let F denote the economy free of all sovereign debt; and H the Heavily indebted economy where the extent of debt |  entirely by lump sum taxes on the young | is at its autarky maximum. 
+Before looking at the e of integration, consider the autarchy equilib- ria. Without any debt, equilibrium will be as in Figure 1, where the Young 
+13 
+
+========14========
+
+consume a  fraction of the wage bill, as indicated by the label cY. The rest of the wage bill | savings | is consumed by the Old along with the accumulated interest, components shown separately in the  as k^ and (R  1) k^ respectively, where the rate of interest corresponds to the marginal product of capital and, in the absence of debt, the accumulated interest cor- responds to the pro share of GDP. 
+y,w 
+y 
+w 
+(R-1) 
+ccYY 
+s = (1-β)w 
+1 
+k 
+Figure 1: Division of output between young and old | the debt free case. 
+In the economy with sovereign debt, the Young are subject to a tax on their wages,  = (R  1)b, so their consumption as a fraction of GDP will fall, as indicated in Figure 2. The share of output going to the Old increases as | along with the pros of enterprise | they now enjoy the transfer payment of interest. The wealth which they use to fund consumption has increased to include the stock of debt as well as the stock of capital, as indicated by the components shown separately in the  as k^ + b and (R  1)(k^ + b) respectively, where (R  1)b denotes the transfer of interest. 
+The negative e of debt on the equilibrium level of capital is shown in Figure 3. With debt, the equilibrium condition changes from s = k to s = k + b, but savings has been reduced, so the level of capital falls. That debt is at a maximum is shown by the tangency of the savings function with the line labelled k + b. 
+With capital market integration debt is redistributed in between the two economies so as to equalise the interest rate paid. Since this corresponds 
+14 
+
+========15========
+
+y,w 
+y 
+w 
+(R-1)( 
++b) 
+s = (1-β)(w-τ) 
+ccYY 
++ b 
+b 0 1 
+k 
+k* 
+Figure 2: Division of output between young and old | the high debt case. 
+to the marginal product of capital, the e is to ensure a common level of capital and GDP, as indicated by the point labelled I in the  | corresponding to equilibrium in a closed economy with a debt level of b=2. 
+Though production is equalised, national incomes will di as some of the debt interest is transferred from Young in country H to the older generation in country F. How much? The striking result obtained reported in the previous section for economies where the young bear the taxes is that more than half of the debt and debt interest are transferred. 
+To see how this arises, consider  the condition for equilibrium in the integrated market. As it happens, this mirrors equilibrium in a closed economy with debt of b=2, with the capital stock determined as: 
+1 1 + [w(k) 
+ (R(k) 
+ 1)b=2] = k + b=2 
+with the wage and the rate of return determined by production conditions. 
+Combining this with the savings and asset accumulation equation for either of the countries one can solve for  the share of b held by the outside its country of origin. For the partner country this is: 
+1 
+1 + w(k) = 
+k + b 
+15 
+
+========16========
+
+k+ b 
+k 
+y 
+y 
+s = (1-β)w 
+(1-β)(w-r(k) 
+I 
+1 
+k 
+Figure 3: Autarchy equilibria and the e of capital market Integration 
+By substitution it can readily be found that 
+ 
+ = 
+1 
+2 
+1 + 
+[R(k)  1] 
+1 +  
+ 
+1 
+2: 
+The implication for savings and for national national income in the hereto- fore debt-free economy are illustrated in Figure 4, where k^, the equilibrium capital stock after integration, is smaller than under autarchy and the excess of savings above this level, i.e. w( k^)=(1 + )  k^ indicates the holdings of foreign debt. The interest paid to the older generation on this is [R( k^)  1]b, and it enables the old to consume more without reducing the consumption of the young, as is shown in the  With transfer, national income now exceeds national production. 
+It is clear that economy F will hold more of the sovereign debt issued by H than H itself when  = 1, i.e., the young in country H bear all the (interest) tax burden. But the simulations show, see Table 6, that this is no longer true when  = 0 and the (interest) tax burden falls entirely on the old. The eect of raising  on the savings function in H is to shift upwards the dotted line in 3, so when  = 0, it will lie above the solid line showing savings in F. For some threshold value of , the two will coincide, and the logic used above indicates that sovereign debt will be equally shared at this 
+16 
+
+========17========
+
+y,w 
+y 
+w 
+(R-1)( +σb) 
+Transfer 
+s = (1-β)w 
+ccYY 
++ b 
+σb 
+1 
+k 
+Figure 4: The income transfer to the erstwhile debt free economy. 
+threshold. Our simulations suggest, however, the relevant threshold value of  would require taxes to fall mostly on the old | Table 5 shows that for  = 1=2,  > 1=2. We conclude that the result that  > 1=2 is robust to all reasonable parameter variations. 
+5 Introducing default risk: creditor panic, in- 
+terest rate shocks, and over-borrowing 
+One of the equilibrium e of capital market integration predicted by our simple OLG model is that a country whose sovereign government is predisposed to issue debt will end up exporting the bulk of this debt to its neighbours. Why should this matter? The answer involves two key elements not yet considered: namely the prospect of default and the dynamics of adjustment. On the former, there is, of course, an extensive literature on the nature of equilibrium with substantial cross-border holdings of sovereign debt | and the challenges it faces. Here we brie highlight three factors that might lead to default: creditor panic, exogenous shocks to borrowing costs, and debtor myopia. 
+17 
+
+========18========
+
+5.1 Sudden stops and self ful crisis 
+Some observers, notably Calvo (1988), have warned of the risk that market forces may create self-ful debt crises, with sharp rises in borrowing costs making default incentive-compatible even when there no solvency issues in the  place. Events in Mexico in 1994-5 were interpreted in this way by Cole & Kehoe (1996); and Radelet & Sachs (2000) analysed the 1997-8 crisis in South East Asia in similar terms. 
+As explained by Cohen and Portes (2004, p.11): 
+The intuition is quite simple: perception of high risk raises the spread, which in turn raises the debt service burden, which in turn provokes the crisis. Beliefs are self-ful because the funda- mentals themselves are partly endogenous. If default reduces the amount that a country pays to its creditors below what it would normally pay then lenders perceptions do change how much a country will eventually pay. 
+As mechanisms to avoid such self-ful debt crises, Cohen and Portes discuss debt workouts and the IMF acting as Lender of First Resort. 
+5.2 Exogenous shocks to non-contingent debt 
+If it is creditors who call the shots on the cost of debt ance, exogenous shocks to interest rates can trigger default by making debt too expensive to service | assuming continued servicing of sovereign debt held abroad is `incentive compatible’ only if the country is better o honouring the debt than by defaulting. In Guimar~aes (2011), for example, where default involves a cost equivalent to about 1 percent of GDP in perpetuity and debt costs 2% per annum in real terms to service, debt levels above 50% of GDP are judged not to be incentive compatible . In fact, Guimar~aes argues that about half the write-down of Latin American debt under the Brady plan can be explained along these lines. The hike to US interest rates by Paul Volcker designed to check US inn had the unintended side-e of making full servicing dollar-denominated sovereign debt in Latin America no longer worth the candle. 
+In a similar vein | but a very dit context | Ozkan and Sutherland, in their study of the 1992 l crisis in Europe, argue that continued 
+18 
+
+========19========
+
+UK membership of the European monetary system was no longer incentive- compatible when German interest rates were raised sharply to o the in pressures of German uni 
+5.3 Myopic Governments 
+What about debtor behaviour? As Rochet (2006) argues, there may be incentive issues in the debtor country that lead to over-borrowing and default risk even when costs are sut to rule out strategic default. Inability to pay may arise from myopia on the part of a government which borrows as much as it can against a stochastic stream of tax and  it has insut funds to service the debt when tax receipts fail to grow. Lenders, being aware of this, will impose a default premium on interest charges so debt will follow a `rational bubble’, characterized by periods of steady (and procyclical) capital inws, ending in crisis periods where the country defaults and investors stop lending for a time’, Rochet (2006, pp. 15-16 ). 
+5.4 The European context 
+Since the crisis of 2008/9, the exogenous interest rate shocks for Euro debtors have been negative rather than positive as the ECB, in common with the Fed and the Bank of England, has lowered borrowing rates to practically zero. But this has to be seen in the context of severe and continuing  crisis | in which several countries have been forced to socialise bank debts in order to avoid the collapse of their banking systems. Although banking di were at  associated with holdings of sub-prime mortgages, they are now linked with holdings of the debt of the sovereigns themselves, the debt of Southern members of the Euro in particular | where higher than average in has led to uncompetitive exchange rates. 
+While overvalued currencies may be the principal driver, the exposure of these Southern sovereigns surely involves the other two factors listed above. Greece, for example, widely criticised for  laxity, seems to correspond to the case of sovereign over-borrowing, with debts growing at an unsustainable rate as a prelude to default. Well before the current crisis, in fact, Buiter & Sibert (2005) pointed out that the discounting practices of the ECB had the e of subsidising high risk borrowers by lending at triple A rates; and | by suppressing market signals | this may have provided incentives for loose  policy. Alan Greenspan (2011), it appears, also endorses this view: 
+19 
+
+========20========
+
+Subsidised borrowing may have accounted for much of the accel- eration in the ratio of euro-south consumption relative to that of Germany. It rose between 1995 and 1998 at a 1.26 percent an- nual rate. Presumably as a consequence of subsidised euro credit, that ratio accelerated to a 1.63 per cent annual rate of increase between 1998 and 2007. (FT Oct 7). 
+On the other hand, the risk of contagion to other Southern members | and beyond | seems more like creditor panic, driven perhaps by the perceived payo to speculative betting as in East Asia where one country after another on a dollar peg was subject to speculative attack2. Hence the calls for the `big bazooka’ of massive short-term support to restore con in the survival of the Eurozone. 
+6 Dynamics: the short run versus the long 
+run 
+At least as important as default is the need to consider the dynamics of adjustment. Farmer & Zotti (2010) have studied issues of stability and debt limits in a two country OLG setting; but this is under the assumption of full employment, where increases in saving are assumed to lead automatically to an increase in investment. 
+Dropping the convenient assumption of Say’s Law leads to a more Keyne- sian perspective, where income in the short run is determined by aggregate demand. To these capture aggregate demand e we need to depart from Diamond’s assumption of fully  prices and replace it by the more Keynesian assumption of price and wage rigidities. An example of such a modi to the Diamond model is Rankin (1987). 
+In fact, the OLG framework, with its sharp distinction between Old and Young in terms of their marginal propensities to consume, lends itself natu- rally to such a treatment. Take for example the implications for consumer demand of shifting tax from the Young to the Old. Because the Old have an higher marginal propensity to consume (unity) this will increase savings and increase the capital stock in the long run full employment equilibrium. But 
+2Typically successful, except for Hong Kong which beat the speculators at their own game, see Miller & Zhang (2000) and Goodhart & Lu (2003). 
+20 
+
+========21========
+
+in the short run consumer demand will fall and, in the absence of a rise in investment demand, there is a risk of recession.3 
+Reducing the level of sovereign debt itself could likewise have negative demand es until such time as investment increases to o the decline in consumer demand predicted by an OLG approach. How long | and how profound | these short term ects might be is an open question. The di of focus | on long run versus short | may indeed lie at the heart of the debate on whether  contraction is the right medicine for European countries at this time. 
+7 Conclusion: Europe without the heel of 
+Achilles? 
+The analytical results on the redistribution of sovereign debt in an integrated market have been derived in setting that is deliberately stylised and simpli-  We postulate large initial di in debt in countries otherwise identical, for example; and there is no explicit account of incentives and dy- namics in the formal model. (Nor is any account taken of capital depreciation in simulations.) 
+The consequence is clear results; but in a setting where debt appears for no obvious reason and it’s redistribution is attended with potentially large problems. Here in conclusion we take the opportunity to sketch how adding elements missing from the formal analysis might o a more balanced and realistic picture. 
+To start with, it is worth recalling that in Peter Diamond’s (1965) classic paper debt had the attraction of avoiding ’dynamic ine if saving is con to physical assets, capital accumulation could take society be- yond the point of maximum sustainable consumption | beyond the Golden Rule. By omitting depreciation for analytical simplicity, however, the risk 
+3We may write the level of consumer demand 
+y(lt) = (wlt 
+ ) + (1 + r)(st 
+ 1 
+ (1 
+ )) 
+So 
+y(lt) = wlt + ( 
+ (1 + rt 
+ )) + (1 + rt)st 
+ 1 
+So assuming w and r constant, aggregate consumer demand will fall as  decreases, with multiplier e if the fall in demand reduces employment income. 
+21 
+
+========22========
+
+of dynamic ine has been ruled out: as can be seen from the  consumption is always increasing in capital. It would not be di how- ever, to include depreciation in such a manner that the maximum rate of consumption lay between the two autarchy positions; so the highly indebted economy would in isolation be saving too little and the debt free economy too much. Capital market integration would o welfare gains to both parties in this case. 
+Despite such gains, it has to be acknowledged that | given the initial conditions as speci | the  exposure of the highly indebted econ- omy remains a potential heel of Achilles for the integrated market. Note, however, that the bene of debt would remain | without the risks of cross-border exposure | if both countries were to issue roughly the same amount of debt. One is tempted to ask: Is there any way of getting to such an outcome starting from the heterogeneous initial conditions we postulate? 
+One way would be for the heavily indebted country to reduce its debts | possibly by default | in combination with debt- de by its erstwhile debt free neighbour. This may sound a fanciful and articial way of changing the initial conditions: but it seems to be the direction in which Europe is heading. There is considerable pressure on Southern countries to rein in their de - with Greece expected to write down its sovereign debt by about 50% ; and Northern countries are being encouraged to spend more to avoid the recession that will otherwise be associated with such deleveraging by Southern neighbours. 
+To prevent a recurrence of capital market crisis, it will be necessary to prevent returning to the original initial conditions. This means facing up to the incentive issues  up by Buiter & Sibert (2005); and as Rochet (2006) suggests it could well involve institutional rules imposed by suprana- tional bodies. This is presumably what those who want to rewrite the Treaty of Europe have in mind. 
+References 
+Buiter, W. & Sibert, A. (2005). How the eurosystems treatment of collateral 
+in its open market operations weakens  discipline in the eurozone 
+(and what to do about it), CEPR Discussion Papers, no. 5387. 
+22 
+
+========23========
+
+Calvo, G. A. (1988). Servicing the public debt: The role of expectations, 
+The American Economic Review 78 (4): 647{661. 
+Cohen, D. & Portes, R. (2006). Toward a lender of  resort, IMF Working 
+Paper, WP/06/66. 
+Cole, H. L. & Kehoe, T. J. (1996). A self-ful model of mexico’s 1994- 
+1995 debt crisis, Journal of International Economics 41(3-4): 309{330. 
+Diamond, P. A. (1965). National debt in a neoclassical growth model, Amer- 
+ican Economic Review 55 (5): 1126{1150. 
+Farmer, K. & Zotti, J. (2010). Sustainable government debt in a two- 
+good, two-country overlapping generations model, International Review 
+of Economics 57 (3): 289{316. 
+Goodhart, C. & Lu, D. (2003). Intervention to save Hong Kong: counter 
+speculation in  markets, OUP. 
+Greenspan, A. (2011). Europes crisis is all about the north-south split, Fi- 
+nancial Times. 
+Guimar~aes, B. (2011). Sovereign default: Which shocks matter?, Review of 
+Economic Dynamics 14 (4): 553{576. 
+Miller, M. & Zhang, L. (2000). Creditor panic, asset bubbles and sharks: 
+Three views of the asian crisis, in U. Dadush, D. Dasgupta & M. Uzan 
+(eds), Private Capital Flows in the Age of Globalisation, Edward Elgar: 
+MA, USA. 
+Ozkan, F. G. & Sutherland, A. (1998). A currency crisis model with an op- 
+timising policymaker, Journal of International Economics 44(2): 339{ 
+364. 
+Radelet, S. & Sachs, J. (2000). The onset of the East Asian currency crisis, 
+in P. Krugman (ed.), Currency Crises, Chicago: University of Chicago 
+Press. 
+Rankin, N. (1987). Disequilibrium and the welfare-maximising levels of gov- 
+ernment spending, taxation and debt, Economic Journal 97: 65{85. 
+23 
+
+========24========
+
+Rankin, N. & Ro B. (2003). Maximum sustainable government debt in 
+the overlapping generations model, Manchester School 71 (3): 217{241. 
+Rochet, J.-C. (2006). Optimal sovereign debt: An analytical approach, Inter- 
+American Development Bank, Research Department: RES Working Pa- 
+pers 4477. 
+A Proof of Proposition 1 
+From (14) to (16), real interest rates, wage rates and capital stock for both countries are identical. Given the staedy state k exists, (7){(9) imply (23) and (24) since  = 0. 
+In the steady state equilibrium, applying log utility to (2), (3) and (5) gives 
+cY = 
+1 
+1 + [w 
+   (1  )=R]; cO = 
+R 
+1 + [w 
+   (1  )=R]; s = 
+R(w  ) + (1  ) 
+1 +  
+: 
+(A.1) 
+(A.2) 
+(A.3) 
+Substitution of (4), (23) and (24) into (A.1){(A.3) yields (25){(27). 
+Similarly, one can solve for consumption and savings for country F. This leads to 
+cY() = 
+w 
+1 + ; 
+(A.4) 
+cO() = 
+Rw 
+1 + ; 
+(A.5) 
+s() = 
+w 
+1 + : 
+(A.6) 
+Substitution of (23) and (24) into (A.4){(A.6) yields (28){(30). 
+To obtain the fraction of the debt held by country F, we use (13) when k is at the steady state. Substitution of (30) into (13) leads to (31). 
+Finally, to obtain the  point equation for the steady state k, we  impose stationary conditions to kt and Rt in (21). We then replace all savings functions in (21) by (27) and (30) to obtain the  point equation (22). 
+24 
+
+========25========
+
+The reason to choose the larger root is because that root corresponds to the stable steady state (see Rankin and Ro 2003). QED 
+B Proof of Proposition 2 
+Rewrite the xed point equation (22). Imposing stationarity in (21) and replacing the two savings function by (27) and (30) yield 
+R(w 
+ ) + (1 (1 + R 
+ ) 
++ 
+w 
+1 +  
+= 2k + b: 
+Rearranging to obtain 
+g(k;; ; )  
+R(w  ) + (1 
+(1 + R 
+at some 
+(B.1) 
+ ) 
++ 
+w 
+1 +  
+ 2k = b: 
+(B.2) 
+Note that g(k;; ; ) is the same as the left hand side of (22). 
+As has been shown in Rankin & Ro (2003), function g(k;; ; ) is increasing when k is small and decreasing when k is large. It has a maximum 
+k >~ 0 such that g(k~;; ; ) > 0. As long as b  g(k~;), the larger root to (B.2) exists. As the  point is the intersection between b and the decreasing part of g(k;), increasing b results in an decrease in the  point 
+k. 
+Ditiating g with respect to , one obtains 
+@g(k;; ; ) 
+@ 
+= 
+1 
+(1 + )2f[w 
+  
+ (1 
+ )=R] + wg: 
+(B.3) 
+  
+ (1 
+ )=R  0 and 
+The  term inside the bracket of the right hand side of (B.3) is the life time wealth of the young generation in country H. So w 
+@g=@ > 0. This implies that the decreasing part of the function g(k;;) shifts upwards; intersecting a constant b results in an increase in  point 
+solution k. 
+Ditiating g with respect to , one obtains 
+@g(k;; ; ) 
+@ 
+= 
+ 
+(1 + R) 
+(1 + )R 
+< 0: 
+(B.4) 
+Using the similar argument as that for , the  point solution k decreases. 
+QED 
+25 
+
+========26========
+
+C Proof of Proposition 3 
+ 
+(R 
+ 1)b yields 
+ )(R 
+Dividing the both sides of (B.1) by 2 and substituting in  = (R 
+ 1)b 
++ 
+1(1 
+2 (1 + )R 
+ 1 +  
+w 
+ 
+2 
+ 1)b 
+= k + b=2: 
+(C.1) 
+Let b() = b, substitution of (A.6) into (13) in the steady state yields 
+1 +  
+w 
+= k + b: 
+(C.2) 
+Subtracting (C.1) and (C.2) and rearranging to obtain 
+1 
+ 
+ = 
+2 
+1 + 
+(R  1) 
+1 +  
+ 
+Note that 
+h( = 0) = 
+1 + R 
+(1 + )R 
+< 1; h( = 1) = 1 + 
+(R 
+(1 + ) 
+> 1 
+(1 
+ )(R  1) (1 + )R 
+ 
+1 
+2h(): 
+(C.3) 
+ 1) 
+So country F will hold more than half of the debt when  is large (when the young generation in country H is taxed heavily) and less than half of the debt when  is small (when the old generation in country H is taxed heavily). 
+The threshold of  above which country F will hold more than half of the 
+debt is given by 
+~ = 1=(R(~) 
+ 1): 
+QED 
+26 
+
+========27========
+

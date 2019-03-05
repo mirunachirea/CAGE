@@ -1,0 +1,1894 @@
+September 2010 
+No.22 (revised)  
+Poverty and Aspirations Failure 
+Patricio Dalton, Sayantan Ghosal and Anandi Mani CentRE, Tillburg University and University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Poverty and aspirations failure 
+Patricio S. Dalton CentER, Tilburg University 
+Sayantan Ghosal University of Warwick 
+Anandi Mani University of Warwick 
+December 20, 2010 
+Abstract 
+We develop a model of internal constraints to show that a greater degree of initial disad- vantage results in a higher likelihood of low aspirations and low achievement. Our model and results are supported by evidence from anthropology, sociology and social psychology. Our analysis suggests that internal constraints are a key ingredient in perpetuating poverty traps. We show that a poor person will choose to restrict her cognitive window (the set of other in- dividuals who are her role models) and study the conditions under which a role model could alter her aspirations and achievement. We show how enodgenously chosen cognitive windows interact with the inital distribution of status to determine whether or not a society is connected, and hence the transmission of aspirations across individuals in that society. Our work provides a normative justi–cation for programs that aim at empowering disadvantaged individuals by directly shocking their aspirations. 
+JEL Classi–cation: O10,O15,O12, D03. 
+Keywords: Aspirations failure, persistent poverty, relative deprivation, self-con–dence, role models, cognitive neighbourhood, interacting thresholds. 
+We would like to thank participants at the University of Bath seminar, Warwick Workshop on Aspirations and Poverty (2009) and CESifo Summer Institute on Behavioral Welfare Economics (2010) for helpful comments. Special thanks to Doug Bernheim, Jens Prufer, Maria Cubel and Vijayendra Rao for detailed comments. S. Ghosal and P. Dalton acknowledge support from ESRC-DFID grant RES-167-25-0364. Any remaining error is responsibility of the authors. e-mail: p.s.dalton@uvt.nl, s.ghosal@warwick.ac.uk, a.mani@warwick.ac.uk. 
+1 
+
+========2========
+
+1 Introduction 
+More than 300 million people world-wide have lived in persistent poverty in the late 1990s1. Ac- 
+cording to the Chronic Poverty Report (2004-2005), 40% of the poverty in Sub-Saharan Africa and 
+35% of the poverty in South Asia is persistent. The probability of remaining poor over a 5-year 
+period is about 50% in Vietnam, 40% in Ethiopia and Philippines and 35% in India and Bangladesh. 
+Persistent poverty is a condition that requires an understanding of a multidimensional process which 
+makes people poor and keeps them poor. 
+An in⁄uential literature on poverty traps argues that poverty exists and persists due to con- 
+straints that are external to the individual.2 Examples of such constraints are credit or insurance 
+market imperfections (e.g. Loury, 1981; Galor and Zeira, 1993; Banerjee and Newman, 1991, 1993; 
+Torvik, 1993), coordination problems (e.g. Da Rin and Hellman, 2002; Kremer, 1993), institu- 
+tional or governmental failures (e.g. Bardhan, 1997), malnutrition (e.g. Dasgupta and Ray, 1986), 
+neighborhood e¤ects (Durlauf, 2003) or fertility decisions (Nelson 1956). 
+An alternative view is that internal constraints (beliefs, aspirations, self-image) are more likely 
+to bind for poorer individuals and, in turn, by a¤ecting her decisions (eg. responding to new 
+economic opportunities), could end up perpetuating poverty. "Long-run poverty is fundamentally 
+self-perpetuating [and] the entrapment goes hand in hand with [...] lack of hope." (Mookherjee, 2003, 
+p.5). Appadurai (2004, p.59)) notes that poor people may lack the capacity to aspire to "contest 
+and alter the conditions of their own poverty." 
+Both approaches have distinctive policy implications. The –rst approach justi–es policies that aim 
+to relax external constraints. Financial aid, institutional strengthening, extension of property rights 
+or change of neighborhoods are some examples of such interventions. The second approach justi–es 
+interventions that directly alter internal constraints either to enhance the impact of interventions 
+that relax external constraints or more interestingly, as a means by which poor people could "contest 
+and alter the conditions of their own poverty." Examples of such interventions include the "classical 
+music orchestras for children from disadvantaged backgrounds" in Venezuela, "football for hope" 
+initiative by FIFA3 or "dream a dream" program in India4 and are widely used by governmental 
+and non-governmental development agencies worldwide. 
+In this paper we develop a theoretical framework that (a) explicitly models internal constraints; 
+1Persistent poverty is de–ned by the incapability to ful–ll basic needs during a period greater than 5 years. For evidence on persistent poverty see Jalan and Ravallion (1998), Fouarge and Layte (2003), Biewen (2003), Duncan et. al. (1993), among others. 
+2See for example Azaridis and Stachurski (2004) or Azaradis (2004) for a literature review on Poverty Traps 
+3http://www.–fa.com/about–fa/worldwideprograms/footballforhope/ 
+4http://www.dreamadream.org/dreamadream/wcms/en/home/ 
+2 
+
+========3========
+
+(b) explains how internal constraints interact with external circumstances and (c) informs on inter- 
+ventions aimed at altering internal constraints. 
+Our model is based on three central premises: –rst, an aspiration level is a reference point; 
+second, aspirations are in⁄uenced by people™s own actions; third, individuals do not fully internalize 
+the way aspirations are determined by actions. We argue that these premises –nd strong support in 
+evidence from across the social sciences. 
+The intuition of our model is as follows. Think of a decision maker (DM) who, in order to 
+undertake a new economic opportunity, has to choose a costly action (e.g. e¤ort) with an uncertain 
+outcome: the action impacts on the probability distribution over –nal social status. We de–ne 
+the aspiration level of the DM as the expected social status given her action and an individual™s 
+aspiration level is a reference point that a¤ects the bene–t she obtains from her –nal social status. 
+We de–ne a behavioral DM as one who does not fully internalize the fact that her aspirations 
+are in⁄uenced by her choices. Therefore, when she chooses an action, she takes her aspirations as 
+given. We evaluate the decisions made by a behavioral DM against the normative benchmark of 
+a standard DM who chooses an optimal action accounting for the fact that her aspirations will be 
+endogenously in⁄uenced by her choice of e¤ort. The resulting induced preferences of the standard 
+DM is de–ned solely on actions. A standard DM (rational choice), by de–nition, will end up choosing 
+an action and aspiring to the status that maximizes her utility: such a DM cannot be internally 
+constrained. A behavioral DM (boundedly rational choice), in contrast, ends up aspiring to a status 
+and choosing an action that may not be (and often, isn™t) utility maximizing. Although aspirations 
+adapt to actions, since a behavioral DM takes her aspirations as given, she does not realize that she 
+is choosing a suboptimal action. 
+We show that a greater degree of initial disadvantage (measured in terms of lower initial status 
+of the DM) raises the likelihood that the internal constraint binds, and hence, that an aspirations 
+failure occurs. The underlying reason for this result is that a DM who has a low initial social status 
+requires higher aspirations than a DM with a higher initial status to undertake a costly action that 
+alters the status quo with positive probability. 
+Next, we examine the e¢ cacy of some well-known approaches which aim to mitigate the impact 
+of internal constraints. One speci–c mechanism that in practice that has worked particularly well 
+in ensuring that poor people contest "the conditions of their own poverty" is are interventions 
+that involve role models. One of the most remarkable examples comes from Kolkata (Calcutta), 
+India where the incidence of condom usage was substantially increased and the incidence of HIV 
+substantially decreased following interventions involving convincing and training a small group of 
+sex workers who would pass the important information about the use of condoms as peers education 
+3 
+
+========4========
+
+to their co-workers (Rao and Walton 2004)). 
+We –rst show that a DM will restrict the set of other individuals (i.e. a "cognitive window") 
+whose experience/outcomes alter the beliefs of the DM about the likelihood of achieving success. 
+Ideally, what a DM wants to observe is someone who is identical (similarity one) to herself but with 
+a higher level of aspirations and achievement. If the DM™s includes only those individuals who are 
+similar to her in her cognitive window, she is likely to observe other individuals who have similar 
+aspirations and make similar decisions to herself. In order to increase the likelihood of observing 
+an individual who has a higher degree of self-con–dence and therefore, has higher aspirations and 
+achievement she will need to include individuals who aren™t similar (i.e. have a higher initial social 
+status) to herself. However, we show that there is a limit on how far the individual will go so that, 
+typically, there will be individuals, with a very di¤erent initial status, who will be excluded from 
+her cognitive window. We show that the size of the cognitive window is larger whenever (i) the cost 
+of e¤ort is lower, (ii) the bene–t from achieving success in altering status quo is higher, and (iii) 
+the probability the DM attaches to achieving success is higher. Moreover, a DM with a lower initial 
+status has a smaller cognitive window than a DM with a higher initial status. 
+Our model makes explicit the importance of the interaction between external (e.g. initial status 
+and actual cost/bene–t of changing) and internal factors (e.g. beliefs and aspirations) to break an 
+aspirations trap. In contexts with extreme poverty and very fatalistic beliefs, changing only the 
+external factors may not be enough to break a poverty trap. The presence of a role model may 
+not be su¢ cient either in such extreme contexts, so public policies aiming at relaxing both external 
+and internal constraints may be needed. In less extreme scenarios, however, the sole presence of a 
+successful person from similar background may be enough to inspire a change of status quo, thus 
+breaking the poverty trap. 
+We –nish our paper by studying the link between the distribution of initial status and the 
+transmission of aspirations. We show how endogenously chosen cognitive windows interact with 
+the initial distribution of status to determine whether or not a society is connected, and hence the 
+transmission of aspirations across individuals in that society. We found some subtle e¤ects. On 
+the one hand, when the distribution of initial social status is polarized, the society may fail to be 
+connected and therefore, there will be failure in the transmission of aspirations across individuals. 
+On the other hand, when there is perfect equality in the distribution of initial social status, either all 
+individuals in a society have high aspirations and seek to change their status quo or all individuals 
+in a society are caught in an aspirations trap. The latter is the more likely scenario if all individuals 
+in that society are poor to begin with. 
+Our model can account for a number of important patterns associated with persistent poverty. 
+4 
+
+========5========
+
+It also gives rise to a clear welfare standard and has novel implications for public policy. Through 
+an understanding of the non-trivial interaction between external and internal constraints, we show 
+the conditions under which the two existing approaches of poverty persistence can complement each 
+other. 
+The remainder of the paper is organized as follows. Section I describes some important patterns 
+associated with poverty persistence that require formal explanation in economics. Section II lays 
+out and justi–es, with particular reference to evidence from anthropology and social psychology, 
+the central premises of our model. Section III presents the formal model, including how internal 
+constraints endogenously arise. Section IV explores the model™s policy implications, focusing of the 
+impact of role models and income distribution on aspirations and choices. Section V clari–es the 
+relationships between our model of poverty persistence and others that appear in the literature. 
+Section VII concludes and discusses directions for future research. Proofs of all propositions are 
+collected in the appendix. 
+2 Patterns of Persistent Poverty and Evidence of Aspirations 
+failure 
+Persistent poverty is an issue that has been of central focus in economics for several decades. In 
+this section, we discuss evidence that suggests, despite the plausibility of the existing explantations, 
+there are important aspects of this phenomenon that aren™t adequately accounted for. Based on a 
+review of the existing research on poverty persistence in social psychology, anthropology, sociology 
+and ethnography we make our case for the theory presented here. 
+Social psychologists have documented how beliefs are associated with poverty. The lack of hope 
+and aspirations are a typical characteristic in the personality of the poor population. Moreira (2003), 
+for example, studied the poor in the North-eastern Brazil and pointed out that "as the poor lose 
+their values, they no longer believe in themselves. They go through a process of Nihilism [denial of 
+hope]". Moreira provides evidence that the greatest part of the poor population has these nihilistic 
+characteristics, submitting themselves to the destiny that is ‚given by God™.5 Similar patterns have 
+been found elsewhere, for instance, in the Appalachian folk subculture (Rabow et al, 1983), in low- 
+income urban neighborhoods in America (MacLeod, 1995), in Jamaican male youths (Walker, 1997) 
+and in rural Ethiopian households (Frankerberger et al, 2007). In Ethiopia, for instance, a third of 
+a sample of 144 poor households believes success or failure in life is primarily the result of destiny 
+5Atkinson (1998) de–nes social exclusion as a related concept that involves agency (people may exclude themselves) and it implies future hopes and expectations. People are excluded not just because they are currently without a job or an income but because they have little prospects for the future. 
+5 
+
+========6========
+
+and/or luck. As a consequence, these households are less likely to take out larger loans and make 
+longer-term investments (Frankerberger et al, 2007). 
+The extent to which individuals believe they can control events that a¤ect them has been widely 
+studied in social psychology under the name of "locus of control" (Rotter, 1954). Individuals with 
+"external" locus of control believe that powerful others, fate or chance are the most important 
+determinants of events. Those with "internal" locus of control, however, believe that events result 
+primarily from their own actions. A behavioral DM, as de–ned in this paper, is consistent with 
+a person with external locus of control. Ceteris Paribus other personal characteristics such as 
+ability and intelligence, a person with external locus of control will put less e¤ort to change her 
+circumstances than one with internal locus of control. This is not because she wouldn™t like to 
+change, but because she believes she has low control over the outcomes of her choices. Therefore, 
+external locus of control suggest the presence of a binding internal constraint and support our 
+de–nition of behavioral decisions. 
+Psychological studies provide evidence of an income gradient in measures of external locus of 
+control: poor and minorities have higher external locus of control than other more advantaged 
+sections of society (see, for example, Furnham 1986 and Poortinga et al, 2008). The two –gures 
+below re⁄ect such di¤erences based on data from the Longitudinal Study of Young People in England 
+(LSYPE, 2006): 
+Figure 1: Locus of control and initial dissadvantage 
+The above –gure shows that young people from deprived backgrounds believe that external 
+factors have a bigger role to play in their life outcomes than their own e¤orts. Youth in the LSYPE 
+also demonstrate less faith in their own academic abilities, or overall intelligence as depicted in the 
+–gure below. 
+6 
+
+========7========
+
+Figure 2: Belief in abilities and initial dissadvantage 
+Deprived youth in the LSYPE study had the lowest academic aspirations across all income 
+quintiles. 
+Arguably, there are at least three distinct channels through which low aspirations can be linked 
+to poverty: the opportunity channel, the informational channel and the internal channel. 
+The role of the –rst two channels in perpetruating poverty traps has been already extensively 
+examined. Could poor people have low aspirations simply because their objective opportunity set 
+is small (opportunity channel)? For example, a poor person may not want to aspire to be a lawyer 
+because she wouldn™t have the funds to pay her studies. Objectively, being a lawyer is not an 
+achievable status for this person and it is entirely rational not to aspire to it. In this case enlarging 
+the opportunity set would su¢ ce for the person to aspire higher and eventually become a lawyer. 
+However, this opportunity channel alone is inconsistent with very recent empirical evidence from 
+–eld experiments. For example, in Kenya, Miguel and Kremer (2004) provide evidence that only 
+57% of the sample picked-up the free deworming pills, which was shown to greatly improve children™s 
+health and school performance. Similarly, Du⁄o (2003) documented that less than 15% of a sample 
+of Maize farmers in Kenya used fertilizers despite being o¤ered convenient opportunities to buy 
+fertilizer at reasonable prices. 
+The second explanation for poverty traps has to do with the view that poverty reduces people™s 
+aspirations due to an informational disadvantage: poor witness too few success stories in their 
+social milieu to learn what matters for success. This is related to the view of anthropologist Arjun 
+Appadurai (2004), who argues that the higher the initial disadvantage, the less chances an individual 
+has to set higher aspirations and to see the pathways which lead to their ful–llment. However, there 
+7 
+
+========8========
+
+is evidence that suggests information may not be a binding constraint. For instance, program 
+participants in both instances cited above had ample evidence to rule out the role of the second 
+explanation Œinformational constraints. Farmers in Busia, Kenya had ample opportunity to learn 
+both how to use the fertilizer, and to realize that the rates of return from its use were greater than 
+100%! In a somewhat di¤erent context, Jensen (2010) reports the results of a –eld experiment in 
+the Dominican Republic, where students were informed about the actual return di¤erential between 
+primary and secondary/tertiary education, which they had previously underestimated. There was a 
+substantial increase in perceived returns to education Œbut almost no discernible e¤ect on the actual 
+rates of completion of secondary schooling. Also, Cole et al (2009) show evidence on the e¤ects of 
+–nancial literacy training (in Indonesia and India). They –nd that it has a negligible impact on 
+actual likelihood to open a bank account. 
+These pieces of evidence suggest the possibility that a third (internal) channel may have a 
+role to play, perhaps arising as an adaptive response to external constraints but persisting even 
+after the latter are relaxed. The internal channel pins down the psychological consequences of 
+poverty and deprivation. Poverty sti⁄es aspirations not only due to opportunities and informational 
+disadvantages, but also because it a¤ects beliefs about own abilities to alter the condition of being 
+poor and hence their motivation for the same. 
+There is considerable evidence that con–rms the existence of this third channel. One source of 
+evidence comes from the literature of "locus of control" which was already discussed above. Other 
+related evidence comes from the literature of cognitive dissonance in psychology, which argues that 
+people adapt beliefs and preferences to the external conditions in order to reduce dissonance between 
+the status they would like to achieve and what they actually can achieve.6 Moreover, those beliefs 
+and preferences are persistent. For example, a poor person for whom being a lawyer is not in her 
+possibility set, may believe that being a lawyer is something that she doesn™t actually want. If 
+the external conditions happened to be relaxed, given her adapted preferences, it is plausible that 
+she may not aspire to be a lawyer anyway: i.e. aspiration failure. Finally, the internal channel 
+is also related to the behavioral bias call "learned helplessness" (Abramson et al, 1978). Learned 
+helplessness is the distortion of one™s ability to change the environment after being exposed to 
+exogenous negative shocks. 
+Positive evidence for the importance of such psychological e¤ects comes from work by, for in- 
+stance, Jensen and Oster (2009). They report substantial changes in beliefs and attitudes on a 
+variety of gender-related issues as a result of exposure to Cable TV programs with inspiring female 
+6Oxoby (2004) explores status seeking when individuals experience dissonance and act (consciously or uncon- sciously) to reduce it. 
+8 
+
+========9========
+
+protagonists. For instance, women in villages with cable TV reported lower tolerance to domestic 
+violence, weaker preference for sons as well as increases in autonomy and declines in fertility (see also 
+La Ferrara et al (2008) on fertility e¤ects). The authors also –nd an increase in school enrollment 
+for girls, in villages where cable TV arrived earlier (and increased gender related programming). 
+3 A model of internal constraints 
+3.1 Set-up 
+The theory proposed in this paper is based on three key premises. These are: 
+(1) Aspirations are reference points which a¤ect individual utility from given outcomes 
+(2) An individual™s actions themselves in⁄uence his (future) aspirations, through the outcomes 
+realized. 
+(3) However, individuals may not fully internalize the feedback from their (current) actions to 
+(future) aspirations. 
+We now present a model based on these three key building blocks. 
+We consider a decision-maker (DM), characterized by a given initial endowment/social status 
+0.7 She must choose a costly action a that will determine the probability distribution over her –nal outcome  2 : We will assume that  is a closed bounded interval (so that  = 
+;) and 
+A 
+is a closed, bounded set (possibly –nite),  ˆ <, A ˆ < and that all payo¤ relevant functions are 
+continuous. The decision-maker has an aspiration (or goal) g 2  over the –nal outcome she would 
+like to achieve. Given her aspiration g, the payo¤ she receives from an action a equals her expected 
+bene–t from this action, net of her cost of e¤ort Œas described by the utility function below: 
+Z 
+u(a; g) = p(; a)b(; g)d  c(a) 
+2 
+In the expression above, p(; a) is the belief an individual has about the likelihood of achieving a –nal 
+outcome  for an action/e¤ort level a, b(; g) is the bene–t she obtains from achieving a social status 
+, which could be a¤ected by her goal g and c(a) is the cost of action a. We now elaborate on the 
+individual arguments of the utility function above, in line with the key premises of our framework, 
+justifying our modeling choices along the way with well-documented evidence. 
+7For ease of exposition, we suppress initial status 
+0 in our notation for the variables and functions used in this section, since all the analysis reported here is for a –xed value of 0. 
+9 
+
+========10========
+
+Our –rst key premise is that individual aspiration serves as a reference point for the bene–t the 
+individual derives from achieving a –nal outcome. In our framework, this translates into the marginal 
+bene–t b (; g) from achieving a better outcome  being greater for a person with a higher aspiration 
+level g: other things being equal, a person with a higher aspiration level will have an incentive to 
+try harder to achieve a particular outcome. This premise is consistent with wide-ranging evidence 
+from psychology and economics. For instance, Heath et al (1999) present evidence from experiments 
+in psychology that subjects with high goals exert higher e¤ort and persist more in di¤erent physical 
+and cognitive tasks. They exercise at a higher rate, lift more weight, pedal more rapidly on a bicycle 
+and perform more rapidly on tasks like addition, subtraction or anagrams (Locke & Latham, 1990). 
+Recent experiments in economics (Abeler et al (2010)) also show that when participants have higher 
+reference points for earnings, they persevere longer at the experimental task. Inasmuch as aspirations 
+may be regarded as ‚reference points for life goals™, this evidence points to how higher goals can a¤ect 
+people™s life outcomes. Recent –eld evidence is also consistent with this interpretation of aspirations 
+as reference points. On the positive side, a –eld experiment with female entrepreneurs in India by 
+Field et al (2009) shows how higher aspirations can motivate changes in women™s –nancial behavior. 
+On the negative side, the Dunedin Longitudinal Study in New Zealand suggests that pessimistic 
+expectations signi–cantly increase the likelihood of low e¤ort even in non-market activities such as 
+personal health maintenance(more frequent smoking and less frequent exercise)(Clark et al, 2003). 
+Note that our assumption does not imply that individuals with high aspirations will necessarily 
+have higher utility Œbecause there is a cost to higher e¤ort as well. Indeed, the –rst two studies cited 
+above –nd that those with higher goals are not happier than those with lesser goals. The authors 
+point out that this apparent puzzle can be explained if goals are construed as reference points that 
+a¤ect realized utility (as outlined in the value function approach of Prospect Theory (Kahneman 
+and Tversky, 1979)): achieving a given outcome  gives lower utility to a person if her aspiration 
+level is higher. Formally, this key assumption of complementarity between  and g can be stated 
+as follows: 
+Assumption 1. b(; g) is increasing in  and satis–es increasing di¤erences in  and g i.e. for 0   and g0  g, 
+b  
+0; g0 
+ b(; g0)  b 
+ 
+0; g 
+ b(; g): 
+When b(; g) is twice continuously di¤erentiable, 
+@ 
+@ 
+b(; g) > 0 and 
+@2 
+@@g 
+b(; g) > 0. 
+To –x ideas, the following example lists a few speci–c bene–t functions that satisfy assumption 
+1. 
+10 
+
+========11========
+
+Example 1: (Speci–c bene–t functions that satisfy Assumption 1) Consider 
+b(; g) =  () + v(; g) 
+where  () is increasing in  so that the decision-maker gets a direct payo¤ gain when her –nal 
+status is higher rather than lower and 
+ˆ 
+v(; g) = 
+ ( 
+  g; if  < g  g); 0 <  < 1 if   g, 
+is a loss averse value function a la Kahneman and Tversky over –nal social status where the reference 
+point is an aspiration level: the decision-maker™s frustration from falling short of her aspiration is 
+greater than her pleasure from exceeding her aspirations. 
+Another symmetric (and smooth) example of a bene–t function, one where gains and losses in 
+the –nal social status relative to an aspiration level are treated in the same way, is 
+b(; g) = K 
+ ( 
+ g)2 ; for large but –nite K: 
+In this example, note that K has to be a large but –nite number to ensure that b(; g) is increasing 
+in . 
+In both these examples, the incremental gain from enhanced social status is higher, the higher 
+the aspiration level. It is straightforward to check by computation that both the functional forms of 
+b(; g) discussed above satisfy assumption 18. When assumption 1 is violated, the incremental gain 
+from enhanced social status could be decreasing in aspirations: for instance, when aspirations are 
+too high to begin with, actions may be decreasing in g when g is high enough. 
+A natural question that arises in any discussion of aspirations is one about their source: What 
+determines individual aspirations? Where do they come from? No doubt, there could be multiple 
+in⁄uences on individual aspiration Œfrom the family, to the neighborhood, events in the wider world 
+or cultural norms. However, in order to clarify the mechanisms by which such factos impact on 
+individual aspirations, our starting point in this section is to model how constraints internal to an 
+individual can a¤ect outcomes, hence we focus on a speci–c, important channel: How a person™s 
+(current) action choices themselves could in⁄uence his (future) aspirations, through the outcomes 
+realized? This then, is our second central premise: that individual aspirations adapt to actions 
+chosen. Indeed, this premise is supported by work in both economics going as far back as Simon 
+8Note that, in both the above examples, 
+b(; g) is decreasing in g for some values of . Strictly speaking, from a formal viewpoint, we do not require this assumption. Assumption 1 would also be satis–ed in an example where b(; g) increasing in both  and g as in the case when 
+b(; g) =  
+  
+0 
+j 
+ gj 
+and both  >  
+0 
+> 0. 
+11 
+
+========12========
+
+(1955). More recently, Easterlin (2001) provides evidence from survey-based data that aspirations for 
+the future adapt to current income outcomes. Lant (1992) also empirically examines the adjustment 
+of aspiration levels in a behavioral simulation and shows that aspirations do adjust to performance. 
+Psychologists Brickman and Campbell (1971) apply the label "hedonic relativism" to the empirical 
+pattern that humans adapt to their current situation, becoming habituated to the good or the bad. 
+ﬁAs we rise in accomplishments and possessions, our expectations also rise. This idea has also 
+been empirically validated by economists (eg. Stutzer (2004) amongst others). Most related to 
+our paper is the idea that aspirations adjust ‚to what is seen as possible™discussed by Jon Elster 
+(1983). Consistent with Elster™s view, Barr and Clark (2009) –nd that poors™ beliefs about the 
+amounts of income necessary to get by and live well increase with both their own household income 
+and the incomes of proximate others. They also –nd a positive relationship between beliefs about 
+education necessary to get by and live well and own education. As noticed by Clark (2009), the 
+process of adjusting aspirations ‚to what is seen as possible™can occur in two di¤erent ways. The 
+–rst involves adjusting aspirations downwards to re⁄ect disadvantaged circumstances. This is the 
+notion of adaptation invoked in the capability literature. The second type of adaptation involves 
+adjusting aspirations upwards to re⁄ect new opportunities and what "relevant" others have managed 
+to achieve. This notion of adaptation is closely related to recent empirical work on happiness in 
+economics and psychology. 
+Our formulation accommodates both types of aspirations adaptation. Speci–cally, we model 
+aspirations, g, as the expected status given individual™s actions: 
+Z 
+g = p(; a)d = ˇ(a): 
+2 
+This formulation is consistent with ethnographer MacLeod™s (1995, p.15) view that "aspirations 
+re⁄ect individual™s view of his or her own chances for getting ahead and are an internalization of 
+objective probabilities." It implies that agents have rational expectations in their choice of aspirations 
+and actions. 
+Our de–nition of aspirations has the desirable feature that, in the absence of uncertainty (i.e., 
+when –nal status is a deterministic function of actions), the aspiration level of the individual is 
+simply the –nal status she will achieve given her actions. Of course, with uncertainty, captured by 
+the prior beliefs p(; a), the individual will only be able to aspire to the expected –nal status of her 
+actions. 
+Having elaborated on the nature of the bene–t function b(; g), we now state the assumptions 
+on the other two elements in the utility function Œ an individual™s beliefs about the likelihood of 
+achieving a given outcome  for a given e¤ort level a, p(; a) and the cost of such e¤ort, c(a): 
+12 
+
+========13========
+
+Assumption 2: (i) p(; a0) –rst order stochastically dominates p(; a) whenever a0  a; (ii) 
+c(a) is increasing in a. 
+Assumption 2(i), together with assumption 2(ii), states that the probability of achieving a higher 
+social status increases when the DM chooses a costlier action. We will return to a more detailed 
+analysis of individual beliefs in section 4 below. 
+Our formulation is similar to that in recent papers on reference-dependent preferences by Koszegi 
+and Rabin(200X, 200Y). 
+3.2 Internal constraints 
+We are now ready to formalize the idea of an "internally-constrained" DM with prior beliefs p(; a). 
+To set the stage for this, we –rst distinguish between standard solution and the behavioral solution 
+to the individual decision problem of how e¤ort and aspiration choice. We begin with the standard 
+solution which serves as a normative benchmark for our analysis. 
+3.2.1 Standard decisions 
+Here, we consider a DM who recognizes Œand anticipates Œthe fact that her (current) actions will 
+in⁄uence her (future) aspirations, via the outcomes that they generate. In choosing her optimal 
+action, a standard DM therefore behaves as a farsighted individual who internalizes this feedback. 
+A standard decision corresponds to rational choice in our setting where the DM internalizes the fact 
+that her aspirations are a function of her chosen actions as they are nothing but the expected –nal 
+status given her actions. The idea here is that the individual is farsighted. She anticipates that 
+her aspirations at are a¤ected by her actions, and taking this into account, she chooses her optimal 
+action. We do not claim that actual individuals behave like this. Rather, this provides us with a 
+normative benchmark against which the outcomes of a behavioral decision can be evaluated. We 
+formalize the concept of a standard solution in the following de–nition: 
+De–nition 1. A standard solution is a pair (^a;g^) such that 
+Z 
+a^ 2 arg maxm(a) =a2A p(; a)b(; ˇ(a))d 
+2 
+ c(a) 
+and 
+Z 
+g^ = ˇ(^a) = p(;a^)d 
+2 
+Let M denote the set of standard solutions. Note that m(a) is continuous in a and as A is 
+compact, M is non-empty. By de–nition, any two distinct standard solutions must yields the same 
+payo¤. 
+13 
+
+========14========
+
+3.2.2 Behavioral decisions and internal constraints 
+The solution concept we apply to this decision-making problem makes use of our third behavioral 
+premise Œthat individuals do not fully anticipate the aspirations adaptation process corresponding 
+to boundedly rational choice. This premise implies that choices and preferences could diverge, hence 
+invalidating the principle of revealed preferences9. In our framework, we model this by assuming 
+that the DM does not internalize the fact that her aspirations g adapt to her actions a. Rather, she 
+takes g as given while choosing her action a, failing to internalize the implications of this adaptive 
+process on her payo¤s fully. 
+There is considerable evidence of this kind of behavior in various kinds of life situationsŒ but 
+also speci–cally with respect to aspirations. Easterlin (2001) provides evidence that people do not 
+anticipate the fact that their aspirations will adapt with income, hence overpredicting their future 
+happiness following an income increase. In a similar vein, Knight and Gunatilaka (2008) present 
+–eld evidence of rural-urban migrant households settled in urban areas who don™t foresee how their 
+aspirations will adapt to their new situation. Migrants are found to have a happiness score that is 
+lower than the mean score of both the rural sample, and the rest of the urban sample. The authors 
+show that the failure to anticipate that their aspirations will adapt when they move to the city is 
+what makes them choose suboptimally. 
+We label this situation described above as a Behavioral Decision. Note that we will require 
+that in any decision outcome, aspirations and actions are mutually consistent. An outcome of a 
+behavioral decision can be interpreted as the steady state of an adaptive mechanism in which the 
+aspiration level at adapts to actions achosen in the past but the individual myopically does not 
+internalize the adjustment of aspirations to chosen actions and instead takes aspirations as given. 
+In a behavioral decision, the DM chooses a, while taking g as given, to solve 
+Z 
+Maxa2Au(a; g; 0) = p(; a)b(; g)d 
+2 
+Let a(g) denote the set of payo¤ maximizing actions. 
+ c(a) 
+De–nition 2: A Behavioral Solution is a pair (a; g) such that (i) a 2 a(g) and (ii) g = ˇ(a). 
+In a behavioral solution the individual takes her aspirations as given, although the chosen action 
+and the aspirations have to be mutually consistent via the feedback ˇ(:). Therefore, at a behavioral 
+9In a related paper, "Behavioral Decisions and Welfare" (Dalton and Ghosal (2010)) formalize this point by axiomatic characterization of standard and behavioral decisions using choice correspondences alone for a general class of models which includes the speci–c framework and other related analysis (such as reference dependent preferences (Kahneman and Tversky (1979), Tversky-Kahneman (1991), Shalev (2000), Sugden and Š (200X), Koscegi and Rabin (200X, 200X) and projection bias (Lowenstein et. al. (200X)) as special cases. For a contrary normative position that never contradicts observed choice see Bernheim and Rangel (200X) and Rubinstein and Salant (200X). 
+14 
+
+========15========
+
+solution, the individual does not internalize the feedback from actions to aspirations and imposes 
+an externality on herself. As a result, she may end up limiting her e¤orts and aspirations, hence 
+shortchanging herself on the life satisfcation she could attain. We refer to such an outcome as an 
+™aspirations failure™, i.e. an outcome where an individual e¤ort choice a yields an (expected) outcome 
+ and utility level lower than the maximum the individual can achieve. 
+Let B denote the set of behavioral solutions. The following useful result clari–es the structure 
+of the set of behavioral solutions and provides an explicit characterization of this set. 
+Proposition 1: Under assumptions 1 and 2, payo¤s satisfy the property of increasing di¤erences 
+in (a; g) and it follows that there exists a minimal and maximal element in a(g), a(g) and a(g), both of which are increasing in g. Moreover, there exists a minimal and maximal elements in B, 
+ 
+a; g 
+ 
+and (a;g). 
+Proof. See appendix.  
+Proposition 1 shows that when an individual ignores how her (future) aspirations may change 
+with her (current) actions, there are multiple levels of e¤ort and aspiration that are solutions to her 
+optimization problem. Across these behavioral solutions, higher aspiration levels would induce an 
+individual to optimally choose higher e¤ort levels. These features of the behavioral solution create 
+the possibility of an aspiration failure, i.e. that the individual may end up at an outcome lower than 
+the best she can achieve Œbut it does not guarantee it. 
+To address this issue, we begin by providing a de–nition of what it means to be internally 
+constrained. Our normative benchmark is a standard solution. At a standard solution, the individual 
+is maximizing over consistent pairs of a; g, the payo¤ at each standard solution has to be (weakly) 
+greater the maximal payo¤ in a behavioral solution which corresponds to the payo¤ at the maximal 
+behavioral solution. The payo¤ to the individual at a standard solution sets a normative benchmark 
+against which the payo¤s of a behavioral decision can be compared. In other words, whenever 
+ignoring the feedback of (current) aspirations on (future) actions results in a disadvantageous e¤ort 
+and aspiration choice yielding less than the maximal payo¤, the individual is said to be internally 
+constrained. The sub-optimal outcome is regarded as an aspirations failure. Formally: 
+De–nition 3. An individual is internally constrained at a behavioral solution (a; g) whenever 
+(a; g) 2= M. 
+It is useful to link the behavior of the standard and behavioral decision makers to our discussion 
+on the locus of control, in section 2. At an intuitve level, the action choices of a standard decision 
+maker are consistent with the world view of an individual with a strong internal locus of control: 
+She fully internalizes the impact of her own actions on her life outcomes, hence she chooses actions 
+that maximizes her payo¤. In contrast, a behavioral decision makers™action choices are consistent 
+15 
+
+========16========
+
+with having a more external locus of control: She fails to appreciate how her actions feed into her 
+aspirations, hence she perceives external factors as having greater in⁄uence over her life outcomes 
+than her own actions.10. 
+When the intersection between the set of behavioral solutions and the set of standard solutions 
+(i.e. B \M) is empty, the individual is always internally constrained. In proposition 1, we saw that 
+that ignoring the feedback e¤ect from actions to aspirations in this way can lead to multiple equilibra 
+(a; g) in e¤ort and (expected) outcomes. However, we noted that despite the behavioral decision- 
+maker™s omissions, the standard (maximal) outcome could, in principle, still emerge as an outcome. 
+Lemma 1 below outlines the necessary and su¢ cient condition under which the behavioral decision 
+maker could still end up at the maximal outcome, like the standard decision-maker, i.e. (a; g) 2 M. 
+Lemma 1 Consider condition (C): For (a; g), (a0; g0) such that g = ˇ(a) and g0 = ˇ (a0), if 
+u(a; g)  u(a0; g), then u(a; g)  u(a0; g0). A behavioral solution (a; g) is also a standard solution 
+if and only if (C) holds. 
+Proof: See appendix.  
+As seen from Lemma 1, the conditions under which the BDM would end up at her best possible 
+outcome (of the SDM) are quite stringent: If, and only if, there exists a unique (action, expected 
+outcome pair), (a, g) that payo¤ dominates every other action/expected outcome pair fa0; g0) of the 
+BDM, will her action lead to the maximal payo¤ outcome. If such an action choice does not exist 
+and hence (C) is violated, the individual is internally constrained at a behavioral solution (a; g).11 
+In general, (C) is not easily satis–ed. If actions a are continuous, and the set of actions A is convex, 
+the standard solution must satisfy the –rst order condition 
+0 = @am(^a) 
+(i.e. the marginal bene–t of additional e¤ort, taking into account that aspirations depend on action 
+via ˇ(:), should be zero) while a behavioral solution must satisfy the –rst order condition: 
+Z  
+0 = @au(a; g), g = p(; a)d : 
+2 
+10Note that our framework is consistent with a scenario where the decision-maker partially internalises the feedback from actions to aspirations with probability . In such scenario, the individual in a behavioral decision chooses actions to maximize u~(a; g; 0) = u(a; g; 0) + (1  )v(a; 0). 
+11In order to interpret just how restrictive condition 
+(C) is it will be convenient to use –rst-order conditions to characterize both a behavioral solution and a standard solution. We will need to assume that the set of action choices A is a continuous variable, contained in a convex and compact set. [SEE APPENDIX FOR FURTHER DETAILS: However, in addition, there is a technical di¢ culty which we need to be careful about. Our formulation allows for a value function a la Kahneman and Tversky and as 0 is a kink-point of the value function, the value function isn™t di¤erentiable in g. However, as we work with integrals, as long as the underlying gross payo¤s are continuous, are continuously di¤erentiable almost everywhere and bounded, we can characterize decision-outcomes with take derivatives]. 
+16 
+
+========17========
+
+(i.e. the marginal bene–t of additional e¤ort, at the aspiration level consistent with chosen e¤ort 
+via ˇ(:), is equal to zero). These two conditions do not typically overlap. 
+Proposition 2. In a smooth setting the decision-maker is, typically, internally constrained. 
+Proof: See appendix. . 
+Proposition 2 makes the point that in a smooth setting, where some version of –rst-order con- 
+ditions can be used to characterize solution to both behavioral and standard decision problems, 
+condition (C) is, typically, never satis–ed and the Behavioral DM is internally constrained. 
+4 Initial Disadvantage and Aspirations Failure 
+So far, we have seen how ignoring the feedback from actions to aspirations can result in individual 
+aspirations failure. In this section, we examine the channels through which poverty (or more broadly, 
+initial disadvantage) increases the likelihood of such aspirations failure. Our interest in this link is 
+driven by two points in our study so far: (i) the choices of behavioral decision makers is consistent 
+with having a more external locus of control, as noted earlier, and (ii) having an external locus of 
+control is more common among the poor (as the descriptive evidence reviewed in section 2 suggests). 
+4.1 Initial status and behavioral solutions 
+Formally, we explore how poor initial condition/status (captured by the paramenter 0), could a¤ect various components of individual utility. To this end, we introduce the initial social sta- 
+tus of the DM explicitly into the utility fuction introduced in section 3 so that now u(a; g; 0) = R 
+2 
+p(; a;0)b(; g)d  c(a;0): 
+Note that in the above fomulation, 0 impacts on both beliefs and the cost of e¤ort. We turn to each component, separately, below: 
+1. Beliefs: As MacLeod (1995) observes, in his ethnographic studies on aspirations in deprived 
+neighborhoods, success is rarer Œ unlike in the social world of middle-class children, "where the 
+connections between e¤ort and reward is taken for granted" (p.15). In other words, poor initial 
+conditions 0 is likely to give rise to much more pessimistic beliefs p(; a;0) about the likelihood of achieving a particular outcome through greater e¤ort. This is simply because those in a poor neigh- 
+borhood observe a biased selection of individual outcomes, i.e. of those who failed to achieve good 
+outcomes for their e¤ort. This lowers the expected bene–t of a certain action, and in expectation, 
+their aspirations as well. 
+12 
+12For the purposes of this section, we treat individual beliefs 
+p(; a;0) as exogenously dependent on his external environment. In the next section, we endogenize these beliefs, i.e. we model how an individual rationally chooses his relevant reference group (or ‚cognitive window™) , whose experience he draws upon to form his own beliefs. 
+17 
+
+========18========
+
+2. Costs: Earlier, we simply noted that the cost of higher e¤ort is greater. But there are several 
+plausible reasons why even the same amount of e¤ort may be more costly for the poor. This could 
+be through higher direct costs due to lack of information or access to networks (for e.g. about how to 
+apply for college scholarships), higher opportunity costs (for e.g., foregoing wage income to remain 
+in college) or even psychological costs (for e.g. it may be more intimidating for a poor person to 
+deal with a well-heeled bank o¢ cial). 
+Formally, our discussion above can be summarized with the following assumption: 
+Assumption 3: 
+(i) For a given  and action a, p(; a;0) = p1(; a)p2(; 0) where both p1(:; a) and p2(:; 0) are two probability distributions over  where p1(:; a) satis–es assumtion 1 and p2(:; 00) –rst order stochastically dominates p2(:; 00) whenever 00  0; 
+(ii) c(a; 0) = C1(a)C2(0) where C1(:) satis–es assumption 1 and C2(:) is an increasing, contin- uous functions of 013. 
+The next proposition clari–es how the set of behavioral solutions behaves as initial status changes: 
+Lemma 2. Under assumptions 1,2 and either 3(i) or 3(ii), the minimal and maximal elements in B (0), 
+ 
+a(0); g(0) 
+ 
+and (a(0);g(0)); are increasing in 0. 
+Proof: See appendix. . 
+Lemma 2 shows that the set of behavioral solutions is (weakly) increasing in the initial social 
+status of the individual, 0 so that both higher aspirations and higher actions (which, in turn, have higher likelihood of changing status quo) are associated with higher initial status. This observation 
+is intuitive: If a person has more pessimistic beliefs about the e¤ects of his actions on outcomes, 
+then it is perfectly rational for him to pick aspirations and action choices that are lower. A similar 
+outcome will obtain if his cost of e¤ort are higher. 
+However, Lemma 2 doesn™t tell us that a poorer individual is more likely to su¤er from an 
+aspirations failure (i.e. be internally constrained), with respect to his lower aspirations- or why. 
+This is the subject of the proposition below. 
+4.2 Initial status, aspirations failure and behavioral poevrty traps 
+To this end, we consider a setting where behavioral solutions may be payo¤ ranked so that the 
+maximal solution, namely the one with highest e¤ort and highest aspirations levels, dominates all 
+other solutions with respect to payo¤s. We will, now, develop an arguement- formally a selection 
+mechanism- that will pin down why the decision-maker with will converge to a payo¤ dominated 
+13Note that assumption 3(ii) doesn™t require (nor does it rule out) that the "production function" of –nal status is non-convex in initial status. An example of a cost function that satis–es assumption 3(ii) is c(a; 0) = 0a. 
+18 
+
+========19========
+
+behavioral solution i.e be internally constrainted. 
+We consider the case where the individual has a –nite number of available actions so that A = fa1; :::; aNg with an < an+1, n = 0;1; :::; N  1 and suppose  is a compact interval interval 
+;. 
+We assume that a1 results in the DM obtaining status quo with probability one i.e. p(0; a1) = 1 and p 
+ 
+0; a1 
+ 
+= 0 for all 0 = 6 0. We assume that m(a; 0) is increasing in a so that (aK; gK) is the unique standard solution and that it is also a behavioral solution as is (a1; g1 = 0). 
+In order to develop a selection mechanism that will allow us derive why a DM will converge to 
+a payo¤ dominated behavioral solution, we will distinguish between a pre-decision aspiration level 
+g0 which is the aspiration level a behavioral DM takes as given when choosing an action and a 
+post-decision aspiration level g determined by the feedback e¤ect ˇ(:). Of course, a standard DM 
+will ignore the pre-decision aspiration level so that (aK; gK) will continue to be the unique standard solution. Further, we will asssume that the pre-decision aspiration level is determined stochastically 
+by some pdf f(g) (with associated cdf F(g)) over . Although, we would agree with the argument 
+that a DMs environment (family, neighborhood, friends, social networks) could a¤ect the pre-decision 
+aspiration level, we will assume that the stochastic process genertaing the pre-decision aspiration 
+level does not depend on initial status in order to tie our hands as we want to derive the link 
+between initial status and the likelihood of converging to a payo¤ dominated behavioral solution. 
+The selection mechanism involves two steps: 
+Step 1: An initial aspiration level g0 generated by some . Given g0, the individual chooses an 
+action a; 
+Step 2: Given a, the actual aspiration level is realized via the function ˇ(a). 
+Given such a selection mechanism, the following proposition characterizes the link between initial 
+status and the likelihood of convergeing to a payo¤ dominated behavioral solution: 
+Proposition 5: Under assumptions 1,2 and either 3(i) or 3(ii), the greater the disadvantage 
+(the lower the initial status) of the DM, (a) the greater is the likelihood that the DM converges to a 
+payo¤ dominated behavioral solution (the DM is internally constrained), and (b) lower the likelihood 
+that the DM chooses, and aspires, to perpetuate her initial status. 
+Proof: See appendix. . 
+The proposition relies on the result that for each initial status 0, there is a threshold value of aspirations so that if the pre-decision level of aspirations falls below the threshold value, a behavioral 
+DM always converges to a payo¤ dominated solution. Moreover we show that the threshold value 
+is itself lower the higher the intial status of the DM is: this captures the point a poorer person has 
+to have a higher level of aspirations than a rich person in order not to be internally constrained. 
+As the stochastic process that generates the pre-decision aspiration level is independent of initial 
+19 
+
+========20========
+
+status, a poorer DM is more likely to be internally constrained than one with a higher initial status. 
+Importantly, Proposition 5 also suggests the possibility of a behavioral poverty trap i.e. a DM with 
+a lower initial status is more likely to choose, and aspire, to perpetuate her initial status. 
+5 Policy Analysis 
+We have characterized an internally constrained DM. We have showed how initial disadvantage make 
+more likely that an aspiration failure occurs and a behavioral poverty trap is perpetuated. We will 
+now examine interventions that aim to to break, or avoid, such a trap. 
+Social psychologists have already addressed this question. Beck™s cognitive therapy, for example, 
+aims at changing negative expectations and interpretations into more hopeful ones so that the DM 
+begins to believe that her responses produce desirable outcomes (Beck, 1970). What is central to 
+the path out of helplessness is the realization that one™s behavior can e¤ect change (i.e. the e¤ect 
+of own e¤ort on own aspirations/achievements that makes a behavioral DM to become a standard 
+DM). Exposure to the fact that responding produces reinforcement is an e¤ective way of breaking up 
+learned helplessness (Seligman, 1975). It is critical to allow people to discover solutions for themselves 
+(Maier, 1961), which can be eased by observing successful similar others (e.g. role models) or by 
+being expericieng succesfully novel activities. The major principle for social psychologists seems to 
+be one of di¤erentiating events that can be controlled from those beyond control. 
+From a policy perspective, the relevant instruments should attempt to in⁄uence (a) the process 
+by which the pre-decision aspirations levels of the DM are generated, F(:), (b) the initial status of 
+the DM, 0, and (c) the way the DM update her beliefs about the consequences of her actions, p(:). 
+However, in order to analyse the impact of such interventions, we will –rst, in a special case of 
+the model studied in the preceeding section, analyse in one framework, both a behavioral poverty 
+traps and one which is driven by material deprivation alone. Then, using this model, we will study 
+the impact on individual behaviour of such policy interventions. 
+5.1 A simple of poverty traps 
+The DM chooses between just two actions, A = fa;ag where p(0; a) = 1 and p 
+ 
+0; a = 0 for all 0 = 6 0 so that choosing action a results in the individual perpetuating her initial status while p(0 + ;a) = p, p(0;a) = 1  p and p 
+ 
+0;a 
+ 
+= 0 for all 0 2 f= 0; 0 + g so that at a, the individual attaches a probability p to improve her initial status by a discrete amount  while she 
+believes that she will remain at her initial social status with probability 1 
+ p. Let g = ˇ(a) and 
+g = ˇ(a). To further simplify matters, assume that at Further, it will be convenient to normalize 
+20 
+
+========21========
+
+payo¤s so that b 
+ 
+0; g = c(a; 0) = 0 (implying c(a; 0) > 0) and her payo¤ at 
+ 
+a; g (0) is set equal to zero. Finally, let g~(0) solve the equation 
+Z 
+p(;a)b(; g)d  c(a; 0) = 0: 
+2 
+There are three cases to consider: 
+CASE 1: g (0) < g~(0) < g (0) so that both (a;g (0)) and 
+ 
+a; g (0) are behavioral solutions. In this case, we assume that (a;g (0)) is the unique standard solution. 
+CASE 2: g~(0)  g (0) so that 
+ 
+a; g (0) 
+ 
+is both the unique behavioral solution and the unique standard solution. 
+CASE 3: g~(0)  g (0) so that (a;g (0)) is both the unique behavioral solution and the unique standard solution. 
+Note that 
+ 
+a; g (0) corresponds to an aspirations trap: as g (0) = 0 < g~(0) she aspires to remain at her initial social status and actually remains there. Further, (a;g (0)) corresponds to a scenario with raised aspirations: g (0) = 0 + p > g~(0) so that she aspires to improve her initial 
+status and believes she can do so with probability p. 
+Clearly g~(0) is decreasing in 0 and as long as ˇ(:; 0) is non-creasing in 0, both g (0) and g (0) are non-decreasing in 0 as well. 
+It follows that we can partition  into three regions as follows: 
+(i)  = f 2  : ~g ()  g ()g: if 0 2 , 
+ 
+a; g (0) 
+ 
+is both the unique behavioral solution and 
+the unique standard solution (a poverty trap driven by material deprivation); 
+(ii) M = 
+ 
+2  : g () < g~() < g () 
+	 
+: if 0 2 M both (a;g (0)) and 
+ 
+a; g (0) are be- havioral solutions and the former is a standard solution (the possibility of a behavioral poverty 
+trap); 
+(iii)  = 
+ 
+2  : g ()  g~() 
+	 
+: if 0 2  so that (a;g (0)) is both the unique behavioral solution and the unique standard solution (no poverty trap). 
+It follows that a DM with very low initial status in  or a DM with a very high initial status in 
+ cannot be internally constrained. It is only a DM whose initial status is somewhere between the 
+two extremes in M who can be potentially internally constrained i.e. be caught in a behavioral poverty trap where she chooses an action (and aspires to) perpetuating her status quo. 
+What is the likelihood that a DM with an initial status in M is internally constrained? As in Proposition 5, let the pre-decision aspiration level g0 be generated by some pdf f(g) (with associated 
+cdf F(g)) over M. Then, (i) if g0 < g~(0), the individual will choose a and will end up with an aspiration level g i.e. 
+ 
+a; g (0) 
+ 
+is selected, and (ii) if g0  g~(0), the individual will choose a and end up with an aspiration level g i.e. (a;g (0)) is selected. It follows, from Proposition 5, that the 
+21 
+
+========22========
+
+probability that a DM with an initial status M is internally constrained is close to one if her initial 
+status is just above the boundary of  after which it monotonically declines to zero for a DM with 
+an intial status close to the boundary of . 
+We summarize the analysis as the following proposition: 
+Proposition 6: (i) The probability that the DM chooses an action, and aspires to, perpetuate 
+her initial staus is monotonically decreasing in 0; (ii) Only a DM with an initial status in M 
+has the potential to be stuch in a behavioral poverty trap and the likelihood of such an occurence 
+is declining in the initial status of the DM: a DM whose initial status is in either  (poverty trap 
+driven by material deprivation) or  (no poverty trap) isn™t internally constrained. 
+Figures 3 and 4 illustrate14 this result: 
+Pr(.) asp trap 
+1 
+0 
+Q 
+QM 
+Q 
+Q 
+Figure 3: Probability of an "aspirations trap" 
+Pr(int. .)constr 
+1 
+0 
+Q 
+QM 
+Q 
+Q 
+Figure 4: Probability that the DM is internally constrained 
+In what follows, starting from a situation where the DM is located at 
+ 
+a; g (0), we examine the 
+e¢ cacy of di¤erent policy interventions. 
+14 
+In both the –gures, it is assumed that f(:) is uniform 
+22 
+
+========23========
+
+5.2 Changing the initial status (0) or the distribution of pre-decision 
+(F(:)) 
+Changes in F(:) correspond to changes in the process by which the pre-decision aspirations levels are 
+generated. This process can be a¤ected in at least two di¤erent ways. One way is by a¤ecting parents™ 
+expectations and aspirations for their children, which have been shown as important predictors of 
+educational attainment. There is evidence that parental interest in a child™s education has four 
+times more in⁄uence on attainment by age 16 than does socioeconomic background (Leitch, 2006). 
+Parenting programs which help families improve child behaviour and achievement are examples of 
+policy interventions aiming at in⁄uencing F().15 
+An alternative way to a¤ect F() is by designing policy interventions which help the poor children 
+to discover that the realization of their behavior can a¤ect positive changes. One such programme 
+is the Venezuelan Classical Music Orchestras for children from disadvantaged backgrounds. More 
+than 400,000 Venezuelan children, most coming from poor families have taken and take part of a 
+network of orchestras directed by Jose Antonio Abreu that began being carried out 30 years ago. 
+The lessons are free of charge and a public foundation "FESNOJIV" provides the instruments. The 
+project does not primarily aim to create professional musicians, but to integrate poor children into 
+the society. 96 percent of the young musicians have good to excellent school records. They stand out 
+as high achievers thanks to their steady relationship with music. UNESCO awarded FESNOJIV its 
+International Music Award in 1993-94 and in 1998 UNDP commended it as an outstanding example 
+of poverty reduction. In the words of its founder, Antonio Abreu16: "The majority of the children 
+and juveniles belong to the groups that are most vulnerable and excluded in all of Venezuelan society. 
+Participating in the orchestral movement has made it possible for them to set up new goals, plans, 
+projects and dreams, and at the same time it is a way of creating meaning and helping them in 
+their day-to-day struggle for better conditions of life through the variety of opportunities that the 
+orchestral movement o¤ers them." 
+The formal analysis suggests that direct attempts to change the extrinsic circumstances (by, for 
+example, enhancing the economic status via transfers of wealth) will be welfare enhancing for very 
+poor individuals. 
+In the model presented above, such individuals will have an initial status 0 2 . We interpret such individuals as being in a situation characterized by a conventional poverty trap driven by 
+external circumstances as for such individuals a change in their material circumstances has to precede 
+15See for example "Supporting parents on kids education (SPOKE)" program in UK, which work with parents to set personal goals for their children (Silva et al 2008) 
+16See http://www.rightlivelihood.org/recip/abreu.htm 
+23 
+
+========24========
+
+any other sort of intervention. However, an intervention that alters the material circumstances so 
+that initial status is just tipped into M may not alter the choices of the DM she likely to be internally constrained, and theefore caught in a behavioral poverty trap, with very high probability. 
+In such a scenario, a DM will bene–t from policy interventions that directly impact on the process 
+by which pre-decision aspirations are generated. 
+It follows that interventions that solely focus on altering the material circumstances of individuals 
+may be less e¤ective than those that are complemented by programs that directly impact on the 
+process by which pre-decision aspirations are generated. Even when the former class of policies 
+succeed in lifting individuals out of material deprivation, such individuals could still be caught in 
+an "aspirations trap" from which they might escape only with the help of complementary policies 
+that raise aspirations. 
+Our analysis also identi–es conditions under which altering internal constraints on their own 
+would enable poor people to "contest and alter the conditions of their own poverty." Such a siltuation 
+would obtain when the initial status of the DM is in M: in such a case, an intervention that successfully raises the pre-decision aspirations of the DM would alter the choices the DM makes and 
+therefore alter her initial status. 
+We refer the reader to the extensive discussion in section 2 above for evidence on how interven- 
+tions solely focused on improving material circumstances might not break "aspirations traps" but 
+interventions that seek to improve both material circumstances and the process generating initial 
+aspirations might. 
+5.3 Role models and cognitive neighborhoods (p) 
+Another way to raise the aspirations of individuals belonging to a disadvantaged group would be to 
+alter the behavior of a carefully chosen subset of such individuals (e.g. role models). 
+Individuals draw on the aspirations of their cognitive neighbors and, in this sense, role models 
+may become an important variable in the formation of their aspirations (Rao and Walton, 2004). 
+Moreover, role models also enable a poor DM to "contest, and alter, the conditions of her own 
+poverty". But what determines which other individuals are cognitive neighbors and, thus, potential 
+role models of the DM? We address this question below. 
+Consider an internally constrained individual located in an aspirations trap. The role model 
+comes into the picture as an external signal. Suppose the individual observes an external signal which consists in the following information about a di¤erent individual: the initial status, 00, action a and a –nal status 00 + . We say that this individual becomes a role model when the internally constrained individual located in an aspirations trap chooses the action a after observing the signal, 
+24 
+
+========25========
+
+i.e. the individual becomes inspirational. When does it happen? Will any external signal convinces 
+a "fatalistic" individual to choose an action that shifts her to a better equilibrium? If not, what are 
+the conditions under which this happens? 
+Social psychologists have studied these concerns for decades, and have consistently highlighted 
+the similarity of others as an important aspect for the transmission of aspirations (e.g. Lockwood 
+and Kunda, 1997). There are countless programs showcasing the successes of a superior individual 
+that are designed to boost the aspirations of a particular target group with similar initial conditions. 
+For example, prominent women scientists are often invited to address high school girls or eminent 
+African Americans are introduced to African American children. Moreover, not only similarity 
+has been shown to be an important aspect for the transmission of aspirations, but also research 
+have con–rmed that social comparison is an endogenous process (e.g., Festinger, 1954, Goethals 
+& Darley, 1977; Wood, 1989). That is, people choose to compare only with similar others and 
+avoid comparisons with dissimilar others. For example, Ho¤ner C. and M. Buchanan (2005) study 
+the factors that make television characters appealing as role models to young adults. Respondents 
+identi–ed more strongly with characters whom they regarded as similar to themselves. Speci–cally, 
+respondents reported higher levels of wishful identi–cation with characters of the same gender, and 
+with characters whom they perceived as sharing their own attitudes. 
+In order to model the conditions under which an external signal serves as a role model, following 
+Gilboa and Schmeidler (2001), we endow the individual with a similarity function s :  ! [0;1] where s 
+ 
+0; 00 
+ 
+= 0 denotes no similarity and s 
+ 
+0; 0 
+ 
+0 
+= 1 denotes full similarity. This function provides a quanti–cation of the DM™s similarity assessment of how similar her own initial status is 
+relative to the initial status of the potential role model. We assume that assessing the similarity 
+across di¤erent pairs of initial status is the main cognitive task of the DM. Importantly, the similarity 
+function is subjective in the same sense in which probabilities are subjective in expected utility 
+theory. Gilboa and Schmeidler (2001) provide an axiomatic treatment of choice determined by 
+25 
+
+========26========
+
+similarity weighted payo¤ estimation.17 
+A continuous similarity function that is consistent with 
+Gilboa and Schmeidler (2001) is: 
+ 
+s 
+  
+ 
+ 
+00;  
+0 
+= 1  
+0 
+ 
+ 
+0 
+ 0 
+ 
+ 
+   
+ 
+Consistent with the above similarity function, we assume that s(0; 0) = 1 and that s 
+ 
+00;  
+ 
+0 is decreasing in the distance between 00 and 0. 
+Fix the external signal 
+ 
+00;a; 01 =  + 00 
+. Given a similarity function, the DM updates her payo¤s from choosing a as follows: 
+s 
+ 
+00;  
+  
+0 
+b 
+ 
+ + 0; g (0)  c(a; 0) + pb 
+ 
+ + 0; g (0)  
+s 
+ 
+00;  
+ 
+0 
++ pb 
+ 
+ + 0; g (0)  
+ 
+1 + s 
+ 
+00;  
+ 
+0 
+c(a; 0) 
+ c(a; 0) 
+= 
+which, after an a¢ ne transformation of payo¤s, is equivalent to 
+s 
+ 
+00;  
+ 
+0 
++ pb 
+1 + s 
+ 
+ 
+00; 0 
+ + 0; g (0)  c(a; 0) 
+This has the interpretation that after observing the external signal, the DM has updated her prior 
+beliefs so that her posterior beliefs of changing her social status is: 
+0 
+p1 = 
+s 
+ 
+0;  
+ 
+0 
++ p 
+1 + s 
+ 
+00;  
+ 
+0 
+and with probability 1  p1 she believes that she will remain at her initial social status. As p1 is increasing in s 
+ 
+00; 0 
+ 
+so that p1  p0 with the strict inequality whenever s 
+ 
+00;  
+ 
+0 
+> 0. Therefore, the updating of priors after observing the external signal is an example of similarity based learning. 
+After observing the external signal, the DM will choose a i¤ 
+s 
+ 
+00;  
+ 
+0 
++ pb 
+1 + s 
+ 
+ 
+00; 0 
+ + 0; g (0)  c(a; 0)  0 
+17We note that there may be an objective element in the assessment of similarity. The problem is familiar from econometrics where one might want to infer the conditional distribution p(y 2 Ajx0) where the sample frequency of x0 is zero i.e. p(x0) = 0. Assume that all variables are unidimensional. In such scenarios, it is standard in econometrics to use a uniform kernel estimate (Hardle, 1990; Manski, 1995) which is an estimate of the sample frequency with which y 2 A amongst those observations xi such that jxi  x0j < d (where d is the sample speci–c bandwidth chosen to con–ne attention to those observations in which xi is close to x0). In a sample with n observations, the expression for the uniform kernel estimate is 
+PN 
+i=1 
+1(y 2 A)1(jxP 
+i 
+ x0j < d): 
+N 
+i=1 
+1(jxi  x0j < d) 
+Then, the uniform kernel estimate corresponds to a "bandwidth" similarity function where 
+  
+n 
+s 00; 0 = 
+1, if j00  0j  d 
+0, otherwise 
+26 
+
+========27========
+
+or equivalently 
+s 
+ 
+00;  
+ 
+0 
++ p 
+1 + s 
+ 
+00; 0 
+ p^(0) = 
+c(a; 0) 
+b 
+ 
+ +  
+ 
+0; g 
+(0) 
+Observe that as s 
+ 
+0 ;  
+ 
+0 0 
+! 0, p ! 
+  
+1+p 
+1 
+p. Moreover, if s 0 =˘ 1, p1 =˘ 
+ 
+0; 0 2 
+. Therefore, even when s 
+ 
+00; 0 = 1, the external signal serves as a role model i¤ 
+1+p 
+2 
+ p^(0). Speci–cally, whenever 
+p^(0) > 
+1+p 
+2 
+, the individual located at 0 will never learn from observing an external signal. More 
+( 
+00;0)+p 
+interesting note that if lim 
+s 
+  
+s(00;0)!0 
+1+s ( 
+0 
+; 
+= p < p^(0). It follows that as long as s 0 
+0 ) 
+0;  0 
+is 
+0 
+(weakly) decreasing in the distance between  
+0 
+0 
+and 0 there is an endogenous upper bound to the cognitive window of the individual which can be computed from the inequality 
+s 
+ 
+00;  
+ 
+0 
+ 
+p^(0)  p 
+1  p^(0): 
+The fraction on the right hand side of the preceding inequality is increasing in p^(0) and decreasing in p. As p^(0) = 
+c(a;0) 
+b(+0;g(0)), it follows that the size of the cognitive window of the individual located at 0 is decreasing when (i) the cost of choosing the action a is higher; (ii) the bene–t of achieving a higher –nal status is low when the individual has low pre-decision aspirations to begin 
+with; (iii) the prior beliefs of the individual are more pessimistic. 
+Note that for the individual who consists of the external signal to choose a; it must be the 
+case that she attaches a su¢ ciently high probability to alter her initial status in the –rst place i.e. p0  p^ 
+ 
+00 
+ 
+where p0 is the initial belief of the individual in question. It follows that the ideal role model is one with a similar initial status to the DM but a much higher self-con–dence than the DM 
+locked in an aspirations trap. 
+The following proposition summarizes the above discussion: 
+Proposition 7. Suppose p0  p^ 
+ 
+00 
+ 
+but p < p^(0). The external signal will be a role model if 
+( 
+00;0)+p 
+and only if p < p^(0)  
+s 
+. If s 
+ 
+00; 0 
+ 
+1+s ( 
+00;0) 
+is (weakly) decreasing in the distance between 00 and 0, the size of the cognitive window of the individual located at 0 is implicitly de–ned by the inequality s 
+ 
+00; 0 
+ 
+ 
+p^(0)  p 
+ 
+1  p^( 
+and is decreasing in c(a; 0) and increasing in b  + 0; g (0) 
+ 
+and 
+0) 
+p. 
+The above proposition explains how the DM chooses her "cognitive window", the sample of indi- 
+viduals from which the DM draws her role models. Ideally, what a DM wants to observe is someone 
+who is identical (similarity one) to herself but with a higher level of aspirations and achievement. 
+However, a person similar to herself is likely to have the same aspirations, and make the same de- 
+cisions as herself. So the DM needs to include individuals with a higher initial status than herself 
+in her cognitive window and/or similar initial status but di¤erent beliefs i.e. have a much higher 
+degree of self-con–dence 
+Proposition 7 implies that a DM with a low initial status will exclude those with a higher 
+27 
+
+========28========
+
+initial status from her cognitive window when the similarity assessment is decreasing in the distance 
+between initial status. If the DM™s includes only those individuals who are similar to her in her 
+cognitive window, she is likely to observe other individuals who have similar aspirations and make 
+similar decisions to herself. In order to increase the likelihood of observing an individual who has a 
+higher degree of self-con–dence and therefore, has higher aspirations and achievement she will need 
+to include individuals who aren™t similar (i.e. have a higher initial social status) to herself. However, 
+Proposition 7 implies that there is limit on how far the individual will go so that, typically, there 
+will be individuals who will be excluded from her cognitive window. Thus, the DM will not attach 
+much weight on the experience of success of an individual who is characterized by very di¤erent 
+circumstances such as culture or wealth or any other relevant dimension viewed as relevant by the 
+decision maker as determining initial status. 
+The evidence presented in La Ferrara et al (2009) emphasizes both the potential and the limi- 
+tations of other successful persons in serving as role models. On the one hand, the authors provide 
+persuasive evidence that strong female protagonists and characters in various soap operas shown 
+in Brazil resulted in higher aspirations and lower fertility outcomes in the country between the 
+early 1970s to the 1990s. However, unlike the e¤ects of programs made by Rede Globo, a rival 
+company Sistema Brasileiro de Televisao (SBT)™s programs had little impact on fertility outcomes. 
+The authors found that SBT broadcasts programs were imported from Mexico and the US, and were 
+generally not perceived as realistic portraits of Brazilian society. Brazilian women strongly identi–ed 
+with the female characters in Rede Globo™s soaps (making it common for their girl children to be 
+given the names of lead characters) Œbut the lack of ‚similarity™with American or Mexican women 
+resulted in their negligible impact of the latter set of serials. 
+Changing a role model to break an aspiration trap has been empirically showed to be a very 
+e¤ective policy of poverty reduction. One of the most remarkable examples comes from Kolkata 
+(Calcutta), India. The objective of the Government by the 1990s was to decrease the HIV infections 
+in Sonagachi, Kolkata™s oldest and best established red-light district, with over 4,000 sex workers 
+working in 370 brothels that service about 20,000 clients a day (see Rao and Walton, 2004, p.7). As 
+Rao and Walton (op. cit.) points out, during the 1990s, the Government™s "interventions tended to 
+re⁄ect the values of the middle-class bureaucrats who crafted them. They focused on rehabilitating 
+the sex workers, rescuing them, and [...] training them." to be ready for an insertion in the "good 
+life". This strategy did not work. As Rao and Walton argues, the relatively high earnings in sex 
+work and the discrimination faced by former sex workers in the world outside Sonagachi, led most 
+women to return prostitution. 
+In this context, a very di¤erent strategy worked out. A strategy that involved convincing and 
+28 
+
+========29========
+
+training twelve sex workers which would pass the important information about the use of condoms 
+as peers education to their co-workers. This process, as argued by Rao and Walton, led over a period 
+of two or three years, to a "metamorphosis" in the sex worker™s aspirations. Moreover, the program 
+was remarkably successful as a health intervention, with almost all sex workers using condoms at 
+least some of the time and the HIV incidence in Sonagachi substantially decreased. 
+This successful health intervention can be interpreted with the lens of our model as a change in 
+the quality of the cognitive window of a DM. 
+There is plenty of evidence that role models can inspire individuals to become actively involved 
+in activities that they wouldn™t have chosen otherwise. Notwithstanding the fact that role models 
+can create behavioral changes in people from any socioeconomic condition, the distribution of role 
+models across the income spectrum is uneven, which makes the introduction of role models more 
+stringent for poor than for rich people. 
+In a randomized transfer program in Nicaragua, Macours and Vakis (2009) show that communi- 
+cation with motivated and successful nearby leaders can lead to higher aspirations and corresponding 
+investment behavior. Nguyen (2008) provides evidence from a –eld experiment in Madagascar that 
+observing a role model of poor background has a larger impact on poor children™s test scores than 
+observing someone of rich background. Buunk et al (2007) show that a positive role model stimulates 
+career-oriented behavior. They examined the e¤ects of social comparison among students in their 
+–nal year of study. Participants were presented with a –ctitious interview with a new graduate who 
+was either successful or unsuccessful in the job market. Exposure to the successful target led to a 
+higher degree of inspiration, identi–cation, and proactive career behavior than did exposure to the 
+unsuccessful target. 
+Recent laboratory work has shown that role models may be capable of bu¤ering stereotyped 
+individuals from the adverse e¤ects of stereotype threat when the role models™counter-stereotypic 
+behavior is observed. For example, Marx and Go¤ (2005) show that when a black experimenter gave 
+a verbal test to black participants, they did not su¤er the typical performance decrements associated 
+with stereotype threat. 
+Finally, there is also empirical evidence of the inspirational role of President Barack Obama for 
+Black-Americans. Using a random sample, Marx et al (2009) show that Obama™s speech before the 
+presidential election had a profound bene–cial e¤ect on Black-Americans™exam performance. 
+5.4 Social connectedness and the transmission of aspirations 
+The upshot of the above analysis is that an individual included in the cognitive window of the 
+DM (i.e. has the status of a role model) generates an information externality as, with positive 
+29 
+
+========30========
+
+probability, the DM will change her aspirations and her choices upon observing the achievement of 
+such an individual. This suggests that there is the possibility that aspirations could be transmitted 
+across individuals in a society. We conclude this section with a simple N-person extension of the 
+preceding model where the transmission of aspirations is linked to the distribution of initial social 
+status (i.e. the nature of inequality) in a society. 
+To this end, consider a society with N (a large but –nite number) individuals distributed on ; . We say that 
+i is connected to j if i0 < j0 but when j chooses a j belongs to the cognitive neighborhood chosen by i and is a role model for i. A society is strongly connected if between any 
+two individuals i; j in a society there is a chain of individuals k1; :::; kM such that i is connected to k1, km is connected to km+1, m = 1; :::; M  1, and kM is connected to j. In other words, in a 
+connected society, any two individuals are linked by a chain of overlapping cognitive windows. 
+De–ne the similarity function so that s 
+  
+00 
+00; 0 = 1  
+j  0j 
+ j 
+. Then, Proposition 7 implies that 
+s(0;0)+p 
+0  
+  
+  
+ 
+ 
+ 
+j 
+ 
+p^(0)  
+1+s(00;0) 
+if and only if 0 
+2^p(0) 
+0 
+ 0     
+ 
+1+p  
+2^p(0) 
+= ": 
+One –nal de–nition: the distribution of individuals in a society is 
+ 
+globally dense 
+ 
+ 
+  
+ 
+if for each 
+ individual player i there exists a di¤erent individual j with  i0  j 
+ 
+0 
+ < 
+ 
+   
+ 
+1+p  2^p(0) 
+2^p(0) 
+. When the distribution of initial status is globally dense, then any two individuals in a society are linked 
+via a chain of overlapping cognitive windows. In this sense, when the distribution of initial status 
+is globally dense, a poor individual is linked to rich individual in a sequence of small steps. Note 
+that when the distribution of initial status is polarized so that groups of DMs are clustered at very 
+di¤erent points in terms of initial status, the distribution of initial status will fail to be globally 
+dense (example 3 below). 
+One –nal piece of notation: let G(:) denote the cumulative distribution function that generates 
+the initial beliefs p of each individual in the society. 
+In this society, each individual is solving a decision-problem where the choice is between choosing 
+an action that perpetuates her initial status or an action that changes her initial status with positive 
+probability. Individuals choose in sequnece with an inidividual with highest initial status choosing 
+–rst, followed by the second highest initial status and so on. If a subset of individuals have the 
+same initial status, then the order with which each inidvidual move is determined randomly. We 
+assume that the pre-decision aspiration level of a DM is to perpetuate her initial status, although the 
+individual could observe the actions and achievement of other individual included in her cognitive 
+window before choosing her action. 
+Proposition 8. If the distribution of individuals is globally dense the society is strongly con- 
+k 
+nected. As long as there exists one individual k with pk  p^  
+0 
+, all individuals in it choose a and aspire to change their social status. The probability that all individuals will choose a is 
+30 
+
+========31========
+
+  maxk2N 1  G(^p k0 ). 
+Proof. See appendix.  
+Thus, when the distribution of initial status is globally dense, the society is strongly connected. 
+In a connected society, whether or not any one DM is internally constrained depends on what other 
+individuals included in her cognitive neighborhood do: each such individual imposes an information 
+externality on the individual that determines whether or not she is internally constrained. Therefore, 
+as long as one individual is able to relax her internal constraint, all individuals in the society are 
+also able to relax their internal constraints. 
+The following example examines what happens when the distribution of individuals fails to be 
+globally dense. 
+Example 2. (Polarization and aspirations failure) 
+Consider a society where a fraction  individuals are initially located at  and 1   individuals are initially located at  with s 
+ 
+;  
+ 
+= 0. Assume that p < p^(0) for all 0 =  while p0  p^ 
+ 
+0 
+ 
+0 for all 00 = . Observe that no 00 =  is in the cognitive neighborhood of any 0 = . Therefore, all individuals initially located at  are internally constrained. 
+The next example examines what happens in an egalitarian but poor society where the distrib- 
+ution of individuals is concentrated at a speci–c disadvantageous initial status. 
+Example 3. (Equality and aspirations failure) 
+Consider a society where all individuals are initially located at . Assume that p^() > 1. Then, 
+clearly p < p^(0) for all 0 =  and there is aspirations failure for all individuals initially located at . More generally, the probability that all individuals choose a = a is 1  [G(^p(0))]N.  
+Proposition 8, together with the examples 2 and 3, suggests that inequality in the distribution 
+of initial status may have subtle e¤ect on the how individuals in a society aspire and choose actions. 
+On the one hand, when the distribution of initial status is polarized, the society may fail to be 
+connected and therefore, there will be failure in the transmission of aspirations across individuals in 
+that society and individuals with a low initial social status will be internally constrained and caught 
+in an aspirations trap. On the other hand, when there is perfect equality in the distribution of initial 
+status, either all individuals in a society have high aspirations and seek to change their status quo or 
+all individuals in a society are caught in an aspirations trap. The latter is the more likely scenario 
+if the group of individuals is poor to begin with so that individuals within the group reinforce each 
+other™s choices and aspirations. 
+The work of sociologist W. J. Wilson provides a clear evidence of the link "social exclusion-lack 
+of aspirations-poverty" that was observed in U.S. urban ghettos since 1970. Wilson (1987) makes 
+the case that the increasing "social isolation" of the poor, especially the black poor, has greatly 
+31 
+
+========32========
+
+contributed to their poverty. "Out of sight, out of mind" allowed most of the non-poor to either 
+deny or forget the conditions in the ghetto. Moreover, Wilson argues that poverty implies exclusion. 
+He claims that concentration of poverty results in the isolation of the poor from the middle class 
+and its corresponding role models, resources, and job networks. More generally, he argues that 
+being poor in a mixed-income neighborhood is less damaging than being poor in a high poverty 
+neighborhood. Likewise, they are consistent with empirical evidence showing that communities with 
+higher levels of social cohesion and narrow gaps between poor and rich produce better health and 
+welfare outcomes than wealthier societies with higher levels of social disintegration (Putnam, 2000). 
+Marmot and Wilkinson (1999) show that in addition to economic prosperity, equality and social 
+cohesion are also powerful determinants of health. The experience of Kerala is also a very clear 
+evidence that social cohesion through participation of the poor in programs contributes to achieve 
+high positive indices of Human Development (see for example, Kannan, 2000). 
+6 Related Literature 
+The idea that choices are determined by aspirations is not new in the economics literature and goes 
+back to the seminal work of Simon (1955) and more recently, Selten (1998). This paper contributes 
+to this literature by o¤ering a formal equilibrium analysis to model this idea. 
+Moreover, much of standard economic analysis makes a sharp distinction between preference pa- 
+rameters (aspirations) and external circumstances (initial status or endowments) and assumes that 
+these are both exogenous to the individual. In order to account for a systematic link between initial 
+disadvantage and aspirations and beliefs, one could assume that external circumstances directly 
+operate via a psychological channel and show how such a direct link could perpetuate poverty traps. 
+In fact two recent papers, Genicot and Ray (2009) (via the assumption of an exogenous aspirations 
+neighborhood) and Bannerjee and Mullainathan (2010) (via the assumption that the proportion 
+of extra income spent on temptation goods is decreasing with overall income) take precisely this 
+approach. In contrast to these two works, our paper derives the link between initial disadvantage 
+with aspirations failure and disadvantageous choices18. Note that if we had assumed that external 
+circumstances directly operate via a psychological channel in perpetuating poverty traps, we would 
+have to conclude that only changing extrinsic circumstances (i.e. enhancing income, changing neigh- 
+borhoods or occupation) could alter poverty traps. In contrast, our analysis suggests that one way 
+out of poverty traps is to directly shock the aspirations of individuals thus relaxing their internal 
+18Our model can be viewed as a contribution to –ll the gap in the literature pointed out by Esther Du⁄o (2003, p10): ﬁ. . . what is needed is a theory of how poverty in⁄uences decision-making, not only by a¤ecting the constraints, but by changing the decision-making process itselfﬂ. 
+32 
+
+========33========
+
+constraints, a view consistent with interventions designed to alter goal-setting behavior or the use 
+dream building sessions in speci–c programs aimed at disadvantaged groups19. 
+Ray (2003) (commenting on Appadurai (2004)) and Genicot and Ray (2009), argue that poverty 
+and failure of aspirations may be reciprocally linked within a self-sustaining trap. By studying a 
+model in which individuals choose a level of e¤ort to minimize their aspirations gap, Ray (2003) and 
+Genicot and Ray (2009) show that individual investment e¤orts should be minimal for both high and 
+low aspiration gaps. In both these papers, the aspirations neighborhood of an individual is taken 
+as exogenous and as aspirations are formed as a function of an individual™s exogenous aspirations 
+neighborhood, Genicot and Ray (2009) assume that aspirations is the psychological channel by which 
+extrinsic circumstances a¤ect individual choices and play a role in perpetuating poverty traps. 
+Bannerjee and Mullainathan (2010) also examine poverty traps in model where poorer individuals 
+allocate a higher proportion of their income to temptation goods relative to individuals with a higher 
+income. A key assumption in their analysis relates to the shape of temptation viewed as a function 
+of overall consumption so that temptation is assumed to be the psychological channel by which 
+extrinsic circumstances a¤ect individual choice and thus perpetuate poverty traps. 
+Our paper is also related to the literature on endogenous reference points (Shalev (2000), Koszegi 
+(2005), Koszegi and Rabin (2006) and (2007), Heifetz and Minelli (2006), Dalton and Ghosal (2010)). 
+We add to this literature by specifying a selection mechanism to account for why individuals would 
+converge to a payo¤ dominated decision outcome and also the di¤erent ways in which reference may 
+be manipulated (eg role models). 
+Our paper contributes to the literature of role models by introducing the notion of similarity 
+based learning. The paper in this literature which is most related to ours is Manski (1993), which 
+also introduces a notion of closeness in terms of past history between the role model and the person 
+who learns. Manski focus in on the conditions under which the expected utility of an action can be 
+estimated nonparametrically after observing a "role model". Our focus, however, is on the 
+Another related paper is Chung (2000), which introduces a simple model of role models where 
+individuals are rational Bayesian learners. In contrast to what we do in this paper Chun assumes 
+that individuals attach a similarity weight of one to the achievement of other individuals. 
+Our paper is also related to the literature of relative deprivation because the concept of poverty 
+we use is a relative one.20 It is also related to the literature of empowerment, since it provides an 
+19A speci–c intervention discused in greater detail in section 6 below where dream building as a key ingredient in empowering disadvantaged groupd is the Songachi Project, an initiative aimed at sex worker™s collective in Kolkata, India. 
+20See Stark and Taylor (1991) for a general introduction to relative deprivation, Deaton (2001) for an application to health, Stark (2006) for an application to growth. For empirical papers on relative deprivation, see Duclos and Philippe (2002), Satya (1991), Berrebi and Silber (1985) among others. 
+33 
+
+========34========
+
+analytical framework to support the theoretical ideas of empowerment.21 
+As in the literature of 
+neighborhood e¤ects (Durlauf, 2003), we also obtain the result that persistence in economic status 
+could be generated by group-level in⁄uences on individuals, although unlike that literature, we focus 
+on aspirations as the transmission mechanism. 
+That aspirations adapt to chosen actions also appears in a strategic context in the literature 
+of reinforcement learning in games where agents adapt by comparing payo¤s achieved from actions 
+chosen in the past relative to an aspiration level. (See for instance Bendor, Mookherjee and Ray, 
+2001 or Karandikar et al, 1998). 
+Finally, our paper is related to some speci–c particular models that take identity issues into 
+consideration to study poverty and social exclusion, such us Akerlof and Kranton (2000), Ho¤ and 
+Pandey (2004) or Ho¤ and Sen (2005). 
+7 Final Remarks 
+We propose a model that associates initial disadvantage, aspirations and choices to alter initial 
+status. Our analysis suggests internal constraints are a key ingredient in perpetuating poverty 
+traps. We –nd that initial disadvantage is likely to generate aspirations failures, a combination of 
+aspirations and choices that perpetuate initial status. We then study how and under what conditions 
+a role model can help a poor person to solve her aspirations failure and climb out of poverty. We 
+allow the person to choose her cognitive window and show that, in principle, a poor person will 
+restrict the set from where the role model is selected. Our model and results are supported by 
+evidence from anthropology, sociology and social psychology. The fact that the same condition of 
+poverty a¤ects (and is a¤ected by) lack of aspirations and hope is a recurrent topic in any of these 
+disciplines, although surprisingly, it has been disregarded in formal economic models. The concept 
+of empowerment has also been understudied in economics theory, despite the great importance that 
+is given to the concept in the anti-poverty policy agenda. 
+The model could be extended in a variety of ways. Possibilities include: extending it to a n-player 
+strategic context; studying the dynamics of di¤erent initial income distributions, analyzing the e¤ect 
+of di¤erent types of policies (other than a role model) on solving an aspirations failure; accounting 
+for overlapping generations; considering role models who are not always positive and studying the 
+interaction of di¤erent types of aspirations such us material, religious, etc. 
+21See for instance Stern (2004), World Bank (2002), or Alsop and Heinsohn (2005) 
+34 
+
+========35========
+
+References 
+[1] Abeler J, A. Falk, L. Goette and D. Hu¤man (2010) "Reference Points and E¤ort Provision," 
+forthcoming, American Economic Review. 
+[2] Abramson, L. Y., Seligman, M. E. P., and Teasdale, J. D. (1978). "Learned helplessness in 
+humans: Critique and reformulation" Journal of Abnormal Psychology, 87, 32-48. 
+[3] Akerlof G. and R. Kranton (2000) "Economics and Identity," Quarterly Journal of Economics, 
+115, 3, 715-753. 
+[4] Alsop R. and N. Heinsohn (2005) ﬁMeasuring Empowerment in Practice: Structuring Analysis 
+and Framing Indicators,ﬂWorld Bank Policy Research Working Paper 3510. 
+[5] Appadurai (2004) ﬁThe Capacity to aspire,ﬂ in V. Rao and M. Walton (eds.), Culture and 
+Public Action, The International Bank for Reconstruction and Development, The World Bank, 
+Washington, DC. 
+[6] Atkinson, A.B. (1998) ﬁSocial Exclusion, Poverty and Unemployment,ﬂ in Exclusion, Em- 
+ployment and Opportunity, A. B. Atkinson and J. Hills (Eds.) Centre for Analysis of Social 
+Exclusion, January. 
+[7] Atkinson, A.B. (2003) ﬁIncome Inequality in OECD Countries: Data and Explanations,ﬂ 
+CESifo Economic Studies, 49, 479-513 
+[8] Azariadis C. and J. Stachurski (2004) ﬁPoverty Traps,ﬂForthcoming in the Handbook of Eco- 
+nomic Growth, Philippe Aghion and Steven Durlauf, eds. 
+[9] Azariadis, C. (2004): ﬁThe theory of poverty traps: what have we learned?ﬂin Poverty Traps, 
+S. Bowles, S. Durlauf and K. Ho, eds. 
+[10] Banerjee A. V. and A.F. Newman (1991) ﬁRisk-Bearing and the Theory of Income Distribu- 
+tion,ﬂReview of Economic Studies, 58, 211-235 
+[11] Banerjee A. V. and A.F. Newman (1993) ﬁOccupational Choice and the Process of Develop- 
+ment,ﬂJournal of Political Economy, 101, 2, 274-298 
+[12] Banerjee A. V. and S. Mullainathan (2010) "The shape of temptation: implicatinos for the 
+economic lives of the poor," NBER Working Paper, No. 15973. 
+[13] Bardhan P (1997) ﬁCorruption and Development: A Review of the issues,ﬂJournal of Eco- 
+nomic Literature, 35, 1320-1346 
+35 
+
+========36========
+
+[14] Barr A. and D. Clark (2009) "Do the Poor Adapt to Low Income, Minimal Education and 
+Ill-health?," Journal of African Economies, 19, 3, 257Œ293 
+[15] Beck A.T. (1970) "Cognitive therapy: nature and relation to behavioral therapy," Behavior 
+Therapy, 1, 2, 184-200 
+[16] Bendor, J., D. Mookherjee, and D. Ray. (2001) ﬁAspiration-Based Reinforcement Learning in 
+Repeated Games: An Overview,ﬂInternational Game Theory Review, 3(2-3): 159-174. 
+[17] Biewen M. (2003) ﬂWho Are the Chronic Poor? Evidence on the Extent and the Composition 
+of Chronic Poverty in Germany,ﬂIZA DP No. 779 
+[18] Bloom, D. E., D. Canning and J. Sevilla (2003) ﬁGeography and Poverty Traps,ﬂJournal of 
+Economic Growth, 8, 355-378. 
+[19] Brickman, P. and Campbell, D.T. (1971) "Hedonic Relativism and Planning the Good So- 
+ciety", in M.H. Apley (ed.) Adaptation-Level Theory: A Symposium, New York: Academic 
+Press, 287-302. 
+[20] Buunk A P (2007), "A positive role model may stimulate career-oriented behavior," Journal 
+of Applied Social Psychology, 37, 7, pp. 1489-1500 
+[21] Chung, Kim-Sau (2000), "Role models and arguments for a¢ rmative action", American Eco- 
+nomic Review, 90(3), 640-648. 
+[22] Clark, D. A. (2009) "Adaptation, Poverty and Well-being: Some Issues and Observations with 
+Special Reference to the Capability Approach and Development Studies," Journal of Human 
+Development and Capabilities, 10 (1): 21Œ42. 
+[23] Clark, J., R. Poulton and B. Milne (2003) "Bleak Expectations: The Role of Pessimism in 
+Smoking, Hazardous Drinking and Exercise," Working Paper 2003/03, Department of Eco- 
+nomics, University of Canterbury, Christchurch 
+[24] Clark A., P. Frijters and M. Shields (2008) ﬁRelative Income, Happiness and Utility: An 
+Explanation for the Easterlin Paradox and Other Puzzlesﬂ, Journal of Economic Literature, 
+vol.46, no.1, pp.95-144. 
+[25] Cole S., T. Sampson and B. Zial (2009) "Money or Knowledge? What drives demand for 
+–nancial services in emerging markets?" Harvard Business School Working Paper 09-117. 
+[26] Da Rin, M. and T. Hellmann (2002) ﬁBanks as Catalysts for Industrialization,ﬂJournal of 
+Financial Intermediation, 11, 366-397 
+36 
+
+========37========
+
+[27] Dalton P. and S. Ghosal (2010) "Behavioral Decisions and Welfare," CentER Discussion Paper 
+2010-22, Tilburg University 
+[28] Dasgupta and Ray (1986) ﬁInequality as a Determinant of Malnutrition and Unemployment,ﬂ 
+The Economic Journal, 96, 1011-1034 
+[29] Deaton, A. (2001) ﬁRelative Deprivation, Inequality, and Mortality,ﬂNational Bureau of Eco- 
+nomic Research, Inc, NBER Working Papers: 8099 
+[30] Dickerson, S.S. and M.E.Kemeny (2004), "Acute stressors and cortisol responses: a theoretical 
+integration and synthesis of laboratory research", Psychological Bulletin, 130(3), 355-391. 
+[31] Dixon J. and D. Macarov (Eds) (1998) Poverty: a Persistent Global Reality, London; New 
+York: Routledge. 
+[32] Duclos, J-Y and G. Philippe (2002) ﬁAbsolute and Relative Deprivation and the Measurement 
+of Poverty,ﬂReview of Income and Wealth, 48, 4, 471-92 
+[33] Duclos, J-Y, J. Esteban and D. Ray (2004) ﬁPolarisation: Concepts, Measurement, Estima- 
+tion,ﬂEconometrica, 72, 6, 17-37. 
+[34] Duncan, G.J., B. Gustafsson, R. Hauser, G. Schmauss, H. Messinger, R. Mu¤els, B. Nolan, 
+and J.C. Ray (1993), ﬁPoverty dynamics in eight countries,ﬂJournal of Population Economics, 
+6, 215-234 
+[35] Durlauf (2003) ﬁGroups, Social In⁄uences and Inequality: A Membership Theory Perspective 
+on Poverty Traps,ﬂUniversity of Wisconsin, mimeo. 
+[36] Du⁄o E. (2003) "Poor but rational," mimeo, MIT 
+[37] Easterlin, R. A. (2001) "Income and happiness: towards a uni–ed theory," Economic Journal, 
+111, 465-84. 
+[38] Easterlin, R. A. (2005) "A puzzle for adaptive theory" Journal of Economic Behavior & 
+Organization, vol. 56, issue 4, pages 513-521 
+[39] Ellerman, D. (2002) "Autonomy-respecting assistance: Towards new strategies for Capacity 
+Building and development assistance," in: Fukuda-Parr, Sakiko, Carlos Lopes and Khalid 
+Malik (eds.) Capacity for development. New solutions to old problems, London: Earthscan 
+Publications 
+37 
+
+========38========
+
+[40] Elster, J. (1983) Sour Grapes: Studies in the Subversion of Rationality, Cambridge: Cambridge 
+University Press 
+[41] Festinger, L. (1954) "A theory of social comparison processes", Human Relations, 7: 117Œ140. 
+[42] Field E., S. Jayachandran and R. Pande (2009) "Empowering Female Entrepreneurs in India? 
+A Field Experiment on Business Counseling," mimeo, Harvard University. 
+[43] Foster A. and M. Rosenzweig (1995) ﬁLearning by Doing and Learning from Others: Human 
+Capital and Technical Change in Agriculture,ﬂJournal of Political Economy, 103, 1176-1209 
+[44] Fouarge, D. and R. Layte (2003). ﬁDuration of Poverty Spells in Europe,ﬂ EPAG Working 
+Paper 2003-47. Colchester: University of Essex. 
+[45] Frankenberger T. R., P. Sutter, A. Teshome, A Aberra, M. Tefera, M Tefera, A. S. Ta¤esse, T. 
+Bernard, T. Spangler and Y. Ejigsemahu (2007) "Ethiopia: the path to self-resiliency," report 
+prepared Partners in Rural Development on behalf Canadian Network of NGOs in Ethiopia, 
+July. 
+[46] Furnham A. (1986) "Economic Locus of Control," Human Relations, 39: 29. 
+[47] Galor O. and Zeira. J. (1993) ﬁIncome Distribution and Macroeconomics,ﬂReview of Economic 
+Studies, 60, 35-52 
+[48] Genicot and D. Ray (2009) "Aspirations, Inequality, Investment and Mobility," mimeo. 
+[49] Gilbert, D., and J.E.J. Ebert (2002) "Decisions and revisions: The a¤ective forecasting of 
+changeable outcomes," Journal of Personality and Social Psychology, 82, 503-514. 
+[50] Gilboa I. and D. Schmeidler (2001) A Theory of Case-Based Decisions, Cambridge University 
+Press, 210 pages. 
+[51] Goethals, G.R. and Darley, J. (1977). "Social comparison theory: An Attributional approach" 
+In J.M. Suls & R.L. Miller (Eds.), Social Comparison Processes: Theoretical and Empirical 
+Perspectives (pp. 259-278), Halsted-Wiley, Washington, DC. 
+[52] Graham B. S. and J. R. W. Temple (2004) ﬁRich nations, poor nations: how much can 
+multiple equilibria explain?,ﬂ The Institute for International Integration Studies Discussion 
+Paper Series. 
+[53] Hardle W. (1990) Applied Non-parametric Regression, Oxford University Press. 
+38 
+
+========39========
+
+[54] Heath C., R. P. Larrick and G. Wu (1999) ﬁGoals as reference Pointsﬂ, Cognitive Psychology 
+38, 79Œ109 
+[55] Heifetz, A. and E. Minelli (2006) "Aspiration traps," mimeo. 
+[56] Helson, H. (1964) Adaptation-Level Theory: An Experimental and Systematic Approach to 
+Behavior. Harper and Row, New York. 
+[57] Ho¤ K and P Pandey (2004) ﬁBelief systems and durable inequalities: an experimental inves- 
+tigation of Indian caste,ﬂPolicy Research Working Paper; no. 3351, The World Bank. 
+[58] Ho¤ K. and A. Sen (2005) ﬁThe Kin System as a Poverty Trap?,ﬂ forthcoming in Poverty 
+Traps, eds, Samuel Bowles, Steven Durlauf and Karla Ho¤, Princeton University Press., 2006 
+[59] Ho¤ner, C. and M. Buchanan (2005) "Young adults™ wishful identi–cation with television 
+characters: The role of perceived similarity and character attributes," Media Psychology 7 , 
+pp. 325-352. 
+[60] Jalan J. and M. Ravallion (1998) ﬁDeterminants of Transient and Chronic Poverty. Evidence 
+from Rural China,ﬂPolicy Research Working Paper No 1936, World Bank. 
+[61] Jensen R (2010) "The (Perceived) Returns to Education and the Demand for Schooling," The 
+Quarterly Journal of Economics, 125, 2, pp. 515-548 
+[62] Jensen R. and E. Oster (2009) "The Power of TV: Cable Television and Women™s Status in 
+India" The Quarterly Journal of Economics, 124(3), pp. 1057-94 
+[63] Kahneman, D., & Tversky, A. (1979) "Prospect theory: An analysis of decisions under risk" 
+Econometrica, 47, 263-291. 
+[64] Kannan, K. (2000) ﬁPoverty Alleviation as advancing basic human capabilities: Kerala™s 
+achievements compared,ﬂ. In G. Parayil (Ed.) Kerala: The Development Experience (pp. 40- 
+65). New York. NY: Zed Books. 
+[65] Karandikar, D. Mookherjee, D. Ray and F. Vega-Redondo (1998) ﬁEvolving Aspirations and 
+Cooperation,ﬂJournal of Economic Theory 80, 292-331 (1998). 
+[66] Knight J. and R. Gunatilaka (2008) "Aspirations, Adaptation and Subjective Well-Being of 
+Rural-Urban Migrants in China," Economics Series Working Papers 381, University of Oxford, 
+Department of Economics. 
+39 
+
+========40========
+
+[67] Kremer M. (1993) ﬁThe O-ring Theory of Economic Development,ﬂQuarterly Journal of Eco- 
+nomics, August, 551-575 
+[68] La Ferrara, E., A. Chong, and S. Duryea (2008), ﬁSoap Operas and Fertility: Evidence from 
+Brazilﬂ, BREAD Working Paper No. 172. 
+[69] Lant T. K. (1992) "Aspiration level adaptation: an empirical exploration," Management Sci- 
+ence, 38, 5, pg 623. 
+[70] Leitch R. (2006) "Prosperity for all in the global economy, world class skills" Leitch Review 
+of Skills: Final Report, HM Treasury on behalf of the Controller of Her Majesty™s Stationery 
+O¢ ce, 145 pgs. 
+[71] Locke E. A. and G. P. Latham (1990) A theory of goal setting and task performance, Prentice 
+Hall, N.J., 413 p. 
+[72] Lockwood, P., & Kunda, Z. (1997) "Superstars and me: Predicting the impact of role models 
+on the self" Journal of Personality and Social Psychology, 73, 91-103. 
+[73] Loury G. (1981) ﬁIntergenerational Transfers and the Distribution of Earnings,ﬂEconometrica, 
+49, 843-867 
+[74] Nelson R. R. (1956) ﬁA Theory of The Low Level Equilibrium Trap,ﬂ American Economic 
+Review, 46, 894-908 
+[75] Nguyen T. V. (2008) "Education and health care in developing countries," PhD Thesis, MIT, 
+Economics Department. 
+[76] MacLeod Jay (1995) Ain™t no makin™ it: Aspirations & Attainment in a Low-Income Neigh- 
+borhood, Westview Press, Boulder, Colorado. 
+[77] Macours K and R. Vakis (2009) "Changing households™investments and aspirations through 
+social interactions: evidence from a randomized transfer program," World Bank Policy Re- 
+search Working Paper, No. 5137. 
+[78] Maier, N.R.F. (1961) Frustration: The Study of Behavior Without a Goal, University of Michi- 
+gan Press, Ann Arbor, Michigan. 
+[79] Manski, C. E. (1995) Identi–cation Problems in Social Sciences, Harvard University Press, 194 
+pgs. 
+40 
+
+========41========
+
+[80] Marmot, M. and R. Wilkinson (Eds). (1999) Social Determinants of Health, New York: Oxford 
+University Press. 
+[81] Marx D.M. and P.A. Go¤ (2005) "Clearing the air: The e¤ect of experimenter race on target™s 
+test performance and subjective," British Journal of Social Psychology, 44, 645Œ657 
+[82] Marx D.M., S.J. Ko, R.A. Friedman (2009) "The ﬁObama E¤ectﬂ: How a salient role model 
+reduces race-based performance di¤erences," Journal of Experimental Social Psychology, 45, 
+953Œ956 
+[83] McGregor D. (1960) The Human Side of Enterprise, McGraw Hill Higher Education, pp 256. 
+[84] Miguel E. and M. Kremer (2004) "Worms: Identifying Impacts on Education and Health in 
+the Presence of Treatment Externalities," Econometrica, 72(1), 159-217. 
+[85] Mookherjee D. (2003) ﬁPoverty Persistence and Design of Anti-Poverty Policies,ﬂforthcoming 
+in Banerjee, R. Benabou and D. Mookherjee (eds), Understanding Poverty, Oxford University 
+Press 
+[86] Moreira V. (2003) ﬁPoverty and Psychopathology,ﬂin Carr S. C. and Sloan T. S. (eds.) Poverty 
+and Psychology. From Global Perspective to Local Practice, Kluwer Academic/Plenun Publish- 
+ers New York. 
+[87] Mullainathan S. (2006) ﬁDevelopment Economics through the lens of Psychology,ﬂmimeo. 
+[88] Oxoby R. J. (2004) "Cognitive dissonance, status and growth of the underclass," Economic 
+Journal,114, 498, pages 727-749 
+[89] Parducci, A. (1995) Happiness, Pleasure, and Judgment: The Contextual Theory and Its Ap- 
+plications. Erlbaum, Hillsdale. 
+[90] Poortinga, W., Dunstan, F.D., & Fone, D.L. (2008). "Health locus of control beliefs and 
+socio-economic di¤erences in self-rated health" Preventive Medicine, 46 (4), 374-380. 
+[91] Putnam R. (2000) Bowling Alone: The Collapse and Revival of American Community. New 
+York, NY: Simon and Schuster. 
+[92] Quah D. T. (1993) ﬁEmpirical cross-section dynamics in economic growth,ﬂ European Eco- 
+nomic Review, 37, 426-434 
+[93] Quah D. T. (2005) ﬁGrowth and Distribution,ﬂmimeo, LSE. 
+41 
+
+========42========
+
+[94] Rabow J., Sherry L. Berkman and R. Kessler (1983) "The Culture of Poverty and Learned 
+Helplessness: A Social Psychological Perspective," Sociological Inquiry, 53, 4, 419-434. 
+[95] Ray, D. (2003) ﬁAspirations, Poverty and Economic Change,ﬂin A. Banerjee, R. Benabou and 
+D. Mookherjee (eds) Understanding Poverty, Oxford University Press 
+[96] Rao, V. and M. Walton (2004) ﬁCulture and Public Action: Relationality, Equality of Agency, 
+and Development,ﬂin V. Rao and M. Walton (eds.), Culture and Public Action, The Interna- 
+tional Bank for Reconstruction and Development, The World Bank, Washington, DC. 
+[97] Rotter, J.B. (1954). Social learning and clinical psychology. New York: Prentice-Hall. 
+[98] Selten, R. (1998). "Aspiration Adaptation Theory." Journal of Mathematical Psychology 42 
+(2-3), 191-214. 
+[99] Sen, A. (2004) ﬁHow Does Culture Matter?,ﬂ in V. Rao and M. Walton (eds.), Culture and 
+Public Action, The International Bank for Reconstruction and Development, The World Bank, 
+Washington, DC. 
+[100] Simon, H. (1955). "A Behavioral Model of Rational Choice." The Quarterly Journal of Eco- 
+nomics 69 (1), 99-118. 
+[101] Silva, K; S. Scott; V. Totsika; K. Ereky-Stevens; C. Crook, (2008) "Training Parents to help 
+their children read: a randomized control trial," British Journal of Educational Psychology,78, 
+435-455 
+[102] Stark, O. and J.E. Taylor (1991) ﬁMigration Incentives, Migration Types: The Role of Relative 
+Deprivation,ﬂEconomic Journal, 101, 408 1163-78 
+[103] Stark O (2006) ﬂStatus Aspirations, Wealth Inequality, and Economic Growth,ﬂ Review of 
+Development Economics, 10, 1, 171-176 
+[104] Stern N., J-J. Dethier and F. H. Rogers (2005) Growth and Empowerment. Making Devel- 
+opment Happen, Munich Lectures in Economics, The MIT Press, Cambridge, Massachusetts, 
+and London, England. 
+[105] Stutzer, A. (2004) "The role of income aspirations in individual happiness," Journal of Eco- 
+nomic Behavior & Organization, vol. 54(1), pages 89-109 
+[106] Torvik R. (1993) ﬁTalent, growth and Income Distribution,ﬂ Scandinavian Journal of Eco- 
+nomics, 95, 4, 581-596. 
+42 
+
+========43========
+
+[107] Walker, K A. (1997), ﬁThe Aspirations formation of disadvantaged jamaican men youths," 
+PhD dissertation, Virginia Polytechnic Institute and State University, Virginia, January. 
+[108] Wilson, W. J., (1987), The Truly Disadvantaged, Chicago: University of Chicago Press. 
+[109] Wood, J.V. (1989). "Theory and research concerning social comparisons of personal attributes" 
+Psychological Bulletin, 106, 231-248. 
+[110] World Bank (1998) ﬁAssessing Aid: What Works, What Doesn™t and Why?,ﬂ World Bank 
+Policy Research Report, Oxford University Press. 
+[111] World Bank (2002) Empowerment and Poverty Reduction: A Sourcebook, preliminary draft, 
+pp. 280. 
+Appendix 1: Proofs 
+Proof of proposition 1: 
+By continuity of u(a; g) in a and by the compactness of A, a(g) is non-empty. For a0  a and 
+g0  g, note that 
+0; g) 
+Z[u(a 
+ u(a; g)]  [u(a0; g)  u(a; g)] 
+= [p(; a0)  p(; a)] [b(; g0)  b(; g)]d  0: 
+2 
+The –rst equality follows by computation. The second inequality follows from the assumption that 
+p(; a0) –rst order stochastically dominates p(; a) and b(; g) satis–es increasing di¤erences in ; g. 
+By continuity a(g) is non-empty and as payo¤s satisfy increasing di¤erences in (a; g), it follows 
+that there exists a maximal and minimal element in a(g) which is increasing in g. 
+As p(; a0) –rst order stochastically dominates p(; a) for a0  a, ˇ(a) is increasing in a. Therefore, 
+by Tarski™s –x point theorem, B is non-empty and there exists a maximal and minimal element in 
+B. 
+Proof of Proposition 2: 
+By de–nition, (a; g), for all a0 2 A, u(a; g)  u(a0; g) for g = ˇ(a). By (C), for all a0 2 A, 
+u(a; g)  u(a0; g0), g0 = ˇ(a0). It follows that (a; g) 2 M. Next, suppose, by contradiction, 
+(a; g) 2 M but (C) doesn™t hold. As (a; g) 2 B, for all a0 2 A, u(a; g)  u(a0; g) for g = ˇ(a). 
+As, by assumption, (C) doesn™t hold there exists a0 2 A such that u(a; g)  u(a0; g) but u(a; g) < 
+u(a0; g0), g0 = ˇ(a0). But, then, (a; g) 2= M, a contradiction.  
+Proof of Proposition 3: 
+Note that at a standard solution it is the case that( 
+ R 
+) 
+0 = R 
+2 
+@ap(;a^)b(;g^)d 
+p(;a^)@ 
+  
+gb 
+(;g^)d 
+R 
+ @ac(^a) 
++ 
+ 
+2 2 
+@ap(;a^)d 
+43 
+
+========44========
+
+while the "–rst order condition" characterizing a behavioral solution is equivalently, 
+ˆZ 
+0 = 
+@ap(; a; 0)b(; g)d 
+2 
+and 
+Z 
+g = 
+2 
+ 
+˙ 
+ @ac(a; 0) 
+ 
+p(; a)d 
+Clearly, in this setting, condition (C) is equivalent to requiring that 
+0 = f@gu(a; g)@aˇ(a)g 
+or equivalently, 
+ˆZ 
+0 = 
+p(; a)@gb(; g)d 
+2 
+ Z 
+˙ 
+@ap(; a)d 
+2 
+an equality that cannot hold in our model under assumption 1 is satis–ed.  
+Proof of Proposition 4: 
+Under assumption 3(i), p(; a; 0) satis–es increasing di¤erences in a; 0. Under assumption 3(ii), c(a; 0) satis–es decreasing di¤erences in a; 0. It follows, by computation, that if either assumption 
+ u 
+ 
+a; g; 0 
+ 
+0 
+ u(a; g; 0)]  0: 
+3(i) or assumption 3(ii) holds 
+u  
+a0; g; 0 
+ 
+0 
+ 
+ [u(a0; g; 0) 
+and ˇ a; 0 
+ 
+0 
+ ˇ (a; 0). Therefore, the maximal and minimal element in B (0) are increasing in 
+0.  
+Proof of Proposition 5: 
+For simplicity we prove the proposition under assumption 3(ii) (a symmetric argument would 
+hold under assumption 3(i)). For each action an let 
+Z 
+gn = 
+2 
+p(; an)d: 
+By –rst order stochastic dominance note that gn < gn+1, n = 0;1; :::; N 
+ 1. De–ne a sequence 
+fg~k (0) : 0  k  Kg where for each k  1, k < K, g~k (0) solves the equation 
+Z 
+p(; ak+1)b(; g)d 
+Z2 
+= 
+p(; ak)b(; g)d 
+2 
+ c(ak+1; 0) 
+ c(ak; 0): 
+with g~0 (0) =  and g~K (0) = . Observe that under assumption 2 and 3, as c(a; 0) satis–es decreasing di¤erences in a; 0, the right hand side of the equation (derived by re-arranging terms in 
+the preceding equation) 
+= 
+Z 
+(p(; ak+1; 0) 2 
+c(ak+1; 0) 
+ c(ak; 0): 
+ p(; ak; 0))b(; g)d 
+44 
+
+========45========
+
+is decreasing in 0. Therefore, g~k (0) is decreasing in 0 for each k  1, k < K. 
+By construction, note that for each k such that (ak; gk) is a behavioral solution, (i) g0 2 (~gk 
+ 1 
+(0);g~k (0)), u(ak; g0; 0) > u(a; g0; 0) for all a 2 A so that ak is the unique best response and (ii) gk 2 (~gk 
+ 1 
+(0);g~k (0)). Therefore, (~gk 
+ 1 
+(0);g~k (0)) is the basin of attraction of the 
+behavioral decision outcome (ak; gk). Then if g0 2 (~gk 
+ 1 
+(0);g~k (0)), the individual will choose ak 
+and there will end up with an aspiration level gk i.e. the behavioral decision (ak; gk). Therefore, the probability with which the internal constraint binds is equal to the probability that g0 is not in the basin of attraction of the behavioral decision (aK; gK) which, in turn, is the probability that g0 < g~K 
+ 1 
+(0) which is F(~gK 
+ 1 
+(0)). 
+As g~K 
+ 1 
+(0) is decreasing in 0, the probability that internal constraint binds, F(~gK 
+ 1 
+(0)), is decreasing in 0. Therefore, the lower is the initial status of the individual the greater is the probability that the internal constraint binds and in a behavioral decision. 
+By a simillar argument, note that g~0 (0) is decreasing in 0, the probability that internal con- straint binds, F(~g0 (0)), is decreasing in 0. Therefore, the lower is the initial status of the individual the lower is the probability that the DM will choose a1 and aspire g1 = 0 i.e. choose, and aspire, 
+to perpetuate her initial status and be stuck in a behavioral poverty trap.  
+Proof of Proposition 7: 
+Suppose the initial distribution of status is globally dense. Then, by construction, the society 
+is strongly connected. Consider an individual i located at i0 choosing a= a with aspiration level  = 0. Now suppose there is one individual with k with pk  p^  
+k 
+0 
+. This individual k will choose a = a. Moreover, as the society is strongly connected, there is a –nite chain linking k to 
+every other individual j, j 6 = k i.e. there is a –nite chain of individuals i0; i1; :::; in^ with i0 = k and in^ = j such that in belongs to the cognitive neighborhood of in+1, n = 0; :::;n^  1. Therefore, 
+each in, n = 0; :::;n^, chooses 
+0 
+ a 
+= a and aspiration level  =  . It follows that if there exists one individual k with pk  p^  
+k 
+0 
+, all individuals will choose a. More generally, the probability that all 
+k 
+individuals will choose all individuals in it choose a is maxk2N 1  G(^p  
+0 
+) where G(:) is the cdf that determines the initial beliefs p of any one individual in the society.  
+45 
+
+========46========
+

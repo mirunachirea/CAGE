@@ -1,0 +1,1872 @@
+March2012 
+No.78 
+Bombs, Brains, and Science: 
+The Role of Human and Physical Capital for the Creation of Scientific 
+Knowledge 
+Fabian Waldinger University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Bombs, Brains, and Science 
+The Role of Human and Physical Capital for the Creation of Scienti–c 
+Knowledge 
+Fabian Waldinger (University of Warwick) 
+February 29, 2012 
+Abstract 
+This paper analyzes the e¤ects of human capital (HC) and physical capital (PC) for the productivity of science departments. To address the endogeneity of input choices I use two extensive but temporary shocks to the HC and PC of science departments. As HC shock I use the dismissal of mostly Jewish scientists in Nazi Germany. As PC shock I use the destruction of facilities by Allied bombings during WWII. In the short run, a 10 percent to HC lowered departmental productivity by about 0.21sd. A 10 percent shock to PC lowered departmental productivity by about 0.05sd in the short run. While the HC shock persisted until the end of my sample period (1980), departments experiencing a PC shock recovered very quickly (by 1961). Additional results show that the dismissal ‚star scientists™was particularly detrimental, and that a fall in the quality of hires was an important mechanism for the persistence of the HC shock. 
+1 Introduction 
+Which inputs lead to successful scienti–c research? As for the production of goods, basic inputs for producing scienti–c knowledge are human and physical capital, i.e. scientists and their laboratories (Machlup, 1961). Understanding the relative role of these inputs is important for researchers, university administrators, and policy makers alike. At the moment, many countries such Brazil, South Korea, and especially China, are investing heavily in their university system (Kugler, 2011, Rhee, 2011, Wang et al. 2011). Should they hire outstanding scholars or construct new laboratories to achieve the highest return on their investment? The answers to these questions are particularly relevant in a world where ideas and scienti–c knowledge are seen as key drivers of technological progress and economic growth (Romer, 1990). 
+Christoph König, Veronika Rogers-Thomas, and Michael Talbot provided excellent research assistance. I thank Victor Lavy, Guy Michaels, Andrew Oswald, Steve Pischke, Daniel Sturm and seminar participants at BENA Berlin, IIES, IoE London, Oxford, Royal Holloway, SSE, Stockholm, Stirling, TI Amsterdam, Warwick, and the Christmas Conference of German Economists Abroad for very helpful comments. A large number of university archivists have been very helpful at providing datasources for the construction of department level destruction data. I am very grateful to all of them. E-mail address: f.waldinger@warwick.ac.uk. 
+1 
+
+========2========
+
+Despite the signi–cance of these issues we know little about the e¤ects of di¤erent inputs for the production of scienti–c knowledge. As highlighted for –rms by a large literature in industrial economics, the estimation of production functions is complicated because inputs are often chosen on the basis of unobservable productivity shocks (e.g. Ackerberg, et al. 2007). Estimating ‚knowledge production functions™is similarly challenging. ‚Star scientists™may be attracted by more productive departments and at the same time enhance the department™s productivity. Similarly, high quality departments attract more funding for physical capital which further increases productivity. Obtaining unbiased estimates for the e¤ects of human and physical capital is further complicated because good scientists attract funding for additional physical capital. 
+To overcome these di¢ culties I use two extensive, but temporary, shocks. As human capital shock I use the dismissal of mostly Jewish scientists in Nazi Germany and Austria between 1933 and 1940. As physical capital shock I use the destruction of science facilities by Allied bombings during WWII. The two shocks a¤ected science departments very di¤erently and therefore create ample variation. The dismissal of scientists reduced the faculty by up to 60 percent in some departments while others remained una¤ected. Similarly, Allied bombings completely destroyed some departments while others were not a¤ected. 
+I investigate how the two shocks a¤ected department productivity in the short run, and whether they persisted in the long run. To analyze these e¤ects I construct a new data set of all scientists in German and Austrian physics, chemistry, and mathematics departments at seven points in time between 1926 and 1980. The micro data contain more than 10,000 scientist- year observations with detailed productivity measures in top journals for each scientist. I use this data to construct productivity measures for all science departments between 1926 and 1980. I add data on the two shocks from detailed historical records of dismissals from German and Austrian universities in Nazi Germany and from archival material on bombing destruction during WWII. 
+Results show that both human and physical capital shocks had a negative e¤ect on scienti–c output in the short run. A 10 percent shock to human capital lowered departmental productivity by about 0.21 standard deviations. A 10 percent shock to physical capital lowered productivity by about 0.05 of a standard deviation in the short run. As the two shocks only had a temporary e¤ect on inputs, I can investigate their long-run e¤ects. The human capital shock persisted in the long run and continued to have a negative impact on scienti–c output almost 50 years after the dismissals (in 1980). The physical capital shock, however, did not persist. The productivity of departments that had been bombed during WWII had recovered by 1961. By 1970, bombed departments even had slightly higher productivity than other departments; this suggests that bombed departments bene–tted from upgrading during post-war reconstruction (these results are only signi–cant in some speci–cations). 
+I show that the results are not driven by other changes that a¤ected the German and Austrian university system which may have been correlated with the two shocks. In particular, the results are robust to controlling for post-war occupations zones (U.S., U.K., French, or 
+2 
+
+========3========
+
+Soviet zones) and dropping East German and Austrian universities from the sample. The results are also robust to controlling for the creation of federal states after WWII. Similarly, controlling for changes at the university level, such as changes in university age and increased competition from newly founded universities does not a¤ect the results. I also show evidence that changes at the city level are not driving my –ndings; the results are robust to controlling for bombing destruction at the city level, changes in the overall fraction of Jews in a city, investment in armament related industries by the Nazi government, and the erection of the ‚iron curtain™. 
+Recent work has highlighted the contribution of ‚star scientists™ to the advancement of scienti–c knowledge (Azoulay, Zivin, and Wang, 2010). Many of the dismissed scholars were among the leaders of their profession; the dismissed include 11 Nobel Laureates such as the physicists Albert Einstein, Max Born, and Erwin Schrödinger and the chemists Fritz Haber and Otto Meyerhof. I can therefore investigate whether losing high quality scientists had particularly large e¤ects on departmental productivity. I –nd that the dismissal of high quality scientists was associated with a larger productivity decline. Losing ‚star™ scientists was particularly detrimental. The loss of a scientist in the top 5th percentile of the quality distribution lowered long-run productivity by between 0.7 and 1.6 standard deviations (compared to an e¤ect of 0.2 standard deviations for losing any scientist). 
+I then evaluate some possible mechanisms for the persistence of the human capital shock. I show that a reduction in department size after the dismissals only explains some of the productivity decline. A key mechanism for the persistence of the human capital shock was a permanent fall in the quality of hires, in particular after the dismissal of high quality scientists. As previous research has shown, localized productivity spillovers are unlikely to drive persistence in this context (Waldinger, 2011). 
+To my knowledge, no previous paper has analyzed the role of human and physical capital for the creation of scienti–c knowledge using exogenous variation in inputs. Existing empirical evidence has shown that scienti–c productivity of university departments is correlated with department size and research expenditure (Johnes, Taylor, and Francis, 1993). At the country level, patenting is signi–cantly related to R&D manpower and spending (Furman, Porter, and Stern, 2002).1 
+My –ndings also relate to several papers investigating the persistence of large economic shocks. Physical capital shocks, such as extensive bombings, usually dissipate relatively quickly (Davis and Weinstein, 2002, Brackman, Garretsen, Schramm, 2004, Miguel and Roland, 2011).2 
+1A number of papers investigate other drivers of university productivity. University governance signi–cantly a¤ects how changes in funding a¤ect research performance (Aghion et al., 2010). An increase of university funding increases the number of published papers but not their quality (Payne and Siow, 2003, Whalley and Hicks, 2011). At the level of individual scientists, National Institutes of Health (NIH) funding only has a limited impact on the research of marginal grant recipients (Jacob and Lefgren, 2011). Howard Hughes Medical Institute grants, however, which tolerate early failure and reward long-run success, increase the probability of publishing high-impact papers (Azoulay, Gra¤ Zivin, and Manso, 2011). 
+2Other physical capital shocks, such as the massive infrastructure investment in the Tennessee valley between the 1930s and 1950s only had limited long-run e¤ects that will likely disappear with time (Kline and Moretti, 2011). 
+3 
+
+========4========
+
+Most human capital shocks, however, seem to persist in the long run. The extinction of the Jewish population in the Soviet Union by the German Army during WWII still a¤ects city growth, per capita income, wages, and political outcomes today (Acemoglu, Hassan, Robinson, 2011) and reduces entrepreneurship and support for markets and democracy (Grosfeld, Rod- nyansky, and Zhuravskaya, 2011). In Germany, the decline of the Jewish population during the Nazi era had persistent negative e¤ects on education levels (Akbulut-Yuksel and Yuksel, 2011). In the present paper I analyze the persistence of human and physical capital shocks within the same framework for the –rst time. My results corroborate the –ndings of earlier papers that have separately analyzed human and physical capital shocks. 
+This paper also improves our understanding of Germany™s decline as scienti–c superpower after WWII. At the beginning of the 20th century, German scientists were at the pinnacle of their profession (American Association for the Advancement of Science, 1941) and the leading German universities, especially Göttingen and Berlin, attracted large numbers of foreign schol- ars. Physicists like Arthur Compton (Nobel Prize, 1927) and Robert Oppenheimer from the United States, Leo Szilard and Eugene Wigner (Nobel Prize, 1961) from Hungary, Enrico Fermi (Nobel Prize, 1938) from Italy, and many Germans such as Werner Heisenberg (Nobel Prize, 1932), Max Born (Nobel Prize, 1954), and James Frank (Nobel Prize, 1925) had permanent or visiting positions in Göttingen during the 1920s (Dardo, 2004, p. 171).3 After WWII, German science declined massively and the United States became the dominant scienti–c force. This development is re⁄ected in data on Nobel Prizes as shown in appendix Figure A1. Germany™s decline may have been caused by a number of factors. The dismissal of some of the most prominent scientists (among them 11 Nobel laureates) and bombing destruction during WWII are obvious factors that I consider in this paper. 
+My estimates indicate that the dismissal of scientists reduced total output in a¤ected Ger- man and Austrian science departments by 9,576 top journal publications between 1933 and 1980; a reduction of about 33.5 percent. In terms of citations weighted publications, a¤ected German science departments lost 191,920 (34.6 percent) citations due to the dismissal. Dis- missed scientists themselves produced 1,181 top journal publications receiving 32,369 citations. This shows that the e¤ect of the dismissals on German science was much larger than the direct loss of publications and citations of dismissed scientists because the productivity loss in a¤ected departments persisted at least until 1980. 
+WWII bombings of German science departments reduced total output of a¤ected depart- ments by 1,028 top journal publications between 1944 and 1980; a fall of about 5.7 percent. Citation weighted publications declined by 22,194 (6.4 percent).4 These calculations indicate that the dismissal of scientists in Nazi Germany contributed about 9 times more to the decline of German science than physical destruction during WWII.5 
+3Many of these illustrious scientists were later dismissed by the Nazi regime. Max Born and James Franck were dismissed from their professorships in Göttingen in 1933. Leo Szilard and Eugene Wigner who had moved to the University of Berlin and the Technical University of Berlin were also dismissed in 1933. 
+4The time periods for the calculation of percentage losses for dismissals and bombings are di¤erent because dismissals a¤ected productivity from 1933 onwards, but bombings only a¤ected productivity after 1943. 
+5For subject level results and details on these calculations see appendix section 8.3. 
+4 
+
+========5========
+
+2 Human and Physical Capital Shocks 
+The production of scienti–c knowledge uses human and physical capital as main inputs (Machlup, 1961): 
+Y = f(H,K) 
+where Y measures output such as publications or citations in top journals, H measures human capital and K measures physical capital. University governance determines how human and physical capital are combined to produce scienti–c knowledge. Recent research has shown that more autonomous universities and those operating in a more competitive environment are better at converting funding increases into research output (Aghion et al., 2009). 
+Estimating knowledge production functions is challenging because inputs are often chosen on the basis of unobservable productivity shocks (Ackerberg et. al., 2007). ‚Star scientists™may be attracted by highly productive departments and at the same time enhance the department™s productivity. Similarly, investment in physical capital usually occurs in more productive univer- sities. Establishing causality is therefore challenging. An additional problem is the separation of human and physical capital e¤ects because good scientists like to work in universities with well equipped laboratories and attract funding for additional physical capital. 
+Even without these endogeneity concerns it would be challenging to directly estimate the production function of universities because of the di¢ culty to obtain information on physical capital of science departments over reasonably long time periods.6 I therefore use an indirect way to identify the importance of human and physical capital by investigating the persistence of large, and I argue exogenous, shocks to the human and physical capital of German and Austrian science departments. I estimate the short-run impact and the long-run persistence of these shocks as follows: 
+Outputdt =  
+1 
++ 
+P 
+t 
+ 
+2tHCShock(1933-40)d 
+* Yeart +Pt  
+3t 
+PCShock(1942-45)d * Yeart 
++  
+4 
+DepartmentFEd +  
+5YearFEt 
++ "dt 
+(1) 
+Where Output is a measure of a department d™s research output in year t, such as total publications or citation weighted publications. HCShock(1933-40) measures the temporary shock to human capital during the dismissal of mainly Jewish scientists between 1933 and 1940. PCShock(1942-45) measures the temporary shock to physical capital during Allied bombings that occurred between 1942 and 1945. I describe both shocks in more detail below. The interactions of the shocks with year dummies (one for each of the 7 years between 1926 and 1980 for which I observe department productivity)7 allow me to investigate the persistence of the two shocks.8 
+6In fact, I have unsuccessfully tried to obtain consistent measures of physical capital for German and Austrian science departments for this paper. 
+7One of the 7 interactions will be the excluded category for each shock. 
+8Some science professors may have been killed by Allied bombings and thus bombings may have had a direct impact on human capital. In my data there is no evidence that the number of scientists who disappear from the sample between 1940 and 1950 is correlated with bombing destruction at the department level. In a regression 
+5 
+
+========6========
+
+2.1 Human Capital Shock: The Dismissal of Scientists in Nazi Ger- 
+many 
+As a human capital shock I use the dismissal of Jewish and ‚politically unreliable™scientists by the Nazi government. Just over two months after the National Socialist Party seized power in 1933, the Nazi government passed the ﬁLaw for the Restoration of the Professional Civil Serviceﬂ on the 7th of April of 1933. At once, all Jewish and ‚politically unreliable™persons were dismissed from civil service positions in Germany. Anybody with at least one Jewish grandparent was to be dismissed. All civil servants therefore had to document their ancestry and those with Jewish grandparents were dismissed from service. Scientists of Jewish origin who had been civil servants since 1914 or who had lost a close family member in WWI were initially exempted from the dismissals. In 1935, however, the Reich citizenship laws (Reichs- bürgergesetz) revoked the exemption and remaining scientists of Jewish origin were ultimately dismissed. The 1933 law was also used to dismiss civil servants with opposing political views. All members of the Communist Party, for example, were classi–ed as ‚politically unreliable™ persons and were dismissed. The law was immediately implemented and resulted in a wave of dismissals and early retirements from the German universities.9 
+Overall, more than 1,000 academics were dismissed from the German universities. Shortly after the annexation of Austria on the 12th of March, 1938 the law was also implemented in Austrian universities. My calculations indicate that 15.0 percent of physicists, 14.1 percent of chemists, and 18.7 percent of mathematicians were dismissed between 1933 and 1940 (Table 1). Most dismissals from German universities occurred in 1933, immediately after the law was implemented. The small spike in dismissals in 1938 is driven by dismissals from Austrian universities.10 
+Many dismissed scientists were outstanding members of their profession. On average, they published more papers in top science journals and received more citations than scientists who were not dismissed. While 15.0 percent of physicists were dismissed, they published 23.8 percent of papers in top journals before 1933 and received 64 percent of the citations to papers published before 1933. In chemistry, 14.1 percent were dismissed but they published 22 percent of the papers in top journals, and received 23.4 percent of the citations. In mathematics, 18.7 percent were dismissed, but they contributed 31.0 percent of the top journal publications, and received 61.3 percent of the citations (Table 1). Moreover, 11 current or future Nobel laureates were 
+of the number of scientists who disappear from the sample in each department (for non-retirement reasons) on bombing destruction, the coe¢ cient on destruction interacted with the 1950 dummy is -0.006 with a p-value of 0.43. The lack of a correlation of the bombings with the unexplained disappearance from the sample is not surprising because the total number of bombing casualties was relatively low. Historians are still debating about the exact number of bombing casualties but estimates range from 305,000 (United States Strategic Bombing Survey, 1945, p. 95) which is probably an underestimate to between 750,000 and one million (Frankland, 2005, p. 833 ) which may be too high. The German population at the beginning of WWII was about 69.3 million. Therefore, between 0.4 and 1.4 percent of the German population was killed by Allied bombings. 
+9For more details on the dismissal of professors and the consequences for Ph.D. students and contemporaneous e¤ects on faculty peers see Waldinger (2010, 2012). 
+10Dismissals that occurred in German universities after 1933 a¤ected researchers who had been exempted under the clause for war veterans or for who had taken up their position before 1914. Furthermore, some political dismissals occurred after 1933. 
+6 
+
+========7========
+
+dismissed. 
+My data do not allow me to identify whether researchers were dismissed because of their Jewish origin or because of their political orientation. Historical studies, however, have shown that about 87 percent of the dismissed in chemistry (Deichmann, 2001), and 79 percent of the dismissed in mathematics (Siegmund-Schultze, 1998) were either Jewish or of Jewish decent. The remaining dismissals occurred for political reasons. 
+Most of the dismissed scientists emigrated and the majority of them obtained positions in foreign universities (Moser, Voena, and Waldinger, 2012). The main destinations were the United States, the United Kingdom, Turkey, the British Mandate of Palestine (later Israel), and Switzerland. A very small minority of the dismissed did not leave Germany and most of them died in concentration camps or committed suicide. Extremely few managed to stay in Germany and survive the Nazi regime, they were no longer allowed to use university laboratories and other resources. As a result, they did not contribute to the scienti–c output of their former departments. 
+The aggregate numbers hide the fact that German and Austrian universities were a¤ected very di¤erently by the dismissals. Even within a university there was a lot of variation across di¤erent departments. Some departments lost more than 60 percent of their personnel while others remained completely una¤ected (Table 2). An example for the large variation in dis- missals is the University of Heidelberg. It lost 60 percent of the mathematicians and almost 10 percent of chemists during the dismissals. In physics, however, not a single scientist was dismissed. 
+2.2 Physical Capital Shock: Allied Bombings of Universities in World 
+War II 
+As physical capital shock I use destruction by allied bombings during WWII. At the beginning of the war in 1939, the Royal Air Force (RAF) concentrated bombings on military targets, such as the German ⁄eet. Other targets were only bombed after the German invasion of the Low Countries and the bombing of Rotterdam by the Luftwa¤e in May, 1940. To avoid the German antiaircraft defence the majority of bombing raids were ⁄own under the cover of darkness; this made targeting extremely di¢ cult. During this period, the RAF mainly targeted oil reservoirs, railway lines in the Ruhr area, aircraft factories, aerodromes, U-boat shipyards, and ports. 
+In the autumn of 1940, the RAF ⁄ew the –rst ﬁarea attacksﬂon German cities to ﬁa¤ect the morale of the German peopleﬂ(Webster and Frankland, 1961 p. 156) and to ﬁconcentrate the maximum amount of damage in the centre of townﬂ(Peirse, 1940). The –rst "area attack" was ⁄own by 134 RAF bombers on December 16th, 1940, and targeted the inner city of Mannheim in the south of Germany. The attack was a response to the devastation of Coventry by the German Luftwa¤e during the autumn of 1940. 
+During 1941, the RAF increased the number of small scale "area attacks" on German cities. Most of these attacks, however, did not cause any large destruction as only about 20 percent 
+7 
+
+========8========
+
+of bombers managed to navigate within –ve miles of their destination, even less managed to hit the target. As a result, the smallest potential targets were whole towns (Frankland, 2005, Webster and Frankland, 1961, vol. 1, p.156, p.257). Even these were often missed. A bombing raid of Karlsruhe and Stuttgart on October 1st, 1941, for example, not only hit the two targets but also 25 other cities such as Aachen, Chemnitz, or Würzburg, several hundred kilometers away (Webster and Frankland, 1961, vol. 1, p. 185). 
+The appointment of Sir Arthur Harris as head of "Bomber Command" on February 23rd, 1942, and the ﬁArea Bombing Directiveﬂthat was issued a week earlier caused an intensi–cation of the bombing campaign as more planes were deployed in each raid. An example is the –rst 1,000 bomber attack against Cologne on May 30th, 1942. The raid damaged about a third of Cologne™s surface area (Hohn, 1991 p.12, Webster and Frankland, 1961, vol. 1, p. 340, pp. 402- 410).11 To maximize destruction of inner cities the RAF used incendiary bombs that caused great –res in bombed cities. The introduction of heavy bombers (in particular the Lancaster bomber that was gradually introduced after March, 1942), the use of radar and radar-like devices (introduced in March, 1942), and the deployment of Path–nder target marking planes (–rst used in January, 1943) increased the precision and e¢ ciency of bombings. 
+In January, 1943, the United States Army Air Force (USAAF) entered the bombing cam- paign against Germany.12 While the British continued to ⁄y night time raids and in particular "area attacks" against inner cities, the USAAF mostly attacked during the day and bombed strategically important targets such as the German aircraft and ball bearings industries. 
+The bombing of targets in Germany intensi–ed in 1944 with the introduction of the ﬁdouble blowﬂtactic. Two, or later three, bombing attacks over short time periods increased the e¢ cacy of incendiary bombs. The increased air supremacy of the Allied forces further facilitated the bombings. Towards the end of the war the bombardments were extended to smaller cities that had been spared in previous attacks. 
+Overall, about 1.35 million tons of bombs were dropped over German territory during WWII. Data on monthly bomb loads show an almost continuous increase between 1940 and 1945, with particularly large increases in the last years of the war (Figure 1). 
+11The previous 107 attacks on Cologne had involved at most 40 planes each. 
+12While the –rst months of the US air o¤ensive against Germany were only moderately successful, the e¤ec- tiveness of USAAF operations greatly improved towards the end of 1943. These changes were achieved by an increase in the production of bombers, by the introduction of long-range Mustang –ghters which gave bomber formations added protection, and by the establishment of U.S. air bases in Italy. 
+8 
+
+========9========
+
+150 
+100 
+50 
+Monthly bombing in ktons 
+0 
+1939 
+1940 
+1941 
+1942 Year 
+1943 
+1944 
+1945 
+Figure 1: Allied bombings 
+Note: The –gure shows the monthly amount of bombs (in tons), that was dropped on German territory during WWII. Data source: Webster and Frankland (1961), Annex. 
+Allied bombings, in particular during the last two years of WWII, completely destroyed about 18.5 percent of homes in what later became the Federal Republic of Germany (Hohn, 1991, p. 59). As area bombings targeted the inner cities of all larger cities they were most heavily a¤ected. 
+Universities were never listed as targets in any of the Allied bombing directives and sim- ilar documents. Nonetheless, many university facilities were destroyed because bombs could not be precisely aimed until the end of WWII. Because of the targeting problems bombs fell relatively randomly within cities and there was large variation in destruction across di¤erent university departments (Table 2). Targeting buildings of particular departments would have been impossible. Because many bombing raids involved the use of incendiary bombs, –res in a¤ected buildings destroyed most of the scienti–c equipment and important manuscripts that had not been relocated to safer locations.13 The –res also destroyed many of the valuable private libraries that professors had assembled during their career. 
+As bombings intensi–ed in 1944 most science departments were hit in 1944 and 1945. For some universities I obtain exact dates for the –rst and last bombing raid that destroyed uni- versity buildings. According to these data, the –rst raid occurred in June, 1941, and destroyed buildings at the Technical University of Aachen. Bombing raids that hit other universities continued and intensi–ed until the end of WWII. 
+After the end of the war on May 8th, 1945 reconstruction of university buildings was initially hampered by a lack of funds and skilled craftsmen, missing supplies, and the devastation of 
+13Many departments relocated material to safer town but even those were often bombed later on. The theoretical physics section of the University of Bonn, for example, moved equipment to Hildburghausen in Thuringia but the temporary site was bombed towards the end of the war (van Rey, 1995 p. 36). 
+9 
+
+========10========
+
+many German cities. Most universities enlisted students to help with reconstruction. The universities of Bonn, Karlsruhe, and Hannover, for example, required up to 1,000 reconstruction service hours from its students until 1949 (van Rey, 1995 p. 42, Hoepke, 2007 p. 137, Wolters, 1950 pp. 123-129). Most universities completed reconstruction by the end of the 1950s but some work lasted until the 1960s (Hoepke, 2007 p. 139, Technische Universität Dresden 1996, pp. 18-36). 
+3 Panel Data Set of German Science Departments 
+3.1 Scientists in German and Austrian Universities from 1926 to 
+1980 
+To evaluate the impact and persistence of the two shocks on the productivity of science depart- ments I construct a new panel data set covering physicists, chemists, and mathematicians at German and Austrian universities. The data come from ﬁKürschners Deutscher Gelehrtenkalen- derﬂ that has been published since the 1920s in 5 to 10 year intervals. Data from volumes published in 1926, 1931, 1940/41, 1950, 1961, 1970, and 1980 allow me to construct complete faculty rosters for science departments at these seven points in time, spanning 54 years. From each volume I extract all scientists who were chaired professors, extraordinary professors, or ‚Privatdozenten™(the –rst position in the German university system with the right to give lec- tures).14 To obtain a sample that is comparable over time, I focus on scientists in all 35 German or Austrian universities that existed in 1926 and remained on German (both FRG and GDR) or Austrian territory after 1945 (see Table 2 for a listing of the universities in my sample).15 As I obtain data on physics, chemistry, and mathematics departments in each university, the –nal data set contains 105 science departments.16 The data appendix provides more details on the scientists data. 
+The micro data include 5,716 scientists (2,456 chemists, 2,000 physicists, and 1,260 mathe- maticians) with 10,387 person-year observations (4,605 in chemistry, 3,594 in physics, and 2,188 in mathematics). The number of scientists in German and Austrian universities increased mas- sively after 1926. The exception is 1941 (and 1950 in chemistry), the –rst data point after the dismissal of scientists (Figure 2). 
+14Privatdozenten are comparable to junior faculty at U.S. universities. Extraordinary professors are compa- rable to associate professors and chaired professors are comparable to full professors in the U.S. system. 
+15This excludes three universities (the University of Breslau, now Wroclaw, the Technical University of Breslau and the University of Königsberg, now Kaliningrad) that were on German territory in 1926 but became part of Poland or the Soviet Union after 1945. As the "Gelehrtenkalender" no longer listed researchers from these three universities after 1945 they cannot be included in the long-term analysis. Most scientists from these universities relocated to universities that continued to be in Germany after 1945. 
+16Scientists in universities located in the GDR were not listed in the "Gelehrtenkalender" in 1980. 
+10 
+
+========11========
+
+1200 
+1000 
+Bombing Shock 
+Dismissal Shock 
+800 
+600 
+Number of Scientists 
+400 
+200 
+1930 
+1940 
+1950 
+1960 
+1970 
+1980 
+# of chemists # of mathematicians 
+# of physicists 
+Figure 2: Number of scientists 1926-1980 
+Note: The –gure reports the number of scientists in German and Austrian universities in chemistry, physics, and mathematics at each of the 7 points in time covered by the data. Data come from Kürschners Deutscher Gelehrtenkalender (see text for details). 
+3.2 Productivity Measures for German and Austrian Science De- 
+partments 
+To measure productivity at the department level I –rst obtain publications and citation weighted publications for each scientist in the sample. The publication data are downloaded from the "ISI Web of Science" and include all top journals for German and Austrian scientists. As journal rankings changed over time, I download both historical and current top journals. 
+The list of historical top journals includes all science journals published in Germany and are covered by the Web of Science between 1920 and 1944.17 I add a number of general science journals (e.g. Nature and Science) and historically relevant international –eld journals (e.g. Acta Mathematica) that were outlets for German scientists in the 1920s and 30s. I augment the list of historical top journals with a set of current top journals that I obtain from commonly used journal rankings. See Table A1 for the complete list of top journals used in the analysis and the data appendix for additional information on the journal data. 
+I download all articles published between 1920 and 1985 in any of the journals in my list.18 I 
+17Historical journals with coverage in the Web of Science were the top journals at their time be- cause Thomson Scienti–c digitized only the most cited journals for the period 1900 to 1944. See http://wokinfo.com/products_tools/back–les/cos/ for further information on the digitization of historical top journals. 
+18A few top journals, such as Physical Review Letters, were founded after 1920. For these journals I download all articles after their creation. The changing pool of journals does not a¤ect my –ndings as all regressions include year –xed e¤ects. 
+11 
+
+========12========
+
+can therefore calculate the number of top journal publications (and citation weighted publica- tions) for each scientist.19 The Web of Science data only include the last name and the initial of the –rst name (or two initials if the author uses two –rst names) for each author. Most German scientists have distinct last names that are also di¤erent from most foreign names. In the rare cases that the last name - –rst initial combination does not uniquely identify a scientist in my data I split (citation weighted) publications according to the number of scientists with the same last name - –rst initial combination. Table A2 shows the most cited scientists in my data. Most of these scientists are very well known in the scienti–c community. This indicates that the productivity measures carry meaningful information. Interestingly, Johann von Neumann who later emigrated to the United States is the most cited mathematician in the data. 
+To measure department productivity for each of the seven points in time I add individual pro- ductivity measures within departments. Individual productivity is measured using a –ve year window around the relevant year. Albert Einstein™s individual productivity measure for 1926, for example, is the sum of his publications between 1923 and 1927.20 I then sum these individ- ual productivities within departments. Say a department had three scientists with individual productivities equal to 1, 2, and 3; total department productivity would then be 1+2+3=6. The Web of Science data not only include publications but also the number of times each article was subsequently cited in any journal covered by the Web of Science. I can therefore construct an additional productivity measure based on citation weighted publications.21 
+Publication and citation patterns are very di¤erent across the three subjects. To ensure comparability across subjects I normalize total department productivity to have zero mean and unit variance in each subject. This also allows for easy interpretation of the estimated regression coe¢ cients. 
+3.3 Data on Dismissals 
+I obtain data on dismissed scientists from a number of sources. The main source is the ﬁList of Displaced German Scholarsﬂ. It was compiled by the relief organization ﬁEmergency Alliance of German Scholars Abroadﬂ that had been founded by some dismissed scientists with the purpose of supporting other dismissed scholars to –nd positions in foreign universities. The list was published in 1937 and contained about 1,650 names of dismissed researchers. I extract all 
+19To reduce measurement error I focus on publications that correspond to the scientist™s subject. For physi- cists, for example, I only use publications in top physics and general science journals that are outlets for physicists. I do not consider possible publications in chemistry journals. While this may underestimate the publications of some scientists it is preferable to counting large numbers of irrelevant publications because the last name - –rst initial combination does not perfectly identify scientists, especially across –elds. 
+20Publications are measured using an asymmetric window around the relevant year of the "Gelehrtenkalen- der"; i.e. productivity for the faculty in 1926 is measured with publications between 1923 and 1927 (instead of publications between 1924 and 1928). This asymmetry accounts for the delay in the publication of the "Gelehrtenkalender" as questionnaires for a certain volume had to be sent out and returned before publication. Using a symmetric window to compute average productivities does not a¤ect the results. 
+21The citation weighted productivity measure is constructed as above by adding all citations to publications published in a –ve year window around the relevant year. For 1926, for example, I add all citations to articles published between 1923 and 1927. Citations are counted until today. 
+12 
+
+========13========
+
+dismissed physicists, chemists, and mathematicians from the "List". 
+As the ﬁListﬂwas published before 1938 it did not include dismissals from Austrian univer- sities. I consult the ﬁBiographisches Handbuch der deutschsprachigen Emigration nach 1933 - Vol. II : The arts, sciences, and literature (1983)ﬂ to obtain dismissals from Austria.22 This source also contains a few additional dismissals from German universities, for example, because dismissed scientists passed away before the ﬁList of Displaced German Scholarsﬂwas compiled. The two sources together cover about 90 percent of all dismissals. I augment this information with data on a few additional dismissals from three secondary sources compiled by historians who have studied the dismissal of scientists in Nazi Germany.23 
+3.4 Data on Bombings of Science Departments 
+No existing data set covers bombing destruction of German and Austrian science departments. To measure department level bombing destruction, I therefore assemble a new data set from information in university archives. Bombed university institutes often provided detailed reports of destruction levels to obtain funds and materials for reconstruction. I construct departmental destruction using information from these reports that I obtain in a two-step process. 
+First, I contacted university archivists and asked them for information on destruction levels for all buildings used by physicists, chemists, and mathematicians. In some cases departments did not report destruction in percentages but instead gave verbal descriptions of bombing damages. I convert this information into percentage destruction using a rule outlined in the data appendix. For universities where archivists could not provide destruction information, I or my research assistant personally consulted the historical reports in the respective university archive to obtain the missing information.24 
+To analyze the importance of measurement error I also construct a measure of bombing destruction at the university level. The data for this alternative measure come from information on university websites and a number of additional sources (Tietze, 1995, Phillips, 1983, Samuel and Thomas, 1949, Schneider, 1990, and Cheval, 1991). The data appendix provides additional details on the destruction data. 
+3.5 Data on Control Variables 
+To investigate the robustness of my –ndings to the inclusion of additional controls I obtain data on university age, the creation of nearby universities, the share of –rms in armament related 
+22The ﬁHandbuchﬂ was jointly compiled by the ﬁInstitut für Zeitgeschichte Münchenﬂ and the ﬁResearch Foundation for Jewish Immigration New Yorkﬂ. I use information contained in Kröner (1983) to extract all dismissed scientists from the ﬁHandbuchﬂ. 
+23Dismissed chemists are contained in Deichmann (2001), dismissed physicists in Beyerchen (1977) and dis- missed mathematicians in Siegmund-Schultze (1998). 
+24This two-step method did not yield department level destruction data for the University of Darmstadt. I therefore use university level destruction for this university. 
+13 
+
+========14========
+
+industries in 1933, the fraction of Jews at the city level in 1933, and the distance to the ‚iron curtain™. Further information on the control variables can be found in the data appendix. 
+Combining the data from all sources I obtain a panel data set of German and Austrian science departments that I observe at seven points in time (1926, 1931, 1940, 1950, 1961, 1970, and 1980). The data include di¤erent measures of department productivity, information on dismissal and bombing shocks, and time-varying control variables. 
+4 Persistence of Human and Physical Capital Shocks 
+4.1 Main Results 
+I investigate the persistence of the human and physical capital shocks by estimating equation (1). First, I analyze how the dismissal shock a¤ected the productivity of science departments. As dismissals occurred between 1933 and 1940, with most dismissals happening in 1933, the –rst post-dismissal observation is 1940. Regression results indicate that between 1931 (the last data point before the dismissals) and 1940 productivity in departments with dismissals fell signi–cantly compared to departments without dismissals (Table 3, column 1). Coe¢ cients on the interactions with subsequent years indicate that this e¤ect persisted until 1980. Controlling for subject times year –xed e¤ects to allow for di¤erential productivity trends in the three subjects does not a¤ect the results (column 2). Further controlling for occupation zone (U.S. zone, U.K. zone, French zone, Soviet zone) times post-1945 dummies has a negligible e¤ect on estimated coe¢ cients but lowers standard errors (column 3). The estimates imply that the dismissal of one scientist lowered department productivity, even the long run, by between 0.17 and 0.28 standard deviations (column 3). 
+I next analyze how the bombing shock a¤ected productivity. As Allied bombings intensi–ed towards the end of the war, the –rst post-bombing observation is 1950. The estimates indicate that productivity of departments that were bombed during WWII declined between 1941 and 1950 compared to other departments. This e¤ect is only signi–cant at the 5 percent level if I control for subject times year –xed e¤ects and occupation zone times post-1945 dummies (Table 3, columns 4 to 6). The estimates imply that the destruction of 10 percent of department buildings lowered productivity by 0.05 standard deviations. Productivity recovered very quickly after WWII. Already in 1961, there was no signi–cant di¤erence between departments that were bombed during WWII and other departments. By 1970, departments that were bombed even performed slightly better than other departments. While these results are only signi–cant at the 10 percent level in two of the three speci–cations they suggest that upgrading during reconstruction may have had a small positive e¤ect on the productivity of bombed departments in the longer-run. 
+Jointly estimating long-run e¤ects of the bombing and dismissal shocks leads to very similar conclusions (Table 3, columns 7 to 9). To investigate whether the bombing results are driven 
+14 
+
+========15========
+
+by the destruction of department buildings or by more general destruction at the city level, I add interactions of year dummies with city level destruction to the regression. The results do not change substantially (Table 3, column 10). This indicates that productivity is primarily driven by department facilities and not by more general city level e¤ects. 
+To investigate the relative magnitude of the two shocks I plot the e¤ect of 10 percent shocks to the human and physical capital of a hypothetical science department. For this exercise I scale coe¢ cients and standard errors as reported in column (10) of Table 3 to re⁄ect a 10 percent shock to both human and physical capital.25 
+Persistence of Dismissal Shock 
+Persistence of Bombing Shock 
+.2 
+.2 
+.1 
+.1 
+0 
+0 
+­.1 
+­.1 
+­.2 
+­.2 
+Effect of Dismissing 10 % 
+Effect of 10 % Destruction 
+­.3 
+­.3 
+­.4 
+­.4 
+­.5 
+­.5 
+1930 
+1940 
+1950 
+Year 
+1960 
+1970 
+1980 
+1930 
+1940 
+1950 
+Year 
+1960 
+1970 
+1980 
+Figure 3: Persistence of 10% shocks - publications 
+Note: The –gure plots scaled regression coe¢ cients and 95 percent con–dence intervals obtained from the estimation of equation (1) as reported in column (10) of Table 3. Point estimates and con–dence intervals are scaled to re⁄ect a 10 percent shock to both human and physical capital. The dependent variable is the total number of publications in department d and year t. The left hand panel reports coe¢ cients on the interaction of the number of dismissals (between 1933 and 1940) with year dummies. The excluded year is 1931; the last data point before the dismissals. The right hand panel reports coe¢ cients on the interaction of percentage destruction (by Allied bombings between 1941 and 1945) with year dummies. The excluded year is 1940; the last data point before the bombings. 
+The exercise reveals that a 10 percent shock to human capital had a larger e¤ect on pro- ductivity than a 10 percent shock to physical capital, even in 1950 (Figure 3).26 While the human capital shock persisted for more than 40 years, until 1980, the physical capital shock dissipated quickly and even had a small positive e¤ect on departmental productivity in 1970. The –gure also shows that pre-trends are unlikely to drive the human capital results. For the bombing shock the coe¢ cient on the interaction of the 1931 dummy with WWII destruction is negative and signi–cant. This indicates that the productivity of departments that were bombed 
+25Average department size in 1931 was 10.15. A 10 percent shock to human capital therefore corresponds to losing 1.015 scientists. I therefore multiply the dismissal coe¢ cients and standard errors reported in column (10) of Table 3 by 1.015. As departmental destruction is already measured in percentages, I multiply the bombing coe¢ cients and standard errors reported in column (10) of Table 3 by 10. 
+26In 1950, the p-value of a test of the Null hypothesis (1.015*coe¢ cient # dismissed*1950) = (10*coe¢ cient % destruction*1950) has a p-value of 0.097. For all later years, the e¤ect of a 10 percent human capital shock is signi–cantly larger (at the 5 percent level) than a 10 percent physical capital shock (p-values between 0.001 and 0.012). 
+15 
+
+========16========
+
+during WWII improved before the bombings occurred. This pre-trend suggests that the e¤ect of bombing destruction may be underestimated in 1950. I show below, that controlling for other factors that may have a¤ected productivity reduces the magnitude and signi–cance of the pre-war bombing coe¢ cients while leaving the post-war results unchanged. 
+In the previous results productivity was measured as the sum of publications in top journals (normalized to have a mean of zero and a standard deviation of one). Alternatively, productivity could be measured by citation weighted publications. This measure multiplies publications by the number of subsequent citations in articles that were published in any journal covered by the Web of Science (again normalized to have a mean of 0 and unit variance). The citations quantify the quality of each published paper using valuations of the entire scienti–c community. 
+The alternative productivity measure yields very similar results (Table 4). The dismissal of one scientist reduced productivity, even in the long run, by between 0.16 and 0.22 standard deviations (column 10). Bombings had a small negative, but insigni–cant, e¤ect in 1950. By 1970, bombed departments even performed slightly better (signi–cant at the 10 percent level). Figure 4 plots the long-run e¤ects of 10 percent shocks to human and physical capital corresponding to the estimates reported in column (10) of Table 4. The dismissal shock had a larger e¤ect than the bombing shock and was much more persistent.27 
+Persistence of Dismissal Shock 
+Persistence of Bombing Shock 
+.2 
+.2 
+.1 
+.1 
+0 
+0 
+­.1 
+­.1 
+Effect of Dismissing 10 % 
+Effect of 10 % Destruction 
+­.2 
+­.2 
+­.3 
+­.3 
+­.4 
+­.4 
+1930 
+1940 
+1950 
+Year 
+1960 
+1970 
+1980 
+1930 
+1940 
+1950 
+Year 
+1960 
+1970 
+1980 
+Figure 4: Persistence of 10% shocks - citation weighted publications 
+Note: The –gure plots scaled regression coe¢ cients and 95 percent con–dence intervals obtained from the estimation of equation (1) as reported in column (10) of Table 4. Point estimates and con–dence intervals are scaled to re⁄ect a 10 percent shock to both human and physical capital. The dependent variable is the total number of citation weighted publications in department d and year t. The left hand panel reports coe¢ cients on the interaction of the number of dismissals (between 1933 and 1940) with year dummies. The excluded year is 1931; the last data point before the dismissals. The right hand panel reports coe¢ cients on the interaction of percentage destruction (by Allied bombings between 1941 and 1945) with year dummies. The excluded year is 1940; the last data point before the bombings. 
+27The test of the Null hypotheses (1.015*coe¢ cient # dismissed*year dummy) = (10*coe¢ cient % destruc- tion*year dummy) has p-values between 0.000 and 0.011. 
+16 
+
+========17========
+
+4.2 Robustness of Main Results 
+In the following, I show that the results are robust to the inclusion of additional control variables, to the adjustment of productivity for changes in the age-structure of a department, and to the use of di¤erent samples. I also investigate whether the way I de–ne the two shocks variables or measurement error in the destruction variable are driving my –ndings. 
+Additional Controls 
+After WWII, federal states (Länder) became responsible for universities in West Germany. To investigate whether these changes were correlated with the shocks and therefore a¤ect my results, I add interactions of federal state indicators with a post-1945 dummy to the regression.28 Reassuringly, the results remain almost unchanged (Tables 5 and 6, column 1). 
+In a further robustness check, I add university age and its square to the regression. The speci–cation allows me to rule out that the two shocks disproportionately a¤ected older (or younger) universities that may have been on di¤erent productivity trends. The results are almost una¤ected (Tables 5 and 6, column 2). 
+During the post-war period, in particular during the 1960s and 1970s, a number of new uni- versities were founded in Germany and Austria. Increased competition from these universities may have in⁄uenced the productivity of established departments. To investigate whether my results are a¤ected by these changes I include a time-varying control that measures the number of departments within 50 kilometers of each science department. The results remain unchanged (Tables 5 and 6, column 3). 
+After the Nazi government seized power in 1933, it invested heavily in rearmament (Tooze, 2006). As this investment was concentrated in a few industries it may have a¤ected department productivity in cities with –rms that bene–tted from rearmament spending, either directly through spillovers from industry to universities or because the Allies may have targeted these cities during the bombing campaign. I therefore interact the share of –rms in three armament related industries with year dummies and include these interactions as additional controls.29 Reassuringly, the results are a¤ected very little (Tables 5 and 6, column 4). 
+Departments with more Jewish scientists may have been located in cities with a higher frac- tion of Jewish residents. The disappearance of the Jewish population may have had long-lasting e¤ects on these cities (e.g. Akbulut-Yuksel and Yuksel, 2011, Acemoglu, Hassan, Robinson, 2011, and Grosfeld, Rodnyansky, and Zhuravskaya, 2011) that could have a¤ected the produc- tivity of science departments in the long run. To investigate whether the results are a¤ected by 
+28The GDR was a centralized state and did not re-introduce federal states after WWII. I therefore include a joint indicator for all universities in East Germany (including the Technical University of Berlin that was located in West Berlin) in the regression. The federal states of Hamburg and Schleswig-Holstein had one university only and I therefore combine them with the adjacent state of Niedersachsen. The –ve Austrian universities are covered by a joint indicator. Including interactions of separate indicators for states with only one university with a post-1945 indicator hardly a¤ects the results. 
+29The three armament relevant industries are iron and steel production, mechanical engineering and vehicle construction, and chemicals. The shares of –rms in these industries are measured in 1933 (1930 for Austrian cities). They are therefore determined before the Nazi government seized power and are therefore not endoge- nously a¤ected by the two shocks. 
+17 
+
+========18========
+
+these changes, I add the interaction of a post-1945 dummy with the fraction of Jews at the city level in 1933 to the regression.30 If anything, the dismissal coe¢ cients become slightly more negative (Tables 5 and 6, column 5). This indicates that the extinction of Jews from German and Austrian cities is not driving the results. 
+Finally, I investigate whether the two shocks were correlated with the geographic location of universities. Universities in cities that were closer to the ‚iron curtain™may have su¤ered after 1945, because these cities experienced a decline in population growth after the division of Germany (Redding and Sturm, 2008). To investigate this concern I add the interaction of a post-1945 dummy with distance to the iron curtain to the regression. The results are unchanged (Tables 5 and 6, column 6). 
+Figure 5 shows the e¤ect of 10 percent shocks including all controls. The –gure looks very similar to the –gure with the limited set of controls (Figure 3). This suggests that my –ndings are not driven by other factors that may have a¤ected productivity. The –gure also shows that the addition of controls reduces the magnitude and signi–cance of pre-trends for the bombing results while leaving the e¤ect in 1950 unchanged. 
+Persistence of Dismissal Shock 
+Persistence of Bombing Shock 
+.2 
+.2 
+.1 
+.1 
+0 
+0 
+­.1 
+­.1 
+­.2 
+­.2 
+Effect of Dismissing 10 % 
+Effect of 10 % Destruction 
+­.3 
+­.3 
+­.4 
+­.4 
+­.5 
+­.5 
+1930 
+1940 
+1950 
+Year 
+1960 
+1970 
+1980 
+1930 
+1940 
+1950 
+Year 
+1960 
+1970 
+1980 
+Figure 5: Persistence of 10% shocks - publications with all controls 
+Note: The –gure plots scaled regression coe¢ cients and 95 percent con–dence intervals obtained from the estimation of equation (1) as reported in column (6) of Table 5. Point estimates and con–dence intervals are scaled to re⁄ect a 10 percent shock to both human and physical capital. The dependent variable is the total number of publications in department d and year t. The left hand panel reports coe¢ cients on the interaction of the number of dismissals (between 1933 and 1940) with year dummies. The excluded year is 1931; the last data point before the dismissals. The right hand panel reports coe¢ cients on the interaction of percentage destruction (by Allied bombings between 1941 and 1945) with year dummies. The excluded year is 1940; the last data point before the bombings. 
+Figure 6 shows the e¤ect of 10 percent shocks for the citation-weighted productivity measure including all controls. It also looks similar to the –gure with the limed set of controls (Figure 4). The small uptick in productivity in 1980 is less pronounced if I add additional controls to the regression. 
+30For Austrian cities the fraction of Jews at the city level is measured in 1934 (Wien) and 1938 (Graz and Innsbruck) and thus before the annexation of Austria by Nazi Germany in 1938. 
+18 
+
+========19========
+
+Persistence of Dismissal Shock 
+Persistence of Bombing Shock 
+.2 
+.2 
+.1 
+.1 
+0 
+0 
+­.1 
+­.1 
+Effect of Dismissing 10 % 
+Effect of 10 % Destruction 
+­.2 
+­.2 
+­.3 
+­.3 
+­.4 
+­.4 
+1930 
+1940 
+1950 
+Year 
+1960 
+1970 
+1980 
+1930 
+1940 
+1950 
+Year 
+1960 
+1970 
+1980 
+Figure 6: Persistence of 10% shocks - citation weighted publications with all controls 
+Note: The –gure plots scaled regression coe¢ cients and 95 percent con–dence intervals obtained from the estimation of equation (1) as reported in column (6) of Table 7. Point estimates and con–dence intervals are scaled to re⁄ect a 10 percent shock to both human and physical capital. The dependent variable is the total number of publications in department d and year t. The left hand panel reports coe¢ cients on the interaction of the number of dismissals (between 1933 and 1940) with year dummies. The excluded year is 1931; the last data point before the dismissals. The right hand panel reports coe¢ cients on the interaction of percentage destruction (by Allied bombings between 1941 and 1945) with year dummies. The excluded year is 1940; the last data point before the bombings. 
+The productivity of scientists follows a concave pattern over their lifetime (Levin and Stephan, 1991). Some of the changes in the age structure of departments are endogenous to the dismissals because departments with dismissals may have had to hire younger researchers, for example. In this case one should not control for these changes. Nonetheless, I investigate whether the results are driven by changes in the age structure of a¤ected departments. I there- fore adjust output by regressing individual productivity measures on a full set of age dummies (in 5 year bins). The residuals from this regression are then used to construct department productivity that I normalize to have a zero mean and a standard deviation of one. Using age-adjusted productivity as the dependent variable yields very similar results (Tables 5 and 6, column 7). 
+Di¤erent Samples 
+The main results were estimated with all German and Austrian universities that existed before 1926. Dropping Austrian science departments from the sample does not a¤ect the results (Tables 5 and 6, column 8). The main sample includes all German universities that were based within the German borders of 1990, both in the FRG and the GDR. Reconstruction and re-hiring may have been di¤erent in the GDR compared to the market economy of the FRG. Dropping East German departments from the sample only slightly reduces the absolute magnitude of the coe¢ cients suggesting that the results are not primarily driven by a di¤erent development in the GDR (Tables 5 and 6, column 9). These results also demonstrate that the special situation of the University of Berlin that was located in the Soviet sector does not drive 
+19 
+
+========20========
+
+the results.31 The results are also robust to dropping both Austria and the GDR from the sample (Tables 5 and 6, column 10). 
+Di¤erent Shock Measures 
+As outlined above, most dismissals took place during the –rst years of the Nazi regime. Restricting the dismissals to these early dismissals (as in Waldinger, 2010) the results remain very similar (Tables 5 and 6, column 11). 
+The dismissal shock was con–ned to particular departments because the training of scientists is very subject speci–c. As a result, universities could not reallocate physicists to chemistry departments if a university had many dismissals in chemistry but few in physics. Following a bombing shock, however, universities could reallocate buildings across departments. This could have mitigated any negative e¤ects of bombing destruction. 
+To investigate whether the reallocation of buildings is a¤ecting the results, I measure de- struction with average destruction in all science departments instead of destruction of individual science departments. Estimating the model with this alternative measure yields a more neg- ative coe¢ cient for 1950. The destruction of an additional 10 percent of science buildings lowered productivity by 0.11 instead of 0.05 standard deviations (Table 5, columns 6 and 12). In regressions that use citation weighted productivity as the dependent variable, the 1950 co- e¢ cient changes from -0.04 to -0.08 when I use average destruction in all science departments instead of the subject speci–c measure (Table 6, columns 6 and 12). These results suggest that universities could indeed mitigate some of the short-run e¤ects of bombings by reallocat- ing buildings across departments. When I measure the physical capital shock with average destruction across all science departments the negative e¤ect persists until 1961 (signi–cant at the 10 percent level) for the publication based productivity measure (Table 5, column 12) but not for the citation-weighted productivity measure (Table 6, column 12). By 1970, bombed departments had completely recovered independently of the destruction and productivity mea- sures. In fact, citation-weighted productivity was signi–cantly higher in bombed departments in 1970. This further suggests that bombed departments bene–tted from upgrading during reconstruction. 
+Measurement Error in Bombing Destruction 
+The destruction measure of some departments may contain measurement error. To investi- gate how much measurement error attenuates the bombing results I instrument for department level destruction with a measure of bombing destruction at the university level.32 University level destruction was obtained from di¤erent data sources than the department level measure (see data appendix). As a result, the two measurement errors should be uncorrelated. The in- strumental variable strategy should therefore minimize attenuation bias. First stage regressions are reported in Table A3 and indicate that university level destruction is a strong predictor of 
+31The University of Berlin was located in the Soviet sector of Berlin. It reopened in January 1946 (and was renamed into Humboldt University in 1949). In 1948, the Free University of Berlin was founded in the American sector of Berlin. 
+32As the university level destruction measure captures destruction of all university buildings it is di¤erent from the average destruction in science departments that has been used above. 
+20 
+
+========21========
+
+department level destruction.33 The instrumental variable results indicate that productivity in departments with 10 percent more destruction fell by 0.13 standard deviations in 1950. In 1961, departments with 10 percent more bombing destruction still had 0.11 standard deviations lower productivity. By 1970, however, productivity had recovered in bombed departments (Table 5, column 13). Equivalent results for citation-weighted publications indicate that productivity in departments with 10 percent more destruction fell by 0.08 standard deviations in 1950, and 0.05 standard deviations (signi–cant at the 10 percent level) in 1961. By 1970, productivity had completely recovered (Table 6, column 13). These results suggest that measurement error may indeed attenuate the bombing results for 1950 and 1961. The –nding that bombed departments had completely recovered by 1970, however, is not distorted by measurement error. 
+Interactions of Human and Physical Capital Shocks 
+The regression model estimated above does not allow for interactions of human and physical capital. To investigate whether such interactions are important I add triple interactions of # dismissed, % destruction, and year dummies to the regression. I.e. I estimate 
+Outputdt =  
+1 
++ 
+P 
+t 
+ 
+2tHCShock(1933-40)d 
+* Yeart +PP 
+t 
+ 
+3t 
+PCShock(1942-45)d * Yeart 
++ 
+t 
+ 
+4t 
+HCShock(1933-40)d * PCShock(1942-45)d * Yeart 
++  
+5 
+DepartmentFEd +  
+6YearFEt 
++ "dt 
+(2) 
+The –rst data point that could have been a¤ected by both shocks is 1950. I therefore include the triple interactions for the years 1950, 1961, 1970, and 1980. The publication results show that departments with dismissals that were then bombed during WWII did signi–cantly worse than other departments in 1950. The estimated coe¢ cient indicates a reduction in publications by 0.03 standard deviations in departments that lost one scientist and then lost 10 percent of department buildings. As departments recovered quickly from the physical capital shock triple interactions with later years are no longer signi–cant. (Table A4, column 2). For the citation weighted productivity measure all triple interactions are insigni–cant (Table A4, column 4). The dismissal results are remarkably robust to the inclusion of the triple interactions. The –ndings suggest that there are some complementarities between human and physical capital but that these are relatively minor. Furthermore, human capital e¤ects are not driven by important complementarities with physical capital. 
+33As I instrument for all interactions of year dummies with department level destruction, I estimate six –rst stage regressions: one for the interaction of % subject destruction with the 1926 dummy, one for the interaction of % subject destruction with the 1931 dummy, and so on. As a result, the usual F-test on the excluded instruments is not appropriate in this context. Stock and Yogo (2005) propose a test for weak instruments based on the Cragg-Donald (1993) Eigenvalue Statistic. Stock and Yogo (2005) only provide critical values for up to two endogenous regressors. With two endogenous regressors and two instruments the critical value is 7.03. Here, I use six instruments for six endogenous regressors. Appropriate critical values should be lower than 7.03. The Cragg-Donald EV statistic reported in Table A3 is 19.6. Weak instruments should therefore not bias the results. 
+21 
+
+========22========
+
+4.3 Subject Speci–c Results 
+Data on the three subjects allow me to investigate whether the human and physical capital shocks had di¤erential e¤ects across disciplines. While physical capital may be more important in chemistry and some –elds of physics (experimental physics, technical physics, or astrophysics) it is presumably less important in mathematics. The estimation results, however, indicate that the productivity e¤ects of physical capital did not di¤er across –elds (Table 7). 
+Despite the fact that most results are less precisely estimated because of smaller sample sizes, the dismissal results reveal interesting di¤erences across subjects. If one considers citation weighted productivity, the results are largest and most persistent in mathematics, followed by physics (even though most coe¢ cients in physics are not signi–cant), and then chemistry (Table 7, columns 2, 4, and 6). These results suggests that high quality scientists are particularly important as dismissals in mathematics and physics were of higher quality than in chemistry (Table 1). 
+4.4 The E¤ect of High Quality Scientists 
+To further investigate this hypothesis I assign scientists to quality percentiles based on their pre-dismissal citation weighted publications. I then investigate how the dismissal of high qual- ity scientists a¤ected department productivity in the long run. Corresponding to the main speci–cation reported above, the dismissal of one scientist lowered department productivity by between 0.18 and 0.32 standard deviations (Table 8, columns 1 and 2). The dismissal of an above median quality scientist lowered productivity by between 0.24 and 0.50 standard deviations (columns 3 and 4). The dismissal of higher quality scientists caused even larger pro- ductivity reductions that persisted in the long run. The dismissal of a scientist in the top 5th percentile led to a productivity reduction of 0.7 to 1.6 standard deviations (columns 9 and 10). Figure 7 summarizes these –ndings graphically.34 The –gure shows the relative productivity drop after the dismissal of a scientist of the relevant quality group. The higher the quality of dismissals the larger the long-run productivity decline.35 
+34To improve the clarity of the –gure I do not report con–dence intervals. The majority of estimated coe¢ - cients are signi–cantly di¤erent from 0 (Table 8). 
+35In regressions not reported here I investigate whether the dismissal results are entirely driven by very high quality scientists. For these test I exclude dismissed scientists whose citation-weighted publications place them in the top 5th percentile when I construct the dismissal variable. The e¤ect of dismissals remains signi–cant when I use this alternative dismissal measure. 
+22 
+
+========23========
+
+0 
+­.2 
+all 
+­.4 
+top 50th 
+top 25th 
+­.6 
+Coefficient 
+top 10th 
+­.8 
+­1 
+top 5th 
+­1.2 
+1930 
+1940 
+1950 
+1960 Year 
+1970 
+1980 
+Figure 7: Persistence of high quality dismissals 
+Note: The –gure plots regression coe¢ cients reported in Table 8. The dependent variable is the total number of citation weighted publications in department d and year t. The top line reports coe¢ cients on the interaction of the number of dismissals (between 1933 and 1940) with year dummies as in column (2) of Table 8. The second line from the top reports coe¢ cients on the interaction of the number of dismissals of above median quality with year dummies as in column (4). The third line from the top reports coe¢ cients on the interaction of the number of dismissals of scientists in the top 25th percentile with year dummies as in column (6), and so on. The excluded year is 1931. The regression also includes the interaction of percentage destruction with year dummies. To improve clarity, 95 percent con–dence intervals are omitted from the graph. The large majority of regression coe¢ cients is signi–cantly di¤erent from 0 (Table 8). 
+5 Mechanisms for the Persistence of the Human Capital 
+Shock 
+The results indicate that human capital is particularly important for the productivity of science departments. Furthermore, I –nd strong persistence of the human capital shock, with especially large declines after the dismissal of high quality scientists. In the following, I investigate pos- sible mechanisms for the long-run persistence of the temporary dismissal shock. One possible explanation could be a fall department size from which departments never recovered. I investi- gate this hypothesis by regressing department size on the dismissal and destruction variables. Department size in departments with dismissals was signi–cantly smaller until 1970 but by 1980 it had completely recovered (Table 9). These results indicate that a fall in department size can only explain some of the persistence of the human capital shock. 
+A related mechanism for the persistence of the human capital shock may be a permanent fall in the quality of hires. ‚Star scientists™are often instrumental in attracting other high quality faculty. Before 1933, for example, the great mathematician David Hilbert was instrumental in attracting theoretical physicist Max Born (Nobel Prize, 1954) to the University of Göttin- gen. Max Born then used his in⁄uence to hire experimental physicist James Franck (Nobel 
+23 
+
+========24========
+
+Prize, 1925) (Jungk, 1963 pp. 22-23). Born and Franck were dismissed from the University of Göttingen in 1933. It is quite likely that these and other dismissals had permanent e¤ects on the quality of subsequent hires. I therefore investigate whether hiring quality declined in departments with dismissals. I also analyze whether the dismissal of high quality scientists caused particularly large reductions in the quality of new hires. To identify hires I need to observe changes in the composition of departments. As a result, I can measure the quality of hires from 1931 onwards. For 1931, I classify all scientists who joined a department between 1926 and 1931 as a hire and measure the average quality of these hires.36 I construct equivalent measures for the quality of hires in subsequent years. 
+I regress average hiring quality on the number of dismissals interacted with year indicators. The dismissal of one scientist lowered hiring quality by between 0.05 and 0.06 standard devia- tions. Estimated e¤ects are signi–cant for all years and persist until 1980 (Table 10, column 1). Additional results show that hiring quality dropped more after losing high quality scientists, in particular after losing scientists of exceptional quality (columns 2 to 5). Figure 8 shows the reduction in hiring quality after the dismissal of scientists with di¤erent qualities. 
+.1 
+0 
+­.1 
+all top 50th 
+top 25th 
+­.2 
+top 10th 
+­.3 
+Coefficient 
+­.4 
+­.5 
+top 5th 
+­.6 
+1930 
+1940 
+1950 
+1960 Year 
+1970 
+1980 
+Figure 8: Quality of hires 
+Note: The –gure plots regression coe¢ cients as reported in Table 10. The dependent variable is quality of new hires in department d and year t. The top line reports coe¢ cients on the interaction of the number of dismissals (between 1933 and 1940) with year dummies as in column (1) of Table 10. The second line from the top reports coe¢ cients on the interaction of the number of dismissals of above median quality with year dummies as in column (2) and so on. The excluded year is 1931. The regression also includes the interaction of percentage destruction with year dummies and all control variables. To improve clarity, 95 percent con–dence intervals are omitted from the graph. All regression coe¢ cients are signi–cantly di¤erent from 0 (Table 10). 
+The fall in hiring quality was partly driven by a decline in the quality of PhD students that were produced in departments with dismissals after 1933 (Waldinger, 2010). The decline in faculty quality was perpetuated because German universities often hire former PhD students.37 
+36The quality of hires is measured by career citation weighted publications which I normalize to have a zero mean and a standard deviation of one within subjects. 
+37Almost 20 percent of mathematics PhD students who graduated between 1912 and 1940 and who obtained a 
+24 
+
+========25========
+
+Another potential mechanism for the persistence of the human shock could be localized pro- ductivity spillovers. The productivity of scientists who remained in departments with dismissals after 1933 could have declined because of a reduction in the number and quality of local peers. The potential productivity decline for scientists who were present in 1933 could have a¤ected later generations of scientists in departments with dismissals. In this case, however, localized spillovers are unlikely to drive persistence because even the productivity of scientists who di- rectly experienced the dismissals did not decline. Not even the loss of high quality colleagues had negative productivity e¤ects on contemporaneous local peers (Waldinger, 2012). 
+6 Conclusion 
+I use the dismissal of scientists in Nazi Germany and Allied bombings during WWII as exoge- nous and temporary shocks to the human and physical capital of science departments. While I –nd evidence that both shocks had negative productivity e¤ects in the short run, depart- ments that su¤ered from physical destruction recovered by 1961. By 1970, departments with buildings that were destroyed during WWII even did slightly better than departments with- out bombing destruction. The human capital shock, however, had a larger negative e¤ect on productivity in the short run and was much more persistent. I also show that the dismissal of high quality scientists caused particularly large productivity reductions. The –ndings indicate that human capital is potentially more important than physical capital for the productivity of science departments. 
+My –ndings, of course, do not indicate that physical capital is irrelevant for productivity because post-war reconstruction targeted destroyed departments. It seems, however, that neg- ative shocks to physical capital can be overcome much more easily than human capital shocks. In recent years, some –elds of science have become more dependent on large capital expendi- tures such as particle accelerators. Negative physical shocks in these –elds may lead to more persistent e¤ects on productivity than shocks that have occurred in the past. 
+The persistence of the human capital shock is particularly remarkable if one considers that most scientists who had been employed by the former German universities (Breslau now Wro- claw, TU Breslau, and Königsberg now Kaliningrad) that became part of Poland and the Soviet Union had to relocate to universities that remained on German territory after 1945. Depart- ments that had lost people during the dismissals could have hired the best people from these universities. 
+I show that an important mechanism for the persistence of the human capital shock was a permanent fall in the quality of new hires, in particular after the dismissal of high quality scientists. ‚Star scientists™seem to be especially valuable as they attract other high quality researchers. This suggests that appointing very high quality scholars may be a good strategy if 
+university position in Germany returned to the university that had granted their PhD. The Pearson chi-squared test statistic to test the hypothesis of independence of the PhD university and the university of employment is 1,300. The hypothesis is thus rejected with a p-value smaller than 0.001. 
+25 
+
+========26========
+
+a university of country wanted to raise its research pro–le. In fact, anecdotal evidence suggests that hiring high-quality faculty during the 1980s and 1990s has been instrumental for the recent rise of New York University and in particular their economics department (Honan, 1995). 
+26 
+
+========27========
+
+References 
+[1] American Association of the Advancement of Science (1941) "Physics in Pre-Nazi Ger- 
+many", Science, vol. 94, no. 2247, pp. 488-489. 
+[2] Acemogly, Daron, Tarek A. Hassan, James A. Robinson (2011) "Social Structure and 
+Development: A Legacy of the Holocaust in Russia", The Quarterly Journal of Economics, 
+vol. 126, no. 1. 
+[3] Ackerberg, D. C. Lanier Benkard, S. Berry, and A. Pakes (2007) ﬁEconometric Tools for 
+Analyzing Market Outcomesﬂ, in Handbook of Econometrics, eds. James J. Heckman and 
+Edward Leamer, vol. 6A. 
+[4] Aghion, Philippe, Mathias Dewatripont, Caroline Hoxby, Andreu Mas-Colell, and Andre 
+Sapir (2010) "The governance and performance of universities: evidence from Europe and 
+the US", Economic Policy, vol. 25, issue 61, pp. 7-59. 
+[5] Akbulut-Yuksel, Mevlude and Mutlu Yuksel (2011) "The Long-Term Direct and External 
+E¤ects of Jewish Expulsions in Nazi Germany", mimeo Dalhousie University. 
+[6] Azoulay, Pierre, Joshua Gra¤Zivin, and Gustavo Manso (2011) "Incentives and Creativity: 
+Evidence from the Academic Life Sciences", RAND Journal of Economics, vol. 42, no.3, 
+pp. 527-554. 
+[7] Azoulay, Pierre, Joshua Gra¤ Zivin, and Jialan Wang (2010) "Superstar Extinction", The 
+Quarterly Journal of Economics, vol. 125, no. 2. 
+[8] Beyerchen, Alan D. (1977) Scientists under Hitler - Politics and the Physics Community 
+in the Third Reich, Yale University Press, New Haven. 
+[9] Brakman, S., H. Garretsen, and M. Schramm (2004) ﬁThe Strategic Bombing during World 
+War II and its Impact on City Growthﬂ, Journal of Economic Geography, vol. 4, no. 2, pp. 
+201-218. 
+[10] Cragg, John G. and Stephen G. Donald (1993) "Testing identi–ablility and speci–cation 
+in instrumental variables models", Econometric Theory, vol. 9. 
+[11] Dardo, Mauro (2004) Nobel Laureates and Twentieth-Century Physics, Cambridge Univer- 
+sity Press, Cambridge. 
+[12] Davis, D. and D. Weinstein (2002) ﬁBones, Bombs, and Break Points: The Geography of 
+Economic Activityﬂ, American Economic Review, vol. 92, no. 5, pp. 1269-1289. 
+[13] Deichmann, Ute (2001) Flüchten, Mitmachen, Vergessen - Chemiker und Biochemiker in 
+der NS-Zeit", Wiley-VCH Verlag, Weinheim. 
+[14] Fischer, Klaus (1991) "Die Emigration deutschsprachiger Physiker nach 1933: Stukturen 
+und Wirkungen" in Die Emigration der Wissenschaften nach 1933, eds. : Strauss, Herbert 
+A., Klaus Fischer, Christhard Ho¤mann, and Alfons Söllner, K. G. Saur Verlag München. 
+[15] Frankland, Noble (2005) "Strategic air o¤ensives" in The Oxford Companion to World 
+War II, eds. I.C.B. Dear and M.R.D. Foot, Oxford University Press, New York. 
+[16] Furman, Je¤ L., Michael E. Porter, and Scott Stern (2002) ﬁThe determinants of national 
+innovative capacityﬂ, Research Policy, vol. 31, no. 6, pp. 899-933. 
+27 
+
+========28========
+
+[17] Gesellschaft für Exilforschung (1998) Handbuch der deutschsprachigen Emigration 1933- 
+1945 - Einleitung, Eds.: Krohn, Claus-Dieter, Patrick von zur Mühlen, Gerhard Paul, Lutz 
+Winkler Primus Verlag; Darmstadt. 
+[18] Grenville, J.A.S. (1994) The Collins History of the World in the Twentieth Century, 
+HarperCollinsPublishers, London. 
+[19] Grosfeld, Irena, Alexander Rodnyansky, Ekaterina Zhuravskaya (2011) "Persistent Anti- 
+Market Culture: A Legacy of the Pale of Settlement and the Holocaust", CEFIR Working 
+Paper, no. 145. 
+[20] Harris, Arthur (1947) Bomber O¤ensive , Greenhill Books, London. 
+[21] Hentschel, Klaus (1996) Physics and National Socialism - An Anthology of Primary 
+Sources, Birkäuser Verlag, Berlin. 
+[22] Hoepke, Klaus-Peter (2007) Geschichte der Fridericana - Stationen in der Geschichte der 
+Universität Karlsuhe (TH) von der Gründung 1825 bis zum Jahr 2000, eds. Günther Grün- 
+thal, Klaus Nippert, and Peter Steinbach, Universitätsverlag Karlsruhe, Karlsruhe. 
+[23] Hohn, Uta (1991) Die Zerstörung deutscher Städte im Zweiten Weltkrieg. Regionale Un- 
+terschiede in der Bilanz der Wohnungstotalschäden, Dortmunder Vertrieb für Bau- und 
+Planungsarbeiten, Dortmund. 
+[24] Honan, William H. (1995) "Buying Excellence: How N.Y.U. Rebuilt Itself - A special 
+report., A Decade and $1 Billion Put N.Y.U. With the Elite", New York Times, March 
+20, accessed online at: http://www.nytimes.com/1995/03/20/us/buying-excellence-nyu- 
+rebuilt-itself-special-report-decade-1-billion-put-nyu.html. 
+[25] Jacob, Brian A. and Lars Lefgren (2011) "The impact of research grant funding on scienti–c 
+productivity" Journal of Public Economics, vol. 95, pp. 1168-1177. 
+[26] Johnes, Jill, Jim Taylor, and Brian Francis (1993) "The Research Performance of UK 
+Universities: A Statistical Analysis of the Results of the 1989 Research Selectivity Exercise" 
+Journal of the Royal Statistical Society. Series A (Statistics in Society), vol. 156, no.2, pp. 
+271-286. 
+[27] Jungk, Robert (1963) Heller als tausend Sonnen - Das Schicksal der Atomforscher, Alfred 
+Scherz Verlag, Bern und Stuttgart. 
+[28] Kröner, Peter (1983) Vor fünfzig Jahren - Die Emigration deutschsprachiger Wis- 
+senschaftler 1933 - 1939, edited by Gesellschaft für Wissenschaftsgeschichte Münster, 
+Heckners Verlag, Wolfenbüttel. 
+[29] Kugler, Henrique (2011) "Brazil releases science blueprint", Science and Development Net- 
+work, available at http://www.scidev.net/en/news/brazil-releases-science-blueprint.html, 
+accessed 30/01/2012. 
+[30] Levin, Sharon and Paula Stephan (1991) "Research Productivity Over the Life Cycle: 
+Evidence for Academic Scientists", The American Economic Review, vol. 81, no. 1. 
+[31] Machlup, Fritz (1962) The Production and Distribution of Knowledge in the United States, 
+Princeton University Press, Princeton. 
+[32] Miguel, Edward and Gerard Roland (2011) "The long-run impact of bombing Vietnam", 
+Journal of Development Economics, vol. 96, no. 1, pp. 1-15. 
+28 
+
+========29========
+
+[33] Moser, Petra, Alessandra Voena, and Fabian Waldinger (2011) "German-Jewish Émigrés 
+and U.S. Invention", mimeo Stanford and Warwick. 
+[34] Notgemeinschaft Deutscher Wissenschaftler im Ausland (1936) List of Displaced German 
+Scholars, London. 
+[35] Payne, A. Abigail and Aloysius Siow (2003) "Does Federal Research Funding Increase 
+University Research Output?", Advances in Economic Policy Analysis & Policy, vol. 3, 
+no. 1, article 1. 
+[36] Peirse (1940) "Memo to 1,2, 3, 4, and 5 Groups" (see p. 226 footnote 2 in Webster and 
+Frankland vol. 1.) 
+[37] Redding, Stephen J. and Daniel M. Sturm "The Costs of Remoteness: Evidence from 
+German Division and Reuni–cation", American Economic Review, vol. 98, no. 5, pp. 1766- 
+1797. 
+[38] Rhee, Byung Shik (2011) "A World-Class Research University on the Periphery: The Po- 
+hang University of Science and Technology, the Republic of Korea", The Road to Academic 
+Excellence: The Making of World Class Research Universities, eds. Philip G. Altbach and 
+Jamil Salmi, The World Bank, Washington. 
+[39] Röder, Werner and Herbert Strauss (1992) Biographisches Handbuch der deutschsprachigen 
+Emigration nach 1933 - Vol. II : The arts, sciences, and literature, edited by Institut für 
+Zeitgeschichte München and Research Foundation for Jewish Immigration, Inc., New York. 
+[40] Romer, Paul (1990) "Endogenous Technological Change", The Journal of Political Econ- 
+omy, vol. 98, no. 5., pp. S71-102. 
+[41] Siegmund-Schultze, Reinhard (1998) Mathematiker auf der Flucht vor Hitler, Deutsche 
+Mathematiker Vereinigung, F. Vieweg. 
+[42] Simonsohn, Gerhard (2007) "Die Deutsche Physikalische Gesellschaft und die Forschung", 
+in Physiker zwischen Autonomie und Anpassung - Die Deutsche Physikalische Gesellschaft 
+im Dritten Reich, eds: Ho¤mann, Dieter and Mark Walker, Wiley-VHC Verlag, Weinheim. 
+[43] Stock, James H. and Motoshiro Yogo (2005) "Testing for Weak Instruments in Linear IV 
+Regression", in Identi–cation and Inference for Econometric Models: Essays in Honor of 
+Thomas Rothenberg, eds: Donald W.K. Andrews and James H. Stock, Cambridge Univer- 
+sity Press, New York. 
+[44] Technische Universität Dresden (1996) Geschichte der Technischen Universität Dresden in 
+Dokumenten, Bildern, Erinnerungen, ed. Achim Mehlhorn, vol. 3. 
+[45] Tooze, Adam (2006) The Wages of Destruction - The Making and Breaking of the Nazi 
+Economy, Penguin Books, London. 
+[46] United States Strategic Bombing Survey (1945) Overall-Report (European War), accessed 
+online http://wwiiarchives.net/servlet/document/index/112/0. 
+[47] van Rey, Manfred (1995) "Die Rheinische Friedrich-Wilhelms-Universität Bonn vom 18. 
+Oktober 1944 bis 17. November 1945", Bonner Universitätsblätter. 
+[48] Waldinger, Fabian (2010) "Quality Matters: The Expulsion of Professors and the Con- 
+sequences for Ph.D. Student Outcomes in Nazi Germany", Journal of Political Economy, 
+vol. 118, no 4. 
+29 
+
+========30========
+
+[49] Waldinger, Fabian (2012) "Peer E¤ects in Science - Evidence from the Dismissal of Scien- 
+tists in Nazi Germany", The Review of Economic Studies, forthcoming. 
+[50] Wang, Qing Hui, Qi Want, and Nian Cai Liu (2011) "Building World-Class Universities in 
+China: Shanghai Jiao Tong University", The Road to Academic Excellence: The Making 
+of World Class Research Universities, eds. Philip G. Altbach and Jamil Salmi, The World 
+Bank, Washington. 
+[51] Webster, Charles K. and Noble Frankland (1961) The Strategic Air O¤ensive Against 
+Germany 1939-1945, vol. 1-4., Her Majesty™s Stationary O¢ ce, London. 
+[52] Whalley, Alexander and Justin Hicks (2011) "Spending Wisely? How Resources A¤ect 
+Knowledge Production in Universities", mimeo UC Merced. 
+[53] Wolters, Paul (1950) "Der Wiederaufbau der Technischen Hochschule", in Jahrbuch der 
+Technischen Hochschule Hannover 1949-1950, eds. Otto von Leunenschloßund Erich 
+Böttcher, Düsseldorf. 
+30 
+
+========31========
+
+reports dismissals as percentage of total faculty in 
+% of citation weighted pubs. published by dismissed 
+% of all Scientists in 1931 
+weighted weighted weighted 
+% of citation % of citation % of citation 
+reports the percentage of publications that were published by the dismissed between 1928 and 1932. 
+Physics Chemistry Mathematics 
+% of all % of pubs. pubs. % of all % of pubs. pubs. % of all % of pubs. pubs. 
+is the total number of dismissals in a subject (physics, chemistry, or mathematics) in a given year. 
+% of pubs. published by dismissed 
+1933 32 9.4 13.6 59.3 38 7.8 11.2 11.2 27 11.7 23.6 51.3 
+1934 6 1.8 6.8 1.4 8 1.6 1.0 1.3 4 1.7 0.8 0.0 
+1935 6 1.8 1.6 1.5 6 1.2 2.7 1.5 5 2.2 3.5 0.8 
+1936 0 0.0 0.0 0.0 1 0.2 0.4 0.8 0 0.0 0 0.0 
+1937 1 0.3 0.3 0.0 3 0.6 0.3 0.5 2 0.9 1.7 5.7 
+1938 3 0.9 0.6 0.1 9 1.8 5.5 7.3 3 1.3 0.9 3.3 
+1939 2 0.6 0.6 0.0 3 0.6 0.8 0.7 1 0.4 0.3 0.0 
+1940 1 0.3 0.2 1.6 1 0.2 0.1 0.1 1 0.4 0.3 0.2 
+Year of # of Scientists published published # of Scientists published published # of Scientists published published 
+1933-40 51 15.0 23.8 64.0 69 14.1 22.0 23.4 43 18.7 31.0 61.3 
+Dismissal Dismissals in 1931 by dismissed by dismissed Dismissals in 1931 by dismissed by dismissed Dismissals in 1931 by dismissed by dismissed 
+7 Tables 
+Table 1: Number and Quality of Dismissed Scientists 
+# of Dismissals 
+1931. 
+reports the percentage of citation weighted publications that were published by the dismissed between 1928 and 1932. 
+31 
+
+========32========
+
+reports percentage 
+Destruct. 40-45 
+0 0 4.8 
+0 1.7 2.1 
+0 5 33 
+0 0 0 
+0 5 5 
+0 0 1 
+0 m 60 
+0 20 44 
+0 70 19 
+0 16.3 4 
+0 0 40 
+0 0 5 
+0 13.3 28 
+25 70 26 
+m 75 46 
+40 80 35 
+25.0 70 49 
+10.0 45.8 37 
+48.0 48 37 
+20.6 40 24 
+27.0 60 32 
+85.0 72.5 28 
+50.0 67.5 53 
+50.0 20 33 
+15.0 50 54 
+22.2 41.3 47 
+50.0 87.3 20 
+75.0 70 26 
+75.0 60 41 
+70.0 70 32 
+50.0 80 32 
+75.0 75.3 49 
+25.0 30 28 
+90.0 82.5 75 
+100.0 65 39 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+33.3 
+35.7 
+29.4 
+12.5 
+20.0 
+50.0 
+20.0 
+62.5 
+20.0 
+12.5 
+60.0 
+20.0 
+40.0 
+20.0 
+25.0 
+12.5 
+22.2 
+reports the number of dismissals in a department between 1933 and 
+Dismissed 33-40 
+reports the percentage of university facilities that were destroyed by Allied bombings 
+0 3 0 
+0 16 10 
+0 6 0 
+0 5 0 
+0 4 0 
+0 5 1 
+0 5 3 
+0 1 0 
+0 4 0 
+m 5 1 
+5.0 8 0 
+52.4 6 2 
+65.0 14 5 
+11.1 17 5 
+20.6 8 1 
+47.0 2 0 
+57.0 8 4 
+60.0 5 1 
+30.0 8 1 
+37.5 4 0 
+50.0 5 0 
+62.5 5 0 
+50.0 5 2 
+50.0 5 1 
+50.0 6 0 
+95.0 8 1 
+30.0 5 0 
+66.7 9 0 
+37.5 9 2 
+40.0 13 0 
+90.0 3 0 
+100.0 4 0 
+100.0 5 1 
+100.0 8 2 
+100.0 6 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+9.1 
+5.9 
+9.5 
+5.9 
+0.0 
+0.0 
+0.0 
+5.3 
+8.3 
+34.0 
+26.8 
+14.3 
+33.3 
+11.1 
+27.8 
+18.2 
+17.6 
+14.3 
+16.7 
+10.5 
+31.3 
+15.8 
+10.0 
+16.7 
+University Destruct. 
+0 9 1 
+0 17 3 
+0 7 0 
+0 4 0 
+0 7 1 
+0 19 2 
+0 8 0 
+0 10 0 
+0 8 0 
+0 6 0 
+0 9 0 
+0 19 1 
+m 12 4 
+20.4 11 1 
+10.0 47 16 
+25.0 41 11 
+50.0 14 2 
+90.0 11 0 
+37.0 18 5 
+50.0 9 0 
+10.0 8 0 
+30.0 12 2 
+22.2 10 0 
+75.0 16 5 
+62.5 8 0 
+66.7 6 0 
+41.0 21 2 
+42.0 19 3 
+36.7 17 1 
+76.7 10 1 
+25.0 30 5 
+90.0 12 1 
+100.0 17 1 
+100.0 11 2 
+100.0 7 0 
+Bombing Bombing Bombing 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+9.1 
+7.1 
+6.7 
+20.0 
+24.4 
+30.0 
+10.0 
+30.0 
+15.4 
+20.0 
+16.7 
+40.0 
+14.3 
+13.3 
+20.0 
+14.3 
+16.7 
+16.7 
+18.2 
+14.3 
+10.3 
+Physics Chemistry Mathematics 
+reports city level percentages of buildings that were destroyed by Allied bombings. Data on dismissals, department level destruction, and city level destruction 
+Dismissal Shock Shock Dismissal Shock Shock Dismissal Shock Shock Total Destruction 
+# of Dismissed Destruct. # of Dismissed Destruct. # of Dismissed Destruction University City 
+scienstists 33-40 40-45 scienstists 33-40 40-45 scienstists 33-40 40-45 Destruct. Destruct. 
+City Destruct. 
+reports the number of scientists in a department in 1931 (before the dismissal shock). 
+University (1931) # in % in % (1931) # in % in % (1931) # in % in % in % in % 
+Aachen TU 5 1 
+Berlin 41 10 
+Berlin TU 30 9 
+Bonn 10 1 
+Braunschweig TU 5 0 
+Darmstadt TU 10 3 
+Dresden TU 11 1 
+Erlangen 5 0 
+Frankfurt 13 2 
+Freiburg 5 1 
+Giessen 6 1 
+Göttingen 20 8 
+Graz 7 1 
+Graz TU 1 0 
+Greifswald 7 0 
+Halle 4 0 
+Hamburg 15 2 
+Hannover TU 4 0 
+Heidelberg 6 0 
+Innsbruck 6 0 
+Jena 14 1 
+Karlsruhe TU 5 1 
+Kiel 7 1 
+Köln 6 1 
+Leipzig 12 2 
+Marburg 5 0 
+München 11 2 
+München TU 15 1 
+Münster 4 0 
+Rostock 4 0 
+Stuttgart TU 7 1 
+Tübingen 3 0 
+Wien 4 0 
+Wien TU 8 0 
+Würzburg 29 3 
+Table 2: Dismissal and Bombing Shocks Across Science Departments 
+# of scientists (1931) 
+1940. The total number of dismissal is slightly higher than in Table 1 because professors with appointments in two universities are reported twice in this table. 
+destruction of department facilities due to Allied bombings between 1940 and 1945. 
+between 1940 and 1945. 
+were compiled by the author. City level destruction data come from Hohn (1994) and other sources. See data appendix for details. 
+32 
+
+========33========
+
+is equal 
+yes 
+% City Destruction * 
+is a set of year dummies for 
+% Destruction * 1926 
+Year FE 
+. The variable is normalized to have zero mean and a 
+t 
+is the full set of 105 department –xed e¤ects. 
+in a –ve-year window around year 
+d 
+Department FE 
+is the interaction of subject indicators (for physics, chemistry, and mathematics) with year dummies. 
+(0.002) (0.002) (0.002) (0.002) (0.002) (0.002) (0.002) 
+(0.002) (0.002) (0.002) (0.001) (0.002) (0.002) (0.002) 
+(0.002) (0.002) (0.002) (0.002) (0.002) (0.002) (0.002) 
+(0.002) (0.002) (0.002) (0.002) (0.002) (0.002) (0.002) 
+(0.002) (0.002) (0.002) (0.002) (0.002) (0.002) (0.002) 
+(0.003) (0.003) (0.004) (0.003) (0.004) (0.004) (0.004) 
+Subject*Year FE 
+is equal to the number of dismissals between 1933 and 1940 interacted with an indicator that is equal to 1 for observations 
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) 
+Publi- Publi- Publi- Publi- Publi- Publi- Publi- Publi- Publi- Publi- 
+(0.025) (0.025) (0.025) (0.025) (0.026) (0.026) (0.026) 
+(0.037) (0.039) (0.039) (0.039) (0.041) (0.041) (0.042) 
+(0.121) (0.125) (0.099) (0.124) (0.128) (0.102) (0.102) 
+(0.102) (0.105) (0.080) (0.105) (0.107) (0.083) (0.084) 
+(0.104) (0.108) (0.084) (0.108) (0.111) (0.087) (0.088) 
+(0.077) (0.079) (0.071) (0.077) (0.078) (0.070) (0.077) 
+Number of Dismissals * 1926 
+is the sum of publications published by all scientists in department 
+is the interaction of occupation zone indicators (English zone, French zone, Soviet zone, excluded category U.S. zone) with a post-1945 dummy. 
+Publications 
+is the interaction of city level destruction with the full set of year dummies. 
+Dependent Variable: cations cations cations cations cations cations cations cations cations cations 
+Number of Dismissals * 1926 0.023 0.017 0.017 0.024 0.018 0.018 0.018 
+Number of Dismissals * 1940 -0.173*** -0.173*** -0.173*** -0.172*** -0.171*** -0.171*** -0.170*** 
+Number of Dismissals * 1950 -0.210* -0.222* -0.219** -0.210 -0.221* -0.218** -0.219** 
+Number of Dismissals * 1961 -0.245** -0.257** -0.254*** -0.244** -0.255** -0.253*** -0.253*** 
+Number of Dismissals * 1970 -0.291*** -0.286** -0.283*** -0.290** -0.283** -0.281*** -0.282*** 
+Number of Dismissals * 1980 -0.202** -0.202** -0.207*** -0.199** -0.198** -0.202*** -0.212*** 
+% Destruction * 1926 -0.004 -0.005* -0.005* -0.004* -0.004** -0.004** -0.004* 
+% Destruction * 1931 -0.008*** -0.008*** -0.008*** -0.008*** -0.008*** -0.008*** -0.007*** 
+% Destruction * 1950 -0.002 -0.003* -0.005** -0.003 -0.003* -0.005** -0.004** 
+% Destruction * 1961 0.000 -0.001 -0.003 0.000 -0.001 -0.003 -0.002 
+% Destruction * 1970 0.003* 0.004* 0.002 0.003 0.004* 0.002 0.005** 
+% Destruction * 1980 0.001 0.001 -0.000 0.001 0.001 -0.000 0.003 
+Department FE yes yes yes yes yes yes yes yes yes yes 
+Year FE yes yes yes 
+Subject*Year FE yes yes yes yes yes yes yes 
+Occupation Zone * Post45 yes yes yes yes 
+% City Destruction * Year Dummies 
+Observations 714 714 714 714 714 714 714 714 714 714 
+R-squared 0.590 0.650 0.678 0.513 0.576 0.603 0.603 0.664 0.689 0.693 
+Table 3: Persistence of Dismissal and Bombing Shocks - Publications 
+***signi–cant at 1% level **signi–cant at 5% level *signi–cant at 10% level (All standard errors clustered at university level) 
+The dependent variable 
+standard deviation of one within subjects. 
+from 1926. The other interactions are de–ned accordingly. The excluded interaction is the number of dismissals with 1931, the last observation before the dismissals. 
+to percentage destruction caused by Allied bombings between 1940 and 1945 interacted with an indicator that is equal to 1 for observations from 1926. The other interactions are de–ned accordingly. 
+The excluded interaction is % destruction with 1940, the last observation before the bombings. 
+each year 1931, 1940, 1950, 1961, 1970, and 1980 (1926 is the excluded year). 
+Occupation Zones * Post45 
+Year Dummies 
+33 
+
+========34========
+
+yes 
+. The variable is normalized 
+t 
+is the full set of 105 department –xed e¤ects. 
+in a –ve-year window around year 
+is the interaction of subject indicators (for physics, chemistry, 
+Department FE 
+d 
+Subject*Year FE 
+is equal to the number of dismissals between 1933 and 1940 interacted with an indicator that is 
+0.001 0.001 -0.000 0.001 0.001 -0.000 0.006 
+-0.003 -0.003 -0.003 -0.003 -0.003 -0.003 -0.002 
+-0.002 -0.002 -0.004* -0.002 -0.002 -0.004* -0.002 
+-0.001 -0.001 -0.003 -0.001 -0.001 -0.003 0.000 
+0.006* 0.006* 0.005 0.006* 0.006* 0.005 0.008* 
+(0.002) (0.002) (0.002) (0.002) (0.002) (0.002) (0.002) 
+(0.003) (0.003) (0.003) (0.003) (0.002) (0.002) (0.003) 
+(0.002) (0.002) (0.002) (0.002) (0.002) (0.002) (0.002) 
+(0.003) (0.003) (0.003) (0.003) (0.003) (0.003) (0.003) 
+(0.003) (0.003) (0.003) (0.003) (0.003) (0.003) (0.004) 
+(0.005) (0.005) (0.005) (0.005) (0.005) (0.005) (0.005) 
+-0.006** -0.006* -0.006* -0.006** -0.005** -0.005** -0.005 
+is the interaction of occupation zone indicators (English zone, French zone, Soviet zone, excluded category U.S. zone) with a 
+Number of Dismissals * 1926 
+is the interaction of city level destruction with the full set of year dummies. 
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) 
+is the sum of citation-weighted publications published by all scientists in department 
+(0.076) (0.078) (0.078) (0.076) (0.078) (0.078) (0.079) 
+(0.063) (0.062) (0.062) (0.060) (0.059) (0.059) (0.059) 
+(0.030) (0.036) (0.031) (0.031) (0.036) (0.032) (0.032) 
+(0.036) (0.041) (0.042) (0.034) (0.040) (0.042) (0.042) 
+(0.047) (0.049) (0.053) (0.038) (0.042) (0.046) (0.049) 
+(0.065) (0.059) (0.061) (0.059) (0.055) (0.057) (0.064) 
+Citation Citation Citation Citation Citation Citation Citation Citation Citation Citation 
+weighted weighted weighted weighted weighted weighted weighted weighted weighted weighted 
+Occupation Zones * Post45 
+Citation weighted Pubs. 
+is equal to percentage destruction caused by Allied bombings between 1940 and 1945 interacted with an indicator that is equal to 1 for observations from 1926. The other 
+% City Destruction * Year Dummies 
+is a set of year dummies for each year 1931, 1940, 1950, 1961, 1970, and 1980 (1926 is the excluded year). 
+Dependent Variable: Pubs. Pubs. Pubs. Pubs. Pubs. Pubs. Pubs. Pubs. Pubs. Pubs. 
+Number of Dismissals * 1926 -0.093 -0.100 -0.100 -0.092 -0.099 -0.099 -0.099 
+Number of Dismissals * 1940 -0.181*** -0.188*** -0.188*** -0.181*** -0.186*** -0.186*** -0.185*** 
+Number of Dismissals * 1950 -0.195*** -0.201*** -0.196*** -0.195*** -0.200*** -0.196*** -0.197*** 
+Number of Dismissals * 1961 -0.190*** -0.207*** -0.202*** -0.189*** -0.206*** -0.202*** -0.205*** 
+Number of Dismissals * 1970 -0.210*** -0.220*** -0.215*** -0.209*** -0.217*** -0.212*** -0.215*** 
+Number of Dismissals * 1980 -0.129* -0.142** -0.141** -0.126** -0.139** -0.138** -0.158** 
+% Destruction * 1926 
+% Destruction * 1931 
+% Destruction * 1950 
+% Destruction * 1961 
+% Destruction * 1970 
+% Destruction * 1980 
+Department FE yes yes yes yes yes yes yes yes yes yes 
+Year FE yes yes yes 
+Subject*Year FE yes yes yes yes yes yes yes 
+Occupation Zone * Post1945 Dummies yes yes yes yes 
+City Level Destruction * Year Dummies 
+Observations 714 714 714 714 714 714 714 714 714 714 
+R-squared 0.460 0.484 0.496 0.440 0.460 0.471 0.475 0.497 0.507 0.518 
+Table 4: Persistence of Dismissal and Bombing Shocks - Citation Weighted Publications 
+***signi–cant at 1% level **signi–cant at 5% level *signi–cant at 10% level (All standard errors clustered at university level) 
+The dependent variable 
+to have zero mean and a standard deviation of one within subjects. 
+equal to 1 for observations from 1926. The other interactions are de–ned accordingly. The excluded interaction is the number of dismissals with 1931, the last observation before the dismissals. 
+% Destruction * 1926 
+interactions are de–ned accordingly. The excluded interaction is % destruction with 1940, the last observation before the bombings. 
+Year FE 
+and mathematics) with year dummies. 
+post-1945 dummy. 
+34 
+
+========35========
+
+only 33-34 Science Instrumenting 
+dismissals Dest. with Uni. Dest. 
+. The variable is normalized to have zero mean and 
+t 
+in a –ve-year window around year 
+d 
+is the sum of publications published by all scientists in department 
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) 
+Full Full Full Full Full Full Full Dropping Dropping Dropping Full Full Full 
+Publi- Publi- Publi- Publi- Publi- Publi- Age-adj. Publi- Publi- Publi- Publi- Publi- Publi- 
+(0.026) (0.026) (0.026) (0.026) (0.026) (0.026) (0.036) (0.029) (0.043) (0.041) (0.041) (0.026) (0.023) 
+(0.042) (0.042) (0.042) (0.037) (0.038) (0.038) (0.053) (0.041) (0.033) (0.037) (0.040) (0.036) (0.038) 
+(0.102) (0.103) (0.103) (0.102) (0.103) (0.099) (0.122) (0.079) (0.047) (0.042) (0.114) (0.098) (0.091) 
+(0.078) (0.077) (0.075) (0.075) (0.075) (0.071) (0.090) (0.051) (0.048) (0.050) (0.081) (0.069) (0.066) 
+(0.079) (0.078) (0.073) (0.074) (0.073) (0.069) (0.074) (0.050) (0.069) (0.073) (0.081) (0.066) (0.063) 
+(0.067) (0.065) (0.063) (0.063) (0.062) (0.061) (0.087) (0.053) (0.065) (0.065) (0.059) (0.061) (0.053) 
+(0.002) (0.002) (0.002) (0.002) (0.002) (0.002) (0.003) (0.002) (0.004) (0.005) (0.003) (0.004) (0.003) 
+(0.002) (0.002) (0.002) (0.002) (0.002) (0.002) (0.003) (0.002) (0.003) (0.003) (0.003) (0.003) (0.003) 
+(0.002) (0.002) (0.002) (0.002) (0.002) (0.002) (0.003) (0.003) (0.004) (0.005) (0.002) (0.004) (0.003) 
+(0.002) (0.002) (0.002) (0.002) (0.002) (0.002) (0.003) (0.002) (0.003) (0.004) (0.002) (0.003) (0.003) 
+(0.002) (0.002) (0.002) (0.002) (0.002) (0.002) (0.003) (0.002) (0.004) (0.005) (0.002) (0.004) (0.003) 
+(0.004) (0.004) (0.003) (0.003) (0.003) (0.003) (0.004) (0.005) (0.005) (0.006) (0.004) (0.004) (0.006) 
+Publications 
+Dependent Variable: cations cations cations cations cations cations Pubs. cations cations cations cations cations cations 
+Sample: Sample Sample Sample Sample Sample Sample Sample Austria East Ger. both Sample Sample Sample 
+# of Dismissals * 1926 0.018 0.020 0.020 0.026 0.026 0.026 0.086** 0.024 0.027 0.020 0.048 0.028 0.020 
+# of Dismissals * 1940 -0.170*** -0.173*** -0.173*** -0.165*** -0.175*** -0.175*** -0.160*** -0.138*** -0.116*** -0.100** -0.153*** -0.175*** -0.183*** 
+# of Dismissals * 1950 -0.236** -0.244** -0.246** -0.236** -0.248** -0.246** -0.178 -0.221*** -0.080 -0.045 -0.209* -0.242** -0.255*** 
+# of Dismissals * 1961 -0.271*** -0.282*** -0.284*** -0.276*** -0.288*** -0.286*** -0.233** -0.259*** -0.151*** -0.114** -0.275*** -0.283*** -0.292*** 
+# of Dismissals * 1970 -0.300*** -0.314*** -0.316*** -0.314*** -0.326*** -0.323*** -0.285*** -0.298*** -0.203*** -0.169** -0.314*** -0.322*** -0.324*** 
+# of Dismissals * 1980 -0.234*** -0.251*** -0.258*** -0.259*** -0.272*** -0.272*** -0.287*** -0.271*** -0.184*** -0.162** -0.238*** -0.271*** -0.267*** 
+% Destruction * 1926 -0.004* -0.004* -0.004* -0.003 -0.002 -0.002 -0.004 -0.004 -0.003 -0.006 -0.002 -0.003 -0.008*** 
+% Destruction * 1931 -0.007*** -0.007*** -0.007*** -0.005** -0.005* -0.005* -0.006* -0.006*** -0.005* -0.008** -0.004 -0.003 -0.011*** 
+% Destruction * 1950 -0.006*** -0.005*** -0.006*** -0.005** -0.005** -0.005** -0.005 -0.008** -0.007* -0.009* -0.006** -0.011** -0.013*** 
+% Destruction * 1961 -0.004** -0.003* -0.004** -0.003 -0.003 -0.003 -0.004 -0.005*** -0.002 -0.003 -0.004* -0.006* -0.011*** 
+% Destruction * 1970 0.003 0.003 0.003 0.004 0.004 0.003 0.000 0.001 0.004 0.003 0.002 0.004 -0.002 
+% Destruction * 1980 0.001 0.002 0.001 0.001 0.001 0.001 -0.000 -0.003 0.001 -0.001 0.001 0.001 -0.008 
+Standard Controls yes yes yes yes yes yes yes yes yes yes yes yes yes 
+Länder Dummies * P45 yes yes yes yes yes yes yes yes yes yes yes yes yes 
+Quadratic in Uni. Age yes yes yes yes yes yes yes yes yes yes yes yes 
+# of Deps. Within 50km yes yes yes yes yes yes yes yes yes yes yes 
+Industries (1933) * Year yes yes yes yes yes yes yes yes yes yes 
+Fract. Jews (1933) * P45 yes yes yes yes yes yes yes yes yes 
+Dist. to Iron Curtain * P45 yes yes yes yes yes yes yes yes 
+Observations 714 714 714 714 714 714 714 609 588 483 714 714 714 
+R-squared 0.703 0.706 0.708 0.716 0.717 0.718 0.603 0.724 0.698 0.685 0.704 0.719 
+Table 5: Robustness Checks - Publications 
+***signi–cant at 1% **signi–cant at 5% *signi–cant at 10% (s.e. clustered at university level) 
+The dependent variable 
+a standard deviation of one within subjects. In column (7) the dependent variable is equal is age adjusted publications, also normalized to have zero mean and a standard deviation of one within 
+35 
+
+========36========
+
+is the fraction of Jews in each 
+is equal to percentage destruction caused 
+Fract. Jews (1933) * P45 
+% Destruction * 1926 
+measures the number of departments with the same subject within 50 kilometers 
+# of Deps. Within 50km 
+are all controls as reported in column (10) of Table 3, i.e. Department FEs, Subject*Year FEs, Occupation 
+is a set of dummy variables for each post-war German federal state (Land) interacted with a post-1945 dummy. 
+is the distance to the iron curtain from each city interacted with a post-1945 dummy. 
+Standard Controls 
+Länder Dummies * P45 
+is the fraction of –rms in a city belonging to each of 3 armament related universities in 1933 (1930 for Austria) interacted with a full set 
+Dist. to Iron Curtain * P45 
+is equal to the number of dismissals between 1933 and 1940 interacted with an indicator that is equal to 1 for observations from 1926. The other interactions 
+Industries (1933) * Year 
+is equal to the age of the university in each year and its square. 
+# of Dismissals * 1926 
+subjects. 
+are de–ned accordingly. The excluded interaction is the number of dismissals with 1931, the last observation before the dismissals. 
+by Allied bombings between 1940 and 1945 interacted with an indicator that is equal to 1 for observations from 1926. The other interactions are de–ned accordingly. The excluded interaction is 
+% destruction with 1940, the last observation before the bombings. 
+Zones * Post45, and % City Destruction * Year Dummies. 
+Quadratic in Uni. Age 
+of each department in each year. 
+of year dummies. The 3 industries are: iron and steel production, mechanical engineering and vehicle construction, and chemical industry. 
+city in 1933 interacted with a post 1933 dummy. 
+36 
+
+========37========
+
+. The variable is normalized to 
+t 
+only 33-34 Science Instrument. 
+dismissals Dest. w/ Uni. Dest. 
+in a –ve-year window around year 
+d 
+yes yes yes yes yes yes yes yes 
+is the sum of citation weighted publications published by all scientists in department 
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) 
+Full Full Full Full Full Full Full Dropping Dropping Dropping Full Full Full 
+(0.079) (0.079) (0.079) (0.077) (0.077) (0.077) (0.098) (0.078) (0.090) (0.083) (0.089) (0.078) (0.069) 
+(0.059) (0.060) (0.060) (0.062) (0.064) (0.064) (0.076) (0.087) (0.057) (0.056) (0.074) (0.067) (0.054) 
+(0.031) (0.031) (0.042) (0.031) (0.027) (0.028) (0.030) (0.040) (0.048) (0.053) (0.031) (0.029) (0.035) 
+(0.038) (0.039) (0.046) (0.038) (0.037) (0.039) (0.047) (0.054) (0.062) (0.067) (0.048) (0.041) (0.039) 
+(0.046) (0.046) (0.049) (0.046) (0.048) (0.050) (0.060) (0.065) (0.083) (0.086) (0.063) (0.055) (0.044) 
+(0.066) (0.066) (0.072) (0.061) (0.064) (0.064) (0.067) (0.076) (0.086) (0.088) (0.088) (0.066) (0.066) 
+(0.002) (0.002) (0.002) (0.002) (0.002) (0.002) (0.003) (0.002) (0.002) (0.003) (0.002) (0.003) (0.002) 
+(0.003) (0.003) (0.003) (0.003) (0.004) (0.004) (0.005) (0.004) (0.004) (0.005) (0.004) (0.003) (0.003) 
+(0.002) (0.002) (0.002) (0.002) (0.002) (0.002) (0.003) (0.003) (0.003) (0.004) (0.002) (0.003) (0.003) 
+(0.003) (0.003) (0.003) (0.003) (0.003) (0.003) (0.004) (0.003) (0.005) (0.005) (0.003) (0.003) (0.003) 
+(0.004) (0.004) (0.004) (0.004) (0.004) (0.004) (0.005) (0.005) (0.006) (0.008) (0.004) (0.004) (0.003) 
+(0.005) (0.005) (0.005) (0.007) (0.007) (0.007) (0.008) (0.009) (0.007) (0.009) (0.007) (0.005) (0.007) 
+Cit. weig. Cit. weig. Cit. weig. Cit. weig. Cit. weig. Cit. weig. Age-adj. Cit. Cit. weig. Cit. weig. Cit. weig. Cit. weig. Cit. weig. Cit. weig. 
+Cit. weig. Pubs. 
+Dependent Variable: Pubs. Pubs. Pubs. Pubs. Pubs. Pubs. weig. Pubs. Pubs. Pubs. Pubs. Pubs. Pubs. Pubs. 
+Sample: Sample Sample Sample Sample Sample Sample Sample Austria East Ger. both Sample Sample Sample 
+# of Dismissals * 1926 -0.099 -0.098 -0.099 -0.087 -0.087 -0.087 -0.076 -0.080 -0.154* -0.156* -0.080 -0.084 -0.099 
+# of Dismissals * 1940 -0.185*** -0.186*** -0.185*** -0.180*** -0.180*** -0.181*** -0.188** -0.150* -0.248*** -0.254*** -0.177** -0.181** -0.190*** 
+# of Dismissals * 1950 -0.188*** -0.190*** -0.195*** -0.191*** -0.191*** -0.187*** -0.150*** -0.156*** -0.177*** -0.177*** -0.173*** -0.182*** -0.196*** 
+# of Dismissals * 1961 -0.196*** -0.198*** -0.202*** -0.196*** -0.196*** -0.191*** -0.157*** -0.163*** -0.196*** -0.194*** -0.192*** -0.188*** -0.203*** 
+# of Dismissals * 1970 -0.206*** -0.209*** -0.213*** -0.220*** -0.220*** -0.215*** -0.194*** -0.186*** -0.221** -0.211** -0.229*** -0.212*** -0.214*** 
+# of Dismissals * 1980 -0.146** -0.150** -0.163** -0.181*** -0.181*** -0.181*** -0.191*** -0.168** -0.197** -0.207** -0.161* -0.178** -0.165** 
+% Destruction * 1926 -0.002 -0.002 -0.002 -0.003 -0.003 -0.003 -0.004 -0.004 -0.001 -0.002 -0.003 -0.004 -0.003 
+% Destruction * 1931 -0.005 -0.005 -0.005 -0.003 -0.003 -0.003 -0.004 -0.003 0.003 0.004 -0.002 -0.001 -0.007** 
+% Destruction * 1950 -0.003 -0.003 -0.003* -0.004* -0.004* -0.004* -0.005 -0.005* -0.002 -0.003 -0.004* -0.008** -0.008*** 
+% Destruction * 1961 -0.001 -0.001 -0.001 -0.002 -0.002 -0.002 -0.003 -0.003 0.001 0.001 -0.002 -0.004 -0.005* 
+% Destruction * 1970 0.006 0.006 0.006 0.007 0.007 0.007 0.006 0.007 0.013** 0.016* 0.007 0.009** 0.004 
+% Destruction * 1980 0.005 0.005 0.004 0.009 0.009 0.009 0.010 0.009 0.012* 0.013 0.009 0.004 -0.009 
+Standard Controls yes yes yes yes yes yes yes yes yes yes yes yes yes 
+Länder Dummies * P45 yes yes yes yes yes yes yes yes yes yes yes yes yes 
+Quadratic in Uni. Age yes yes yes yes yes yes yes yes yes yes yes yes 
+# of Deps. within 50km yes yes yes yes yes yes yes yes yes yes yes 
+Industries (1933) * Year yes yes yes yes yes yes yes yes yes yes 
+Fract. Jews (1933) * P45 yes yes yes yes yes yes yes yes yes 
+Dist. to Iron Curt. * P45 
+Observations 714 714 714 714 714 714 714 609 588 483 714 714 714 
+R-squared 0.525 0.525 0.526 0.528 0.528 0.552 0.367 0.558 0.571 0.579 0.548 0.548 0.517 
+Table 6: Robustness Checks - Citation weighted Publications 
+***signi–cant at 1% **signi–cant at 5% *signi–cant at 10% (s.e. clustered at university level) 
+The dependent variable 
+have a zero mean and a standard deviation of one within subjects. In column (7) the dependent variable is equal is age adjusted citation weighted publications, also normalized to have zero mean 
+and a standard deviation of one. All explanatory variables are de–ned as in Table 5. 
+37 
+
+========38========
+
+Table 7: Individual Subjects 
+(1) (2) (3) (4) (5) (6) 
+Citation Citation Citation 
+Publi- weighted Publi- weighted Publi- weighted Dependent Variable: cations Pubs. cations Pubs. cations Pubs. 
+Physics Chemistry Mathematics Number of Dismissals * 1926 0.164 -0.033 0.026 0.012 -0.180 -0.469** 
+(0.140) (0.286) (0.016) (0.038) (0.181) (0.187) Number of Dismissals * 1940 -0.112** -0.181 -0.178*** -0.053** -0.295* -0.553*** 
+(0.044) (0.227) (0.060) (0.020) (0.162) (0.192) Number of Dismissals * 1950 -0.059 -0.122 -0.317*** -0.101* -0.445** -0.606*** 
+(0.190) (0.248) (0.110) (0.054) (0.182) (0.182) Number of Dismissals * 1961 -0.215** -0.277 -0.309*** -0.060 -0.440** -0.472** 
+(0.089) (0.189) (0.089) (0.084) (0.178) (0.202) Number of Dismissals * 1970 -0.271*** -0.314 -0.346*** -0.101 -0.454** -0.500** 
+(0.080) (0.204) (0.096) (0.061) (0.177) (0.200) Number of Dismissals * 1980 -0.291** -0.436** -0.247*** 0.078 -0.404** -0.475** 
+(0.119) (0.186) (0.089) (0.082) (0.165) (0.175) 
+% Destruction * 1926 -0.002 -0.001 0.005 0.003 -0.007 -0.007 
+(0.005) (0.002) (0.005) (0.003) (0.005) (0.006) % Destruction * 1931 -0.002 -0.000 0.001 -0.001 -0.013** -0.005 
+(0.003) (0.002) (0.007) (0.004) (0.006) (0.009) % Destruction * 1950 0.000 -0.001 0.000 0.002 -0.007 -0.004 
+(0.005) (0.004) (0.007) (0.006) (0.005) (0.006) % Destruction * 1961 0.001 -0.002 0.003 0.005 -0.007 -0.005 
+(0.003) (0.003) (0.008) (0.010) (0.006) (0.006) % Destruction * 1970 0.003 0.001 0.008 0.018 0.008 0.006 
+(0.004) (0.003) (0.007) (0.012) (0.005) (0.007) % Destruction * 1980 -0.002 0.002 0.017* 0.023** -0.003 0.002 
+(0.007) (0.008) (0.009) (0.011) (0.007) (0.008) 
+Department FE yes yes yes yes yes yes Subject*Year FE yes yes yes yes yes yes Occupation Zones * Post45 yes yes yes yes yes yes % City Destruction * Year Dummies yes yes yes yes yes yes All additional controls yes yes yes yes yes yes 
+Observations 238 238 238 238 238 238 
+R-squared 0.761 0.645 0.868 0.761 0.750 0.666 ***signi–cant at 1% **signi–cant at 5% *signi–cant at 10% (s.e. clustered at university level) The dependent variable Publications reported in odd columns is the sum of publications published by all scientists in department d in a –ve-year window around year t. The dependent variable Citation weighted Pubs. reported in even columns is the sum of publications published by all scientists in department d in a –ve-year window around year t. Dependent variables are normalized to have zero mean and a standard deviation of one within subjects. Number of Dismissals * 1926 is equal to the number of dismissals in Nazi Germany between 1933 and 1940 interacted with an indicator that is equal to 1 for observations from 1926. The other interactions are de–ned accordingly. The excluded interaction is the number of dismissals with 1931, the last observation before the dismissals. % Destruction * 1926 is equal to percentage destruction caused by Allied bombings between 1940 and 1945 interacted with an indicator that is equal to 1 for observations from 1926. The other interactions are de–ned accordingly. The excluded interaction is % destruction with 1940, the last observation before the bombings. Department FE is the full set of 105 department –xed e¤ects. Subject*Year FE is the interaction of subject indicators (for physics, chemistry, and mathematics) with year dummies. Occupation Zones * Post45 is the interaction of occupation zone indicators (English zone, French zone, Soviet zone, excluded category U.S. zone) with a post-1945 dummy. % City Destruction * Year Dummies is the interaction of city level destruction with the full set of year dummies. All additional controls is the full set of additional control variables as used in column (6) of Tables 5 and 6. 
+38 
+
+========39========
+
+Occupation 
+. The dependent variable 
+t 
+% City Destruction * Year Dummies 
+. Dependent variables are normalized 
+t 
+in a –ve-year window around year 
+d 
+in a –ve-year window around year 
+d 
+is the full set of additional control variables as used in column (6) of Tables 5 and 6. 
+is equal to the number of dismissals in Nazi Germany between 1933 and 1940 interacted with an 
+is the interaction of subject indicators (for physics, chemistry, and mathematics) with year dummies. 
+All additional controls 
+Number of Dismissals * 1926 
+Subject*Year FE 
+Citation Citation Citation Citation Citation 
+All Dismissals Above Median Quality Top 25th percentile Top 10th percentile Top 5th percentile 
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) 
+Publi- weighted Publi- weighted Publi- weighted Publi- weighted Publi- weighted 
+(0.026) (0.077) (0.028) (0.071) (0.057) (0.127) (0.067) (0.202) (0.237) (0.444) 
+(0.038) (0.064) (0.039) (0.085) (0.059) (0.111) (0.157) (0.153) (0.262) (0.298) 
+(0.099) (0.028) (0.157) (0.056) (0.221) (0.099) (0.321) (0.122) (0.467) (0.309) 
+(0.071) (0.039) (0.102) (0.061) (0.149) (0.094) (0.258) (0.148) (0.291) (0.280) 
+(0.069) (0.050) (0.088) (0.097) (0.130) (0.113) (0.265) (0.145) (0.295) (0.296) 
+(0.061) (0.064) (0.104) (0.160) (0.125) (0.155) (0.259) (0.184) (0.270) (0.381) 
+is equal to percentage destruction caused by Allied bombings between 1940 and 1945 interacted with a set of year indicatores as in the main speci–cation. 
+reported in odd columns is the sum of publications published by all scientists in department 
+reported in even columns is the sum of publications published by all scientists in department 
+Publications 
+is the full set of 105 department –xed e¤ects. 
+is the interaction of occupation zone indicators (English zone, French zone, Soviet zone, excluded category U.S. zone) with a post-1945 dummy. 
+% Destruction * Year Dummies 
+Dependent Variable: cations Pubs. cations Pubs. cations Pubs. cations Pubs. cations Pubs. 
+Number of Dismissals * 1926 0.026 -0.087 0.047* -0.098 0.039 -0.161 -0.079 -0.471** -0.241 -0.784* 
+Number of Dismissals * 1940 -0.175*** -0.181*** -0.267*** -0.243*** -0.329*** -0.349*** -0.550*** -0.712*** -0.833*** -1.198*** 
+Number of Dismissals * 1950 -0.246** -0.187*** -0.343** -0.254*** -0.416* -0.354*** -0.719** -0.739*** -0.740 -1.078*** 
+Number of Dismissals * 1961 -0.286*** -0.191*** -0.433*** -0.237*** -0.539*** -0.345*** -0.798*** -0.662*** -0.918*** -1.189*** 
+Number of Dismissals * 1970 -0.323*** -0.215*** -0.498*** -0.278*** -0.621*** -0.428*** -0.896*** -0.845*** -1.136*** -1.441*** 
+Number of Dismissals * 1980 -0.272*** -0.181*** -0.399*** -0.237 -0.546*** -0.417** -0.730*** -0.764*** -1.019*** -1.583*** 
+% Destruction * Year Dummies yes yes yes yes yes yes yes yes yes yes 
+Department FE yes yes yes yes yes yes yes yes yes yes 
+Subject*Year FE yes yes yes yes yes yes yes yes yes yes 
+Occupation Zones * Post45 yes yes yes yes yes yes yes yes yes yes 
+% City Destruction * Year Dummies yes yes yes yes yes yes yes yes yes yes 
+All additional controls yes yes yes yes yes yes yes yes yes yes 
+Observations 714 714 714 714 714 714 714 714 714 714 
+R-squared 0.718 0.552 0.726 0.548 0.720 0.555 0.708 0.572 0.683 0.584 
+Table 8: Dismissal of Top Scientists 
+***signi–cant at 1% **signi–cant at 5% *signi–cant at 10% (s.e. clustered at university level) 
+The dependent variable 
+Citation weighted Pubs. 
+to have zero mean and a standard deviation of one within subjects. 
+indicator that is equal to 1 for observations from 1926. The other interactions are de–ned accordingly. The excluded interaction is the number of dismissals with 1931, the last observation before the 
+dismissals. 
+Department FE 
+Zones * Post45 
+is the interaction of city level destruction with the full set of year dummies. 
+39 
+
+========40========
+
+Table 9: Persistence of Dismissal and Bombing Shocks - Department Size 
+(1) (2) (3) 
+Department Department Department Dependent Variable: Size Size Size 
+Number of Dismissals * 1926 -0.217*** -0.218*** 
+(0.060) (0.056) Number of Dismissals * 1940 -0.612*** -0.604*** 
+(0.078) (0.083) Number of Dismissals * 1950 -1.129*** -1.124*** 
+(0.353) (0.336) Number of Dismissals * 1961 -1.045*** -1.064*** 
+(0.267) (0.257) Number of Dismissals * 1970 -0.935** -1.009** 
+(0.381) (0.374) Number of Dismissals * 1980 0.063 0.024 
+(0.665) (0.656) 
+% Destruction * 1926 0.005 0.006 
+(0.013) (0.013) % Destruction * 1931 0.005 0.004 
+(0.011) (0.010) % Destruction * 1950 -0.034 -0.029 
+(0.025) (0.024) % Destruction * 1961 -0.008 -0.003 
+(0.029) (0.029) % Destruction * 1970 0.050* 0.056** 
+(0.025) (0.027) % Destruction * 1980 0.034 0.041 
+(0.055) (0.056) 
+Department FE yes yes yes Subject*Year FE yes yes yes Occupation Zones * Post45 yes yes yes % City Destruction * Year Dummies yes yes yes All additional controls yes yes yes 
+Observations 714 714 714 
+R-squared 0.882 0.878 0.884 
+***signi–cant at 1% level **signi–cant at 5% level *signi–cant at 10% level 
+(All standard errors clustered at university level) 
+The dependent variable Department Size measures department size in department d and year t. Number of Dismissals * 1926 is equal to the number of dismissals between 1933 and 1940 interacted with an indicator that is equal to 1 for observations from 1926. The other interactions are de–ned accordingly. The excluded interaction is the number of dismissals with 1931, the last observation before the dismissals. % Destruction * 1926 is equal to percentage destruction caused by Allied bombings between 1940 and 1945 interacted with an indicator that is equal to 1 for observations from 1926. The other interactions are de–ned accordingly. The excluded interaction is % destruction with 1940, the last observation before the bombings. Department FE is the full set of 105 department –xed e¤ects. Subject*Year FE is the interaction of subject indicators (for physics, chemistry, and mathematics) with year dummies. Occupation Zones * Post45 is the interaction of occupation zone indicators (English zone, French zone, Soviet zone, excluded category U.S. zone) with a post-1945 dummy. % City Destruction * Year Dummies is the interaction of city level destruction with the full set of year dummies. All additional controls is the full set of additional control variables as used in column (6) of Tables 5 and 6. 
+40 
+
+========41========
+
+Table 10: Quality of New Hires 
+(1) (2) (3) (4) (5) 
+Quality Quality Quality Quality Quality Dependent Variable: of Hires of Hires of Hires of Hires of Hires 
+All Above Top 25th Top 10th Top Dismissal Quality: Dismissals median Quality percentile percentile 5th percentile Number of Dismissals * 1940 -0.059*** -0.096*** -0.145*** -0.249*** -0.428*** 
+(0.014) (0.018) (0.040) (0.051) (0.133) Number of Dismissals * 1950 -0.055** -0.090*** -0.138*** -0.234*** -0.400*** 
+(0.020) (0.027) (0.046) (0.061) (0.139) Number of Dismissals * 1961 -0.054*** -0.089*** -0.134*** -0.226*** -0.417*** 
+(0.013) (0.018) (0.037) (0.049) (0.120) Number of Dismissals * 1970 -0.055*** -0.090*** -0.141*** -0.266*** -0.484*** 
+(0.020) (0.028) (0.041) (0.054) (0.130) Number of Dismissals * 1980 -0.064*** -0.112*** -0.171*** -0.285*** -0.520*** 
+(0.017) (0.031) (0.054) (0.069) (0.160) 
+% Destruction * Year Dummies yes yes yes yes yes Department FE yes yes yes yes yes Subject*Year FE yes yes yes yes yes Occupation Zone * Post45 yes yes yes yes yes % City Destruction * Year Dummies yes yes yes yes yes All additional controls yes yes yes yes yes 
+Observations 602 602 602 602 602 R-squared 0.401 0.406 0.421 0.436 0.453 ***signi–cant at 1% **signi–cant at 5% *signi–cant at 10% (s.e. clustered at university level) The dependent variable Quality of Hires measures the average quality of new hires in department d between year t and year t-1. Quality of hires is measured by the career average of citation-weighted publications. The variable is normalized to have zero mean and a standard deviation of one within subjects. Number of Dismissals * 1926 is equal to the number of dismissals between 1933 and 1940 interacted with an indicator that is equal to 1 for observations from 1926. The other interactions are de–ned accordingly. The excluded interaction is the number of dismissals with 1931, the last observation before the dismissals. % Destruction * Year Dummies is equal to percentage destruction caused by Allied bombings between 1940 and 1945 interacted with a full set of year dummies as in the main speci–cation. Department FE is the full set of 105 department –xed e¤ects. Subject*Year FE is the interaction of subject indicators (for physics, chemistry, and mathematics) with year dummies. Occupation Zones * Post45 is the interaction of occupation zone indicators (English zone, French zone, Soviet zone, excluded category U.S. zone) with a post-1945 dummy. % City Destruction * Year Dummies is the interaction of city level destruction with the full set of year dummies. All additional controls is the full set of additional control variables as used in column (6) of Tables 5 and 6. 
+41 
+
+========42========
+
+8 Appendix 
+8.1 Appendix Figures 
+USA 
+50 
+40 
+30 
+UK 
+20 
+Other 
+Percentage of Nobel Prizes 
+10 
+Germany + Austria 
+0 
+1901­10 11­20 
+21­30 
+31­40 
+41­50 
+51­60 
+61­70 
+71­80 
+Figure A1: Nobel Prizes in physics and chemistry 
+Note: The –gure reports the percentage of Nobel Prizes awarded in physics and chemistry to scientists a¢ liated with a university in the respective country for each decade from 1901 to 1980. Prizes are weighted according to the fractions awarded by the Nobel committee (i.e. if the prize was awarded to 3 scientists in one year with one scientist getting 0.5 of the prize, and the other two scientists receiving 0.25 of the prize their countries would be assigned 0.5 and 0.25 respectively). Over the time period 1901 to 1980 scientists based in Austrian universities contribute 2 prizes to the combined total of 33.75 prizes awarded to scientists in German and Austrian universities. Data on Nobel Prizes and university a¢ liations come from http://www.nobelprize.org/nobel_prizes/. 
+42 
+
+========43========
+
+8.2 Appendix Tables 
+Table A1: Top Journals 
+Historical Current Journal Name Published in Top Journal Top Journal 
+General Journals 
+Nature UK yes yes Naturwissenschaften Germany yes 
+Proceedings of the National Academy of Sciences USA yes Proceedings of the Royal Society of London A (Mathematics and Physics) UK yes 
+Science USA yes yes Sitzungsberichte der Pressischen Akademie der Wissenschaften Germany yes 
+Physics 
+Annalen der Physik Germany yes 
+Applied Physics Letters USA yes Astrophysical Journal UK yes Journal of Applied Physics USA yes Journal of Chemical Physics USA yes Journal of Geophysical Research B: Solid Earth USA yes Physical Review USA yes yes Physical Review A USA yes Physical Review B USA yes Physical Review C USA yes Physical Review D USA yes Physical Review Letters USA yes Physikalische Zeitschrift Germany yes 
+Zeitschrift für Physik Germany yes 
+Chemistry 
+Analytical Chemistry USA yes Angewandte Chemie - International Edition in English UK yes Berichte der Deutschen Chemischen Gesellschaft Germany yes 
+Biochemische Zeitschrift Germany yes 
+Chemical Communications USA yes Inorganic Chemistry USA yes Journal für Praktische Chemie Germany yes 
+Journal of Biological Chemistry USA yes Journal of Organic Chemistry USA yes Journal of Physical Chemistry USA yes yes Journal of the American Chemical Society USA yes Journal of the Chemical Society UK yes 
+Justus Liebigs Annalen Chemie Germany yes 
+Kolloid Zeitschrift Germany 
+Tetrahedron Letters Netherlands yes Zeitschrift für Anorganische Chemie und Allgemeine Chemie Germany yes 
+Zeitschrift für Elektrochemie und Angewandte Physikalische Chemie Germany yes 
+Zeitschrift für Physikalische Chemie Germany yes 
+Mathematics 
+Acta Mathematica Sweden yes yes Advances in Mathematics USA yes Annals of Mathematics USA yes yes Bulletin of the American Mathematical Society USA yes Inventiones Mathematicae yes Jounal für die reine und angewandte Mathematik Germany yes 
+Journal of Functional Analysis USA yes Journal of the London Mathematical Society Germany 
+Mathematische Annalen Germany yes 
+Mathematische Zeitschrift Germany yes 
+Philosophical Transactions of the Royal Society A UK yes Proceedings of the London Mathematical Society UK yes 
+Zeitschrift für angewandte Mathematik und Mechanik Germany yes 
+43 
+
+========44========
+
+Table A2: Top Scientists 
+Yearly Career Dis- First Last 
+Cit. weighted Nobel missed year year Name University 1 University 2 Publications Prize 1933-40 in data in data Physics 
+Wigner, Eugen Berlin TU 619.8 yes 1933 1931 1931 Binder, Kurt Köln 468.3 1980 1980 Cardona, Manuel Stuttgart TU 284.3 1980 1980 Ewald, Peter Paul Stuttgart TU 161.8 1937 1926 1931 Wegner, Franz Heidelberg 148.3 1980 1980 Born, Max Göttingen 144.2 yes 1933 1926 1931 Greiner, Walter Frankfurt 135.6 1970 1980 Schrödinger, Erwin Berlin 129.6 yes 1933 1926 1931 Schmidt, Michael Heidelberg 112.5 1980 1980 Bergmann, Gerd Köln 97.3 1980 1980 Haken, Hermann Stuttgart TU 96.5 1961 1980 Hess, Karl Wien 91.5 1980 1980 Schmid, Albert Karlsruhe TU 88.2 1970 1980 Hohenberg, Pierre München TU 87.9 1980 1980 Einstein, Albert Berlin 82.2 yes 1933 1926 1931 Schatz, Gerd Heidelberg 73.5 1980 1980 Müller, Bernd Frankfurt 70.1 1980 1980 Fulde, Peter Frankfurt Darmstadt TU 68.4 1970 1980 Schlögl, Friedrich Aachen TU 67.2 1961 1980 Gross, Ferdinand Graz 66.2 1970 1980 
+Chemistry 
+Meyerhof, Otto Heidelberg 277.4 yes 1938 1931 1931 Sies, Helmut München 172.6 1980 1980 Neuberg, Carl Berlin 163.5 1938 1926 1931 Lynen, Feodor München 160.2 yes 1961 1970 Eckstein, Fritz Göttingen 159.2 1980 1980 Giese, Bernd Darmstadt TU 153.0 1980 1980 Reetz Manfred T. Marburg 151.0 1980 1980 Pette, Dirk München 141.1 1970 1970 Lohmann, Karl Heidelberg Berlin 136.1 1931 1961 Neupert, Walter München 135.8 1980 1980 Bergmann, Max Dresden TU 129.6 1933 1926 1931 Vorbrüggen, Helmut Berlin TU 125.2 1980 1980 von Raque Schleyer Erlangen 110.8 1980 1980 Paulsen, Hans Hamburg 110.0 1970 1980 Witkop, Bernhard München 108.9 1950 1950 Hoppe, Rudolf Gießen 106.3 1961 1980 Vögtlke, Fritz Würzburg 104.7 1980 1980 Kessler, Horst Frankfurt 103.8 1980 1980 Wieghardt, Karl Hannover TU 95.0 1980 1980 Westphal, Otto Freiburg 94.2 1961 1980 
+Mathematics 
+von Neumann, Johann Berlin 150.6 1933 1931 1931 Keller, Wilfried Hamburg 75.6 1980 1980 Bott, Raoul Bonn 51.8 1961 1970 Kaup, Wilhelm Tübingen 43.2 1980 1980 Lorentz, George G. Tübingen 39.7 1950 1950 von Mises, Richard Berlin TU 38.2 1933 1926 1931 Friedrichs, Kurt Göttingen 37.4 1937 1931 1931 Jensen, Ronald Bonn 35.6 1980 1980 Krieger, Wolfgang Heidelberg 35.3 1980 1980 Barth, Wolf Erlangen 29.1 1980 1980 Szegö, Gabriel Berlin 27.6 1933 1926 1931 Löh, Hans-Günter Hamburg 26.2 1980 1980 Weyl, Hermann Göttingen 26.0 1933 1926 1931 Schae¤er, Helmut Hamburg 24.1 1980 1980 Lewy, Hans Göttingen 23.4 1933 1931 1931 Dold, Albrecht Heidelberg 22.3 1961 1980 Grauert, Hans Göttingen 18.7 1961 1980 Becker, Jochen Berlin TU 18.3 1980 1980 Hausdor¤, Felix Bonn 16.7 1926 1931 Menger, Karl Wien 16.7 1938 1931 1931 
+44 
+
+========45========
+
+Table A3: First Stages - Instrumenting with University Destruction for Subject Destruction 
+(1) (2) (3) (4) (5) (6) 
+% Subj. % Subj. % Subj. % Subj. % Subj. % Subj. 
+Destruction Destruction Destruction Destruction Destruction Destruction Dependent Variable: * 1926 * 1931 * 1950 * 1961 * 1970 * 1980 
+% Uni. Destruction * 1926 0.602*** -0.011 0.003 0.003 0.003 0.005 
+(0.166) (0.014) (0.004) (0.004) (0.006) (0.011) % Uni. Destruction * 1931 -0.011 0.602*** 0.003 0.003 0.003 0.004 
+(0.013) (0.167) (0.004) (0.004) (0.005) (0.008) % Uni. Destruction * 1950 -0.001 0.001 0.608*** -0.002 0.001 0.015 
+(0.026) (0.026) (0.148) (0.024) (0.023) (0.017) % Uni. Destruction * 1961 -0.000 0.001 -0.005 0.611*** 0.001 0.014 
+(0.026) (0.026) (0.025) (0.148) (0.023) (0.020) % Uni. Destruction * 1970 0.001 0.004 -0.013 -0.008 0.611*** 0.026 
+(0.027) (0.027) (0.027) (0.025) (0.148) (0.031) % Uni. Destruction * 1980 0.002 0.005 -0.041 -0.034 -0.021 0.715*** 
+(0.040) (0.039) (0.060) (0.061) (0.070) (0.250) 
+Number of Dismissals * Year Dummies yes yes yes yes yes yes Department FE yes yes yes yes yes yes Subject*Year FE yes yes yes yes yes yes Occupation Zones * Post45 yes yes yes yes yes yes % City Destruction * Year Dummies yes yes yes yes yes yes All additional controls yes yes yes yes yes yes 
+Observations 714 714 714 714 714 714 R-squared 0.814 0.813 0.810 0.810 0.811 0.865 Cragg-Donald EV Statistic 19.6 
+***signi–cant at 1% **signi–cant at 5% *signi–cant at 10% (s.e. clustered at university level) The dependent variable % Dep. Destruction * 1926 reported in column (1) is equal to percentage destruction at the department level caused by Allied bombings between 1940 and 1945 interacted with an indicator that is equal to 1 for observations from 1926. Dependent variables in columns (2) to (6) are de–ned accordingly. The instrumental variable % Uni. Destruction * 1926 is equal to percentage destruction at the university level caused by Allied bombings between 1940 and 1945 interacted with an indicator that is equal to 1 for observations from 1926. The other instrumental variables are de–ned accordingly. The control variables Number of Dismissals * Year Dummies are equal to the number of dismissals in Nazi Germany between 1933 and 1940 interacted with a full set of year dummies. Department FE is the full set of 105 department –xed e¤ects. Subject*Year FE is the interaction of subject indicators (for physics, chemistry, and mathematics) with year dummies. Occupation Zones * Post45 is the interaction of occupation zone indicators (English zone, French zone, Soviet zone, excluded category U.S. zone) with a post-1945 dummy. % City Destruction * Year Dummies is the interaction of city level destruction with the full set of year dummies. All additional controls is the full set of additional control variables as used in column (6) of Tables 5 and 6. 
+45 
+
+========46========
+
+Table A4: Interaction of Human and Physical Capital 
+(1) (2) (3) (4) 
+Citation Citation 
+weighted weighted Dependent Variable: Publications Publications Publications Publications Number of Dismissals * 1926 0.026 0.026 -0.087 -0.087 
+(0.026) (0.026) (0.077) (0.077) Number of Dismissals * 1940 -0.175*** -0.174*** -0.181*** -0.181*** 
+(0.038) (0.039) (0.064) (0.064) Number of Dismissals * 1950 -0.246** -0.159 -0.187*** -0.162*** 
+(0.099) (0.096) (0.028) (0.035) Number of Dismissals * 1961 -0.286*** -0.271*** -0.191*** -0.174*** 
+(0.071) (0.091) (0.039) (0.041) Number of Dismissals * 1970 -0.323*** -0.316*** -0.215*** -0.244*** 
+(0.069) (0.084) (0.050) (0.080) Number of Dismissals * 1980 -0.272*** -0.284*** -0.181*** -0.222** 
+(0.061) (0.072) (0.064) (0.106) 
+% Destruction * 1926 -0.002 -0.002 -0.003 -0.003 
+(0.002) (0.002) (0.002) (0.002) % Destruction * 1931 -0.005* -0.005* -0.003 -0.003 
+(0.002) (0.002) (0.004) (0.004) % Destruction * 1950 -0.005** -0.002 -0.004* -0.003 
+(0.002) (0.002) (0.002) (0.002) % Destruction * 1961 -0.003 -0.002 -0.002 -0.002 
+(0.002) (0.002) (0.003) (0.003) % Destruction * 1970 0.003 0.004 0.007 0.006 
+(0.002) (0.003) (0.004) (0.004) % Destruction * 1980 0.001 0.000 0.009 0.007 
+(0.003) (0.004) (0.007) (0.006) 
+Number of Dismissals * % Destruction * 1950 -0.003** -0.001 
+(0.001) (0.001) Number of Dismissals * % Destruction * 1961 -0.000 -0.001 
+(0.001) (0.001) Number of Dismissals * % Destruction * 1970 -0.000 0.001 
+(0.001) (0.002) Number of Dismissals * % Destruction * 1980 0.001 0.002 
+(0.002) (0.003) 
+Department FE yes yes yes yes Subject*Year FE yes yes yes yes Occupation Zones * Post45 yes yes yes yes % City Destruction * Year Dummies yes yes yes yes All additional controls yes yes yes yes 
+Observations 714 714 714 714 
+R-squared 0.718 0.723 0.552 0.555 
+***signi–cant at 1% **signi–cant at 5% *signi–cant at 10% (s.e. clustered at university level) The dependent variable Publications is the sum of publications published by all scientists in department d in a –ve-year window around year t. The dependent variable Citation weighted Pubs. is the sum of publications published by all scientists in department d in a –ve-year window around year t. Dependent variables are normalized to have zero mean and a standard deviation of one within subjects. Number of Dismissals * 1926 is equal to the number of dismissals between 1933 and 1940 interacted with an indicator that is equal to 1 for observations from 1926. The other interactions are de–ned accordingly. The excluded interaction is the number of dismissals with 1931, the last observation before the dismissals. % Destruction * 1926 is equal to percentage destruction caused by Allied bombings between 1940 and 1945 interacted with an indicator that is equal to 1 for observations from 1926. The other interactions are de–ned accordingly. The excluded interaction is % destruction with 1940, the last observation before the bombings. Number of Dismissals * % Destruction * 1950 is the triple interaction of the number of dismissals, percentage destruction, and an indicator for 1950. The other triple interactions are de–ned accordingly. Department FE is the full set of 105 department –xed e¤ects. Subject*Year FE is the interaction of subject indicators (for physics, chemistry, and mathematics) with year dummies. Occupation Zones * Post45 is the interaction of occupation zone indicators (English zone, French zone, Soviet zone, excluded category U.S. zone) with a post-1945 dummy. % City Destruction * Year Dummies is the interaction of city level destruction with the full set of year dummies. All additional controls is the full set of additional control variables as used in column (6) of Tables 5 and 6. 
+46 
+
+========47========
+
+8.3 Calculation of Contribution of Human and Physical Capital 
+Shocks for the Decline of German Science 
+Dismissal Shock 
+The e¤ect of the dismissals on German science is calculated using the regression results includ- ing all controls as in column (6) of Tables 5 and 6. Using the number of dismissals in each department I calculate the reduction in (citation weighted) publications in each department for 1940, 1950, 1961, 1970, and 1980 in terms of standard deviations. For each department and year I therefore calculate: 
+y1940 =  
+bdismissals1940 
+ (# of Dismissals 33-40),..., y1980 =  
+bdismissals1980 
+ (# of Dismissals 33-40) 
+Multiplying the y™s with the subject level standard deviations of (citation weighted) publi- cations I calculate the fall in productivity in each department in terms of (citation weighted) publications (call them Yyear). The Yyear™s compute the reduction in (citation weighted) publications for the years 1940, 1950, 1961, 1970, and 1980. To obtain the total reduction in (citations weighted) publications for all years since 1933, I assume that the productivity loss be- tween April 1933 and December 1945 was Y1940 in each year. Similarly, between January 1946 and December 1955 the annual loss in productivity was Y1950, and so on. Total productivity loss between 1933 and 1980 was therefore: 
+Y1933 
+ 1980 
+= 12:75  Y1940 + 10  Y1950 + 10  Y1961 + 10  Y1970 + 5  Y1990 
+Adding Y1933 
+ 1980™s for all departments in a subject, I obtain the total loss in (citation weighted) publications in each subject from 1933 to 1980 (Y 
+all 
+1933  1980). 
+To calculate percentage losses I obtain the total number of (citation weighted) publications that were published in a subject in 1940, 1950, 1961, 1970, and 1980: 
+Y 
+tot 
+1940; Y 
+tot 
+1950;..., 
+Y 
+tot 
+1980 
+Average yearly (citation weighted) publications are obtained as follows: 
+Y 
+tot 
+yearly 
+= 
+1 
+5( 
+Y 
+tot 
+1940+ 
+Y 
+tot 
+1950 
++ Y 
+tot 
+1961 
++ Y 
+tot 
+1970 
++ Y 
+tot 
+1980) 
+Total publications between April 1933 and December 1980 are calculated as: 
+Y 
+tot 
+1933 1980 
+= 47:75  Y 
+tot 
+ yearly 
+Finally, percentage loss between 1933 and 1980 is calculated as:38 
+%Y 
+all 
+1933  1980 
+= 
+Y 
+all1933 
+ 1980 
+(Y 
+tot1933 
+ Y 
+all1933 
+ 100 
+ 1980  1980) 
+The top panel of Table A5 summarizes the total loss of (citation weighted) publications between 
+1933 and 1980 that was caused by the dismissal of scientists in Nazi Germany. 
+Bombing Shock 
+I calculate the e¤ect of Allied bombings on German science in a similar way. The calculations also rely on the regression results including all controls as in column (6) of Tables 5 and 
+38Note: 
+Y 
+all 
+1933 
+ 1980 
+<0. 
+47 
+
+========48========
+
+6. Using percentage destruction in each department I calculate the reduction in (citation weighted) publications in each department for 1950, 1961, 1970, and 1980 in terms of standard deviations. For each department and year I therefore calculate:39 
+y1950 =  
+bbombings1950 
+ (% Destruction 42-45),..., y1980 =  
+bbombings1980 
+ (% Destruction 42-45) 
+Multiplying the y™s with the subject level standard deviations of (citation weighted) publi- cations I calculate the fall in productivity in each department in terms of (citation weighted) publications (call them Yyear). The Yyear™s compute the reduction in (citation weighted) publications for the years 1950, 1961, 1970, and 1980. To obtain the total reduction in (cita- tions weighted) publications for all years since 1944, I assume that the productivity loss between January 1944 and December 1955 was Y1950 in each year. Similarly, between January 1956 and December 1965 the annual loss in productivity was Y1961, and so on. Total productivity loss between 1944 and 1980 is therefore: 
+Y1944 
+ 1980 
+= 11  Y1950 + 10  Y1961 + 10  Y1970 + 5  Y1990 
+Adding the Y1944 
+ 1980™s for all departments in a subject, I obtain the total loss in (citation weighted) publications that was caused by Allied bombings in each subject from 1944 to 1980 (Y 
+all 
+1944  1980). 
+To calculate percentage losses I obtain the total number of (citation weighted) publications that were published in a subject in 1950, 1961, 1970, and 1980: 
+Y 
+tot 
+1950; Y 
+tot 
+1961;..., 
+Y 
+tot 
+1980 
+Average yearly (citation weighted) publications are obtained as follows: 
+Y 
+tot 
+yearly 
+= 
+1 tot 
+4(Y 
+1950 
++ Y 
+tot 
+1961 
++ Y 
+tot 
+1970 
++ Y 
+tot 
+1980) 
+Total publications between January 1944 and December 1980 are calculated as: 
+Y 
+tot 
+1944 1980 
+= 36  Y 
+tot 
+ yearly 
+Finally, percentage loss between 1944 and 1980 is calculated as:40 
+%Y 
+all 
+1944  1980 
+= 
+Y 
+all1944 
+ 1980 
+(Y 
+tot1944 
+ Y 
+all1944 
+ 100 
+ 1980  1980) 
+The bottom panel of Table A5 summarizes the total loss of (citation weighted) publications 
+between 1944 and 1980 that was caused by Allied bombings. 
+39I only consider 
+ 
+bbombingsx 
+if the coe¢ cient is at least signi–cant at the 10 percent level for year X. For all other years I set y = 0: As a result, y1961,y1970;y1980 are set to 0. See column (6) of Tables 5 and 6.40 
+Note: Y 
+all 
+1933  1980 
+<0. 
+48 
+
+========49========
+
+Table A5: Total Productivity Loss of Dismissals and Bombings 
+Physics Chemistry Mathematics Total 
+Dismissal Loss 
+Number of publications lost 1933-1980 2029 6848 699 9576 Number of citation weighted publication lost 1933-1980 60703 122248 8969 191920 
+Percentage of publications lost 1933-1980 30.5 36.5 33.5 33.5 Percentage of citation weighted publications lost 1933-1980 34.0 33.2 36.6 34.6 
+Publications by dismissed scientists 362 594 225 1181 Citation weighted publications by dismissed 14826 12708 4835 32369 
+Bombing Loss 
+Number of publications lost 1944-1980 231 710 87 1028 Number of citation weighted publication lost 1944-1980 7410 13589 1195 22194 
+Percentage of publications lost 1944-1980 5.0 5.9 6.2 5.7 Percentage of citation weighted publications lost 1944-1980 6.2 5.5 7.6 6.4 
+8.4 Data Appendix 
+8.4.1 Panel Data Set of Scientists in German and Austrian Universities from 1926 
+to 1980 
+As described in the main text I use ﬁKürschners Deutscher Gelehrtenkalenderﬂ (KDG) to construct a panel data set of German scientists at 7 points in time between 1926 and 1980. The KDG covers all researchers in German speaking universities. To compile the KDG the editors contacted all German speaking universities to obtain faculty rosters and then sent out questionnaires to all faculty members. The response rate to these questionnaires was very high. If a scholar did not answer the questionnaire the editors of the KDG tried to –nd as much information as possible on the scholar. 
+There sometimes was a slight delay until a young researcher was included in the KDG or until a university change was recorded. A privatdozent, for example, may have been appointed in 1926 but may not appear in the 1926 volume because she was not a privatdozent at the time the questionnaires were sent out. The same scientist, however, would appear in the 1931 volume with her complete appointment history. If that history indicates that she had already been a privatdozent in 1926 I also include her in the 1926 roster. This gives a more accurate picture of each department™s faculty in the relevant year. 
+The KDGs list researchers who occupied di¤erent university positions. I focus on all re- searchers who had the right to teach (‚venia legendi™) at a German university, i.e. all researchers who were at least privatdozent. The data therefore include ordinary professors, extraordinary professors, honorary professors, and ‚privatdozenten™. The Nazi government renamed the ‚pri- vatdozent™position into ‚dozent™which a¤ects the data in 1941. To have a comparable set of researchers across di¤erent years I also add all dozenten to the data. 
+49 
+
+========50========
+
+8.4.2 Productivity Measures for German and Austrian Science Departments 
+The publications and citations data cover historical and current top science journals and were downloaded from the ISI Web of Science. The set of journals is based on historical accounts of relevant top journals and on current journal rankings. 
+Historical top journals 
+The list of top journals in the 1920s and 1930s includes mostly German journals but also the major international journals. As German science was leading at the time, many of the German journals were among the best journals worldwide which is underlined by an article published in Science in 1941: ﬁBefore the advent of the Nazis the German physics journals (Zeitschrift für Physik, Annalen der Physik, Physikalische Zeitschrift) had always served as the central organs of world science in this domain [...] In 1930 approximately 700 scienti–c papers were printed in its [the Zeitschrift für Physik´s] seven volumes of which 280 were by foreign scientistsﬂ (American Association for the Advancement of Science, 1941). 
+I obtain the list of historical journals in three step process. First, I obtain all German science journals published in the 1920s to 1940s that are included in the Web of Science. Second, I in- clude three general science journals that were relevant outlets for German scientists publishing in the 1920s and 1930s: Nature, Science, and the Proceedings of the Royal Society. Finally, the list of historical top journals is augmented by four international –eld journals that have been recommended by historians of science as important outlets for German scientists. Relevant chemistry journals were suggested by Ute Deichmann and John Andraos who work on chem- istry in the early 20th century. Historical mathematics journals were suggested by Reinhard Siegmund-Schultze and David Wilkins who are specialists in the history of mathematics. 
+Current top journals 
+The de–nition of top journals for German (and international) scientists changed substantially since the 1920s and 30s. To re⁄ect this change in my productivity measure I also compile a second list of top journals based on current international journal rankings. I use rankings provided by SCImago Journal & Country Rank to obtain the ten most cited journals in general science, physics, and chemistry. SCImago does not rank mathematics journals.41 I therefore obtain the current most cited mathematics journals from a commonly used ranking provided by the University of Texas.42 
+Universe of Articles in Top Science Journals Published Between 1920 and 1985 
+The overall list of top science journals includes 51 journals. I download all articles published in these journals between 1920 and 1985. I.e. even if a journal only became a top journal in later years I download all articles published in the journal since 1920. A small number of journals were only founded after 1920. For these journals I download all articles since the creation of the journal. The publication of a few journals was interrupted towards the end of WWII. As 
+41See http://www.scimagojr.com, accessed 13th of May 2010. 
+42See http://www.ma.utexas.edu/users/lsilvest/rankings/mranking.html, accessed 13th of May, 2010. 
+50 
+
+========51========
+
+a result these journals have missing data during those years. Furthermore, some journals have missing data in the Web of Science for some years even though the journal was published in that year.43 The inclusion of year –xed e¤ects in all regressions addresses this problem. 
+8.4.3 Data on Bombings of German Universities and Science Departments 
+Data on university level bombing destruction come from university websites and from Tietze (1995), Phillips (1983), Samuel and Thomas (1949), Schneider (1990), and Cheval (1991). 
+As outlined in the main text, data on department level bombing destruction is obtained by contacting university archivists and asking them to provide destruction information for build- ings used by physicists, chemists, and mathematicians.44 Detailed data sources for department level destruction are listed in Table A6. 
+If a department occupied more than one building (e.g. one building for the institute of ex- perimental physics and a di¤erent building accommodating the institute for theoretical physics) I average percentage destruction across all buildings. 
+In some cases the historical sources only provide verbal descriptions of bombing destruction. I convert these descriptions into percentage destruction according to the following rule: 
+Verbal description Percentage destruction 
+ﬁcompletely destroyedﬂ 100% 
+ﬁheaviest destructionﬂ or "destroyed to a large extent" 75% 
+ﬁheavy destructionﬂ 50% 
+ﬁpart destructionﬂ or "burnt out" 25% 
+ﬁlight destructionﬂ 10% 
+8.4.4 Data Sources of Control Variables 
+I obtain data on control variables from a number of sources. 
+Number of Departments Within 50km 
+For each university I calculate the number of departments in the same subject within 50km. The measure also includes universities that were founded after 1945. The full list of universities in Germany as of 2010 was obtained from ﬁPersonal and Hochschulen - Fachserie 11, Reihe 4.4, 2010ﬂaccessed online at http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/ 
+43I have highlighted this problem to Thomson Scienti–c. It is caused by error prone scanning of historical journals. 
+44The following university archivists put in a lot of time and e¤ort to gather information on department level bombing destruction or to provide access to the relevant sources: Klaus Graf (Aachen TU), Claudia Schülzky (Berlin TU), (Berlin), Thomas Becker (Bonn), Klaus Oberdieck (Braunschweig TU), Matthias Lienert (Dresden TU), Michael Maaser (Frankfurt), Dieter Speck (Freiburg), Eva-Maria Felschow (Gießen), Ulrich Hunger (Göttingen), Alois Kernbauer (Graz), Marieluise Vesulak (Graz TU), Ralf-Torsten Speler (Halle), Eckart Krause (Hamburg), Lars Nebelung (Hannover TU), Peter Goller (Innsbruck), Joachim Bauer (Jena), Klaus Nippert (Karlsruhe TU), Dagmar Bickelmann (Kiel), Andreas Freitäger (Köln), Jens Blecher and Roy Lämmel (Leipzig), Katharina Schaal (Marburg), Hans-Michael Körner (München), Margot Fuchs (München TU), Sabine Happ (Münster), Norbert Becker (Stuttgart), Thomas Maisel (Wien), Juliane Mikoletzky (Wien TU), Marcus Holtz (Würzburg). 
+51 
+
+========52========
+
+DE/Content/Publikationen/Fachveroe¤entlichungen/BildungForschungKultur/Hochschulen/P ersonalHochschulen2110440107004,property=–le.pdf, a publication of the German statistical agency (Statistisches Bundesamt). A list of Austrian universities in 2011 was obtained from the Austrian statistical agency (Statistik Austria) accessed online at: http://www.statistik.at/web_ de/statistiken/bildung_und_kultur/formales_bildungswesen/universitaeten_studium/index. html. Using university websites I check for their founding year and whether they have a physics, chemistry, or mathematics department. This allows me to calculate the number of departments within 50km for each department and year in my sample. 
+Armament Related Industries in 1933 
+Data on the share of –rms in three armament related industries (iron and steel production, me- chanical engineering and vehicle construction, chemical industry) come from the establishment census of 1933 that was published in ﬁStatistik des Deutschen Reichs ŒBand 463: Gewerbliche Betriebszählung, 1935ﬂ. Data on industry shares in Austria come from the establishment cen- sus of 1930 that was published by the Bundesamt für Statistik in ﬁGewerbliche Betriebszählung in der Republik Österreich, 1932ﬂ. The data measure the share of –rms that belong to a certain industry (among all –rms) at the city level. 
+Fraction of Jews in 1933 
+The fraction of Jews in 1933 is based on German census data from 1933. The data were obtained from ﬁStatistik des Deutschen Reiches: Die Bevölkerung des Deutschen Reichs nach den Ergebnissen der Volkszählung 1933, Band 451, Heft 3 (1936)ﬂ. As the German census of 1933 did not cover Austrian cities data on the Jewish population in the three Austrians cities in my sample were obtained from a number of di¤erent sources. Data for Vienna are for the year 1934 and come from ﬁStatistisches Jahrbuch der Stadt Wien 1930-1935 Neue Folge, 3. Bandﬂ. Data for Graz are from 1938 and come from —Israelitische Kultusgemeinde für Steiermark, Kärnten und die politischen Bezirke des Burgenlandes Oberwart, Güssing und Jennersdorfﬁ and were accessed online at http://www.ikg-graz.at/. Data on Innsbruck are from 1938 and come from Salinger (2007). 
+Distance to the Iron Curtain 
+Distance to the Iron Curtain for German cities come from Redding and Sturm (2008). Distance to the Iron Curtain for Austrian cities is measured equivalently using the original Redding and Sturm method.45 
+45I thank Daniel Sturm for kindly o¤ering to use his material to measure distances to the iron curtain for Austrian cities. 
+52 
+
+========53========
+
+Table A6: Detailed Data Sources for Department Level Destruction Data University Source for Department Level Destruction 
+Aachen TU Kriegsschäden Akten 438, 1189, 1234a 
+Berlin Humboldt Universität Berlin, Universitätsarchiv, Bestand des Universitätskurators, Aktennr. 655 Berlin TU Universitätsarchiv der Technischen Universität Berlin in der Universitätsbibliothek, 602-44 Bonn van Rey (1995) 
+Braunschweig TU Kuhlenkamp (1976) 
+Darmstadt TU missing 
+Dresden TU Technische Universität Dresden (1996) 
+Erlangen no bombing destruction 
+Frankfurt Universitätsarchiv Frankfurt (1947), Abteilung 50, Nr. 3046 BII, 241-244 
+Freiburg Rösiger (1957) 
+Gießen Universitätsarchiv Gießen, PrA. Nr. 2208 
+Göttingen Brinkmann (1985) 
+Graz e-mail communication with university archivist Prof. Dr. Alois Kernbauer 
+Graz TU Weingand (1995), p. 58, p. 103 
+Greifswald no bombing destruction 
+Halle Eberle (2002) 
+Hamburg e-mail communication with university archivist Eckart Krause, Kröplin (1951), pp.422-428, 
+Senat Hamburg (1955), Giles (1985), p. 297 
+Hannover TU Wolters (1950) 
+Heidelberg no bombing destruction 
+Innsbruck Klebelsberg (1953), pp. 193-196 
+Jena Schmidt, Elm, Steiger, Böhlaus (1983), pp. 301-302 
+Karlsruhe TU Hoepke (2007) 
+Kiel Jaeger (1965), pp. 117-202 
+Köln Universitätsarchiv documents 
+Leipzig Füssler (1961) 
+Marburg Fritzsche, Hardt, and Schade (2003), p. 30 
+München Mager (1958), p. 255 
+München TU Technische Hochschule München (1968) 
+Münster Niemer (2010) 
+Rostock no bombing destruction 
+Stuttgart TU Technische Hochschule Stuttgart (1947) 
+Tübingen no bombing destruction 
+Wien Adamovich (1947) 
+Wien TU e-mail communication with university archivist Dr. Juliane Mikoletzky 
+Würzburg e-mail communication with university archivist Dr. Marcus Holtz 
+The table shows detailed data sources for department level destruction. Detailed citations can be found below. 
+References 
+[1] Adamovich, Ludwig (1947) Bericht über den Studienbetrieb an der Wiener Universität vom 
+Sommer-Semester 1945 bis zum Sommer-Semester 1947, Selbstverlegung der Universität 
+Wien, Wien 
+[2] Brinkmann, Jens-Uwe (1985) "Noch mehr zusammenrücken... Die letzten Kriegsmonate 
+in Göttingen" in Göttingen 1945, Kriegsende und Neubeginn. Texte und Materialien zur 
+Ausstellung im Städtischen Museum 31.3. - 28.7.1985, ed. Hans-Georg Schmeling, Göttingen. 
+[3] Cheval, R. (1991) "Probleme der deutschen Universitäten" in Hochschulo¢ ziere und 
+Wiederaufbau des Hochschulwesens in Westdeutschland 1945-1952 - Teil 3: Die Französische 
+Zone, ed. M. Heinemann and J. Fischer with collaboration of P. Hanske, K. Müller, and A. 
+Peters, Edition Bildung und Wissenschaft, Hildesheim. 
+[4] Eberle, Henrik (2002) Die Martin-Luther-Universitat in Der Zeit Des Nationalsozialismus 
+1933-1945, MDV Mitteldeutscher Verlag. 
+[5] Fritzsche Werner, Joachim Hardt, and Karlheinz Schade (2003) Universitätsbauten in Mar- 
+burg 1945-1980. Baugeschichte und Liegenschaften der Philipps-Universität, Schriftenreihe 
+der Universitäts Bibliothek Marburg, Marburg 
+53 
+
+========54========
+
+[6] Füssler, Heinz (1961) "Leipziger Universitätsbauten die Neubauten der Karl-Marx- 
+Universität seit 1945 und die Geschichte der Universitätsgebäude", in Leipziger stadt- 
+geschichtliche Forchungen, vol. 6., Bibliographisches Institut, Leipzig. 
+[7] Giles, Geo¤rey J. (1985) Students and National Socialism in Germany, Princeton University 
+Press, Princeton. 
+[8] Hoepke, Klaus-Peter (2007) Geschichte der Fridericana - Stationen in der Geschichte der 
+Universität Karlsuhe (TH) von der Gründung 1825 bis zum Jahr 2000, eds. Günther Grün- 
+thal, Klaus Nippert, and Peter Steinbach, Universitätsverlag Karlsruhe, Karlsruhe. 
+[9] Jaeger, Rudolf (1965) "Die Baugeschichte der Universität" in Geschichte der Christian- 
+Albrechts-Universität Kiel 1665-1965, vol. 1, no. 2, Wachholtz Verlag, Neumünster. 
+[10] Klebelsberg, Raimund (1953) Innsbrucker Erinnerungen 1902-1952, Universitätsverlag 
+Wagner, Innsbruck. 
+[11] Kuhlenkamp, Alfrad (1976) Die Technische Hochschule Braunschweig im Krieg 1939 - 
+1945 und im ersten Nachkriegsabschnitt bis 1947, in Beiträge zur Geschichte der Carolo- 
+Wilhelmina. 
+[12] Kröplin, Eduard (1951) "Bericht der Universität Hamburg" in Studium Generale, vol. 
+4.,pp. 422-428. 
+[13] Mager, Friedrich (1958) Jahrbuch der Ludwig-Maximilians-Universität München 
+1957/1958, Gesellschaft von Freunden und Förderern der Universität München, München. 
+[14] Niemer, Jörg (2010) Vom Domplatz zum Schloss: Die Baugeschichte der Universität Mün- 
+ster von der Gründungsphase bis zum Abschluss des Wiederaufbaus, in Verö¤entlichungen 
+des Universitätsarchivs Münster, vol. 3., Aschendorf Verlag, Münster 
+[15] Phillips, D. (1983) "The Re-opening of Universities in the British Zone: The Problem of 
+Nationalism and Student Admissions" in German Universities after the Surrender - British 
+Occupation Policy and the Control of Higher Education, ed. D. Phillips, Oxford University 
+Press, Oxford. 
+[16] Rösiger, Hans Detlef (1957) Die Albert-Ludwigs-Universität Freiburg 1457-1957 - Der 
+Wiederaufbau seit 1945, Hans Ferdinand Schulz Verlag, Freiburg. 
+[17] Salinger, Gerhard (2007) "Die jüdische Gemeinde in Innsbruck" David - Jüdische Kul- 
+turzeitschrift, vol. 72, accessed online at http://www.david.juden.at/kulturzeitschrift/70- 
+75/72-salinger.htm 
+[18] Samuel, R. H. and R. H. Thomas (1949) Education and Society in Modern Germany, 
+Routledge & Kegan Paul Ldt., London. 
+[19] Schmidt, Siegfried, Ludwig Elm, and Günter Steiger (1983) Alma mater Jenensis. 
+Geschichte der Universität Jena, Böhlau Verlag, Weimar 
+[20] Schneider, U. (1990) "The Reconstruction of the Universities in American Occupied Ger- 
+many" in Hochschulo¢ ziere und Wiederaufbau des Hochschulwesens in Westdeutschland 
+1945-1952 - Teil 2: Die US Zone, ed. M. Heinemann in collaboration with U. Schneider, 
+Edition Bildung und Wissenschaft, Hildesheim. 
+[21] Senat Hamburg (1955) Bauplanung für die Universität Hamburg: Denkschrift des Senats 
+der Freien und Hansestadt, Wohlfeld und Ellermann Verlag, Hamburg 
+54 
+
+========55========
+
+[22] Technische Universität Dresden (1996) Geschichte der Technischen Universität Dresden in 
+Dokumenten, Bildern, Erinnerungen, ed. Achim Mehlhorn, vol. 3. 
+[23] Technische Universität München (1968) Technische Hochschule München 1868 - 1968, 
+Oldenbourg Verlag, München. 
+[24] Technische Universität Stuttgart (1947) Denkschrift Die Technische Hochschule Stuttgart 
+einst und jetzt, Stuttgart. 
+[25] Tietze, Hartmut (1995) Datenhandbuch zur Deutschen Bildungsgeschichte Band I: 
+Hochschulen, 2.Teil Wachstum und Di¤erenzierung der deutschen Universiäten 1830 - 1945, 
+ed. Hartmut Tietze, Vandenhoeck & Ruprecht, Göttingen. 
+[26] van Rey, Manfred (1995) "Die Rheinische Friedrich-Wilhelms-Universität Bonn vom 18. 
+Oktober 1944 bis 17. November 1945", Bonner Universitätsblätter. 
+[27] Weingand, Hans Peter (1995) Die Technische Hochschule Graz im Dritten Reich. 
+Vorgeschichte, Geschichte und Nachgeschichte des Nationalsozialismus an einer Institution, 
+Österreichische Hochschülerschaft, Graz. 
+[28] Wolters, Paul (1950) "Der Wiederaufbau der Technischen Hochschule", in Jahrbuch 
+der Technischen Hochschule Hannover 1949-1950, eds. Otto von Leunenschloßund Erich 
+Böttcher, Düsseldorf. 
+55 
+
+========56========
+

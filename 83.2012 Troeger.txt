@@ -1,0 +1,1998 @@
+March 2012 
+                No. 83 
+TAX COMPETITION AND INCOME INEQUALITY:  
+WHY DID THE WELFARE STATE SURVIVE 
+Thomas Plümper - University of Essex Vera E. Troeger- University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Tax Competition and Income Inequality 
+Why did the Welfare State Survive? 
+Thomas Plümpera and Vera E. Troegerb 
+a University of Essex 
+Department of Government 
+Wivenhoe Park 
+Colchester CO4 3SQ, UK 
+E-Mail: tpluem@essex.ac.uk 
+B University of Warwick 
+Department of Economics and PAIS 
+Coventry CV4 7AL, UK 
+E-Mail: V.E.Troeger@warwick.ac.uk 
+Summary: 
+Contrary to the belief of many, tax competition did not undermine the foundations of the welfare state and did not even abolish the taxation of capital. Instead, tax competition caused governments to shift the tax burden from capital to labor, thereby increasing income inequality in liberal market economies that traditionally redistribute income by relatively high effective capital taxes and relatively low effective labor taxes. In contrast, income inequality did increase little or not at all in social welfare states that dominantly use social security transfers to redistribute income. Governments in social welfare states found it easy to maintain high social expenditures because they increasingly taxed labor, which is relatively immobile, to finance social security transfers. We test the predictions of this theory using a simultaneous equation approach that accounts for the endogeneity of tax policies, fiscal policies, and deficits. 
+We also thank Dennis Quinn, Irfan Nooruddin, Robert Franzese, Philipp Rehm, Thomas Scotto, Simon Hix and Wolfgang Müller for helpful comments on this project. 
+
+========2========
+
+Tax Competition and Income Inequality 
+Why did the Welfare State Survive? 
+1. Introduction 
+Tax competition did not change the fabric of social welfare transfers and income inequality in 
+OECD countries. The welfare state clearly – and contrary to numerous predictions – survived 
+the abolition of capital controls and the economic rise of new industrial power houses in 
+China, India, Russia, Brazil and Mexico. In many welfare states, social transfers are higher 
+than ever before and where they have declined, they still remain shy off the dire “race to the 
+bottom” predictions of early globalization theories. Income inequality has risen in some 
+countries, most notably in the UK and the US, but not in others. Again, this contradicts the 
+predictions of the early globalization literature that expected larger pressures on continental 
+European welfare states than on liberal market economies. 
+This article explains these developments. In short, we distinguish between countries that in 
+the late 70s dominantly redistributed income via the tax system and countries that dominantly 
+redistributed income via social security transfers. Of course, these policies of redistribution 
+are not mutually exclusive, but patterns are clear. We will demonstrate that because of tax 
+competition, all governments shifted the tax burden onto labor. However, governments in 
+continental welfare states managed to keep revenues from labor and capital taxation constant 
+or even increased total revenues to maintain the high level of distribution through social 
+security transfers. Countries that profit from tax competition, Ireland and Luxembourg even 
+increase social welfare transfers and reduce income inequality considerably. Apparently, 
+governments in these countries tried to avoid significant cuts into the welfare system and they 
+adjusted tax policies to reach these political aims. In contrast, governments in countries that 
+dominantly redistribute income via the tax system face higher difficulties in avoiding an 
+increase in income inequality. On the one hand, they need to shift tax revenues from capital to 
+2 
+
+========3========
+
+labor to avoid large capital outflows, but this cuts deep into their traditional way of 
+redistributing income and increases income inequality. Governments would have to 
+significantly increase social security transfers, yet while this was acceptable to Ireland and 
+Canada, the UK and the US government did not implement this option. Both countries thus 
+experienced a much larger increase in income inequality than continental welfare states. 
+From a theoretical perspective, our arguments make clear that labor taxes, capital taxes, fiscal 
+policies and especially social security transfers and public debt need to be analyzed in 
+conjunction. These policies are linked to each other via the public household. Research that 
+exclusively focuses on some of these policies, only applies if governments hold all other 
+policies constant. But usually they do not. The dire predictions of the early models of tax 
+competition did not come true because capital is less mobile than these authors assumed 
+(authors 2010), but also because governments have alternative ways to respond to tax 
+competition, thereby maintaining relatively low levels of income inequality and high levels of 
+redistribution. 
+Our theory should be tested in a simultaneous equations framework. This is the only method 
+we are aware of that allows us to correctly model the endogeneity of the redistributive 
+policies. Not controlling for endogeneity would lead to largely biased estimates and likely to 
+wrong inferences. Analyzing the choice of tax policies, welfare policies, government 
+spending, and effective income redistribution as well as income inequality in 22 OECD 
+countries between 1980 and 2005 simultaneously, we find sufficient support for our theory. 
+However, we also use descriptive data where needed to illustrate how our theoretical 
+argument is linked to observational processes. 
+This paper contributes to various literatures: First, it contrasts with previous explanations of 
+the survival of the welfare state. Broadly speaking (and with some simplification) there are 
+two plausible theories that also explain the survival of the welfare state: First, Soskice, Hall, 
+Iversen and others have argued that contrary to the expectations of early globalization 
+scholars, income redistribution and welfare spending is not an inefficient burden to a nation’s 
+3 
+
+========4========
+
+competitiveness (Iversen and Soskice 2006; Hall and Soskice 2001). Rather, income 
+redistribution and the welfare state lead to subtle changes in the demand for education, in the 
+comparative advantage of the country, and in the price for capital. Thus, the welfare state 
+survives, because under certain conditions it is more competitive than liberal market 
+economies. Thus, capital-intense corporations with a high demand for skilled workers may 
+decide to stay in welfare state though they have to pay higher taxes. An alternative, second 
+theory has argued that capital competition does not lead to an immediate decline of the 
+welfare state because political institutions and most notably veto-players prevent governments 
+from fully participating in tax competition (Basinger and Hallerberg 2004; Crepaz and Moser 
+2004). As a consequence, the predicted race-to-the-bottom does not take place. 
+We argue that though these theories appear convincing, they fail to understand why income 
+inequality rose in large liberal market economies countries while at the same time income 
+inequality remained stable or even declined in continental welfare states. At the same time, 
+these theories also do not explain that effective capital and labor tax rates increased in some 
+countries. Thus, these theories offer an explanation for the survival of the welfare state, but 
+they are not consistent with the cross section of policy changes in OECD countries – changes 
+that guaranteed the welfare states‘ ability to redistribute income. 
+And second, we also contribute to the literature on tax competition. While the vast majority of 
+the literature assumes that governments have to change capital taxes when facing tax 
+competition and some studies analyze the effect of tax competition on capital and labor taxes, 
+our analysis is (to our knowledge) the first that governments can respond by changing tax and 
+fiscal policies including a rise in deficits. As we have just explained, our theory explains the 
+(surprisingly moderate) effect of tax competition on income inequality and redistribution by 
+analyzing tax policy reforms, fiscal policy adjustments, and deficits. 
+4 
+
+========5========
+
+2. The Evolution of Welfare State Politics: A Brief Review in Five Arguments 
+Governments largely influence income inequality. By taxing high income more than low 
+income, by taxing savings, by taxing capital income at a higher rate than labor income, 
+governments can significantly reduce post-tax income. Likewise, welfare transfers to the poor 
+and needy part of the population reduce post-transfer income inequality. The degree to which 
+governments use these political instruments depends on income redistribution, on a 
+combination of political incentives and institutions, the ideology of the incumbent’s party and 
+the power of ‘labor’ (Iversen and Cusack 2000; Birchfeld and Crepaz 1998; Iversen and 
+Soskice 2006; Pontusson 2005, Bradley et al. 2003; Allan and Scruggs 2004; Minnich 2003). 
+However, the historically entrenched social welfare systems came under pressure immediately 
+after governments in OECD countries liberalized capital transfers. According to early 
+proponents of what would become known as globalization theory, tax competition and trade 
+with low wage countries would lead to a race-to-the-bottom in which the social welfare state 
+will erode (Scharpf 1991; Rodrik 1997; Swank 2002, 2006). 
+Rise of the Welfare State 
+Scholars explain the rise of the welfare state by growing political influence of labor and 
+social-democratic parties (Iversen and Cusack 2000) and the increasing demand for high- 
+skilled labor. The comparative welfare state literature explains welfare policies by a 
+combination of economic incentives for redistribution and institutional factors that shape the 
+governments’ response to these incentives (Galasso and Profeta 2002). Incentives for 
+redistribution stem from overall efficiency gains of redistribution (Samuelson 1958), 
+intertemporal redistributive gains of the majority of voter as the middle aged voters 
+(Browning 1975) coalesce with the old voters, or altruism (Hansson and Stuart 1989). These 
+incentives are shaped by partisan preferences (Allan and Scruggs 2004, Crepaz 2002, 
+Bräuninger 2005), veto-players (Tsebelis and Chang 2004, Ha 2008), and interest-groups 
+(Hicks and Swank 1992). 
+5 
+
+========6========
+
+Globalization and the Welfare State 
+Interestingly, all these standard arguments of social welfare policies assume that incentives 
+and political preference aggregation mechanisms operate in isolation from the world 
+economy. Neither the government’s incentives nor the political aggregation mechanism is 
+influenced by the fact that capital and labor are both mobile and that corporations in welfare 
+states need to be able to compete with corporations that do not pay a wage premium for 
+welfare transfers. This, however, was exactly the argument of the globalization literature, that 
+maintained that capital mobility and trade competition exert a strong negative (Rodrik 1998; 
+Rudra 2002; Rudra and Haggard 2001; Swank 2002; Scharpf 1991) or positive (Cameron 
+1978; Esping-Anderson 1996; Garrett 1998; Hicks and Swank 1992; Huber and Stephens 
+2001) effect on welfare transfers, depending on whether scholars looked dominantly at the 
+pressure from global competition or the consecutive demand for social security. Scharpf 
+(1997: 23) predicts that “capital is free to move to locations offering the highest rate of return 
+(…). As a consequence, the capacity of national governments (…) to tax and to regulate 
+domestic capital and business firms is now limited by the fear of capital flight and the 
+relocation of production. Hence all national governments (…) are now forced to compete 
+against each other in order to attract, or retain, mobile capital and firms.” 
+The Survival of the Welfare State 
+The existence, causes, and consequences of welfare state retrenchment, a discussion that was 
+triggered in the late 1990s by Pierson’s work on the new politics of the welfare state (Pierson 
+1996), remained more controversial. Scholars continue to disagree whether welfare state 
+retrenchment is a mere reaction to the overshooting of the welfare state, whether it is process 
+confined to a limited number of countries in which labor power declined most sharply 
+(Pontussen 2005), or a structure-induced process that is either driven by globalization 
+(Scharpf 1997) or de-industrialization (Iversen and Cusack 2000). Today, it seems hardly 
+controversial to conclude that the welfare state still exists, that redistribution has not declined 
+in most albeit in some OECD countries, and that overall levels of disposable income 
+6 
+
+========7========
+
+inequality as measured by the Gini-index tend to increase in only a subset of industrialized 
+countries though the number of superrich individuals and their wealth tends to rise 
+everywhere. Scholars explain this survival by two theories: the persistence of the welfare state 
+(Hall and Soskice 2001; Iversen and Soskice 2006) and the limits to tax competition 
+(Basinger and Hallerberg 2004). 
+Welfare State Persistence 
+If the competitiveness of liberal market economies increases relative to the competitiveness of 
+coordinated market economies, the exchange between these countries would adjust. The 
+liberal countries exchange-rate would appreciate relative to the currency of the coordinated 
+market economies. And second, Scharpf overlooks that coordinated market economies offer 
+many competitive advantages which are likely to persist despite capital mobility. Hall and 
+Soskice (2001) stress the importance of vocational training, low strike activities, access to 
+low-interest credit, and so on. Together, these institutions guarantee that coordinated market 
+economies in many sectors maintain productivity advantages over liberal market economies. 
+These will not erode with capital mobility and thus the welfare state is able to survive simply 
+because it offers competitive advantages along with some competitive disadvantages. 
+Likewise, Pierson (1996, 1998) argues that the success of the welfare state created 
+commitments, expectations, and interests which in turn made significant cuts into the politics 
+of redistribution unlikely. Policies and institutions are path-dependent and generate the 
+conditions that cause a majority of voters to support redistributive policies. 
+Moderation of Tax Competition 
+A second argument explains the survival of the welfare state with the limited severity of tax 
+competition. For example, Basinger and Hallerberg (2004) argue that tax competition has less 
+severe consequences than early models of tax competition – those that predicted a race to the 
+bottom in capital taxation – made many believe. These first generation models of tax 
+competition argued that tax competition will lead to race to the bottom in capital taxation and 
+thus to declining government revenues. These first generation models assumed that capital is 
+7 
+
+========8========
+
+perfectly mobile. If governments do not offer competitively low tax rates, capital would 
+entirely leave a country. But capital is not perfectly mobile, because regulations, 
+infrastructures, and the workforce are not identical across country, and because companies 
+need to be close to their markets – to mention just the most obvious arguments. Recent 
+theories of tax competition, theories that give up the assumption of fully mobile capital, come 
+to conclude that tax competition will not lead to a race to the bottom. Rather, it leaves 
+governments the option to accept capital exports and to tax the remaining immobile capital at 
+higher levels than before to keep revenues constant (Plümper et al. 2011). Tax competition 
+also does not erode revenues from capital taxation because governments are not merely 
+maximizing revenues. Rather, they maximize political support and in doing so they are 
+constraint by the political preferences of their voters, by veto players, and by unions 
+(Hallerberg and Basinger 1998; Basinger and Hallerberg 2004; Hays 2003, 2008; Swank 
+2002, 2004, 2006). All these moderate changes to the theory of tax competition will alter its 
+predictions. In fact, politically informed models of tax competition predict a moderate 
+convergence of tax policies to moderately lower levels of effective capital tax rates across 
+open economies as well as a shift from capital to labor taxation (Garrett 1998a, 1998b; Rodrik 
+1998; Genschel 2002; Ganghof 2006; Swank 2006; Swank and Steinmo 2002; Steinmo 1994; 
+Plümper et al. 2009) – predictions which seem much closer in line with the empirical 
+evidence than the predictions of the race to the bottom models. If, however, tax competition 
+has less effect on public revenues, governments can still afford to redistribute income.1 The 
+1 And indeed, the empirical verdict on this hypothesis is mixed at best: while proponents of the efficiency 
+hypothesis typically find support (Garrett 1998a; Rodrik 1998; Swank 2002) others show that the relation 
+between tax competition and fiscal policies is insignificant and not robust (Iversen and Cusack 2000; 
+Plümper et al. 2005). Clearly, if the empirical literature is correct and tax competition has little influence on 
+tax revenues, major fiscal policy adjustments are unlikely to occur. Yet, some scholars still argue that it is 
+not the absence of declining revenues but political institutions which prevent governments form cutting 
+deep into social security systems (Ha 2008, Swank 2006). Genschel (2002: 266) claims that tax competition 
+has had a rather limited effect on social policies because welfare states not only faced tax competition but 
+were also confronted with slow growth, sticky budgets, increasing public debt and rising unemployment. In 
+others words, theories claim that tax policies were constrained by the governments’ inability to reduce 
+spending – and not by governments’ inability to reduce capital tax rates (see also Swank 1998; Ganghof 
+2004). Perhaps unsurprisingly, political scientists have recently used the very same political factors to ex- 
+plain the survival of the welfare state as they used to explain the survival of capital taxation: veto players, 
+partisan preferences, the organization of labor, and so on. For arguments relating to partisan politics and the 
+welfare state see Allan and Scruggs (2004), Huber and Stephens (1993) as well as Oatley (1999). Franzese 
+8 
+
+========9========
+
+"conventional wisdom" on tax competition, "is too simple and considerably overdrawn" 
+(Garrett 1995: 682). 
+Discussion 
+As a consequence, one could feel tempted to go back to the good old world of welfare state 
+research that perceives welfare policies as independent of the global economy. Yet, we 
+believe that this reaction would indeed be wrong. Rather, we argue that the limited empirical 
+support for theories of tax competition explaining changes in welfare policies was ultimately 
+caused by oversimplifying assumptions that did not sufficiently distinguish between different 
+politics of redistribution and completely overlooked that tax competition is beneficial to some 
+countries and harmful to others. Yet, doom theorists argued that globalization in general and 
+tax competition in particular reduces policy autonomy of all governments alike. It does not. If 
+Luxembourg wins tax competition because it has the structural advantage of being small, then 
+Luxembourg can direct more resources to its welfare state. If, in contrast, Germany and 
+France lose tax competition because of their size, then these countries have to adjust either tax 
+policies, or fiscal policies, or both. Thus, looking at all countries as if global economic 
+processes had roughly the same effect and in addition looking at redistributive policies in 
+isolation when in fact tax policy and fiscal policy adjustments are substitutes will not 
+necessarily lead to correct conclusions. In what follows we argue that governments choose 
+very different adjustment strategies to tax competition and countries experienced different 
+trends in income redistribution and income inequality. First, not all governments kept 
+effective capital tax rates stable, some reduced these taxes, other countries, most notably Italy, 
+increased their effective tax rates. And second, not all countries experienced stable levels of 
+income inequality. In fact, income inequality rose in liberal market economies but remained 
+relatively stable in coordinated market economies. Both variations cannot be explained easily 
+(2002) and Swank (2004) relate public spending to labor market institutions and policy preferences while Birchfeld and Crepaz (1998), Hicks and Swank (1992), as well as Swank (1998, 2002) analyze the effects of institutional settings and constraints on the welfare state in the age of globalization. Iversen (2001) exam- ines the joint effects of trade openness, deindustrialization and party politics on welfare state expansion as well as the impact of wage bargaining patterns and central bank independence (Iversen 1999). 
+9 
+
+========10========
+
+by approaches that solely seek to ‘postdict’ the survival of the welfare state. In fact, political 
+economists need to develop theories and models that go beyond simple, dichotomous 
+categorizations of countries and overgeneralizations of trends. 
+3. Theory 
+Tax competition between OECD countries emerged in the 1970s and accelerated in the 1980s 
+with the US government repeatedly lowering capital tax rates.2 After the US tax reforms of 
+1986, which increased the gap between the effective capital tax rates in the OECD world, 
+virtually all governments in OECD countries begun to consider tax reforms and fiscal policy 
+to respond to the predicted decline in revenues from taxing capital. 
+In brief, we argue that virtually all governments shifted the tax burden onto labor, but not all 
+governments reduced effective capital tax rates. Alternatives existed. Some countries, large 
+and indebted welfare states, even increased the overall capital tax burden to avoid significant 
+cuts into the welfare system. Other governments were able to avoid cuts in social security 
+transfers by choosing a combination of higher labor and lower capital taxes. Neither of these 
+countries experienced a significant increase in income inequality. The welfare state persists 
+because moderate changes in tax policies allowed governments to keep the level of social 
+security transfers stable. 
+Yet, we also argue that countries that dominantly redistribute income via the tax system, 
+countries that Hall and Soskice (2001) call ‘liberal market economies’, found it much harder 
+to avoid growing income inequality. In principle, governments in these countries could have 
+avoided an increase in inequality by reducing capital taxes, increasing labor taxes 
+significantly and largely increasing welfare spending. But only Ireland and Luxembourg went 
+2 
+Genschel (2002), for example, compares tax rates in 1985 to tax rates in 1997 – thus implicitly 
+assuming that the US tax reforms triggered tax competition. Looking at the data, however, it seems to 
+make more sense to assume that tax competition started earlier. Not also that the when literature refer to 
+tax competition, it usually implies tax competition between OECD countries. Tax competition between 
+OECD countries and tax havens is older and dates back to the early 1960s. 
+10 
+
+========11========
+
+this way. Governments in other liberal economies and most notably in the US and the UK 
+rather accepted growing income inequality than developing their social welfare program. We 
+discuss the underlying logic of this argument in three steps. First, we argue that with 
+incompletely mobile capital, a race to the bottom in capital taxation is very unlikely to emerge 
+and governments even have the option to raise effective capital tax rates in order to stabilize 
+revenues from capital taxation. In the second step, we discuss the adjustment options 
+governments have to the moderate tax competition that emerges when capital is incompletely 
+mobile and explain why governments from countries with a different established 
+redistribution policy choose different adjustment options. And third, we use this framework to 
+derive predictions on the effects of tax competition on income inequality claiming that this 
+effect was most pronounced in countries that use tax policies to redistribute welcome and did 
+not develop their social welfare system in response to tax competition. 
+3.1. Tax Competition with Incomplete Capital Mobility 
+We follow the Meltzer-Richards model in assuming that political support of the government 
+is influenced by the level of income inequality (see Kenworthy and Pontusson 2005 for a 
+broad theoretical and empirical justification). We also assume that voter support depends on 
+the level of public good provision and the degree to which governments can tax capital to 
+finance these public goods. Without tax competition, governments choose a level of income 
+redistribution, which is a function of pre-tax income inequality and the income gap of the 
+mean and the median voter, as well as an optimal combination of capital and labor tax rates to 
+finance redistribution and public good provision. Thus, political support declines in higher 
+labor tax rates and lower redistribution, where ‘higher’ and ‘lower’ are defined by the 
+difference to the levels of taxation and redistribution before tax competition is triggered. As 
+the Meltzer-Richards model suggests, we are not arguing that voters prefer higher levels of 
+redistribution per se. 
+Tax competition enter the equation in the standard way: if countries have a relatively high 
+effective capital tax rate, they lose a share of their mobile capital base; if they have a 
+11 
+
+========12========
+
+relatively low capital tax base, they attract capital from countries with higher effective capital 
+tax rates so that their capital base increases. However, tax competition reduces the sum of 
+capital tax revenues for all countries – that is the countries losing tax competition lose more 
+revenues than the winners of tax competition gain. 
+With imperfectly mobile capital, the elasticity with which capital responds to differences in 
+tax rates is limited. Important differences in the institutional environment such as education 
+and skill levels, wage differences, the wage bargaining structure, as well as environmental and 
+labor market regulations also prevent capital from being fully mobile. Yet, the arguably most 
+obvious reason for immobility is that many corporations produce non-tradable goods and 
+services. As a consequence, business activities of these corporations depend on their presence 
+in a specific market. Unless effective tax rates are prohibitively high and reduce demand for 
+their goods and services to virtually zero, corporations stay in the market even if the domestic 
+effective tax rate is higher than in other countries. 
+In the absence of perfectly mobile capital effective capital tax rates will not approach zero in 
+equilibrium. Rather, models of tax competition with incompletely mobile capital tax bases 
+predict, firstly, that in equilibrium effective capital tax rates remain positive and, secondly, 
+that different countries choose different tax systems, that is: tax systems do not converge 
+(Plümper et al. 2009). Just like competitions in sports distinguish winners from losers, capital 
+competition increases capital imports in some countries and capital exports in others and these 
+countries, call them winners and losers of tax competition, chose different strategies to deal 
+with the consequences of tax competition. 
+Whether a country wins or loses tax competition is largely determined by country size and by 
+the government’s ability to finance deficits for a limited time. With tax competition, small is 
+competitive. For small countries the tax base effect dominates the tax rate effect: When 
+countries reduce the effective capital rate, revenues from taxing the domestic capital stock 
+decline. This is the tax rate effect. At the same time, however, the country imports capital 
+from countries with higher capital tax rates (or exports less capital to countries with low 
+12 
+
+========13========
+
+capital tax rates). The additional capital will be taxed at the reduced tax rate. This is the tax 
+base effect. Since small countries can import relatively more capital from larger countries 
+than large countries can import from smaller ones, the tax base effect is more likely to 
+dominate the tax rate effect when a country is smaller. Thus, if a country is small enough, 
+revenues from taxing capital may rise when the government significantly reduces the effective 
+capital tax rate because of capital imports. Countries with a relatively large domestic capital 
+stock also attract capital inflows when they reduce the effective capital tax rates. However, 
+revenues generated from this additional capital are far less likely to compensate for the 
+revenue losses caused by the reduction in effective capital tax rates. Ceteris paribus, small 
+countries act more aggressively in tax competition because they are much more likely to win 
+tax competition and attract capital inflows from abroad.3 
+The structural advantages allow small countries to act more aggressively in international tax 
+competition and at the same time generate additional degrees of freedom in setting economic 
+policies unless governments are constraint by high public debt and deficits. For example, 
+small countries can reduce capital taxation, hold effective labor taxation constant and at the 
+same time reduce debt as Ireland has done. Alternatively, they can reduce effective labor 
+taxation and hold effective capital tax rates constant at low levels while at the same time 
+slightly increase social security transfers like Luxemburg has done. 
+In addition, economic and political constraints to capital mobility allow governments to 
+generate revenue from taxing capital even if other countries offer significantly lower effective 
+tax rates.4 Governments can counter the revenue effects of tax competition not only by 
+3 This argument mirrors the economic research on asymmetric tax competition (Bucovetsky 1991, Wilson 
+1991, Kanbur and Keen 1993, Peralta and van Ypersele 2005). Proponents of this approach argue that a 
+symmetric account of tax competition eliminates possible terms of trade effects and a conflict of interest be- 
+tween the competing jurisdictions cannot arise. Within the asymmetric tax competition model, the small 
+country faces a more elastic tax base and undercuts the tax level of the large country in an asymmetric Nash 
+equilibrium. The tax base of the small country will thus be larger than in the closed economy case opening 
+the possibility for the small jurisdiction to gain from tax competition. The predictions of asymmetric tax 
+competition find ample empirical support. All else equal, larger countries tend to impose higher tax rates on 
+mobile capital than small countries (Bucovetsky 1991, Wilson 1991, Kanbur and Keen 1993). 
+4 We are aware that factors other than tax rates (such as infrastructure, the provision of skilled labor etc.) in- 
+fluence the location decision of capital owners. Yet, these factors have been present before tax competition 
+13 
+
+========14========
+
+reducing effective capital tax rates; they can also stabilize revenues by increasing effective 
+capital tax. This option is assumed away in traditional models of tax competition with fully 
+mobile capital. However, the relative size of the immobile capital stock affects the degree to 
+which the government needs to care about tax competition. If a country’s capital stock was 
+perfectly immobile, the government could set the capital tax rates as to maximize its political 
+support. The larger the share of mobile capital becomes, the more the effective capital tax 
+rates implemented by other countries influence the governments optimal tax policy. 
+3.2. Determinants of the Adjustment Strategy to Tax Competition 
+Assume some countries reduce their effective capital tax rate. If the government does nothing, 
+some mobile capital will leave the country and revenues from capital taxation decline. Thus, 
+if the government does nothing, deficits will increase. Yet, the government has four pure 
+adjustment strategies which can be combined to an optimal adjustment strategy: 
+1. With imperfect capital mobility, the first option is to increase effective capital rates to 
+the extent that higher taxes compensate revenue losses from capital exports. 
+2. Governments can also substitute revenue from capital taxation by increasing other 
+taxes and most notably labor taxes.5 
+3. Cuts into government consumption, and 
+4. a reduction of social transfers bring expenditures in line with declining tax revenues. 
+From a simple accounting balance perspective, tax increases and spending cuts are functional 
+equivalents. From a political economic perspective, these strategies are not identical. Most 
+governments perceive moderate tax reforms to be politically less costly than spending cuts or 
+cuts into the social security system. Indeed, in most countries, voters respond strongly to cuts 
+5 
+started and the US tax reform act of 1986 can be seen as an external shock to the previous equilibrium dis- tribution of capital. 
+Since in all OECD countries total tax revenues depend more on taxing labor than on taxing capital, relative- ly moderate increases in the labor tax rate fully compensates sharp decreases in the capital tax rate. Since revenues from labor taxes on average exceed revenues from corporate taxation by at least factor 2 in most OECD countries (Hines 2006: 343), a 2 percentage point increase in effective labor taxation can compen- sate for a 4 percentage point cut in effective capital tax rates if we ignore the effect of tax reforms on de- mand and supply of labor and capital. 
+14 
+
+========15========
+
+in social security systems. With virtually everyone benefiting from some form of welfare 
+redistribution, governments only reluctantly reduce social security budgets. Yet, when capital 
+bases are partly immobile, tax competition does not desiccate revenues from capital taxation. 
+As a consequence, spending cuts necessary to balance modest decreases in revenues remain 
+fairly limited. If governments use fiscal policy reforms to deal with tax competition, welfare 
+state retrenchment could remain fairly moderate. 
+By ignoring the decline in capital tax revenues and simply allowing higher deficits, 
+governments can significantly delay policy adjustments to tax competition. In doing so, the 
+incumbent can prevent an increase in tax rates and still maintain previous levels of 
+government spending and social transfers. This is a viable strategy in large countries or in 
+countries with a large and popular welfare state where labor taxes already are relatively high. 
+Welfare states are very unlikely to win international tax competition which renders radically 
+cutting capital taxes unappealing. However, governments need relatively low initial levels of 
+public debt to make a deficit strategy both successful and sustainable. 
+How governments respond to tax competition with imperfectly mobile capital depends on 
+how governments redistribute income. Without reducing the complexity of the real world too 
+much, we assume that governments can choose any combination of two ways to redistribute 
+income. These options are redistribution via the tax system and redistribution via social 
+security transfers. While most countries chose a combination of both options, we claim that 
+continental European welfare states redistribute dominantly by social security transfers, while 
+Anglo-Saxon and Scandinavian countries tend to redistribute more via the tax system. In 
+addition, the overall level of redistribution in Anglo-Saxon countries is lower than in 
+Continental European and Scandinavian welfare states. As a consequence, Anglo-Saxon 
+countries enjoy a larger flexibility. 
+For this reason, governments in continental welfare states face higher losses in political 
+support when they cut social security transfers. In turn, they have stronger incentives to avoid 
+these cuts and are therefore more likely to use tax reforms and deficits to adjust to tax 
+15 
+
+========16========
+
+competition. In contrast, liberal market economies and Scandinavian welfare states are less 
+inclined to dominantly use tax reforms. This does not imply that continental welfare states 
+solely use tax reforms and other countries solely fiscal reforms to adjust to tax competition. 
+Quite to the contrary: all governments use a combination of tax reforms, fiscal reforms and 
+deficits to respond to tax competition. However, continental welfare states rely comparably 
+more on tax policy adjustment and thus increasing labor and capital taxes. It is therefore the 
+initial level of social security transfers which determines the political response to tax 
+competition. 
+Table 1 brings adjustment strategies in relation to countries’ initial conditions. We predict the 
+combination of tax and fiscal policies that governments choose in response to tax competition 
+with respect to their ex ante position regarding size, capital mobility, social security transfers 
+and debt. Our argument suggests that larger countries will maintain relative high capital and 
+labor tax rates, higher levels of public debt, and higher social security transfers than smaller 
+countries. This is so because larger countries cannot win tax competition against smaller 
+countries and therefore need to maintain higher tax rates and possibly higher deficits to 
+finance a larger welfare state. The latter point is a mere consequence of the fact that liberal 
+winners of tax competition grow fast and do not need a large welfare state (this will later 
+become a disadvantage when the global economy drops into crisis). 
+Second, countries with a large share of immobile capital (approximated by the share of the 
+service industry) respond less to tax competition and maintain a relatively high level of capital 
+tax rates. This large service industry also allows governments to implement relatively high 
+capital tax rates because competition in these industries will be low and wages high. 
+Third, a high initial level of social security transfers coerces governments to increasingly shift 
+the burden of the welfare state on labor. Governments in these countries will increase labor 
+taxation to maintain this relatively high level of social security transfers. Our theory predicts 
+that labor taxes rise, while the governments may hold capital taxes constant or even reduce it, 
+thereby shifting the larger part of the financial burden of the welfare state on labor. 
+16 
+
+========17========
+
+Fourth, initial high levels of public debt coerce the government to maintain high effective 
+capital and labor taxes or even rise these tax rates further, high levels of debt, and (relatively) 
+low levels of transfers. 
+Fifth, if countries maintain relatively high capital and labor tax rates, they can afford lower 
+debt and higher social security transfer. 
+In other words, small countries with low initial debt levels are the winners of tax competition. 
+Governments in large countries with high initial levels of debt are most likely to have to 
+respond by increasing capital and labor tax rates. 
+Table 1: Determinants of Policy Adjustment 
+outcome capital tax rates labor tax rates Public debt cause 
+country size + + .. low capital mobility + + .. initial transfer level − .. 0 + − initial debt 0..+ 0..+ + relative capital tax .. .. − relative labor tax .. .. − + indicates that a ‘cause’ exerts a positive influence on an ‘outcome’ − indicates that the influence is negative 
+0 indicates that the influence is close to zero 
+.. indicates that the model does not make a prediction 
+social security transfers 
+.. 
+.. 
++ 
+− 
++ 
++ 
+Additional influences have been identified in the ever growing political economic literature of 
+taxation and fiscal policies: Electoral systems influences the number of parties represented in 
+parliament and hence the probability of coalition governments. Since coalition governments 
+spend significantly more than single party governments (Persson and Tabellini 2000, chapter 
+5), the need to raise large revenues is politically more pressing in proportional systems. This 
+not only leads to higher effective capital and labor tax rates before tax competition unfolds its 
+effects, but also makes incumbents more vulnerable to spending cuts (Hays 2003, 2008). 
+These high levels of spending and budget rigidity both provide a crucial obstacle to a 
+country’s effective political participation in tax competition. Governments in countries with a 
+high initial level of government consumption caused by social security transfers would have 
+to reduce spending and transfers much more than liberal market economies to become highly 
+17 
+
+========18========
+
+attractive for foreign capital. Yet, welfare state retrenchment is politically more costly if 
+demand for public good provision was high in the first place. 
+3.3. Tax Competition, Fiscal Policy Adjustment, and Income Inequality 
+Tax competition leads to moderate adjustments in the tax system because governments can 
+choose an adjustment strategy that minimizes the social consequences. Most countries that 
+use the welfare state to redistribute income shift the tax burden towards higher taxes on labor 
+(and other more immobile tax sources). Increasingly, capital taxation becomes a relative 
+irrelevant source of revenue. Since even governments in countries losing tax competition have 
+three options to keep government spending and social transfers stable – higher capital tax 
+rates, higher labor tax rates, higher deficits – tax competition does not bring about significant 
+fiscal policy adjustments in the vast majority of OECD countries. 
+Since tax competition is less severe than race to the bottom models make believe and since 
+governments have nuanced adjustments strategies, tax competition has a larger impact on 
+taxation than on spending. For this very reason, the social consequences of tax competition 
+differ largely. Countries with an initially high level of social security transfers do not 
+experience much change in income inequality simply because the economic pressure on 
+changing fiscal policies remains moderate. 
+Governments in welfare states face much less pressure on tax revenues than early globaliza- 
+tion theories predicted. Thus, the survival of the welfare state is no surprise. The optimal ad- 
+justment strategy for governments in social welfare states was to raise capital and labor tax ra- 
+tes, moderately increase deficit spending, and keep government spending and social transfers 
+at least stable. In effect, the impact on redistribution and inequality remains modest. Large 
+liberal economies choose a combination of cuts in the already weak social security system and 
+higher deficits. At the same time, they shift taxation to labor, which eventually causes a mo- 
+derate increase in inequality and a further decline in redistribution. New Zealand and to a 
+lesser extent the UK and the US serve as examples for very different strategies. Since initial 
+debt was lower in the US and the UK than in New Zealand, tax increases and spending cuts 
+18 
+
+========19========
+
+remained more moderate in the former countries. In New Zealand the government had to 
+increase labor taxes and reduce social transfers to prevent a severe financial crisis caused by 
+rising debts. As a consequence, income inequality rose significantly. 
+Our theory further predicts that welfare states respond according to their initial conditions: if 
+debt was already high when tax competition kicked in, the increase in labor taxation was sig- 
+nificant. When debt was initially low, the increase in labor taxation remained moderate. In 
+Scandinavian countries, where government consumption was significantly higher than in any 
+other country, governments had a strong incentive to increase effective capital and labor tax 
+rates. With capital mobility, governments are likely to use increases in effective labor tax 
+rates. However, due to initially very high spending levels a stabilization of tax revenues pro- 
+ved to be difficult. Thus, these countries are likely to bring spending closer in line with spen- 
+ding in continental European countries. 
+Whether policy adjustments exert an influence on income inequality depends on how 
+countries redistribute income. In Anglo-Saxon and Scandinavian countries, redistribution 
+depends on the tax system. Unless these countries profited from significant capital inflows, 
+tax competition had at least a small influence on income inequality. In contribution based 
+social welfare states, the redistribution of income depends much more on government 
+spending and social transfers. Since the pressure on fiscal policies remained weak, 
+governments found it comparably easy to defend the welfare state without having to accept 
+raising income inequality. Table 2 summarizes the main predictions for redistribution and 
+disposable income inequality. 
+Table 2: Impact of Policy Adjustments on Redistribution and Income Inequality 
+redistribution 
+pre-tax income inequality 
+social security transfers as compared to initial level 
+change in social security transfers*relative effective capital tax rate 
+change in social security transfers*relative 
++ + 
+disposable income inequality 
+.. 
+− 
++ 
+− 
+− 
++ 
+19 
+
+========20========
+
+effective labor tax rate 
++ indicates that a ‘cause’ exerts a positive influence on an ‘outcome’ − indicates that the influence is negative 
+0 indicates that the influence is close to zero 
+.. indicates that the model does not make a prediction 
+4. Data 
+Available information allows us to analyze time-series cross-sectional data which covers 22 
+OECD countries over up to 26 years (1980-2005, due to random missing data points we 
+analyze only 537 out of 572 possible observations). We test for the tax competition effect by 
+including the distance (inversed) weighted spatial lag of effective capital tax rates to the right 
+hand side of the capital tax equation. We analyze the theoretical prediction of our model by 
+including the effect of country size (measured by the natural logarithm of GDP), initial levels 
+of social security transfers and debt ratio (in 1975 – well before tax competition started) as 
+well as the size of the non-tradable sector (measured as value added of the service industry). 
+We control for union density and left government portfolio (see appendix 1 for 
+operationalization of variables and data sources). In addition we add an interaction effect 
+between the domestic capital tax rate and union density as well as left cabinet portfolio to the 
+right hand side of the labor tax equation. In the second stage, we estimate the effect of the 
+difference between country i’s effective capital tax rate and the weighted mean of j’s 
+(instrumentalized) capital tax rates on fiscal policy (debt ratio and social security transfers). 
+According to our argument, countries could abstain from cutting social security transfer if 
+they allowed for higher capital tax rates than other countries. Governments also need to 
+maintain higher tax rates if initial debt rates were high and need to be reduced. Again, we 
+examine the impact of initial levels of social security transfers and debt. In addition we con- 
+trol for trade openness (exports + imports / GDP) which is also capturing country size6, EMU 
+6 
+We do not add the log of GDP to the right had side of the second stage since it is a highly collinear to the trade measure and would thus decrease efficiency. In addition using different specification in the various equations of the simultaneous equation model allows better identification of effects because of overidentification. 
+20 
+
+========21========
+
+membership, partisanship of the government, union density and the electoral system. We also 
+analyze how pressures on the social welfare state such as unemployment and the share of 
+people aged over 65 affect fiscal strategies. In the final third stage we estimate the joint effect 
+of tax and fiscal policies (especially changes in social security transfers as compared to initial 
+levels in 1975) on income redistribution and income inequality. We also test the impact of 
+actual fiscal adjustment strategies (changes in the debt ratio as compared to initial levels) as 
+well as the electoral system, unemployment and the share of elderly people. We do not 
+account for unit fixed effects7 since we include the initial conditions for all countries as well 
+as an EMU dummy which are time invariant and capture most of the initial variation. 
+Thus, with one exception, the specification of the empirical model is standard and so are the 
+data sources we use. The exception is the distinction between countries that dominantly 
+redistribute income via the tax system and countries that dominantly redistribute income via 
+social security transfers. We briefly describe these categories here, but note that we use 
+continuous variables in the data analysis. In 1980, the first group consists of the Australia, 
+Canada, Japan, United States, United Kingdom, and Luxembourg, while the second group 
+consists of continental European and Scandinavian welfare states. Switzerland and Portugal 
+do neither redistribute much welfare via transfers nor via the tax systems. Figure 1 indicates 
+the difference between both groups. “Tax gap” indicates the difference between the effective 
+labor tax rate and the effective capital tax rate. Sweden, for example, has almost 40 percent 
+higher effective labor tax rates than capital tax rates – indicating that labor finances the 
+Swedish welfare state. Note that we would obtain roughly the same pattern if we replaced 
+social security transfers by the sum of social security transfers and government consumption. 
+7 See Plümper and Troeger 2005, 2007, 2011 for a discussion of the pros and cons of fixed effects. 
+21 
+
+========22========
+
+Figure 1: Redistribution in two Dimensions, Average 1975-1980 
+40 
+30 
+SWE 
+FIN 
+20 
+SPA 
+NOR 
+ITA DEN 
+AUT 
+NDL 
+10 
+GRE 
+POR 
+IRE 
+SWZ 
+NZL 
+FRA 
+p 
+a 
+0 
+GER 
+G 
+ 
+x 
+a 
+T 
+-10 
+JAP 
+AUS 
+GBR 
+BEL 
+-20 
+CAN USA 
+LUX 
+-30 
+-40 
+6 8 10 12 14 16 18 20 22 24 26 
+Social Security Transfers 
+If early globalization theories were correct, countries should move to the left (they should cut 
+social security transfers) and up (the gap between effective labor and capital tax rates should 
+increase). 
+Figure 2 shows the same relation between redistribution by social security transfers and 
+redistribution by taxation. It shows that the two worlds of redistribution have converged, 
+because the level of social security transfers became more similar and the redistribution by the 
+tax system has all but vanished. Yet, social security transfers have converged to middle levels. 
+No country maintained either very low or very high levels of social security transfers. 
+However, we find evidence for the tax competition hypothesis that redistribution via the tax 
+system disappears since the advent of tax competition. 
+22 
+
+========23========
+
+Figure 2: Redistribution in Two Dimensions, Average 2000-2004 
+40 
+30 
+GERFINAUT ITA 
+DEN 
+20 
+IRE 
+10 
+NZL 
+p 
+a 
+0 
+SWE 
+NOR 
+NDL SPA 
+FRA GRE 
+BEL 
+G 
+ 
+CANSWZ 
+JAP 
+x 
+a 
+T 
+-10 
+USA AUS 
+GBR 
+POR 
+-20 
+-30 
+LUX 
+-40 
+6 8 10 12 14 16 18 20 22 24 26 
+Social Security Transfers 
+The increase in transfers in countries that previously dominantly redistributed income via the 
+tax system, led to a situation in which many countries crossed the arbitrary border between 
+countries with different redistribution mechanism. Nowadays, most countries have a moderate 
+to high level of social welfare transfers while very few countries redistribute income via the 
+tax system. Thus, capital owners and companies have stopped to contribute to income 
+redistribution and this – as we have argued before – is the consequence of tax competition. 
+Only countries like Luxembourg that taxes imported capital can afford to redistribute via the 
+tax system – a clear indication of Luxembourg being a winner of tax competition. 
+Figure 3 displays the changes between 1980 and 2004 and though this figure is redundant, it 
+highlights the vast differences between countries that adjusted moderately and countries that 
+adjusted significantly. Figure 3 reveals that with the notable exception of the Netherlands, no 
+country significantly reduced social security transfers, and many countries even increasing 
+transfers. The figure also demonstrates that only Germany adjusted policies according to the 
+predictions of the early globalization literature: by shifting taxation towards labor and by 
+reducing social security transfers. Yet, Germany is an outlier. 
+23 
+
+========24========
+
+Figure 3: Changes in social Security Transfers and the Tax Gap 
+40 
+GER 
+30 
+20 
+CAN 
+10 
+p 
+a 
+0 
+G 
+ 
+NDL 
+x 
+NZL 
+a 
+-10 
+SWZ 
+AUTBEL USAITA 
+JAPDEN IRE 
+AUSFIN FRA 
+GBRNOR 
+LUX 
+SPA 
+T 
+GRE 
+SWE 
+-20 
+POR 
+-30 
+-40 
+-10 -8 -6 -4 -2 0 2 4 6 8 10 12 14 16 18 20 
+Social Security Transfers 
+5. Research Design 
+Our theory suggests three important specification decisions: First, the estimation of tax 
+competition, second, the treatment of the endogeneity of policy variables, and third the 
+specification of dynamics and initial conditions. We briefly discuss each specification 
+decision in turn. 
+Spatial Econometrics 
+Franzese and Hays (2007) have argued that early globalization research remains 
+unsatisfactory inasmuch as it models tax competition in a simple linear-additive fashion based 
+on Quinn’s (1997) measure of ‘capital account openness’, because capital account openness 
+may be a necessary condition for tax competition, but it is definitely not a sufficient 
+condition. For example, capital account openness does not account for the fact that economic 
+pressure on capital tax rates are a function of the difference of the tax rates in the country of 
+interest and comparable countries. We therefore follow recent practice (Hallerberg and 
+Basinger 1998, Franzese and Hays 2007, Swank 2006 and Plümper et al. 2009) in specifying 
+tax competition as the dependence of tax policy in country i on tax policies in all other 
+countries -i≠i. Tax competition is thus modeled as a classic textbook example of endogeneity: 
+24 
+
+========25========
+
+Tax policy in country i depends on tax policy in countries –i and vice versa. We weight the 
+spatial capital tax lag with inverse distance in order to account for transaction costs of 
+physically moving capital.8 
+Simultaneous Equations 
+As the theoretical discussion reveals, the effect of globalization and market integration on 
+taxation, social security transfers and redistribution cannot be examined independently. When 
+estimating these effects we are faced with different kinds of co-determination, simultaneity 
+and endogeneity. Governments decide simultaneously about revenue and expenditure and the- 
+refore about tax rates, transfers and public good provision. Yet, taxation is not only contingent 
+on domestic factors but also on decisions of policy makers in other countries. To solve these 
+problems and avoid biased estimation results we employ a simultaneous equation approach, 
+which allows tackling the problem of endogeneity in policy decisions. We use an instrumental 
+variable approach to overcome the endogeneity of the spatial capital tax lag and account for 
+the multi-stage nature where redistribution and income inequality depend on decisions about 
+taxation and social spending. We thus estimate six simultaneous equations for effective 
+capital taxation, effective labor tax rates, the debt ratio, social security transfers, relative 
+redistribution and inequality of disposable income (see appendix 1 for the full specification of 
+the simultaneous equation model).9 We opt for full system estimation (3SLS) since we 
+assume co-varying error processes across equations and thus 3SLS produces more efficient 
+results. Yet, we are aware of the drawbacks of full system estimation in case one of our 
+equations is miss-specified and therefore conduct single equation 2SLS estimation to check 
+the robustness of our results.10 For the purpose of our study, we maintain that domestic consti- 
+8 
+See Plümper and Neumayer (2010) and Neumayer and Plümper (2012) for a discussion of specification 
+issues in modelling spatial dependence. For a discussion of different weighting matrices see Troeger (2009). 9 Identification of the system of equations and exclusion restrictions are discussed in appendix 2. 
+10 The estimation results are displayed in appendix 3 and show only very minor changes to the point estimates 
+and standard errors which do not change the substantive findings. We also employ other robustness checks 
+such as including a time trend, estimating a model with more parameter restrictions and first order auto- 
+regressive processes. None of these alterations change the substantive effects which we discuss here. 
+25 
+
+========26========
+
+tutional and institutional factors as well as country size are exogenous and therefore provide 
+good instruments for the endogeneous effective capital tax rate. (Franzese and Hays 2007). 
+Heterogeneity and Dynamics 
+We allow the error term to follow a first order autoregressive process (Plümper et al. 2005), 
+which allows for an appropriate estimate of the short-term adjustment processes our theory 
+predicts as well as controlling for serial correlation. Alternatively we include a time trend into 
+the model since existent serial correlation is most probably caused by trends in taxation and 
+government spending.11 We do not account for unit fixed effects12 since we are interested in 
+the effects of the initial conditions. We also include a time-invariant European Monetary 
+Union dummy. These variables capture most of the initial between-variation. Thus, results do 
+not change significantly when we replace these variables by unit dummies. However, we 
+would lose the ability to analyze the theoretically relevant impact of initial conditions on 
+policy adjustment strategies. 
+6. Results 
+We present the results of a single ivse model in three levels: the first stage estimates tax poli- 
+cies, were effective capital taxation of country i depends, inter alia, on a distance weighted 
+average of capital taxation in other countries whereas labor taxation is partially determined by 
+domestic decisions on capital tax rates. This captures the notion that tax competition has a tax 
+system effect, e.g. governments shift at least parts of the tax burden on capital towards labor 
+which is less mobile and therefore reacts less elastic to taxation. Note that the reported 
+endogeneity and overidentification tests conclude that the simultaneous equation model 
+overall is appropriately specified and identified. 
+To maintain readability, we discuss all technical details of the model specification in appendix 
+1 and 2, which provide a justification of our estimation and identification strategies. We 
+discuss each of the three stages in turn (tables 2, 3 and 4) for better understanding. Note 
+11 
+See appendix for results with first order autoregressive process and trend – estimation results remain 
+virtually unchanged. 
+12 See Plümper and Troeger 2007, 2011 for a methodological discussion of the pros and cons of fixed effects. 
+26 
+
+========27========
+
+though that the models presented in tables 2, 3 and 4 are the results of a single simultaneous 
+equation estimation with 6 interrelated equations. 
+Table 2: First Stage: Tax Competition 
+VARIABLES 
+spatial capital tax lag weighted by inverse distance (prediction) / 
+effective capital tax rate (labor tax equation) total GDP in current US$, natural logarithm 
+Social Security Transfers as percentage of GDP in 1975 
+debt ratio in 1975 
+value added of service sector as percentage of GDP 
+Union density (OECD) 
+left cabinet portfolio as percentage of all cabinet seats 
+IA effect between capital tax rate and left 
+IA effect between capital tax rate and union density 
+legal capital mobility (Quinn) 
+Constant 
+Observations R-squared 
+average effective capital tax rate 
+270.536** 
+(49.373) 
+3.923** 
+(0.414) 
+-0.894** 
+(0.131) 
+0.020 
+(0.015) 
+0.283** 
+(0.094) 
+0.049+ 
+(0.026) 
+average effective labor tax rate 
+-1.202** 
+(0.147) 
+1.482** 
+(0.322) 
+0.609** 
+(0.071) 
+0.010 
+(0.010) 
+0.720** 
+(0.058) 
+-0.232** 
+(0.068) 
+-0.020 
+(0.022) 
+0.001* 
+(0.001) 
+0.019** 
+(0.003) 
+DWH Chi_sqr Test: Endogeneity of instrumented RHS variables 
+Prob > Chi_sqr 
+Anderson IV Relevance: LR Statistic Prob > Chi_sqr 
+0.437 (0.795) -91.392** (10.535) 
+537 
+0.30 1.339 0.247 1596.00 0.000 
+-33.757** (7.290) 
+537 
+0.54 1.092 0.296 11.67 0.000 
+Standard errors in parentheses; ** p<0.01, * p<0.05, + p<0.1, grey shaded cells indicate endogenous, 
+instrumented right-hand-side variables 
+Table 2 presents the estimation results of the first stage where we analyze the effect of tax 
+competition on effective domestic capital and labor tax rates. We find that a country’s 
+effective capital tax rate decreases, if other countries, especially closer ones, reduce their 
+capital tax rate (tax competition effect). When effective capital tax rates decline, labor 
+taxation goes up (tax system effect). However, the burden shift remains moderate if union 
+density is high. Figure 4 displays the interaction effect between domestic effective capital tax 
+rates and union density. Strong unions clearly weaken the burden shift from capital to labor 
+taxation. The influence of left governments appears less strong: left governments shift the 
+27 
+
+========28========
+
+burden not significantly less than conservative governments. 
+Figure 4: Interaction effect between capital tax rates and union density on labor tax rates 
+5 
+. 
+e 
+t 
+a 
+r 
+ 
+x 
+a 
+t 
+ 
+l 
+s 
+a 
+e 
+t 
+i 
+t 
+0 
+a 
+p 
+r 
+a 
+ 
+c 
+x 
+ 
+a 
+e 
+t 
+ 
+v 
+r 
+i 
+t 
+o 
+c 
+b 
+e 
+a 
+5 
+f 
+l 
+f 
+. 
+ 
+- 
+e 
+e 
+ 
+f 
+v 
+i 
+o 
+t 
+ 
+t 
+c 
+c 
+e 
+f 
+e 
+f 
+f 
+f 
+e 
+ 
+E 
+n 
+1 
+ 
+l 
+- 
+o 
+a 
+n 
+i 
+g 
+r 
+a 
+Mean of union_density_OECD 
+M 
+5 
+. 
+1 
+- 
+0 20 40 
+Union Density Thick dashed lines give 95% confidence interval. 
+60 
+80 
+Our estimates also support our prediction that tax rates especially on labor remain relatively 
+high in countries in which the initial fiscal conditions were not very favorable to tax com- 
+petition. However, in countries with high initial levels of social security transfers a 
+government’s ability to aggressively reduce capital taxes in order to attract foreign capital 
+depends on its ability to shift the tax burden towards labor, especially high salaries (initial 
+conditions effect). Similarly and regardless of the initial fiscal conditions, large countries 
+(measured by GDP) find it difficult to fully compete with small countries for internationally 
+mobile capital. Large countries ceteris paribus implement higher tax rates on capital than 
+smaller countries since the tax rate effect outweighs the tax base effect of possible capital 
+inflows (country size effect). 
+Our theory rests on the assumption that capital is not fully mobile. In order to turn this as- 
+sumption into a testable hypothesis, we operationalize this de facto capital mobility by the 
+size of the non-tradable service sector. The larger the non-tradable sector the less the average 
+de facto mobility of capital and the easier it is for governments to implement higher tax rates. 
+Indeed the empirical results support this notion – the larger the value added of the service 
+sector the higher average effective capital tax rates remain. Once we control for actual capital 
+28 
+
+========29========
+
+mobility by including the size of the service sector, the Quinn measure for de jure capital 
+mobility turns out to be insignificant. 
+At the second level (table 3), the fiscal policy adjustments, we generally observe substantively 
+weaker effects. In other words, the effect of tax competition on fiscal policies remains 
+moderate. We find that governments use higher labor taxes to maintain high levels social 
+security transfers. However, while governments use capital taxation to stabilize government 
+spending, we observe a positive but not significant contribution of capital taxation to social 
+security transfers and an increase in the importance of labor taxation for social security 
+transfers.13 In addition, governments need to maintain higher capital taxes in order to reduce 
+initially high debt ratios. Country size affects fiscal policy mostly indirectly through taxation, 
+the trade volume (which also captures a size effect) does not exert a significant impact on its 
+own. 
+13 We find mostly expected results for our controls. First, countries with majoritarian electoral systems have 
+both lower social security and debt levels, which is consistent with previous results (Persson and Tabellini 
+1999). Second, though we cannot solve the ‘old’ discussion between the compensation and the efficiency 
+hypotheses, we find more support for the former: Openness to trade has a positive but not quire significant 
+effect on social security transfers and public debt (compensation hypothesis). Third, higher unemployment 
+rates and a larger dependency ratio increase the debt and social security spending equally. Fourth, EMU 
+membership reduces a country’s debt ratio. 
+29 
+
+========30========
+
+Table 3: Second Stage: Fiscal Policy 
+VARIABLES 
+difference between domestic capital tax rate and mean of capital tax rate in other countries difference between domestic labor tax rate 
+and mean of labor tax rate in other countries Social Security Transfers as percentage of GDP in 1975 
+debt ratio in 1975 
+Union density (OECD) 
+left cabinet portfolio as percentage of all cabinet seats 
+EMU membership 
+Majoritarion system (DPI) 
+unemployment rate (WDI) 
+share of population above 65 
+trade ((imp+exp)/gdp) 
+Constant 
+Observations 
+R-squared 
+DWH Chi_sqr Test: Endogeneity of instrumented RHS variables 
+Prob > Chi_sqr 
+Anderson IV Relevance: LR Statistic 
+Prob > Chi_sqr 
+debt ratio -0.263** (0.062) 1.218** (0.147) -2.407** (0.221) 0.747** (0.021) -0.514** (0.061) -0.077** (0.015) -9.662** (1.711) -7.365** (2.036) 1.940** (0.166) 3.102** (0.295) 0.035 (0.027) 28.786** (7.835) 
+537 
+0.80 29.88 
+social security transfers 
+0.018 
+(0.012) 
+0.355** 
+(0.029) 
+0.082+ 
+(0.044) 
+-0.024** 
+(0.004) 
+-0.097** 
+(0.012) 
+-0.016** 
+(0.003) 
+0.263 
+(0.342) 
+-3.598** 
+(0.405) 
+0.120** 
+(0.033) 
+0.222** 
+(0.059) 
+0.007 
+(0.005) 
+16.084** 
+(1.561) 
+537 
+0.63 
+4.461 
+0.000 121.3 0.000 
+0.107 121.3 0.000 
+Standard errors in parentheses; ** p<0.01, * p<0.05, + p<0.1, grey shaded cells indicate endogenous, 
+instrumented right-hand-side variables 
+Table 4 reports the relevant estimates and relates them to our theoretical predictions as 
+summarized in table 1. We find that most estimated coefficients support our theory, though 
+governments apparently use relatively high capital tax rates to keep public debt low and 
+relatively high labor tax rates to keep social security transfers high. We did not expect that 
+governments make this clear distinction between different sources of revenue, but these 
+results are still broadly in line with our prediction that governments increasingly use labor 
+taxes to finance social security transfers. 
+Table 4: Determinants of Policy Adjustment 
+capital tax rates 
+labor tax rates 
+country size 
++ 3.9 (±0.4) 
+Public debt 
++ 1.5 (±0.3) 
+.. 
+social security transfers 
+.. 
+30 
+
+========31========
+
+low capital mobility 
+initial transfer level 
+initial debt 
+relative capital tax 
++ 0.3 (±0.1) 
+− .. 0 -0.9 (±0.1) 
+0..+ 0.02 (±0.02) 
+.. 
+relative labor tax 
+.. 
++ 0.7 (±0.1) 
++ 0.6 (±0.1) 
+0..+ 0.01 (±0.01) 
+.. 
+.. 
+.. 
+.. 
+− -2.4 (±0.2) 
++ 0.7 (±0.0) 
+− -0.2 (±0.1) 
+− 0.0 (±0.0) 
++ 0.1 (±0.0) 
+− -0.2 (±0.0) 
++ 0.0 (±0.0) 
++ 0.4 (±0.0) 
+Finally, at the third level (table 5), our results suggest that tax competition exerts a small but 
+not negligible effect on income redistribution and income inequality though governments 
+used relatively high tax rates to keep the fiscal policy adjustments moderate. However, this 
+effect is contingent upon initial levels of social security and welfare spending. 
+Table 5: Third Stage: Relative Redistribution and Disposable Income Inequality 
+VARIABLES 
+difference between domestic capital tax rate and mean of capital tax rate in other countries difference between domestic labor tax rate and mean of labor tax rate in other countries Majoritarion system (DPI) 
+unemployment rate (WDI) 
+share of population above 65 
+market income inequality (gini) 
+change in social security transfers as compared to 1975 
+change in debt ratio as compared to 1975 
+IA effect between mean difference in capital taxation and change in social security transfers† 
+IA effect between mean difference in labor taxation and change in social security transfers† 
+Constant 
+Observations 
+R-squared 
+DWH Chi_sqr Test: Endogeneity of instrumented RHS variables 
+Prob > Chi_sqr 
+Anderson IV Relevance: LR Statistic 
+Prob > Chi_sqr 
+relative redistribution 
+-0.003** (0.000) 0.006** (0.001) -0.011 (0.008) -0.002* (0.001) -0.007** (0.002) 0.778** (0.120) 0.006** (0.001) -0.000 (0.000) 0.014 (0.009) -0.033** (0.011) 0.157** (0.052) 
+537 0.37 22.47 
+disposable income 
+inequality 
+0.001** 
+(0.000) 
+-0.002** 
+(0.000) 
+0.005 
+(0.004) 
+0.001+ 
+(0.000) 
+0.003** 
+(0.001) 
+0.299** 
+(0.052) 
+-0.002** 
+(0.000) 
+0.000 
+(0.000) 
+-0.006 
+(0.004) 
+0.014** 
+(0.005) 
+0.090** 
+(0.023) 
+537 
+0.34 
+23.73 
+0.000 375.2 0.000 
+0.000 375.2 0.000 
+Standard errors in parentheses; ** p<0.01, * p<0.05, + p<0.1, grey shaded cells indicate endogenous, instrumented right-hand-side variables; † coefficients and standard errors shown times 100 – for better 
+readability 
+31 
+
+========32========
+
+Countries which redistribute income mostly via social transfers will use higher tax rates on 
+capital to redistribute from capital owners to wage earners and thereby reduce income 
+inequality or at least do not allow disposable income inequality to rise – figure 5 illustrates 
+this effect. Thus, when social welfare states implement relatively high capital and labor tax 
+rates, fiscal policy adjustments will be moderate and the effect of tax competition on 
+redistribution and inequality small. The same cannot be said for countries that dominantly 
+redistribute via a progressive tax system. Even if these countries kept relatively high capital 
+and labor taxes, income redistribution declined and inequality increased (see figures 5 and 6). 
+Thus, social security transfers offered a better way to prevent an increase in income inequa- 
+lity. This finding, of course runs counter the doom theories of tax competition, which 
+predicted that governments have to abandon the welfare state to prevent capital flight. 
+Figure 5: Interaction effect between mean difference in capital tax rates and change in social security transfers on disposable income inequality 
+e 
+t 
+3 
+a 
+r 
+0 
+ 
+0 
+x 
+. 
+a 
+t 
+ 
+l 
+a 
+t 
+i 
+y 
+t 
+p 
+i 
+l 
+a 
+a 
+c 
+ 
+u 
+2 
+n 
+q 
+i 
+0 
+ 
+e 
+0 
+e 
+n 
+i 
+. 
+c 
+ 
+n 
+e 
+e 
+r 
+m 
+e 
+o 
+f 
+f 
+c 
+i 
+n 
+d 
+i 
+ 
+ 
+n 
+e 
+l 
+1 
+a 
+b 
+0 
+e 
+a 
+0 
+. 
+s 
+m 
+ 
+o 
+f 
+p 
+o 
+ 
+s 
+t 
+i 
+c 
+d 
+ 
+e 
+f 
+n 
+f 
+o 
+E 
+ 
+l 
+a 
+0 
+n 
+i 
+g 
+r 
+a 
+Mean of d75_sstran 
+M 
+-10 -5 0 5 10 
+change in social security transfers as compared to 1975 Thick dashed lines give 95% confidence interval. 
+15 
+Figure 6: Interaction effect between mean difference in labor tax rates and change in social security transfers on disposable income inequality 
+32 
+
+========33========
+
+2 
+0 
+0 
+x 
+. 
+a 
+t 
+ 
+r 
+o 
+b 
+a 
+y 
+l 
+t 
+ 
+i 
+l 
+n 
+i 
+a 
+ 
+0 
+u 
+e 
+q 
+c 
+e 
+n 
+n 
+e 
+i 
+ 
+r 
+e 
+e 
+f 
+f 
+i 
+m 
+d 
+o 
+2 
+ 
+c 
+0 
+n 
+n 
+i 
+0 
+a 
+ 
+. 
+- 
+e 
+e 
+l 
+m 
+b 
+ 
+f 
+a 
+o 
+s 
+ 
+t 
+o 
+c 
+p 
+e 
+s 
+4 
+f 
+i 
+f 
+0 
+d 
+ 
+0 
+E 
+. 
+ 
+l 
+n 
+- 
+a 
+o 
+n 
+i 
+g 
+r 
+a 
+Mean of d75_sstran 
+6 
+M 
+0 
+0 
+. 
+- 
+-10 -5 0 5 10 
+change in social security transfers as compared to 1975 Thick dashed lines give 95% confidence interval. 
+15 
+Most of the empirical findings – even cautiously interpreted – supports our theoretical 
+arguments. We find a non-negligible and significant tax competition effect in addition to a 
+strong tax system effect, a shift from capital to labor taxes, which is damped by political 
+institutions such as strong unions. Moreover we find support for asymmetric tax competition, 
+a significant country size effect. Small countries implement both lower tax rates on capital 
+and labor. They are able to do so because the tax base effect of inflowing capital outweighs 
+the tax rate effect of lowering capital tax rate. Yet, tax rates are not completely determined by 
+competition since capital is not fully mobile: our results show that where de facto capital 
+mobility is low – the size of the non-tradable sector large – tax rates on capital remain 
+comparatively higher. 
+In countries with noncompetitively high tax rates, tax revenues are used to lower initially high 
+debt and maintain social security spending. Governments in large welfare states did not 
+reduce the initially high social security transfers but managed to keep social welfare spending 
+on a comparatively high level. However, initially large public debt forced government to 
+reduce social security transfers at least slightly. 
+Finally, the effect of tax rates on redistribution and inequality is conditioned on changes in 
+33 
+
+========34========
+
+welfare state spending: countries predominantly redistributing via progressive taxes 
+experience an increase in inequality because of the tax competition effect, while countries 
+which redistribute mainly via social spending reduce disposable income inequality or at least 
+keep it stable. Table 6 compares the theoretical predictions with the empirical findings of the 
+last stage. 
+Table 6: Impact of Policy Adjustments on Redistribution and Income Inequality 
+pre-tax income inequality 
+social security transfers as compared to initial level 
+change in social security transfers*relative effective capital tax rate 
+change in social security transfers*relative effective labor tax rate 
+7. Conclusion 
+redistribution 
++ 0.778 (±0.120) 
++ 0.006 (±0.001) 
++ 0.014 (±0.009) 
+− -0.033 (±0.011) 
+disposable income 
+inequality 
+.. 
+− -0.002 (±0.000) 
+− -0.006 (±0.004) 
++ 0.014 (±0.005) 
+When confronted with tax competition, governments in different countries choose different 
+policy adjustment strategies. Surprisingly, neither empirical tests of tax competition, nor 
+empirical tests of globalization theories, nor existing tests of explanations for the survival of 
+the welfare state take into account that global competition does not affect all countries in the 
+same way. 
+We have argued that tax competition affects countries that redistribute via the tax system 
+differently from countries that redistribute via social security transfers. Indeed, quite to the 
+contrary of the predictions of early globalization theories of welfare state retrenchment, we 
+argue and find that liberal market economies that use the tax system to redistribute income 
+found it more difficult to adjust to tax competition. Most welfare states merely shifted 
+revenues from taxing capital onto labor and maintained high levels of social security transfers. 
+Thus, tax competition influences tax and fiscal policies, but not in the simple, homogeneous 
+fashion predicted by previous theories. Rather, the absence of perfect capital mobility leads to 
+34 
+
+========35========
+
+‘separating equilibria’, some governments compensated for capital outflows by maintaining 
+high capital and even higher labor tax rates. An increase in debt and cuts in social security 
+transfers are used as alternatives to increasing capital and labor tax rates. 
+These initial conditions and the choice of policy adjustment strategies ultimately explained 
+why income inequality rose more in liberal market economies than in Continental welfare 
+states. While the latter countries could maintain a high level of social security transfers, the 
+liberal economies had to cut down on tax-based redistribution and to increase social security 
+transfers. Not all governments in liberal market economies were able or willing to do so. 
+Accordingly, income inequality increased most in liberal economies whose governments did 
+not or very little increase social security transfers: the US and the UK. 
+Literature 
+Allan, James P. and Lyle Scruggs 2004, Political Partisanship and Welfare State Reform in 
+Advanced Industrial Societies, American Journal of Political Science, 48(3), 496-512. Basinger, Scott and Mark Hallerberg 2004, Remodelling the Competition for Capital. How 
+Domestic Politics erases the Race to the Bottom, American Political Science Review 
+98, 261-276. 
+Birchfeld, Vicki and Markus M. L. Crepaz 1998, The Impact of Constitutional Structures and 
+Collective and Competitive Veto Points on Income Inequality in Industrialized Demo- 
+cracies, European Journal of Political Research 34, 175-200. 
+Bradley, David, Evelyn Huber, Stephanie Moller, Francois Nielsen, and John D. Stephens, 
+2003. Distribution and redistribution in Postindustrial Democracies, World Politics 55, 
+193-228. 
+Bräuninger, Thomas 2005. A Partisan Model of Government Expenditure. Public Choice 125: 
+409-429. 
+Browning, E. K. 1975. Collective Choice and General Fund Financing. Journal of Political 
+Economy 83: 377-390 
+Bucovetsky, Sam 1991, Asymmetric Tax Competition, Journal of Urban Economics 30, 67- 
+181. 
+Cameron, David R. 1978. Expansion of the Public Economy: Comparative Analysis. 
+American Political Science Review 72: 1243-1261. 
+Crepaz, Markus M.L. and Ann W. Moser 2004, The Impact of Collective and Competitive 
+Veto Points on Public Expenditures in the Global Age, Comparative Political Studies 
+27, 259-285. 
+Esping-Andersen, Gøsta 1996. Welfare States in Transition. National Adaptations in Global 
+Economies, SAGE, London. 
+35 
+
+========36========
+
+Franzese, Robert J. 2002, Macroeconomic Policies of Developed Democracies, Cambridge: 
+Cambridge University Press. 
+Franzese, Robert J. and Jude C. Hays 2007, Spatial Econometric Models of Cross-Sectional 
+Interdependence in Political Science Panel and Time-Series-Cross-Section Data, 
+Political Analysis 15, 140-164. 
+Galasso Vicenzo and Paola Profeta 2002. The Political Economy of Social Security. A 
+Survey. European Journal of Political Economy 18, 1-29. 
+Ganghof, Steffen 2006. Tax Mixes and the Size of the Welfare State, Journal of European 
+Social Policy 16, 360-374. 
+Garrett, Geoffrey, 1998a, Global Markets and National Politics: Collision Course or Virtuous 
+Circle?, International Organization, 52/4, 787–824. 
+Garrett, Geoffrey, 1998b, Partisan Politics in the Global Economy, Cambridge: Cambridge 
+University Press. 
+Genschel, Philipp, 2002, Globalization, Tax Competition, and the Welfare State, Politics and 
+Society, 30, 245-275. 
+Ha, Eunyoung 2008. Globalization, veto players, and welfare spending. Comparative Political 
+Studies 41: 783-813 
+Hall, Peter and David Soskice, 2001. An Introduction to the Varieties of Capitalism. In: Peter 
+A. Hall, David Soskice (eds.): Varieties of Capitalism. The Institutional Foundations 
+of Comparative Advantage. Oxford: Oxford University Press, 2001, 1-68. 
+Hallerberg, Mark and Scott Basinger 1998. Internationalization and Changes in Tax Policy in 
+OECD Countries: The Importance of Domestic Veto Players, Comparative Political 
+Studies 31, 321-353. 
+Hansson, I. and C. Stuart 1989. Social Security as Trade among Living Generations. 
+American Economic Review 79: 1182-1195. 
+Hays, Jude C. 2003. Globalization and Capital Taxation in Consensus and Majoritarian De- 
+mocracies, World Politics 56, 79-113. 
+Hays, Jude C. 2008, Globalization, Domestic Institutions, and the New Politics of Embedded 
+Liberalism, Oxford University Press, forthcoming. 
+Hicks, Alexander M. and Duane Swank, 1992, Politics, Institutions, and Welfare Spending in 
+Industrialized Democracies, 1960-82, American Political Science Review 86, 658-674. Hines, James R. 2006, Will Social Welfare Expenditures survive Tax Competition? Oxford 
+Review of Economic Policy 22, 330-348. 
+Huber, Evelyn and John D. Stephens 1993, Political Parties and Public Pensions. A Quantita- 
+tive Analysis, Acta Sociologica 36, 309-325. 
+Huber, Evelyn and John D. Stephens 2001, Development and Crisis of the Welfare State, 
+Chicago University Press, Chicago. 
+Iversen, Torben and David Soskice 2006, Electoral Institutions and the Politics of Coalitions: 
+Why some Democracies Redistribute more than others, American Political Science 
+Review 100 (2), 165-181. 
+Iversen, Torben and Thomas R. Cusack 2000, The Causes of Welfare State Expansion. Dein- 
+dustrialization or Globalization? World Politics 52, 313-349. 
+Iversen, Torben 1999, Wage Bargaining, Central Bank Independence, and the Real Effects of 
+Money, International Organization 53, 629-629. 
+36 
+
+========37========
+
+Iversen, Torben 2001, The Dynamics of Welfare State Expansion: Trade Openness, Deindus- 
+trialization, and Partisan Politics, in: Paul Pierson, ed., the New Politics of Welfare 
+State, Oxford University Press. 
+Kanbur, Ravi and Michael Keen 1993, Jeux Sans Frontier: Tax Competition and Tax Coordi- 
+nation when Countries Differ in Size, American Economic Review 83, 877-892. Kenworthy, Lane, and Jonas Pontusson 2005, Rising Inequality and the Politics of 
+Redistribution in Affluent Countries, Perspectives on Politics 3 (3), 449-371. Neumayer, Eric and Thomas Plümper, 2012. Conditional Spatial Policy Dependence: Theory 
+and Model Specification, Comparative Political Studies. 
+Oatley, Thomas 1999, How Constraining is Capital Mobility? The Partisan Hypothesis in an 
+Open Economy, American Journal of Political Science, 43, 1003-1027. 
+Peralta, Susana and Tanguy van Ypersele 2005, Factor Endowments and Welfare Levels in an 
+Asymmetric Tax Competition Game, Journal of Urban Economics 57, 258-274. Persson, Torsten and Guido Tabellini 1999, The Size and Scope of Government: Comparative 
+Politics with Rational Politicians, European Economic Review 43, 699-735. Pierson, Paul 1996. The new politics of the welfare state. World Politics 48: 143-& Pierson, Paul 1998. Irresistible forces, immovable objects: post-industrial welfare states 
+confront permanent austerity. Journal of European Public Policy 5: 539-560. Plümper, Thomas and Eric Neumayer 2009, Model Specification in the Analysis of Spatial 
+Dependence, European Journal of Political Research 49, 418-442. 
+Plümper, Thomas and Vera E. Troeger 2007, Efficient Estimation of Time Invariant and Ra- 
+rely Changing Variables in Panel Data with Unit Effects, Political Analysis 15, 124- 
+139. 
+Plümper, Thomas and Vera E. Troeger 2011, Fixed Effects Vector Decomposition: 
+Properties, Reliability, Instruments, Political Analysis 19, 147-162. 
+Plümper, Thomas, Vera E. Troeger and Philip Manow 2005, Panel Data Analysis in Compa- 
+rative Politics: Linking Method to Theory, European Journal of Political Research 44, 
+327-354. 
+Plümper, Thomas, Vera E. Troeger and Hannes Winner 2009, Why is there no Race to the 
+Bottom in Capital Taxation? Tax Competition among Countries of Unequal Size, Dif- 
+ferent Levels of Budget Rigidities and Heterogeneous Fairness Norms, International 
+Studies Quarterly 53: 781-786. 
+Pontusson, Jonas 2005. Inequality and Prosperity. Social Europe versus Liberal America, 
+Cornell University Press, Ithaca. 
+Rodrik, Dani 1998. Why do more open Economies have bigger Governments? Journal of 
+Political Economy 106: 997-1032. 
+Rudra, Nita 2002. Globalization and the Decline of the Welfare State in less-developed 
+Countries. International Organization 56: 411-+. 
+Rudra, Nita and Stephen Haggard 2001, Globalization, Democracy, and Effective Spending in 
+the Developing World, Comparative Political Studies 38, 1015-1049. 
+Samuelson, Paul 1958. Aspects of Public Expenditure Theories. Review of Economics and 
+Statistics 40, 332-+. 
+Scharpf, Fritz W. 1991. Crisis and Choice in European Social Democracy, Ithaca: Cornell 
+University Press. 
+37 
+
+========38========
+
+Scharpf, Fritz W. 1997. Economic Integration, Democracy, and the Welfare State, Journal of 
+European Public Policy 4, 8-36. 
+Steinmo, Sven 1994. The End of Redistribution? International Pressures and Domestic Tax 
+Policy. Challenge 37, 9-17. 
+Swank, Duane and Sven Steinmo 2002, The New Political Economy of Taxation in Advanced 
+Capitalist Democracies, American Journal of Political Science 46, 642-655. Swank, Duane 1998, Funding the Welfare State: Globalization and the Taxation of Business 
+in Advanced Market Economies, Political Studies 46, 671-692. 
+Swank, Duane 2002, Global Capital, Political Institutions and Policy Change in Developed 
+Welfare States, Cambridge: Cambridge University Press. 
+Swank, Duane 2004, Tax Policy in an Era of Internationalization: An Assessment of a Condi- 
+tional Diffusion Model of the Spread of Neoliberalism. Presented at the Conference on 
+“International Diffusion of Political and Exonomic Liberalization”, Harvard October 
+3-4, 2003. 
+Swank, Duane 2006, Tax Policy in an Era of Internationalization: Explaining the Spread of 
+Neoliberalism, International Organization 60, 847-882. 
+Tsebelis, George and E.C.C. Chang 2004. Veto Players and the Structure of Budgets in 
+Advanced Industrialized Countries. European Journal of Political Research 43: 449- 
+476. 
+Wilson, John D. 1991, Tax Competition with Interregional Differences in Factor Endow- 
+ments, Regional Science and Urban Economics 21, 423-451. 
+38 
+
+========39========
+
+Appendix 1: Operationalization and Data Sources 
+Table A1: Variable Description 
+Variable captax labtax 
+Description 
+Average effective tax rate on capital 
+Average effective tax rate on labor 
+captaxi;-i 
+Difference between domestic capital tax rate and average capital tax rate in all other countries in the 
+same year 
+captax-i 
+inverse distance weighted spatial lag of average 
+effective capital tax rates 
+labtaxi;-i 
+Difference between domestic labor tax rate and average labor tax rate in all other countries in the 
+debt idebt di75_debt socsec isocsec 
+same year 
+Debt as percentage of GDP Initial Debt ratio (1975) 
+change in debt ratio as compared to 1975 Social Security Transfers as percentage of GDP Initial Social Security Transfers as percentage of 
+GDP (1975) 
+di75_socsec 
+change in social security transfers as compared to 
+loggdp trade 
+unemp pop65 ud left 
+1975 
+Natural Logarithm of GDP Trade openness measured as (exports+imports)/GDP Unemployment rate 
+Share of population aged 65 and over 
+Union Density 
+Left cabinet portfolio as percentage of all cabinet 
+portfolios 
+nt 
+maj 
+Size of the non-tradable sector, measure as value added of the service sector as percentage of GDP Electoral system: Plurality (1), Proportional (0) 
+emu ginidi, ginipsi 
+Member of the European Monetary Union income inequality, disposable income, private 
+sector income 
+reldis 
+difference between pre-tax and post-tax income 
+quinni quinn-i 
+inequality 
+legal capital account openness 
+inverse distance weighted spatial lag of legal 
+capital account openness 
+ginipsi-i 
+inverse distance weighted spatial lag of private 
+sector income inequality 
+gdppc-i 
+inverse distance weighted spatial lag of per capita 
+GDP 
+govcon-i 
+inverse distance weighted spatial lag of 
+Government consumption 
+trade-i 
+inverse distance weighted spatial lag of trade 
+openness: (exports+imports)/ GDP 
+pop-i 
+inverse distance weighted spatial lag of total 
+population 
+Source 
+Calculations from OECD Revenue Statistics based on formula provided by Volkerink and DeHaan (2002) 
+Own calculations base don the above variables 
+estimated in an instrumental variable equation calculated based on average effective labor tax rates 
+OECD Main Economic Indicators 
+OECD Main Economic Indicators 
+world development indicators, world bank 
+OECD labor market statistics Swank 2002 
+OECD National Account Statistics 
+Beck et al. 2005: World Bank database of Political Institutions 
+Mahler and Jesuit 2006, Luxembourg Income Study 
+Quinn 1997 
+Mahler and Jesuit 2006, Luxembourg Income Study World Bank World Development Indicators 
+FDI inflows form WDI 
+39 
+
+========40========
+
+Appendix 2: Estimation of the System of Simultaneous Equations 
+We estimate six simultaneous equations with correlated error processes across all equations. 
+In addition, we include a spatial capital tax lag in order to account for the tax competition 
+arguments. This spatial lag is weighted substantively by the inverted distance in order to 
+account for higher impact of closer countries and instrumented by the equally weighted 
+spatial lags of domestic variables (Franzese and Hays 2007; Plümper and Neumayer 2009). 
+Our theory predicts endogeneity issues since the labor tax depends on capital taxation (tax 
+system effect), fiscal policies (debt ratio and social security transfers) depend on capital and 
+labor taxation and redistribution as well as income inequality are partially determined by a 
+combination of taxation and fiscal policies. We thus estimate the system of equations by a 
+combination of three stage least squares and two stage least squares (for the spatial tax lag) 
+procedures. 
+Table A2: System of equations 
+Stage 1: 
+captaxi = a + captax-i + loggdpi + udi + lefti + nti + isocseci + idebti+ quinni +ei with 
+captax-i= a + quinn-i + gini-i + gdppc-i + govcon-i + trade-i + population-i + e-i as instrumental equation. 
+labtaxi = a + captaxi + loggdpi + udi + lefti + captaxi *udi + captaxi *lefti + isocseci + idebti + ei 
+Stage 2: 
+debti = a + captaxi;-i + labtaxi;-i + udi + lefti + maji + unempi + pop65i + tradei + emui + isocseci + idebti + ei 
+socseci= a + captaxi;-i+ labtaxi;-i+ udi+ lefti+ maji+ unempi+ pop65i+ tradei+ emui+ isocseci+ idebti+ ei 
+Stage 3: 
+redisi = a + captaxi;-i + labtaxi;-i + captaxi;-i · di75_socseci + labtaxi;-i · di75_socseci + maji + di75_debti + 
+di75_socseci + ginipsii + unempi + pop65i + ei 
+ginidii = a + captaxi;-i + labtaxi;-i + captaxi;-i · di75_socseci + labtaxi;-i · di75_socseci + maji + di75_debti + 
+di75_socseci + ginipsii + unempi + pop65i + ei 
+Subscripts denote countries (i) other countries (-i). 
+40 
+
+========41========
+
+Appendix 3: Identification and Exclusion Restrictions 
+Given this set of endogenous variables we need at least 42 exclusion restrictions for the 6 
+equations to be just identified (without relying on cross equation identification). Each of the 6 
+equations has one normalization restriction because one variable is taken to be the left-hand- 
+side explained variable. Thus, each equation in our system is autonomous because it has 
+substantive meaning in isolation from the other equations in the system. Since we have 
+enough exclusion restrictions within each structural equation we do not need to rely on cross 
+equation restrictions to achieve identification of our system. Table A2 shows that we have 
+117 exclusion restrictions from which 32 are simultaneous. Thus, we have 85 exclusion 
+restrictions throughout the system which are distributed in a way so that every single equation 
+is at least identified under the condition that all variables labelled exogenous are indeed 
+uncorrelated with any of the error terms of the seven equations. 
+We used standard (but often not very powerful) overidentification and exogeneity tests. 
+Overidentification of all equations in the system allows for a more efficient estimation of the 
+structural parameters. However, since the exclusion restrictions imply that the coefficients of 
+these variables are zero in the equations from which they are excluded, misspecification leads 
+to biased parameter estimates. A more reliable test is to compare the 3-SLS results to a set of 
+independent 2-SLS estimates. If all equations in the system are correctly specified, system 
+procedures are asymptotically more efficient than a single-equation procedure such as 2SLS. 
+Yet, single equation models are more robust with respect to miss-specification. W estimate a 
+2SLS version of our model which turns out to give substantively identical results. Neither 
+tests suggest that our model is misspecified. 
+41 
+
+========42========
+
+Appendix 4: Robustness 
+debt ratio 
+Table A4a: 3 Stage Least Squares: Trend included 
+average 
+effective 
+labor tax 
+average effective capital tax 
+rate 255.544** 
+rate 
+spatial capital tax lag weighted by inverse distance (prediction) / effective capital tax rate (labor tax equation) 
+total GDP in current US$, natural logarithm 
+Social Security Transfers as percentage of GDP in 1975 debt ratio in 1975 
+-0.960** 
+(45.962) 
+(0.154) 
+3.237** (0.387) -1.231** (0.126) 0.016 (0.014) 0.859** 
+1.123** (0.316) 0.697** (0.076) 
+0.007 
+value added of service sector as percentage of GDP 
+(0.010) 0.633** 
+Union density (OECD) 
+(0.105) 0.025 (0.024) 
+(0.083) -0.150* (0.069) 
+left cabinet portfolio as percentage 
+of all cabinet seats 
+IA effect between capital tax rate and left 
+IA effect between capital tax rate and union density 
+legal capital mobility (Quinn) 
+0.007 
+(0.022) 
+0.001 
+(0.001) 0.016** (0.003) 
+4.362** (0.813) 
+difference between domestic capital tax rate and mean of capital tax rate 
+in other countries 
+difference between domestic labor tax rate and mean of labor tax rate in other countries 
+EMU membership 
+Majoritarion system (DPI) 
+unemployment rate (WDI) 
+share of population above 65 
+trade ((imp+exp)/gdp) 
+market income inequality (gini) 
+change in social security transfers as compared to 1975 
+change in debt ratio as compared to 
+1975 
+IA effect between mean difference in capital taxation and change in social security transfers† IA effect between mean difference in labor taxation and change in social security transfers† trend 
+0.058 
+Constant 
+-0.786** (0.079) -98.074** 
+(0.058) -27.731** 
+social security transfers 
+relative redistribution 
+disposable income inequality 
+-1.934** (0.220) 0.765** (0.020) 
+0.115* (0.046) -0.024** (0.004) 
+-0.322** (0.064) -0.073** 
+-0.081** (0.013) -0.015** 
+(0.014) 
+(0.003) 
+-0.169** 
+0.034** 
+-0.004** 
+0.002** 
+(0.062) 1.064** 
+(0.013) 0.342** 
+(0.000) 0.003** 
+(0.000) -0.001** 
+(0.140) -5.061** (1.747) -6.852** (1.917) 1.977** (0.156) 2.020** (0.332) -0.069* (0.029) 
+(0.029) 0.626+ (0.363) -3.513** (0.397) 0.112** (0.032) 0.130+ (0.069) 0.002 (0.006) 
+(0.001) 
+(0.000) 
+-0.015* (0.008) -0.003** (0.001) 0.001 (0.002) 
+0.007* (0.003) 0.001** (0.000) -0.000 (0.001) 
+1.057** (0.115) 0.006** (0.001) 0.000* 
+0.178** (0.050) -0.003** (0.000) -0.000+ 
+(0.000) 0.000** 
+(0.000) -0.000** 
+(0.000) -0.000 
+(0.000) 0.000 
+0.596** (0.095) 18.509* 
+0.048* (0.020) 15.251** 
+(0.000) -0.004** (0.001) 0.026 
+(0.000) 0.002** (0.000) 0.146** 
+42 
+
+========43========
+
+Observations R-squared 
+(9.799) 537 0.38 
+(7.314) 537 0.58 
+(7.497) 537 0.82 
+(1.553) 537 0.64 
+(0.051) 537 0.44 
+(0.022) 537 0.41 
+Table A4b: 3 Stage Least Squares: Lagged Residuals 
+spatial capital tax lag weighted by inverse distance (prediction) / effective capital tax rate (labor tax equation) 
+total GDP in current US$, natural logarithm 
+Social Security Transfers as percentage of GDP in 1975 debt ratio in 1975 
+value added of service sector as percentage of GDP 
+Union density (OECD) 
+left cabinet portfolio as percentage 
+of all cabinet seats 
+IA effect between capital tax rate and left 
+IA effect between capital tax rate and union density 
+legal capital mobility (Quinn) 
+difference between domestic capital tax rate and mean of capital tax rate 
+in other countries 
+difference between domestic labor tax rate and mean of labor tax rate 
+in other countries 
+EMU membership 
+Majoritarion system (DPI) 
+unemployment rate (WDI) 
+share of population above 65 
+trade ((imp+exp)/gdp) 
+market income inequality (gini) 
+change in social security transfers as compared to 1975 
+change in debt ratio as compared to 
+1975 
+IA effect between mean difference in capital taxation and change 
+in social security transfers† IA effect between mean 
+average effective capital tax 
+rate 259.636** 
+average effective labor tax 
+rate -1.207** 
+debt ratio 
+(14.782) 
+(0.037) 
+3.577** (0.131) -0.942** (0.041) 0.022** (0.005) 0.323** 
+1.266** (0.110) 0.568** (0.026) 0.011** (0.004) 0.734** 
+-2.489** (0.081) 0.754** (0.009) 
+(0.030) 0.037** (0.008) 
+(0.021) -0.231** (0.017) -0.031** 
+-0.558** (0.022) -0.080** 
+(0.007) 0.002** (0.000) 0.019** (0.001) 
+(0.006) 
+0.977** (0.236) 
+-0.327** 
+(0.025) 1.349** 
+(0.048) -11.073** (0.680) -7.810** (0.814) 2.054** (0.066) 3.072** (0.115) 0.015 (0.011) 
+social security transfers 
+relative redistribution 
+disposable income inequality 
+0.031+ (0.018) -0.025** (0.002) 
+-0.108** (0.005) -0.015** 
+(0.001) 
+0.020** 
+-0.003** 
+0.001** 
+(0.005) 0.385** 
+(0.000) 0.005** 
+(0.000) -0.002** 
+(0.011) 0.137 (0.150) -3.841** (0.179) 0.090** (0.015) 0.218** (0.025) 0.006** (0.002) 
+(0.001) 
+(0.000) 
+-0.016* (0.007) -0.003** (0.001) -0.007** (0.001) 
+0.007* (0.003) 0.001** (0.000) 0.003** (0.001) 
+0.981** (0.102) 0.005** (0.001) 0.000 
+0.212** (0.043) -0.002** (0.000) 0.000 
+(0.000) 0.000+ 
+(0.000) -0.000+ 
+(0.000) -0.000** 
+(0.000) 0.000** 
+43 
+
+========44========
+
+difference in labor taxation and change 
+in social security transfers† ar1: lagged residuals 
+Constant 
+0.926** (0.014) -85.523** (3.364) 
+0.943** (0.017) -27.521** (2.692) 
+0.972** (0.018) 33.214** (2.796) 
+0.927** (0.019) 17.666** (0.627) 
+(0.000) 0.486** (0.027) 0.075+ (0.044) 
+(0.000) 0.495** (0.027) 0.124** (0.019) 
+Observations R-squared 
+513 0.93 
+513 0.94 
+513 0.97 
+513 0.93 
+513 0.58 
+513 0.57 
+44 
+
+========45========
+

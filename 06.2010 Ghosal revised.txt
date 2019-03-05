@@ -1,0 +1,1353 @@
+June 2010 
+No.6 (revised) 
+Behavioural Decisions & Welfare 
+Patricio Dalton and Sayantan Ghosal CentRE, Tillburg University and University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Behavioral Decisions and Welfare 
+Patricio S. Dalton CentER, Tilburg University 
+Sayantan Ghosal University of Warwick 
+December 21, 2010 
+Abstract 
+If decision-makers (DMs) do not always do what is in their best interest, what do choices reveal about welfare? This paper shows how observed choices can reveal whether the DM is acting in her own best interest. We study a framework that relaxes rationality in a way that is common across a variety of seemingly disconnected positive behavioral models and admits the standard rational choice model as a special case. We model a behavioral DM (boundedly rational) who, in contrast to a standard DM (rational), does not fully internalize all the consequences of her own actions on herself. We provide an axiomatic characterization of choice correspondences consistent with behavioral and standard DMs, propose a choice experiment to infer the divergence between choice and welfare, state an existence result for incomplete preferences and show that the choices of behavioral DMs are, typically, sub-optimal. 
+JEL: D03, D60, I30. 
+Keywords: Behavioral Decisions, Revealed and Normative Preferences, Welfare, Axiomatic characterization. 
+We are grateful to Douglas Bernheim, Pablo Beker, Andrés Carvajal, Ernesto Dal Bo, Malena Digiuni, Alex Dobson, Natalia Gonzalez, Peter Hammond, Michael Mandler, Anandi Mani, Paola Manzini, Marco Mariotti, Andrew Oswald, Herakles Polemarchakis, Ariel Rubinstein, Aldo Rustichini, Robert Sugden and Stephan Traub for their helpful comments. This paper was presented at a number of di¤erent conferences including EEA-ESEM 2008 (Bocconi), RES PhD Conference (UCL) and 2010 NETSPAR Conference in The Hague and seminars at ECARES-CORE, Warwick, Tilburg, Queen Mary, Vigo and Alicante. Dalton gratefully acknowledges –nancial support from a EST Marie Curie Fellowship, Royal Economic Society Junior Fellowship and the Warwick Economics Department. Both authors acknowledge support from an ESRC-DFID grant RES-167-25-0364. E-mail: p.s.dalton@uvt.nl. and S.Ghosal@warwick.ac.uk. 
+1 
+
+========2========
+
+Standard normative economics employs the revealed preference approach to extract wel- 
+fare measures from choice data alone. The preferences revealed from the individual™s choices 
+are assumed to be identical to the normative preferences representing the individual™s best 
+interest. There is, however, considerable empirical evidence that in an array of di¤erent sit- 
+uations, individuals do not appear to act in their own best interest, establishing a potential 
+wedge between normative and revealed preferences.1 
+How should welfare analysis be performed if choices do not always reveal decision- 
+makers™(DMs) best interest? One approach, advocated in an in⁄uential contribution by 
+Bernheim and Rangel (2009),2 is to construct a welfare criterion that never overrules choice: 
+x is (strictly) unambiguously chosen over y if y is never chosen when x is available. While 
+this approach can exploit the coherent aspects of choice in a variety of behavioral models, 
+they are silent about situations in which DMs impose an externality on themselves, acting 
+against their own best interest. That is, x may be unambiguously chosen over y, but still be 
+against DM™s best interest. This is particularly relevant for models of addiction, projection 
+bias, aspirations failure or overcon–dence. 
+In light of the above, we propose a di¤erent approach. We focus on identifying the 
+choice structure of a framework that relaxes rationality in a way that is common across a 
+wide variety of seemingly disconnected positive behavioral models and admits the standard 
+rational choice model. We show that choice data is consistent with rational choice if and 
+only if they satisfy Arrow™s (1959) axiom of choice. Choice data that satisfy Cherno¤ ™s 
+(1954) axiom of choice (also Sen™s (1971) axiom  ) is compatible with the behavior of a 
+DM who is not internalizing all the consequences of her choices on herself. In the latter 
+case, preferences revealed from choices may not be an appropriate foundation for making 
+welfare assessments. Choices may be coherent in Bernheim and Rangel™s (2009) sense, but 
+1Loewenstein and Ubel (2008) point out that in the "heat of the moment," people often take actions that they would not have intended to take and that they soon come to regret (Loewenstein, 1996). Koszegi and Rabin (2008) and Beshears et. al. (2008) review empirical evidence of systematic mistakes people make. Bernheim and Rangel (2007) record situations in which it is clear that people act against themselves: an anorexic™s refusal to eat; people save less than what they would like; people fail to take advantage of low interest loans available through life insurance policies; they unsuccessfully attempt to quit smoking; they maintain substantial balances on high-interest credit cards; etc. 
+2See also Rubinstein and Salant (2008). 
+2 
+
+========3========
+
+may not represent the true preferences of the individual.3 
+In our decision model, a DM makes decisions that a¤ect her psychological states (e.g.— 
+a reference point) which, in turn, impacts on her ranking over available alternatives in the 
+–rst place. These psychological states can be interpreted as any pay-o¤ relevant preference 
+parameters that are a¤ected by own choices such us reference points, beliefs, emotions, 
+aspirations, temptations, moods, etc. The DM may fully internalize the e¤ect of her choices 
+on her psychological states, or she may not. If she does fully internalize the feedback from 
+actions to psychological states, she chooses an action and, as a consequence, a psychological 
+state, that maximizes her underlying preferences: this is labelled as a Standard Decision 
+Problem (SDP). If she does not internalize the feedback from actions to psychological states, 
+she chooses an action taking as given her psychological state at the moment she decides, 
+although psychological states and actions are required to be mutually consistent: this is 
+labelled as a Behavioral Decision Problem (BDP). 
+For example, consider a DM who chooses a bundle consisting of both material status 
+and health status, who is fully aware of the risk to her health from a single minded pursuit 
+of material status and who has revealed her preferences for health by, for example, paying 
+for costly treatments. In an SDP the DM will internalize the possible trade-o¤ between her 
+material status and health status when choosing her material status while in a BDP, the 
+DM will take her health status as given and strive to achieve the highest possible material 
+status without internalizing how her choice a¤ects her health. We motivate and illustrate 
+the distinction between an SDP and BDP by means of examples on addiction, loss aversion 
+and dynamic inconsistency. 
+We relate a BDP to the steady-state preferences of an adaptive preference mechanism 
+where agents understand the short-term consequences of their actions but fail to predict 
+the more delayed consequences. We relate an SDP to the steady state preferences of an 
+adaptive preference mechanism where agents internalize all the dynamic consequences of 
+their actions. Using this interpretation, we argue that our general framework uni–es seem- 
+ingly disconnected models in the literature, from more recent positive behavioral economics 
+models to older models. We also provide a new equilibrium existence result in pure actions 
+3Section 5, Remark 3 elaborates on this point. 
+3 
+
+========4========
+
+without complete and/or transitive preferences. A result like that this is important, since 
+incomplete and non-transitive preferences are a common token in behavioral economics 
+models. 
+Next, we provide an axiomatic characterization, via choice correspondences, of both a 
+BDP and SDP, and study the link between choice and welfare. We show that observed 
+choices are compatible with a BDP if and only if the choice data satisfy Cherno¤™s axiom 
+(also Sen™s axiom  ): the choice correspondence is (weakly) increasing as the choice set 
+shrinks when all alternatives chosen in the larger set are also present in the smaller set. This 
+testable condition, which violates independence of irrelevant alternatives, is weaker than 
+the condition (Arrow™s axiom) that characterizes an SDP, i.e. the choice correspondence is 
+exactly the same as the choice set shrinks when all alternatives chosen in the larger set are 
+also present in the smaller set. We then propose a choice experiment where, on the basis of 
+choice data alone, it is possible to infer the divergence between choice and welfare. Notably, 
+it is possible to infer whether a DM could be better-o¤ by choosing an available alternative 
+that she has never chosen. 
+We, then, derive the necessary and su¢ cient conditions under which BDP and SDP 
+outcomes are indistinguishable from each other and show, in smooth settings, that the two 
+decision problems are, generically distinguishable and discuss the normative implications 
+of distinguishable decision problems. We brie⁄y discuss some policy implications of our 
+analysis and relate them to the libertarian paternalism approach (Thaler and Sustein, 2003). 
+We highlight the value of interventions such as psychotherapy that directly a¤ect the way 
+individuals internalize the feedback e¤ect. 
+The rest of the paper is organized as follows. Section 2 motivates the framework of 
+decision-making by looking at examples of addiction, reference-dependent choice and dy- 
+namic inconsistency. Section 3 is devoted to the analysis and interpretation of the decision 
+model and contains the existence result. Section 4 characterizes, on the basis of choice cor- 
+respondences, Behavioral and Standard DMs. Section 5 focuses on distinguishability and 
+Section 6 contains a brief policy discussion. Section 7 relates the analysis reported here 
+to the related literature. The last section concludes and discusses directions for further 
+research. The details of the existence proof are contained in the appendix. 
+4 
+
+========5========
+
+1 Some Examples 
+Example 1: Micro 101 
+Consider a consumer choice problem where the decision maker chooses a commodity 
+bundle (x; y) to maximize a standard utility function subject to a budget constraint. Assume 
+preferences are increasing in both x and y and represented by a utility function u(x; y). The 
+Micro 101 analysis of decision-making in such a setting formulates the maximization problem 
+as one where a –xed preference relation is maximized subject to a budget constraint, i.e. 
+maxfx;ygu(x; y) s:t: pxx + pyy  w; x; y  0: 
+where px > 0 and py > 0 are the prices of x and y respectively and w is the wealth of the 
+individual. A di¤erent (but equivalent) formulation would be to assume that the DM only 
+chooses x; but internalizes that the amount of y consumed will go down if the amount of 
+x consumed is increased via the budget constraint rewritten as y = ˇ(x) = 
+w px 
+py 
+ 
+p 
+x. Thisy second formulation corresponds to a Standard Decision Problem (SDP). The function ˇ(:) 
+is an example of a feedback e¤ect from the action chosen by the DM (in this case x) to a 
+psychological state (in this case y). In contrast in a Behavioral Decision Problem (BDP) the 
+DM, mistakenly, takes y as given when choosing x; although a decision outcome is required 
+to be in some sense stable, i.e. the amount of y that the individual actually gets to consume 
+for any choice of x must be feasible determined by the budget constraint. 
+An outcome of a BDP in this example is any non-negative commodity bundle x; y on 
+the budget line i.e. x+py = w. Clearly, the individual, except in exceptional cases, cannot 
+be utility maximizing at all these commodity bundles and therefore, most outcomes of a 
+BDP will be welfare dominated. 
+Although this example is somewhat arti–cial, it is a special case of general framework 
+where an individual chooses an action a to maximize preferences that, in turn, depend on 
+some psychological state p which is itself a¤ected by the chosen action via a feedback e¤ect 
+ˇ(:). Examples of p include beliefs, moods, self-con–dence, reference points, expectations, 
+temptations, etc. 
+In what follows, we present three more examples illustrating the distinction between 
+a BDP and an SDP. Intuitively, the key distinction between an SDP and a BDP can be 
+5 
+
+========6========
+
+stated as follows: in contrast to a standard DM, a behavioral DM compares actions using the 
+psychological state associated with their chosen action instead of varying the psychological 
+state (via the feedback function ˇ) as they consider alternative actions. As such, a BDP 
+captures the psychological propensity to undertake actions without fully internalizing their 
+full (equivalently, long run) consequences. 
+Example 2: Addiction 
+Consider an agent who is considering whether to drink alcohol. The psychological state 
+will either be sober (if he does not drink) or inebriated (if he does). The payo¤ table below 
+provides a quick summary of the decision problem: 
+alcohol no alcohol 
+inebriated 
+1  2 
+0  2 
+sober 1 + 0 0 + 0 
+In this example, the payo¤s are an additive function of the action-based payo¤ and the 
+psychological state-based payo¤. Alcohol generates utility of 1; no alcohol generates utility 
+of 0. Sobriety generates utility of 0; inebriation generates utility of 
+ 2. 
+An agent who solves an SDP recognizes that he has to choose between the on-diagonal 
+elements. Alcohol goes together with the psychological state of inebriation. No alcohol 
+goes together with the psychological state of sobriety. Hence, the o¤-diagonal paths are not 
+options. 
+However, the behavioral agent mistakenly believes that (or at least acts as if) he can 
+change his alcohol consumption without changing his psychological state. Consequently, 
+the behavioral agent decides to consume alcohol (since alcohol is always better, conditional 
+on a –xed psychological state). Consequently, the BDP chooses to drink alcohol and ends 
+up inebriated (with net payo¤ 
+ 1). This is a mistake in the sense that the agent would be 
+better o¤ if he chose to drink no alcohol and ended up sober (with net payo¤ 0). 
+Example 3: Reference Points with Loss Aversion 
+Consider an agent who is considering whether to switch to a di¤erent service provider 
+(e.g., gas and electricity) from her current one. The psychological state (in this case the 
+reference point) will either be her current supplier (if she sticks with the current supplier) or 
+the alternative supplier (if she makes the change). There are two payo¤ relevant dimensions 
+6 
+
+========7========
+
+of choice with outcome denoted by x1 and x2 and preferences u(x) = x1 + v(x1 
+ r1) + 
+x2 + v(x2 
+ r2) where v(:) is a Kahneman-Tversky value function with v(z) = z if z  0; 
+v(z) = z;  > 2:5 if z < 0 and v(0) = 0. The cost of switching is equal to 0:5. The 
+status-quo option is de–ned by q = (0;1) and the alternative option is a = (2;0). The 
+payo¤ table below provides a quick summary of the decision problem: 
+current supplier alternative supplier 
+status quo 
+1 3:5   
+alternative 2  2  
+1:5 
+In this example, again, the payo¤s are an additive function of the action-based payo¤ 
+and the psychological state-based payo¤. 
+An agent who solves an SDP recognizes that she has to choose between the on diagonal 
+elements. Sticking with the current supplier goes with the reference point status quo. 
+Choosing the alternative supplier goes together with the reference point of the alternative. 
+Hence, the o¤-diagonal paths are not options and the outcome of an SDP will be to switch 
+to the alternative supplier. 
+However, the behavioral agent mistakenly believes that (or at least acts as if) she can 
+choose between the two suppliers without changing her psychological state. Consequently, 
+there are two payo¤ ranked outcomes: one where the behavioral agent sticks with the 
+current supplier and the reference point is status quo, and the other where the agent switches 
+suppliers and the reference point is the alternative. The former choice is a mistake in the 
+sense that the agent would be better o¤ if she chose to switch and ended up with the 
+alternative as the reference point. 
+Example 4: Dynamic Inconsistency 
+Consider a three period problem t = 0;1;2 where a decision-maker has preferences 
+de–ned over a single consumption good ct; t = 0;1;2. The decision maker is endowed with 
+a single unit of the consumption good at t = 0 but has no endowment of the consumption 
+good in either of the subsequent two periods. The agent obtains no utility from consumption 
+at t = 0 but obtains utility from consumption at t = 1;2 with an instantaneous linear utility 
+function c. Assume that the DM quasi-hyperbolically discounts the future with 0 <  < 1 
+and  = 1. 
+7 
+
+========8========
+
+There are two assets: (i) an illiquid asset where one unit invested yields nothing at 
+t = 1 and R > 1 units of the consumption good at t = 2, (ii) a liquid asset where one unit 
+invested at t = 0 yields 1 unit of the consumption good if liquidated at t = 1 and nothing 
+at t = 2; or if not liquidated at t = 1 yields R0 > R units of the consumption good at t = 2. 
+We assume that  < 
+1 
+R0 
+. 
+The DM at t = 0 will choose which asset to invest in in order to maximize  (c1 + c2). 
+At t = 1 the current self of the DM will maximize c1 + c 
+2. To represent the above 
+decision-problem in our framework we proceed as follows. The psychological states of the 
+decision-maker at t = 0 will be p1 ="tempted to liquidate at t = 1", p2 ="not tempted to 
+liquidate at t = 1" (corresponding to not liquidate). Note that at t = 1, if L was chosen at 
+t = 0, the current self of the decision-maker will be tempted and liquidate if R 
+0 
+< 1 i.e. 
+ < 
+1 
+R0 
+. Clearly, the current self of the decision-maker cannot be tempted to liquidate if at 
+t = 0 the decision-maker has invested in the illiquid asset. 
+Therefore, the action "invest in the illiquid asset" goes with the psychological state 
+p2 ="not tempted to liquidate at t = 1" while the action "invest in the illiquid asset" goes 
+with the psychological state p1 ="tempted to liquidate at t = 1". 
+The DM at t = 0 has to decide whether to invest in the liquid or the illiquid asset. A 
+quick summary of the decision problem of the decision-maker at t = 0 is: 
+liquid illiquid 
+tempted 
+1 
+R 
+not tempted 
+R0 
+R 
+In an SDP, the decision-maker will correctly anticipate that the asset chosen today will 
+a¤ect her psychological state at t = 1 and will choose to invest in the illiquid asset and 
+obtain a payo¤ of R > 1. In an SDP the decision-maker exhibits self-control by using a pre- 
+commitment device the illiquid asset. In a BDP, the decision-maker will believe (or act as 
+if) the asset chosen today will not a¤ect her psychological state at t = 1. Interestingly, there 
+is no pure action solution to a BDP. If the psychological state is "tempted", she will choose 
+to invest in the illiquid, but if the psychological state is "not tempted" she will invest in 
+the liquid asset. There is, however, a random solution where the behavioral decision-maker 
+chooses to invest in the liquid asset with probability p = 
+R0  R 
+R0  1 
+: if a behavioral DM believes 
+8 
+
+========9========
+
+nR0 o 
+that the distribution over psychological states is 
+ R  1 
+R0 1 
+; 
+R 
+ R0  1 
+, she is indi¤erent between investing in either the liquid or the illiquid asset and is willing to randomize between the 
+two actions. By computation, it is easily checked that the expected payo¤ from such a 
+random action is less than R; the payo¤ of a standard decision-maker. 
+Remarks: 
+The above examples highlight a number of key features of our framework. 
+First, our framework is general enough to incorporate a wide range of applications in 
+behavioral economics and, in addition, to encompass the standard rational model as a 
+special case (SDP). 
+Second, as highlighted in the examples, in a BDP the DM imposes an externality on 
+herself and the outcomes of a BDP can be welfare dominated. 
+The rest of the paper works out the implications of the latter point. We –rst ask whether 
+it is possible with choice data alone to inform the planner about the type of decision problem 
+the DM is solving. Proposition 2 and 3 tell us that it is possible by observing very simple 
+conditions. Second, we ask whether it is possible with choice data alone to infer whether 
+the individual is choosing optimally or not. Proposition 4 tells us that in some situations, 
+this is possible too. Finally, we ask how likely it is that when the DM solves a BDP he 
+chooses a suboptimal action. Proposition 5 tells us that in smooth settings, the behavioral 
+DM typically chooses suboptimally. 
+2 The General Framework 
+2.1 The Model 
+A decision scenario D = (A; P; ˇ) consists of a set A of actions, a set P of psychological 
+states and a map ˇ : A ! P modelling the feedback e¤ect from actions to psychological 
+states. It is assumed that ˇ (a) is non-empty for each a 2 A. A decision state is a pair of 
+an action and psychological state (a; p) where a 2 A and p 2 P. 
+Although a natural starting point is to assume that preferences over A are indexed by 
+p, following Harsanyi (1954) we assume intra-personal comparability of utility. We assume, 
+not only that the decision-maker is able to rank di¤erent elements in A for a given p but 
+9 
+
+========10========
+
+also that she is able to assess the subjective satisfaction she derives from an action when the 
+psychological state was p, compared to the subjective satisfaction she derives from another 
+action when the psychological state is p0; i.e. to assume that the individual is able to 
+rank elements in A  P. This formulation is critical in order to make meaningful welfare 
+comparisons. 
+The preferences of the decision-maker are denoted by , a binary relation ranking pairs 
+of decision states in (A  P)  (A  P). The expression f(a; p);(a0; p0)g 2 is written as 
+(a; p)  (a0; p0) and is to be read as "(a; p) is weakly preferred to (equivalently, weakly 
+welfare dominates) (a0; p0) by the decision-maker". 
+A consistent state is a decision state (a; p) such that p = ˇ(a). Let 
+
+ = f(a; p) 2 (A  P) : p = ˇ (a) for all a 2 Ag 
+be the set of consistent decision states. 
+The two decision problems studied here are: 
+1. A standard decision problem (SDP) is one where the decision-maker chooses a pair 
+(a; p) within the set of consistent decision states. The outcomes of an SDP, denoted by S, 
+are 
+S = 
+(a; p) 
+2 
+ : ( a; p)  
+ 
+a0; p0 for all 
+ 
+a0; p0 2 
+ 
+	 
+: 
+2. A behavioral decision problem (BDP) is one where the decision maker takes as given 
+the psychological state p when choosing a. De–ne a preference relation p over A as follows: 
+a p a0 , (a; p)  
+ 
+a0; p for p 2 P. 
+The outcomes of a BDP, denoted by B, are 
+B = 
+(a; p) 
+2 
+ : a p a0 for all a0 2 A, p = ˇ(a) 
+	 
+: 
+In both an SDP and a BDP, a decision outcome must be a consistent decision state. 
+In an SDP the decision-maker internalizes that her psychological state is determined by 
+her action via the feedback e¤ect. In a BDP the decision-maker takes the psychological 
+state as given although the chosen action and the psychological state have to be mutually 
+consistent. 
+10 
+
+========11========
+
+2.2 A Dynamic Interpretation 
+Myopic vs. farsighted adjustments 
+We interpret the outcomes of an SDP and a BDP as corresponding to distinct steady- 
+states associated with an adaptive preference mechanism where the DM™s preferences over 
+actions at any t; denoted by pt 
+ 1, depend on her past psychological state 
+pt 
+ 1. The state- ment a pt 
+0 
+1 
+a means that the DM –nds a at least as good as a0, given the psychological 
+state from the preceding period. 
+Let h(p) = fa 2 A : a p a0, a0 2 Ag. For ease of exposition, assume that h(p) is unique. 
+Fix a p0 2 P. De–ne a sequence of short-run outcomes as at 2 h(pt 
+ 1) 
+and pt = ˇ(at) for 
+t = 1;2; :::. and assume that at each step the DM chooses a myopic best-response. De–ne 
+now a long-run outcome as a pair (a; p), where p = ˇ(a) and a is the steady-state solution 
+to the short-run outcome functions, a = h(ˇ(a)): In this setting, a BDP corresponds to the 
+steady state of an adjustment dynamics where the DM is myopic (i.e., does not anticipate 
+that the psychological state at t+1 is a¤ected by the action chosen at t) and, thus, long-run 
+behavior corresponds to the outcome of a BDP.4 
+In contrast, in an SDP, the DM is assumed to be farsighted. The DM anticipates that 
+p adjusts to a according to ˇ(:) and taking this into account, chooses a. Formally, the outcome of an SDP is the steady state solution a satisfying a 2 
+a 
+2 A : a ˇ(a) a0, a0 2 A 
+	 
+and p = ˇ(a). Note that, in this simple framework, the DM solving an SDP instantaneously 
+adjusts to the steady-state outcome. Therefore, the initial psychological state, p0, has no 
+impact on the steady state solution with farsightedness.5 
+Predicting short-run but not long-run psychological states 
+So far we have assumed that agents fail to anticipate the consequences of their choices 
+on their future psychological states, including those psychological states that are a¤ected 
+in the immediate future. Arguably, there are situations in which DMs do understand and 
+anticipate the near-term consequences of their actions (e.g., getting a nicotine rush from 
+4See also Von Weizsacker (1971), Hammond (1976), Pollak (1978) who make a similar point for the case of adaptive preferences de–ned over consumption. 
+5Non-trivial dynamics would be associated with farsighted behavior if underlying preferences or action sets were time variant. 
+11 
+
+========12========
+
+smoking a cigarette) but fail to predict the more delayed consequences (e.g. developing 
+nicotine dependency or lung cancer from smoking).6 We account for these situations as follows. Let h2(p) = h(ˇ(h(p))) and de–ne ht (p) = h 
+ 
+ˇ(ht 
+ 1(p)) 
+iteratively t = 1;2; :::. 
+Fix a p0 2 P and some –nite T  1. De–ne a sequence of short-run outcomes compatible 
+with T-period forecasting as the relations at 2 hT(pt 
+ 1) 
+and pt = ˇ(at), t = 1;2; :::. At each 
+step, the DM chooses a best-response that anticipates the short-run psychological states 
+within a T-period horizon. De–ne now the long-run outcomes compatible with T-period 
+forecasting as a pair a0; p0 with p0 = ˇ(a0) and a0 being the steady-state solution to the short- 
+run outcome function i.e. a0 = hT(ˇ(a0)). It follows that long-run behavior corresponds to 
+the outcome of a BDP where the feedback e¤ect is ˇ0(a) = ˇ(hT 
+ 1(a)). 
+Partial prediction 
+There are situations in which DMs make only partial predictions of the changes in 
+their psychological states. For example, they may be uncertain about the mechanisms 
+through which high stress can be reduced. To model these situations we assume that the 
+DM predicts that her psychological state will respond to her chosen action with prob- 
+ability q, 0  q  1. For convenience, we assume that the binary relation  has an 
+(expected) utility representation u : A  P ! <. Let v(a) = u(a; ˇ(a)), h(p;q) = 
+fa 2 A : a 2 arg maxa2A qv(a) + (1 
+ q)u(a; p)g and assume that h(p;q) is unique. Fix a 
+p0 2 P. Again, we use the similar argument from above, and de–ne a sequence of short- 
+run: at 2 h(pt 
+ 1; 
+q) and pt = ˇ(at), t = 1;2; :::. where at each step, the DM chooses a 
+myopic best-response. We also de–ne long-run outcomes as a pair a; p with p = ˇ(a) and a 
+being the steady-state solution to the short-run outcome functions i.e. a = h(ˇ(a);q). The 
+long-run behavior corresponds to the outcome of a BDP where the preferences are repre- 
+sented by a utility function w(a; p) = qv(a) + (1 
+ q)u(a; p). This formulation is formally 
+equivalent to the modelling of projection bias in Loewenstein et. al. (2003). 
+Note that the above representation is consistent with incomplete learning: as long as 
+the decision-maker doesn™t fully learn to internalize the feedback e¤ect from actions to 
+psychological states, there is way of re-labelling variables so that the steady-state preferences 
+corresponding to an adaptive preference mechanism are the outcomes of a BDP. 
+6See for example Baron (2008) and Beshears et. al (2008) for evidence on these psychological patterns. 
+12 
+
+========13========
+
+2.3 Reduced form representation 
+Various interpretations can be given to p, e.g., psychological state, reference point, expecta- 
+tions or, more generally, any dimension of the object of choice that the individual, for some 
+reason, could take as given at the point of making a choice. Are all of these interpretations 
+consistent with our general theoretical framework? 
+Our analysis assumes that a DM™s well-being depends on both current action and psy- 
+chological state. In some cases, the action causes the psychological state (e.g., where an 
+emotion state (e.g., fear, anxiety, stress) or the reference point adjusts quickly to current 
+actions), but in others (e.g., where the state concerns expectations, endowments or beliefs) 
+the states precedes the action, and in this sense, our de–nition of ﬁconsistent decision stateﬂ 
+is an equilibrium concept.7 
+Consistent with the dynamic interpretation of the general framework, in the de–nition 
+of an SDP, internalization (i.e. rationally anticipating the actual e¤ects of one™s actions) is 
+equivalent to the DM anticipating equilibrium (e.g., one™s own actions is what one expected 
+it to be, or what others expected it to be) and behaving accordingly. 
+It follows that our general framework, by allowing for a feedback e¤ect from actions to 
+the psychological state and by making the distinction between an SDP and a BDP, uni- 
+–es seemingly disconnected models in the literature, from situations where the psychological 
+state corresponds to the decision maker™s status-quo (Tversky and Kahneman, 1991), beliefs 
+(Geanakoplos, Pearce and Stacchetti, 1989; Akerlof and Dickens, 1982), emotions (Bracha 
+and Brown, 2007; Loewenstein, 1996), future tastes (Loewenstein et. al., 2003), (endoge- 
+nous) reference points (Shalev, 2000; Koszegi, 2005; Koszegi and Rabin, 2006; 2007), aspi- 
+rations (Dalton et. al. 2010) or adaptive preferences over consumption (already referred to 
+above). 
+2.4 Stackelberg vs. Nash in an intra-self game 
+In a formal sense, we could also interpret the distinction between an SDP and BDP as 
+corresponding to the Stackelberg and Nash equilibrium of dual self intra-personal game 
+7A similar notion of equilibrium is used in Koszegui and Rabin (2006) and Geanakoplos, Pearce and Stacchetti (1989). 
+13 
+
+========14========
+
+where one self chooses actions a and the other self chooses the psychological state p and 
+ˇ(a) describes the best-response of the latter for each a 2 A. 
+In a Stackelberg equilibrium, the self choosing actions anticipates that the other self 
+chooses a psychological state according to the function ˇ(:). In a Nash equilibrium, both 
+selves take the choices of the other self as given when making its own choices. In this 
+interpretation, it follows that in the welfare analysis reported below, only the preferences 
+of the self that chooses actions is taken into account. 
+2.5 Existence 
+So far we have implicitly assumed that both SDP and BDP are well-de–ned i.e. lead to 
+well de–ned outcomes. In what follows, we check for the existence of solutions to an SDP 
+and a BDP in situations where the underlying preferences are not necessarily complete or 
+transitive and underlying action sets are not necessarily convex. Mandler (2005) shows 
+that incomplete preferences and intransitivity is required for "status quo maintenance" 
+(encompassing endowment e¤ects, loss aversion and willingness to pay-willingness to accept 
+diversity) to be outcome rational. Tversky and Kahneman (1979, 1991) argue that reference 
+dependent preferences may not be convex. So we allow preferences to be incomplete, non- 
+convex and acyclic (and not necessarily transitive) and we show existence of a solution 
+to a BDP extending Ghosal™s (2010) result for normal form games to behavioral decision 
+problems.8 
+Proposition 1. Suppose the map ˇ : A ! P is increasing. Under assumptions of 
+single-crossing, quasi-supermodularity and monotone closure,9 a solution to a BDP exists. 
+Proof. See Appendix.  
+The preceding existence result doesn™t cover situations with payo¤s as in Example 4. 
+In such cases, where there are no pure action solutions to a BDP, what are the possible 
+outcomes? 
+Given that the outcome of a BDP can be interpreted as a Nash equilibrium of a two 
+8The seminal proof for existence of equilibria with incomplete preferences in Shafer and Sonnenschein (1975) requires convexity both for showing the existence of an optimal choice and using Kakutani™s –x-point theorem. 
+9These terms are all de–ned in the appendix below. 
+14 
+
+========15========
+
+person game, as long as A and P are –nite, a behavioral decision outcome involving ran- 
+domization always exists. 
+A di¤erent possibility, referring back to the dynamic interpretation of model, is that 
+in such situations, the sequence of short-run outcomes will cycle. Moreover, under the 
+assumptions required to prove Proposition 1, as shown in the appendix, h(:) is an increasing 
+map of p so that the sequence of short-run outcomes is a (component-wise) increasing 
+sequence (as by assumption is contained in a compact set and therefore, converges to its 
+supremum which is necessarily a BDP). So the existence result covers not only cases where a 
+solution to a BDP (equivalently, a steady-state solution to the myopic preference adjustment 
+mechanism) exists, but also ensures that short-run outcomes converge to a BDP. 
+3 Axiomatic Characterization and Welfare 
+3.1 Choice data compatible with a BDP and an SDP 
+Our model is about two distinctive theories of individual behavior: one characterized as a 
+Standard Decision Problem (SDP) and the other as a Behavioral Decision Problem (BDP). 
+What is the choice structure that characterizes each of these theories? To answer this 
+question, we provide an axiomatic characterization of BDP and SDP outcomes on the basis 
+of choice data alone.10 
+Fix , ˇ : A ! P and a family A of non-empty subsets of A. De–ne two correspon- 
+dences, S and B, from A to A as 
+S(A0) = 
+a 
+: (a; p)  
+ 
+a0; p0 for all a0 2 A0, p0 = ˇ(a0) and p = ˇ(a) 
+	 
+and 
+B(A0) = fa : (a; p)  
+ 
+a0; p for all a0 2 A0 and p = ˇ(a)g; 
+so, the choices corresponding to a standard and behavioral decision problem, respectively. 
+Suppose that we observe a correspondence C from A to A such that C(A0)  A0. 
+We say that SDP (respectively, BDP) rationalizes C if there exist P, ˇ and  such that 
+C(A0) = S(A0) (respectively, C(A0) = B(A0)). 
+10We are grateful to Andres Carvajal for his helpful suggestions on this section of the paper. 
+15 
+
+========16========
+
+Consider the following condition introduced by Cherno¤ (1954) and Sen (1971) (Sen™s 
+Axiom  ) (henceforth Cherno¤™s axiom): 
+Cherno¤ ™s axiom. For all A0; A00  A, if A00  A0 and C(A0) \ A00 is non-empty, then 
+C(A0) \ A00  C(A00): 
+The choice correspondence is (weakly) increasing as the choice set shrinks when all 
+alternatives chosen in the larger set are also present in the smaller set. 
+The following result provides an axiomatic characterization of choice data compatible 
+with a BDP. 
+Proposition 2. Choice data are rationalizable as the outcome of a BDP if and only if 
+Cherno¤ ™s axiom is satis–ed. 
+Proof. (i) We show that if choice data are rationalizable as the outcome of a BDP, 
+then, Cherno¤ ™s axiom holds. 
+Fix , ˇ : A ! P. If 
+a 2 B(A0) = 
+a 
+: (a; p)  
+ 
+a0; p for all a0 2 A0, p = ˇ(a) 
+	 
+and a 2 A00  A0, it follows that 
+a 2 B(A00) = 
+a 
+: (a; p)  
+ 
+a0; p for all a0 2 A0, p = ˇ(a) 
+	 
+: 
+Therefore, C(A0) \ A00  C(A00) as required. 
+(ii) We show that if choice data satis–es Cherno¤ ™s axiom, it is rationalizable as the 
+outcome of a BDP. 
+To this end, we specify ˇ : A ! P so that it is one-to-one and onto. 
+Next we specify preferences : for each non-empty A0  A and a 2 C(A0),  satis–es 
+the condition that (a; p)  (a0; p) for all a0 2 A0, p = ˇ(a). 
+Consider C(A0) for some non-empty A0  A. By construction if a 2 C(A0) ) B(A0) 
+and therefore, C(A0)  B(A0). 
+We need to check that for the above speci–cation of , ˇ : A ! P, B(A0)  C(A0). 
+Suppose to the contrary, there exists a0 2 B(A0) but a0 2= C(A0). It follows that (a0; p0)  
+(b; p0) for all b 2 A0. Since a0 2= C(A0), by construction this is only possible if a0 2 C(B) 
+for some B with A0  B. But, then, by Cherno¤ ™s axiom a0 2 C(A0), a contradiction. 
+Therefore, B(A0)  C(A0). 
+16 
+
+========17========
+
+As C(A0)  B(A0), it follows that C(A0) = B(A0) as required.  
+Next, consider the following condition introduced by Arrow (1959) (henceforth Arrow™s 
+axiom): 
+Arrow™s axiom. If A0  A and C(A) \ A0 is non-empty, then C(A0) = C(A) \ A0: 
+When the set of feasible alternatives shrinks, the choice from the smaller set consists 
+precisely of those alternatives chosen in the larger set and remain feasible, if there is any. 
+The following result provides an axiomatic characterization of choice data compatible 
+with an SDP. 
+Proposition 3. Choice data are rationalizable as the outcome of an SDP if and only if 
+Arrow™s axiom is satis–ed. 
+Proof. (i) We show that if choice data is rationalizable as the outcome of an SDP, then, 
+Arrow™s axiom holds. 
+Fix , ˇ : A ! P. If 
+a 2 S(A0) = 
+( ) 
+a : (a; p)  (a0; p0) for all a0 2 A0, p0 = ˇ(a0) 
+and p = ˇ(a) 
+and A00  A0, it follows that 
+( ) 
+a 2 S(A00) = 
+a : (a; p)  (a0; p0) for all a0 2 A00, p0 = ˇ(a0) 
+: 
+and p = ˇ(a) 
+Therefore, C(A0) \ A00  C(A00). 
+It remains to check that C(A00) = S(A00)  C(A0) \ A00 = S(A0) \ A00. Suppose there 
+exists a0 2 C(A00) = S(A00) but a0 2= S(A0) \ A00. Then,a0 2 A0 but a0 2= S(A0). However, 
+by construction, both (a0; p0)  (a; p) and (a0; p0)  (a; p) for p0 = ˇ(a0) and p = ˇ(a). 
+Therefore, a0 2 S(A0), a contradiction. 
+It follows that C(A00)  C(A0) \ A00 and therefore, C(A00) = C(A0) \ A00 as required. 
+(ii) We show that if choice data satis–es Arrow™s axiom, it is rationalizable as the 
+outcome of an SDP. 
+To this end, we specify ˇ : A ! P so that it is one-to-one and onto. Next we specify 
+preferences : for each non-empty A0  A and a 2 C(A0),  satis–es the condition that 
+(a; p)  (a0; p0) for all a0 2 A0, p = ˇ(a) and p0 = ˇ(a0). Consider C(A0) for some non-empty 
+A0  A. By construction if a 2 C(A0) ) S(A0) and therefore, C(A0)  S(A0). 
+17 
+
+========18========
+
+We need to check that for the above speci–cation of , ˇ : A ! P, S(A0)  C(A0). 
+Suppose to the contrary, there exists a0 2 S(A0) but a0 2= C(A0). It follows that (a0; p0)  
+(b; q) for all b 2 A0 and q = ˇ(b). Since a0 2= C(A0), by construction this is only possible 
+if a0 2 C(A00) for some A00 with A0  A00. But, then, by Arrow™s axiom a0 2 C(A0) a 
+contradiction. Therefore, S(A0)  C(A0). As C(A0)  S(A0), it follows that C(A0) = S(A0) 
+as required.  
+Standard choice theory is falsi–able if Arrow™s axiom holds. Proposition 3 shows that 
+any choice data is compatible with SDP if and only if it is also compatible with the standard 
+choice theory.11 
+Next, by example, we show that if C(:) satis–es Cherno¤ ™s axiom but not Arrow™s axiom 
+it can be rationalized as the outcome of a BDP but not an SDP. Suppose A = fa1; a2; a3g. If 
+C(A) = fa1g but C(fa1; a2g) = fa1; a2g, then C cannot be rationalized as the outcome of an 
+SDP. However, C can be rationalized as the outcome of a BDP by setting P = fp1; p2; p3g, 
+ˇ(a1) = p1, ˇ(a2) = p2, ˇ(a3) = p3, and  such that: 
+a1 
+p1 3 
+p2 1 
+p3 2 
+a2 
+a3 
+2 1 
+2 3 
+1 1 
+In this case, B(A) = fa1g and B(fa1; a2g) = fa1; a2g. 
+Observe that if choice data satis–es the following condition namely that if A0  A and 
+C(A)\A0 is non-empty, then fC(A) \ A0g \C(A0) is the empty set, then such data cannot 
+be rationalized either as the outcome of a BDP or SDP. When the set of feasible alternatives 
+shrinks, the choice from the smaller set does not include any alternative selected from the 
+larger set and remains feasible, if there is any. 
+Manzini and Mariotti (2009) propose a decision-making procedure in which DMs cat- 
+egorize alternatives before choosing (CTC). CTC can rationalize pairwise cycles of choice. 
+For example, suppose A = fa; b; cg and C(A) = fag, C (fa; bg) = fag, C (fb; cg) = fbg but 
+C (fc; ag) = fcg. CTC can rationalize this choice data but BDP can™t as this data is in- 
+consistent with Cherno¤ ™s axiom. However, if C (fc; ag) = fc; ag, the resulting choice data 
+11Masatlioglu and Ok (2005)™s axiomatic characterization of rational choice with status quo bias (exoge- nous to the actions chosen by the decision-maker) satis–es Arrow™s axiom among other axioms. 
+18 
+
+========19========
+
+is consistent with BDP. Masatlioglu, Nakajima and Ozbay (2009), Rubinstein and Salant 
+(2010) also can rationalize pairwise cycles of choice. 
+3.2 Choice and welfare 
+The recent work on welfare analysis of non-rational choice data relies on ordinal (i.e., choice 
+data) information alone to derive a partial preference ordering based on pairwise coherence 
+(Bernheim and Rangel, 2009; Rubinstein and Salant, 2008; Green and Hojman, 2008 and 
+earlier by Sen, 1971). The issue is whether it is possible, solely on choice data alone, to 
+allow for a divergence between choice and welfare.12 To this end, we examine the divergence 
+between choice and welfare while relying solely on choice data. 
+Fix A the set of alternatives. Let Aedenote the set of subsets of A consisting of singletons 
+so that for each a 2 A, fag 2 Ae. The choice data we use is generated by the following 
+choice experiment involving two distinct choice scenarios: 
+Choice Scenario 1: Rank any two choice sets consisting of pairwise comparisons of 
+singleton choice sets, i.e. all pairs fag and fa0g in Ae. 
+For example, if a is smoking and a0 is not-smoking, fa0g is a situation in which the 
+option of smoking is not available, and the only available option is "not smoking" (i.e. go 
+for dinner to a non-smoking restaurant) and fag is a situation in which the option of "not 
+smoking" is not available and the only available option is to smoke (i.e. go for dinner to a 
+restaurant that only admits smokers). 
+Choice Scenario 2: Rank the two actions in the choice set where both actions used in 
+the preceding pairwise comparison are already available, i.e. actions in fa; a0g for each such 
+pair of actions. 
+For example, choose between smoking and not smoking over dinner in a restaurant where 
+both choices are already available. 
+The interpretation is as follows. Across all possible pairwise comparisons of actions 
+a; a0 2 A, in choice scenario 1, the decision maker is being asked to choose between a 
+12The result reported in the preceeding subsection suggests that when the observed choice data violates Cherno¤ but not Arrow, there is at least an argument for further non-choice data (such as psychological data) to potentially qualify the Pareto approach. For example, Green and Hojman (2008) study divergence between choice and welfare which relies on use of cardinal information. 
+19 
+
+========20========
+
+situation where only action a is available and another one where only action a0 is available. 
+In choice scenario 2, the DM has to choose between a and a0 when both actions are already 
+available. 
+For each pair of actions a; a0 2 A, suppose we observe two non-empty correspondences 
+C~(fag;fa0g)  (a; a0) and C(a; a0)  (a; a0). Consider the following two conditions: 
+C 1e . C~(fag;fa0g) = C(a; a0), for all a; a0 2 A; 
+C 2e . C~(fag;fa0g) \ C(a; a0) is empty for some a; a0 2 A. 
+Condition C 1e states that in any pairwise comparison of fag;fa0g 2 Ae, the DM prefers 
+fag to fa0g if and only if the DM chooses a over a0 when both actions are already available. 
+Condition C 2e states that the DM™s choices are reversed when both actions are already 
+available relative to the DM™s choice between singleton sets. 
+The following proposition clari–es the relationship between choice and welfare in our 
+set-up: 
+Proposition 4. Suppose there is a pair of actions a; a0 such that C 1e is violated and C 2e 
+is satis–ed. Then, the decision-maker™s observed choice in the pairwise comparison between 
+a and a0 is welfare dominated. 
+Proof. In choice scenario 1, the DM, whether behavioral or standard, in any pairwise 
+comparison fag;fa0g 2 Ae, the DM is being forced to choose between the pair (a; ˇ (a)) 
+and (a0; ˇ (a0)); i.e. between consistent decision-states. Therefore, for any pair of actions 
+a; a0 2 A, C~(fag;fa0g) = S(a; a0). It follows that if the DM solves an SDP, observed choice 
+must satisfy condition C 1e . 
+On the other hand, if the DM is behavioral, C 1e could be violated. We show this by 
+example. Let A = fa1; a2g, P = fp1; p2g, ˇ(a1) = p1 and ˇ (a2) = p2 and  is such that 
+a1 
+p1 1 
+p2  1 
+a2 
+2 
+0 
+Clearly S(A) = C~(fa1g;fa2g) = C(a1; a2) = a1 but B(A) = a2. 
+Now, suppose C 2e is satis–ed for some pair of actions a; a0 2 A. Without loss of general- 
+ity, suppose C~(fag;fa0g) = S(a; a0) = a but C~(fag;fa0g) \ C(a; a0) is empty. Then, there 
+exists P and ˇ : A ! P such that (a; ˇ (a)) ˜ (a0; ˇ (a0)) but both (a0; ˇ (a)) ˜ (a; ˇ (a)) and 
+20 
+
+========21========
+
+(a0; ˇ (a0))  (a; ˇ (a0)) so that B(a; a0) = C(a; a0) = a0. Therefore, the decision maker can 
+do strictly better by choosing a di¤erent action a when both actions are already available. 
+Note that the preference relation derived by pairwise coherence as in Bernheim and 
+Rangel (2009) would rank a0 over a. However, we conclude that the individual is better o¤ 
+at a than at a0 even though the individual always chooses a0 when both a and a0 are already 
+available. 
+Continuing with the example of smoking, a behavioral smoker will prefer fa0g to fag but 
+will smoke when both a; a0 are already available thus revealing a preference for not having 
+the alternative to smoke. A standard smoker (one who chooses to smoke after internalizing 
+the feedback e¤ect) will never choose situation fa0g in which "smoking" is not a possibility. 
+4 Indistinguishability 
+How relevant is the distinction between a BDP and an SDP? In this section, we derive the 
+necessary and su¢ cient conditions under which BDP and SDP outcomes are indistinguish- 
+able from one another and show, in smooth settings, that the two decision problems are, 
+generically, distinguishable. 
+A BDP is indistinguishable from an SDP if and only if B = S. Note that indistin- 
+guishability is, from a normative viewpoint, a compelling property. What matters for 
+welfare purposes is the ranking of consistent decision states, which is the preference relation 
+that a standard decision maker will use to make a decision. When B = S, the outcomes 
+(consistent decision states) of an SDP coincide with that of a BDP, and therefore whether 
+or not the decision maker internalizes the feedback e¤ect has no normative implications at 
+all. 
+If ˇ (a) = ˇ (a0) for all a; a0 2 A, a BDP is, by construction, indistinguishable from an 
+SDP13. So suppose ˇ(a) 6 = ˇ(a0) for some pair of distinct actions a; a0. 
+Consider the following conditions: 
+C 1^ : For (a; p), (a0; p0) 2 
+ if (a; p)  (a0; p), then (a; p)  (a0; p0); 
+C 2^ : For (a; p), (a0; p0) 2 
+ such that (a; p)  (a0; p0), (a; p)  (a0; p). 
+13In this case, 
+p is exogenous to individual choice and therefore, both, standard and behavioral decision makers rank actions in the same way. 
+21 
+
+========22========
+
+Fix the consistent states (a; p), (a0; p0). Condition (C^1) states that if the action a 
+weakly dominates the action a0 at the psychological state p, then the pair (a; p) also weakly 
+dominates the pair (a0; p0). Condition (C^2) states that if the pair (a; p) weakly dominates 
+the pair (a0; p0), then the action a weakly dominates the action a0 at the psychological state 
+p. 
+Clearly under (C^1), B  S and if B  S that (C^1) has to hold is also immediate (from 
+negating (C^1) and the de–nition of B and S). Similarly, under (C^2), S  B and if S  B 
+(C^1) has to hold is also immediate (from negating (C^2) and the de–nition of B and S). It 
+follows that (C^1) and (C^2) are necessary and su¢ cient conditions for indistinguishability: 
+Lemma 1. Suppose that both B and S are non-empty. Then, (i) B  S if and only if 
+(C^1) holds. (ii) S  B if and only if (C^2) holds. 
+Note that preferences in Example 1 violate (C^1) but satisfy (C^2) while the preferences 
+in Example 2 violate both (C^1) and (C^2). Shalev (2000) shows (in Theorem 1 of his paper) 
+that in the static case his loss averse preferences satisfy both (C^1) and (C^2). Geanakoplos, 
+Pearce and Stacchetti (1989) construct examples where, with one active player, both (C^1) 
+and (C^2) are violated. 
+To further understand the conditions under which indistinguishability occurs, it is con- 
+venient to look at smooth decision problems where decision outcomes are characterized by 
+–rst-order conditions. We show that for the case of smooth decision problems, behavioral 
+decisions are generically distinguishable from standard decisions. 
+A decision problem is smooth if (a) both A and P are convex, open sets in <k and 
+<n respectively, (b) preferences over A  P are represented by a smooth, concave utility 
+function u : A  P ! < and (c) the feedback map ˇ : A ! P is also smooth and concave. 
+A set of decision problems that satis–es the smoothness assumptions is diverse if and 
+only if for each (a; p) 2 A  P it contains the decision problem with utility function and 
+feedback e¤ect de–ned, in the neighborhood of (a; p), by 
+u + p 
+and 
+ˇ 
+ (a0 
+ a) 
+22 
+
+========23========
+
+for each a0 in a neighborhood of a and for parameters (; ) in a neighborhood of 0. 
+A property holds generically if and only if it holds for a set of decision problems of full 
+Lebesgue measure within the set of diverse smooth decision problems. 
+Proposition 5: For a diverse set of smooth decision problems, a standard decision 
+problem is generically distinguishable from a behavioral decision problem. 
+Proof: Let v(a) = u(a; ˇ(a)). 
+The outcome (^a;p^) of an SDP satis–es the –rst-order condition 
+@av(^a) = @au(^a; ˇ(^a)) + @pu(^a; ˇ(^a))@aˇ(^a) = 0 (1) 
+while the outcome (a; p) of a BDP satis–es the –rst-order condition 
+@au(a; p) = 0; p = ˇ(a): 
+(2) 
+For (a; p) = (^a;p^), it must be the case that 
+@pu(a; p)@aˇ(a) = 0: 
+(3) 
+It is easily checked that requiring both (C^1) and (C^2) to hold is equivalent to requiring 
+that the preceding equation also holds. 
+Consider a decision problem with (a; p) = (^a;p^). Perturbations of the utility function 
+and the feedback e¤ect do not a¤ect (2) and hence (a; p) but they do a¤ect (3) and via 
+(1) a¤ect (^a;p^). Therefore, (a; p) 6 = (^a;p^) generically.  
+Eq. (3) shows in a simple quick way that BDP and SDP are indistinguishable only in 
+isolated cases (e.g., when ˇ(a) or u(a; p) are just constants).14 
+Remarks on Distinguishability and Welfare: 
+14Note that if payo¤s over actions have a value function component á la Kahneman and Tversky (where the psychological state is a reference point), the decision problem isn™t necessarily smooth or even concave. We note that the –rst-order approach adopted in Proposition 5 can be extended to non-smooth decision problems as long preferences are concave overall (even though an individual component such as a value function may be non-concave). This would cover cases where u(a; p) = f(a) +g(a  p) where g(:) is a Kahneman-Tversky value function with loss aversion and u(a; p) is concave in a for any –xed p and v(a) = f(a) + g(a  ˇ(a)) is concave in a. This would be the case when f(a) is concave and g(:) is piece-wise linear with a kink at zero. Essentially, we will need to work with the subgradient of v(:) and u(:) and note that at an action a is an interior optimum of v(:) if and only if it is contained in the subgradient of v(a) and for each –xed p, an action a; p is an interior optimum of u(a; p) if and only if it is contained in the subgradient (with respect to a) of u(a; p) (Hiriart-Urruty and Lemarechal (2001)). 
+23 
+
+========24========
+
+1. In a distinguishable decision problem, the outcomes of an SDP provide the relevant 
+normative benchmark. For example, in the three period decision-problem with the dynamic 
+inconsistency we studied in Section 2, the relevant benchmark was the preferences of the 
+DM at t = 0. Moreover, in a distinguishable decision problem, the outcomes of a BDP have 
+properties very similar to those of two person normal form games. 
+2. Given the above results on distinguishability, whenever a choice correspondence 
+satis–es Cherno¤™s axiom (Proposition 2), there would seem to imply a strong case for 
+paternalistic interventions. However, the caveat to note is that the potential for welfare 
+improvement by adopting paternalistic interventions will be limited by the information a 
+social planner has. 
+3. The framework of decision making studied here takes the position that psychological 
+states are normatively relevant. In contrast, in an in⁄uential contribution, Bernheim and 
+Rangel (2009) adopt the normative position that what matters for welfare is a binary relation 
+constructed solely on actions. The issue is whether the ranking over actions using the binary 
+relation in BR constructed solely on the basis of observed choices coincides with the –xed 
+underlying preference relation % over the set of consistent decision states. Observe that 
+the ranking of the preference relation  over the set of consistent decision states directly 
+induces a unique ranking of actions (a; ˇ(a))  (a0; ˇ(a0)). Does this make sense as a BR 
+ranking? Clearly, one necessary condition for this to make sense is that there are no a and 
+a0 such that (i) (a; ˇ(a)) ˜ (a0; ˇ(a0)) and (ii) for all p, (a0; p) ˜ (a; p) (as in this case for 
+BR a0 is preferred a). Notice that the conjunction of (i) and (ii) is ruled out whenever the 
+decision problems are indistinguishable. As already pointed out, Example 2 shows how this 
+condition may fail.15 
+15Dalton and Ghosal (2010) distinguish between a pre-decision and a post-decision frame and, using this distinction, examine the relation between the normative implications of decision problems with endogeneous frames to choice with frames and ancillary conditions studied by Bernheim and Rangel (2009) and Rubinstein and Salant (2008). 
+24 
+
+========25========
+
+5 Policy Discussion 
+Although the aim of this paper is not to provide policy recommendations, we devote this 
+last section to mention some novel policy implications for behavioral economics which are 
+directly implied by our framework. 
+One policy recommendation that has attracted attention in the last years is what Thaler 
+and Sustein (2003) called libertarian paternalism. It is argued that, in the cases in which 
+the choice is reference-dependent (e.g., status quo bias or default option bias), the social 
+planner should choose the reference point or default option in order to steer people™s choices 
+in desirable directions. In this way, the social planner would achieve her goal of maximizing 
+people™s welfare without forcing anybody to do anything they wouldn™t normally do. 
+To what extent are Thaler and Sustein™s (2003) conclusions a¤ected when reference 
+points adjust quickly to actions? The answer to this question depends on the number of 
+solutions of a BDP. If there are multiple welfare ranked BDP outcomes, as in Example 3 
+(status-quo), then the interventions that determine an initial reference point might have an 
+impact by selecting which steady-state preferences the decision-maker converges to. 
+However, if there is a unique BDP outcome or no pure action to a BDP, then the initial 
+policy-determined reference point will not have an impact on the steady state preferences 
+to which the decision-maker with adaptive preferences converges to. In such cases, any 
+intervention that increases the probability with which the DM internalizes the (sometimes 
+unconscious) mechanism guiding her behavior and a¤ecting her welfare will be individual 
+welfare improving. An example of such intervention is psychotherapy, which has been 
+shown to be an e¤ective device in helping people to learn how to cope with stress, anger, 
+fear, anxiety or low motivation (Lazarus, 1984; Hawton et. al, 1989). The case for such 
+intervention is stronger in cases in which the planner has incomplete information about 
+individuals™preferences. 
+To illustrate our point, consider Example 2 (addiction) where there is a unique outcome 
+of a BDP which is di¤erent from the unique outcome of the SDP. In this example, if 
+the individual doesn™t take the feedback e¤ect from actions to psychological states into 
+account, she always chooses to drink alcohol; however, the reverse would be true, if she 
+25 
+
+========26========
+
+took the feedback e¤ect (that being inebriated goes with drinking alcohol) into account. 
+Let  , 0    1, denote the probability with which the individual does take the feedback 
+e¤ect into account. Then, given the psychological state of sober, the payo¤ from choosing 
+to drink is  (  1) + (1 
+ 
+ )(  1) = 
+ 1 while the payo¤ from choosing not to drink is 
+: 0 + (1 
+  )(  2) = 
+ 2(1 
+  ). Clearly, if  > 
+1 
+2, the individual will not be tempted to drink in the –rst place. To complete the computation note that given the psychological 
+state inebriated, the payo¤ from choosing to drink is  ( 1) + (1 
+payo¤ from choosing not to drink is : 0 + (1 
+individual will not choose to drink. 
+ 
+  ) = 1 
+ 2  while the 
+  ) = 1 
+  so that again if  > 
+1 
+2, the 
+In Example 4, there is no pure action outcome to the BDP. If the individual takes the 
+feedback e¤ect into account with probability  . Given the psychological state of "tempted", 
+the payo¤ from investing in the liquid asset is  (1) + (1 
+  )(1) = 1 while the payo¤ from 
+investing in the illiquid asset is :R +(1  )(R) = R. Since R > 1; the individual will always 
+ 
+choose to invest in the illiquid asset when she is tempted. Now, given the psychological 
+state of "not tempted", the payo¤ from investing in the liquid asset is  (1) + (1 
+  )R0 = 
+R0 
+  (R0 
+ 1) while the payo¤ from investing in the illiquid asset is R. Again, if  > 
+R0 
+R0 
+the individual will invest in the liquid asset. 
+6 Related Literature 
+ R  1 
+, 
+There is emerging literature in economics aiming to understand how welfare analysis should 
+be performed in the presence of non-standard decision makers.16 
+This literature can be 
+divided into two di¤erent approaches. One approach maintains choices as a foundation for 
+normative analysis (Bernheim and Rangel, 2009 and Rubinstein and Salant, 2008) and an- 
+other approach rejects choice altogether as a foundation for normative analysis and proposes 
+alternative measures of individual welfare based on an individual™s happiness (Kahneman 
+et. al., 1997), opportunities (Sugden, 2004) or capabilities (Sen, 1985). 
+Our paper is somehow orthogonal to these two approaches. In our framework, choices 
+are valid for welfare analysis, not because they may reveal normative preferences, but more 
+16See Bernheim (2009) for a discussion of this literature. 
+26 
+
+========27========
+
+importantly because they allow us to distinguish typically suboptimal behavior from rational 
+behavior. 
+There is also emerging literature that provides axiomatic characterizations of decision- 
+making models with some particular behavioral ⁄avour. Manzini and Mariotti (2009), for 
+example, assume that DMs categorize alternatives before choosing (CTC). They show that 
+choice data is rationalizable by CTC only if it is rationalizable by the Rational Shortlist 
+Method (Manzini and Mariotti, 2007). They also show that choice data is rationalizable by 
+CTC if and only if it can also be rationalized in the sense of Cherepanov, Feddersen and 
+Sandroni (2008). Unlike these models, which can rationalize pairwise cycles of choice, BDP 
+cannot, as it is inconsistent with Cherfno¤™s condition. Therefore, there are choice data 
+that can™t be rationalized as the outcome of a BDP but can be rationalized as the outcome 
+of a Rational Shortlist Method and also rationalized in the sense of Cherepanov, Feddersen 
+and Sandroni (2008). 
+We should mention Masatlioglu and Ok (2005), whose work is also related to our paper, 
+as they characterize a decision-making model that allows for the presence of a status quo 
+bias. Like us (as well as Manzini and Mariotti, 2007; 2009), Masatlioglu and Ok (2005) 
+adopt the revealed preference approach and incorporate the standard choice theory as a 
+special case. A major di¤erence between their paper and the present work, however, is that 
+we allow problems with endogenous status quo as well in our domain of choice problems. 
+Our paper is also related to recent literature that aims at eliciting welfare preferences 
+of non-standard DMs. Masatlioglu, Nakajima and Ozbay (2009), for example, show how 
+preferences corresponding to a decision maker with limited attention can be identi–ed. 
+Rubinstein and Salant (2010) elicit the individual™s welfare preferences when the decision 
+maker reacts to di¤erent payo¤-irrelevant circumstances. Unlike these papers, our focus 
+here is not on the identi–cation of normative preferences of the behavioral decision maker 
+but on the identi–cation of the choice structure consistent with her behavior. In that 
+sense, our paper is more closely related to a recent paper by Manzini and Mariotti (2010), 
+who model mood-dependent choice and characterize their structure in terms of consistency 
+requirements of the observed choice data. Unlike us, their framework is silent about the 
+fact that choices also may a¤ect mood. 
+27 
+
+========28========
+
+We should also mention the work of Koszegi (2010) and Koszegi and Rabin (2006) that 
+models endogenous reference-dependent preferences. While they focus on the positive im- 
+plications of their model, we focus on the normative implications. Moreover, we contribute 
+to this literature by providing testable restrictions against which actual choice data can in 
+principle be compared. 
+Finally, our framework has some shared features with the concept of projection bias 
+introduced by Loewenstein et. al. (2003). People with projection bias tend to exaggerate 
+the degree to which their future tastes will resemble their current state. Projection bias 
+provides a possible explanation of why DMs may solve a BDP instead of an SDP in some 
+particular situations. For example, projection bias can explain why behavioral DMs get 
+trapped in addiction or overconsumption of durable goods. However, projection bias cannot 
+account for all the models encompassed in BDPs. This is the case, for instance, for models 
+of cognitive dissonance or aspirations. 
+7 Concluding Remarks 
+Unlike much existing work that focuses on a speci–c behavioral procedure of choice, our 
+paper provides an axiomatic characterization of the choice theoretical structure of a large 
+set of seemingly disconnected behavioral procedures. We showed that if observed behavior is 
+consistent with Cherno¤ ™s axiom, it is consistent with a DM who doesn™t fully internalize all 
+the consequences of her actions. We showed that, typically, when this condition is satis–ed, 
+individual behavior is distinguishable i.e., sub-optimal. In addition, we have proposed a 
+choice experiment that allows inferring the divergence between choice and welfare on the 
+basis of choice data alone. 
+This paper opens some interesting avenues for further research. 
+First, since our model is fully characterized in terms of a simple condition on observable 
+choices, this permits direct, simple and nonparametric tests of the model. It is possible 
+to design a choice experiment to test whether the observed behavior satis–es the axioms 
+characterizing behavioral and standard decisions in contrast to the axioms characterizing 
+other decision making procedures. Such an experiment should be able to elicit the entire 
+28 
+
+========29========
+
+choice functions from each subject, over the domain of all subsets of a grand set of all 
+alternatives. 
+A second route that one can take is to extend our framework to an N-person strategic 
+context in which players™payo¤s are not only a¤ected by individual actions and endogenous 
+psychological states but also by others actions and endogenous psychological states. For 
+example, one can de–ne empathy as the capacity to forecast other players internal decision 
+process. A player who has the capacity to empathize should be able to predict and under- 
+stand others™actions and intentions, with important positive and normative implications. 
+References 
+[1] Akerlof, George, and William Dickens. 1982. "The Economic Consequences of 
+Cognitive Dissonance." American Economic Review, 72(3), 307-319. 
+[2] Arrow, Keneth. 1959. "Rational Choice Functions and Orderings." Economica, 26, 
+121-127 
+[3] Baron, Jonathan. 2008. Thinking and Deciding. Cambridge University Press, New 
+York. 
+[4] Bergstrom, Theodore. 1975. "Maximal elements of acyclic relations on compact 
+sets." Journal of Economic Theory, 10(3), 403-404. 
+[5] Bernheim, B. Douglas. 2009. "Behavioral Welfare Economics." Journal of the Eu- 
+ropean Economic Association, 7 (2-3):267-319 
+[6] Bernheim, B. Douglas,. and Antonio Rangel. 2007. "Behavioral Public Eco- 
+nomics: Welfare and Policy Analysis with Non-Standard Decision-Makers." in Be- 
+havioral Economics and its Applications, Peter Diamond and Hannu Vartiainen, eds., 
+Princeton University Press, Princeton. 
+[7] ______________________ .2009. "Beyond Revealed Preference: Choice- 
+Theoretic Foundations for Behavioral Welfare Economics." Quarterly Journal of Eco- 
+nomics, 124, 51-104. 
+29 
+
+========30========
+
+[8] Beshears, John, James J. Choi, David Laibson and Brigitte C. Madrian. 
+2008. "How are preferences revealed?" Journal of Public Economics, 92, 1787-1794. 
+[9] Bracha, Anat. and Donald J. Brown. 2007. "A¤ective Decision Making: A Be- 
+havioral Theory of Choice." Cowles Foundation Discussion Paper No. 1633. 
+[10] Cherepanov, Vadim, Timothy Feddersen and Alvaro Sandroni. 2008. ﬁRatio- 
+nalization." mimeo, Northwestern University. 
+[11] Cherno¤, Herman. 1954. "Rational Selection of Decision Functions." Econometrica, 
+22, 4, 422-443. 
+[12] Dalton, Patricio S. and Sayantan Ghosal. 2010. "Decisions with Endogenous 
+Frames." mimeo, University of Warwick. 
+[13] Dalton, Patricio S., Anandi Mani and Sayantan Ghosal. 2010. "Poverty and 
+Aspirations Failure," CAGE Working Paper Series, 2010-22 
+[14] Debreu, Gerard. 1959. Theory of Value, Wiley, New York 
+[15] Geanakoplos, John, David Pearce and Ennio Stacchetti. 1989. "Psychological 
+Games and Sequential Rationality." Games and Economic Behavior, 1, 60-79. 
+[16] Green Jerry and Daniel Hojman. 2008. "Choice, Rationality and Welfare Mea- 
+surement." mimeo, Harvard University 
+[17] Ghosal, Sayantan. 2010. "Non-convexity, Complementarity and Incomplete Prefer- 
+ences." mimeo, University of Warwick 
+[18] Hammond, Peter J. 1976. "Endogenous Tastes and Stable Long-Run Choice." Jour- 
+nal of Economic Theory, 13, 329-340. 
+[19] Harsanyi, John. 1954. "Welfare Economics of Variable Tastes." Review of Economics 
+Studies. 3(21), 204-13. 
+[20] Hawton, Keith, Paul M. Salkovskis, Joan Kirk, and David Clark. 1989. Cogni- 
+tive Behavior Therapy for Psychiatric Problems: A Practical Guide. Oxford University 
+Press, Oxford. 
+30 
+
+========31========
+
+[21] Hiriart-Urruty, Jean Baptiste, and Claude Lemarechal. 2000. Fundamentals of 
+Convex Analysis. Springer, Berlin. 
+[22] Kahneman, Daniel, and Amos Tversky. 1979. "Prospect Theory: An analysis of 
+Decision under Risk." Econometrica, 47(2), 263-91. 
+[23] Kahneman, Daniel, Peter P. Wakker and Rakesh. Sarin. 1997. "Back to Ben- 
+tham? Explorations of Experienced Utility." Quarterly Journal of Economics, 112, 
+375-406 
+[24] Koszegi, Botond. 2010. "Utility from Anticipation and Personal Equilibrium." Eco- 
+nomic Theory, 44, 415Œ444 
+[25] Koszegi, Botond and Mathew Rabin. 2006. "A model of reference-dependent 
+preferences." Quarterly Journal of Economics, 121(4), 1133-1165. 
+[26] _____________________.2007. "Reference-Dependent Risk Attitudes." 
+American Economic Review,. 97(4), 1047-1073 
+[27] _____________________.2008. "Choices, situations and happiness." Jour- 
+nal of Public Economics, 92, 1821-1832 
+[28] Lazarus Richard S. and Susan Folkman. 1984. Stress, Appraisal and Coping. 
+Springer, New York. 
+[29] Loewenstein, George. 1996. "Out of Control: Visceral In⁄uences on Behavior." 
+Organizational Behavior and Human Decision Processes, 65, 272-292. 
+[30] Loewenstein George, Ted O™Donoghue and Mathew Rabin. 2003. "Projection 
+Bias In Predicting Future Utility." Quarterly Journal of Economics, 118(4),1209-1248. 
+[31] Loewenstein, George and Emily Haisley. 2008. "The Economist as Therapist: 
+Methodological issues raised by light Paternalism." in Caplin A., Schotter A. (eds.), 
+Perspectives on the Future of Economics: Positive and Normative Foundations, vol. 1, 
+Handbook of Economic Methodologies, Oxford University Press, Oxford. 
+31 
+
+========32========
+
+[32] Loewenstein, George and Peter A. Ubel. 2008. "Hedonic Adaptation and the role 
+of Decision and Experience Utility in Public Policy." Journal of Public Economics, 92, 
+1795-1810. 
+[33] Mandler, Michael. 2005. "Incomplete preferences and rational intransitivity of 
+choice." Games and Economic Behavior, 50, 255-277. 
+[34] Manzini, Paola. and Marco Mariotti. 2007. "Sequentially Rationalizable Choice." 
+American Economic Review, 97(5), 1824-1839. 
+[35] _______________________. 2009. "Categorize Then Choose: Boundedly 
+Rational Choice and Welfare." mimeo, Queen Mary, University of London. 
+[36] _______________________. 2009. "Moody Choice." IZA Discussion Pa- 
+pers 5005 
+[37] Masatlioglu, Yusufcan, Daisuke Nakajima and Erkut Y. Ozbay. 2009. "Re- 
+vealed Attention." mimeo, University of Michigan. 
+[38] Masatlioglu, Yusufcan, and Efe A. Ok. 2005 "Rational choice with status quo 
+bias." Journal of Economic Theory, 121, 1-29. 
+[39] Milgrom, Paul. and Chris Shannon. 1994. "Monotone comparative statics." 
+Econometrica, 62, 157-180. 
+[40] Pollak, Robert A. 1978. "Endogenous Tastes in Demand and Welfare Analysis." 
+American Economic Review, 68, 2, Papers and Proceedings, 374-379. 
+[41] Rubinstein Ariel and Salant Yuval. 2008. "Choice with Frames." Review of Eco- 
+nomic Studies, 75, 4, 1287-1296. 
+[42] ______________________.2010. "Eliciting Welfare Preferences from Be- 
+havioral Datasets." mimeo, New York University. 
+[43] Sen, Amartya. 1971. "Choice Functions and Revealed Preferences." Review of Eco- 
+nomic Studies, 38, 307-317 
+32 
+
+========33========
+
+[44] Sen, Amartya. 1985. Commodities and Capabilities, North Holland, Amsterdam. 
+[45] Shafer, Wayne. and Hugo Sonnenschein. 1975. "Equilibrium in Abstract Economies 
+without Ordered Preferences." Journal of Mathematical Economics, 2, 345-348. 
+[46] Shalev, Jonathan. 2000. "Loss Aversion Equilibrium." International Journal of 
+Game Theory, 29, 269-87. 
+[47] Scho–el, Norman. 1984. "Existence of Equilibrium in a Manifold." Mathematics of 
+Operations Research, 9, 545-557. 
+[48] Sugden, Robert. 2004. "The Opportunity Criterion: Consumer Sovereignty without 
+the Assumption of Coherent Preferences." American Economic Review, 94(4), pp 1014- 
+1033 
+[49] Thaler, Richard and Cass Sustein. 2003. "Libertarian Paternalism." American 
+Economic Review, Papers and Proceedings, 93, 2, 175-179 
+[50] Tversky, Amos and Daniel Kahneman. 1991. "Loss aversion in Riskless Choice: 
+A reference-dependent model." Quarterly Journal of Economics, 106(4), 1039-1061 
+[51] von Weizsacker Carl C. 1971. "Notes on Endogenous Change of Tastes." Journal 
+of Economic Theory, 3, 345-72. 
+A Appendix 
+Proof of Proposition 1: Existence Result 
+Recall that the preferences of the DM is denoted by  a binary relation ranking pairs 
+of decision states in (A  P)  (A  P). As the focus is on incomplete preferences, in 
+this section, instead of working with , we –nd it convenient to specify two other prefer- 
+ence relations, ˜ and ˘. The expression f(a; p);(a0; p0)g 2˜ is written as (a; p) ˜ (a0; p0) 
+and is to be read as "(a; p) is strictly preferred to (a0; p0) by the DM". The expression 
+f(a; p);(a0; p0)g 2˘ is written as (a; p) ˘ (a0; p0) and is to be read as "(a; p) is indi¤erent to 
+(a0; p0) by the DM". De–ne 
+(a; p)  (a0; p0) , either (a; p) ˜ (a0; p0) or (a; p) ˘ (a0; p0): 
+33 
+
+========34========
+
+Once  is de–ned in this way, the results obtained in the preceding sections continue to 
+apply. In what follows, we do not require either  or ˜ or ˘ to be transitive 
+Scho–eld (1984) shows that if action sets are convex or are smooth manifolds with a 
+special topological property, the (global) convexity assumption made by Shafer and Sonnen- 
+schein (1975) can be replaced by a "local" convexity restriction, which, in turn, is equivalent 
+to a local version of acyclicity (and which guarantees the existence of a maximal element). 
+However, here, as action sets are not necessarily convex and are allowed to be a collection 
+of discrete points, Scho–eld™s equivalence does not apply. 
+Suppose ˜ is 
+(i) acyclic i.e. there is no –nite set 
+(a1; p1); :::;(aT; pT) 	 
+such that (at 
+ 1; pt  1) 
+˜ (at; pt), 
+t = 2; :::; T, and (aT; pT) ˜ (a1; p1), and 
+(ii) ˜ 
+ 1 
+(a; p) = f(a0; p0) 2 A  P : (a; p) ˜ (a0; p0)g is open relative to A  P i.e. ˜ has 
+an open lower section17. 
+Suppose both A and P are compact. Then, by Bergstrom (1975), it follows that S is 
+non-empty. 
+De–ne 
+a ˜p a0 , (a; p) ˜ (a0; p): 
+The preference relation ˜pis a map, ˜: P ! A  A. If ˜ is acyclic, then for p 2 P, ˜pis 
+also acyclic. If ˜ has an open lower section, then ˜ 
+ 1p 
+(a) = fa0 2 A : a ˜ a0g is also open relative to A i.e. ˜p has an open lower section. In what follows, we write a0 2˜= 
+p 
+(a) as 
+a p a0 and a0 2˜p (a) as a0 ˜p a. 
+De–ne a map 	 : P ! A, where 	( p) = fa0 2 A :˜p (a0) = ?g: for each p 2 P, 	( p) is 
+the set of maximal elements of the preference relation ˜p. 
+We make the following additional assumptions: 
+(A1) A is a compact lattice; 
+17The continuity assumption, that 
+˜ has an open lower section, is weaker than the continuity assumption made by Debreu (1959) (who requires that preferences have both open upper and lower sections), which in turn is weaker than the assumption by Shafer and Sonnenschein (1975) (who assume that preferences have open graphs). Note that assuming ˜ has an open lower section is consistent with ˜ being a lexicographic preference ordering over A  P. 
+34 
+
+========35========
+
+(A2) For each p, and a; a0, (i) if inf(a; a0) p a, then a0 p sup(a; a0) and (ii) if 
+sup (a; a0) p a then a0 p inf (a; a0) (quasi-supermodularity); 
+(A3) For each a  a0 and p  p0, (i) if a0 p0 a then a0 p a and (ii) if a p a0 then 
+a p0 a0 (single-crossing property)18 
+(A4) For each p and a  a0, (i) if ˜p (a0) = ? and a0 p a, then ˜p (a) = ? and (ii) if 
+˜p (a) = ? and a p a0, ˜p (a0) = ? (monotone closure). 
+Assumptions (A2)-(A3) are quasi-supermodularity and single-crossing property de–ned 
+by Milgrom and Shannon (1994). 
+Assumption (A4) is new. Consider a pair of actions such that the –rst action is greater 
+(in the usual vector ordering) than the second action. For a –xed p, suppose the two actions 
+are unranked by ˜p. Then, assumption (A4) requires that either both actions are maximal 
+elements for ˜por neither is. 
+The role played by assumption (A4) in obtaining the monotone comparative statics with 
+incomplete preferences is clari–ed by the following examples. There preferences and action 
+sets in each example satisfy assumptions (A1)-(A3). However, assumption (A4) fails to hold 
+in either example. 
+Example 1: ( 	( p) needn™t be a lattice.) 
+P is single valued and A is the four point lattice in <2 
+f(e; e);(f; e);(e; f);(f; f)g 
+where f > e. Suppose that (f; f) ˜ (e; e) but no other pair is ranked. Then, 	 consists 
+of f(f; e);(e; f);(f; f)g clearly not a lattice. Note that in this case, preferences satisfy 
+acyclicity and quasi-supermodularity (and trivially, single-crossing property). However, 
+preferences do not satisfy monotone closure: (f; e)  (e; e), with ˜ ((f; e)) = ; and (e; e)  
+(f; e), but ˜ ((e; e)) 6 = ;. 
+The preceding example demonstrates that without the additional assumption of monotone 
+closure, quasi-supermodularity on its own cannot ensure that the set of maximal elements 
+of ˜ is a sublattice of A even when ˜ is acyclic. The example also demonstrates that ˜ 
+18For any two vectors 
+x; y 2 <K, the ussual component-wise vector ordering is de–ned as follows: x  y if and only if xi  yi for each i = 1; ::; K, and x > y if and only if both x  y and x = 6 y, and x ˛ y if and only if xi > yi for each i = 1; ::; K. 
+35 
+
+========36========
+
+can be acyclic without necessarily satisfying monotone closure and therefore, the two are 
+distinct conditions on preferences. 
+Example 2: (No increasing selection from 	( :):) 
+P = fp; p0g, p < p0, and A is the –ve point lattice in <2 
+f(e; e);(f; e);(e; f);(f; f);(g; g)g 
+where g > f > e. Preferences are such that: (i) (g; g) ˜p (f; f) ˜p (e; e), , (f; e) ˜p (e; f), 
+(f; e) ˜p (g; g), (e; f) ˜p (g; g) but the pairs f(f; e);(e; e)g, f(e; f);(e; e)g, f(f; e);(f; f)g 
+and f(e; f);(f; f)g aren™t ranked by ˜p; (ii) (g; g) ˜p0 (f; f) ˜p0 (e; e), (e; f) ˜p0 (f; e), 
+(f; e) ˜p0 (g; g), (e; f) ˜p0 (g; g) but the pairs f(f; e);(e; e)g, f(e; f);(e; e)g, f(f; e);(f; f)g 
+and f(e; f);(f; f)g aren™t ranked by ˜p0. Note that in this case, both ˜p and ˜p0 satisfy 
+acyclicity (but not transitivity), quasi-supermodularity and the single-crossing property. It 
+follows that 	( p) = f(f; e)g and 	( p0) = f(e; f)g (i.e. for both p and p0 the set of maximal 
+elements is a singleton and hence, trivially a lattice). Therefore, 	( :) does not admit an 
+increasing selection. Observe that neither ˜p nor ˜p0satisfy monotone closure: (f; f)  
+(f; e), with ˜p ((f; e)) = ; and (f; f) p (f; e), but ˜p ((f; f)) 6 = ; and (f; f)  (e; f), with 
+˜p0 ((e; f)) = ; and (f; f) p0 (e; f), but ˜p0 ((f; f)) = 6 ;. 
+The preceding example demonstrates that with incomplete but acyclic preferences, 
+quasi-supermodularity and single crossing on their own cannot ensure an increasing se- 
+lection from the set of maximal elements. 
+The following result shows that assumptions (A1)-(A4), taken together, are su¢ cient to 
+ensure monotone comparative statics with incomplete preferences: 
+Lemma : Under assumptions (A1)-(A4), each p 2 P, 	( p) is non-empty and a compact 
+sublattice of A where both the maximal and minimal elements, denoted by a(p) and a(p) 
+respectively, are increasing functions on P. 
+Proof. By assumption, for each p, ˜p is acyclic, ˜ 
+ 1p 
+(a) are open relative to A and 
+A is compact. By Bergstrom (1975), it follows that 	( p) is non-empty. As Bergstrom 
+(1975) doesn™t contain an explicit proof that 	( p) is compact, a proof of this claim follows 
+next. To this end, note that the complement of the set 	( p) in A is the set 	 
+c(p) = 
+fa0 2 A :˜p (a0) 6 = ;g. If 	 
+c(p) = 
+;, then 	( p) = A is necessarily compact. So suppose 
+36 
+
+========37========
+
+	 
+c(p) 
+6 = ;. For each a0 2 	 
+c(p), there is 
+a00 2 A such that a00 ˜p a0. By assumption, 
+˜ 
+ 1p 
+(a00) is open relative to A. By de–nition of 	( p), ˜ 
+ 1p 
+(a00) ˆ 	 
+c(p). Therefore, ˜ 
+ 1p 
+(a00) is a non-empty neighborhood of a0 2 	 
+c(p) 
+and it is clear that 	 
+c(p) 
+is open 
+and therefore, 	( p) is closed. As A is compact, 	( p) is also compact. Next, it is shown 
+that for p  p0 if a 2 	( p) and a0 2 	( p0), then sup (a; a0) 2 	( p) and inf (a; a0) 2 	( p0). 
+Note that as a0 2 	( p0), a0 p0 inf (a; a0). By quasi-supermodularity, sup (a; a0) p0 a. 
+By single-crossing, sup (a; a0) p a. As a 2 	( p), ˜p (a) = ;, and by monotone closure 
+sup (a; a0) p a and ˜p (sup (a; a0)) = ;, it follows that sup (a; a0) 2 	( p). Next, note 
+that as a 2 	( p), a p sup (a; a0). By single-crossing, a p0 sup (a; a0) and by quasi- 
+supermodularity, inf (a; a0) p0 a0. As a0 2 	( p0), ˜p0 (a0) = ;, and by monotone closure 
+inf (a; a0) p0 a0 and ˜p0 (inf (a; a0)) = ;, it follows that inf (a; a0) 2 	( p0). Therefore, (i) 
+	( p) is ordered, (ii) 	( p) is a compact sublattice of A and has a maximal and minimal 
+element (in the usual component wise vector ordering) denoted by a(p) and a(p), and (iii) 
+both a(p) and a(p) are increasing functions from P to A. 
+To complete the proof of Proposition 1, de–ne a map 	 : A  P ! A  P, 	( a; p) = 
+(	1(p); 	 
+2(a)) 
+as follows: for each (a; p), 	 
+1(p) = 
+fa0 2 A :˜p (a0) = ˚g and 	 
+2(a) = 
+ˇ (a). 
+By Theorem 2, 	 
+1(p) 
+is non-empty and compact and for p  p0 if a 2 	 
+1(p) 
+and a0 2 	 
+1(p0), 
+then sup (a; a0) 2 	 
+1(p) 
+and inf (a; a0) 2 	 
+1(p0). It follows that 
+	 
+1(p) 
+is ordered and hence 
+a compact (and consequently, complete) sublattice of A and has a maximal and minimal 
+element (in the usual component wise vector ordering) denoted by a(p) and a(p) respectively. 
+By assumption 1, it also follows that for each a, ˇ (a) has a maximal and minimal element (in 
+the usual component wise vector ordering) denoted by ˇ(a) and ˇ(a) respectively. Therefore, 
+the map (a(p);ˇ(a)) is an increasing function from A  P to itself and as A  P is a 
+compact (and hence, complete) lattice, by applying Tarski™s –x-point theorem, it follows 
+that (a;p) = (a(p);ˇ(a)) is a –x-point of 	 and by a symmetric argument, (a(p); ˇ(a)) is an increasing function from A  P to itself and 
+ 
+a; p = 
+ 
+a(p); ˇ(a) is also a –x-point of 	 ; moreover, (a;p) and 
+ 
+a; p are respectively the largest and smallest –x-points of 	 . 
+37 
+
+========38========
+

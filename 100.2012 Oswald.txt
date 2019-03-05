@@ -1,0 +1,870 @@
+November 2012 
+              No.100 
+Estimating the influence of life satisfaction and positive affect on later  
+income using sibling fixed-effects 
+Jan-Emmanuel De Neve and Andrew J. Oswald 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+1 
+
+========1========
+
+Estimating the influence of life satisfaction and positive affect on later income using 1 
+sibling fixed-effects 
+Jan-Emmanuel De Nevea,b,* and Andrew J. Oswaldc,d 
+a 
+School of Public Policy, University College London, 29/30 Tavistock Square, London,  WC1H 9QU, UK. 
+b 
+Centre  for  Economic  Performance,  London  School  of  Economics,  Houghton  Street,  London, WC2A 2AE, UK. 
+c 
+Department  of  Economics and  Centre  for  Competitive  Advantage  in  the  Global  Economy, University of Warwick, Coventry, CV4 7AL, UK. 
+d 
+IZA  Institute  for  the  Study  of  Labor,  Schaumburg-Lippe-Str. 5-9,  D-53113  Bonn,  Germany. 
+November 2012 
+Abstract: The  question  of  whether  there  is  a  connection  between  income  and psychological well-being  is  a  long-studied issue  across  the  social,  psychological,  and behavioral  sciences. Much  research  has  found  that  richer  people  tend  to  be  happier. However, relatively little attention has been paid to whether happier individuals perform  better  financially  in  the  first  place.  This possibility of  reverse  causality  is  arguably  understudied. Using data from a large US representative panel we show that adolescents  and  young  adults  who  report  higher  life  satisfaction or positive  affect grow  up  to earn  significantly higher levels of income later in life. We focus on earnings approximately one  decade  after  the  person’s  well-being  is  measured;  we exploit  the  availability  of  sibling clusters to introduce family fixed-effects; we account for the human capacity to imagine  later  socio-economic  outcomes  and  to  anticipate  the  resulting feelings  in  current  well- being. The study’s  results are robust to the inclusion of controls such as education,  IQ,  physical health, height, self-esteem, and later happiness. We consider how psychological  well-being may  influence  income.  Sobel-Goodman  mediation  tests  reveal  direct  and  indirect effects that carry the influence from happiness to income. Significant mediating  pathways  include a  higher  probability  of obtaining  a  college  degree,  getting  hired  and  promoted, having higher degrees of optimism and extraversion, and less neuroticism. 
+Keywords: income, life satisfaction, positive affect 
+*To  whom  correspondence  should  be  addressed:  phone:  
++44  (0)20  7679  4949.  Email:  jdeneve@post.harvard.edu 
+                                                  
+1 
+Author contributions: JDN and AJO jointly designed the research; JDN led the study and wrote the first  draft of the paper; JDN analyzed the data; both authors revised the draft. The authors declare no conflict of  interest. 
+2 
+
+========2========
+
+Introduction 
+The relationship between money and human happiness has generated a burgeoning cross- 
+disciplinary literature. Virtually all published research on this matter has considered the  
+effects  of  income upon  subjective  well-being (see  e.g. 1-9). This  study examines—and 
+provides evidence  of—the  reverse.  Using  longitudinal  information  within  families  
+(exploiting so-called sibling fixed-effects), it finds that happier people go on, many years 
+later, to  earn  greater  incomes. The  results  are suggestive  of  some  form  of  causal  
+relationship between well-being and income. 
+That the  scholarly debate has mostly developed uni-directionally should probably 
+not come as a surprise given that it mirrors both our societal preoccupation with economic  
+development  and  the  conventional  wisdom  that  human  well-being  follows  from high  
+income. The question  of  whether  “money  buys  happiness” has  not  only  dominated  the  
+investigation  into  the  relationship  between  money  and  happiness, it  has  also taken  on 
+increasingly causal language as  research showed positive (but marginally  diminishing) 
+effects  of rising  income upon  well-being, with some differences observed  between life  
+satisfaction  and  emotional  well-being (1).  However,  relatively  little  attention  has been  
+paid  to  whether  happier  individuals  perform  better  financially  in  the  first  place.  This 
+possibility of reverse causality is arguably understudied. 
+In this study we therefore address the question of whether “happiness pays”.  We  
+do so in a US representative panel of over 10,000 individuals and explore the potential 
+mediating pathways running from happiness to later income. This work does not intend to  
+undermine the aforementioned literature on the effect of income on well-being. Rather, the  
+goal is to make the case that the relationship between income and happiness is dynamic 
+and that effects may run in both directions, thus complementing existing scholarship.  
+An effect running from subjective well-being to income could exist for a number of  
+3 
+
+========3========
+
+reasons. Happiness has various correlates such as health (10), social networks (11), and  
+self-esteem (12) that, in turn, are known to positively influence labor market outcomes and  
+that may thus play a mediating role. More recent neuroscientific research provides clues  
+that  greater subjective  well-being is  associated  with  particular  neurological variation  
+which, in turn, is associated with improved cognitive skills and economic outcomes. Such  
+neurological  mediation  pathways  centre  on  the  role  of  positive  emotions  (reward)  in  
+stimulating the dopaminergic system and increasing cognitive capacity for memory tasks  
+and attention span (13-16). These neuroscientific insights and aforementioned correlates  
+provide some reason to believe that there could be an effect running from subjective well- 
+being to economic outcomes. 
+A handful of studies have previously tried to estimate the influence of subjective  
+well-being on  later  income. Diener  et  al.  (17)  find  a  positive  correlation  between  
+“cheerfulness”  measured  in  a  sample  of  elite  college  students  and  their  income  levels  
+some  19  years  later.  This  association is  particularly  significant  for  those  with  below  
+average levels of cheerfulness. Ed Diener and colleagues later expand on this finding to  
+show that individuals who experience the highest levels of happiness do not necessarily  
+perform best in terms of later income and that the “optimal” level of happiness for later 
+income  appears  to  be a  moderately  high level  of  happiness (18).  Three  other  studies  
+consider  the  broader  effects  of  happiness  on  life  events  including  income,  marriage,  
+employment, and health (19-20), as well as consumption and savings behavior (21). The  
+panel  studies  used  in  these  studies are  the British Household  Panel  Study,  Russia  
+Longitudinal Monitoring Survey, German Socio-Economic Panel and the DNB Household  
+Survey in the Netherlands. In a laboratory setting, Oswald, Proto, and Sgroi (22) induce 
+variation in positive mood and find that it is predictive of productivity in a lab task. The 
+promising  results  from  inquiries  into  the  socio-economic and  productivity effects of  
+4 
+
+========4========
+
+happiness has led some to speak of a “happiness advantage” (23) in shaping career success  
+(24) and provides further ground for why a deeper investigation is warranted.  
+Although  the  aforementioned  studies are  important, because  they point  towards  a  
+potential role for happiness in shaping socio-economic outcomes, they face a number of 
+methodological difficulties.  First,  these studies  continue  to  leave  room  for  alternative  
+explanations: cross-sectional results may be the result of genetic confounding and other  
+omitted variables; longitudinal designs have so far not accounted for the human capacity  
+to imagine later socio-economic outcomes and anticipate the resulting feelings in current  
+well-being (25-26); and experimental designs are not in a position to evaluate longer-term  
+effects  outside  the  lab.  Second,  previous  work  has  separately  considered  measures  of  
+mood, happiness, life satisfaction, and mental health. The more recent literature, however,  
+has  argued  that  emotional  well-being  and  satisfaction  with  life  are  two  important  yet  
+different components of well-being (1). Emotional well-being refers to the frequency and  
+intensity  of  everyday  emotional  experiences  (both  positive  and  negative).    The  positive  
+emotions and the experience of feeling happy are commonly referred to as positive affect.  
+Life  satisfaction  on  the  other  hand  refers  to  a  longer-term  evaluation  of  one’s  life.  
+Although  measures  of  positive  affect and  life  satisfaction  correlate—and  load  onto  a  
+common genetic  factor  (27)—they  show  varying  salience  in  different  circumstances  of  
+people’s lives, including in their relationship to income and age (1, 28-29). None of the  
+previous studies considered the dual effect of emotional well-being and life satisfaction on  
+later income even though Kahneman and Deaton (1) conclude that the effect of income on  
+positive  affect  is  less  pronounced  (and  ceases  beyond  an  annual  income  of  ~$75,000)  
+compared  to  the  effect  of  income  on  life  satisfaction.  It  is  therefore  necessary  to  
+investigate  whether  a  similar  distinction  can  be  made  in  the  opposite  direction,  i.e.  the  
+effect  running  from  well-being  on  income.  Finally,  if  income  is  indeed  endogenous  to  
+5 
+
+========5========
+
+happiness it becomes important to study how happiness may influence income. To address  
+these  questions,  this  paper  studies  whether  life  satisfaction  and  positive  affect  are  
+predictive  of  later  income—while  tackling  the  endogeneity  concerns  that  were  hitherto  
+unaddressed—and investigates potential mediating pathways. 
+Results 
+Fig. 1  illustrates the  study’s  key result.    It plots the (uncorrected) relationship  between  
+subjective  well-being and  later  earnings  in a  large US representative panel  study  (Add  
+Health). Reports of positive affect or life satisfaction in adolescence and young adulthood 
+correlate significantly with income around age 29 (all between r = 0.078—0.090 with p <  
+0.001, see Table S2 in Supporting Information). Income here is defined in the following  
+way: “Now think about your personal earnings. In {2006/2007/2008}, how much income  
+did you receive from personal earnings before taxes, that is, wages or salaries, including  
+tips,  bonuses,  and  overtime  pay,  and  income  from  self-employment?”    Similar to  the  
+finding  on  “cheerfulness” by Diener  et  al  (17),  we  observe  that  the  relationship  is  
+particularly  pronounced  for  those  individuals  with  lower levels  of  happiness.  In  fact, 
+reporting a profoundly unhappy adolescence is associated with an income around age 29  
+that  is  ~30%  less  than  average,  whereas a  very  happy  adolescence is associated  with  a 
+later income that is ~10% above average. 
+Regression analyses reported in Table 1 confirm this pattern. The predictive power  
+of happiness on later earnings depends on the lag time between both variables, e.g. a one 
+standard  deviation increase  in  life  satisfaction  at  the  age  of  22  is  associated  with a  5%  
+increase in earnings at the age of 29 (SD = 0.81 on a scale of 5). In absolute terms, a one- 
+point increase in life satisfaction at the age of 22 is associated with almost $2,000 higher  
+earnings at the age of 29 (this $ value is obtained in an empirical model identical to the  
+6 
+
+========6========
+
+one reported in Table 1 except for using income values instead of their natural logarithm).  
+The  analyses  reported  here  include the  following  covariants: age,  gender,  ethnicity,  
+education, IQ, physical health, height, and self-esteem (for a detailed specification of these  
+variables  see Table  S1 in  SI). Most  of  these  covariates  are  standard. However,  unlike  
+previous longitudinal studies of subjective well-being on later socio-economic outcomes  
+and life events (17-21) the richness of the data set used here allows us to incorporate a  
+measure  of  self-esteem  that  is  surveyed at  the  same  time as  positive  affect  and  life  
+satisfaction. Self-esteem is a psychological construct distinct from happiness (12) and self- 
+esteem is an important driver of labor market outcomes (30). As such, it is an important  
+variable to control for in a study of the effect of happiness on later outcomes as not doing  
+so may otherwise bias the coefficients obtained on happiness (results in Table 2 indicate  
+that  self-esteem and  subjective  well-being  have  similarly  significant  effects  on  later  
+earnings). Furthermore, introducing a measure of self-esteem may also allow us to control  
+for feelings that anticipate happiness related to individual expectations of socio-economic  
+outcomes. The  human  capacity  to  imagine  later  outcomes  and  anticipate  the  resulting  
+feelings  in  current  well-being  is  well-known  (25-26).  Self-esteem  may capture  the  
+confidence  one  has  in later  earnings  potential  and thus  also  account  for  the  positive  or  
+negative  feelings  associated  with  the  anticipated  outcomes. Though longitudinal  studies  
+allow  for  measuring subjective  well-being  prior  to  the outcome  of  interest  they  cannot  
+prevent expectations about those later outcomes from being correlated with an earlier state  
+of  mind and  thus  introduce  bias  into  the  earlier  measures  of  happiness. Introducing  a  
+concurrent  measure  of  self-esteem  alongside  subjective  well-being  in  adolescence  and  
+young  adulthood  may  therefore  also  help  account  for  anticipated feelings surrounding  
+earnings potential. 
+Subjective  well-being  also  has  an  important  latent  or  stable  component  that  is  
+7 
+
+========7========
+
+considered to be contingent on genetic variation and certain personality traits (27, 31-34).  
+To help distinguish variation in positive affect and life satisfaction—in adolescence and  
+young adulthood—from variation in innate predispositions we also include in our analyses  
+a measure of positive affect that is reported at the same time as income (around age 29).  
+Doing so is important.  It allows us to capture the influence of variation in subjective well- 
+being beyond the latent dimensions specific to the individual.  
+Looking at Models 1—3 in Table 1, we find that positive affect in 1994 (age 16) and  
+1996 (age 18), as well as life satisfaction in 2001 (age 22), each significantly predict later  
+earnings (age 29). Model 4 jointly considers all these measures of subjective well-being  
+over time and shows that the predictive power of variation in happiness on later income at  
+those time points gradually rises as the time lag shrinks. 
+The analyses reported in Table 2 go one step further.  They exploit the availability of  
+sibling  clusters in  the  data to  introduce  family  fixed  effects  (for  those  individuals  
+identified as twin pairs, full-siblings, half-siblings, or unrelated siblings raised together). 
+The siblings’ sample is similar in demographic composition to the full Add Health sample 
+(35). The structure of this data allows us to compare siblings to each other while holding  
+the family environment constant (as well as a substantial portion of the genetic variation in  
+most cases) which, in turn, aids our interpretation of the relationship between well-being  
+and income.  
+Table  2  shows that  a one standard  deviation  difference in  life  satisfaction  as  
+compared to the family mean at age 22 is associated with a 6% difference in earnings as  
+compared to the family mean at age 29. In absolute terms, a one-point difference in life  
+satisfaction (on a scale of 5) as compared to the family mean at age 22 is associated with 
+an almost $4,000 difference in earnings as compared to the family mean at age 29 (this $  
+value is obtained in an empirical model identical to the one reported in Table 2 except for  
+8 
+
+========8========
+
+using income values instead of their natural logarithm). Looking at Models 1—3 in Table  
+2 we find that measures of positive affect and life satisfaction in adolescence and early  
+adulthood are positively associated with later earnings. Model 4 jointly considers all these  
+measures of subjective well-being over time and obtains a significant coefficient for life  
+satisfaction on later income. The effect sizes of the well-being measures remain relatively 
+stable between Table 1  (full  panel)  and Table 2 (sibling  panel).  The lower significance  
+levels in Table 2 are presumably due to the reduced number of observations in the sibling  
+panel as well as having accounted for family fixed effects. 
+Tables  S7-S8 in  Supporting  Information  present  results  for  an  individual  fixed  
+effects  model  and  a  Granger  causality  analysis  that  use  the  available  information  on  
+earnings in 2001 (age 22). Both model specifications obtain highly significant results for  
+the  effect  of  lagged  subjective  well-being  on  earnings.  However, we  do  not  lend  these  
+results  full  credence  given  that  earnings  at  age  22  may  not  yet  accurately  represent  
+individual income and also because these panel data allow for only one time interval and  
+the exogeneity assumption necessary for panel data models is unlikely to be satisfied.   
+If  income  is  indeed  endogenous  to  happiness, it  becomes  important  to  study how 
+happiness  comes  to  influence a  person’s income.  Table  3  presents  results  for  our  
+investigation  into potential  mediating  pathways.  These  univariate  Sobel-Goodman  
+mediation tests consider potentially mediating variables that may carry some of the effect  
+from  happiness  onto  income (36).  We  choose  a  number  of  standard  socio-economic  
+variables as well as psychological constructs such as personality traits, optimism, and self- 
+esteem. Only measures in 2008 are used—in order to reduce confounding with the earlier  
+measures of subjective well-being. Table 3 shows that most of the chosen variables are  
+correlated with earlier measures of positive affect and life satisfaction and also carry some  
+part  of  their  influence  onto  income. The  most  significant  mediating  pathways  include  
+9 
+
+========9========
+
+obtaining a college degree, getting hired and promoted, higher degrees of optimism and  
+extraversion,  and  less  neuroticism. These variables  each  partially  mediate  the  observed  
+association  with  income and may represent an indirect effect  as  large  as  approximately  
+38% in the case of positive affect (around age 18) and obtaining a college degree. These  
+results provide the first support for causal mechanisms running from subjective well-being  
+to later income. Table S9 in SI presents the results for a multivariate mediation analysis  
+that  considers  these  mediating  variables jointly.  The total  mediated  effect for  these  
+variables is estimated between 68%—78% thus revealing an important combined indirect  
+effect, in addition to a direct effect, that carries the influence from happiness to income. 
+These results suggest a relationship that is pleiotropic in nature with psychological well- 
+being having an independent effect on both income and the mediating variables. 
+Discussion 
+This study reverses one  of  the famous  questions of  social  science. It  is  an  attempt  to  
+explore  the  influence  not  of  income  upon  well-being  but  instead  of  well-being  upon  
+income.    As Figure 1 illustrates, the linkages are estimated to be long and the empirical  
+consequences large.    
+The  paper’s  contribution is partly  substantive  and  partly methodological.    By  the  
+nature of its data, the study is able to introduce sibling-fixed effects to account for much  
+potential  omitted-variable  bias  (family-related  covariates, including  a significant  part  of  
+genetic endowment). Compared with individual fixed-effects, sibling fixed-effects allows  
+for making inferences about the lagged effects of well-being at particular time points (such  
+as adolescence and young adulthood) instead of having to consider variation between time  
+intervals.  This  work  also  applies mediation  analysis,  and may thus help  to  uncover the 
+10 
+
+========10========
+
+mechanisms  running  from  well-being  to  later  income.  The  most  significant  mediating  
+pathways  include  obtaining  a  college  degree,  getting  hired  and  promoted,  and  having  
+higher  degrees  of  optimism  and  extraversion,  and  less  neuroticism.  Including current  
+happiness in this longitudinal study allows us to better control for variation in latent well- 
+being predisposition. This enables an examination of the consequences of variation in life  
+satisfaction and positive affect at adolescence and young adulthood above-and-beyond any  
+variation  in  the  stable  component of  well-being.  The  use  of a  large  US  representative  
+panel on this question also distinguishes this research from prior work that looked at the  
+economic  benefits  of  psychological  well-being,  as  does offering a  joint  analysis  of  life  
+satisfaction  and  positive  affect.  Finally, the  study is  the  first attempt to  account for a  
+person’s “anticipated happiness” in this kind of longitudinal analysis (through its use of 
+proxy measures of current self-esteem). This should help to prevent a person’s conscious  
+or  subconcious expectations  about their future earnings  from  introducing  bias  into the 
+estimate of the consequences of current psychological well-being.  
+For researchers who study human well-being, the message of the paper is that well- 
+being  regression  equations  cannot  be  expected  to  be  estimated  in  a  reliable  way  unless  
+allowance is made for the endogeneity of income. This study also points to long time-lags  
+between  psychological  well-being  in  year  T  and  people’s  incomes  in  year  T+10  and  
+beyond.    Greater knowledge of the underlying causes of these remarkable lags, and their  
+reach in  social  and  economic  processes,  will  be  needed. Research  that  considers  the  
+potential benefits of variation in life satisfaction or positive affect is part of a fairly new  
+avenue in  the  study  of  human  well-being. Although  most research  in  this  literature  has  
+studied  the  determinants  of  happiness, recently  has  there  been  growing  interest  in  the  
+broader benefits that happiness may induce (10, 29, 37).  For policy-makers, the existence  
+of  these  mechanisms raises the possibility  that a  happier  society  may be one that 
+11 
+
+========11========
+
+intrinsically generates  higher  incomes  for  its  citizens. Traditional  thinking has  focused  
+upon the opposite. 
+Although human well-being is considered instrumentalist in this paper or as a means— 
+rather  than  an  end  in  itself—it  needs  to  be  emphasized  that  this  is  not with  a  view  to  
+putting  money  centre-stage  at  the  expense  of  happiness.  To  the  contrary,  the  results  
+indicate  that  happiness  and  income  are  connected  by  a  two-way  relationship,  and  that  
+human well-being can itself be a source of economic dynamism. 
+Materials and Methods 
+Data  is  from  the restricted-use National  Longitudinal  Study  of  Adolescent  Health (Add  
+Health) sample available by contractual agreement (38). Add Health was started in 1994 in  
+order  to  explore  the  health-related  behavior  of  adolescents  in  grades  7  through  12.  By  
+now, 4 waves of data collection have taken place and participating subjects were around  
+30  years old in Wave  IV (2008).  The first wave of the Add Health study (1994-1995)  
+selected  80  high  schools  from  a  sampling  frame  of  26,666 schools.    The  schools  were  
+selected based on their size, school type, census region, level of urbanization, and percent  
+of the population that was white. Participating high schools were asked to identify junior  
+high or middle schools that served as feeder schools to their school. This resulted in the  
+participation  of  145  middle, junior  high,  and  high  schools. From  those  schools,  90,118  
+students completed a 45-minute questionnaire and each school was asked to complete at  
+least  one  School  Administrator  questionnaire.  This  process  generated  descriptive  
+information about each student, the educational setting, and the environment of the school.   
+From these respondents, a core random sample of adolescents in grades 7-12 were drawn  
+plus  several  over-samples, bringing  the total for  Wave  I to  20,745 adolescents.  These  
+students  and  their  parents  were  administered in-home  surveys.  Wave  II  (1996)  was  
+12 
+
+========12========
+
+comprised  of  another  set  of  in-home  interviews  of  14,738  students  from  the  Wave  I  
+sample.    Wave  III  (2001-2002)  consisted  of  an  in-home  interview  of  15,197 Wave  I  
+participants.  Finally, Wave IV (2008) consisted of an in-home interview of 15,701 Wave  
+I  participants.  The  result  of  this  sampling  design  is  that  Add  Health  is  a  nationally  
+representative study.  Women make up 49% of the study's participants, Hispanics 12%,  
+Blacks  16%,  Asians  3%,  and  Native  Americans  2%.    Participants  in  Add  Health  also  
+represent all regions of the United States. 
+In Wave I of the Add Health study, researchers screened for sibling pairs including  
+all adolescents that were identified as twin pairs, full-siblings, half-siblings, or unrelated  
+siblings raised together. The sibling-pairs sample is similar in demographic composition to  
+the  full  Add  Health  sample (35). Consequently,  in  all  regression  models  we  cluster  the  
+standard errors of our estimates in order to better account for the fact that a subset of our  
+observations  is not  independent.  The  structure  of  this  data  also  allows  us  to  compare  
+siblings  to  each  other  while  holding  the  family  environment  constant,  which  aids  our  
+interpretation of the relationship between well-being, childhood context, and income as an  
+adult.  
+In  all  four  interview  waves  of  Add  Health  the  subjects  were  asked  about  their  
+subjective well-being. In particular, in waves I and II, the positive affect sub-scale of the  
+CES-D index (39) was administered. The CES-D index asks how often certain statements  
+were true during the last week. The positive affect sub-scale is additively composed of the  
+responses  to  the  following  four  particular  statements:  “You  enjoyed  life”,  “You  were  
+happy”, “You felt hopeful about the future”, and “You felt that you were just as good as  
+other people.” The detailed question and answer structure for the four questions that make  
+up  this  positive  affect  scale  are  given  in  Supporting  Information  (Table  S1).  The  life  
+satisfaction  question  was  surveyed  in  wave  III  only  and  asked:  “How  satisfied  are  you  
+13 
+
+========13========
+
+with your life as a whole?” Income in wave IV was reported as personal earnings before  
+taxes and the mean income in the Add Health sample was approximately $35,000. The  
+measure  for  self-esteem  was  derived  from  the  answer  to  “Compared  with  other  people  
+your age, how intelligent are you?” which was surveyed in all interview waves. Precise 
+variable descriptions and descriptive statistics, as well as distribution scales for the well- 
+being  measures,  are  given  in  Table  S1 for  all  variables  employed  in  this  paper.  A  
+correlation matrix for the well-being measures across all interview waves and income in 
+wave IV is also given in SI (Table S2).  
+The  analyses  are  run  using  linear  regression  models  with  clustering  on  standard  
+errors in order to better account for the fact that a subset of the Add Health observations  
+are  not  independent.  We  also  leverage  the  sibling  clusters  in  the  Add  Health  data  by  
+introducing  family  fixed  effects  (Table  2).  The  empirical  framework  here  follows  a  
+standard  specification  where  income  (in  2008)  is  regressed  on  earlier  subjective  well- 
+being measures and a set of other characteristics. With family fixed effects the empirical  
+model takes the following form: 
+Yij = β0 + β1(SWBij) + βk(Zkij) + μj + εij 
+where i and j index individual and family respectively and Yij is earnings. Zk is a matrix  
+comprised of variables that may differ between siblings (gender, age, height, self-esteem,  
+etc.). To control for common family attributes family fixed effects are introduced (μj) and  
+εij represents an individual-specific error. Such family fixed effect analyses are equivalent  
+to differencing all equation variables within sibling pairs in order to account for family- 
+related  unobservables.  For  a  discussion  of  assumptions  involved  see Griliches  (40) and  
+more recent surveys. As compared to individual fixed effect panel studies, the advantage  
+of  a  family  fixed  effects  model  is that  it  allows  for  the  study  of longer-term  effects  of  
+subjective  well-being  at a  particular  time  period,  here  in adolescence  and  young  
+14 
+
+========14========
+
+adulthood. 
+To  test  for  mediation  we  employ  the  Sobel-Goodman  method available  in  the  
+STATA package that follows the logic described in Baron and Kenny (35). A variable is  
+considered  a  mediator  (M)  if  it  carries  some  part  of  the  effect  from  an  independent  
+variable (X), here positive affect and life satisfaction, onto a dependent variable (Y), in  
+our  case  later  earnings.  Mediation  occurs  if  (i)  X  significantly  predicts  M;  (ii)  X  
+significantly predicts Y in the absence of M; (iii) M significantly predicts Y controlling for  
+X; and (iv) the effect of X on Y shrinks upon addition of M. Description and references  
+for the multivariate mediation test are provided in SI (Table S9). 
+Acknowledgments 
+We  thank  Richard  Layard,  Michael  Norton,  Steve  Pischke,  Alois  Stutzer,  Bert  Van  Landeghem,  and  Justin  Wolfers for helpful  comments  and  discussion.  We  also  thank  Royal  Economic  Society  Annual Conference  participants  (Cambridge  University,  26-28  March 2012). All remaining errors are our own. Financial support from the Department  for  Work  and  Pensions  (UK)  and  National  Institute  on Aging  (USA)  is  gratefully  acknowledged. This research uses data from Add Health, a program project directed by  Kathleen Mullan Harris and designed by J. Richard Udry, Peter S. Bearman, and Kathleen  Mullan  Harris  at the  University  of  North  Carolina  at  Chapel  Hill,  and  funded  by  grant  P01-HD31921 from the Eunice Kennedy Shriver National  Institute of Child Health and  Human  Development,  with cooperative  funding  from  23  other  federal  agencies  and  foundations. Special acknowledgment is due Ronald R. Rindfuss and Barbara Entwisle for  assistance  in  the  original  design. Information  on  how  to obtain  the  Add  Health  data is  available  on  the  Add  Health website  (http://www.cpc.unc.edu/addhealth).  No  direct  support was received from grant P01-HD31921. 
+References 
+1.  Kahneman  D,  Deaton  A  (2010)  High  income  improves  evaluation  of  life  but  not  
+emotional well-being. Proc Natl Acad Sci USA 107(38): 16489–16493. 
+2.  Diener  E,  Biswas-Diener  R  (2002)  Will  money  increase  subjective  well-being? Soc  
+Indic Res 57:119–169. 
+3.  Gardner J,  Oswald  AJ (2007)  Money  and  mental  wellbeing:  a  longitudinal  study  of  
+medium-sized lottery wins. J Health Econ 26: 49-60. 
+4.  Dunn EW,  Aknin LB,  Norton MI  (2008)  Spending  money  on  others  promotes  
+happiness. Science 319: 1687-1688. 
+5. Layard R, Mayraz G, Nickell S (2008) The marginal utility of income. J Public Econ 
+92: 1846-1857.  
+15 
+
+========15========
+
+6.  Li,  Hongbin,  Pak Wai  Liu,  Maoliang  Ye,  Junsen  Zhang  (2011)  Does  money  buy  
+happiness? Evidence from twins in urban China. Working Paper Tsinghua University  
+(April). 
+7. Luttmer EFP (2005) Neighbors as negatives: relative earnings and well-being. Q J Econ 
+120(3): 963-1002.  
+8. Clark AE, Oswald AJ (1996) Satisfaction and comparison income. J Public Econ 61: 
+359-381.  
+9. Easterlin RA (2003) Explaining happiness. Proc Natl Acad Sci USA 100(19): 11176- 
+11183. 
+10. Frey BS (2011) Happy people live longer. Science 331: 542. 
+11.  Fowler  JH,  Christakis NA (2008) Dynamic  spread  of  happiness  in  a  large  social  
+network:  longitudinal  analysis  over  20  years  in  the  Framingham  Heart  Study. BMJ 
+337: a2338. 
+12.  Lyubomirsky S, Tkach C, DiMatteo MR (2006) What  are  the  differences  between  
+happiness and self-esteem? Soc Indic Res 78: 363–404. 
+13. Fredrickson BL, Branigan C (2005) Positive emotions broaden the scope of attention  
+and thought-action repertoires. Cogn Emot 19: 313-332. 
+14. Schmitz TW, De Rosa E, Anderson AK (2009) Opposing influences of affective state  
+valence on visual cortical encoding. J Neurosci 29: 7199-7207. 
+15.  Pessiglione M,  Seymour  B,  Flandin  G,  Dolan  RJ,  Frith  CD  (2006) Dopamine- 
+dependent prediction errors underpin reward-seeking behavior in humans. Nature 442: 
+1042-1045. 
+16. Wise RA (2004) Dopamine, learning, and motivation. Nat Rev Neurosci 5: 483-494. 17.  Diener  E,  Nickerson C,  Lucas RE, Sandvik E (2002)  Dispositional  affect  and  job  
+outcomes. Soc Indic Res 59: 229–259. 
+18. Shigehiro O, Diener E, Lucas R (2007) The optimum level of well-being: can people  
+be too happy? Perspect Psychol Sci 2(4): 346-360. 
+19. Graham C, Eggers A, Sukhtankar S (2004) Does happiness pay? An exploration based  
+on panel data from Russia. J Econ Behav Organ 55: 319–342. 
+20. Binder M, Coad A (2010)  An  examination  of  the  dynamics  of  well-being  and  life  
+events using vector autoregressions. J Econ Behav Organ 76: 352-371.  
+21.  Guven C  (2009)  Reversing  the  question:  does  happiness  affect  consumption  and  
+savings behavior? SOEPpapers on Multidisciplinary Panel Data Research no. 219. 22.  Oswald AJ,  Proto E, Sgroi D  (2009)  Happiness  and  productivity.  IZA  Discussion  
+Paper No. 4645. 
+23. Shawn A (2010) The happiness advantage. Random House, New York. 
+24. Lyubomirsky S, King L, Diener E (2005) The benefits of frequent positive affect: does  
+happiness lead to success? Psychol Bull 131(6): 803–855. 
+25. Gilbert D (2006) Stumbling on happiness. Knopf, New York. 
+26. Loewenstein G (1987) Anticipation and the valuation of delayed consumption. Econ J  
+97: 666-684.   
+27. Bartels M, Boomsma DI (2009) Born to be happy? The etiology of subjective well- 
+being. Behav Genet 39: 605–615. 
+28.  Stone  AA,  Schwartz  JE,  Broderick  JE,  Deaton  A  (2010)  A  snapshot  of  the  age  
+distribution of psychological well-being in the United States. Proc Natl Acad Sci USA 
+107: 9985–9990. 
+29.  Steptoe  A,  Wardle  J  (2011)  Positive  affect  measured  using  ecological  momentary  
+assessment and survival in older men and women. Proc Natl Acad Sci USA 108(45):  
+18244-18248. 
+16 
+
+========16========
+
+30. Waddell GR (2006) Labor-market consequences of poor attitude and low self-esteem  
+in youth. Econ Inq 44(1): 69-97. 
+31.  Lykken DT,  Tellegen A (1996) Happiness is a stochastic phenomenon. Psychol Sci 
+7(3): 186-189. 
+32. Weiss A, Bates TC, Luciano M (2008) Happiness is a personal(ity) thing: the genetics  
+of personality and well-being in a representative sample. Psychol Sci 19(3): 205-210. 33. De Neve J-E, Christakis NA, Fowler JH, Frey BS (in press) Genes, economics, and  
+happiness. J Neurosci Psychol Econ. 
+34.  Rietveld CA,  Cesarini  D,  Benjamin D, Koellinger P, De  Neve J-E,  Tiemeyer  H,  
+Magnusson  P,  Pedersen  NL,  Krueger  R, Bartels  M (2012)  Molecular  genetics  and 
+subjective well-being. Under submission. 
+35. Jacobson  KC,  Rowe  DC  (1998)  Genetic  and  shared  environmental  influences  on  
+adolescent BMI: interactions with race and sex. Behav Genet 28(4): 265-278. 36.  Baron  R,  Kenny  D (1986)  The  moderator-mediator  variable  distinction  in  social  
+psychology research:  conceptual,  strategic,  and  statistical  considerations. J  Pers  Soc  
+Psychol 51: 1173-1182. 
+37. Goudie RJB, Mukherjee S, De Neve J-E, Oswald AJ, Wu S (2012) Happiness as a  
+driver  of  risk-avoiding  behavior:  a conceptual  framework  with  an  application  to  
+seatbelt wearing and automobile accidents. Under submission. 
+38. Harris KM, Halpern CT, Whitsel E, Hussey J, Tabor J, Entzel P, Udry JR (2009) The  
+national  longitudinal  study  of  adolescent  health:  research  design.  URL:  
+http://www.cpc.unc.edu/projects/addhealth/design 
+39. Radloff LS (1977) The CES-D scale: a self-report depression scale for research in the  
+general population. Appl Psychol Meas 1(3): 385-401. 
+40. Griliches Z (1979) Sibling models and data in economics: beginnings of a survey. J  
+Polit Econ 78(5): S37-S64. 
+17 
+
+========17========
+
+Figure legends 
+Fig 1. The longitudinal relationship between subjective well-being (at ages 16, 18, and 22) and later earnings (at age 29). 
+Response categories for positive affect (at ages 16 and 18) and life satisfaction (at age 22)  are  presented in  relationship  with  their  respective  mean  income  levels  at  about  age  29.  Mean income across the sample is $34,632 at age 29. N equals 14,867 for positive affect  at  age  16,  N  equals  11,253  for  positive  affect  at  age  18,  and  N  equals  12,415  for  life  satisfaction at age 22. The original positive affect variable categories are reshaped to a 5- point scale for ease of comparison. Error bars (2 standard errors) are shown. 
+18 
+
+========18========
+
+Table legends 
+Table 1. Earnings equations: Linear regression models of log income at age 29 (in year  2008) on lagged subjective well-being (ages 14, 16, and 22) and covariates. 
+Model 1 
+Model 2 
+Model 3 
+Model 4 
+Positive affect (1994) Positive affect (1996) Life satisfaction (2001) Positive affect (2008) Male 
+Age 
+College 
+IQ 
+Medication Height 
+Self-esteem (1994) Self-esteem (1996) Self-esteem (2001) Black 
+Hispanic 
+Asian 
+Intercept 
+N 
+R2 
+Coeff. p-value Coeff. p-value Coeff. p-value Coeff. p-value 0.033 
+0.092 0.149 0.089 0.210 0.038 0.013 0.036 0.057 
+-0.068 0.056 0.062 10.15 
+0.002 
+0.044 0.000 
+0.000 0.000 0.000 0.000 0.001 0.174 0.008 0.000 
+0.089 0.000 0.146 0.000 0.084 0.000 0.216 0.000 0.037 0.004 0.013 0.253 0.039 0.011 
+0.044 
+0.001 
+0.000 
+0.000 
+0.000 
+0.000 11,080 0.12 
+-0.064 0.000 -0.063 
+0.065 0.000 0.063 0.000 10.14 0.000 
+8,620 
+0.12 
+0.014 0.314 
+0.030 0.037 0.051 0.000 0.047 0.000 0.086 0.000 0.074 0.000 0.147 0.000 0.145 0.000 0.088 0.000 0.085 0.000 0.212 0.000 0.201 0.000 0.043 0.000 0.030 0.022 0.013 0.197 0.014 0.211 0.035 0.011 0.037 0.016 
+0.041 0.003 
+0.015 0.306 0.054 0.000 0.030 0.017 
+0.000 -0.065 0.000 0.051 0.000 0.064 0.000 0.061 0.010 0.064 0.000 10.15 0.000 10.14 0.000 
+11,086 8,585 
+0.13 0.13 
+Variable coefficients are sta ndardized and p-values are presented. Variable definitions are  in Supporting Information (Table S1) . 
+19 
+
+========19========
+
+Table 2. Earnings equations: Sibling fixed effects models of log income at age 29 (in year  2008) on lagged subjective well-being (ages 14, 16, and 22) and covariates. 
+Model 1 
+Model 2 
+Model 3 
+Model 4 
+Positive affect (1994) Positive affect (1996) Life satisfaction (2001) Positive affect (2008) Male 
+Age 
+College 
+IQ 
+Medication Height 
+Self-esteem (1994) Self-esteem (1996) Self-esteem (2001) Intercept 
+N 
+R2 
+Coeff. p-value Coeff. p-value Coeff. p-value Coeff. p-value 0.060 
+0.071 0.119 0.129 0.166 0.003 -0.008 0.081 0.033 
+10.14 
+0.044 
+0.048 0.110 
+0.010 0.007 0.000 0.000 0.960 0.772 0.082 0.271 
+0.062 0.028 0.135 0.003 0.115 0.000 0.176 0.000 0.018 0.660 -0.015 0.582 0.081 0.082 
+0.035 
+0.244 
+0.000 3,216 0.11 
+10.14 0.000 
+3,029 
+0.13 
+0.018 0.575 
+0.035 0.264 0.062 0.026 0.069 0.015 0.066 0.016 0.043 0.132 0.114 0.009 0.134 0.003 0.127 0.000 0.115 0.000 0.158 0.643 0.162 0.000 0.022 0.573 0.017 0.685 -0.08 0.753 -0.015 0.586 0.093 0.042 -0.080 0.087 
+0.011 0.737 
+0.016 0.610 0.061 0.042 0.039 0.179 10.13 0.000 9.981 0.000 
+3,217 3,017 
+0.11 0.13 
+Variable coefficients are standardized and  p-values are presented. Variable definitions  are  in Supporting Information (Table S1) . 
+20 
+
+========20========
+
+Table 3. Univariate Sobel-Goodman mediation tests on log income at age 29 (2008). 
+Independent variable Mediating variable Job (2008) 
+Supervision (2008) College (2008) Married (2008) Optimism (2008) Self-esteem (2008) Openness (2008) Conscientiousness (2008) Extraversion (2008) Agreeableness (2008) Neuroticism (2008)  
+Positive affect (1994) Coeff. 
+0.017 
+0.006 
+0.039 
+0.004 
+0.032 
+0.017 
+0.004 
+0.003 
+0.006 
+-0.001 
+0.028 
+p-value 0.000 0.000 0.000 0.000 0.000 0.000 0.003 0.000 0.000 0.181 0.000 
+% 15 5 36 4 29 15 4 3 5 -1 25 
+Coeff. 0.025 0.006 0.043 0.004 0.036 0.018 0.005 0.003 0.006 -0.002 0.031 
+Positive affect (1996) Life Satisfaction (2001) 
+p-value % 
+0.000 
+0.000 
+0.000 
+0.000 
+0.000 
+0.000 
+0.010 
+0.000 
+0.000 
+0.126 
+0.000 
+22 5 38 4 32 16 4 3 5 -2 27 
+Coeff. 0.019 0.006 0.032 0.014 0.029 0.005 -0.000 0.004 0.004 -0.000 0.028 
+p-value % 0.000 18 0.000 6 0.000 28 0.000 12 0.000 25 0.000 4 0.651 0 0.000 3 0.000 4 0.672 0 0.000 25 
+Presented are the Sobel test coefficient, p-value, and the proportion of the total effect that  is  mediated  (%). All  variable  coefficients  are  standardized.  Variable  definitions  are  in  Supporting Information (Table S1). To test for mediation we employ the Sobel-Goodman  method available in the Stata package that follows the logic described in Baron and Kenny  (35). A variable is considered a mediator (M) if it caries some part of the effect from an  independent  variable  (X),  here  positive  affect  and  life  satisfaction,  onto  a  dependent  variable (Y), in our case later earnings. Mediation occurs if (i) X significantly predicts M;  (ii)  X  significantly  predicts  Y  in  the  absence  of  M;  (iii)  M  significantly  predicts  Y  controlling for X; and (iv) the effect of X on Y shrinks upon addition of M. 
+21 
+
+========21========
+
+Supporting Information (SI) 
+Estimating the influence of life satisfaction and positive affect on later income using  
+sibling fixed-effects 
+Jan-Emmanuel De Neve and Andrew J. Oswald 
+Tables S1-S9 Figures S1-S2 
+22 
+
+========22========
+
+Table S1  
+Variable descriptions Income (2008) 
+Source 
+Range 
+$0 – $920,000 
+N 
+Mean 
+SD 
+14,914 
+34,632 
+38,284 
+Now think about your personal earnings. In  
+{2006/2007/2008}, how much income did you receive from  personal earnings before taxes, that is, wages or salaries,  including tips, bonuses, and overtime pay, and income from  
+self-employment? 
+Positive affect (1994) 
+0. never or rarely 
+20,648 
+7.96 
+2.70 
+CES-D sub-index additively composed of: 
+How  often  was  each  of  the  following  true  during  the  last  1. sometimes 
+week? 
+You felt that you were just as good as other people You felt hopeful about the future 
+Positive affect (1996) Life satisfaction (2001) 
+You were happy  You enjoyed life Idem 
+How satisfied are you with your life as a whole? 
+Positive affect (2008) 
+2. a lot of the time 
+3. most of the time or all of the time 
+additive index 0 to 12 
+Idem 1. very satisfied 2. satisfied 
+3. neither satisfied n or dissatisfied 
+4. dissatisfied 5. very dissatisfied 0. never or rarely 
+14,698 15,157 
+8.08 4.15 
+2.69 0.81 
+15,687 
+6.67 
+2.06 
+CES-D sub-index additively composed of: 
+How  often  was  each  of  the  following  true  during  the  last  1. sometimes 
+week? 
+You felt that you were just as good as other people 
+You were happy  You enjoyed life 
+2. a lot of the time 
+3. most of the time or all of the time 
+additive index 0 to 9 
+[“You felt hopeful about the future” is not available] 
+Male 
+Age (2001) White 
+Black 
+Hispanic Asian 
+Job (2008) Supervision (2008) 
+dummy  18 - 27 dummy dummy dummy dummy dummy 
+20,743 15,170 20,704 20,704 20,745 20,704 13,016 15,447 
+0.49 22.0 0.62 0.23 0.17 0.08 0.78 0.46 
+0.50 1.77 0.49 0.42 0.38 0.27 0.41 0.67 
+Are you currently working for pay at least 10 hours a week? 
+Thinking  about  your  official  job  duties,  which  of  the  0. I (do/did) not supervise anyone  following  statements  best  describes  your  supervisory  1. I (supervise/supervised) other employees  responsibilities at your (current/most recent) primary job?  
+2. I (supervise/supervised) other employees,  
+23 
+
+========23========
+
+Married (2008) 
+What is the current status of your marriage to {initials}?  1. living together  
+2. living apart because of legal separation  
+3.  living  apart  because  of  other  reason  such  as  career,  
+College (2008) Medication (2001) 
+military service, family illness, etc.  4. legitimate skip  
+College degree or higher 
+In  the  past  12  months,  have  you  taken  any  prescription  dummy medication—that is, a medicine that must be prescribed by a  
+Optimism (2008) 
+doctor or nurse? 
+LOT-R Optimism index additively composed of: 1. I'm always optimistic about my future* 2. I hardly ever expect things to go my way 
+3. Overall, I expect more good things to happen to me than  4. disagree 
+bad* 
+4. I rarely count on good things happening to me  *reverse coded 
+some of whom (supervise/supervised) others Dummy (loading respondents of categories 1  15,216 and 3) 
+0.42 
+0.49 
+dummy 
+15,697 15,150 
+0.32 0.61 
+0.46 0.49 
+1. strongly agree 2. agree 
+3. neither agree nor disagree 
+15,672 
+14.88 
+2.45 
+5. strongly disagree additive index 4 to 20 
+Self-esteem (1994) 
+Compared  with  other  people your  age,  how  intelligent  are  1. moderately below average 
+you? 
+Self-esteem (1996) Self-esteem (2001) Openness (2008) 
+Conscientiousness (2008) 
+Idem 
+Idem 
+Openness to experience index additively composed of: I have a vivid imagination*  
+I am not interested in abstract ideas  
+I have difficulty understanding abstract ideas  I do not have a good imagination  
+*reverse coded 
+Conscientiousness index additively composed of: I get chores done right away* 
+I often forget to put things back in their proper place  I like order*  
+I make a mess of things 
+20,644 
+3.85 
+1.10 
+2. slightly below average 3. about average 4. slightly above average 5. moderately above average 6. extremely above average Idem 
+Idem 
+1. strongly agree 2. agree 
+3. neither agree nor disagree 4. disagree 
+5. strongly disagree additive index 4 to 20 Idem 
+14,704 15,121 15,509 
+3.94 3.96 14.50 
+1.10 1.07 2.45 
+15,657 
+14.64 
+2.70 
+24 
+
+========24========
+
+Extraversion (2008) 
+*reverse coded 
+Extraversion index additively composed of: I am the life of the party* 
+I don't talk a lot  
+I talk to a lot of different people at parties* I keep in the background  
+*reverse coded 
+I sympathize with others’ feelings* I am not interested in other people's problems  I feel others' emotions*  
+I keep in the background 
+*reverse coded  
+I have frequent mood swings*  
+I am relaxed most of the time  
+I get upset easily*  
+I seldom feel blue  
+*reverse coded 
+Idem 
+15,634 
+13.22 
+3.06 
+Agreeableness (2008) 
+Idem 
+15,644 
+15.24 
+2.41 
+Neuroticism (2008) 
+Idem 
+15,652 
+10.45 
+2.74 
+25 
+
+========25========
+
+Table  S2. Correlations table  for  income  and  subjective  well-being  in  Add  Health  data.  Significance levels (p-value) are given below correlation coefficients. 
+                           |     Income   PA1994    PA1996    LS2001    PA2008 -------------------------+--------------------------------------------- Income (2008)              |   1.0000  
+                            | 
+                           | 
+Positive affect (1994)   |   0.0777   1.0000  
+                           |   0.0000 
+                           | 
+Positive affect (1996)   |   0.0905   0.4892   1.0000  
+                          |   0.0000   0.0000 
+                          | 
+Life satisfaction (2001) |   0.0856   0.1357   0.1730   1.0000  
+                           |   0.0000   0.0000   0.0000 
+                          | 
+Positive affect (2008)   |   0.0950   0.2529   0.2887   0.2505   1.0000  
+                            |   0.0000   0.0000   0.0000   0.0000 
+             
+Table S3. Distribution table positive affect (1994) 
+Positive affect (1994) |      Freq.     Percent        Cum. -----------------------+----------------------------------- 
+                       0 |         84        0.41        0.41 
+                        1 |        127        0.62        1.02 
+                        2 |        308        1.49        2.51 
+                        3 |        661        3.20        5.71 
+                        4 |      1,268        6.14       11.86 
+                        5 |      1,563        7.57       19.43 
+                      6 |      2,167       10.49       29.92 
+                       7 |      2,405       11.65       41.57 
+                      8 |      2,810       13.61       55.18 
+                      9 |      2,659       12.88       68.06 
+                     10 |      2,270       10.99       79.05 
+                     11 |      2,103       10.19       89.23 
+                      12 |      2,223       10.77      100.00 -----------------------+----------------------------------- 
+                  Total |     20,648      100.00 
+Table S4. Distribution table positive affect (1996) 
+Positive affect (1996) |      Freq.     Percent        Cum. -----------------------+----------------------------------- 
+                      0 |         34        0.23        0.23 
+                        1 |        108        0.73        0.97 
+                      2 |        198        1.35        2.31 
+                        3 |        421        2.86          5.18 
+                        4 |        867        5.90       11.08 
+                        5 |      1,092        7.43       18.51 
+                       6 |      1,423        9.68       28.19 
+                      7 |      1,641       11.16       39.35 
+                       8 |      2,080       14.15       53.50 
+                       9 |      1,906       12.97       66.47 
+                      10 |      1,662       11.31       77.78 
+                     11 |      1,543       10.50       88.28 
+                       12 |      1,723       11.72      100.00 -----------------------+----------------------------------- 
+                  Total |     14,698      100.00 
+26 
+
+========26========
+
+Table S5. Distribution table life satisfaction (2001) 
+Life satisfaction (2001) |      Freq.     Percent        Cum. -------------------------+----------------------------------- 
+                        1 |         92        0.61        0.61 
+                          2 |        534        3.52        4.13 
+                          3 |      1,908       12.59       16.72                            4 |      7,097       46.82       63.54 
+                          5 |      5,526       36.46      100.00 -------------------------+----------------------------------- 
+                     Total |     15,157      100.00 
+Table S6. Distribution table positive affect (2008) 
+Positive affect (2008) |      Freq.     Percent        Cum. -----------------------+----------------------------------- 
+                        0 |         48        0.31        0.31 
+                        1 |         95        0.61        0.91 
+                        2 |        306        1.95        2.86 
+                        3 |      1,019        6.50        9.36 
+                        4 |      1,156        7.37       16.73 
+                      5 |      1,552        9.89       26.62 
+                      6 |      2,694       17.17       43.79 
+                       7 |      2,410       15.36       59.16 
+                       8 |      2,186       13.94       73.09 
+                       9 |      4,221       26.91      100.00 -----------------------+----------------------------------- 
+                   Total |     15,687      100.00 
+Table S7. Individual fixed-effects models of log income on lagged subjective well-being  and covariates. 
+Note  that  this time  series only covers 2 time periods for  which  earnings  are  available  (2001  and  2008).  Subjective  well-being  variables  are  transformed  into  5-point  scales. 
+27 
+
+========27========
+
+Table S8. Granger causality tests. 
+Granger causality tests analyze whether lagged observations of income (2001) and life  satisfaction (2001) have incremental forecasting power when added to a univariate  autoregressive representation of income (2008) and positive affect (2008). 
+Table S9. Multivariate mediation test on log income (2008). 
+Multivariate mediation tests for multiple potentially mediating variables (MV) considered  jointly. These variables may carry the effect from lagged positive affect or life satisfaction (IV) to later earnings (DV). Presented are the mediation test coefficient, p-value, and the  proportion of the total effect that is mediated (%). All variable coefficients are  
+standardized. The mediated (indirect) effect is tabulated using the product of the  coefficients method that multiplies the regression coefficients from the IV on MV and MV  on DV regressions. These sets of coefficients and their standard errors are obtained using  “seemingly unrelated regression” (sureg in Stata). The mediated effect is obtained by  multiplying the coefficients using the “non-linear combination” command (nlcom in Stata)  and these single mediated effects are considered additively when tabulating the total  indirect or mediated effect (also using nlcom in Stata). For a detailed description and  example please see http://www.ats.ucla.edu/stat/stata/faq/mulmediation.htm 
+28 
+
+========28========
+
+Fig S1. Sibling fixed effects model (Table 2) predicted values. Quadratic fits with 95%  confidence intervals. 
+Fig S2. Sibling fixed effects model predicted values using identical specification as in  Table 2 except taking absolute income values instead of natural log. Quadratic fits are  presented with 95% confidence intervals. 
+29 
+
+========29========
+

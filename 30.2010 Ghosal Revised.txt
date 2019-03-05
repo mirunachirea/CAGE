@@ -1,0 +1,440 @@
+December 2010 
+No.30 (revised) 
+Decisions with Endogenous Frames 
+Patricio Dalton and Sayantan Ghosal 
+CentER, Tilburg University and University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Decisions with Endogenous Frames 
+Patricio S. Dalton CentER, Tilburg University 
+Sayantan Ghosal CAGE, University of Warwick 
+September 14, 2011 
+Abstract 
+We develop a model of decision-making with endogenous frames and contrast the normative implications of our model to those of choice theoretic models in which observed choices are determined by exogenous frames or ancillary conditions. We argue that, frames, though they may be taken as given by the decision-maker at the point when choices are made, matter for both welfare and policy purposes . 
+JEL classi–cation numbers: D01, D62, C61, I30. 
+Keywords: Decisions, choice, frames, standard, behavioral, welfare. 
+An earlier version of this paper has been circulated as a CentER Research paper 2010-21 with the name "Decisions with Endogenous Preference Parameters". This paper was prepared for a special issue of Social Choice and Welfare on Reconciling Normative and Behavioural Economics, edited by Ben McQuillin, Robert Sugden and Marc Fleurbaey. It constitutes a short and selective version of the paper presented at the University of East Anglia Conference on Reconciling Normative and Behavioural Economics on April 2008. We are indebted to Fleurbaey, McQuillin, Sugden and two anonymous referees for their comments that have immensely improved the paper. Both authors acknowledge support from ESRC-DFID grant RES-167-25-0364. addresses: p.s.dalton@uvt.nl. and s.ghosal@warwick.ac.uk. 
+1 
+
+========2========
+
+1 Introduction 
+In recent prominent contributions, Bernheim and Rangel (2007, 2009) (hereafter BR) and Rubinstein and Salant (2008) (hereafter RS) model choice problems where observed choices are determined by frames (RS) or ancillary conditions (BR). A frame is de–ned as an "observable information that is irrelevant in the rational assessment of the alternatives, but nonetheless a¤ects choice" (RS, abstract). An ancillary condition is "an exogenous feature of the choice environment that may a¤ect behavior, but is not taken as relevant to a social planner™s evaluation" (Bern- heim and Rangel, 2008, pp. 4). Examples of frames or ancillary conditions include the order in which candidates are listed on a ballot, default alternatives, salience of the alternative, deadline for making a choice or list of alternatives with an aspiration threshold (RS), the point in time at which a choice is made, the manner in which alternatives are presented, the labeling of a particular option as the ﬁstatus-quoﬂ (BR), etc. 
+A key dilemma raised by behavioral economics is whether welfare assessments can rely on observed choice alone. When choice is a¤ected by frames or ancillary conditions, the issue is whether such frames or ancillary conditions matter from a welfare viewpoint. There are two diametrically opposite views: (i) frames and ancillary conditions, via their impact on choices, do not matter for making welfare assessments, and (ii) frames and ancillary conditions, though taken as given by the decision-maker at the point when choices are made, matter for welfare purposes. BR and RS endorse the –rst view. Both papers construct binary relations solely from observed choice and show that such derived binary relations can be used to rank actions available to the decision-maker from a welfare viewpoint: frames or ancillary conditions do not matter in the welfare ranking. 
+Arguably, there are instances in which frames could be viewed as endogenous. For example, RS consider a deadline as an exogenous frame, although there is con- siderable empirical evidence that people self-impose deadlines to overcome procrasti- nation (see for example Ariely and Wertenbroch, 2002). The number of alternatives that the decision-maker actually considers (limited focus) is also viewed as an exoge- nous frame. However, limited focus can be used strategically as a self-control device preventing the decision-maker from embarking in a hazardous activity which may 
+2 
+
+========3========
+
+later regret (Carrillo and Mariotti, 2000). Finally, RS consider the case in which decision-makers encounter the alternatives in the form of a list and choose given an aspirations threshold which is exogenous. There is also vast evidence, however, that aspirations adapt to actions (see for example Easterlin, 2001). 
+Given the above evidence, this paper studies a class of decision problems with endogenous frames. We compare, and contrast, the relationship between choice and welfare in our set-up with those in BR™s and RS™s choice theoretic models. 
+In this paper, a frame is broadly interpreted to include di¤erent psychological states such as reference points, beliefs, emotions, temptations, moods, aspirations, etc. There is work from social psychology and economics which suggests that psy- chological states a¤ect behavior1. In addition, there is also a great deal of evidence which suggests that what a person does (or expect to do) determines her psycholog- ical states. Baron (2008, pp. 68) argues that emotions are partly under our control: individuals can "induce or suppress emotions in themselves almost on cue." Some people may reshape their character, so that their emotional responses change. Albert Bandura (1986) de–nes reciprocal determinism to the view of human functioning as the product of a dynamic interplay of personal, behavioral, and environmental in- ⁄uence: the way in which people interpret the results of their own behavior informs and alters their environments and personal factors which, in turn, inform and alter subsequent behavior through an "environmental feedback e¤ect." 
+Section 2 takes into account these insights from psychology and introduces a decision-making model with endogenous frames. We endogenize frames in the fol- lowing way. We distinguish a pre-decision frame from a post-decision frame and assume that the post-decision frame depends on a single-valued map modelling the feedback e¤ect from actions and the pre-decision frame. The individual faces a de- cision problem which include a given pre-decision frame, a feedback map and a set of feasible actions. As a preliminary step, it is useful to consider a "short-run" deci- sion problem which consists in choosing an action from some feasible set of actions given an initial pre-decision frame which generates a post-decision frame. Our focus, however, is on the "long-run" outcomes of a recurrent decision situation where the 
+1Elster (1998) provides a review on how individual choices are a¤ected by emotions; Sen (1977) discusses how personal values shape choices; Appadurai (2004) studies the relationship between aspirations and behavior. 
+3 
+
+========4========
+
+decision-maker repeatedly chooses from the same set of feasible actions. 
+In order to describe the long-run outcomes of such a recurrent decision situation, since post-decision frames depend on the action chosen and the pre-decision frame, we de–ne a feasible, consistent decision state as a pair of an action and a frame where the current pre-decision frame coincides with the post-decision frame and can be generated by some sequence of actions starting from the initial pre-decision frame. In general, we show that the set of feasible, consistent decision states may be empty. We, then, introduce two assumptions, one where the post-decision frame depends only on actions (and not on the pre-decision frame) and the other where frames are exogenous so that the post-decision frame is always the pre-decision frame. Any of these two assumptions ensures that the set of feasible, consistent decision states is non-empty. We conduct most of our analysis under either of these two assumptions. 
+When the set of feasible, consistent decision states is non-empty, we study two distinct decision problems. A standard decision problem (where the decision-maker is rational) is one where the decision-maker chooses a feasible, consistent decision state that maximizes ex post (experienced) utility (i.e., the decision-maker under- stands, and internalizes, the feedback mechanism). A behavioral decision problem (where the decision-maker is boundedly rational) is one where the decision-maker takes the pre-decision frame (mistakenly) as –xed when choosing actions although an outcome of a behavioral decision problem is required to be feasible and consistent. In that sense, the boundedly rational choice is also stable.2 
+We show the link between our model and models of reference-dependent prefer- ences where the frames (i.e. reference points) are also actions (Kahneman-Tversky, 1979; Tversky-Kahneman, 1991). We present a number of di¤erent examples to show how behavioral decisions can be used to capture phenomenon such as addic- tion, aspirations failure and "the grass is always greener on the other side". We, then, explore the relationship between the standard and behavioral decision prob- 
+2In a companion paper "Behavioral Decisions and Welfare" (Dalton and Ghosal, 2010) we pro- vide the axiomatic characterization, via choice correspondences, of standard vs behavioral decisions in a class of models where frames depend solely on actions via a feedback e¤ect. In this paper, we generalize this decision model by distinguishing between a pre-decision and a post-decision frame. Moreover, here we focus on comparing decision-making with endogenous frames to choice with exogenous frames or ancillary conditions. 
+4 
+
+========5========
+
+lems. In scenarios where the post-decision frame depends only on actions (and not on the pre-decision frame), we provide a necessary and su¢ cient condition under which the set of standard decision outcomes is a subset of the set of behavioral de- cision outcomes. In scenarios where frames are exogenous, the set of standard and behavioral solutions are identical. 
+Section 3 summarizes the choice-theoretic framework in BR and RS and section 4 clari–es the relationship between their frameworks and our model. We contrast our decision model to the choice frameworks of BR and RS as follows. In scenarios where the post-decision frame depends only on actions (and not on a pre-decision frame), we show that (a) the "rational" ranking over decision states induces a unique, complete ranking of actions, and (b) this ranking agrees with the BR (and RS) ranking where both are de–ned when the set of standard decision outcomes is a subset of the set of behavioral decision outcomes. However, there are examples where the two rankings do not agree where both are de–ned. Finally, in scenarios with exogenous frames, we show that the projection of the "rational" ranking over decision states on actions agrees with the BR (and RS) ranking where both are de–ned. 
+In section 5, we analyze the policy implications of our argument. Clearly, when the outcomes of both standard and behavioral decision problems coincide, there is no case for any sort of intervention by a social planner. In contrast, in scenarios where there are multiple welfare ranked outcomes, the "libertarian paternalism" approach advocated by Thaler and Sunstein (2003) that only seeks to alter the frames or ancillary conditions could work. In general, however, we argue that the scope for such policy interventions is limited and if "hard paternalism" (i.e. directly constraining the choices of individuals) is to be avoided, interventions should aim to ensure that decision-makers internalize, with high probability, the feedback from actions to frames. 
+The last section concludes and discusses directions for further research. 
+2 Decisions With Frames 
+In our framework, the objects of preferences are ordered pairs (a; q) 2 AQ where a is an "action" and q is a "frame". Both A and Q are non-empty and –nite 
+5 
+
+========6========
+
+universal sets (i.e., sets of all conceivable actions and frames). Any (a; q) with a 2 A and q 2 Q is a decision state. The preferences of the decision-maker are denoted by , a complete, transitive binary relation ranking pairs of decision states in (A  Q)  (A  Q). The expression f(a; q);(a0; q0)g 2 is written as (a; q)  (a0; q0) and is to be read as "(a; q) is weakly preferred to (a0; q0) by the decision- maker". 
+We distinguish between a pre-decision frame q0 and a post-decision frame q. There is a map ˇ : A  Q ! Q modelling the feedback e¤ect from actions and a pre-decision frame to a post-decision frame. It is assumed that ˇ (a; q) is non-empty and single-valued for each (a; q) 2 A  Q. 
+The preferences of the decision-maker re⁄ects some form of ex-post utility (in- terpreted as experienced utility) which depends on the chosen action a and the post-decision frame q. Following Harsanyi (1954), we go beyond the assumptions of the usual ordinal utility theory and assume the intra-personal comparability of utility. We assume not only that the decision-maker is able to rank di¤erent ele- ments in A for a given q but also that she is able to assess the subjective satisfaction she derives from an action when the post-decision frame is q with the subjective satisfaction she derives from another action when the post-decision frame is q0 6 = q. This formulation is critical in order to make meaningful welfare comparisons. 
+As a preliminary step, we consider a "short run" concept of the decision problem, consisting of a non-empty feasible set A0  A and a pre-decision frame q0 2 Q. The decision-maker chooses some a 2 A0, and this induces the post-decision frame ˇ (a; q0). A decision state (a; q) is a "short run" outcome of a decision problem if and only if 
+(a; q0)  
+ 
+a0; q 
+ 
+0 
+for all a0 2 A0 with q = ˇ(a; q0): 
+In this paper, our focus will be on the "long run" (equivalently, steady state) outcomes of a recurrent decision situation, where a decision-maker faces the same non-empty feasible set A0  A repeatedly, starting with a frame q0 in "period 0"; in each period t > 0, the pre-decision frame is given by the post-decision frame for t  1. 
+Given A0 and q0, a decision state (a; q) is feasible if there exists a sequence (a1; q1); ::::;(aT; qT) such that qt = ˇ(at; qt 
+ 1) 
+and at 2 A0 for all 0 < t  T with 
+6 
+
+========7========
+
+aT = a and qT = q.3 Finally, given A0, we de–ne a consistent decision state as a pair (a; q) such that q = ˇ(a; q) and a 2 A0. 
+A "long run" decision outcome is a decision state that is both feasible and consistent. The question is whether starting from any arbitrary non-empty set A0  A and any pre-decision frame q0, a feasible consistent decision state always exists. Example 1 below shows that, in general, this is not the case. 
+Example 1: Consider the feedback function depicted below, where the –rst column represents the set of feasible actions, the –rst row represents the pre-decision frames and the intermediate cells are the post-decision frames: 
+q1 
+q2 
+a1 
+q2 
+q1 
+a2 
+q2 
+q1 
+I.e. q2 = ˇ(a; q1) but also q1 = ˇ(a; q2), for each a 2 fa1; a2g. Clearly, there is no decision state such that q = ˇ(a; q) for a 2 fa1; a2g. 
+Moreover, the set of consistent decision states and feasible decision states may have an empty intersection starting from an arbitrary q0. 
+Example 2: Consider the feedback function depicted below: 
+q1 
+q2 
+q3 
+a1 
+q2 
+q1 
+q3 
+a2 
+q2 
+q1 
+q3 
+a3 
+q2 
+q1 
+q3 
+i.e. q2 = ˇ(a; q1), q1 = ˇ(a; q2) and q3 = ˇ(a; q3) for each a 2 fa1; a2; a3g. The set of consistent decision states is f(a0; q0) : (a; q3); a 2 fa1; a2; a3gg. However, starting from qi, i = 1;2, the set of feasible decision states is f(a0; q0) : (a; qi); a 2 fa1; a2; a3g; i = 1;2g which has an empty intersection with set of consistent decision states.  
+To deal with these two problems, we introduce the following assumption on the feedback function and conduct most of our analysis in terms of it. 
+Assumption 1: There exists a function f(a) such that f(a) = ˇ(a; q) for all a 2 A. 
+3Notice that, in general, the set of feasible decision states depends on 
+q0 (see for instance Example 
+1). 
+7 
+
+========8========
+
+Under Assumption 1, post-decision frames depend only on the actions chosen by the decision-maker and not on the pre-decision frame q0. 
+The following example illustrates a feedback function that satis–es this assump- tion: 
+Example 3: The feedback function is: 
+q1 
+q2 
+q3 
+a1 
+q2 
+q2 
+q2 
+a2 
+q3 
+q3 
+q3 
+a3 
+q1 
+q1 
+q1 
+i.e. q2 = f(a1) = ˇ(a1; q), q3 = f(a2) = ˇ(a2; q) and q1 = f(a3) = ˇ(a3; q) for each q 2 fq1; q2; q3g. Notice that, in this case, the non-empty set of feasible, consistent decision states is (ai; f(ai)), i = 1;2;3. 
+Under Assumption 1, it is possible to de–ne a set of frames Q0 = F(A0) where Q0 = fq0 : q = ˇ(a0; f(a)) for some a; a0 2 A0g, i.e., the set of frames that the indi- vidual can generate by making choices from A0. In this way, the set of feasible consistent decision states f(a0; q0) : q = f(a) for some a 2 A0g is a non-empty subset of the set of feasible decision states A0  F(A0). 
+At some points in the paper, we will also analyze other special case (i.e. a case in which Assumption 1 does not hold): exogenous frames. This is de–ned by the following assumption on the feedback e¤ect: 
+Assumption 2: For each q 2 Q, q = ˇ(a; q) for all a 2 A. 
+In this case, the set of feasible consistent decision states depends only on the initial pre-decision frame q0. The set of decision states that are feasible for a given decision problem is f(a; q0) : a 2 A0g; then for all a0 2 A0;(a0; q0) is consistent. The following example shows a feedback function that satis–es Assumption 2. 
+Example 4: The feedback function is 
+q1 
+q2 
+a1 
+q1 
+q2 
+a2 
+q1 
+q2 
+i.e. qi = ˇ(a; qi), for each q 2 fq1; q2g. If the pre-decision frame is qi, i = 1;2, each (a; qi), a 2 fa1; a2g is a feasible, consistent decision state. 
+8 
+
+========9========
+
+Note that although assumptions 1 and 2 are su¢ cient conditions for the set of feasible and consistent decision states to be non-empty (for any non-empty A0 and pre-decision-frame q0), neither of these two conditions is necessary. The following example provides a feedback e¤ect that illustrates this point: 
+Example 5: Consider the feedback function depicted below: 
+q1 
+q2 
+a1 
+q2 
+q1 
+a2 
+q1 
+q2 
+i.e. q2 = ˇ(a1; q1), q1 = ˇ(a2; q1), q1 = ˇ(a1; q2), q2 = ˇ(a2; q2). In this case, the feedback function doesn™t satisfy either Assumption 1 or Assumption 2. However, if the pre-decision frame is q1, the feasible consistent decision state is (a2; q1) and if the pre-decision frame is q2, the feasible consistent decision state is (a2; q2).  
+In what follows, we study decision problems, indexed by A0; q0, where the set of feasible, consistent decision states ("long run" decision states) is non-empty. Given Example 5, where required, we will directly assume that this set is non-empty. 
+Now that we have described the structure of the decision problem and the choice that individuals have to make, we are in conditions to introduce the normative principle about how decisions are made. Our focus will be on "long run" decision states corresponding to the outcomes of two distinct decision problems: standard and behavioral. 
+1. Standard Decision Problems 
+Fix a non-empty feasible set of actions A0  A and a pre-decision frame q0. Sup- pose the set of feasible, consistent decision states is non-empty. A standard decision problem (interpreted as rational decision-making) is one where the decision-maker chooses a pair (a; q) from within the set of feasible consistent decision states (i.e., the decision-maker understands, and fully internalizes, the feedback mechanism). A feasible consistent decision state (a; q) is the outcome of a standard decision problem (a rational choice) if and only if 
+(a; q)  
+ 
+a0; q0 for all 
+ 
+a0; q0 with q0 = ˇ(a0; q0): 
+Let M denote the set of all outcomes of a standard decision problem. 
+9 
+
+========10========
+
+The set of feasible consistent decision states is f(a; f(a)) : a 2 A0g under As- sumption 1, and f(a; q0) : a 2 A0g under Assumption 2. The most preferred elements of any of these two subset are elements of M: 
+Under the assumption that the preference order  is complete and transitive, as long as the set of feasible consistent decision sets is non-empty and –nite, M is non-empty as well. 
+2. Behavioral Decision Problems 
+Fix a non-empty feasible set of actions A0  A and a pre-decision frame q0. Suppose the set of feasible consistent decision states is non-empty. A behavioral decision problem (interpreted as boundedly rational decision-making) is one where the decision-maker wrongly assumes that the current pre-decision frame is –xed when choosing an action. A feasible, consistent decision state (a; q) is the outcome of a behavioral decision problem if and only if 
+(a; q)  
+ 
+a0; q for all a0 2 A with q = ˇ(a; q): 
+Let E denote the set of outcomes of a behavioral decision problem. We interpret E as an equilibrium concept for repeated decisions where at each period, the behav- ioral individual optimizes wrongly assuming that the current pre-decision frame is –xed. That is, given q0, A0, the choices of the behavioral decision maker generates a sequence of decision states (at; qt : t > 0) such that 
+(at; qt  
+ 
+a0; q 
+ 
+ 1) t  1 
+for all a0 2 A0 with qt = ˇ(at; qt 
+ 1): 
+If in some period the decision-maker reaches an element of E, he will choose that element for ever.4 
+Notice that, under Assumption 2, E = f(a; q0) : (a; q0)  (a0; q0) for all a0 2 Ag = M. Thus behavioural and ‚rational™decision-making are equivalent when frames are exogenous. 
+4Note that, in our model, it is rational to maximize ex-post (experienced) utility. A behavioral decision-maker, however, typically fails to do so. We acknowledge that this view is subject to criticism (see for example, Bernheim 2009)). However, other competing normative criteria proposed in the literature of behavioral welfare economics have also important drawbacks. Kahneman and Sugden (2005), while acknowledging the criticisms of the normative position adopted here, suggest that it could represent a useful starting point for welfare analysis. 
+10 
+
+========11========
+
+Under Assumption 1, E contains those feasible consistent decision states (a; f(a)) such that (a; f(a))  (a0; f(a)) for all a0 2 A.5 It is important to acknowledge that, even when E is non-empty, E = M and Assumption 1 holds, E may be never reached as the following example demonstrates.6 
+Example 6: The feedback function is: 
+q1 
+q2 
+q3 
+a1 
+q1 
+q1 
+q1 
+a2 
+q2 
+q2 
+q2 
+a3 
+q3 
+q3 
+q3 
+i.e. qi = f(ai) = ˇ(a1; q) for each q 2 fq1; q2; q3g. Notice that, in this case, the non-empty set of feasible consistent decision states is (ai; qi), i = 1;2;3. Assume that the preferences  are represented by an utility function u : A  Q ! < and the payo¤ table is 
+q1 q2 q3 
+a1 0 1 0 
+a2 1 0 0 
+a3 0 0 1 
+Suppose the initial pre-decision frame is q1. Then the sequence of decision states generated by a behavioral decision-maker is (a2; q1), (a1; q2), (a2; q1), ... . E = M = fa3; q3g; but E is never reached.  
+Remarks 
+Remark 1. Reference-dependent preferences 
+It is convenient to relate the model of decision-making studied here to the case of reference-dependent preferences where frames are also actions (i.e. Q = A) and a chosen action becomes a post-decision frame ˇ(a; q) = a for all (a; q) 2 AQ. In this case, the ranking of consistent decision states (a; a) is a frameŒindependent ranking of actions. For example, in Tversky and Kahneman (1991)™s theory of reference- dependent preferences over consumption, a could be a consumption bundle and q 
+5Example 8 later will show that 
+E may be empty even Assumption 1 is satis–ed. 
+6In scenarios characterized by Assumption 1, in our companion paper "Behavioral Decisions and Welfare" (2010) we show the existence and stability of behavioral decision outcomes under the assumption that actions and frames are complements in  and f(a) is increasing in a. 
+11 
+
+========12========
+
+is a reference point (another commodity bundle). If the decision-maker chooses a when the pre-decision reference point is q, the post-decision reference point shifts to a. In this sense, the model of decision-making studied here corresponds to a situation where "the reference state usually corresponds to the decision-maker™s current state." (Tversky and Kahneman, 1991, pp. 1046). 
+Remark 2. Examples of Behavioral Decisions 
+Consider the special case of our model where Q = fq1; q2g, A = fa1; a2g and qi = ˇ(ai; q) for all q 2 fq1; q2g. We show that even in this special case, M = 6 E and behavioral decision outcomes have properties normally associated with the Nash equilibria of two-person normal form games. Assume that the preferences  are represented by an utility function u : A  Q ! <. Let  (q) = arg maxa2A u(a; q). A pure outcome of a behavioral decision is a decision state (~a;q~) such that a~ 2  (~q) and q~= ˇ(~a;q~). A pure outcome of a standard decision problem is one where (^a;q^) 2 arg max(a;q)2AQ u(a; ˇ(a; q)). The following examples illustrate this remark. 
+Example 7. A unique ine¢ cient behavioral decision in dominant actions: ad- diction 
+Consider the following payo¤ table: 
+a1 
+q1 1 
+q2  1 
+a2 
+2 
+0 
+We interpret these payo¤s as an example of addiction where a2 corresponds to smoking and a1 corresponds to not smoking. The frames qi are interpreted here as two di¤erent health states of the individual (q2 is less healthy than q1). In this case, in a behavioral decision problem, the decision-maker always chooses a2 as a2 is the dominant action for each q: if the individual takes her health state q as given she always prefers to smoke. The unique behavioral decision outcome is (a2; q2) with a payo¤ of 0. However, note that the consistent decision state (a1; q1) with a payo¤ of 1 is the only element of M: once the individual takes the feedback from actions to health states into account, she always chooses not to smoke. 
+Example 8. No pure action behavioral decision: the grass is always greener on 
+12 
+
+========13========
+
+the other side 
+a1 
+q1 0 
+q2 1 
+a2 
+1 
+0 
+We interpret these payo¤s as an example of a situation where the individual makes a choice between two di¤erent lifestyle. The frames qi denote a speci–c lifestyle and ai denotes the action that chooses location qi. Starting from q1, the decision-maker prefers a2 to a1 while starting from q2, the decision-maker prefers a1 to a2: the individual always believes that the grass is greener on the other side. There is no behavioral decision in pure strategies. The decision-maker is, however, indi¤erent between both the two consistent decision-states (a1; q1) and (a2; q2). 
+Example 9. Multiple welfare ranked equilibria: aspirations 
+a1 
+q1 1 
+q2 0 
+a2 
+0 
+2 
+We interpret these payo¤s as an example of an aspiration failure. Let a1=undertaking an action that perpetuates the status quo and a2=undertaking an action that changes the status quo. The frames here are interpreted as aspirations levels, with q1 ="low aspirations" and q2 ="high aspirations" being the consistent frames associated with a1 and a2 respectively. When decision-maker™s aspirations are high, (a2; q2) ˜ (a1; q2); while when her aspirations are low, (a1; q1) ˜ (a2; q1). In this example, there are two pure behavioral decision outcomes (a1; q1) and (a2; q2), with (a2; q2) strictly dominating (a1; q1). Thus, the behavioral decision outcome (a1; q1) is an instance of an aspirations failure. 
+Note that the payo¤s in Example 8 can be interpreted as reference dependence without loss aversion while the payo¤s in Example 9 can be interpreted as refer- ence dependence with loss aversion (a hypothesis supported by most experimental evidence). 
+Remark 3. Stackelberg vs. Nash Equilibrium 
+In a purely formal sense, a standard (respectively, behavioral) decision problem with endogenous frames can be viewed as the Stackelberg (respectively, Nash) equi- librium of a dual self intra-personal game where one self chooses actions and the 
+13 
+
+========14========
+
+other self chooses frames. This equivalence, though purely formal, makes the point that in a behavioral decision problem (in contrast to standard decision problem), the individual imposes an externality on himself that he doesn™t fully internalize. 
+Example 8 demonstrates that, in general, E may be empty even when M isn™t. However, given that a behavioral decision outcome can be interpreted as a Nash equilibrium of a two person game, as long as A0 and Q are –nite sets, a mixed strategy behavioral decision outcome always exists. Under assumption 1, an existence result for E when a and q are complements can be adapted from Ghosal (2011). 
+Remark 4. Linking Standard and Behavioral Decisions 
+Consider the following condition on preferences: 
+C^ : For any consistent decision states (a; q) and (a0; q0) such that (a; q)  (a0; q0), (a; q)  (a0; q). 
+Fix the consistent states (a; q), (a0; q0). Condition (C^) states that if the consistent state (a; q) is preferred to the consistent state (a0; q0), then the action a weakly dominates the action a0 at the frame q. Note that preferences in Example 9 satis–es (C^) while the preferences in Example 7 violate (C^). We are now in a position to prove the following useful result: 
+Proposition 1. Suppose Assumption 1 holds. Then, M  E if and only if (C^) holds. 
+Proof. Under Assumption 1, M is non-empty. Suppose (a; f(a)) 2 M. As (a; f(a))  (a0; f(a0)) for all (a0; f(a0)) with a0 2 A0, by (C^), (a; f(a))  (a0; f(a)). It follows that (a; f(a)) 2 E. Next, suppose, by contradiction, (a; f(a)) 2 M \ E but (C^) doesn™t hold. As (a; f(a)) 2 M, (a; f(a))  (a0; f(a0)) for all a0 2 A0. As, by assumption, condition (C^) doesn™t hold, there exists a0 2 A0 such that (a0; f(a)) ˜ (a; f(a)). But, then, (a; f(a)) 2= E, a contradiction. 
+Note that even when condition (C^) holds, if Assumption 1 fails to be satis–ed, the intersection of M and E is empty, as the following example shows: 
+Example 10: The feedback function is: 
+q1 
+q2 
+q3 
+a1 
+q1 
+q1 
+q1 
+a2 
+q2 
+q2 
+q2 
+a3 
+q3 
+q1 
+q2 
+14 
+
+========15========
+
+Notice that, in this case, the non-empty set of feasible, consistent decision states is (ai; qi), i = 1;2. Assume that the preferences  are represented by an utility function u : A  Q ! < and the payo¤ table is 
+a1 
+q1 1 
+q2 0 
+q3 0 
+a2 
+a3 
+0 0 
+2 3 
+0 0 
+Condition (C^) is satis–ed as (a2; q2) ˜ (a1; q1) and (a2; q2) ˜ (a1; q2). However, M = f(a2; q2)g and E = f(a1; q1)g.  
+3 Choice with Frames or Ancillary Conditions 
+In this section, we present the key features of the analysis of choice with frames or ancillary conditions studied by BR and RS. We assume that both A and Q are non-empty –nite sets containing at least two elements each. 
+Both BR and RS study generalized (or extended) choice problems (A; q) where q is a frame or an ancillary condition. Both BR and RS make the point that, in practice, it is di¢ cult to draw a distinction between characteristics of elements in A and variables in Q; which could also be viewed as characteristics of elements in A. 
+An individual™s choices are described by a correspondence c(A0; q)  A0 for each non-empty feasible set A0  A. Further, c(A0; q) is non-empty for all pairs (A0; q).7 De–ne aPb8 i¤ for all admissible (A0; q) with a; b 2 A0, b =2 c(A0; q): when aPb, following BR, a is strictly unambiguously chosen over b.9 De–ne aRb i¤ ˘ aPb: there is some generalized choice problem where both a and b are present and a is chosen. De–ne xIy i¤ xRy and yRx: there is some generalized choice problem where both a and b are present and a is chosen and some other generalized choice problem where both a and b are present and b is chosen. BR show that R is necessarily complete: for any a and b the individual must necessarily choose either a or b from any (fa; bg; q). Moreover, they also show that none of the binary relations 
+7RS study choice functions while BR allow for choice correspondences. 
+8For ease of exposition, we follow BR although we note that RS also derive a preference relation similar to P. 
+9In words, the statement 
+"aPb" means that whenever a and b are available, b is never chosen. 
+15 
+
+========16========
+
+need be transitive although they do show that P is acyclic i.e. for any a1,...,aK, if akPak+1 then ˘ aKPa1. BR, then, go on to make the following de–nition: 
+De–nition (Weak Welfare Optimum, Bernheim and Rangel, 2009): It is possi- ble to strictly improve on a choice a 2 A0 if there is b 2 A0 such that bPa. When a strict improvement is impossible, a is de–ned as a Weak Welfare Optimum relative to some feasible set A0 (where a 2 A0). 
+In using a Weak Welfare Optimum to rank actions, BR construct a frame- independent ranking of actions. In e¤ect, BR take the position that all frames are normatively irrelevant. The following result underpins their welfare analysis: 
+Result 1 (FACT 1, Bernheim and Rangel, 2007): If a 2 c(A0; q) for some (A0; q), then a is a weak welfare optimum relative to actions in A0. 
+4 Choice and Welfare 
+In this section, we compare and contrast the normative implications of the decision model introduced in Section 2 with that of BR and RS described in Section 3. We only consider decision scenarios characterized by either Assumption 1 or Assumption 2. 
+The framework of decision making studied in Section 2 takes the position that post-decision frames are normatively relevant while BR™s position, given their def- inition of a Weak Welfare Optimum, is that frames are normatively irrelevant. A rational decision-maker in the former normative position chooses over consistent decision states. In BR™s normative position, however, the rational decision-maker chooses among actions independently of the frame. 
+In general, for RS and BR, what matters for welfare is the revealed preference binary relation P based on behavioral choice. In contrast, what matters for welfare purposes in our model is the ranking of feasible consistent decision states where both actions and frames matter. By assumption, the "rational" ranking of actions is complete and transitive; however, P need not be complete and is acyclic. The question then is whether the two rankings, P and %, agree where both are de–ned. 
+Observe that the ranking of the preference relation % over the set of feasible consistent decision states corresponds to that of a standard decision-maker and we refer to this as the "rational" ranking of decision states. 
+16 
+
+========17========
+
+To begin with, consider scenarios characterized by Assumption 1 where the "ra- tional" ranking of decision states directly induces a unique ranking of actions (i.e., the "rational" ranking of consistent decision states (a; f(a)) induces a unique, com- plete ranking of actions in A0). We can then ask whether this ranking agree with BR ranking P where both are de–ned. The following proposition clari–es the rela- tionship of the two rankings: 
+Proposition 2: Given Assumption 1, if condition (C^) holds, there is no pair of actions a; a0 such that (a; f(a)) ˜ (a0; f(a0)) and a0Pa. 
+Proof. If for all q, (a0; q) ˜ (a; q), by Result 1, for BR a0Pa. We need to ensure that there are no a and a0 such that (i) (a; f(a)) ˜ (a0; f(a0)) and (ii) for all q, (a0; q) ˜ (a; q). By Proposition 1, the conjunction of (i) and (ii) is ruled out whenever (C^) holds.  
+Proposition 2 shows that whenever M  E, the unique complete "rational" ranking over actions agrees with BR™s ranking of actions where both are de–ned. 
+Example 7 shows how this condition may fail. In example 7, the "rational" ranking of actions ranks a1 over a2 but clearly, a2Pa1. 
+As already noted in Section 2, Remark 1, the case of reference dependent pref- erences is represented by setting Q = A and f(a) = a. The "rational" ranking of feasible, consistent decision states (a; a) is a frameŒindependent ranking of actions. Munro and Sugden (2003), in their reformulation of Tversky and Kahneman, de–ne a concept of reference-neutral preference. Their de–nition of loss aversion implies condition (C^) (i.e., if a0 is preferred to a in the reference neutral sense, then a0 is preferred to a when the reference point is a0). Therefore, in this case, the "rational" ranking of consistent decision-states agrees with BR™s ranking. 
+Consider, next, the case where Assumption 2 prevails (exogenous frames). Ob- serve that the "rational" ranking of decision states in this case does not induce a ranking solely over actions. We state the following result as an immediate conse- quence of the analysis presented so far: 
+Proposition 3. Given Assumption 2, there is no pair of actions a; a0 and frame q such that (a; q)  (a0; q) and a0Pa. 
+Proof: Under assumption 2, the set of feasible consistent decision states is (a; q0), a 2 A0 and E = f(a; q) : (a; q)  (a0; q) for all a0 2 A and q 2 Qg = M (i.e. behavioral and standard decision-making are equivalent). But, then, there is no a; a0 
+17 
+
+========18========
+
+and q such that (a; q)  (a0; q) and a0Pa.  
+Proposition 3 shows that with exogenous frames, the set of weak welfare optima derived solely from observed choice contain all the actions corresponding to elements in M so that the "rational" ranking of consistent decision states agrees with, via their projection on the set of actions, with BR™s ranking where both are de–ned. However, the inclusion of the weak welfare optima induced by the "rational" rank- ing of consistent decision states in the set of weak welfare optima consistent with observed choice may be strict as in Example 9. 
+5 Policy Implications 
+What are the policy implications of our model? 
+Thaler and Sunstein (2003) recommend a type of intervention called libertarian paternalism. They argue that, in the cases in which the choice is reference-dependent (e.g. status quo bias or default option bias), the social planner should choose the reference point or default option in order to steer people™s choices in desirable direc- tions. In this way, the social planner would achieve her goal of maximizing people™s welfare without forcing anybody to do anything they wouldn™t do. 
+To what extent are their conclusions a¤ected when reference points (frames) adjust quickly to actions? If there are multiple welfare ranked behavioral decision outcomes, as in Example 9, then the interventions that determine an initial reference point might have an impact by selecting which decision outcomes the decision-maker converges to, as a frame manipulation can move the decision-maker to a welfare dominating decision outcome. In general, manipulation of frames would –t with situations where M  E. 
+However, in cases such as Example 7 and Example 8 where either the inter- section of the decision outcomes of a standard decision problem and those of a behavioral decision problem is empty (i.e. M \E = ˚), frame manipulations would not necessarily result in welfare improvements or have no e¤ect on behavior in the "long-run". 
+On the face of it, an intervention directed at welfare maximization would have to be paternalistic in a stronger sense of constraining individual choice. In general, however, with incomplete information about individual preferences and feedback 
+18 
+
+========19========
+
+e¤ects, direct policy intervention along the lines of "soft" paternalism (changing frames) or "hard" paternalism (constraining individual choice) could make matters worse. 
+One possible policy recommendation in scenarios with incomplete information about an individual™s preferences is to directly act on the way in which a person in- ternalizes the feedback e¤ect from actions to frames. Examples of such policies could be psychotherapy sessions, projects aiming to foster people™s emotional intelligence and empowerment, etc. 
+To –x ideas, consider Example 7. In this example, if the individual doesn™t take the feedback e¤ect from actions to psychological states into account, she always chooses a2 (smoking) over a1 (not smoking); however, the reverse would be true, if she took the feedback into account. Let  , 0    1, denote the probability with which the individual does take the feedback e¤ect into account. A straightforward computation shows that as long as  > 
+1 
+2, the individual will choose 
+a1 over a2 regardless the pre-decision frame. Therefore, as long as the individual takes the feedback e¤ect into account with a high enough probability, she will choose not to smoke so that interventions that increase the probability with which an individual internalizes the feedback e¤ect could result in welfare improvements. 
+Likewise, a policy intervention that might work in Example 9 is an "empow- erment" policy, that would help the individual to become aware of her "internal constraints" and thus "gaining control over her own life10." 
+6 Final Remarks 
+The results reported here have some empirical caveats. Both, the endogenous frames and the feedback-map are key variables for policy considerations, though they are not directly observable or even inferred from choice behavior. One possible approach to identify these "unobservable" may be to use evidence from neuroscience and psychology on the neural processes driving decision making. 
+Extending the one-person model studied here to n  players, dynamic and se- quential decision scenarios are topics for future research. 
+10See for instance Appadurai (2004) on the "capacity to aspire" or World Bank (2002) and Stern (2004) on Empowerment. 
+19 
+
+========20========
+
+References 
+[1] Appadurai (2004), "The capacity to aspire: Culture and the Terms of Recogni- 
+tion", in V.Rao and M. Walton (Eds.), Culture and Public Action, IBRD-World 
+Bank, Washington DC. 
+[2] Ariely D. and K Wertenbroch (2002), "Procrastination, deadlines, and per- 
+formance: Self-control by precommitment," Psychological Science, No. 13 (3), 
+219-224. 
+[3] Bandura, A. (1986), Social foundations of thought and action: A social cognitive 
+theory, Englewood Cli¤s, NJ: Prentice Hall 
+[4] Baron J. (2008) Thinking and Deciding, Cambridge University Press, 4th edi- 
+tion, N.Y. 
+[5] Bernheim, B.D. (2009) "Behavioral Welfare Economics," Journal of the Euro- 
+pean Economic Association, 7, 2-3, 267-319 
+[6] Bernheim, B.D. and A. Rangel (2007) "Toward Choice-Theoretic Foundations 
+for Behavioral Welfare Economics", American Economic Review, Papers and 
+Proceedings 97(2), 464-470. 
+[7] Bernheim, B. D. and A. Rangel (2008) ﬁBeyond Revealed Preference: Choice- 
+Theoretic Foundations for Behavioral Welfare Economics,ﬂNBER WP 13737, 
+[8] Bernheim, B. D. and A. Rangel (2009) ﬁBeyond Revealed Preference: Choice- 
+Theoretic Foundations for Behavioral Welfare Economics,ﬂQuarterly Journal 
+of Economics, 124, 1, 51-104. 
+[9] Carrillo, J., Mariotti, T. (2000) "Strategic ignorance as a self-disciplining de- 
+vice," Review of Economic Studies, 67, 529-544. 
+[10] Dalton P. and S. Ghosal (2010) "Behavioral Decisions and Welfare," CentER 
+Discussion Paper, 2010-22. 
+[11] Easterlin, R. A. (2001) "Income and happiness: towards a uni–ed theory," 
+Economic Journal, 111, 465-84 
+20 
+
+========21========
+
+[12] Elster, J. (1998) "Emotions and Economic Theory," Journal of Economic Lit- 
+erature, Vol 36, No 1, 47-74. 
+[13] Ghosal, S (2011), ﬁComplementarity with complete but P-acyclic preferencesﬂ, 
+Mathematical Social Sciences (2011), doi:10.1016/j.mathsocsci.2011.06.003. 
+[14] Harsanyi J. S. (1954) "Welfare Economics of Variable Tastes," Review of Eco- 
+nomics Studies, 3, 21, 204-13. 
+[15] Kahneman, D. and R. Sugden (2005) "Experienced Utility as a Standard of 
+Policy Evaluation," Environmental & Resource Economics, 32: 161Œ181 
+[16] Kahneman, D. and A. Tversky (1979) "Prospect Theory: An analysis of Deci- 
+sion under Risk," Econometrica, 47, 2, 263-91. 
+[17] Munro, A. and R. Sugden (2003), "On the theory of reference-dependent pref- 
+erences", Journal of Economic Behavior and Organisation, 50, 407-428. 
+[18] Rubinstein A. and Salant Y. (2008) "(A,f) Choice with Frames," Review of 
+Economic Studies, 75, 1287-1296. 
+[19] Sen A. (1977) "Rational Fools: A Critique of the Behavioral Foundations of 
+Economic Theory," Philosophy and Public A¤airs, 6, 4, 317-344. 
+[20] Stern N., J-J. Dethier and F. H. Rogers (2005) Growth and Empowerment. 
+Making Development Happen, Munich Lectures in Economics, The MIT Press, 
+Cambridge, Massachusetts, and London, England 
+[21] Thaler R. and C. R. Sunstein (2003) "Libertarian Paternalism," American Eco- 
+nomic Review, Papers and Proceedings, 93, 2, 175-179 
+[22] Tversky, A. and D. Kahneman (1991), "Loss aversion in riskless choice: A 
+reference-dependent model", Quarterly Journal of Economics, Vol. 106(4), 
+1039-1061. 
+[23] World Bank (2002), Empowerment and Poverty Reduction: A Sourcebook, pre- 
+liminary draft, pp. 280. 
+21 
+
+========22========
+

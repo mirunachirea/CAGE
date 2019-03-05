@@ -1,0 +1,1015 @@
+December 2010 
+No.29 
+Does strengthening Collective Action Clauses 
+(CACs) help? 
+Sayantan Ghosal and Kannika Thampanishvong University of Warwick and University of St Andrews 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Does strengthening Collective Action Clauses 
+(CACs) help? 
+Sayantan Ghosal University of Warwick 
+Kannika Thampanishvong University of St Andrews 
+November 28, 2010 
+Abstract 
+Does improving creditor coordination by strengthening CACs lead to e¢ ciency gains in the functioning of sovereign bond markets? We address this question in a model featuring both debtor moral hazard and creditor coordination under incomplete information. Conditional on default, we characterize the interim e¢ cient CAC threshold and show that strengthening CACs away from unanimity results in interim welfare gains. However, once the impact of strengthening CACs on debtor™s incentives are taken into account, we demonstrate the robust possibility of a con⁄ict between ex ante and interim e¢ ciency. We calibrate our model to quantify such a welfare trade-o¤ and discuss the policy implications of our results. 
+Keywords: Sovereign Debt, Coordination, Moral Hazard, Collec- tive Action Clauses, Ex Ante, Ex Post, E¢ ciency 
+JEL classi–cation: C72, C78, D82, F34. 
+We thank Marcus Miller and seminar participants at Warwick, RES Conference 2005, and EEA Conference 2006 for their helpful comments. The second author would like to thank the ORS, the CSGR and Department of Economics at University of Warwick for their –nancial supports. This research was partially funded by the ESRC project RES 156-25-0032 ﬁMoral hazard, political economy and behavioral approaches in international –nanceﬂ. Correspondence: Kannika Thampanishvong, School of Economics and Fi- nance, University of St Andrews, 1 The Scores, Castlecli¤e, St Andrews, Fife, United Kingdom, KY16 9AL, Tel: +44 (0) 1334 462424, Fax: +44 (0) 1334 462444, E-mail: kt30@st-andrews.ac.uk 
+1 
+
+========2========
+
+1 Introduction 
+Given the large costs1 associated with defaults and sovereign debt crises, a key policy issue in relation to the functioning of the sovereign debt markets is the e¢ cient design of mechanisms used in the restructuring of sovereign debts. Potential reforms range from the market-based approaches aimed at improving creditor coordination such as inserting CACs into the sovereign bond contracts2 (Taylor, 2002) to a statutory approach such as an estab- lishment of an international bankruptcy procedure (SDRM) (Krueger, 2001, 2002). 
+In this paper, we investigate the e¢ ciency gains of strengthening Col- lective Action Clauses (CACs) whereby a quali–ed majority of bondholders can bind all bondholders (within the same issuance) to the –nancial terms of a sovereign debt restructuring3. By removing the threat of an individual creditor holdout, strengthening CACs away from unanimity ought to result in improved creditor coordination and reduce the cost associated with pro- tracted sovereign debt restructuring driven by creditor coordination failure (Liu, 2002). 
+But would improved creditor coordination (conditional on default) lead to e¢ ciency gains in the functioning of sovereign debt markets once debtor incentives are taken into account? How would strengthening CACs a¤ect the probability of serial sovereign default and debt crises in the –rst place? Note that a positive probability of sovereign debt crises linked to short-term sovereign debt allows the creditors to discipline sovereign borrowers (Barro, 
+1Sovereign debt crises are typically costly to the debtor, creditor countries and interna- tional lending institutions. On the part of debtor, costs include output losses, discontin- ued international capital market access (Eaton and Gersovitz, 1981), contamination of the debtor™s banking system, large falls in domestic currency value, triggering payment prob- lems for many domestic –rms (Roubini and Setser (2004b), Reinhart and Rogo¤ (2009)). For the creditors, costs include reduction of interest rates (if not principal), being saddled with illiquid and risky assets that may not pay o¤ for decades with compensation set far below the market price of risk. 
+2The issuance of sovereign bonds containing CACs has been common in bonds governed by English Law issued in the Euro market and indeed some New York law bonds issued in the Euro market have also contained CACs. 
+3CACs consist of two main provisions: majority restructuring provisions (hereafter, quali–ed majority restructuring clauses) and majority enforcement provisions. While the former allows the quali–ed majority of bondholders to bind all bondholders within the same issuance to the –nancial terms of a debt restructuring, the latter enables the quali–ed majority of bondholders to limit the ability of minority of bondholders to accelerate their claims after a default (International Monetary Fund, 2002, p.14). In this paper, we focus on the former aspect of CACs. 
+2 
+
+========3========
+
+1998; Diamond and Rajan, 2001; Ghosal and Miller 2003). 
+We address the above issues in a two-stage model of both debtor moral hazard and creditor coordination under incomplete information. At the sec- ond stage, after the occurrence of a negative shock leading to default on the part of sovereign debtor, creditors have to decide whether or not to rollover the restructured debt. Creditors are di¤erentiated on the basis of private information about the degree of persistence of the negative shock. We study the Bayesian equilibria of the creditor coordination game. We show that strengthening CACs away from unanimity always results in in- terim4 e¢ ciency gains by improving creditor coordination. We characterize the interim e¢ cient CAC threshold. 
+Next, we analyze how creditor coordination at the interim stage a¤ects the incentives of the sovereign debtor to undertake costly actions that lower the probability of default. Strengthening CACs away from unanimity to the interim optimal threshold lowers default costs to both the debtor and creditors. As a result, the debtor™s ex ante incentives may be adversely a¤ected to the point that ex ante e¢ ciency gains may be forfeited. 
+Under what conditions is there a trade-o¤ between ex ante and interim optimality? Such a trade-o¤ arises in a scenario where, given that the in- terim e¢ cient threshold prevails in the post-default game, the debtor™s in- centive constraint is violated. When creditors anticipate this eventuality, the interest rate on sovereign debt will adjust upwards (to satisfy creditor participation constraints) so that it becomes too costly for the debtor to undertake the project. Therefore, the project is not undertaken even when it is ex ante Pareto improving to do so. 
+Clearly such a con⁄ict is not inevitable and we provide a characteriza- tion of the case where the bene–t to the debtor from project completion is high enough to ensure that interim and ex ante e¢ ciency are compatible. Moreover, such a con⁄ict is not inevitable even when the debtor™s incentive constraint is violated especially when the impact on the interest rate on sov- ereign debt is limited. This can happen, for instance, when debtor™s actions have a limited impact on the probability of default, or when the expected re- covery rate consistent with the interim optimal threshold in the post-default 
+4The interim stage refers to the post-default stage before all uncertainty about the future values of payo¤ relevant variables (e.g. future value of restructured debt) has been resolved. 
+3 
+
+========4========
+
+game is high enough to mitigate a higher probability of default. Neverthe- less, we show that the con⁄ict between ex ante and interim optimality as a consequence of strengthening CACs is a robust possibility. 
+Finally, we calibrate key parameters of our model to quantify the mag- nitude of such a trade-o¤. We compare two scenarios, one where the CAC threshold requires unanimity between creditors for a debt rollover to be suc- cessful and one where the CAC threshold is set at its interim optimal value. In the former case, the debtor™s ex ante incentive constraint is satis–ed al- though, in the face of adverse shock, a sovereign debt crisis occurs with probability one. In the latter case, however, the debtor™s ex ante incentive constraint is violated. However, the resulting impact on interest rates in two cases ensures that although the project is undertaken in the former scenario, it is not in the latter case even when is ex ante Pareto improving to do so5. 
+Our analysis captures two main concerns which have been frequently raised in the policy debate over the reform of international –nancial archi- tecture: whether CACs actually helps reduce the cost of protracted sovereign debt restructuring and whether it would induce the problem of debtor moral hazard (Kletzer, 2004a). Our key contribution to the literature is to show that when both issues of sovereign debtor moral hazard and creditor coordi- nation under incomplete information matter, the resulting con⁄ict between interim and ex ante e¢ ciency could limit the welfare impact of strengthen- ing CACs. In Section 6, we provide a brief policy discussion of interventions designed to improve sovereign debt restructuring in light of our results. 
+The remainder of this paper is structured as follows. The next section discusses related literature. In Section 3, we then present the basic model, which is used to study creditor coordination and interim e¢ ciency in Section 4. In Section 5, we extend the basic model to allow for ex ante sovereign debtor moral hazard and analyze and quantify the trade-o¤ between interim and ex ante e¢ ciency. Section 6 contains a policy discussion and Section 7 concludes the paper. 
+5For completeness, we also calibrate our model to study the case where there is no such con⁄ict between interim and ex ante e¢ ciency. 
+4 
+
+========5========
+
+2 Related Literature 
+A number of existing papers model how strengthening CACs might reduce the costs of debt restructuring and a¤ect sovereign debtor incentives. In general, they –nd that incorporating CACs into debt renegotiation raises welfare; however, these papers do not attempt to study, as we do here, the con⁄ict between ex ante and interim welfare. 
+In a bargaining model, Kletzer (2003) has shown that CACs lead to wel- fare gains in post-default scenarios. Kletzer (2004b)6, building on the analy- sis of Kletzer and Wright (2000) (see also Bulow and Rogo¤, 1989) studies a model of debtor-creditor bargaining where strengthening CACs eliminates the ine¢ ciency of creditor holdout. In Kletzer and Wright (2000), a higher probability of disagreement has a higher impact on the debtor™s willingness to pay. In a very di¤erent setting from the one studied by us, Weinschel- baum and Wynne (2005) show that CACs are useful in coordinating credi- tors within the same jurisdiction thus this mechanism could lower the cost of debt restructuring although they –nd that CACs could have an adverse impact on the sovereign debtor™s incentive to run reckless –scal policies that increase the possibility of crisis. However, they do not carry out an explicit welfare analysis (and do not distinguish, or study the trade-o¤, between ex ante and interim welfare) as we do here. 
+The welfare analysis of the consequences of strengthening CACs goes beyond the complete information creditor coordination case with liquid- ity shocks studied in Ghosal and Miller (2003). The model studied by us here allows for a potential insolvency but also combines, in a single frame- work, both interim creditor heterogeneity under incomplete information and debtor moral hazard to study the impact of strengthening CACs on ex ante and interim e¢ ciency. 
+Pitchford and Wright (2007) develop an incomplete markets model of sovereign debt default under complete information coupled with an explicit model of sovereign debt restructuring process in which delay arises due to both creditor holdout and free-riding on negotiation e¤ort and argue that 
+6As in our paper, Kletzer (2004a) notes a potential drawback with strengthening CACs: interest rate premiums may actually rise with the inclusion of CACs in sovereign bond con- tract if creditors expect debtor moral hazard to dominate the bene–ts of easier, less costly restructuring. However no attempt at the resulting welfare consequences is attempted in his paper. 
+5 
+
+========6========
+
+strengthening CACs enhances welfare in the post-default scenarios and in the net7, even after debtor incentive issues are taken into account. In addi- tion to modelling the costs of default di¤erently, our focus here is di¤erent: establishing, and quantifying, the robust possibility of a trade-o¤ between ex ante and interim e¢ ciency as a consequence of strengthening CACs although we also study the case where such a con⁄ict need not arise. 
+Empirical studies in this area provide a mixed results for the impact of CACs on interest rate premium. Eichengreen et al. (2003) include both pri- mary and secondary market premiums in their study and also –nd that the credit rating of the issuer plays a crucial role. They predict that CACs will be able to price ex ante debtor moral hazard by lowering the borrowing cost for a creditworthy issuer but increasing the borrowing cost for less credit- worthy issuer. Eichengreen and Mody (2000, 2004) study the launch spreads on emerging market bonds Œboth bonds subject to UK governing law and those subject to New York law Œand –nd that CACs reduce the borrowing cost for more creditworthy issuers, while the less creditworthy issuers need to pay higher spreads for issuing bonds that contain CACs. On the contrary, Becker et al. (2003) and Richards and Gugiatti (2003) –nd that, by consid- ering the yields in the secondary markets, the inclusion of CACs in a bond issue did not increase the interest rate premium (and not change the bond prices) for that particular bond. Their results seem to support the ambigu- ous impact of CACs on cost of borrowing and bond prices. Weinschelbaum and Wynne (2005) challenge the conclusions from previous empirical results and argue that the results obtained by the previous empirical studies do not account for (endogenous) IMF intervention and compositional e¤ects in the markets for sovereign debt. They argue that CACs could be irrelevant in the sovereign debt markets and therefore yield spreads with and without CACs are uninformative about moral hazard problems. 
+Although we do not conduct an empirical analysis on the impact of inserting CACs into the sovereign bond contracts on borrowing costs and bond prices, an implication of the results reported here is that strengthen- ing CACs will reduce borrowing costs for issuer whose incentives are not adversely a¤ected by lowering interim crisis risk. In other cases, where the 
+7The distinction we draw here between ex ante and interim e¢ ciency was made inde- pendently of Pitchford and Wright (2007): it was already stated in an earlier version of our paper (Ghosal and Thampanishvong, 2005). 
+6 
+
+========7========
+
+debtor incentives are adversely a¤ected, lowering interim crisis risk could actually raise borrowing costs. This point is quanti–ed in our calibration exercise: we calculate the impact of strengthening CACs away from una- nimity to the interim e¢ cient threshold on the interest rate on sovereign debt and show that the interest rate will rise when debtor incentives are adversely a¤ected. 
+While in Gai et al. (2004), Roubini and Setser (2004a) and Tanaka (2006), the crisis cost is exogenous to the mechanism of debt restructuring, in our model, the crisis cost is endogenous through the threat of having an endogenously generated crisis risk. Our analysis complements Tirole (2003) who provides a rationale for debt –nance, short maturities and foreign cur- rency denomination of liabilities by adopting a ‚dual- and common agency™ perspective. His formal analysis takes as exogenous both the probability of default conditional on the adverse shock and the probability of debt crisis. In contrast, here while the maturity structure of debt is taken as given, both the probability of default and the probability of a debt crisis, conditional on default, are endogenous. 
+Our analysis of the e¢ cacy of various policy interventions such as CACs and sovereign bankruptcy procedures is related to Rodrik (1998) who sug- gests that there is a case for limiting the use of sovereign bonds to –nance development as the unrestricted use of such debt instruments could expose a country to excessive crises. 
+Finally, in contrast to the unique equilibrium obtained in the literature on global games which study coordination games with asymmetric informa- tion (Carlsson and van Damme, 1993; Morris and Shin, 1998), here, condi- tional on default, we obtain multiple Bayesian equilibria. In our paper, the way payo¤s to creditors are indexed by the underlying fundamentals ensures that an extreme form of coordination failure between creditors always exists for all values of the fundamentals. In the global games literature, the way payo¤s to creditors are indexed by the underlying fundamentals ensures that there are always two extreme regions in the space of fundamentals with a strongly dominant action8. 
+8There are, of course, other technical di¤erences: in our model there are a –nite number of creditors and the (privately observed) signal has a –nite support. 
+7 
+
+========8========
+
+3 The Basic Model 
+There are three time periods, t = 0;1;2. We consider a sovereign debtor who has embarked on a bond-–nanced project t = 0 by issuing two-period bonds, each with a face value of b, denominated in US dollars. These bonds are sold to n ex ante identical private creditors who will be heterogenous later after observing private signals. The promised return for each private creditor is r at t = 1 and (1 +r) at t = 2. Throughout the paper, all payo¤s will be denoted in t = 1 units. 
+The debtor obtains a non-contractible payo¤Z9 conditional on the project being completed, at t = 2. The assumption that Z is non-contractible means that Z cannot be attached by the private creditors in the settlement of their claims Œ nor can the sovereign debtor, at t = 1, make a credible commit- ment to make conditional transfers of Z to the private creditors at t = 2. At this stage of the analysis, we will assume that Z is exogenous and positive although in Section 5 below we will explicitly determine the value of Z. 
+Consider what happens if a negative exogenous shock (ﬁbad luckﬂ, a sudden loss in export revenues) occurs at t = 1 which lowers the debtor™s capacity to pay at t = 1 below nrb the amount owed to creditors. Let Qt denote the amount exogenously available for repayment at period t for t = 1;2. Conditional on the adverse shock, Q1 < nrb at t = 1. The sovereign debtor™s failure to comply with the terms of the debt contract constitutes a ‚technical default™at t = 1. Following a technical default, each creditor is entitled to accelerate her claim, demanding the capital sum as well as the current coupon owed in the –rst period. In other words, a technical default makes the sovereign debt callable at t = 1. 
+The negative shock not only a¤ects the debtor™s capacity to repay at t = 1 but also a¤ects the project net worth and therefore, the debtor™s capacity to pay at t = 2 i.e. the adverse shock is persistent. It will be assumed that conditional on default, at t = 1, creditors have incomplete information about the degree of persistence of the negative shock (speci–ed in greater detail below). 
+In the absence of the negative shock, we assume that the debtor has 
+9Following Eaton and Gersovitz (1981), one possible interpretation of this non- contractible payo¤ is that it is the bene–t at t = 1 of a gain in national output at t = 2 when the debt is successfully rolled over consistent with the analysis and the calibration exercise presented in Section 5 below. 
+8 
+
+========9========
+
+enough funds to cover bond payments at both time periods so that the project is completed. 
+Figure 1 shows the time line of events. 
+t= 1 
+t= 2 
+No shock (no default) 
+Creditors receive coupon payment 
+Creditors receive final payment 
+t= 0 
+Sovereign debtor issues two­period bond and private creditors lend 
+Negative shock (default) 
+t= 1 
+t= 2 
+Sovereign debtor issues a new one­period bond, rolling over the outstanding interest and capital owed under existing two­period bond 
+Creditors receive private information about the future value of the new one­period bond and simultaneously decide whether or not to agree to the debt rollover. 
+Final payment to creditors 
+Figure 1: Timeline of Events 
+Conditional on default, the sovereign debtor issues a new one-period bond rolling over the outstanding interest and capital owed in the exist- ing two-period bond. The new one-period bond has a face value of rb and promises a return of (1 + r). Therefore, a successful debt rollover implies that, at t = 2, the amount falling due becomes rb(1 + r) + (1 + r)b = (1 + r)2 b which at t = 1 (using 
+1 
+(1+r) 
+as the discount factor) is worth (1 + r)b. We –nd it convenient to work with normalized per capita cred- itor payo¤s, which are obtained by dividing the gross creditor payo¤s by (1 + r)nb. Thus, in a normalized per capita payo¤ term, the amount owed by the debtor to each creditor at t = 2 is 1. 
+n o 
+The amount that is actually paid out by the debtor at 
+o 
+t = 2 is min Q2; n(1 + r)2n b which, at t = 1, worth min 
+Q2 
+n(1+r); n(1 + o 
+r)b (again using 
+1 
+(1+r) 
+as the dis- count factor). Let  = min 
+Q2 
+n(1+r) 
+2b; 
+1 . Then, conditional on default at t = 1, the degree of persistence of the exogenous adverse shock is captured by the parameter  that determines the value of the new one-period bond issued by the debtor if the project continues to completion at period t = 2. Note that there is an element of debt restructuring involved whenever  < 1. 
+In our model, conditional on default, each creditor decides whether to accept the debt rollover (the new one-period bond issued by the sovereign 
+9 
+
+========10========
+
+debtor at t = 1). A sovereign debt crisis only occurs when a su¢ ciently 
+large number of creditors decide not to roll over the debts. 
+We label an individual private creditor by i, where i = 1; :::; n. 
+We assume that creditors have to decide whether or not to accept the 
+debt rollover conditional on default but before all uncertainty about future 
+payo¤s has been fully revealed. The information that creditors have about 
+ (equivalently, Q2) at t = 1 is speci–ed as follows. There is a common prior 
+probability over  2 [0;1] given by some continuous probability density 
+function p(:) (with P(:) being the associated cumulative probability distri- 
+bution). Conditional on default at t = 1, each private creditor i receives a 
+privately observed signal ˙ 2 f   ";  + "g of the true value of  , " > 010 
+and for each 
+i, ˙ is i.i.d. over f   ";  + "g according to the distribution 
+1 1 
+	 
+11 
+2; 2 
+. 
+The interpretation is that each creditor observes a noisy private signal 
+of the true value of  . Therefore, although creditors are identical ex ante, 
+conditional on default at t = 1, creditors are di¤erentiated on the basis of the 
+information, and hence, beliefs about the degree of persistence of the adverse 
+shock. Conditional on default, creditors disagree on the future payo¤ once 
+debt is rolled over and this, in turn, a¤ect their incentives to agree to the 
+debt rollover in the –rst place. 
+Each private creditor privately observes a signal12 ˙. Conditional on ˙, 
+each private creditor simultaneously chooses an action di (˙) 2 fAccept (A), Reject (R)g, where A denotes accepting the debt rollover (the new one-period bond is- 
+sued by the sovereign debtor, conditional on default at t = 1) and R de- 
+notes rejecting the debt rollover. A strategy of the creditor i is a map that speci–es an action for each 
+ 
+˙. Conditional on ˙ = 
+ 
+˙1; :::; ˙n , let d(˙) = 
+ 
+d1 
+ 
+˙1 ; :::; dn (˙n). For each ˙, let n~d (˙) = #i : di (˙) = R 
+	 denote the number of private creditors who choose to reject the debt rollover when the value of the signal is ˙. Given  , let nd (  ) = ~nd (   ")+~nd (  + ") denote the number of creditors who reject the debt rollover. 
+Collective action clauses (CACs) in the original two-period bond contract 
+10It will be assumed that 
+" is small i.e. " < ", " > 0 and " < 
+1 
+H 
+for large but –nite H > 2. 
+11When 
+ = 0, ˙i = " for all i and when  = 1, ˙i = 1  " for all i. Appropriate adjustments to all expressions involving signals need to be made at the boundary: these are not explicitly stated in the text. 
+12It is important to note that, even though the creditors are identical ex ante, after there is a default at t = 1, creditors receive di¤erent signals and are heterogenous. 
+10 
+
+========11========
+
+aggregate the choices of individual creditors to determine whether or not a successful debt rollover occurs. Formally, we assume that the original two- 
+period bond contract has a built in critical threshold m 2 
+1 
+n; 
+1, where m denotes the proportion of private creditors that are needed to block a successful debt rollover at t = 1 i.e. m represents the critical CAC threshold. If m = 
+1 
+n, a decision of only one private creditor not to roll over the short- term debts is su¢ cient to prevent a successful debt rollover: this is equivalent to requiring unanimity in the debt rollover decision. If m = 
+1 
+4 
+then 25 percent of creditors can act to prevent a debt rollover. When the proportion of private creditors who reject the debt rollover exceeds the critical CAC threshold, m, a ‚sovereign debt crisis™occurs. 
+In our model, increasing m is equivalent to strengthening CACs. Note that our model abstracts from issues relating to aggregation across creditor classes. One possible way to handle aggregation issues would be to have a two-stage bond swap where the –rst step is designed to achieve uniformity and the second step is actual restructuring (Bartholomew et. al (2002)). Our formal model will, then, correspond to the second step of such a two-stage procedure. 
+Conditional on  , next, we specify how creditor payo¤s are determined. There are two scenarios of interest. 
+First, nd (  )  mn: this scenario captures a situation where there is no debt rollover. In this contingency, we assume that creditors enter into the asset grab race as follows. Each private creditor who chooses to reject the debt rollover is a –rst mover in the asset grab race, while the private creditor who chooses to accept the debt rollover is a second mover. The payo¤ of each creditor i depends on whether she is the –rst- or the second mover in the asset grab race. A –rst mover recovers either her initial investment, b, plus interest, rb, or 
+Q1 
+n 
+(the liquidation value of the project at t = 1) minusd 
+the privately borne legal costs, L, leaving the second mover with the residual resources. In other words, litigation allows the –rst mover to exit without much loss of value but it is potentially costly for the second mover. Formally, the payo¤ to the –rst mover is determined by the functionn 
+o 
+g such that g(nd) = min 1; 
+Q1 
+nd(1+r)b 
+ 
+L 
+n < n, g(n) = 
+Qd 
+1 
+(1+r)b, where n(1+r)b 
+ 
+L 
+(1+r)b. Note that the normalization is done by dividing the creditor™s payo¤s by (1 + r)b. For internal consistency, we assume that 
+Q1 
+n 
+ L > 0 and by assumption, 
+Q1 
+n 
+ L < 
+Q1 
+n 
+< (1 + r)b, so that 0 < g(n) < 1. The payo¤ to a 
+11 
+
+========12========
+
+second mover is determined by the functionn 
+o 
+l(n  nd) such that l(n  nd) = max 
+[Q1  (1+r)bnd] 
+(n  nd)(1+r)b 
+;0 , where nd < n and again the normalized payo¤ is obtained by dividing the creditor™s payo¤ by (1+r)b. Note that the function l(n  nd) is well-de–ned for all nd as, by assumption, (1 + r)bn > Q1. 
+To summarize, the payo¤ to creditor i when nd (  )  mn are: if di (˙) = R, the per capita normalized payo¤for creditor i is g (nd), while if di (˙) = A, the per capita normalized payo¤ to creditor i is l(n  nd). 
+Second nd (  ) < mn: the debt rollover is successful. If di (˙) = R, the per capita payo¤ for creditor i is  (1 + r)b  L0, while if di (˙) = A, the per capita payo¤ to creditor i is  (1 + r)b, where L0 > 0 re⁄ects the fact that an individual creditor, who unsuccessfully tries to accelerate the project, pays a small legal fee, L0, for doing so but as the debt rollover is successful, obtains her continuation payo¤  (1 + r)b. 
+After normalizing the payo¤s by dividing the creditor i™s payo¤s by (1 + r)b, we obtain the following: if di (˙) = R, the per capita normalized payo¤ for creditor i is   ' where '  
+L0 
+(1+r)b, while if 
+di (˙) = A, the per capita normalized payo¤ to creditor i is  . 
+The above speci–cation of actions and payo¤s results in an incomplete information creditor coordination game where at t = 1 each creditor has to decide whether or not to rollover outstanding debt. 
+We end this section by specifying the welfare benchmark used to evaluate Bayesian equilibrium outcomes. In our model, the private creditors have to decide whether or not to accept the debt rollover conditional on default but before all payo¤-relevant uncertainty has been fully revealed. Accordingly, we ask whether relative to a –rst-best benchmark, which corresponds to the case with complete information about the value of the new one-period bond issued by the debtor, the equilibrium crisis risk is interim e¢ cient13. 
+Note that it is interim e¢ cient to rollover outstanding debt if and only if the (per capita) payo¤ from debt rollover exceeds the (per capita) payo¤ when all available cash is equally shared between existing creditors. For- mally, interim e¢ ciency requires that whenever   g (n) the debt should be rolled over to t = 2, while if  < g (n), termination should occur at t = 1. 
+In the following section, we study the welfare properties of the Bayesian 
+13From an ex ante viewpoint, the relevant welfare comparison would have to take into account both states of the world where the debt is rolled over and states of the world where the debt is not rolled over. Section 5 examines the link between ex ante and interim e¢ ciency. 
+12 
+
+========13========
+
+equilibria of this game. 
+4 Creditor Coordination, CACs and Interim E¢ - 
+ciency 
+In this section, for each –xed value of the CAC threshold m, we study the Bayesian equilibria of the incomplete information creditor coordination game. We show that a Bayesian equilibrium in symmetric threshold strate- gies exists. We characterize how conditional on default, creditor coordina- tion is altered by strengthening CACs. We characterize the CAC threshold which ensures that the crisis risk at a Bayesian equilibrium threshold is interim e¢ cient. 
+Clearly, a necessary condition for a Bayesian equilibrium to be interim e¢ cient is that the actions chosen by individual creditors vary with their privately observed signals. To this end, we assume that creditors use sym- metric threshold strategies i.e. strategies where for some value   2 [0;1], whenever ˙i   , creditor i agrees to a debt rollover but whenever ˙i <  , creditor i rejects the debt rollover. 
+Clearly, when creditors use threshold strategies, the outcomes of the creditor coordination game depend on the payo¤relevant uncertainty. Whether or not a creditor agrees to the debt rollover is a function of her assessment (based on her privately observed signal) of future payo¤s following a debt rollover. 
+Denote a symmetric threshold strategy pro–le by d 
+ . Given 
+d 
+ , condi- tional on ˙, let EmR denote creditor i™s expected payo¤ from not agreeing to the debt rollover and EmA denote creditor i™s expected payo¤ from agreeing to the debt rollover. 
+Given d 
+ , conditional on observing a signal 
+˙, from the perspective of any one creditor, in general, the number of other creditors not agreeing to the debt rollover is a random variable. 
+For each creditor who observes a signal ˙ =   , given that all other private creditors are choosing actions according to d 
+ ,let 
+pj (  ) denote the probability that exactly j other creditors (from a population of n  1 other private creditors) do not agree to the debt rollover14. Given a symmetric 
+14Recall from Section 3 that 
+p(:) is the continuous probability density function, which gives the (prior) probability over  . 
+13 
+
+========14========
+
+ 
+threshold strategy pro–le d 
+ , notice that 
+fpj (  )gn 
+1 
+j=0 
+is a symmetric bino- mial distribution. For the two di¤erent threshold strategies d 
+  
+and d 
+ 0, by 
+computation, for each j, j = 0; :::; n 
+ pj (  ) = pj  
+0 
+= 
+n 
+j 
+  
+ 1, 
+ 1 1n 
+2 
+= pj. 
+ 
+ 
+so that the two distributions, fpj (  )gn 
+1 
+j=0 
+and fpj (  
+0)gn 
+1 
+j=0 
+, are identical. 
+For each creditor who observes a signal ˙ =   , given that all other private creditors are choosing actions according to d 
+ , the expected payo¤ from not agreeing to a debt rollover, EmR , is given by the expression 
+EmR = 
+nX1  
+g(j)pj + (  
+j=mn  1 
+where n(m) = maxf0; mn 
+ 2g.15 
+ ') 
+nX(m) 
+pj; j=0 
+(1) 
+interpreted as follows. Given that at least (mn 
+chosen to reject the debt rollover (which occurs with probability 
+entitled to receive g(j), mn 
+The –rst term in equation (1) can be 
+ 1) other creditors have 
+nX1  
+pj), 
+j=mn  1 
+ 1) creditors are 
+probability 
+if creditor i chooses to reject the debt rollover, this is su¢ cient to render the debt rollover at t = 1 unsuccessful and ensure that the asset grab race ensues. When this is the case, since the creditor i™s action is rejecting the debt rollover, the creditor i and each of the other (mn 
+ 1  j  n, the payo¤ to creditor i is the payo¤ to a –rst mover in the asset grab race. The second term in equation (1) shows the expected payo¤ of creditor i under the case in which n(m) other private creditors already decided to reject the debt rollover. Despite the fact that creditor i chooses to reject the debt rollover, this is not su¢ cient to block a debt rollover. Therefore, each of the n(m) creditors as well as creditor i receives the continuation value,  , net of a small legal fee, ', (with 
+nX(m) 
+pj) for unsuccessfully trying to prevent the debt rollover. 
+j=0 
+For each creditor who observes a signal ˙ =   , given that all other private creditors are choosing actions according to d 
+ , the expected payo¤ 
+15In what follows, we assume, for ease of exposition, that 
+mn is an integer. 
+14 
+
+========15========
+
+from agreeing to the debt rollover, EmA , is given by the expression 
+n 
+X 
+ 1 EmA = l(n 
+j=mn 
+mn 
+X 
+ 1  j)pj +   pj: 
+j=0 
+(2) 
+The –rst term in equation (2) is creditor i™s expected payo¤ when there are already mn private creditors chosen to reject the debt rollover; thus, even though creditor i chooses to accept the debt rollover, the debt rollover is 
+nX1  
+unsuccessful and the asset grab race occurs (with probability pj). Since 
+j=mn 
+creditor i chooses to accept the debt rollover and did not join the queue in the asset grab race, she is classi–ed as the second mover and is entitled to receive l(n  j), mn  1  j  n, the payo¤ to a second mover in the asset grab race. The second term in equation (2) captures the expected payo¤ to creditor i under the scenario in which the debt rollover is successful so that each of the (mn  1) private creditors and creditor i receives the continuation 
+mnX1  
+payo¤,   (with probability pj). 
+j=0 
+The following proposition characterizes the nature of creditor coordina- tion when all creditors use threshold strategies. We show that a Bayesian equilibrium in symmetric threshold strategies exists where, with positive probability, successful debt rollover occurs. It follows that each creditor will agree to a debt rollover if and only if their privately observed signal is greater than a common (across all creditors) positive threshold value. Second, we show that the Bayesian equilibrium threshold is decreasing in m so that strengthening CACs increases the probability of a successful debt rollover and decreases interim crisis risk conditional on default. Third, we show that strengthening CACs away from unanimity leads to e¢ ciency gains and we characterize the interim e¢ cient CAC threshold. 
+Proposition 1 A Bayesian equilibrium in symmetric threshold strategies exists. The equilibrium threshold value,  m, is positive and decreasing in the CAC threshold m. Strengthening CACs away from unanimity leads to interim e¢ ciency gains and the interim optimal CAC threshold, m^, satis–es the condition that  m^ = g(n). 
+Proof. We begin by proving the existence of an positive Bayesian equi- librium threshold value. Conditional on observing the signal ˙ =   , creditor 
+15 
+
+========16========
+
+ EmA > 0,  EmA  0, 
+i™s expected payo¤s from not agreeing to the debt rollover, EmR , and her expected payo¤s from agreeing to the debt rollover, EmA , are given by the ex- pressions in (1) and (2), respectively. Therefore, (a) whenever EmR creditor i does not agree to the debt rollover, and (b) whenever EmR creditor i agrees to the debt rollover. Notice that both EmR and EmA are in- creasing linear functions of  . By computation, we have 
+EmR 
+ EmA 
+nX1  
+= 
+g(j)pj + (  
+j=mn  1 
+= 
+nX1  
+[g(j) j=mn 
+ ') 
+nX(m) 
+pj j=0 
+ 
+nX1 
+l(n j=mn 
+ l(n 
+ j)]pj + [g(mn 
+ 1) 
+ 
+ j)pj 
+   
+mnX1  
+pj j=0 
+  ]p(mn 
+ 1) 
+ ' 
+nX(m) 
+pj: j=0 
+ j) 
+ j) is decreasing in j, and g(j) is 
+Therefore, viewed as functions of  , the intercept of EmA is lower than the intercept of EmR . The slope of EmA is higher than the slope of EmR as l(n is strictly less than g(j) for all j, l(n 
+increasing in j. It follows that there exists a  0m such that EmR 
+where 
+ 0m = g (mn 
+ 1) + 
+j=mn 
+and p(mn 
+ 1) 
+= 
+ mn  1 
+nX1  
+[g(j) 
+ l(n 
+ j)]pj 
+p(mn 
+ 1) 
+ EmA = 0, 
+ ' 
+nX(m) 
+pj j=0 
+; 
+ 
+n 1 
+  
+1n 
+2 
+. Therefore, a positive Bayesian equilibriumn 
+o0 
+threshold value,  m, exists, where  m = min  m ;1 > 0 and it is interior 
+whenever  0m < 1. 
+ 
+For m < m0, relative to m, at m0, the action pro–les where there is a successful debt rollover have a higher probability so that by –rst-order stochastic dominance, it follows that Em0R (  
+m) 
+Em0A (  
+m) 
+< 0 and therefore,  m0   m with strict inequality whenever  m < 1. 
+When creditors use threshold strategies, at the Bayesian equilibrium threshold,  m, the expected payo¤ to the creditor from a successful debt rollover E (  j  m) =   
+m. It follows that the interim e¢ cient CAC threshold, m^, satis–es the equation E (  j  m^) =   
+ 
+m^ 
+= g(n). By computation, observe that when m = 1,  1 = 0 < g(n); however, when m = 
+1 
+n, 
+ 1 = 1 > g(n). Therefore, correcting for integer e¤ects an interim e¢ cient CAC thresholdn 
+exists and as  m is decreasing in m, strengthening CACs away from una- 
+16 
+
+========17========
+
+nimity always leads to interim e¢ ciency gains.  
+It is useful to depict the interior Bayesian equilibrium threshold in Figure 2. 
+Figure 2: Interior Bayesian equilibrium threshold 
+Proposition 1 implies that, in general, strengthening CACs lowers  m and thus reduces interim crisis risk, conditional on default. An increase in the value of m reduces the number of di¤erent scenarios in which any one creditor can prevent a successful debt rollover thus lowering the expected payo¤ to an individual creditor from rejecting the debt rollover and increasing the expected payo¤ to an individual creditor from accepting the debt rollover. Therefore, by choosing the CAC threshold appropriately, it is possible to ensure that interim e¢ cient creditor coordination is achieved in the post- default creditor coordination game16. 
+It is of some interest to note that there are other Bayesian equilibrium scenarios where the outcomes of creditor coordination does not depend on payo¤relevant uncertainty and are invariant to the signals privately observed by creditors. As long as 
+1 
+< m < 
+n  1 
+n n 
+, both action pro–les, one where each creditor agrees to a debt rollover and the other where each creditor rejects the debt rollover, are Bayesian equilibria. Indeed, (i) if m  
+n  1 
+n and n  1 creditors reject the debt rollover, then it is a best-response for 
+16By using a theoretical model of grey-zone –nancial crisis, which allows for the inter- action of liquidity problems with solvency problems, Haldane et al. (2004) –nd that the sovereign debtors™optimal choice of CAC threshold could vary because of their di¤erent risk preferences and creditworthiness. 
+17 
+
+========18========
+
+the remaining creditor (who cannot force a debt rollover by an individual deviation) to also reject the debt rollover, and (ii) if m > 
+1 
+n, if all other creditors agree to a debt rollover it is a best-response for the remaining creditor (who cannot force a debt rollover by an individual deviation) to agree to the debt rollover. Note that the action pro–le in scenario (i) remains an equilibrium even when  is close to 1 and the action pro–le in scenario (ii) remains an equilibrium even when  is close to 0. Therefore, either of the above Bayesian equilibrium scenarios cannot, in general, be interim e¢ cient. Evidently, in such scenarios, strengthening CACs within the bounds 
+1 
+n 
+< m < 
+n  1 
+n 
+will have no e¤ect on the debt rollover17. Given that there are multiple Bayesian equilibria, even when the CAC threshold is set at the interim e¢ cient level m^, in order to ensure that creditors coordinate on the interim e¢ cient Bayesian equilibrium threshold, there could be a role for third parties like the bondholder committee18. 
+5 Debtor Moral Hazard: Interim vs. Ex Ante Ef- 
+–ciency 
+In this section, we study whether interim e¢ cient creditor coordination is compatible with ex ante e¢ ciency in the presence of debtor moral hazard. The source of ex ante debtor moral hazard in our model is the misalignment between the incentives of private creditors and the incentives of sovereign debtor. Debtor e¤ort will determine the probability of default and we shall show that debtor e¤ort, and therefore, the probability of default, will depend on anticipated payo¤s in the post-default bargaining game. This, in turn, will determine the interest rate on sovereign debt (via creditor participation constraints) and hence whether the project is undertaken in the –rst place leading to the potential trade-o¤ between ex ante and interim e¢ ciency. We 
+17A case of interest is one where 
+m = 
+1 
+n. Suppose 
+˙i < g(1) for some creditor i. Given the signalling structure, conditional on E(  j˙i) = ˙i < g(1). Therefore, even if all other creditors agree to a debt rollover, player i will stop the debt rollover from occurring. Note that by strengthening CACs (increasing m away from unanimity) there will be a new equilibrium where the debt rollover occurs with a probability one. Note that even when it is interim e¢ cient to do so, there is no guarantee that strengthening CACs alone will ensure that creditors coordinate on the new equilibrium. 
+18According to Mauro and Yafeh (2003), the Corporation of Foreign Bondholders (an association of British investors holding bonds issued by foreign governments) played a key role between 1870-1913 and in the aftermath of the defaults in the 1930s by ensuring that creditors would base their decisions on a common strategy using similar data and analysis. 
+18 
+
+========19========
+
+will then calibrate our model to quantify the trade-o¤. 
+5.1 Model 
+We assume that the sovereign debtor issues two-period bond at t = 0, which promises an interest coupon at t = 1 and repayment of the capital sum together with the second interest coupon at t = 2. With debtor moral hazard, we show below that positive crisis risk, conditional on default, is a necessary condition for resolving debtor™s ex ante incentives19 a possibility that requires the use of short-term debt contracts with payments to be made at both t = 1 and at t = 2. 
+The timing at t = 0 is as follows: 
+1. First, the debtor has to choose whether or not to undertake the project. 
+2. Second, the debtor has to mobilize the required –nance (assumed to be exactly equal to nb) by issuing sovereign debt at an interest rate determined by the participation constraints of private creditors. 
+3. Finally, the debtor will choose an action (e¤ort) a 2 fG; Bg:where G and B denote good and bad e¤ort respectively which determines the probability of default at t = 1. 
+Good e¤ort can be interpreted as any policy choice (such as prudent –scal policy) which makes the sovereign debtor less vulnerable to a negative external shock, while the bad e¤ort corresponds to policy choices (–scal indiscipline) which makes the sovereign debtor more vulnerable to adverse external shock20 . 
+Let ca 2 cG; cB 
+	 
+denote the cost of e¤ort, measured in t = 1 payo¤ units. We assume that it is more costly for the debtor to exert good e¤ort than to choose bad e¤ort so cG > cB . We will normalize the cost of bad e¤ort so that cB = 0. Let qa 2 qG; qB 
+	 
+denote the ex ante probability 
+19A number of authors (Barro (1998), Ghosal and Miller (2003)) have pointed out that if the probability of early debt liquidation were reduced to zero, the sovereign debtor could have an incentive to use the borrowed money unwisely. Short-term debt contracts thus allow for the possibility of at least partially aligning creditor™s and debtor™s incentives a point made by Diamond and Rajan (2001) and Jeanne (2009). 
+20In this context, good e¤ort could correspond to a situation where the money borrowed is used to promote R&D in the export sector, invest in infrastructure and build up foreign exchange reserves while bad e¤ort could correspond to squandering borrowed money on a wasteful project that yields low returns or transferring the borrowed money either directly, or indirectly via tax breaks, to local elites. 
+19 
+
+========20========
+
+of default. We assume that the probability of default conditional on the adverse shock is higher if the debtor chooses bad e¤ort so qB > qG. 
+As already pointed out in Section 3, we assume that, if there is no adverse shock at t = 1 or if there is a successful debt rollover at t = 1, the project continues to completion in the second period, the debtor obtains a non-contractible payo¤ Z at t = 2. 
+At this stage, it is convenient to be explicit about the interpretation we attach to the non-contractible debtor™s payo¤ from a successful debt rollover at this stage of the analysis. Suppose the funds borrowed by the sovereign debtor are used to –nance a publicly operated infrastructure project. If the infrastructure project succeeds, the government enjoys the prospect of higher national output as more domestic and foreign –rms invest and em- ployment is generated. No private creditor can attach the future higher national output generated by the infrastructure project. Moreover, this ad- ditional output would be lost if the project was terminated early. Let Y denote the additional national output generated upon successful completion of the project. Then Z = Y  (1 + r)nb. Note that the project is under- taken if and only if Z > 0, consistent with the assumption made in Section 3 above. 
+We will assume that conditional on default, creditors have to decide whether or not to roll over the debt before observing the ex ante choice of action by the debtor: it takes time for all the debtor™s action to be revealed and creditors have to decide whether or not to agree to the debt rollover before the action of the debtor is revealed. This rules out the possibility that equilibrium outcomes in the post-default creditor coordination game can be conditioned on the action chosen by the debtor making the debtor™s ex ante incentive constraint easier to satisfy21. 
+Let P denote the equilibrium probability of a successful debt rollover in the post-default creditor coordination game. Let  
+ 
+denote the debtor™s expected payo¤ conditional on default, measured in t = 1 payo¤ units. By computation, 
+21Evidently, if the equilibrium in the post-default game could be made conditional on the action chosen by the debtor, the debtor™s incentive compatibility constraint will be easier to satisfy. In particular, the potentially adverse impact of strengthening CACs on ex ante incentive could be mitigated. We will come back to this point in the calibration exercise reported below. 
+20 
+
+========21========
+
+  
+= P (Y 
+ (1 + r)nb): 
+(3) 
+It follows that 
+(i) If the equilibrium prevailing in the post-default creditor coordination game is the one where all creditors agree to a debt rollover, as P = 1,  
+ 
+= (Y  (1 + r)nb); 
+(ii) If the equilibrium prevailing in the post-default creditor coordination game is the one where no creditor agrees to a debt rollover, as P = 0,  
+ 
+= 0; 
+(iii) If the equilibrium prevailing in the post-default creditor coordination game is the one where all creditors use threshold strategies, P = Pr (  
+m) (i.e. a function of the equilibrium threshold  m) and  
+ 
+m 
+= Pr (  
+m) (Y 
+ (1 + r)nb). By –rst-order stochastic dominance, as a higher value of  m implies a lower Pr (  
+m), 
+ 
+ 
+m 
+is decreasing in  m and hence, by Proposition 1, increasing in m. 
+The debtor™s payo¤ from choosing good e¤ort is given by the expression (1  qG)Z +qG  
+ 
+ cG, while the debtor™s payo¤ from choosing a bad e¤ort is given by the expression (1  qB)Z + qB  
+. The incentive compatibility constraint, which ensures that the sovereign debtor chooses good e¤ort, is 
+(1 
+ qG)Z + qG  
+ 
+ cG  (1 
+ qB)Z + qB  
+: 
+(4) 
+If P = 1 as  
+ 
+= Z, the incentive constraint (4) can never hold. This con–rms, in our set-up, the intuition that a positive probability of a crisis is a necessary condition for the debtor to undertake the costly good action. 
+Next, we examine how creditor participation constraint generates an endogenous interest rate for sovereign debt. We assume that the n creditors who actually participate in the project are drawn from randomly from a pool of identical potential creditors under two constraints: (i) no creditor who is chosen refuses to participate, and (ii) no creditor who is not chosen has an incentive to undercut (by o¤ering a lower interest rate on the loan made to the sovereign debtor). 
+It follows that the interest rate on sovereign debt adjusts to ensure that each creditor who participates is indi¤erent between holding the sovereign debt and investing in a risk-free bond (e.g. US Treasury bill). Let K denote the expected recovery rate for each creditor as a function of the equilibrium 
+21 
+
+========22========
+
+prevailing in the creditor coordination game. Even if a creditor has a –rst mover advantage and is able to recover the full amount owed, as there is a positive legal cost involved in doing so K < 1. Let rf denote the risk free interest rate. If creditors anticipate that the debtor will choose G, the interest rate charged on sovereign debt is determined by the equation 
+qG(1 + r)b + (1 
+ qG)K(1 + r)b = (1 + rf)b 
+, 
+rG  rf (1 + rf) 
+= 
+1 
+qG(1  K)  qG(1  K) 
+(5) 
+By a symmetric argument, if creditors anticipate that the debtor will choose the bad action, the interest rate charged on sovereign debt will be 
+rB  rf (1 + rf) 
+= 
+1 
+qB(1  K)  qB(1  K): 
+(6) 
+Note that rB > rG as qB > qG implies that 
+qB(1  K) 
+1  qB(1  K) 
+> 
+qG(1  K) 
+1  qG(1  K) 
+: the interest rate charged will be lower if creditors anticipate that the debtor will choose the good action. 
+The following proposition provides a set of su¢ cient conditions under which a trade-o¤ between ex ante and interim e¢ ciency is a robust possi- bility. 
+Proposition 2 There exists " > 0, K > 0, Y > Y > 0 such that if qB  1  ", qG  ", K > cG and Y > Y > Y , ex ante e¢ ciency and interim e¢ ciency cannot be simultaneously satis–ed. 
+Proof. There is con⁄ict between ex ante e¢ ciency and interim e¢ ciency if and only if the following three inequalities are simultaneously satis–ed: 
+(i) The debtor™s incentive constraint is never satis–ed if he anticipates that the interim optimal threshold prevails in the post-default game i.e. 
+(qB 
+ qG)(Y 
+cG 
+ (1 + rG)nb) 
+> 1 
+ P 
+^ 
+(7) 
+where P^ is the probability of a successful debt rollover at the interim optimal threshold. 
+22 
+
+========23========
+
+(ii) The debtor™s participation constraint is never satis–ed if the debtor chooses B and the interest rate on sovereign debt is rB i.e. 
+ 
+ 1 
+  qB + qBP^ (Y 
+ (1 + rB)nb) < 0: 
+(8) 
+(iii) The debtor™s participation constraint is satis–ed if the debtor chooses G and the interest rate on sovereign debt is rG i.e. 
+ 
+ 1 
+  qG + qGP^ (Y 
+ (1 + rG)nb) > cG: 
+(9) 
+ (1 + rf)nb 
+Let qB ˇ 1 and qG ˇ 0. Then, by computation, it is checked that 1 + rG ˇ 1 + rf and 1 + rB ˇ 
+1+rf 
+K^ 
+where K^ is the expected recovery rate at the interim optimal threshold in the post-default game. Further, by computation, it follows that (9) can be rewritten as Y > cG 
+while (8) can be rewritten as Y < 
+(1+rf) 
+K^ 
+nb and (7) can be rewritten as 
+cG 
+P^ 
+(1 + rf)nb. It remains to check that that there are parameter con–gurations for which the inequalities 
+Y < 
+1 
+ 
+ 
+cG + (1 + rf)nb < 
+cG + (1 + rf)nb < 
+0 < cG 
+(1 + rf)nb 
+K^ 
+cG 
++ (1 + r 
+1 P 
+^ 
+f)nb 
+simultaneously hold. By computation, it is easily checked that the above inequalities simultaneously hold if and only if 
+(1 + rf)nb 
+K^ 
+that whenever K > c 
+! 
+ 1 K^ 
+< 
+ cG < 0: 
+ 
+Note that P^ and K^ are –xed numbers (determined by Q1; Q 
+2 
+and the prob- 
+ ability distribution over  ). By setting K = (1 + rf)nb 
+1 K^ 
+K^ 
+it follows 
+G 
+there exists Y > Y > 0 such that if Y < Y < Y, the inequalities (7), (8) and (9) are satis–ed. Moreover, the LHS of both (8) and (9) are decreasing in qB and qG respectively while the LHS of (7) is decreasing in qB and increasing in qG so that, for " positive but close to 
+ " and qG = ", all the inequalities (7), (8) and (9) continue 
+zero, if qB = 1 to be satis–ed.  
+23 
+
+========24========
+
+Proposition 2 states that the con⁄ict between ex ante and interim op- timality arises whenever three conditions hold: (i) the debtor™s incentive constraint is violated if he anticipates that the interim optimal threshold prevails in the post-default game, (ii) the debtor™s participation constraint is never satis–ed if the debtor chooses B and the interest rate on sovereign debt is rB, and (iii) the debtor™s participation constraint is satis–ed if the debtor chooses G and the interest rate on sovereign debt is rG. The condition on the parameters requires that (i) the di¤erence between the probability of default resulting from the good e¤ort qG is close to zero while the probabil- ity of default from bad e¤ort qB is close to one, (ii) the di¤erence between the cost of good e¤ort and bad e¤ort (the latter normalized to zero) is not too high, and (iii) that the additional bene–t to the debtor from successful completion of the project is moderate i.e. falls between an upper bound and a lower bound. 
+Proposition 2 also shows that such a con⁄ict is not inevitable even when the debtor™s incentive constraint is violated especially when the impact on the interest rate on sovereign debt is limited. This can happen, for instance, when debtor™s actions have a limited impact on the probability of default, or when the expected recovery rate consistent with the interim optimal thresh- old in the post-default game is high enough to mitigate a higher probability of default. 
+The above proposition states that when it is ex ante e¢ cient for the sovereign debtor to choose G, achieving ex ante e¢ ciency imposes an upper bound on the probability of a successful debt rollover conditional on default. However, as interim e¢ ciency requires the probability of a successful debt rollover conditional on default to be a –xed number, P^, improved creditor coordination may lead the sovereign debtor to choose the ex ante ine¢ cient action. 
+Clearly, when m = 
+1 
+n 
+(the unanimity rule so that an individual creditor, by rejecting the debtor™s o¤er, can prevent a successful debt rollover), by computation, it is easily checked that  m = 1. The debtor will always choose G but in this case, interim optimality is never satis–ed. 
+Let P~ be the maximum probability of a successful debt rollover in the post-default game consistent with debtor™s incentive compatibility i.e. P 
+~ 
+24 
+
+========25========
+
+solves the equation 
+ˆ 
+P~ = 
+1 
+ 
+(qB 
+ qG)(Y 
+cG 
+ (1 + rG)nb);0 
+˙ 
+: 
+If P >^ P~ the debtor will never choose to put in a good e¤ort if he anticipates that the interim e¢ cient threshold will prevail conditional on default. 
+Let m~ be the CAC threshold compatible with debtor incentive compat- ibility so that P (  
+ 
+m~ 
+) = P~. It follows that we must have  m^ >  m~ which implies that m <~ m^. Note in this case that strengthening CACs away from unanimity to m~ would be e¢ ciency enhancing as there will be gains in in- terim e¢ ciency without a¤ecting the incentive constraints of the debtor. 
+The following proposition studies the case where there is no con⁄ict between interim and ex ante e¢ ciency: 
+Proposition 3 There exists Y 
+0 
+> 0 such that if Y > Y 
+0ex ante e¢ ciency and interim e¢ ciency are simultaneously satis–ed. 
+Proof. There is no con⁄ict between ex ante e¢ ciency and interim e¢ - ciency if and only if the following inequalities are simultaneously satis–ed: 
+(i) The debtor™s incentive constraint is satis–ed if he anticipates that the interim optimal threshold prevails in the post-default game i.e. 
+(qB 
+ qG)(Y 
+cG 
+ (1 + rG)nb) 
+< 1 
+ P 
+^ 
+(10) 
+where P^ is the probability of a successful debt rollover at the interim optimal threshold. 
+(ii) The debtor™s participation constraint is satis–ed if the debtor chooses G and the interest rate on sovereign debt is rG i.e. 
+ 
+ 
+ 
+1  qG + qGP^ (Y  (1 + rG)nb) > cG: (11) 
+By computation it is easily checked that 1+rG = 
+1 
+1  qG(1  K^) 
+a –xed num- ber independent of Y as K^ is a –xed number independent of Y . Moreover, P^ is also a –xed number independent of Y . Therefore, the LHS of (10) is de- creasing in Y while the LHS of (11) is increasing in Y . It follows that there exists Y 
+0 
+> 0 such that if Y > Y 
+0 
+both (10) and (11) are simultaneously satis–ed.  
+25 
+
+========26========
+
+Proposition 3 states that the con⁄ict between ex ante and interim opti- mality will not arise whenever two conditions hold: (i) the debtor™s incentive constraint is not violated if he anticipates that the interim optimal threshold prevails in the post-default game, (ii) the debtor™s participation constraint is satis–ed if the debtor chooses G and the interest rate on sovereign debt is rG. Proposition 3 requires that the additional bene–t to the debtor from successful completion of the project is large enough. Under the conditions set out in Proposition 3, P <^ P~, the debtor will choose to put in a good e¤ort if he anticipates that the interim e¢ cient threshold will prevail conditional on default: in this case, strengthening CACs away from unanimity to the interim optimal threshold is compatible with debtor™s incentive constraint and there is no con⁄ict between ex ante and interim optimality. 
+5.2 Calibration 
+We calibrate the model to quantify the welfare implications of two di¤erent scenarios: one where CACs are characterized by the unanimity rule and the other where CAC threshold is set equal to its interim optimal value. We focus on the case where there is a con⁄ict between interim and ex ante e¢ ciency, i.e. the case studied in Proposition 2. However, we will also examine a scenario where such a con⁄ict does not arise. 
+Under the unanimity rule, m = 
+1 
+n 
+and it is easily checked that  
+1 
+= 1 so that the probability of a successful rollover P = 0. In their discussion ofn sovereign spreads, Cline and Barnes (1997) use a recovery rate of 0:5 a num- ber consistent with other estimates of the recovery rate in Moody (2006)22 and Sturzenegger and Zettelmeyer (2005). Accordingly, we will assume that the per capita creditor payo¤, g(n), is 0:5. Note also that, by de–nition, at the interim optimal threshold in the post-default creditor coordination game  
+ 
+m^ 
+= g(n) so that we will set the interim optimal threshold equals to 0:5. Assuming that  is uniformly distributed over [0;1], an assumption we will maintain throughout the calibration exercise, the probability of a successful debt rollover at the interim optimal threshold will be 0:5. 
+To quantify the ex ante implications of the two di¤erent CAC thresholds, 
+22Moody™s Special Comment in April 2006 arrives at the –gure of 
+0:5 by estimating the average, issuer weighted, trading price on sovereign bonds thirty days after its missed pay- ment or where the initial default event was the distressed exchange itself, the average price shortly before the distressed exchange over a sample of 19 emerging market economies. 
+26 
+
+========27========
+
+we will need to calibrate a number of di¤erent parameters in our model. 
+The –rst two such parameters are qG and qB. The Institutional Investor Ratings (IIR) given to countries on a scale of 0 to 100 are a measure of the likelihood of defaulting on the sovereign debt obligations with 100 given to those countries with the lowest likelihood. So 
+100  IIR 
+100 
+is a measure of the vulnerability of country to sovereign default shock. Countries in Europe and North America that have had continuous access to capital markets tend to have an IIR above 90. We will set qG = 0:223 following the threshold IIR in Reinhart and Rogo¤ (2009, page 29) to identify countries that have continuous access to capital markets (in our calibration exercise, when the sovereign debtor chooses G, lending by creditors always takes place). We will set qB = 0:8 the number we obtain if we use the threshold IIR in Reinhart and Rogo¤(2009, page 29) to identify countries that have no access to capital markets (in our calibration exercise when the sovereign debtor chooses B, no lending by creditors takes place). 
+A key parameter we will need to calibrate is the ratio 
+cG 
+Y  (1+rG)nb: as noted above, this ratio is proportional to the maximum probability of a successful debt rollover in the post-default game consistent with debtor™s incentive compatibility constraint. Divide both the numerator and the de- nominator of this ratio by GDP. Then, the numerator, the ratio of cG to GDP, can be proxied by cost of carrying foreign exchange reserves expressed as a fraction of GDP. Rodrik (2006) obtains a estimate of 1%, which is the number we use24. The –rst term in the denominator, the ratio of Y to GDP, will be proxied by the percentage of output loss in the event of a debt crisis: this was estimated to be 19% in the Asian Crisis of 1997-1999 by Ruiz-Arranz and Zavadjel (2008), a number that we use in our calibration 
+23If, instead, we use 
+qG = 0:1 in the calibration exercise below, it is easily checked that we would still retain the con⁄ict between ex ante and interim optimality. 
+24These costs are, typically, calculated as (i) the sum of the di¤erence between investing in lower yield US treasury bonds and higher yield investment, and (ii) opportunity costs of not investing a share of reserves in boosting domestic economic growth and the costs of borrowing reserves in international capital markets. Sengupta (2008) estimates that the cost of carrying foreign exchange reserves for India, computed on the basis of phys- ical investment foregone, is between 2% to 2:5% of GDP. Molina and Ruiz (2010) have estimated that the costs of maintaining foreign exchange reserves is approximately 2% of national output from developing countries. However, others such as Levy Yeyati and Sturzenegger (2010) claim that the reserves are costly due to wide sovereign spreads or heavy quasi-–scal losses are overstated although they do not seem to account for the costs described in point (ii) above. We use the estimate obtained by Rodrik (2006) although his calculations also seem to ignore the costs described in point (ii) above. 
+27 
+
+========28========
+
+exercise. Finally, the ratio of nb to GDP will be proxied by the ratio of short-term external debt to GDP: this was estimated to be 15% by Manase and Roubini (2009, table 2) in their study of the determinant of a debt crisis for a sample of 47 countries over 1970-2002. 
+Consider, –rst, the case, when m = 
+1 
+n. In this case, clearly the expected recovery rate K = 0:5. Assuming that the risk-free interest rate rf is 2:5%, it follows, using the representative creditor™s participation constraint, that 1 + rG = 1:1138. By computation, it is checked that (i) for the debtor™s incentive constraint to be satis–ed, it must be true that qB 
+ (1+rG)nb 
+= 0:4363, while (ii) for the debtor™s participation constraint to 
+cG 
+Y 
+be satis–ed it must be true that [1 
+ qG = 0:6  
+ qG] = 0:8  
+Y 
+cG 
+ (1+rG)nb 
+= 0:4363. It 
+follows that with the unanimity rule, there is ex ante optimality, the debtor™s incentive compatibility condition is satis–ed and the project is undertaken, while, in the post-default game, there is no interim optimality as the project 
+termination probability is one. 
+0:3 < 
+Y 
+c  (1+rG)nb 
+rB) 
+nb 
+GDP 
+= 
+be satis–ed it must be true that [1 
+ qG 
+= 
+ (1 + rB)nb < 0 , 
+Y 
+GDP 
+ (1 + 
+cG 
+ (1+rG)nb 
+= 0:4377. 
+Next, we turn to the case where the interim optimal threshold prevails in the post-default game. In this case, the expected recovery rate K^ = 0:75 under the assumption that  follows the uniform distribution on [0;1]. Again assuming that rf is 2:5%, using the representative creditor™s participation constraint, by computation, it follows that 1 + rG = 1:1143 while 1 + rB = 1:5073. By computation, it is checked that (i) for the debtor™s incentive constraint not to be satis–ed, it must be true that (using P^ = 
+1 qB 
+2) 2G 
+= 0:4377, (ii) for the debtor™s participation constraint not to be satis–ed, it must be true that Y 
+ 0:036 < 0 and (iii) for the debtor™s participation constraint to 
+ qG+ 
+qG 
+2 
+] = 0:85  
+Y 
+It follows that when the interim optimal threshold prevails in the post- default game, the debtor™s incentive compatibility condition is not satis–ed and the project is not undertaken even though there are payo¤ gains from doing so: there is no ex ante optimality. 
+We summarize the preceding computations in the following table: 
+28 
+
+========29========
+
+Unanimity CAC T hreshold 
+Recovery Rate 
+Pr: of successful 
+debt rollover 
+1 + rG 
+1 + rB Debtor™s IC constraint 
+satis–ed? Debtor™s participation constraint conditional 
+on G satis–ed? Debtor™s participation constraint conditional 
+on B satis–ed? 
+Interim Optimal 
+CAC T hreshold 0:5 0:75 
+0 0:5 
+1:1138 1:1141 n.a. 1:5073 
+Yes No 
+Yes Yes 
+n.a. No 
+Ex ante optimal? Yes No 
+TABLE 1 Calibration Results 
+This simple calibration results reported in Table 1 provides a quanti–- cation of the trade-o¤ between the ex ante and interim e¢ ciency studied in Proposition 2. With improved creditor coordination due to strengthening CACs away from unanimity to the interim optimal threshold, the default payo¤s of both the debtor and the creditor at the interim stage go up. Therefore, the debtor™s ex ante incentives to put in good policy e¤ort to avoid default are adversely a¤ected and the debtor™s incentive constraint is not satis–ed. This pushes up the interest rate on sovereign debt via creditor™s participation constraints, making it too costly for the debtor to undertake the ex ante Pareto improving project in the –rst place. 
+On the other hand, with unanimity, the ex ante incentive constraint of the sovereign debtor always holds; however, regardless of putting in the costly policy e¤ort that lowers the probability of default, once default takes place all creditors would refuse to roll over debts with probability one result- ing in an interim ine¢ cient outcome. However, the interest rate on sovereign debt is now such that the debtor chooses to undertake the ex ante Pareto 
+improving project. 
+Now suppose that the ratio of cG to GDP is 0:5% instead of 1%. In 
+29 
+
+========30========
+
+this case, P^ = 0:5 < 1  
+cG 
+(qB  qG)(Y  (1+rG)nb) 
+= 0:6353 so that interim op- timal creditor coordination is compatible with debtor™s incentive compati- bility constraint. Moreover, the debtor™s participation constraint is satis–ed because [1  qG + 
+qG 
+2 
+] = 0:85  
+cG 
+Y  (1+rG)nb 
+= 0:2188. It follows that, in this case, ex ante and interim e¢ ciency are compatible, the case studied in Proposition 3. 
+How do we need to calibrate the parameters to ensure that there is no con⁄ict between interim and ex ante e¢ ciency. 
+Finally, note that as the threshold in the post-default game is decreasing in m and all the inequalities in our calibration exercise are strict, a slight strengthening CACs away from unanimity will always be e¢ ciency improv- ing as there will be a gain in interim e¢ ciency without violating the incentive constraint of the debtor. 
+6 Policy discussion 
+A key question in the policy debate on reducing the costs of protracted sovereign debt restructuring in a sovereign debt crisis is: Would improving creditor coordination post-default alter the incentives of the sovereign debtor so that default becomes more likely in the –rst place? Our result that there is a potential trade-o¤ between ex ante and interim e¢ ciency as a consequence of strengthening CACs is one possible way to address this question. Clearly such a trade-o¤ limits the potential e¢ ciency gains from CACs and raises the question of whether there is a role for an appropriately designed formal sovereign bankruptcy procedure that addresses both ex ante and ex post issues. 
+In addition to improving creditor coordination and shifting some of the payo¤ losses to creditors via the threat of debt restructuring, two key ad- ditional elements in a sovereign bankruptcy procedure which are not also present in a market based approach such as strengthening CACs are: 
+(i) the ability of the sovereign debt restructuring court to make the debtor™s payo¤ contractible ex ante25; 
+25It is, in practice, di¢ cult to establish a formal sovereign bankruptcy procedure if it requires the court to make the debtor™s non-contractible payo¤s realized at t = 2 to become contractible as it is only the sovereign debtor who usually has a private information about the non-contractible payo¤ not the court nor the private creditors. 
+30 
+
+========31========
+
+(ii) the ability of the sovereign debt restructuring court to order a stand- still conditional on default and obtain more information (the discovery process) about debtor™s ex ante actions before restructuring is complete and thus make any –nal payments conditional on the ex ante policy e¤ort of the sovereign debtor. 
+These two elements, in principle, simultaneously address issues of ex ante debtor moral hazard and interim creditor coordination and lead to more or- derly sovereign debt restructuring (Sachs (1995), Buchheit and Gulati (2002) and Krueger (2001, 2002)). Ordering a temporary standstill addresses any concerns relating to creditor coordination by a temporary stay on creditor litigation. It allows for a discovery process where e¤orts are made to es- tablish the underlying causes of default i.e. whether it was the negative exogenous shock or bad policy e¤ort. If this reveals that the debtor had undertaken appropriate policy e¤ort a debt restructuring Œinvolving both lengthening debt maturities and writing down the value of the debt Œcould take place. 
+Of course, establishing ex ante contractibility over debtor payo¤s, would be an additional instrument that can be deployed to directly addresses debtor incentives to undertake costly policy e¤ort to reduce the probability of default: if the debtor was revealed not to have undertaken appropriate policy e¤ort then he will be penalized with payo¤s changed in ways that have already been agreed ex ante. The obvious practical problem of such an arrangement is that it involves waiving sovereign immunity ex ante (i.e. before a crisis occurs). 
+An alternative to a formal sovereign bankruptcy procedure might be es- tablishing an agency that engineers a standstill while a discovery process is underway to determine the cause of the default. Once the cause is discov- ered and debt is restructured, creditors decide whether or not to rollover the restructured debt. We can use the calibration presented in Section 5.2 to illustrate the key role of credible discovery process even when debtor™s payo¤s are not contractible i.e. investigate what happens if the post-default equilibrium can be conditioned directly on the action chosen by the debtor. Assuming that the project is terminated with probability one if the debtor chooses B, and the interim optimal CAC threshold prevails if the debtor chooses G, the incentive compatibility constraint of the debtor is equiva- 
+ 
+lent to requiring that qB  qG + qG P^ = 0:7  
+cG 
+(Y  (1+rG)nb) 
+= 0:4377. 
+31 
+
+========32========
+
+This suggests that, even in the absence of establishing contractibility over debtor™s payo¤s, the con⁄ict between interim and ex ante optimality may be mitigated in scenarios where the action chosen ex ante by the debtor can be observed before creditors make their decision to rollover outstanding debt. 
+7 Conclusion 
+In this paper, we examine the potential con⁄ict between ex ante and interim e¢ ciency as a consequence of strengthening CACs in the presence of both sovereign debtor moral hazard and creditor coordination under incomplete information. At the interim stage, we –nd that there are multiple Bayesian equilibria and strengthening CACs away from unanimity makes debt re- structuring easier, resulting in a move towards interim e¢ ciency: moreover, we characterize the interim e¢ cient CAC threshold. However, we also show the robust possibility of a con⁄ict between interim and ex ante e¢ ciency as a consequence of strengthening CACs and we quantify the implications of such a trade o¤ by a simple calibration exercise. 
+In further research we plan to explore the issue of an optimal sovereign debt restructuring procedure in greater detail and also extend the analysis reported here to examine the link between sovereign debt crisis and long-run growth. 
+References 
+[1] Barro, R., 1998. The IMF Doesn™t Put Out Fires, It Starts Them. 
+Business Week (December 7), 18. 
+[2] Bartholomew, E., Stern, E., Liuzzi, A., 2002. Two-step Sovereign Debt 
+Restructuring, mimeo, New York: JP Morgan Chase and Co. 
+[3] Becker, T., Richards, A., Thaicharoen, Y., 2003. Bond restructuring 
+and moral hazard: are collective action clauses costly? Journal of In- 
+ternational Economics 61, 127Œ161. 
+[4] Buchheit, L., Gulati, G.M., 2002. Sovereign bonds and the collective 
+will. Working Paper No. 34, Georgetown University Law Center, Wash- 
+ington D.C. 
+32 
+
+========33========
+
+[5] Bulow, J., Rogo¤, K., 1989. A constant recontracting model of sovereign 
+debt. Journal of Political Economy 97(1), 155Œ178. 
+[6] Carlsson, H., van Damme, E., 1993. Global Games and Equilibrium 
+Selection. Econometrica 61, 989Œ1018. 
+[7] Cline, W., Barnes, K., 1997. Spreads and risks in emerging market lend- 
+ing. Washington D.C.: Institute of International Finance, December. 
+[8] Diamond, D., Rajan, R., 2001. Liquidity Risk, Liquidity Creation and 
+Financial Fragility: A Theory of Banking. Journal of Political Economy 
+109, 287-327. 
+[9] Eaton, J., Gersovitz, M., 1981. Debt with Potential Repudiation: Theo- 
+retical and Empirical Analysis. The Review of Economic Studies 48(2), 
+289Œ309. 
+[10] Eichengreen, B., Bordo, M., 2001. Crises now and then: what lessons 
+from the last era of –nancial globalization?, In: Mizen, P. (Ed.) Mone- 
+tary History, Exchange Rates and Financial Markets: Essays in Honour 
+of Charles Goodhart, Ch.3, vol. 2. Northampton: Edward Elgar. 
+[11] Eichengreen, B., Mody, A., 2000. Would Collective Action Clauses 
+Raise Borrowing Costs? NBER Working Paper 7458. 
+[12] Eichengreen, B., Kletzer, K.M., Mody, A., 2003. Crisis Resolution: 
+Next Steps. Paper presented at the Brookings Trade Forum. 
+[13] Eichengreen, B., Mody, A., 2004. Do Collective Action Clauses Raise 
+Borrowing Costs? The Economic Journal 114(495), 247Œ264. 
+[14] Eichengreen, B., Portes, R. 2000. Debt Restructuring with and 
+without the IMF, unpublished manuscript, London Business School. 
+http://faculty.london.edu/rportes/. 
+[15] Gai, P., Hayes, S., Shin, H.S., 2004. Crisis costs and debtor discipline: 
+the e¢ cacy of public policy in sovereign debt crises. Journal of Inter- 
+national Economics 62(2), 245Œ262. 
+[16] Ghosal, S., Miller, M., 2003. Co-ordination failure, moral hazard and 
+sovereign bankruptcy procedures. The Economic Journal 113, 276Œ304. 
+33 
+
+========34========
+
+[17] Ghosal, S., Thampanishvong, K., 2005. Sovereign Debt 
+Crisis: Coordination, Bargaining and Moral Haz- 
+ard, CSGR Working Papers 159/05. Available at 
+http://www2.warwick.ac.uk/fac/soc/csgr/research/workingpapers/2005/wp15905.pdf 
+[18] Haldane, A.G., Penalver, A., Saporta, V., Shin, H.S., 2004. Optimal 
+collective action clause thresholds. Bank of England Working Paper 
+no. 249. 
+[19] International Monetary Fund, 2002. Collective Action Clauses in 
+Sovereign Bond Contracts - Encouraging Greater Use. Paper pre- 
+pared by the Policy Development and Review, International Cap- 
+ital Markets and Legal Department, International Monetary Fund. 
+https://www.imf.org/external/np/psi/2002/eng/060602a.pdf 
+[20] Jeanne, O., 2009. Debt Maturity and the International Financial Ar- 
+chitecture. American Economic Review, forthcoming. 
+[21] Kletzer, K.M., Wright, B.D., 2000. Sovereign debt as international 
+barter. American Economic Review 90(3), 621Œ639. 
+[22] Kletzer, K.M., 2003. Sovereign Bond Restructuring: Collective Action 
+Clauses and O¢ cial Crisis Intervention. IMF Working Paper 03/134. 
+[23] Kletzer, K.M., 2004a. Resolving Sovereign Debt Crises with Collective 
+Action Clauses. Federal Reserve Bank of San Francisco Economic Letter 
+Number 2004-06. 
+[24] Kletzer, K.M., 2004b. Sovereign bond restructuring: collective action 
+clauses and o¢ cial crisis intervention, in: Haldane, A. (Ed.), Fixing 
+Financial Crises in the 21st Century. Routledge, pp. 230Œ253. 
+[25] Krueger, A., 2001. International –nancial architecture 
+for 2002: a new approach to sovereign debt restruc- 
+turing. International Monetary Fund, Washington D.C. 
+http://www.imf.org/external/np/speeches/2001/112601.htm 
+[26] Krueger, A., 2002. A New Approach to Sovereign Debt Re- 
+structuring. International Monetary Fund, Washington D.C. 
+http://www.imf.org/external/pubs/ft/exrp/sdrm/eng/index.htm 
+34 
+
+========35========
+
+[27] Levy Yeyati, E. and F. Sturzenegger (2010), "Monetary and Exchange 
+Rate Policies and Economic Development", in M. Rosenzweig and D. 
+rodrik (eds.), handbook of Development Economics 5, Chapter 64, El- 
+sevier. 
+[28] Liu, Y., 2002. Collective Action Clauses in International Sov- 
+ereign Bonds. International Monetary Fund, Washington D.C. 
+http://imf.org/external/np/leg/sem/2002/cdm⁄/eng/liu.pdf 
+[29] Manasse, P. and N. Roubini, 2009. "‚Rules of thumb™for sovereign debt 
+crises", Journal of International Economics 78, 192-205. 
+[30] Mauro, P. and Yafeh, Y. (2003). The Corporation of Foreign Bond- 
+holders. IMF Working Paper No. 03/107. International Monetary Fund, 
+Washington D.C. 
+[31] Molina, N. and M. Ruiz, 2010. "The cost of reserves: Developing coun- 
+tries pay the price of global –nancial instability", Eurodad Report. 
+[32] Morris, S., Shin, H.S., 1998. Unique equilibrium in a model of self- 
+ful–lling currency attacks. American Economic Review 88(3), 587Œ597. 
+[33] Moody, 2006. "Default and Recovery Rates of Sovereign Bond Issuers 
+1983-2005", Moody™s Investors Service, Special Comment. 
+[34] Pitchford, R. and Wright, M.L.J., 2007. Restructuring the Sovereign 
+Debt Restructuring Mechanism. Federal Reserve Bank of Minneapolis, 
+Research Department Sta¤ Report. 
+[35] Portes, R., 2000. The Role of Institutions for Collective Action, in: 
+Adams et al. (Eds.), Managing Financial and Corporate Distress: 
+Lessons from Asia. Washington D.C.: Brookings Institution. 
+[36] Reinhart, C., Rogo¤, K., 2009. This Time is Di¤erent: Eight Centuries 
+of Financial Folly. New Jerssey: Princeton University Press. 
+[37] Richards, A., Gugiatti, M., 2003. Do Collective Action Clauses In⁄u- 
+ence Bond Yields? New Evidence from Emerging Markets. Interna- 
+tional Finance 6(3), 415Œ447. 
+35 
+
+========36========
+
+[38] Rodrik, D., 1998. Who needs capital account convertibility?, in: Kenen 
+et al. (Eds.), Should the IMF pursue capital account convertibility?, 
+Essays in International Finance 201. Princeton University. 
+[39] Rodrik, D., 2006. "The Social Cost of Foreign Exchange Reserves", 
+NBER Working Paper 11952. 
+[40] Roubini, N., Setser, B., 2004a. "The reform of the sovereign debt re- 
+structuring process: problems, proposed solutions, and the Argentine 
+episode", Journal of Restructuring Finance 1(1), 1Œ12. 
+[41] Roubini N., Setser, B., 2004b. Bailouts or Bail-ins? Responding to 
+Financial Crises in Emerging Economies. Washington DC: Institute for 
+International Economics. 
+[42] Ruiz-Arranz M. and M. Zavadjil, 2008. "Are Emerging Asia™s Reserves 
+Really Too High?", IMF Working Paper 08/192. 
+[43] Sachs, J., 1995. Do we need an international lender of last resort? 
+mimeo, Princeton University. 
+[44] Sengupta, A., 2008. "Cost of Holding Reserves: The Indian Experi- 
+ence", ICRIER Working Paper 206. 
+[45] Sturzenegger, F., Zettlemeyer, J., 2005. Haircuts: Estimating Investor 
+Losses in Sovereign Debt Restructurings, 1998Œ2005, IMF Working Pa- 
+per, WP/05/137. 
+[46] Tanaka, M., 2006. Bank loans versus bond –nance: Implications for 
+sovereign debtors. The Economic Journal 116(510), C149ŒC171. 
+[47] Taylor, J., 2002. Sovereign debt restructuring: a US perspective, 
+mimeo, Washington D.C.: Department of the Treasury (April). 
+[48] Tirole, J., 2003. Ine¢ cient Foreign Borrowing: A Dual- and Common- 
+Agency Perspective. American Economic Review 93(5), 1678Œ1702. 
+[49] Weinschelbaum, F., Wynne, J., 2005. Renegotiation, collective action 
+clauses and sovereign debt markets. Journal of International Economics 
+67, 47Œ72. 
+36 
+
+========37========
+

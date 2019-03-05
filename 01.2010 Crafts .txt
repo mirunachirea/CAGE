@@ -1,0 +1,885 @@
+March 2010 
+    No. 1 
+THE CONTRIBUTION OF NEW TECHNOLOGY TO ECONOMIC GROWTH: LESSONS FROM  
+ECONOMIC HISTORY  
+Prof Nicholas Crafts 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+THE CONTRIBUTION OF NEW TECHNOLOGY TO ECONOMIC GROWTH: LESSONS FROM ECONOMIC HISTORY 
+NICHOLAS CRAFTS 
+(University of Warwick) 
+April 2010 
+Abstract 
+This paper reviews the analysis of technological change by cliometricians.  It focuses on lessons about total factor productivity (TFP) from growth accounting and on aspects of social  capability that are conducive to the effective assimilation of new technology.  Key messages  are that when TFP growth is very rapid this typically involves reductions in inefficiency not  just technological advance and that even really important new technologies have small initial  effects on aggregate productivity.  Incentive structures matter greatly for the adoption of new  technology but social capability is not independent of the technological epoch as the ICT era  has emphasized to Europeans. 
+Keywords: economic growth; growth accounting; social capability; technological change 
+JEL Classifications: N70; O30; O40 
+Paper based on presentation originally given as the Figuerola Lecture, Madrid, October 2009 
+1 
+
+========2========
+
+1.  Introduction 
+Technological  change  is  central  to  the  study  of  economic  history.    Strong  and  sustained  technological progress is the key characteristic of modern economic growth that distinguished  the post-Industrial-Revolution world from earlier times and is the fundamental force which  has raised living standards over the last 250 years.  As Paul Romer said, "Our knowledge of  economic  history,  of  what  production  looked  like  100  year  ago,  and  of  current  events  convinces  us  beyond  any  doubt  that  discovery,  invention,  and  innovation  are  of  overwhelming importance in economic growth" (1993, p. 562). 
+Accordingly,  quantitative  economic  historians  have  devoted  a  great  deal  of  effort  to  the  analysis of technological change.  This has resulted in a large body of evidence which in some  ways complements that which can be drawn from the economics literature and which, to an  extent,  suggests  that  the  conventional  wisdom  of  economists  needs  to  be  modified.    The  difference in perspective stems from the range of experience which is provided by economic  history  and  from  a  focus  on  explaining  the  evolution of economies over time.  This paper  highlights some findings which are well-known to those economic historians who study long- run economic growth but deserve a wider audience. 
+The exposition is organized by addressing two questions which relate, respectively, to what  are sometimes called the 'proximate' and the 'ultimate' sources of economic growth.  These  questions are: 
+What  have  we  learnt  from  historical  growth  accounting  about  the  role  of  total  factor  productivity (TFP) growth? 
+When do countries exploit well the opportunities of new technology? 
+A  review  of  some  results  from  growth  accounting  and  how  to  interpret  them is  highly  appropriate since this represents the most important technique for quantifying the impact of  new technology on productivity.  A look at what Abramovitz and David (1996) called 'social  capability'  and  'technological  congruence'  allows  an  emphasis on  some  of  the  distinctive  flavour of what economic history has to say about success and failure in growth performance,  perhaps the most important topic in the discipline. 
+2.  Lessons from Historical Growth Accounting 
+Growth  accounting  typically  starts by  supposing  a  Cobb-Douglas  production  function  and  then  makes  the  distinction  between  moves  along  and  shifts  of  this  production  function  in  accounting for changes in labour productivity.  So 
+Y  =  AK L1  
+where  Y  is  output,  K  is  capital,  L  is  labour, and  A  is  TFP  while  and  (1  )  are  the  elasticities  of  output  with  respect  to  capital  and  labour,  respectively.    Under  conventional  (neoclassical)  assumptions,  and  (1  )  are  factor-share  weights  in  income,  profits  and  wages, respectively.  The basic growth accounting formula is 
+ln(Y/L)  =   
+ln(K/L)  +   lnA 
+2 
+
+========3========
+
+This formula was first made famous by Solow (1957) and  lnA is, of course, also known as  Solow's Residual.  While it was clear to Solow that the residual would capture any kind of  shift in the production function, the concluding summary of his paper said that 7/8ths of the  growth in American labour productivity between 1909 and 1949 was attributable to technical  change (1957, p. 320). 
+This approach is quite flexible and can be adapted to embrace different specifications of the  production function either in terms of changing the functional form (for example, translog) or  incorporating additional factors of production (for example, human capital) or distinguishing  between different types of physical capital (for example, ICT capital vs. non-ICT capital). 
+a)  How Important is Crude TFP in Accounting for Labour Productivity Growth? 
+Crude TFP growth is the original Solow's Residual, namely, the estimate that is obtained from  the basic growth accounting formula set out above which does not allow for any contribution  to labour productivity growth other than that of physical capital.  The first issue to consider is  whether Solow's 7/8ths result generalizes to the wide experience of modern economic growth  in what are now high-income countries, as Kuznets (1971), writing before historical growth  accounting had produced any results, thought that it probably would. 
+Solow's finding that 7/8ths of US labor productivity growth during 1909-1949 was accounted  for by TFP growth (where no separate allowance is made for educational quality of the labor  force) is still pretty much what would be obtained applying his method to today's data.  This  does  not,  however,  mean  that  this  result  has  also  been  found  by  economic historians  consistently for other periods and different countries, even though Kuznets (1971) suggested  that it probably would be. 
+Table 1 reports that on the basis of conventional growth accounting for the United States over  the long run, the picture is one of dominance of crude TFP from the late nineteenth century  till the end of the post-World War II boom in the late 1960s.  However, Table 1 also shows  that  before  1890  and  after  1966  crude  TFP  contributes  at  best  only  50  per  cent  of  labor  productivity growth. 
+In fact, at face value, given that TFP growth is below 0.5 per cent per year prior to 1890, the estimates  in  Table  1  invite  the  conclusion  that  technical  change  was  insignificant  in  the  American economy for much of the nineteenth century and only came to prominence with the  rise of the science-based industries and R & D in the so-called second industrial revolution.   This  runs  counter  to  standard  historical  discussions,  however,  and  is  certainly  not  the  interpretation in Abramovitz and David (2001).  If, as they suggest, the nineteenth-century US  economy was characterized by a low elasticity of substitution between factors together with  capital-using technical change, then TFP growth may have been considerably stronger than  shown in Table 1 which assumes that  = 1.  Whereas the crude TFP growth estimates give a  rate of 0.24 per cent per year for 1835 to 1890, if, instead, estimates are obtained using the  assumption  of  an  aggregate  production  function  with  the  properties  that  Abramovitz  and  
+3 
+
+========4========
+
+David  believe  that  the  evidence  supports,  this  would  generate  a  revised  estimate  for  TFP  growth of 0.9 per cent per year and thus restore it to a dominant role.1 
+For the late -twentieth century slowdown, it is also likely that the impression given by Table 1  is mis leading.  Here the main issue relates to the measurement of output growth.  Boskin et al.  (1996) thought that, for a variety of reasons, inflation had been overestimated (and thus real  GDP growth and TFP growth had been underestimated by a similar amount)  
+accounts and that the correction required was of the order of 0.6 per cent per year.  Again, this  would  raise  the  contribution  of  crude  TFP  growth  well  above  that  of  capital without quite reaching the 7/8ths mark. 
+2 
+in the national  
+-deepening  
+For other coun tries, the story is different.  In Tables 2 and 3, the picture of modern economic  
+growth in Europe through the 1970s is set out.  The estimates reported in the former table  
+show  only  two  cases  (Great  Britain  in  1801 -31  and  Portugal  in  1910 -34)  where  the  TF contribution to labour productivity growth is as much as 80 per cent.  A distinctive aspect of  
+Table  2  is  that  as  modern  economic  growth  spread  across  nineteenth -century  Europe  TFP  growth  was  initially  quite  modest  and  any  tendency  for  TFP  growth  to  domi nate  capital deepening is generally a post -1890 or post take -off phenomenon.  Looking at the top of Table  3, crude TFP growth does dominate capital -deepening but even so the proportion accounted  for is almost always less than 7/8ths. 
+P  
+- 
+As Krugman (1994) hig hlighted, and, as economic historians in the Gerschenkronian tradition  
+might  have  predicted,  rapid  catch -up  growth  in  the  east Asian  developmental  states  looks  rather  different  from  the  earlier  OECD  experience. 
+3 
+   In  Korea,  Singapore  and  Taiwan  the  contribu tion of capital deepening has been formidable and exceeded that of TFP growth in the  
+period 1960 to 1990. 
+4 
+   There is a strong contrast with the well -known cases of Italy, Japan  and Spain in the Golden Age. 
+5 
+   
+In sum, it appears that the US growth record t hat Solow (1957) analyzed was far from typical  of the experience of other industrialized economies in the two centuries since the Industrial  
+revolution.    Generally  speaking,  even  without  the  refinements  suggested  by  subsequent  
+authors which tend to downsiz e the role of TFP, the contribution of TFP growth to labour  productivity growth is well below 7/8ths.  Had Solow's first growth -accounting estimate been  made in the 1950s for Spain, the results would have been far less sensational. 
+                                                  
+1 
+This calculation is based on the formula given by Rodrik (1997) that the correction to TFP growth = 0.5 ((1 - )/ )(1  )( K/K  L/L)( AL/AL AK/AK) where the term in the last parenthesis captures the degree of  factor-saving bias in technological progress measured as the difference between the rate of labour augmentation  and the rate of capital augmentation.  The formula is parameterized  using values suggested in Abramovitz and  David (2001), including  = 0.3, and applying them to 1835-1890, the period which is singled out by these  authors. 
+2 
+The Boskin bias in inflation measurement does not appear to generalize to other periods, c f. Costa (2001). 3 
+In a very influential contribution, Alexander Gerschenkron (1962) proposed that the growth of 'backward'  
+follower countries would differ from that their predecessors.  In particular, there would be a much greater  
+emphasis on capital accu mulation and a key role for what would later be called the 'developmental state' in  
+implementing this. 
+4 
+Rodrik (1997) argued that the east Asian growth accounting estimates were biased; applying a similar  
+correction formula to that in footnote 3 might add around 0.8 per cent per year to TFP growth which would  
+change the detail but not the substance of this point. 
+5 
+Portugal, however, is more similar to the east Asians. 
+4 
+
+========5========
+
+b) TFP Growth   the Rate of Technical Change 
+While Solow (1957) put the growth economics into growth accounting and showed that the  residual could be interpreted as a measure of the rate of technical change, in practice, this is  generally not the case.  Indeed, the estimated rate of TFP growth can be either an under- or an  over-estimate of the contribution of technological change to labour productivity growth. 
+There  are  two  important  cases  where  it  will  be  an  under-estimate.    First,  as  noted  in  the  previous section, if technological change is labour-saving and the elasticity of substitution is  less than, then the rate of TFP growth obtained by imposing standard assumptions of a Cobb- Douglas  production  function  with  neutral  technological  change  is  too  low.    Second,  if  technological change is embodied in new types of capital goods, as economic historians often  suggest  and  is  common  in  endogenous-growth  economics,  then  the  technological  change  contribution  would  subsume  both  TFP  and  part  of  what  is  normally  counted  as  capital- deepening (Barro, 1999). 
+On the other hand, especially when TFP is growth is rapid, as in famous cases of catch-up  growth, it is likely that there is a substantial component from reductions in inefficiency, both  allocative and productive.  For example, Maddison (1987), like Denison (1967), concluded  that  much  of  the  Solow  residual  was  typically  attributable  to  some  combination  of  labor  quality, improved allocation of resources, changes in the utilization of factors of production,  reductions  in  technology  gaps  and  economies  of  scale  leaving  only  a  modest  share  'unexplained'  and perhaps reflecting disembodied technical change (cf. Table 3).   
+Maddison's  list  of  the  components  of  rapid  TFP  growth  in  the  European  Golden  Age  is  broadly in line with conventional economic histories but precise quantification is, of course,  very difficult and there is no consensus on the details.6    Maddison himself acknowledged that  
+his exercise was rather speculative and papers in the empirical growth literature cast doubt  on its rel iability without, however, amounting to an alternative decomposition.  For example,  
+Broadberry (1998) proposes a different calculation for the effect of structural change which  
+would increase its magnitude considerably, Badinger (2005) offers an econometri c estimation  of  the  productivity  implications  of  economic  integration  which  suggests  foreign  trade  was  
+more important than Maddison suggests.  Nevertheless, these are issues about the detail not  
+the principle. 
+It should be noted that the various component s of TFP growth differ in relative importance  over time while it is generally believed that the factor -saving bias of technological change has  also varied, as indeed new growth economics suggests should be the case (Acemoglu, 1998).   
+This means that differ ences in the rate of TFP growth between periods may not be a good  guide  to  comparative  rates  of  technological  change.    This  point  is  accentuated  when  it  is  
+recognized that growth accounting estimates sometimes indicate negative TFP growth over  
+lengthy peri ods, for example, as in much of Africa over the last decades of the 20th century  
+(Bosworth  and  Collins,  2003).    This  seems  much  more  plausibly  interpreted  as  reflecting  
+problems of inefficiency and capacity utilization rather then technological decline. 
+                                                  
+6 
+It should be noted that the results of a data envelopment analysis also give strong support to the claim that TFP  growth during the European Golden Age was boosted considerably by improvements over  time in the efficiency  of factor use (Jerzmanowski, 2007). 
+5 
+
+========6========
+
+When growth accounting is used to compare levels of labour productivity across countries, it  is now generally agreed that TFP gaps account a large part of the difference between rich and  poor countries.  Table 4 reports results from a recent study by Duval and de la Maisonneuve  (2009) which show this and which confirm the basic findings in the much-cited paper by Hall  and Jones (1999) which also notes that the TFP gaps seem to be strongly correlated with low  levels of institutional quality. 
+What  explains  low  TFP  levels  in  poor  countries?    This  could  represent  inefficient  use  of  factor inputs.  But it could also result from 'inappropriate technology' in the sense that the  technological  advances  in  rich  countries  improve  the  production  function  at  their  factor endowments  but  not  at  those  prevailing  in  poor  countries  contrary  to  the  conventional  neoclassical  assumption  that  the  production  function  improves  proportionately  at  all  factor  intensities.    So,  the  conventional  decomposition  of  labour  productivity  differences  into  a  component from TFP and a component from the capital to labour ratio, as in Figure 1a) is  modified to allow for discontinuities in the production function as in Figure 1b).  This allows  TFP to be decomposed into a technology component and an inefficiency component. 
+Jerzmanowki  (2007)  implemented  an  analysis  of  this  kind  and  some  of  his  results  are  summarized in Table 5.  These give some support to both hypotheses, though very low levels  of TFP do seem to be primarily due to low efficiency, and suggest that negative TFP growth  in  Africa  should  be  interpreted  as  due  to  reductions in efficiency rather than technological  decline.7    Catch -up growth in East Asia and in Europe has resulted both from bridging the  
+technology gap and from improvements in efficiency, albeit in quite different proportions in  
+various  countries.    More  generally,  though  the  point  that  emerges  is  that  TFP  growth  in  
+excess of 1.5 per cent per year is generally to be interpreted as resulting from considerable  
+improvements in effi ciency as well as technology.  Transferring labour out of agriculture is  
+typically part of this but so is improving the management of firms. 
+8 
+c)  What Have General Purpose Technologies (GPTs) Meant for Productivity Growth? 
+The Solow Productivity Paradox  was announced in 1987 with the comment that "You can see  the computer age everywhere except in the productivity statistics".  Subsequently, a great deal  of effort was devoted to explaining this (Triplett, 1999) and it was an important trigger for the  liter ature on GPTs which developed models that had negligible or even negative impacts on  productivity performance in their first phase but substantial positive effects later.  Indeed, a  GPT  can  be  defined  as  "a  technology  that  initially  has  much  scope  for  impr 
+eventually  comes  to  be  widely  used,  to  have  many  uses  and  to  have  many  Hicksian  and  technological complementarities" (Lipsey et al., 1998, p. 43). 
+ovement  and  
+Table 6 compares the impact of two GPTs, namely, steam and ICT, in the leading economies  
+of the  time.  These were indeed technologies where the potential was not well -understood in  the early days.  Thus, the pioneers of steam power did not realize its implications for transport  
+over  both  land  and  sea  and  the  early  developers  of  microchips  did  not  for esee  the  mobile  phone and the internet.  While the improvement in microchip technology was forecast early  
+                                                  
+7 
+Caselli and Coleman (2006) conduct a similar analysis but use a different specification for the production  function and a different econometric methodology.  Nevertheless, their results lead to similar conclusions. 8 
+Inefficient use of inputs is still characteristic of both Chinese and Indian manufacturing; if capital and labour  
+were us ed as efficiently as in the United States, Hsieh and Klenow (2009) estimate that manufacturing TFP  
+would rise by 25 -40 per cent in India and 50 -60% in China. 
+6 
+
+========7========
+
+on  (Moore's  Law),  the  advantages  of  high-pressure  over  low-pressure  steam  only  became  clear many years after James Watt's (1769) patent.  Technological progress led to a dramatic  fall of about 50 per cent per year in the cost of computing between 1950 and 2005 (Nordhaus,  2007).  By contrast, the cost of steam power fell by only about 7/8ths in total between 1760  and 1910 (Crafts, 2004). 
+Two points stand out from Table 6.  First, it was a very long time after James Watt's invention  that steam had any significant effect on labour productivity growth.  The long lag reflected the  time it took to improve the technology so that it consumed less coal and became cost effective  only about 165,000 horsepower were in use as late as 1830 (Kanefsky, 1979).  Second, the  impact  of  ICT  on  the  rate  of  productivity  growth  throughout  1973-2006  exceeded  that  of  steam in any period and was already close to twice the maximum impact of steam in the late  1980s.    Indeed,  these  estimates  suggest  that  the  cumulative  impact  of  ICT  on  labour  productivity by 2006 was about the same as that of steam over the whole 150-year period,  1760 1910. 
+The arithmetic of growth accounting immediately reveals why the initial impact of a GPT is  relatively modest.  Despite rapid growth in the use and productivity of the new technology, it  has  only  a  small  weight  in  the  economy  as  a  whole.    To  an  economic  historian,  the  true  paradox is that Solow's ICT paradox was regarded as such, given that by earlier standards the  contribution of ICT in the late 1980s was already stunning.  A plausible inference seems to be  that  society  is  getting  better  at  exploiting  the  opportunities  presented  by  new  GPTs  which  may  reflect  a  number  of  factors  including  more  investment  in  human  capital,  superior  scientific  knowledge,  improved  capital  markets  and  greater  support  for  R  &  D  by  public  policy. 
+d)  User Benefits of New Technologies 
+One of the most famous episodes in cliometrics concerned the contribution of the railroads to  nineteenth century American economic growth.  The best-known study was by Fogel (1964)  who pioneered the technique of social savings as a methodology.  This is based on estimating  the  cost-savings  of  the  new  technology  compared  with  the  next  best  alternative.  A  contribution from railroad capital deepening is not included as it is assumed that this earned a  normal profit equal to its opportunity cost so, in the absence of railroads, another investment would deliver an equal return.9    The saving in resource costs was also taken to be equal to the  
+gain in real national income (Fogel, 1979, p. 3).  This is valid if the rest of the economy is  
+perfectly competitive with constant returns to scale (Jara -Diaz, 1986).  Imperfect competition  or  benefits  from  internal  of  external  economies  of  scale  in  the  transport -using  sector  will  mean that the economic benefits exceed the transport benefits.  The new economic geography  
+suggests we should take these seriously an d this is an important agenda for future research; in  
+growth accounting terms this would amount to looking for TFP spillovers. 
+For railways the amount of social savings (SS) was calculated as 
+SS      (PT0       PT1) T1 
+                                                  
+9 
+If railroads earned supernormal profits, then it would be appropriate to add just the producer surplus  component of profits to find a true estimate of the real income gain, McClelland (1972). 
+7 
+
+========8========
+
+where PT0 is the price of the alternative transport mode, water, PT1 is the price of rail transport  and T1 is the quantity transported by rail.  Fogel deliberately intended this to be an upper- bound  measure,  constructed  as  if  demand  for  transport  was  perfectly  price  inelastic,  to  compensate for omitted gains in the transport-using sector. 
+The natural interpretation of the gain in real income obtained from reducing resource costs in  transportation is as an increase in TFP.  Harberger (1998) reminded us that TFP growth can  be interpreted as real cost reduction and the price dual measure of TFP confirms that the rate  of  fall  over  time  in  the  real  cost  of  railroad  transport  under  competitive  conditions  is  also  equal  to  TFP  growth.    Since  railroads  will  only be introduced at the point where they can  offer transport at the same cost as water transportation, if expressed as a contribution to the  annual  growth  rate,  the  social  savings  measure  should  equate  to  the  own  TFP  growth  contribution.    Indeed,  this  equivalence  is  exactly  how  Foreman-Peck  (1991) extended  the  social saving estimate for British railways made by Hawke (1970) for 1865 to 1890. 
+The price dual measure of TFP growth equivalent to (3) is 
+A/A      sK r/r      sL w/w   
+p/p  
+where r is the profit rate, w is the wage rate and p is output price.  Thus when input prices are  constant, TFP growth equals the rate of nominal price decline. 
+Using this result, the rail social saving in year t compared with the year of introduction, t  1,  expressed as a fraction of rail revenue is 
+(pt  
+1 
+      pt)qt/ptqt         pt  
+1/pt 
+      1       A/At  
+1 
+      1 
+or expressed as a fraction of GDP is 
+(A/At  
+1 
+      1)*(ptqt/GDPt) 
+Rail social savings as a proportion of GDP are revealed to be the percentage change in TFP in  the rail industry multiplied by the ratio of rail output to GDP.  The social saving approach is  then  equivalent  to  taking  only  the  TFP  and  not  the  embodied  capital  contribution  of  an  innovation. 
+A  major  advantage  of  the  social-saving  methodology  is  that  it  focuses  attention  on  the  distribution of the benefits from a new technology together with how well these benefits are  measured.  In the case of railways, in both Spain and the UK, the evidence is that users got  the lion's share of the benefits in terms of cheaper and faster transport and that there were few  supernormal profits, as Table 7 reports.  This would not be a surprise to Nordhaus (2004) who  estimated that 98 per cent of the social gains from new technology went to the users and only  2 per cent to supernormal profits in the United States in the second half of the 20th century. 
+This discussion has been conducted entirely in terms of a closed economy.  However, in an  open economy, the users and producers of new technologies may be in different countries.   Since  the  products  of  the  new  technology  will  experience  falling  prices,  the  impact  of  its  production on real GDP will be greater that on real national income.  History tells us that this  consideration can be serious.  The best example is probably cotton textiles during the British  
+8 
+
+========9========
+
+industrial  revolution.    Harley  (1999)  concluded  that  the  welfare  gain  from  the  growth  of  cotton textiles during the industrial revolution was a little over 11 per cent of 1841 income  whereas valuing output of the sector without making a terms of trade correction would have  shown a gain of 25 per cent.  The social saving methodology by valuing gains from domestic  use of new technology is a better guide to welfare benefits than the usual growth accounting  estimate. 
+Finally,  it  should  be  recognized  that  technological change  may  provide  'new  goods'  which  have  previously  unavailable  characteristics  and  are  imperfect  substitutes  for  the  old.    This  type of benefit, which reflects consumers' willingness to pay for the new attribute, is ignored  in  conventional  growth  accounting,  although  it  may  be  large  as  Hausman  (1997)  showed  when comparing mobile with landline telephones.  For railways, the new characteristic was  speed of passenger travel.  Indeed, time savings account for about half the social savings in  the UK in 1912 reported in Table 7.  Implications for time use deserve to be taken seriously in  the context of other technologies, most obviously ICT, as is suggested in an innovative paper  by  Goolsbee  and  Klenow  (2006).    They  estimated that taking into account the opportunity  cost of time saved, the consumer gains from the internet in the United States in 2005 were  $2500  per  person  rather  than  the  $50  that  resulted  from  a  conventional  consumer-surplus  calculation. 
+3.  Taking Advantage of the Opportunities of New Technology 
+Economic  historians  are  fascinated  by  success  and  failure  in  long-run  growth.    They  have  always been inclined to believe that institutions and policies, i.e., incentive structures, matter  in this context even when mainstream economics claimed that they could only have levels  rather than growth-rate effects.  With the advent of endogenous growth theory and explicit  analysis of the determinants of innovation, there is now much more common ground between  economics and economic history, although significant differences of emphasis remain.  Some  of  these  stem  from  the  explicitly  internationally  comparative  nature  of  much  work  in  economic  history  some  from  the  perspective  that  results  from  looking  at  the  process  of  adjusting to change as technology evolves and diffuses. 
+a) Appropriate Technology 
+As  noted  earlier,  there  has  been  considerable  interest  among  economists  recently  in  the  hypothesis  that  technologies  developed  for  the  factor  endowments  and  cost  conditions  of  advanced countries may not improve the production function for poor countries (cf. Figure  1b).  This idea looms larger in work by economic historians on the development and adoption  of new technology, notably, with regard both to the divergence between American and British  technology during the 19th and early 20th centuries and also the reasons why the Industrial  Revolution happened first in Britain. 
+Habakkuk  (1962)  famously  claimed  that  land  abundance  and  labour  scarcity  in  the  United  States promoted rapid, labour-saving technological change.  New economic historians spent  quite a long time trying to pin down these arguments.  Eventually, it was found that the US  was able to exploit complementarities between capital and natural resources to economize on  the  use  of  skilled  labour  in  an  important  subset  of  American  manufacturing  (James  and  Skinner, 1985) and that scale economies and biased technological change biased in favour of  capital and materials-using were pervasive in manufacturing (Cain and Paterson, 1986). 
+9 
+
+========10========
+
+Following the lead of David (1975), Broadberry (1994) used Figures 2a) and 2b) to locate this  as a situation of localized technological progress in the two economies, down the  and  rays  rather  than  a  universal  inwards  shift  of  a  smooth  isoquant.    Although  eventually  the  technology  might  develop  far  enough  to  dominate  at  both  sets  of  relative  factor  prices,  it  might remain inappropriate for the country starting from point B for a long time.  Acemoglu  (2009) provides a model in the endogenous innovation tradition that predicts an outcome like  Figure 2b) of faster technological change under conditions of labour scarcity if, as may well  be the case for the 19th century, technology is biased in the direction of being strongly labour  
+saving. 
+Looking at late-Victorian Britain, the flip-side of this story is that innovations that were made  in the United States were frequently inappropriate on the other side of the Atlantic because  they were not cost-effective at British relative factor prices and/or market size; had they been  profit-maximizing, competition  in  product  markets  would  have  ensured  rapid  adoption.  (Magee, 2004).  Thus, allegations that 'entrepreneurial failure' was to blame for the neglect of  American  technology  made  by  writers  such  as  Landes  (1969)  were  misplaced  and  British  business  was  exonerated.    The  implication  is  that  lower  TFP  in  British  industry  was  unavoidable.  Unlike the inappropriate-technology literature in economics, however, this is  about the development of North-North rather than North-South technology. 
+Allen  (2009) takes  a  global  perspective  on  the  first  industrial revolution and argues that it  happened  in  Britain  because  of  the  unique  relative  factor-price  configuration  there,  in  particular, the combination of very expensive labour and very cheap energy.  He points to the  success  of  famous  innovations,  for  example,  in  textiles  and  metals,  in  changing  factor  
+proportions  by  using  coal  and  saving  labour  
+maybe  this  is  best  seen  as  induced  factor  
+substitution making available a new point on the APF in Figure 2a). 
+al -revolution  
+Allen stresses that the new technologies of the industrial revolution were very expensive to  develop and, since they were not profitable to adopt in other countries, the only place where it  was  rational  to  do  the  R  &  D  was  Britain.10    Eventually,  as  the  industri 
+technologies  advanced,  they  became  profitable  to  adopt  in  other  countries  with  different  
+factor  prices  and  Britain's  advantage  proved  transient.    Again,  an  endogenous 
+approach can help make this argument work in theory as well as i 
+-innovation  n practice.  The model of  
+directed technical change in Acemoglu (1998), in which profits to innovation are proportional  to market size because of fixed costs of developing new technology, would be a possibility. 
+b) Social Capability and Schumpeterian Grow 
+th 
+ffectively to  
+For  almost  all  countries  including  those  which  do  substantial  amounts  of  R  &  D  such  as  France, Germany and UK, the main source of technological advance is technology transfer  from abroad (Eaton and Kornum, 1999).  This places a premium on the ability e assimilate imported technology both in terms of speed of its diffusion and realization of its  productivity potential.  In a very influential paper, Abramovitz (1986) emphasized that catch 
+up by follower countries was by no means automatic but 
+                                         
+         
+- 
+depended on 'social capability', i.e.,  
+10 
+For example, Allen (2009) estimates that the rate of return on investing in a spinning jenny in the 1770s was  38 per cent in Britain, 2.5 per cent in France and -5.2 per cent in India. 
+10 
+
+========11========
+
+having  incentive  structures  based  on  institutions  and  policies  that  were  conducive  to  the  necessary investment and innovation. 
+The claim that institutions matter is, of course, characteristic of economic historians' work on  economic growth and development, most famously identified with North (1990).  Here, since  the  mid-1990s,  there  has  been  a  convergence  between  work  on  catch-up  growth  by  economists and economic historians.  Following the pioneering paper by Knack and Keefer  (1995), it quickly became routine to include a measure of the quality of formal institutions in  growth regressions and to find that it is economically and statistically important (Bleaney and  Nishiyama, 2002).  Similarly, since Hall and Jones (1999), it has become widely accepted that  low TFP levels in poor countries is to a considerable extent due to inefficiency which persists  in the context of bad institutions. 
+There clearly are, however, important differences as well as similarities between these two  literatures.  In particular, there are features of the economic-history work that have not yet  been  fully  reflected  in  that  of  the  economists.    First,  it  is  important  to  note  the  influential  argument  of  Gerschenkron  (1962)  at  an  early  stage  of  development  the  institutions  (and  policies) which are appropriate might differ from those desirable at more advanced stages of  development.  This entailed a more proactive role for the state, wider boundaries for the firm  and greater reliance on relationship banking given the importance of co-ordination problems,  inadequacy of the formal legal system, and a premium on dealing with capital market failures.   It is also relevant to note that reform to achieve a more orthodox stance once take-off has  been achieved will probably be desirable but possibly difficult as proved to be the case in East  Asia (Crafts, 1999). 
+Second,  the  new  institutional  economic  history  stresses  both  the  persistence  of  institutions  and also the absence of any general tendency for good institutions to replace bad ones; a lot of  weight  is  put  on  path  dependence  in  institutional  change  (North,  2005).    Once  in  place,  institutional arrangements can develop network externalities and the support of the interest  groups that they spawn.  Informal as well as formal institutions matter but they are not readily  amenable  to  'top-down'  reform.    Thus,  'bad'  or  outmoded  institutions,  which  arose  through  choices made long ago in different circumstances, may survive. 
+This suggests that many economists are over-optimistic about the prospects for catch-up and  convergence in poor countries.  If institutions matter and need continual reform to achieve  full  catch-up,  it  is  very  possible  that  countries  either  get  stuck  in  a  low-level  equilibrium  (much  of  Sub-Saharan  Africa)  or  find  catch-up  easy  to  start  but  difficult  to  complete  (for  example, Japan).  Thus, the neoclassical prediction of future convergence of incomes appears  to  be  very  optimistic  even  though  enthusiasts  argue  that,  now  that  it  is  understood  which  institutions and policies are conducive to growth, in a globalized world rapid catch-up growth  financed by capital inflows should be much easier to achieve (Lucas, 2000).  Similarly, the  projections of future catch-up by the so-called BRICs economies that have been popularized  by  Goldman  Sachs  (Wilson  and  Purushothaman,  2003)  have  a  mechanistic  flavour  which  abstracts from the political economy of development. 
+It is useful to link the discussion of social capability to modern growth theory.  The obvious  way  to  do  this  is  to  consider  the  endogenous-innovation  model  proposed  by  Aghion  and  Howitt (2006) in which technological progress occurs through quality-improving innovations  
+11 
+
+========12========
+
+that  render  old  products  obsolete  and  which  they  describe  as  'Schumpeterian'  because  it  entails creative destruction.  This model can be simply captured by the following equations: 
+y = A1 - k 
+where y is output per worker and A is labour-augmenting technological progress. 
+A  =   
+n( 
+1)A  +   
+m(A*  
+A) 
+where  
+n 
+and  
+m 
+are the frequencies with which, respectively, 'leading-edge' and 'catch-up'  innovations occur, (A*  A) is the technology gap with the leader and  is multiple by which  technology improves with a leading-edge innovation.  Growth is increased by institutions and  policies which increase  
+n 
+and/or  
+m. . 
+   Countries which are close to (far from) the frontier  need to concentrate on developing a configuration that is good for  
+n 
+( 
+m).  
+It  should  be  noted  that  institutions  and  policies  which  are  conducive  to  leading-edge  innovations may be less effective or even adverse for catch-up innovations.  Strong product- market competition policy may be a case in point, according to Aghion and Howitt (2006).   For  close-to-frontier  situations  encouraging  entry  threats  stimulates  innovation  which  will  allow the domestic firm to survive whereas in far-from-frontier cases entry will lead to exit of  the domestic firm whether it has innovated or not.  As I explore below, a permutation on this  idea with salience for economic history is that the institutions and policies that are good for  one  technological  era  (say,  Fordism)  are  less  appropriate  for  another  era  (say,  ICT).    The  parallel  with  the  Gerschenkronian  perspective  is  readily  apparent.    It  will  be  desirable  to  reform and for institutions and policies to evolve as countries progress through a process of  catch-up.  This may not be easy. 
+c)  The Golden Age of European Economic Growth, 1950-1973 
+The Golden Age of European economic growth was an episode of strong  -convergence, as  Table 8 suggests.  Abramovitz and David (1996) explained this in terms of increased 'social  capability'  and  'technological  congruence'  compared  with  the  post-World  War  I  period.11    With regard to the former, an important aspect was the corporatist capitalism, highli ghted by  Eichengreen (1996), that underwrote an investment boom.  With regard to the latter, the point  
+is  that  by  now  American  technology  was  more  appropriate  for  Europe  as  factor -price  differences  narrowed  and  European  markets  became  more  integrated  (Nels on  and  Wright,  1992). 
+12 
+   The strengthening of competition together with trade liberalization also underpinned  
+rapid TFP growth based on reductions in inefficiency (cf. Table 3). 
+The most striking hypothesis to explain enhanced social capability in postwar  Europe is that  of Eichengreen (1996) who argued that the high investment rates which allowed successful  
+exploitation  of  catch -up  opportunities  were  facilitated  by  social  contracts  which  sustained  
+wage  moderation  by  workers  in  return  for  high  investment  by  firms.    These  'corporatist'  
+                                                  
+11 
+The decomposition of the TFP gap provided by Jerzmanowski (2007) suggests that this claim about  technological congruence is plausible (cf. Table 5). 
+12 
+A formal model of conditional convergence which incorporates appropriate tec hnology shows that a 'growth  miracle' phase can happen as accumulation of capital drives factor endowments into the range where the  
+production function has improved and technology transfer suddenly becomes profitable (Basu and Weil, 1998). 
+12 
+
+========13========
+
+arrangements provided institutions to monitor capitalists' compliance and co-ordinated wage  bargaining  which  protected  high-investment  firms  and  prevented  free-riding  by  sub-sets  of  workers.13    In addition, the state provided 'bo nds' that would be jeopardized if labour defected  
+on the agreements in the form of an expanded welfare state.  Not all countries succeeded in  
+achieving the co -operative equilibrium; West Germany did but the UK did not.  Co -ordinated  wage bargaining can be  shown to have promoted investment and growth up to 1975 but not  
+thereafter  (Gilmore,  2009).    The  central  foundation  of  a  high  investment/wage  moderation  
+equilibrium is that both sides are willing to wait for jam tomorrow.  By the 1970s, there were  
+good rea sons for patience to be much lower, including the greater mobility of capital and the  
+productivity slowdown (Cameron and Wallace, 2002). 
+Although  all  countries  grew  rapidly  by  their  own  historical  standards,  some  seized  the  opportunities of the Golden Age better than others.  Table 8 suggests that West Germany out performed  and  the  UK  under -performed  relative  to  the  predictions  of  an  unconditional  convergence  regression;  Table  3  points  to  weaker  TFP  growth  in  the  UK  as  a  key  aspect.   This reflects differen ces in social capability. 
+- 
+First, it is clear that West Germany was much more successful in human and physical capital  
+accumulation.  In 1973, capital per hour worked in West Germany was 35 per cent above the  
+UK level and in 1978/9 only 34.5% of West Germa n workers were low skill compared with  72.8%  in  the  UK  (O'Mahony,  1999).    This  strong  record  of  accumulation  was  based  on  
+corporatist  institutions  and  an  'insider'  financial  system  that  fostered  relationship -specific  long -term investments (Carlin, 1996).   Second, there was a major difference between the two  
+countries  in  terms  of  industrial  relations;  whereas  West  Germany  established  a  system  of  
+industrial  unions,  multiple  unionism  was  quite  prevalent  in  the  UK.    Multiple  unionism  
+makes  the  'hold -up  problem' for  investments  in  fixed  capital  much  more  serious  and  
+encourages free -riding by unions; Bean and Crafts (1996) show that this exerted a significant  
+penalty in terms of productivity growth for the UK.  Third, there was weaker competition in  
+the  UK  partly  because  of  slower  liberalization  of  external  trade  and  partly  because  
+competition  policy  was  a  low  priority  and  badly -designed.    Price -cost  margins  were  much  higher and supernormal profits more persistent in the UK than in West Germany (Crafts and  
+Mills, 2 005; Geroski and Jacquemin, 1988).  This mattered because UK firms suffered more  
+from the agency problems that arise where shareholders are weak and for which competition  
+is the antidote. 
+14 
+   The UK evidence is that weak competition in the absence of a domin ant  external shareholder was associated with markedly inferior productivity performance (Nickell  
+et al. 1997).  
+Two points should be taken from this discussion.  First, incentive structures do matter for the  
+effective assimilation of new technology and fo r productivity growth and these have varied  significantly  across  advanced  European  countries  in  the  recent  past.    Second,  the  UK  had  
+problems  in  the  areas  of  corporate  governance  with  an  extreme  degree  of  separation  of  
+ownership and control which allowed b ad management to continue and in industrial relations  with  a  tradition  of  craft  control  of  effort  bargains.    Both  these  historical  legacies  were  
+                                                  
+13 
+'Corporatist' industrial relations were quite common (Crouch, 1993); in other cases, such as France and Italy,  government intervention achieved similar results (Toniolo, 1998). 
+14 
+West Germany relied much less on public joint stock companies where these issues are likely to matter most.   German companies almost always had a shareholder with 25% of the company whereas in UK only a small  
+percentage did (Carlin, 1996, p. 488).  
+13 
+
+========14========
+
+sustained  by  weak  competition  and  were  serious  handicaps  to  the  effective  assimilation  of  American technology in the UK but policy-makers were unwilling to address these issues. 
+d)  A Historical Perspective on the ICT Era  
+It is well-known that the United States has enjoyed a labour productivity growth revival since  the  mid-1990s  and  that,  for the first time in the postwar period, this has outpaced average  western European performance.  About the same time, it became very clear that the Solow  Productivity  Paradox  no  longer  applied  as  the  ICT  contribution  to  American  productivity  growth increased.  A standard American perspective on recent European growth is that it has  been handicapped by too much taxation, too much regulation and too little competition (Baily  and  Kirkegaard,  2004).    It  is  clear  that  this  is  an  accurate  description  of  the  average  of  European countries compared with the United States; it was, however, equally true for the 20  years or so prior to 1995 during which productivity growth in Europe was well above that in  America and the European productivity catch-up continued (Crafts and Toniolo, 2008). 
+ICT  has  played  a  big  part  in  the  recent  discrepancy  between  European  and  American  productivity performance, as is reflected in Table 9.  Both ICT-capital deepening and TFP  growth  were  much  stronger  in  the  United  States  than  in  the  large  continental  European  economies, as was the contribution made by service sectors that use ICT intensively (such as  retailing) to labour productivity growth.  Investment in ICT capital also has a strong lagged  effect on TFP growth in the same sector in the United States (Basu and Fernald, 2007).  This  seems  to  reflect  re-organization  of  production,  workforce  training  and  learning-by-using  within firms (Brynjolfsson and Hitt, 2003).15 
+Recent research has found that the adverse effects of regulation on productivity performance  
+ar e strongest in the face of new technological opportunities and have impacted strongly on the  
+diffusion  of  ICT.    Cross -country  regression  evidence  shows  that  employment  protection  
+deters  investment  in  ICT  equipment  (Gust  and  Marquez,  2004)  because  re -organi zing  working  practices  and  upgrading  the  labour  force,  which  are  central  to  realizing  ICT's  
+productivity potential, are made more expensive.  Restrictive product market regulation has  
+deterred investment in ICT capital directly (Conway et al., 2006) and th e indirect effect of  regulation  through  raising  costs  has  been  relatively  pronounced  in  sectors  that  use  ICT  
+intensively.  There has been a strong correlation between product market regulation and the  
+contribution  of  ICT -using  services  (notably  in  distribu tion)  to  overall  productivity  growth  (Nicoletti and Scarpetta, 2005).  Stronger competition in close -to -frontier economies would  have been beneficial in the recent past, as Aghion and Howitt (2006) argued, but perhaps the  
+strongest  reason  for  this  would  ha ve  been  favourable  effects  on  implementing  technology  
+transfer rather than creating leading -edge innovations. 
+Table 10 shows that regulation has been more tighter in Europe than in the United States.  At  
+the  same  time,  the  picture  is  one  of  moves  towards  de -regulation  in  Europe  in  the  last  20  years or so.  Thus, the story is not that regulation has become more stringent but rather that  
+existing regulation has become more costly in the context of a new technological era based on  
+                                                  
+15 
+This implies that it may be necessary to re-think growth accounting estimates to make explicit the role of  investment in intangible capital which has probably been much larger in the 'New Economy' era than before.   This will probably account for part of what is captured by TFP in conventional growth accounting, as is found by  a pioneering study for the United States (Corrado et al., 2009). 
+14 
+
+========15========
+
+ICT.  The UK has experienced a relatively strong contribution to productivity growth from  the regulation-sensitive ICT-using services sector and ICT capital deepening has been above  the EU average.  As a lightly-regulated economy characterized by strong competition, since  the  Thatcher  reforms  the  UK  has  been  better  positioned  than  the  other  big  European  economies to prosper in the ICT era.  This has been reflected in TFP growth and relatively  strong  contributions  to  productivity  growth  from  both  ICT-using  services  and  ICT  capital  deepening.  In a sense, this can be seen as an unexpected bonus from the failure to establish a  successful corporatist model in an earlier generation.  By the same token, the downside of  success based on corporate capitalism in the Golden Age is also apparent. 
+4.  Conclusions 
+Growth accounting has been widely used by economic historians and some important findings  have  emerged  from  the  research  of  the  past  three  decades.    First,  it  is  clear  that  it  is  not  generally the case that 7/8ths of labour productivity growth comes from technical change and  this  famous  result  in  Solow  (1957)  now  appears  to  be  a  bit  of  an  outlier.    Across  other  countries and in other time periods, capital deepening accounts for rather more than 1/8th of  labour productivity growth.  Moreover, particularly when Solow's Residual is big, technical  change  only  accounts  for  part  of  TFP  growth  while  reductions  in  inefficiency  play  an  important part.  Second, we now know that even really important new technologies only have  a small impact on productivity growth in the early days.  This was the message as long ago as  the  study  of  railroads  by  Fogel  (1964)  but  the  weighting  scheme  inherent  in  growth  accounting  clarifies  why  this  is  the  case.    ICT  is  historically  remarkable  and  the  Solow  productivity paradox was a mirage.  Third, it is well worth considering to whom and how the  benefits  of  new  technology  accrue.    This  draws  attention  to  the  point  that,  in  the  medium  term, the users are typically the big gainers and that some of their consumer surplus comes  from the 'new-good' attributes of the technology. 
+Economic historians have been right to emphasize the importance of what Abramovitz and  David (1996) called 'social capability' and 'technological congruence' in understanding when  countries are able to benefit from new technology.  Incentive structures are clearly central to  understanding  the  development  and,  much  more  importantly,  the  diffusion  and  effective  assimilation  of  new  technologies.    Given  that  the  development  of  new  technology  is  concentrated in relatively few countries and is influenced by its expected profitability in the  home market, it is perhaps not surprising that this technology is sometimes 'inappropriate' in  other parts of the world.  This is important for the understanding of episodes both of falling  behind and of rapidly catching up.  Moreover, the effective use of new technologies depends  on institutions and it must be acknowledged that the requirements of different technological  eras  are  not  the  same.    As  the  post-war  economic  history  of  Europe  shows,  the  policy  implications of this are important but not easy to address. 
+15 
+
+========16========
+
+References 
+Abramovitz, M. and David, P. A. (1996), "Convergence and Delayed Catch-Up: Productivity  
+      Leadership and the Waning of American Exceptionalism", in R. Landau, T. Taylor and G.  
+      Wright (eds.), The Mosaic of Economic Growth.  Stanford: Stanford University Press, 21- 
+      62. 
+Abramovitz, M. and David, P. A. (2001), "Two Centuries of American Macroeconomic  
+      Growth: From Exploitation of Resource Abundance to Knowledge-Driven Development",  
+      Stanford Institute for Economic Policy Research Discussion Paper No. 01-05. 
+Acemoglu, D. (1998), "Why Do New Technologies Complement Skills? Directed Technical  
+      Change and Wage Inequality", Quarterly Journal of Economics, 113, 1055-1089. 
+Acemoglu, D. (2009), "When Does Labor Scarcity Encourage Innovation?", NBER Working  
+      Paper No. 14809. 
+Aghion, P. and Howitt, P. (2006), "Appropriate Growth Theory: a Unifying Framework",  
+      Journal of the European Economic Association, 4, 269-314. 
+Albers, R. and Groote, P. (1996), "The Empirics of Growth", De Economist, 144: 429-444. 
+Allen, R. C. (2009), The British Industrial Revolution in Global Perspective.  Cambridge:  
+      Cambridge University Press. 
+Badinger, H. (2005), "Growth Effects of Economic Integration: Evidence from the EU  
+      Member States", Review of World Economics, 141, 50-78. 
+Baily, M. and Kirkegaard, J. F. (2004), Transforming the European Economy.  Washington,  
+      DC.: Institute for International Economics. 
+Barro, R. J. (1999), "Notes on Growth Accounting", Journal of Economic Growth, 4, 119- 
+      137. 
+Basu, S. and Fernald, J. (2007), "Information and Communications Technology as a General  
+      Purpose Technology: Evidence from US Industry Data", German Economic Review, 8,  
+      146-173. 
+Basu, S. and Weil, D. N. (1998), "Appropriate Technology and Growth", Quarterly Journal  
+      of Economics, 113, 1025-1054. 
+Bean, C. and Crafts, N. (1996), "British Economic Growth Since 1945: Relative Economic  
+      Decline... and Renaissance?", in N. Crafts and G. Toniolo (eds.), Economic Growth in  
+      Europe Since 1945.  Cambridge: Cambridge University Press, 131-172. 
+Bleaney, M. and Nishiyama, A. (2002), "Explaining Growth: a Contest between Models",  
+      Journal of Economic Growth, 7, 43-56. 
+Boskin, M. J., Dulberger, E. L., Gordon, R. J., Griliches, Z. and Jorgenson, D. W. (1996),  
+16 
+
+========17========
+
+      Towards a More Accurate Measure of the Cost of Living.  Washington DC.: US  
+      Government Printing Office. 
+Bosworth, B. P. and Collins, S. M. (2003), "The Empirics of Growth an Update", Brookings 
+      Papers on Economic Activity, 2, 113-206. 
+Broadberry, S. N. (1994), "Technology Leadership and Productivity Leadership in  
+      Manufacturing since the Industrial Revolution: Implications for the Convergence Debate",  
+      Economic Journal, 104, 291-302 
+Broadberry, S. N. (1998), "How Did the United States and Germany Overtake Britain?",  
+      Journal of Economic History, 58, 375-407. 
+Brynjolfsson, E. and Hitt, L. (2003), "Computing Productivity: Firm-Level Evidence",  
+      Review of Economics and Statistics, 85, 793-808. 
+Cain, L. P. and Paterson, D. G. (1986), "Biased Technical Change, Scale and Factor  
+      Substitution in American Industry, 1850-1919", Journal of Economic History, 46, 153- 
+      164. 
+Cameron, G. and Wallace, C. (2002), "Macroeconomic Performance in the Bretton-Woods  
+      Period and After", Oxford Review of Economic Policy, 18, 479-494. 
+Carlin, W. (1996), "West German Growth and Institutions, 1945-1990", in N. Crafts and G.  
+      Toniolo (eds.), Economic Growth in Europe Since 1945.  Cambridge: Cambridge  
+      University Press, 455-497. 
+Caselli, F. and Coleman, W. J. (2006), "The World Technology Frontier", American 
+      Economic Review, 96, 499-522. 
+Conway, P. and Nicoletti, G. (2006), "Product Market Regulation in the Non-Manufacturing  
+      Sectors of OECD Countries: Measurement and Highlights", OECD Economics  
+      Department Working Paper No. 530. 
+Corrado, C., Hulten, C. and Sichel, D. (2009), "Intangible Capital and U.S. Economic  
+      Growth", Review of Income and Wealth, 661-685. 
+Costa, D. (2001), "Estimating Real Income in the United States from 1888 to 1994:  
+      Correcting CPI Bias Using Engel Curves", Journal of Political Economy, 109, 1288- 
+      1310., " 
+Crafts, N. (1995), "Exogenous or Endogenous Growth? the Industrial Revolution  
+      Reconsidered", Journal of Economic History, 55, 745-772. 
+Crafts, N. (1999), "Implications of Financial Crisis for East Asian Trend Growth", Oxford 
+      Review of Economic Policy, 15(3), 110-131. 
+Crafts, N. (2004), "Steam as a General Purpose Technology: a Growth-Accounting  
+      Perspective", Economic Journal, 114, 338-351. 
+17 
+
+========18========
+
+Crafts, N. and Mills, T. C. (2005), "TFP Growth in British and German Manufacturing, 1950- 
+      1996", Economic Journal, 115, 649-670. 
+Crafts, N. and Toniolo, G. (2008), "European Economic Growth, 1950 2005: An Overview",  
+      CEPR Discussion Paper No. 6863. 
+Crouch, C. (1993), Industrial Relations and European State Traditions.  Oxford: Clarendon  
+      Press. 
+David, P. A. (1975), Technological Choice, Innovation and Economic Growth.  Cambridge:  
+      Cambridge University Press. 
+Denison, E. F. (1967), Why Growth Rates Differ. Washington DC.: Brookings Institution. 
+Duval, R. and de la Maisonneuve, C. (2009), "Long-Run GDP Growth Framework and  
+      Scenarios for the World Economy", OECD Economics Department Working Paper No.  
+      663. 
+Eaton, J. and Kornum, S. (1999), "International Technology Diffusion: Theory and  
+      Measurement", International Economic Review, 40, 537-570. 
+Eichengreen, B. (1996), "Institutions and Economic Growth: Europe after World War II", in  
+      N. Crafts and G. Toniolo (eds.), Economic Growth in Europe Since 1945.  Cambridge:  
+      Cambridge University Press, 38-72. 
+Fogel, R. W. (1964), Railroads and American Economic Growth.  Baltimore: Johns Hopkins  
+     University Press. 
+Fogel, R. W. "Notes on the Social Saving Controversy", Journal of Economic History, 39, 1- 
+      54. 
+Geroski, P. and Jacquemin, A. (1988), "The Persistence of Profits: a European Comparison",  
+      Economic Journal, 98, 375-389. 
+Gerschenkron, A. (1962), Economic Backwardness in Historical Perspective.  Cambridge,  
+      Mass.: Belknap Press. 
+Gilmore, O. (2009), "Corporatism and Growth Since 1945", MSc. thesis, Warwick  
+      University. 
+Goolsbee, A. and Klenow, P. J. (2006), "Valuing Consumer Products by the Time Spent  
+      Using Them", American Economic Review Papers and Proceedings, 96, 108-113. 
+Gust, C. and Marquez, J. (2004), "International Comparisons of Productivity Growth: the  
+       Role of Information Technology and Regulatory Practices", Labour Economics, 11, 33- 
+      58. 
+Habakkuk, H. J. (1962), American and British Technology in the Nineteenth Century.   
+18 
+
+========19========
+
+      Cambridge: Cambridge University Press. 
+Hall, R. E. and Jones, C. I. (1999), "Why Do Some Countries Produce So Much More Output  
+      per Worker than Others?", Quarterly Journal of Economics, 114, 83-116. 
+Harley, C. K. (1999), "Cotton Textiles Prices Revisited: a Response to Cuenca Esteban",  
+      Economic History Review, 52, 756-765. 
+Hausman, J. (1997), "Valuing the Effect of Regulation on New Services in  
+      Telecommunications", Brookings Papers on Economic Activity Microeconomics, 1-38. 
+Herranz-Loncan, A. (2006), "Railroad Impact in Backward Economies: Spain, 1850-1913",  
+      Journal of Economic History, 66, 853-881. 
+Hsieh, C. T. and Klenow, P. J. (2009), "Misallocation and Manufacturing TFP in China and  
+      India", Quarterly Journal of Economics, 124, 1403-1448. 
+James, J. A. and Skinner, J. S. (1985), "The Resolution of the Labor-Scarcity Paradox",  
+      Journal of Economic History, 45, 513-540. 
+Jara-Diaz, S.R. (1986), "On the Relation between Users' Benefits and the Economic Effects 
+      of Transportation Activities", Journal of Regional Science, 26, 379-391. 
+Jerzmanowski, M. (2007), "Total Factor Productivity Differences: Appropriate Technology  
+      vs. Efficiency", European Economic Review, 51, 2080-2110. 
+Kanefsky, J. F. (1979), "The Diffusion of Power Technology in British Industry", Ph. D.  
+      Dissertation, University of Exeter. 
+Knack, S. and Keefer, P. (1995), "Institutions and Economic Performance: Cross-Country  
+      Tests Using Alternative Institutional Measures", Economics and Politics, 7, 207-227. 
+Krantz, O. and Schon, L. (2007), Swedish Historical National Accounts, 1800-2000.  Lund:  
+      Almqvist and Wiksell International. 
+Krugman, P. (1994), "The Myth of Asia's Miracle", Foreign Affairs, 73(6), 62-78. 
+Kuznets, S. S. (1971), Economic Growth of Nations.  Cambridge, Mass.: Belknap Press. 
+Lains, P. (2003), "Catching Up to the European Core: Portuguese Economic Growth, 1910- 
+      1990", Explorations in Economic History, 40, 369-386. 
+Landes, D. S. (1969), The Unbound Prometheus.  Cambridge: Cambridge University Press. 
+Lipsey, R. G., Bekar, C. and Carlaw, K. (1998), "What Requires Explanation?", in E.  
+      Helpman (ed.), General Purpose Technologies and Economic Growth.  Cambridge, Mass.:  
+      MIT Press, 15-54. 
+Lucas, R. E. (2000), "Some Macroeconomics for the 21st Century", Journal of Economic 
+19 
+
+========20========
+
+      Perspectives, 14(1), 159-178. 
+Maddison, A. (1987), "Growth and Slowdown in Advanced Capitalist Economies:  
+      Techniques of Quantitative Assessment", Journal of Economic Literature, 25, 649-698. 
+Maddison, A. (2003), The World Economy: Historical Statistics.  Paris: OECD. 
+Magee, G. B. (2004), "Manufacturing and Technological Change", in R. Floud and P.  
+      Johnson (eds.), The Cambridge Economic History of Modern Britain, vol. 2.  Cambridge:  
+      Cambridge University Press, 74-98. 
+Matthews, R. C. O., Feinstein, C. H. and Odling-Smee, J. C. (1982), British Economic 
+      Growth, 1856-1973.  Stanford: Stanford University Press. 
+McClelland, P. D. (1972), "Social Rates of Return on American Railroads in the Nineteenth  
+      Century", Economic History Review, 25, 471-488. 
+Mitchell, B. R., Chambers, D. and Crafts, N. (2009), "How Good Was the Profitability of  
+      British Railways, 1870-1912?", Warwick Economic Research Paper No. 859. 
+Nelson, R. R. and Wright, G. (1992), "The Rise and Fall of American Technological  
+      Leadership: the Post-War Era in Historical Perspective", Journal of Economic Literature,  
+      30, 1931-1964. 
+Nickell, S. (2005), "What Has Happened to Unemployment in the OECD Since the 1980s?", 
+      unpublished presentation to Work and Pensions Economics Group, HM Treasury, London. 
+Nickell, S., Nicolitsas, D. and Dryden, N. (1997), "What Makes Firms Perform Well?",  
+      European Economic Review, 41. 783-796. 
+Nicoletti, G. and Scarpetta, S. (2005), "Regulation and Economic Performance: Product  
+      Market Reforms and Productivity in the OECD", OECD Economics Department Working  
+      Paper No. 460. 
+Nordhaus, W. D. (2004), "Schumpeterian Profits in the American Economy: Theory and  
+      Measurement", NBER Working Paper No. 10433. 
+Nordhaus, W. D. (2007), "Two Centuries of Productivity Growth in Computing", Journal of 
+      Economic History, 67, 128-159. 
+North, D. C. (1990), Institutions, Institutional Change, and Economic Performance.   
+      Cambridge: Cambridge University Press. 
+North, D. C. (2005), Understanding the Process of Economic Change.  Princeton: Princeton  
+      University Press. 
+Oliner, S. D., Sichel, D. E. and Stiroh, K. J. (2007), "Explaining a Productive Decade",  
+      Brookings Papers on Economic Activity, 1, 81-152. 
+20 
+
+========21========
+
+O'Mahony, M. (1999), Britain's Productivity Performance, 1950-1996.  London: NIESR. 
+Prados de la Escosura, L. and Roses, J. (2009), "The Sources of Long-Run Growth in Spain,  
+      1850-2000", Journal of Economic History, 69, 1063-1091. 
+Rodrik, D. (1997), "TFPG Controversies, Institutions and Economic Performance in East  
+      Asia", Centre for Economic Policy Research Discussion Paper No. 1587. 
+Romer, P. (1993), "Idea Gaps and Object Gaps in Economic Development", Journal of 
+      Monetary Economics, 32, 543-573. 
+Rossi, N., Sorgato, A. and Toniolo, G. (1992), "Italian Historical Statistics, 1890-1990",  
+      University of Venice Dipartimento di Scienze Economiche No. 92-18. 
+Schon, L. (2004), "Total Factor Productivity Growth in Swedish Manufacturing in the Period  
+      1870-2000", in S. Heikinnen and J-L. van Zanden (eds.), Exploring Economic Growth.   
+      Amsterdam: Aksant Academic Publishers, 273-297. 
+Schulze, M-S. (2007), "Origins of Catch-up Failure: Comparative Productivity Growth in the  
+      Hapsburg Empire, 1870-1910", European Review of Economic History, 11, 189-218. 
+Solow, R. M. (1957), "Technical Change and the Aggregate Production Function", Review of 
+     Economics and Statistics, 39, 312-320. 
+Toniolo, G. (1998), "Europe's Golden Age, 1950-73: Speculations from a Long-Run  
+      Perspective", Economic History Review, 51, 252-267. 
+Triplett, J. E. (1999), "The Solow Productivity Paradox: What do Computers do to  
+      Productivity?", Canadian Journal of Economics, 32, 309-334. 
+van Ark, B., O'Mahony, M. and Timmer, M. P. (2008), "The Productivity Gap between  
+      Europe and the United States: Trends and Causes", Journal of Economic Perspectives, 22,  
+     25-44. 
+Wilson, D. and Purushothaman, R. (2003), "Dreaming with BRICs: the Path to 2050",  
+      Goldman Sachs Global Economics Paper No. 99. 
+Wolfl, A., Wanner, I., Kozluk, T. and Nicoletti, G. (2009), "Ten Years of Product Market  
+      Reform in OECD Countries: Insights from a Revised PMR Indicator", OECD Economics  
+      Department Working Paper No. 695. 
+21 
+
+========22========
+
+Table 1.  Sources of US Labour Productivity Growth Over the Long Run (% per year) 
+Labour Productivity 0.4 1.1 1.9 2.0 2.0 3.1 1.2 1.8 
+Capital Deepening 0.2 0.7 0.5 0.5 0.1 0.8 0.6 0.9 
+Crude TFP 
+1800-1855 1855-1890 1890-1905 1905-1927 1929-1948 1948-1966 1966-1989 1990-2003 
+0.2 0.4 1.4 1.5 1.9 2.3 0.6 0.9 
+Note: these estimates are obtained by the various authors on the basis of equations using the  specification of equation (4). 
+Sources:  Abramovitz and David (2001) except for final period from Bosworth and Collins  (2003) updated by authors. 
+22 
+
+========23========
+
+Table 2.  Sources of Labour Productivity Growth in Industrializing Economies (% per year) 
+Labour Productivity Growth 
+Capital-Deepening Contribution 
+TFP Growth 
+Austria 
+       1870-1890 
+       1890-1910 Germany 
+        1871-1891 
+        1891-1911 Great Britain 
+        1700-1760 
+        1760-1801 
+        1801-1831 
+        1831-1873 
+        1873-1913 Hungary 
+        1870-1910 Italy 
+        1920-1938 
+        1951-1973 Netherlands 
+         1850-1870 
+         1870-1890 
+         1890-1913 Portugal 
+         1910-1934 
+         1934-1947 
+         1947-1973 Spain           1850-1883 
+         1884-1920 
+         1920-1929 
+         1930-1952 
+         1951-1974 Sweden 
+         1850-1890 
+         1890-1913 
+         1913-1950 
+         1950-1973 Korea 
+         1960-1990 Singapore 
+         1960-1990 Taiwan 
+         1960-1990 
+0.90 1.69 
+0.64 0.66 
+0.26 1.03 
+1.10 1.76 
+0.39 0.58 
+0.71 1.18 
+0.40 0.20 0.50 1.25 0.90 
+0.14 0.07 0.10 0.35 0.38 
+0.26 0.13 0.40 0.90 0.52 
+1.65 
+1.18 
+0.47 
+0.88 4.51 
+0.38 1.61 
+0.50 2.90 
+1.02 0.94 1.35 
+0.50 0.61 0.46 
+0.52 0.33 0.89 
+1.17 0.78 4.47 
+0.09 0.90 2.46 
+1.08 0.12 2.01 
+1.2 1.0 2.0 0.0 5.5 
+1.0 0.7 0.6 0.3 1.8 
+0.2 0.3 1.4 0.3 3.7 
+1.18 2.77 2.01 3.68 
+1.12 0.94 0.87 1.82 
+0.06 1.83 1.14 1.86 
+5.06 
+2.84 
+2.22 
+4.97 
+3.34 
+1.63 
+6.07 
+3.17 
+2.90 
+23 
+
+========24========
+
+Notes: all estimates based on standard neoclassical formula and are re-calibrated with  =  0.35; Great Britain is UK after 1831. 
+Sources: derived from data presented in the following original growth accounting studies: Austria and Hungary: Schulze (2007); Germany: Broadberry (1998); Great Britain: Crafts  (1995) and Matthews et al. (1982); Italy: Rossi et al. (1992); Netherlands: Albers and Groote  (1996); Portugal : Lains (2003); Spain: Prados de la Escosura and Roses (2009); Sweden:  Krantz and Schon (2007) and Schon (2004); Korea, Singapore and Taiwan: Bosworth and  Collins (2003). 
+24 
+
+========25========
+
+Table 3.  Accounting for Growth in Maddison's Six-Country Study (% per year) 
+France Germany 
+1913-1950 
+Y/HW Growth 2.01 K/HW 0.59 TFP 1.42    Capital Quality     0.45     Labour Quality     0.36     Capacity Use     0.00     Labour Hoarding      0.00     Catch-Up     0.00     Structural     0.09     Foreign Trade     0.01     Scale     0.03    Other     0.00     Unexplained     0.48 1950-1973 
+Y/HW Growth 5.12 K/HW 1.10 TFP 4.02     Capital Quality     0.56     Labour Quality     0.35     Capacity Use     0.00     Labour Hoarding     0.00     Catch-Up     0.52     Structural     0.46     Foreign Trade     0.19     Scale     0.15    Other 0.02     Unexplained     1.81 
+Japan 
+Netherlands 
+1.05 0.19 0.86     0.45     0.22 0.13 0.20     0.00     0.20 0.04     0.04     0.00     0.32 
+1.72 0.62 1.10     0.45     0.61 0.24 0.56     0.00     0.62     0.02     0.07     0.00     0.13 
+1.58 0.43 1.15     0.45     0.27     0.00     0.00     0.00     0.00     0.05     0.07     0.00     0.41 
+5.96 1.64 4.32     0.53     0.18     0.25     0.32     0.68     0.36     0.21     0.18 0.02     1.63 
+7.82 2.02 5.80     0.58     0.52     0.39     0.90     1.02     1.22     0.26     0.28 0.02     0.64 
+4.44 1.09 3.35     0.57     0.40     0.00     0.00     0.38 0.07     0.65     0.14     0.22     1.06 
+UK 
+USA 
+1.57 0.42 1.15     0.45     0.32     0.00     0.00     0.00 0.04     0.00     0.04     0.00     0.38 
+2.42 0.43 1.99     0.45     0.35     0.00    0.00     0.00     0.29     0.01     0.08     0.00     0.81 
+3.18 1.04 2.14     0.52     0.09     0.00     0.00     0.14     0.10     0.16     0.09 0.02     1.06 
+2.50 0.65 1.85     0.51     0.29     0.00    0.00     0.00     0.12     0.05     0.11 0.04     0.81 
+Source: derived from Maddison (1987). 
+25 
+
+========26========
+
+Table 4.  Decomposition of Cross-Country Differences in GDP per Person, 2005. 
+(USA = 100) 
+USA Canada Australia + NZ Japan EU27 + EFTA Russia Brazil China India Rest of World World 
+Y/P 100    83.5    78.3    72.6    64.7    28.6    20.5 
+     9.8 
+     5.2    12.3    22.8 
+Notes: Y/P is measured at PPP. 
+TFP 100    72.0    64.1    52.6    67.8    31.5    29.3    13.6    12.7    20.9    27.9 
+HK/L  100 103.3 101.5 100.4    91.2    84.9    70.1    57.3    47.7    59.7    64.2 
+K/Y 100 105.8 114.8 130.7 114.1    97.4 103.1 105.2    98.3 103.6 104.2 
+L/P 100 106.0 104.5 105.1    91.3    99.3    96.8 119.5    87.1    81.7    95.8 
+Estimates derived by imposing the production function Y = K (AhL)1  
+capital per worker.   
+where h is human  
+)Ah(L/P) which is  
+This can be re-written as Y/L = (K/Y) 
+/(1 - )Ah so that Y/P = (K/Y) /(1  the formula used for the decomposition. 
+Source: Duval and de la Maisonneuve (2009). 
+26 
+
+========27========
+
+Table 5.  Technology and Efficiency as Sources of TFP Growth, 1960-1995 (% per year) 
+a) Rates of Growth 
+Ireland Italy Spain Hong Kong Japan Korea Singapore India Congo Tanzania Zambia 
+TFP Growth    1.95    1.54    1.38    3.06    1.83    2.05    2.57    0.75 2.93 0.17 1.51 
+Efficiency    0.92    0.60    0.39    2.08    0.96    0.81    1.75    0.20 2.52 0.79 1.52 
+Technology    1.03    0.94    0.99    0.98    0.87    1.24    0.82    0.55 0.41    0.62    0.01 
+b) Levels 
+Ireland Italy Spain Hong Kong Japan Korea Singapore India Congo Tanzania Zambia 
+1960 TFP 0.51 0.67 0.64 0.41 0.48 0.33 0.47 0.30 0.38 0.15 0.30 
+E 0.55 0.71 0.74 0.47 0.56 0.37 0.54 0.41 0.58 0.22 0.34 
+T 0.93 0.94 0.86 0.88 0.86 0.88 0.87 0.74 0.65 0.69 0.88 
+1995 TFP 0.74 0.84 0.76 0.89 0.68 0.49 0.85 0.29 0.10 0.11 0.13 
+E 0.76 0.88 0.85 0.98 0.79 0.49 1.00 0.44 0.24 0.17 0.20 
+T 0.98 0.96 0.90 0.91 0.86 0.99 0.85 0.67 0.41 0.64 0.67 
+Note: 
+The decomposition is based on assuming a production function yi = Aiki hi1  , Ai = TiEi and  T(ki, hi) as in Figure 1b.   is assumed to be 0.33 and efficiency, Ei, is calculated from a data  envelopment analysis.  Then, technology, Ti, is backed out from = Ai/Ei where all variables  are measured relative to the United States = 1. 
+Source: derived from Jerzmanowski (2007); additional observations kindly provided by  author. 
+27 
+
+========28========
+
+Table 6.  Steam and ICT Contributions to Labour Productivity Growth (% per year) 
+a) Steam in UK 
+Capital Deepening TFP Growth Total 
+1760-1800 0.004 0.005 0.01 
+1800-30 0.02 0.00 0.02 
+1830-50 0.16 0.04 0.20 
+1850-70 0.20 0.21 0.41 
+1870-1910 0.15 0.16 0.31 
+b) ICT in US 
+Capital Deepening TFP Growth Total 
+1973-95 0.46 0.28 0.74 
+1995-2000 1.09 0.75 1.84 
+2000-2006 0.61 0.51 1.12 
+Note: 'steam' includes stationary steam engines, railways and steam ships; 'ICT' includes  semi-conductors, computer hardware and software and telecommunications equipment. Estimates based on a growth accounting formula which distinguishes between ICT or steam  capital deepening and other capital deepening with appropriate factor-share weights, and,  using Domar weights, between TFP growth in ICT or steam power production and other TFP  growth. 
+Sources: Crafts (2004); Oliner et al. (2007) 
+28 
+
+========29========
+
+Table 7.  Social Gains from Railways, 1912 (%GDP). 
+User Benefits Supernormal Profits 
+Spain 4.3 0.3 
+UK 12.5 0.5 
+Memorandum Item Net Revenue 
+1.6 
+   1.9 
+Source: Herranz-Loncan (2006), Mitchell et al. (2009). 
+29 
+
+========30========
+
+Table 8.  Levels and Rates of Growth of Real GDP/Person in Western European  
+Countries ($1990GK and % per year) 
+Switzerland Denmark UK Sweden Netherlands Belgium Norway France West Germany Finland Austria Italy Ireland Spain Portugal Greece 
+1950    9064    6943    6939    6739    5971    5462    5430    5271    4281    4253    3706    3502    3453    2189    2086    1915 
+Source: Maddison (2003) 
+1973 18204 13945 12025 12494 13081 12170 11324 13114 13153 11085 11235 10634    6867    7661    7063    7655 
+1950-1973 3.08 3.08 2.42 3.06 3.45 3.54 3.24 4.04 5.02 4.25 4.94 4.95 3.03 5.60 5.45 6.21 
+30 
+
+========31========
+
+Table 9.  ICT and Post-1995 European Productivity Growth 
+a) Decomposition of Labour Productivity Growth, 1995-2004 (% per year) 
+Labour Productivity Growth 2.0 1.6 0.5 0.2 2.7 3.0 
+Labour Quality 
+ICT Capital Deepening 0.5 0.5 0.3 0.3 1.0 0.8 
+TFP Growth 
+Knowledge Economy 
+France Germany Italy Spain UK USA 
+0.4 0.1 0.1 0.4 0.5 0.3 
+   0.8    0.3 0.4 0.9    0.7    1.4 
+   1.7    0.9 0.1 0.2    2.2    2.5 
+Note: estimates are for market sector and knowledge economy is sum of labour quality, ICT  capital-deepening, and TFP. 
+Source: van Ark et al. (2008) 
+b) Contribution of ICT-Using Services to Aggregate Labour Productivity Growth, 1996- 2001 (% per year) 
+France Germany Italy Spain UK USA 
+0.1    0.1    0.1    0.1    0.8    1.3 
+Note: ICT-using services include financial services and distribution. Source: Nicoletti and Scarpetta (2005). 
+31 
+
+========32========
+
+Table 10.  Regulation Indices (0-6) 
+a) Product Market Regulation 
+France Germany Italy Spain UK USA 
+1978 6.0 5.2 5.8 5.0 4.8 3.7 
+1988 5.8 5.1 5.8 4.9 3.8 2.4 
+1998a 4.3 2.8 4.7 3.5 1.4 1.6 
+1998b 2.52 2.06 2.59 2.55 1.07 1.28 
+2003 1.75 1.60 1.81 1.68 0.82 1.01 
+2008 1.45 1.33 1.38 1.09 0.84 0.84 
+Note: the years 1978 through 1998a and 1998b through 2008 are each on a comparable basis;  product market regulation is conceptualized as regulation that inhibits competition.  A higher  
+score indicates more regulation. 
+Sources: Conway and Nicoletti (2006); Wolfl et al. (2009) 
+b) Employment Protection 
+France Germany Italy Spain UK USA 
+1960-4 1.11 1.35 5.76 6.00 0.48 0.30 
+1973-9 3.63 4.95 6.00 5.97 0.99 0.30 
+1988-95 4.23 4.56 5.67 5.22 1.05 0.30 
+1998 4.20 3.90 4.50 4.20 1.05 0.30 
+2003 4.20 3.36 2.91 4.50 1.05 0.30 
+Note: 'employment protection' is conceptualized as equivalent to a tax on labour force  adjustment.  A higher score indicates more employment protection. 
+Source: Nickell et al. (2005) 
+32 
+
+========33========
+
+Figure 1a:  Decomposition of Output Difference between Countries 1 & 2 under  Appropriate Technology 
+y 
+2 • 
+due to k 
+y = A2kα 
+• 
+y2 
+y′1 
+• 
+due to TFP 
+1 • 
+y1 
+k 
+Source:  Jermanowski (2007). 
+33 
+
+========34========
+
+Figure 1b: Decomposition of Output Difference between Countries 1 & 2 under  Inappropriate Technology 
+y 
+2 • 
+due to k 
+y = A2kα 
+• 
+y = A(k)k α 
+y2 
+• 
+due to T 
+y′1 y′′1 
+• 
+due to E 
+1 • 
+y1 
+k 
+Source:  Jermanowski (2007). 
+34 
+
+========35========
+
+Figure 2a: Choice of Technology: the Role of Factor Prices 
+P1 
+K/Y 
+A 
+Po 
+B 
+APF 
+FPF 
+Po 
+P1 
+L/Y 
+Source:  David (1975). 
+35 
+
+========36========
+
+Figure 2b:Technical Progress:  Localised Change 
+α 
+K/Y 
+A 
+APF 
+β 
+A′ 
+APF′ 
+B 
+L/Y 
+Source: David (1975). 
+36 
+
+========37========
+

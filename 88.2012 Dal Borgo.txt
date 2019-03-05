@@ -1,0 +1,1980 @@
+May 2012 
+                No.88 
+Productivity and Growth in UK Industries: An Intangible 
+Investment Approach 
+Mariela Dal Borgo, Peter Goodridge, Jonathan Haskel and Annarosa  
+Pesole 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+1 
+Productivity and Growth in UK Industries: An Intangible  
+Investment Approach* 
+Mariela Dal Borgo University of Warwick 
+Peter Goodridge Imperial College Business School 
+Jonathan Haskel 
+Imperial College Business School; CEPR and IZA 
+Annarosa Pesole Imperial College Business School 
+Keywords: innovation, productivity growth 
+JEL reference: O47, E22, E01 
+April 2012 
+Abstract 
+This paper tries to calculate some facts for the “knowledge economy”.  Building on the work  of Corrado, Hulten and Sichel (CHS, 2005,9), using new data sets and a new micro survey,  we  (1)  document  UK  intangible  investment  and  (2)  see  how  it  contributes  to  economic  growth.  Regarding investment in knowledge/intangibles, we find (a) this is now greater than  tangible investment at, in 2008, £141bn and £104bn respectively; (b) that R&D is about 11%  of total intangible investment, software 15%, design 17%,  and training and organizational  capital  22%;  (d)  the  most  intangible-intensive  industry  is  manufacturing  (intangible  investment is 20% of value added) and (e) treating intangible expenditure as investment raises  market sector value added growth in the 1990s due to the ICT investment boom, but slightly  reduces  it  in the 2000s.    Regarding  the  contribution  to  growth, for 2000-08,  (a)  intangible  capital deepening accounts for 23% of labour productivity growth, against computer hardware  (12%) and TFP (40%); (b) adding intangibles to growth accounting lowers TFP growth by  about 15% (c) capitalising R&D adds 0.03% to input growth and reduces lnTFP by 0.03%  and (d) manufacturing accounts for just over 40% of intangible capital deepening plus TFP.  
+                                                       
+*Contact:  Jonathan  Haskel,  Imperial  College  Business  School,  CEPR  and  IZA:  j.haskel@imperial.ac.uk.  The authors are grateful for financial support from the National Endowment  for  Science,  Technology  and  the  Arts  (NESTA)  and  the  UK  Innovation  Research  Centre,  which  is  funded  by  the  Economic  Social  Research  Council  (ESRC,  UK),  NESTA,  the  Technology  Strategy  Board  and  the  Department  for  Business,  Innovation  and  Skills  (RES-598-28-0001).    Goodridge  is  grateful  for  financial  support  from  ESRC  (Grant  ES/I035781/1),  and  Dal  Borgo  gratefully  acknowledges support received from the ESRC funded centre CAGE: Competitive Advantage in the  Global  Economy,  Department  of  Economics,  University  of  Warwick.    We  also  thank  Nick  Oulton,  Brian MacAulay for helpful comments.  This work contains statistical data from ONS which is crown  copyright  and  reproduced  with  the  permission  of  the  controller  HMSO  and  Queen's  Printer  for  Scotland. The use of the ONS statistical data in this work does not imply the endorsement of the ONS  in relation to the interpretation or analysis of the statistical data.  
+
+========2========
+
+1 
+I. Introduction 
+What drives growth in increasingly knowledge-intensive economies?  The sources of  
+growth are of course an enduring subject of interest for academics and policy-makers  
+alike,  and  since  at  least  Solow  (1956),  have  been studied  in  a  growth  accounting  
+framework.  Whilst this gives the proximate sources, namely capital deepening, skills  
+and total factor productivity, and not the ultimate sources (e.g. legal framework) it is,  
+most are agreed, an important first step in marshaling data and uncovering stylized  
+facts that other frameworks might explain. 
+The productivity consequences of the ICT revolution have been studied in a  
+growth accounting framework by many authors in many countries (see e.g. Timmer et  
+al.,  2010;  Jorgenson et  al.,  2007).    But  hanging  over  this  literature  is  an  early  
+suggestion (Brynjolfsson and Hitt, 2000, for example), that investment in computer  
+hardware needed complementary investments in knowledge assets, such as software  
+and business processes, to reap productivity advantages.  This re-awakened interest in  
+the application of the sources of  growth framework to information and  knowledge- 
+intensive economies.  For free knowledge (e.g. from universities or the internet), the  
+framework  is  quite  clear:  if  competitive  assumptions  hold,  total  factor  productivity  
+growth  (TFPG)  measures  the  growth  contribution  of  knowledge  that  is  costless  to  
+obtain and implement.  
+However,  there  are  two  points  illustrated  nicely  by  Tufano’s  (1998)  
+description of a typical financial product innovation.  He states it requires: 
+“an  investment  of  $50,000  to  $5  million,  which  includes  (a)  
+payments  for  legal,  accounting,  regulatory,  and  tax  advice,  (b)  time  spent  
+educating  issuers,  investors,  and  traders,  (c)  investments  in  computer  
+
+========3========
+
+2 
+systems for pricing and trading, and (d) capital and personnel commitments  
+to support market-making.”  
+First, in this example knowledge is not costless to obtain or commercialise and  
+so cannot be relegated to TFPG.  Second, a long-established literature adds R&D to  
+the growth accounting framework.  But some industries, e.g. finance and retailing, do  
+no  (measured)  R&D1.    Thus  one  needs  to  consider  knowledge  investment  besides  
+R&D:  this  example  suggests  trainin 
+g,  marketing  and  organisational  investments  for  
+example. Thus our objective in this paper is to better measure growth and its sources  
+for the UK economy where:  
+(i) knowledge development and implementation is not costless, and  
+(ii) R& D is not the only knowledge investment.   
+To do this, this paper implements the framework set out in the widely 
+-cited  
+papers by Corrado  
+et al. (2005; henceforth, CHS), and first applied in a UK setting in  
+Giorgio Marrano et al. (2009).  Whilst CHS builds upon the methods of capitalising  
+tangible assets, and intangible assets such as software which are now capitalised in  
+national accounts, it was the first paper to broaden the approach to a fuller range of  
+intangible or knowledge assets.2    Thus it fits with  
+the range of innovation investments  
+mentioned above.  
+More specifically, we seek to do two things in this paper.  First, we seek to  
+measure  investment  in  intangible  assets  at  an  aggregate  and  industry  level.    We  
+believe it of interest for it tries to docum 
+ent knowledge investment in industries where  
+measured R&D is apparently very low, such as finance and retailing.  Current data  
+                                                       
+1 
+The qualification measured is importan t. In the UK at least, the Business Enterprise R&D  
+survey  (BERD)  defines  R&D  to  respondents  as  ‘undertaken  to  resolve  scientific  and  technological uncertainty’.  Indeed, up until very recently, no firms in financial intermediation  for example were even sent a form.   See below for more discussion. 
+2 
+Earlier  contributions  were  made  by  Nakamura  (1999,  2001)  and  Machlup  (1962).    For  
+European data see  Jona -Lasinio et al. (2009) and van Ark et al. (2009). 
+
+========4========
+
+3 
+can document the physical, software and human capital deepening in these industries  
+(and also R&D, when capitalised in the National Accounts in 2014).  However, this  
+paper  tries  to  ask  and  answer  whether  we  are  missing  significant  investment  in  
+knowledge or ideas in these sectors.3 
+Second, we use these data to perform a sources 
+-of -growth analysis for the UK  
+using the CHS framework. 
+   Whilst one might have reservations about the assumptions  
+required for growth accounting (see below), we believe this is also of interest.  The  
+main reason is that it enables us to investigate a number of questions that could either  
+not be addressed witho 
+ut these data, or all relegated to the residual.  First, as CHS  
+stress,  the  capitalisation  of  knowledge  changes  the  measures  of  both  inputs  and  
+outputs.  Insofar as it changes outputs, it alters the labour productivity picture for an  
+economy.  Thus we can  
+ask: what was the productivity performance in the late 1990s  
+when  the  UK  economy  was  investing  very  heavily  (as  we  document  below)  in  
+intangible assets during the early stages of the internet boom? 
+Second,  we  can  then  ask:  how  was  that  performance  accounte 
+d  for  by  
+contributions of labour, tangible capital, intangible capital and the residual?  Here we  
+can  describe  how  sources  of  growth  will  differ  when  R&D  is  capitalised  and  how  
+other knowledge contribute and alter TFP.   Third, we also ask and try to answe 
+r this  
+question  at  industry  level.    So  we  can  ask,  for  example,  how  much  productivity  in  
+non -R&D intensive sectors, such as retail and financial, was accounted for by other  
+intangibles or was it mostly TFPG? 
+                                                       
+3 
+We  also  shed  light  on  recent  considerable  interest  in  “creative”  industries, including the  software, design,  film/television,  literary,  music,  and  other artistic  industries.   Most  papers  that  study  such  activity  select  a  number  of  creative  industries,  and  then  document  their  employment or value added from published sources.  This understates the output of creative  assets, since much intangible creation is done on own-account in industries not in the usual  creative  list  e.g.  software  spending  in  financial  services  or  design  in  retail.   Nor  does  this  approach show how much creative industries contribute to economic growth, as we are able to  do (conditional on the assumptions we make).   
+
+========5========
+
+4 
+In  adapting  and  extending  the  framework  that  CHS  used  for  the  US,  we  
+proceed as follows.  First, we gather data on the intangible assets that CHS suggest,  
+but by industry. Fukao et al. (2009) and van Rooijen-Horsten et al., (2008) do this for  
+Japan and Holland, but they do not do growth accounting to derive the contributions  
+of the industries to the total. Second, we update some of the methods of CHS.  For  
+example,  much  intangible  spend,  like  R&D,  is  own-account.    CHS  had  no  own- 
+account  estimates  for  design or  for  financial  services.    We  apply  the  National  
+Accounts software method to estimate such own-account spending, using interviews  
+with design and financial companies to identify occupations and time use and thereby  
+derive intangible spend from wage data.4    In addition, there is almost no information  
+on the depreciation of intangible assets. 
+5 
+   Thus we conducted a survey of over 800  
+companies  on  the  life  lengths  of  their  intangible  spend,  by  asset,  to  gather  data  on  
+depreciation.  
+Third, we provide (gross o 
+utput based) growth accounting results by industry  
+aggregated consistently into value 
+-added based growth accounting for the UK market  
+sector,  using  the  approach  of  Jorgenson  
+et  al. (2007).    Thus  we  can  examine  the  
+contributions  of  different  industries  to  overall  growth.    This  then  speaks  to  the  
+question  of,  for  example,  how  much  manufacturing  versus  financial  services  
+contributed to overall TFP growth.   
+On specifically UK data, our work is closely related to the industry-level work  
+by Basu et al. (2004).  They incorporated software as a productive asset and looked at  
+productivity and TFPG in 28 industries from 1990 to 2000.  They did not have data  
+                                                       
+4 
+Official  own -account  software  investment  is  estimated  by  (1)  finding  software  writing  occupations, (2 ) applying a multiple to their wage bills to account for overhead costs and (3)  applying a fraction of time such occupations spend on writing long 
+to short term bug fixes, maintenance etc.  We duplicate this approach for finance a 
+5 
+With the honourable exceptions of Soloveichik (2010) who estimates depreciation rates for  artistic originals and Peleg (2005) who surveyed a small number of Israeli R&D performers.  
+-lived software as opposed  
+nd design.  
+
+========6========
+
+5 
+however on other intangible assets and so whilst they were able to document software  
+and  hardware  spending  across  industries,  they  were  not  able  to  look  at  other  co- 
+investments  in  innovation.    However,  Oliner  et  al. (2008) considered  a  proxy  for  
+intangible investments applying the Basu et al. (2004) framework to US data.  As will  
+be clear, our work builds on these studies and we rely heavily on their important work  
+on  measuring  software  and  also  tangible  assets,  now  embodied  in  official  UK  data  
+collection.  Likewise, our work is also closely related to EUKLEMS (O’Mahony and  
+Timmer, 2009).  Their dataset includes software, and we extend their framework with  
+additional intangibles, explicitly setting out the industry/market sector aggregation.  
+Whilst  growth  accounting  is  an  internally  consistent  method  for  analysing  
+productivity  growth  there  are  of  course  limits  to the  analysis  that  caveat  our  work.   
+First, in the absence of independent measures of the return to capital we are compelled  
+to  assume  constant  returns  to  scale  and  perfect  competition  to  measure  the  output  
+elasticities of capital residually from the cost share of labour.  A consistent framework  
+for growth and innovation accounting with these assumptions relaxed is outside the  
+scope  of  this  current  paper.    But  we  hope  that  readers  sceptical  of  the  growth  
+accounting  assumptions  would  still  find  of  interest  the  findings  on  knowledge  
+investment and how their addition to the growth accounting framework changes the  
+usual findings (which turns out to be quite considerably).  We also hope that readers  
+likewise sceptical of capitalising the full range of intangibles will find our work on  
+R&D, which is to be officially capitalised in 2014, of interest.  
+Second, like other work in this area, we are of course limited in what we can  
+do by data uncertainty.  Measures of intangible assets are clearly difficult to obtain,  
+especially for the own-account part of organisational capital.  Deflators for intangibles  
+
+========7========
+
+6 
+are  as  yet  uncertain.    Our  industry  data  covers  seven  broad  industries  in  the  UK  
+market sector since finer detail on intangible spend is very hard to obtain.   
+We have two sets of findings (a) on knowledge spending and (b) implications  
+for growth.  On knowledge spending, first, investment in long-lived knowledge, which  
+creates  intangible  assets,  now  exceeds  tangible  investment  by  £37bn.    In  2008,  
+intangible  and  tangible investment  was  at  around  £141bn  and  £104bn respectively.   
+R&D  is  about  10%  of  such  spend.    Training,  design  and  software  are  the  largest  
+categories of intangible  investment, and are particularly important in services.  The  
+effect on market sector gross value added (MGVA) of treating intangible expenditure  
+as  investment  is  to  raise  MGVA  growth  in  the  1990s,  but  slightly  reduce  it  in  the  
+2000s.  The latter finding is similar to that found in the US (Oliner et al., 2008 and  
+Corrado and Hulten, 2010).  Second, around 60% of this spending is own account.   
+Thus measures of the “creative economy” (ONS, 2006) that assemble data for a list of  
+“creative industries” are missing significant creative activity outside those industries. 
+On the implications for growth, for 2000-08, the most recent period with data  
+available,  intangible  capital  deepening  accounts  for  23%  of  labour  productivity  
+growth,  a  larger  contribution  than  computer  hardware  (12%),  other  tangible  
+investments  (18%,  buildings,  vehicles,  plant)  or  human  capital  (7%).    The  largest  
+contribution  is  TFP,  at  40%.    These  findings  are  quite  robust  to  variations  in  
+depreciation and assumptions on intangible measures.  Capitalised R&D accounts for  
+about 2% of LPG and lowers the contribution of TFP by 2 percentage points. 
+Regarding  industries,  the  main  finding  here  is  the  importance  of  
+manufacturing, which contributes just over 40% of the total contribution to MGVA  
+growth of intangible investment and TFPG (but with a 20% employment share).  We  
+
+========8========
+
+7 
+also  find  important  roles for  retail/hotels/transport,  (27%  of  the  total  contribution),  
+business services (22%) and finance (12%). 
+The rest of this paper proceeds as follows.  Section II sets out a formal model,  
+and  section III  our  data  collection.  Sections  IV to  VI  our  results  and  section  VII 
+concludes.   
+II. A formal model and definitions 
+In this paper we undertake growth accounting for the UK market sector.  But we are  
+also  interested  in  how  industries  contribute  to  the  overall  market  changes  and  to  
+analyse  that  we  follow  Jorgenson et  al. (2007).6    The  key  point  is  that  at  industry  
+level,  a value added production function exists under restrictive assumptions and it is  
+therefore  preferable  to  work  with  TFP  computed  from  gross  output.    But  at  the  
+aggregate  level,  productivity  is  best  defined  using  value  added  (to  avoid  double  
+counting).  So w 
+hat is the relation between the industry components of growth and the  
+whole market sector? 
+We start with two definitions of TFPG. Supposing there is one capital, labour  
+and intermediate asset (respectively K, L and X) which produce output Y 
+j 
+in industry  
+j.    That capital asset might or might not be intangible capital.  Thus for each industry,  
+we have the following gross output defined ∆lnTFPj 
+        ln ln ln ln lnTFP Y v K v L v Xj j K j j L j j X j j, , , 
+(1) 
+                                                       
+6 
+For a detailed exposition of the methodology s 
+ee  Jorgenson 
+et al. (2005). 
+
+========9========
+
+8 
+Where  the  terms  in  “v”  are  shares  of  factor  costs  in  industry  nominal  gross  
+output,  averaged  over  two  periods.    For  the  economy  as  a  whole,  the  definition  of  
+economy wide ∆lnTFP based on value added is  
+      ln ln ln lnTFP V v K v LKL 
+(2) 
+Where the “v” terms here, that are not subscripted by “j”, are shares of K and  
+L  payments  in  economy  wide  nominal  value  added.    Now  we  write  down  two  
+definitions.  First, define the relation between industry gross output and industry value  
+added as  
+    ln ln lnY v V v Xj V j j X j j,, 
+(3) 
+which  says  that  (changes  in  real)  industry  gross  are  weighted  averages  of  
+changes in real value added and intermediates.  Second, write changes in aggregate  
+real  value  added  as  a  weighted  sum  of  changes  in  industry  real  value  added  as  
+follows. 
+     ln ln , ( ), 0.5( )V w V w P V P V w w wj j j V j j V j j j j t j t, , , , 1 
+jj 
+(4) 
+We may then write down value added  growth in the industry as a weighted  
+average of K, L and (gross output-based) ΔlnTFPj    
+      ln ln ln lnV K L TFPvvK j L j,,1j j j jv v v (5) 
+V j V j V j, , , 
+
+========10========
+
+9 
+where the weights on K and L are a combination of the shares of K and L in  
+industry gross output and the shares of industry gross output in aggregate value added.  
+We  are  now  in  position  to  write  down  our  desired  relationship,  that  is  the  
+relation  between  economy-wide  real  value  added  growth  and  its  industry  
+contributions 
+      ln ln ln lnV w K w L TFP   v v w   K j L j j,,     j j j j j 
+   v v v 
+j j jV j V j V j, , , 
+(6) 
+Which says that the contributions of Kj and Lj to whole-economy value added  
+growth depend upon the share of Vj in total V (wj) the share of K and L in gross and  
+value added.   The contribution of ΔlnTFPj depends on the share of Vj in total V (wj)  
+and  the  share  of  industry  value  added  in  gross  output.    The  weight  on  TFP  is  
+approximately  ( / )P Y P VY j j V 
+, 
+which  is  the  usual  interpretation  of  the  Domar  (1961)  
+weight. It sums to more than one, since an improvement in industry TFP contributes 
+directly to the average of all TFPs and indirectly if it produces output that is then an  
+intermediate in other industries.7 
+Finally, in reality we do not have one capital and labour unit, but many.  These  
+are then aggregated across different types. For l 
+abour, see below, we use, education,  
+age (experience), and gender; for capital, different types of both tangible assets and  
+intangible assets.  Denoting the capital and labour types  
+k and l we have following  
+                                                       
+7 
+As Jorgenson  et al. (2007) point out, comparing (6) with (2) gives the relation between this  industry aggregated input/output relation and that implied by the TFP expression in (2), which  involves some additional terms in reallocation of K and L between industries.  These terms  turn out to be very small in our data. 
+
+========11========
+
+10 
+industry and aggregate variables for each type where industry is defined as industry j 
+and the aggregate variables are unsubscripted: 
+  ln ln ,K w K capital type k 
+kk 
+k 
+  ln ln ,L w L labour type l 
+ll 
+l 
+w P K P K w P L P L K K k L L lk K k k K k k l l l l L l l j k j j l j     , , , , , ,/ ( ),    / ,    ,    ,    
+k l j j 
+w w wt t t0.5( )1 
+(7) 
+In our results we document the following.  First, we set out the gross output  
+growth accounting results for each industry, (1).  Second, we take these data and set  
+out the contributions for each industry to the growth of aggregate value added, (4).   
+Third,  we  sum  up  the  contributions  across  industries  to  the  decomposition  of  
+aggregate  (market  sector)  value-added, (6).    In  each  case  we  carry  out  the  
+decomposition with and without intangibles. 
+Before  proceeding  to  the  data,  some  further  theory  remarks  on  the  
+measurement of capital.  As pointed out by e.g. Jorgenson and Griliches (1967) the  
+conceptually  correct  measure  of  capital  in  this  productivity  context  is  the  flow  of  
+capital services.  This raises a number of measurement problems set out, for example,  
+in the OECD productivity manual (2001).  We estimate the now standard measure as  
+follows.    First,  we  build  a  real  capital  stock  via  the  perpetual  inventory  method  
+whereby for any capital asset k, the stock of that assets evolves according to 
+K I Kk t k t k t k t, , , , 1  (1 ) 
+ 
+(8) 
+
+========12========
+
+11 
+Where  I  is  investment  over  the  relevant  period  and  the  geometric  rate  of  
+depreciation.    Real  tangible  investment  comes  from  nominal  tangible  investment  
+deflated by an investment price index.  Second, that investment price is converted into  
+a rental price using the Hall-Jorgenson relation, where we assume an economy-wide  
+rate of return such that the capital rental price times the capital stock equals the total  
+economy-wide operating surplus.8 
+III. Data 
+Time period and data sources 
+For the industry analysis, ONS does not publish real intermediate input data and so we  
+used  the  EUKLEMS  November  2009  release,  which  gives  data  up  to  2007.    For  
+intangibles, our industry level data is available 1992-2007 since this is when Input- 
+Output (IO) tables are consistently available from.  Data for the whole market sector  
+is available going back to 1980 up to 2008 (the most recent year National Accounts  
+are  available).    Thus  we  work  with  two  data  sets:  (1)  market  sector,  1980-2008,  
+consistent with National Accounts 2008, and (2) industry level 1992-2007 (the data  
+turn out to be very close over the overlapping years).    Appendix Table A.1 documents  
+our  data  sources  in  detail  with  a  comparison  between  our  sources  and  the  ONS.   
+Appendix Table A.2 compares the growth-accounting results when using KLEMS and  
+ONS data respectively.  
+                                                       
+8 
+See, for example, Oulton (2007) and Oulton and Srinivasan 
+(2003) 
+. 
+
+========13========
+
+Industries 
+12 
+The  EUKLEMS  data  includes  measures  of  output,  and  various  categories  of  
+employment and capital at the industry level for 71 industries, classified according to  
+the European NACE revision 1 classification.  We then aggregate these data to the  
+seven industries described in TABLE 1.  The choice of the seven industries is dictated  
+by the availability of the intangible data: training and management consulting data are  
+only available at these aggregated levels.  
+Sectors 
+TABLE 1 Definition of seven industries 
+SIC(2003)  
+code 
+1 
+Agriculture, Fishing and Mining  (AgrMin) 
+1-14 
+2 
+Manufacturing (Mfr) 
+15 - 37 
+3 
+Electricity, Gas and Water Supply  (Util) 
+40 - 41 
+4 
+Construction (Constr) 
+45 
+5 
+Wholesale and Retail Trade, Hotels  and Restaurants, Transport and  Communications (RtHtTran) 
+50 - 64 
+6 
+Financial Intermediation (FinSvc) 
+65 – 69 
+7 
+Business Services (BusSvc) 
+71- 74 
+NACE1 sections 
+A B C 
+Agriculture, hunting and forestry Fishing 
+Mining and quarrying 
+D 
+Total manufacturing 
+E 
+Electricity, gas and water supply 
+F 
+Construction 
+G H 
+I 
+Wholesale and retail trade Hotels and restaurants Transport and storage and  communications 
+J 
+Financial intermediation 
+K 
+Business activities, excluding real  estate and renting of dwellings 
+We measure output for the market sector, defined here as industries A to K,  
+excluding actual and imputed housing rents.  Note this differs from the ONS official  
+market  sector  definition,  which  includes  part  of  sections  O  and  P,  as  well  as  the  
+private delivery of education, health and social care.  Since sections O and P include a  
+
+========14========
+
+13 
+heterogeneous mix of personal and recreational services9, including hard 
+-to -measure  
+areas  like  museums  
+and 
+refuse  collection,  we  omitted  them.    We  also  used  
+disaggregated real valu 
+e added data for this industry definition.   
+For the  years where industry level data is available, the data are bottom 
+-up,  
+that  is,  derived  at  the  industry  level  and  aggregated  subsequently.    Aggregation  of  
+nominal  variables  is  by  simple  addition.    Aggrega 
+tes  of  real  variables  are  a  share 
+- 
+weighted superlative index for changes, benchmarked in levels to 2005 nominal data.   
+For other years, the intangible data are for the market sector and the other output and  
+input data from ONS, latest National Accounts, ag 
+gregated from industry values.  
+Outputs and tangible inputs 
+EUKLEMS  also  provides  growth  accounting  data,  but  since  we  have  expanded  the  
+amount of capital and changed value added we  do our own growth accounting.   In  
+addition, the EUKLEMS labour composition data is slightly different to the ONS data  
+(ONS have access to more data).  From the output and intermediate accounts of the  
+EU  KLEMS  dataset  we  have  used  the  series  of  industry  Gross  Output  and  Gross  
+Value Added at current basic prices, intermediate inputs at current purchasers’ prices  
+and  their  corresponding  price  and  volume  indices.    Intermediate  inputs  comprise  
+energy, materials and services. 
+The tangible capital variables from EUKLEMS that we used are nominal and  
+real  gross  fixed  capital  formation,  the  corresponding  price  index,  real  fixed  capital  
+stock  and  capital  compensation,  all  disaggregated  by  type  of  assets.  Capital  
+compensation  equals  the  sum  of  the  gross  operating  surplus,  which  includes  the  
+                                                       
+9 
+The official definitions are as follows: ‘O: Other Community, Social and Personal Service  Activities’ including sewage and refuse disposal, activities of membership organisations, film,  television and radio, artistic and literary creation and interpretation, entertainment activities,  news  agencies,  libraries  and  museums,  sporting  activities,  gambling,  washing  and  dry  cleaning, hairdressing and other personal services’.  ‘P: Private Households Employing staff.’ 
+
+========15========
+
+14 
+remainder  of  mixed  income,  plus  taxes  on  production, after  subtracting  labour  
+compensation  of  the  self-employed.  In  practice,  it  is  derived  as  value  added  minus  
+labour compensation.  We shall of course amend capital compensation to incorporate  
+compensation for intangible capital assets. 
+The EUKLEMS capital data distinguishes nine asset types, of which we use  
+transport equipment, computing and communications equipment and other machinery  
+and  equipment,  and  total  non-residential  investment.    We  use  ONS  estimates  for  
+software.    We  excluded  residential  structures  (they  are  not  capital  for  firm  
+productivity analysis).  
+Depreciation rates for ICT tangible capital are as in the EUKLEMS, which in  
+turn follows Jorgenson et al. (2005).  Depreciation is assumed to be geometric at rates  
+for vehicles, buildings, plant and computer equipment of 0.25, 0.025, 0.13, and 0.40  
+respectively.    As  for  intangible  assets,  they  are  assumed  to  be  the  same  for  all  
+industries.  We discuss depreciation in the context of intangible assets in more detail  
+below, but the asset-specific depreciation rates for intangibles are as follows:  33% for  
+software,  60%  for  advertising  and  market  research,  40%  for  training  and  
+organisational  investments,  20%  for  R&D  (broadly  defined,  thus  including  Design,  
+Mineral  Exploration,  Financial  Innovation,  Artistic  Originals  and  non-scientific  
+R&D).  Given that the EU KLEMS database does not provide data on capital tax rates  
+by country, industry and year, and that Timmer et al. (2010) point out that evidence  
+for major European countries shows that their inclusion has only a very minor effect  
+on growth rates of capital services and TFP, we did not introduce a tax adjustment. 
+The capitalisation of intangibles requires various adjustments to the output and  
+input  data.    The  exact  treatment  depends  on  whether  the  asset  capitalised  was  
+purchased or created in-house.  Own-account investments are treated as an additional  
+
+========16========
+
+15 
+part  of  gross  output.    So  a  bank  that  sells  financial  services  using  own-account  
+software is also treated as a software producer.  Data on intermediate consumption are  
+unaffected.    In  the  case  of  purchased  assets,  these  are  currently  recorded  within  
+intermediate  consumption.    The  capitalisation  process  removes  these  intermediate  
+purchases and allocates them to investment or Gross Fixed Capital Formation (GFCF)  
+in the National Accounts nomenclature.  Thus intermediate consumption is reduced,  
+GFCF  is  increased,  gross  output  is  unaffected  and  value-added  is  increased.    The  
+above changes of course refer to levels. Impacts on growth rates will depend on the  
+relative growth rates of intangible outputs and other final output and their weights in  
+value-added.  
+Labour services 
+The  labour  services  data  are  for  1992-2007  and  are  our  own  estimates  based  on  
+EUKLEMS person-hours by industry.  We use these along with Labour Force Survey 
+microdata to estimate composition-adjusted person hours, where the adjustment uses  
+wage bill shares for composition groups for age, education and gender.  Person hours  
+are  annual  person-hours,  with  persons  including  the  employed,  self-employed and  
+those with two jobs.  For the longer period based on market sector aggregates, we use  
+an  equivalent  method,  using  LFS  microdata  to  generate  wages  and  average  hours  
+worked at the individual level and then gross up using population weights.  
+Labour and capital shares 
+The Compensation of Employees (COE) data are consistent with the labour services  
+data. Mixed income is allocated to labour according to the ratio of labour payments to  
+MGVA excluding mixed income.  With intangibles capitalised, MGVA changes, and  
+the  allocation  is  done  on  the  basis  of  this  changed  ratio.    Gross  operating  surplus  
+
+========17========
+
+16 
+(GOS)  is  always  computed  as  MGVA  less  COE  so  that  GOS  +COE  =MGVA  by  
+construction.  
+Details of measurement of intangible assets 
+CHS (2006) distinguish three classes of intangible assets:  
+i) 
+computerised information: software and databases 
+ii) 
+innovative  property:  (scientific  &  non-scientific)  R&D,  design  
+(including architectural and engineering design), product development  
+in  the  financial  industry,  exploration  of  minerals  and production  of  
+artistic originals. 
+iii) 
+economic  competencies:  firm  investment  in  reputation,  human  and  
+organisational capital. 
+Our  intangible  data  update  industry-level  data  reported  in  Gill  and  Haskel  
+(2008).  Own account investment is allocated to the industry wherein the investment  
+is  carried  out.    Purchased  is  allocated  to  industries  via  the  input  output  tables.   
+Particular  industry  categories  (e.g.  product  development  in  finance,  exploration  of  
+minerals, copyright) are allocated to that industry.10    
+Computerised information 
+Computerised  information  comprises  computer  software,  both  purchased  and  own- 
+account, and computerized databases.  Software is already capitalised and thus we use  
+these data, by industry, as described by Chesson and Chamberlin (2006).  Purchased  
+software data are based on company investment surveys and own-account based on  
+                                                       
+10 
+Copyright, or more accurately, investment in artistic originals, is problematic for the correct  
+allocation  likely  is  somewhere  between  publishers  (manufacturing)  and  artists,  since  each  
+ha ve some ownership share of the final original. The latter are mostly in the omitted sector  
+“O”, which covers a miscellany of businesses from performing arts to museums to recycling.   Overall however, the numbers are very small and any error likely trivial. 
+
+========18========
+
+17 
+the  wage  bill  of  employees  in  computer  software  occupations,  adjusted  downwards  
+for the fraction of time spent on creating new software (as opposed to, say, routine  
+maintenance) and then upwards for associated overhead costs (a method we use for  
+design below).  Software is already included in the EUKLEMS, but for consistency,  
+we subtract it out of all variables and build our own stock and implied service flow  
+using the ONS data.  
+Innovative property 
+For  business Scientific  R&D we  use  expenditure  data  by  industry  derived  from  the  
+Business  Enterprise  R&D  survey  (BERD).  To  avoid  double  counting  of  R&D  and  
+software investment, we subtract R&D spending in “computer and related activities”  
+(SIC 72) from R&D spending since this is already included in the software investment  
+data.11    We note that BERD is collected according to Frascati Manual definitions and 
+to be incorporated into  National Accounts requires some  adjustments  
+(for example,  
+Frascati data 
+on tangible  
+capital investment by R&D  
+producers needs to be converted  
+into  capital  rental  payments.  In  practice  these  types  of  adjustments  turn  out  to  be  
+rather small (Corrado, Goodridge and Haskel, 2011).   
+Like  computerised  in 
+formation,  
+mineral  exploration,  and  production  of  
+artistic  originals (copyright  for  short)  are  already  capitalised  in  National  Accounts  
+and the data here are simply data for Gross Fixed Capital Formation (GFCF) from the  
+ONS.  The production of artistic originals covers, “original films, sound recordings,  
+manuscripts,  tapes  etc.,  on  which  musical  and  drama  performances,  TV  and  radio  
+programmes, and literary and artistic output are recorded.” Based on work currently in  
+                                                       
+11 
+The BERD data gives data on own -account spending.  Spending is allocated to the industry  within which the product upon which firms are spending belongs.  That is we assume that  
+R&D on say, pharmaceutical products takes place in the pharmaceutical indus 
+R&D spending is allocated to business services.  Thus the BERD data differs from that in the  
+supply use tables, which estimates between -unit transactions of R&D.  
+try.  General  
+
+========19========
+
+18 
+progress for the IPO (Goodridge and Haskel, 2011) we suspect that these investment  
+numbers  are  understated  and  so  should  be  regarded  as  a  lower  bound  on  the  true  
+numbers.    Expenses  on  mineral  exploration are  valued  at  cost  (ONS  National  
+Accounts, 2008) and explicitly not included in R&D.  
+The  measurement  methodology  for  New  product  development  costs  in  the  
+financial industry follows that of own account software above (and therefore replaces  
+the  CHS  assumption  of  20%  of  intermediate  consumption  by  the  financial  services  
+industry).  This new method reduces this category substantially.  Further details are in  
+Haskel and Pesole (2011) but a brief outline is as follows.  First, we interviewed a  
+number  of  financial  firms  to  try  to  identify  the  job  titles  of  workers  who  were  
+responsible  for  product  development.    Second,  we  compared  these  titles  with  the  
+available occupational and wage data from the Annual Survey on Hours and Earnings  
+(ASHE).    The  occupational  classification  most  aligned  with  the  job  titles  was  
+‘economists, statisticians and researchers’.  Third, we asked our interviewees (1) how  
+much time was spent by these occupations on developing new products  that would  
+last more than a year (some firms based their estimates on staff time sheets), and (2)  
+about associated  overhead  costs.    Armed  with  these  estimates,  we  went  to  the  
+occupational  data  in  the  ASHE  and  derived  a  time  series  of  earnings  for  those  
+particular  occupations  in  financial  intermediation.    Own-account  investment  in  
+product  development  is  therefore  the  wage  bill,  times  a  mark-up  for  other  costs  
+(capital,  overheads  etc.),  times  the  fraction  of  time  those  occupations  spend  on  
+building long-term projects.  All this comes to around 0.52% of gross output in 2005  
+(note that reported R&D in BERD is 0.01% of gross output). 
+For  new  architectural and  engineering  design we  again  updated  the  CHS  
+method (that used output of the design industry).  To measure better such spending,  
+
+========20========
+
+19 
+we used the software method for own-account, and purchased data, by industry, are  
+taken  from  the  supply-use  tables  (see  details  in  Galindo-Rueda et  al.,  2010).    The  
+choice of occupations and the time allocation are, as in financial services, taken from  
+interviews with a number of design firms.  Interestingly, almost all of the design firms  
+we interviewed have time sheets for their employees which break out their time into  
+administration,  design  and  client  interaction/pitching  for  new  business  (almost  all  
+firms target, for example, that junior designers spend little time on administration and  
+senior  more  time  on  pitching).    Finally, R&D  in  social  sciences  and  humanities is  
+estimated as twice the sales of SIC73.2 “Social sciences and humanities”, where the  
+doubling is assumed to capture own-account spending.  This is a small number. 
+Economic competencies 
+Advertising  expenditure is  estimated  from  the  IO  Tables  by  summing  intermediate  
+consumption  on  Advertising  (product  group  113)  for  each  industry.    Firm-specific  
+human capital, that is training provided by firms, was estimated as follows.  Whilst  
+there  are  a  number  of  surveys  (such  as  the  Labour  Force  Survey)  who  ask  binary  
+questions (such as whether the worker received training around the Census date), to  
+the  best  of  our  knowledge  there  is  only  one  survey  on  company  training  spending,  
+namely  the  National  Employer  Skills  Survey  (NESS)  which  we  have  available  for  
+2004,  2006,  2007.12    We  also  have  summary  data  for  1988  (from  an  unpublished  
+paper kindly supplied by John Barber).  The key feature of the survey, like the US  
+Survey of Employer 
+-provided Training (SEPT) used in CHS, is that 
+it asks for direct  
+employer spending on training (e.g. in house training centres, services purchased from  
+                                                       
+12 
+For  example  NESS07  samples  79,000  establishments  in  England  and  spending  data 
+collected in a follow -up survey among 7,190 establishments who reported during the main  
+NESS07 survey that they had funded or arranged training in the previous 12 months. Results  
+were grossed -up to the UK population.   To obtain a time series, we  backca st the  industry level  series using EU KLEMS wage bill  data  benchmarking the data to  four  cross sections. 
+is  
+
+========21========
+
+20 
+outside providers, etc.) and indirect costs via the opportunity cost of the employee’s  
+time whilst spend training and therefore not in current production.13    This opportunity  
+costs turns out to be about equal to the former.  
+One question is whether all such surveyed training creates a lasting asset or is  
+some  of  it  short 
+-lived.    We  lack  detailed  knowledge  on  this,  but  have  subtracted  
+spending  on  Health  
+and  Safety  training,  around  10%  of  total  spend.    Whilst  this  
+subtraction lowers the level of training spending, it turns out to affect the contribution  
+of training to growth at only the 4 
+th 
+decimal place.  A second question is the extent to  
+which such training financed by the firm might be incident on the worker, in the sense  
+of  reducing  worker  pay  relative  to  what  it  might  have  been  without  training,  
+unobserved by the data gatherer.  O’Mahony and Peng (2010) use the fraction of time  
+that training is reported to be outside working hours, arguing that such a fraction is  
+borne by the worker.  Our data is all for training in working hours.  
+It might be argued that including both firm-specific human capital and labour  
+composition is double counting.  For example, labour composition includes age: if the  
+increased wages of more experienced workers is partly due to the additional training  
+they  have  received,  there  may  be  some  double-counting  of  the  contribution  of  that  
+training.  Recall however that firm-specific human capital data are training costs paid  
+for by the firm.  Following Becker (1962), firms will pay only for training specific to  
+the firm: training that will yield no market wage increase.  If this holds there is no  
+double counting: general skills are captured in market-wide wages and so in labour  
+composition, and firm-specific skills in firm-provided training costs.  
+                                                       
+13 
+Firms are asked how many paid hours workers spend away from production whilst training  and the hourly wage of such workers. 
+
+========22========
+
+21 
+Finally, our data on investment in organisational structure relies on purchased  
+management consulting, on which we have consulted the Management Consultancy  
+Association (MCA), and own-account time-spend, the value of the latter being 20% of  
+managerial wages, where managers are defined via occupational definitions.  We test  
+the robustness of the 20% figure below. 
+Prices and depreciation 
+Rates of depreciation and the prices of intangible assets are less well established.  The  
+R&D  literature  appears  to  have  settled  on  a  depreciation  rate  of  around  20%,  and  
+OECD recommends 33% for software.  Solovechik (2010) has a range of 5% to 30%  
+for artistic originals, depending on the particular asset in question.  To shed light on  
+this and the depreciation of other assets, in our intangible assets survey we asked for  
+life lengths for various intangibles (Awano et al., 2009).  The responses were close to 
+the  assumed  depreciation  rates  in  CHS.,  depending  on  the  assumptions  one  makes  
+about declining balance depreciation.  Once again, we shall explore the robustness of  
+our  results  to  depreciation,  but  note  in  passing  that  our  assets  are  assumed  to  
+depreciate very  fast  and  so  are  not  very  sensitive  to  depreciation  rates,  unless  one  
+assumes much slower rates, in which case intangibles are even more important than  
+suggested here. 
+The asset price deflators for software are the official deflators (own-account  
+and purchased), but otherwise the GDP deflator is used for intangible assets.  This is  
+an area where almost nothing is known, aside from some very exploratory work by  
+the BEA and Corrado et al. (2011).  These papers attempt to derive price deflators for  
+knowledge  from  the  price  behaviour  of  knowledge  intensive  industries  and  the  
+productivity of knowledge producing industries.  Two observations suggest that using  
+the GDP deflator overstates the price deflator for knowledge, and so understates the  
+
+========23========
+
+22 
+impact of knowledge on the economy.  First, many knowledge-intensive prices have  
+been falling relative to GDP.  Second, the advent of the internet and computers would  
+seem  to  be  a  potential  large  rise  in  the  capability  of  innovators  to  innovate,  which  
+would again suggest a lowering of the price of  knowledge due to strong  growth in  
+productivity in the process of innovation itself, in contrast to the rise in prices implied  
+by the GDP deflator.  Thus our use of the GDP deflator almost certainly understates  
+the importance of intangible assets.  
+Relation of intangible approach to other approaches  
+Haskel  et  al. (2009,  2011)  discusses  how  this  work  relates  to  the  definition  of  
+innovation and the Frascati and Oslo manuals.  It is clearly consistent with the work  
+on  IT  and  economic  growth  (see,  for  example,  Jorgenson  et  al.,  2007),  the  
+capitalisation  of  software  and  the  forthcoming  capitalisation  of  R&D  in  national  
+accounts, both of which are part of the process of recognizing spending on intangibles  
+as building a (knowledge) capital stock.  van Ark and Hulten (2007) point out that  
+with an expanded view of capital, following the CHS argument, innovation “…would  
+appear  in  several  forms  in  the  sources  of  growth  framework:  through  the  explicit  
+breakout of IT capital formation, through the addition of intangible capital to both the  
+input  and  output  sides  of  the  source  of  growth  equation,  through  the  inclusion  of  
+human capital formation in the form of changes in labor ‘quality’, and through the  
+‘multifactor  productivity’  (MFP)  residual.  For  shorthand,  we  refer  to  ‘innovation’  
+contribution as the sum of the intangible contribution and TFP (and sometimes labour  
+composition), but take no stand on this: we provide other components for the reader.  
+
+========24========
+
+23 
+Accuracy of intangible measures  
+The following points are worth making.  First, data on minerals, copyright, software  
+and  R&D  are  taken  from  official  sources.    As  mentioned  above,  preliminary  work  
+suggests an undercounting of copyright spending. Second, data on workplace training  
+are  taken  from  successive  waves  of  an  official  government  survey,  weighted  using  
+ONS sampling weights.   Once  again one might  worry that such data  are subject to  
+biases and the like but this does look like the best source currently available.  
+Third,  data  on  design,  finance  and  investment  in  organisational  capital  are  
+calculated using the software method for own-account spending, but the IO tables for  
+purchases.  The use of the IO tables at least ensures the purchased data are consistent  
+with official National Accounts.  The use of the own account software method means  
+that  we  have  to  identify  the  occupations  who  undertake knowledge  investment,  the  
+time fraction they spend on it and additional overhead costs in doing so.  For design  
+and  financial  services  we  have  followed  the  software  method  by  undertaking  
+interviews with firms to try to obtain data on these measures.  Such interviews are of  
+course just a start but our estimates are based then on these data points.  For own- 
+account  organisational  change  we  use  an  assumed  fraction  of  time  spent  (20%)  by  
+managers  on  organisational  development.   This  remains  a  subject  for  future work:  
+below we test for robustness to this assumption.  
+To  examine  all  further,  we  undertook  two  further  studies.    First,  we  used  
+survey  data  kindly  supplied  by  Stephen  Roper  and  described  in  detail  in  Barnett  
+(2009).    These  data  ask  around  1,500  firms  about  their  spending  on  software,  
+branding,  R&D,  design  and  organisational  capital.    The  firms  are  sampled  from  
+service  and  hi-tech  manufacturing  industries.    Comparison  of  the  proportions  of  
+
+========25========
+
+24 
+spending  on  the  intangible  assets  with  those  proportions  in  our  manufacturing  and  
+business services gives similar answers.  
+Second,  we  undertook  a  new  survey  of  firms,  the  results  of  which  are  fully  
+documented  in  Awano et  al. (2010).    In  terms  of  the  spending  numbers  here,  that  
+micro study found spending on R&D, software, marketing and training to be in line  
+with  the  macro-based  numbers  in  this  report.    However,  the  implied  spending  on  
+design  and  organisational  capital  were  very  much  lower  in  the  survey.    This  again  
+suggests that these investment data require further work.  
+IV. Results 
+Intangible spending: market sector over time 
+FIGURE 1  presents  market  sector  nominal  total  tangible  and  intangible  investment  
+data.    In  the  late  1990s  intangible  investment  has  exceeded  tangible.    Note  that,  
+intangible  investment  falls  less and  recovers  more  quickly  during  recessions.   
+However, depreciation rates for intangible assets are significantly faster than those for  
+tangibles.    Thus  a  relatively  small  slowdown  in  intangible  investment  turns  out  to  
+generate the same fall in capital stock as a steep fall in tangible spend, so the changes  
+in resulting capital services are similar. 
+TABLE  2  shows  investment  by  intangible  asset  for  1990,  1995,  2000  and  
+2008  with  tangible  investment  for  comparison. The  intangible  category  with  the  
+highest  investment  figures  is  training,  growing  to  approximately  a  third  of  tangible  
+investment  by  2008.    For  information  we  also  report  GDP  and  MGVA  excluding  
+intangibles.  
+
+========26========
+
+25 
+Figure 1: Market sector tangible and intangible investment, £bn, 1990-2008 
+150 
+140 
+130 
+120 
+110 
+100 
+90 
+80 
+70 
+60 
+50 
+1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 
+Intangible Inv 
+Tangible Inv 
+Source: ONS data for tangibles, this paper for intangibles.  All data in current prices. 
+TABLE 2 
+Tangible and intangible investment, by asset, £bns 
+Year 
+1990 
+1995 
+2000 
+2008 
+2008 % total 
+All tangibles 
+67 
+62 
+87 
+104 
+All intangibles     Software 
+    R&D 
+    Design 
+    Minerals & Copyrights     Branding 
+    Training 
+    Organisational 
+57 6 8 13 3 5 14 9 
+70 10 9 13 3 7 17 12 
+98 16 12 15 2 12 24 17 
+141 22 16 23 4 15 30 31 
+100% 15% 11% 17% 3% 11% 22% 22% 
+Memo     MSGVA (£bn)     GDP (£bn) 
+374 495 
+458 640 
+600 840 
+881 1,295 
+Notes: Data are investment figures, in £bns, current prices.  R&D refers to both scientific and  non-scientific R&D, and financial product development.  ‘Design’ refers to architectural &  engineering design.  MSGVA is market sector gross value added without intangibles, that is,  sector A to K, excluding real estate and software and mineral investment.  GDP is UK GDP  from KLEMS. 
+Source: ONS data for tangibles, this paper for intangibles.  
+
+========27========
+
+26 
+Industry intangible investment 
+TABLE 3 reports tangible and intangible investment by industry, 1997-2005.  Finance  
+and  manufacturing  invest  very  strongly  in  intangibles  relative  to  tangibles:  in  both  
+sectors, intangible investment is three times that in tangibles.  It is interesting to note  
+in passing that this raises important questions on how to classify manufacturing since  
+it is undertaking a very good deal of intangible activity (manufacturing own-account  
+intangible investment is 15% of value added by 2007 for example).  
+If  we  express  the  data  in TABLE 3 as  a  proportion  of  industry  value-added  
+(adjusted  for  intangibles)  we  find  that  financial  services  is  the  most  intangible  
+intensive,  at  (averaged  1997-2007)  20%  of  industry  value-added,  followed  by  
+manufacturing  at  19%  and  business  services  at  17%.    Construction,  utilities  and  
+distribution  are  all  between  9  and  12%  with  agriculture  and  mining  at  5%.    In  
+financial services intangible investment made up an even higher share of value-added  
+in the late 1990s, due to the software boom, especially in the run up to Y2K.   
+Which  particular  intangible  assets  are  most  important  in  which  industries?   
+TABLE 4 shows the asset share of total intangible spending by industry (in 2007 the  
+shares are very stable over time).  Starting with manufacturing, the largest share of all  
+intangible  spending  is  innovative  property  (56%),  with  software  being  an  8%.   
+Compare with financial intermediation, where innovative property accounts for only  
+19% whereas ’economic competencies’ (training, branding and organization building)  
+accounts for over 50%, whilst software is 27%.  Similarly, in retailing, software and  
+economic competencies are much more important than innovative property.   
+
+========28========
+
+27 
+TABLE 3 
+Tangible and intangible investment by industry, 1997-2007, current prices £bns 
+Agriculture, fishing  
+and mining 
+Manufacturing 
+Year 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 
+Tang. 6.98 7.76 6.22 5.04 6.13 7.24 6.88 6.81 6.63 7.04 8.26 
+Intang. 
+1.45 
+1.43 
+1.45 
+1.37 
+1.40 
+1.50 
+1.58 
+1.57 
+1.63 
+1.72 
+1.81 
+Tang. 18.11 18.47 16.54 16.18 14.67 12.26 11.93 11.78 11.57 11.16 11.98 
+Intang. 27.45 29.14 30.14 30.47 31.47 31.51 32.20 32.84 33.68 34.40 35.53 
+Tang. 4.98 5.26 5.56 5.06 5.33 4.77 4.82 2.68 3.73 5.04 6.92 
+Utilities 
+Construction 
+Trade, hotels and  transport 
+Intang. 
+1.57 
+1.81 
+1.78 
+1.91 
+1.92 
+1.94 
+1.84 
+1.88 
+2.20 
+2.44 
+2.69 
+Tang. 1.80 1.70 1.89 1.99 2.15 3.12 3.11 3.63 2.70 3.20 3.15 
+Intang. 
+3.44 
+3.69 
+4.07 
+4.33 
+4.60 
+5.32 
+5.85 
+6.10 
+6.87 
+7.75 
+8.42 
+Tang. 28.43 33.14 33.94 38.60 38.13 38.11 35.08 36.65 35.58 35.81 39.81 
+Intang. 19.19 21.76 23.82 25.66 27.70 28.91 29.92 30.87 32.00 33.45 34.89 
+Financial  intermediation 
+Business services 
+Market sector 
+Tang. 4.05 6.24 5.26 5.25 4.74 4.91 4.23 3.62 5.02 4.63 5.46 
+Intang. 
+9.06 10.36 11.24 12.72 13.54 14.17 14.27 14.29 15.53 16.08 17.50 
+Tang. 8.23 13.81 13.70 12.82 12.09 10.53 10.41 8.46 10.54 11.60 12.99 
+Intang. 15.35 17.51 18.67 21.85 24.94 25.45 27.88 27.51 31.13 34.05 36.94 
+Tang. 72.58 86.37 83.11 84.95 83.24 80.94 76.47 73.63 75.78 78.49 88.58 
+Intang. 77.51 85.70 91.17 98.32 105.57 108.77 113.55 115.06 123.03 129.90 137.79 
+Source: Authors’ calculations using EUKLEMS data for tangibles and methods in this paper for intangibles. 
+
+========29========
+
+28 
+TABLE 4 
+Shares of total industry intangible investment by intangible asset categories, 2007 
+Agriculture,  fishing and  
+mining 
+Asset groups     Software     Innovative property     Economic  competencies 
+0.12 0.34 
+0.55 100% 
+Individual assets     R&D     Training     Organisation     Branding 
+0.04 0.30 0.22 0.03 
+Manufacturing 
+Utilities 
+Construction 
+0.08 0.56 
+0.21 0.16 
+0.05 0.40 
+0.36 100% 
+0.63 100% 
+0.55 100% 
+0.31 0.10 0.19 0.06 
+0.01 0.23 0.32 0.07 
+0.00 0.30 0.19 0.04 
+Retail,  hotel  
+and  transport 
+Financial  intermediation 
+Business services 
+0.17 0.16 
+0.27 0.19 
+0.14 0.28 
+0.67 100% 
+0.54 100% 
+0.58 100% 
+0.05 0.31 0.22 0.11 
+0.00 0.08 0.31 0.12 
+0.02 0.32 0.14 0.08 
+Notes:    Innovative  property  is  R&D,  mineral  exploration  and  copyright  creation,  design,  financial  product development and social science research.  Economic competencies are advertising & market  research, training and organisational investment.   All data are shares of total investment: upper panel  sums to 100% since categories are exhaustive, lower panel shows a sample of individual assets that are  part of the asset groups in the upper panel. 
+To shed light on the importance of non-R&D spend outside manufacturing, the  
+lower  panel  sets  out  some  detail  on  selected  individual  measures.    As  the  top  line  
+shows, R&D accounts, in manufacturing, for 31% of all intangible spend, but 0% in  
+finance,  and  5%  in  trade.    Training,  in  line  2,  accounts for  10%  in  manufacturing,  
+31% in trade and 8% in finance.  Investment in organisational capital, line 3, is 19%  
+in manufacturing, 22% in trade and a considerable 31% in finance.  Finally, branding  
+is twice as important in trade and finance as in manufacturing.  Thus we can conclude  
+that  the  ‘non-R&D’  intangible  spending,  outside  manufacturing,  is  mostly  due  to  
+software, training, organisational capital and branding.  
+
+========30========
+
+29 
+V. Growth accounting results: market sector  
+Growth accounting results for the market economy  
+Our growth accounting results are set out in TABLE 5.  Consider first the top panel of  
+data, which reports the contributions to growth in a standard framework that doesn’t 
+include intangibles.  Labour productivity growth (LPG; column 1) rose in the 1990s  
+and then fell back somewhat in the 2000s.  The rise in the late 1990s is due to the  
+introduction  of  a  new  methodology  for  Financial  Services  Indirectly  Measured  
+(FISIM),  and  other  methodological  changes  in  the  2008  National  Accounts  (see  
+Giorgio Marrano et  al.,  2009).14    The  contribution  of  labour  quality,  column  2,  is  
+fairly steady throughout.  Tangible capital input, in columns 3 and 4, grew quickly in  
+the 1990s, but fell in the 2000s, especially computer hardware.  Thus the overall TFP  
+record was a ri 
+se in the second half of the 1990s and then a fall (column 6).   
+Consider now the second set of results in panel 1.  The inclusion of intangibles  
+raises output growth in the 1990s, with little effect in the 2000s, due to a decline in  
+intangible  investment  
+growth  in  the  2000s  following  the  boom  in  intangible  
+investment in the preceding years.  The impact of labour quality, column 2, falls due  
+to the fall in the labour share.   The contribution of tangible capital, columns 3 and 4,  
+falls  somewhat  relative  to  
+the  upper  panel  as  the  inclusion  of  intangibles  alters  the  
+factor shares of these inputs.  In column 5 we see the contribution of the intangible  
+inputs; stronger in the 1990s and weaker  
+– though still important – in the 2000s.  Thus  
+                                                       
+14 
+Note that a market sect or TFP growth rate of over 1.5% is comparatively high by historical  data (that is, based on studies  before the introduction of a new methodology for  UK ).  The reason for this is that FISIM has added around 0.5 pppa to ALPG, all of which  adds  t o  TFPG  almost  directly  since  no  new  inputs  are  involved.    Thus  even  without  intangibles, the productivity picture changes. 
+FISIM 
+in the  
+
+========31========
+
+30 
+the overall TFPG record in column 6 is acceleration in the late 1990s and then some  
+weakening.   
+TABLE 5 
+Value-added growth accounting for market sector with and without intangibles, and  
+robustness checks 
+Labour  productivity  growth 
+Contribution  from labour  composition 
+Contribution from capital Computers 
+Other  
+tangibles 
+Intangibles 
+TFP 
+Labour  income  share 
+Dln(V/H) 
+sDln(L/H) 
+sDln(K/H) 
+DlnTFP 
+sLAB 
+(6/1) 
+(5+6)/1 
+(2+5+6)/1 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+1) Baseline Results: With and without intangibles     Without intangibles 
+1990-95 2.94% 0.20% 0.25% 1995-00 3.25% 0.29% 0.57% 2000-08 2.23% 0.19% 0.31%     With intangibles 
+1990-95 2.94% 0.17% 0.22% 1995-00 3.53% 0.25% 0.49% 2000-08 2.25% 0.16% 0.26% 2) Robustness Checks 
+    Only software 
+2000-08 2.27% 0.18% 0.30%     Software and R&D 
+2000-08 2.24% 0.18% 0.30%     Halve depreciation rates 
+2000-08 2.25% 0.16% 0.26%     Double depreciation rates 
+2000-08 2.25% 0.16% 0.26%     Own-account organizational capital = 5% managerial time 2000-08 2.23% 0.16% 0.27% 
+0.84% 0.32% 0.54% 
+- - - 
+1.66% 2.07% 1.19% 
+0.66 0.64 0.66 
+0.56 0.64 0.53 
+0.56 0.64 0.53 
+0.63 0.73 0.62 
+0.73% 0.25% 0.41% 
+0.64% 0.67% 0.51% 
+1.19% 1.87% 0.90% 
+0.57 0.56 0.57 
+0.40 0.53 0.40 
+0.62 0.72 0.63 
+0.68 0.79 0.70 
+0.53% 
+0.09% 
+1.16% 
+0.64 
+0.51 
+0.55 
+0.63 
+0.51% 
+0.12% 
+1.13% 
+0.63 
+0.50 
+0.56 
+0.64 
+0.40% 
+0.64% 
+0.80% 
+0.57 
+0.36 
+0.64 
+0.71 
+0.43% 
+0.41% 
+0.98% 
+0.57 
+0.44 
+0.62 
+0.69 
+0.43% 
+0.45% 
+0.93% 
+0.58 
+0.42 
+0.62 
+0.69 
+Notes:    Data are average growth rates per hour per year for intervals shown, calculated as changes in  natural  logs.    Contributions  are  Tornquist  indices.  First  column  is  value-added growth  in  per  hour  terms.  Column 2 is the contribution of labour services per hour, namely growth in labour services per  hour times share of labour in MGVA.  Column 3 is growth in computer capital services times share in  MGVA.  Column 4 is growth in other tangible capital services (buildings, plant, vehicles) times share  in MGVA.  Column 5 is growth in intangible capital services times share in MGVA.  Column 6 is TFP,  namely  column  1  minus  the  sum  of  columns  2  to  5.    Column  7  is  the  share  of  labour  payments  in  MGVA.  Columns 8-10 are the shares of particular contributions in labour productivity growth. 
+
+========32========
+
+31 
+The final columns set out the shares of LPG of various components.  What are  
+the main findings?  First, the inclusion of intangibles lowers TFPG as a share of LPG.   
+Consider  column  8  in  the  upper  panel.    TFPG  is  above  50%  of  LPG  without  
+intangibles,  but  around  10  percentage  points  less  with  intangibles.    Second,  the  
+contribution  of  the  “knowledge  economy”  to  LPG  is  very  significant,  whether  
+measured as column 9 or 10.  In column 9, TFPG and intangible capital deepening are  
+between  62%  and  72%  of  LPG,  with  the  fraction  particularly  large  in  1995-00.   
+Column 10 adds the contribution of labour quality taking the figure to around 70%.   
+Note how high this contribution is in the late 1990s when intangible capital deepening  
+was very fast.   
+We note that the decision on whether or not labour composition ought to be  
+incorporated is subjective and so we leave it to the reader to decide on their preferred  
+measure.  It could be argued that if changes in labour composition reflect changes in  
+the gender or age composition of the workforce, the series does not fully reflect the  
+acquisition of knowledge.  It turns out however that in practice the bulk of the quality  
+adjustment  process  is  primarily  driven  by  qualifications,  with  age  (experience)  and  
+gender playing much smaller roles.  
+Growth accounting: further details and robustness checks  
+As we have seen, we necessarily make a number of assumptions when implementing  
+the  growth  accounting  exercise.  How  robust  are  our  findings  to  key  assumptions?   
+This  is  shown  in  the  rest  of the  table,  where  for  easy  of  reading  we  just  show  the  
+results for this century.  All results for all other periods are available. 
+
+========33========
+
+32 
+The first row in Panel 2, TABLE 5, shows the results when only software is  
+included  as  an  intangible.    Thus  this  row  corresponds  closely  to  current  National  
+Accounts practice, although copyrights and mineral exploration are also capitalised in  
+official data.  As can be seen, relative to the very top panel, which excludes software,  
+capitalization  of  software raises Δln(V/H) and  lowers,  very  slightly, ΔlnTFP.    Note  
+from  column  5  that  the  contribution  of  software  is  0.09%pa,  against  the  total  
+intangible contribution of 0.51%pa.  
+The next row capitalises both software and R&D and thus a comparison with  
+the  software  line  estimates  the  difference  due  to  R&D  capitalization (to  be  
+implemented  in  the  UK  by  2014).15    Relative  to  software,  the  contribution  of  
+intangibles  rises  very  slightly  and  
+ΔlnTFP falls  very  slightly.    So  capitalization  of  
+R&D adds about 0.03%pa to input contribution and TFP falls by the same. 
+The next two rows halve and double the assumed intangible depreciation rates.   
+This raises and lowers the contribution of intangible capital respectively, as would be  
+expected.    They  more  or  less  directly  affect  ΔlnTFP,  so  that,  if  for  example,  
+intangibles depreciated half as fast as we have assumed, ΔlnTFP falls from 0.90%pa  
+to 0.80%pa.   
+Finally, since own account organizational capital is particularly uncertain, the  
+final row reduces such spending by 75% (that is, managers are assumed to spend 5%  
+of their time on organizational capital).  In this case contribution of intangible capital  
+falls from 0.51%pa to 0.45% pa and ΔlnTFP rises from 0.90%pa to 0.93%pa. 
+                                                       
+15 
+The  precise  details  of  this  capitalisation  are  to  be  confirmed,  but  we  have  used  similar  
+depreciation and deflator assumptions to t he preliminary work in Galindo Rueda (2007). He  documents a fairly consistent rise in nominal GDP for 1997 -2004, of between 1.20 and 1.55%  (he does no growth accounting).  
+
+========34========
+
+33 
+One  way  of  looking  at  the  robustness  of  these  results  is  to  calculate  the  
+fraction of overall Δln(V/H) accounted for by intangibles, ΔlnTFP and Δln(L/H) under  
+the various different scenarios.  It is in fact quite robust.  As row 3, top panel shows,  
+without  intangibles,  the ΔlnTFP  fraction  is  0.53 or  and  (ΔlnTFP+Δln(L/H))  0.62,  a  
+result  that  is  very  similar  with  just  software  or  just  software  and  R&D.    With  
+intangibles, the fractions are 0.40 for ΔlnTFP, 0.63 for ΔlnTFP+Δln(K/H)(intan) and  
+0.70 for ΔlnTFP+Δln(K/H)(intan)+Δln(L/H).  But the interesting thing to note is that  
+these  fractions  are  almost  identical  with  the  experiments  on  depreciation  and  
+organizational capital.  Thus the inclusion of the full range of intangibles lowers the  
+share  of  the  contribution  of  ΔlnTFP,  but  consistently  raises  the  share  of  the  
+contribution  of  ΔlnTFP,  intangible  capital  deepening  and  labour  composition  
+combined, such that the latter has accounted for 70% of Δln(V/H) over this century.  
+Contributions of individual intangible assets 
+Appendix B, TABLE B.1., sets out the contributions of individual assets.  Between  
+1990-2008, software is the largest contributor (0.16% p.a.), with organisational capital  
+0.15%p.a..    R&D  contributes  0.05%  p.a..  In  the  late  1990s  the  contribution  of  
+software (0.23% p.a.) came close to that of non-computer tangibles (0.25% p.a.), a  
+remarkable result highlighting the importance of knowledge assets in that period.  
+VI. Growth accounting results: industry-level  
+Our  industry  growth  accounting  is  feasible between  2000-7.16    Thus  we  start  with  
+comparing our aggregated market sector results with those using ONS data to check  
+                                                       
+16 
+We have data based on the Supply -Use Tables back to 1992, but due to uncertainty a initial capital stocks we confine ourselves to growth accounting starting in 2000.  
+bout  
+
+========35========
+
+34 
+the two are closely comparable.  Then we look more closely industry by industry.  See  
+Appendix A, TABLE A.2., for a comparison with ONS data. 
+Results by industry  
+To  build  up  the  industry  contributions  to  these  overall  figures  we  start  with  the  
+industry-by-industry results in TABLE 6.    These are on a gross output basis: we show  
+how they relate to the whole economy value-added level below.   
+TABLE 6 
+Industry level gross output growth accounting, 2000-2007, including intangibles 
+Gross  
+output  productivity 
+Industry 
+Agriculture, fishing & mining Manufacturing 
+Electricity, gas & water Construction 
+Trade, hotels, transport Financial services Business activities 
+DlnY/H 
+1 
+0.74 3.65 -3.58 2.11 2.71 1.55 2.23 
+Contribution from capital 
+Total 
+Computers 
+Other  tangibles 
+Intangibles 
+sDln(K/H) 
+2 
+3 
+4 
+5 
+1.29 0.71 0.02 0.17 0.73 -0.12 0.80 
+0.00 0.07 0.16 0.02 0.21 0.33 0.23 
+1.28 0.14 -0.14 0.21 0.28 -0.27 0.03 
+0.00 0.50 0.01 -0.06 0.24 -0.18 0.54 
+Contribution  from labour composition 
+Contribution  
+from  intermediate  
+inputs 
+TFP 
+sDln(L/H) 
+6 
+sDln(M/H) 
+7 
+sDlnTFP 
+8 
+0.24 0.17 -0.02 -0.07 0.16 0.35 0.16 
+1.19 1.70 -3.47 1.61 1.22 -0.03 0.47 
+-1.97 1.06 -0.11 0.40 0.60 1.36 0.80 
+Notes: All figures are average annual percentages. The contribution of an output or input is the growth  rate weighted by the corresponding average share.  Columns are annual average change in natural logs  of: gross output per person hour (column 1), contribution of total capital (column 2, which is the sum of  the  next  three  columns),  contribution  of  computer  capital  (column  3),  contribution  of  other  non- computer  tangible  capital  (column  4),  contribution  of  intangibles  (column  5),  contribution  of  labour  quality per person hour (column 6), contribution of intermediate inputs (column 7), TFP (column 8,  being  column  3  less  the  sum  of  column  4,  8  and  9).    Note  also  that  Health  &  Safety  training  are  excluded from the investment figures used for the above calculation. 
+Source: Authors’ calculations. 
+We just report the results including all intangibles.  Column 1 shows ΔlnY/H,  
+growth in gross output per employee-hour.  It is negative in Electricity, Gas, Water,  
+otherwise  positive  particularly  in  manufacturing  and  Trade.    Column  2  shows  total  
+capital  deepening  per  employee-hour,  being  strongly  positive  in  manufacturing  and  
+business services, but negative in financial services.  Columns 3, 4 and 5 shed some  
+
+========36========
+
+35 
+light  on  this.    The  contribution  of  computer  hardware  is  strongest  in financial  and  
+business services, and note particularly weak in manufacturing.  The contribution of  
+other tangibles (buildings, vehicles etc.) is actually negative in financial services, as is  
+the contribution of intangibles in that industry.  It is worth noting that employee-hours  
+are growing very fast in financial services (the second largest growth in the economy  
+behind  business  services)  and  that  intangible  capital  is  falling  after  the  massive  
+investment in the late 1990s.  So capital deepening per head is falling, thus rendering  
+the contribution of growth in capital per hour negative.  Therefore we might expect  
+that ΔlnTFP would  increase  when  intangibles  are  capitalised.    However,  since  the  
+production  of  intangibles  on  own-account  is  incorporated  into  the  output  measure,  
+capitalisation  also  slows  down  ΔlnY/H,  so  it  turns  out  that  ΔlnTFP still  falls  in  
+financial  services  when we  add  intangibles  (see  TABLE  C.1,  without  intangibles,  
+ΔlnTFP=1.51%): thus intangibles do help account for the TFP residual.  Columns 6  
+and 7 show the contributions of labour composition and intermediates, and column 8  
+shows  TFP  contribution.    ΔlnTFP grows  particularly  fast  in  finance  and  
+manufacturing.  
+So  the  overall  picture  of  intangibles  at  the  industry  level  is  as  follows.    In  
+manufacturing, labour productivity is high, particularly with a lot of labour shedding.   
+About 30% of that LPG is due to TFPG, with 15% due to intangible growth and 5%  
+due to labour quality.  In financial services, measured labour productivity is lower, but  
+TFP accounts for almost 90% of it.  The rest is due to labour quality and computers,  
+with intangible investment intensity falling over the period.  So manufacturing is very  
+much  driven  by  within-industry  intangible  investment,  whilst  finance  is  very  much 
+driven by TFP (which could of course reflect within-industry spillovers of intangible  
+investment).  In retailing, computers and intangibles account for around 19% of LPG. 
+
+========37========
+
+36 
+Finally,  Appendix  C,  TABLE  C.1., shows  the  impact  of  adding  intangibles,  
+which  is  that  ΔlnY/H is  higher  and  the  TFP  contribution  is  lower  than  without  
+intangibles.  Thus for example, without intangibles one would conclude that the TFP  
+contribution is 1.87% instead of 1.35% here.  
+Contributions of individual industries overall performance 
+The contribution of each industry to the overall market economy is a combination of  
+their contributions within each industry and the weight of each industry in the market  
+sector.    Thus  for  example,  there may  be  much  innovation  in  manufacturing  but  it  
+might be a small sector in the market sector as a whole.  TABLE 7 sets this out.  
+In the left panel columns 1, 2 and 3 show respectively the industry weights in  
+market sector value added, average Δln(V/H) and the contribution to aggregate value  
+added  (which  is  not  quite  the  product  of  columns  1  and  2,  since  the  average  of  a  
+product is not the product of two averages).  In the final row, the weights on value  
+added sum to unity and the sum of contributions is the market-sector total as shown in  
+row 2 of TABLE A.2 in the appendix.  The middle panels show the capital and labour  
+contributions  which  again  sum  to  the  market  sector  total.    The  right  panel  shows  
+industry ΔlnTFP and its Domar weight, each industries contribution and confirms the  
+weighted sum duplicates the aggregate.  Finally, as a memo item, column 14 shows  
+employment as a fraction of the total.  The lower panel shows the contributions as a  
+proportion of the total. 
+
+========38========
+
+37 
+TABLE 7 
+Industry contributions to growth in aggregate value added, capital deepening, labour quality and TFP, 2000-07 
+Value added  per hours worked 
+Value- added  weight 
+Value- Contrib. to  added  aggregate  growth value-added 
+Industry 
+1 
+2 
+3 
+Agriculture, fishing & mining Manufacturing 
+Electricity, gas & water Construction 
+Trade, hotels, transport Financial services Business activities Sum 
+0.05 0.22 0.02 0.09 0.32 0.10 0.21 1 
+-0.64 4.75 -0.64 1.21 2.74 3.32 2.59 
+-0.03 1.03 -0.01 0.1 0.88 0.31 0.55 2.83 
+Percentages of summed contributions Agriculture, fishing & mining Manufacturing 
+Electricity, gas & water 
+Construction 
+Trade, hotels, transport 
+Financial services 
+Business activities 
+-1% 36% 0% 4% 31% 11% 19% 
+Sum 
+100% 
+Capital 
+Total capital 
+Contrib. to  Contrib. to  
+Contrib. to  
+Contrib. to  
+aggregate  aggregate  
+Capital  
+ICT  non-ICT  
+aggregate  weight 
+aggregate  
+tangible  tangible  
+intangible  
+capital 
+capital capital 
+capital 
+Labour Composition 
+Labour  
+Contrib. to  
+aggregate  
+weight 
+4 
+5 
+6 
+7 
+8 
+9 
+0.03 0.07 0.02 0.02 0.11 0.05 0.07 
+0.10 0.38 0.00 0.04 0.43 -0.03 0.25 1.17 
+0.00 0.04 0.01 0.00 0.13 0.06 0.07 0.31 
+0.10 0.08 -0.01 0.04 0.16 -0.05 0.01 0.33 
+0.00 0.27 0.00 -0.01 0.14 -0.04 0.17 0.53 
+0.01 0.14 0.01 0.07 0.22 0.05 0.14 
+9% 32% 0% 3% 37% -3% 21% 
+0% 13% 3% 0% 42% 19% 23% 
+30% 24% -3% 12% 48% -15% 3% 
+0% 51% 0% -2% 26% -8% 32% 
+100% 
+100% 
+100% 
+100% 
+TFP 
+labour 
+Domar  weight 
+TFP  growth 
+Contrib. to  
+Memo: % of Contribution  aggregate  
+total hours to Innovationt 
+TFP 
+10 
+11 
+12 
+13 
+14 
+0.02 0.09 0.00 -0.02 0.09 0.07 0.05 0.30 
+0.07 0.53 0.07 0.21 0.59 0.20 0.31 1.98 
+-1.97 1.06 -0.11 0.40 0.60 1.36 0.80 
+-0.14 0.55 -0.01 0.08 0.35 0.27 0.25 1.35 
+3% 19% 1% 11% 39% 5% 22% 100% 
+(8+13) /  (∑8+∑13) 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+7% 30% 0% -7% 30% 23% 17% 
+-10% 41% -1% 6% 26% 20% 19% 
+-5% 46% 0% 2% 26% 6% 25% 
+100% 
+100% 
+100% 
+
+========39========
+
+38 
+Notes: All figures are annual averages.  Growth rates and contributions are % pa per employee hour. Value-added  weights are the share of industry value-added in aggregate value-added. Input weights depend on the industry share in  aggregate value-added, the input share in gross output and the share of value-added in gross output. Domar weights  are the share of gross output in aggregate value-added. Contributions are the product of the corresponding weights  and the  growth rates averaged over  years (growth rates  for capital and labour inputs are  not shown in this table).   Employment is the share of the industry's hours worked over total hours worked by persons engaged.  
+Source: Authors’ calculations. 
+What  do  we  learn  about  the  economy  from  this  table?    Let  us  start  by  considering  
+manufacturing.  As the top panel shows, column 1, its value added weight in the market sector is  
+22%, although column 14 shows the employment weight is 19% (note these are higher than the  
+shares in the whole economy which are the weights usually quoted).  Column 5 shows that the  
+contribution of manufacturing capital deepening to aggregate capital deepening is 0.38%pa, which  
+is  32%  of  the  total  (lower  panel).    Column  8  shows  that  the  contribution  of  intangibles  in  
+manufacturing is significant: 51% (see lower panel) of the total intangible contribution. Columns  
+10  and  13  show  the  contribution  of  labour  quality  and  TFP,  30%  and  41%  respectively  of  the  
+total.  Finally, column 15 (lower panel), shows that manufacturing contributes 46% of the total  
+contribution of intangible capital deepening and TFP.  Thus manufacturing, accounting for 22% of  
+value added and 19% of employment, accounts for 51% of total intangible capital deepening and  
+41% of TFP.  The importance of intangible investment in manufacturing of course suggests that a  
+significant  component  of  the  activity  of  firms  allocated  to  manufacturing  in  the  SIC  is  the  
+production of knowledge assets, which might be regarded as producing a service.  
+What  of  other  industries?    The  other  large  contributions  of  capital  deepening  are  from  
+retail  and  business  services.    Within  these,  ICT  capital  deepening  is  very  important  in  trade,  
+whose  ICT  capital  deepening  accounts  for  42%  of  the  total.    Intangible  capital  deepening  in  
+business services and trade accounts for 32% and 26% of the total as well. 
+Turning  to  labour  composition,  manufacturing  and  trade  alone  account  for  50%  of  it.   
+Finally, on TFP, after manufacturing, retail trade accounts for 26%, so that just these two sectors  
+combined account for 61% of market sector TFP.  Finance and business services account for 35%.    
+
+========40========
+
+39 
+Note that whilst the TFP growth of finance exceeds that of manufacturing, the Domar weight for  
+finance is smaller, so the contribution to total TFP is much smaller. Retail has a much larger value  
+added,  but  lower  TFP  growth  and  a  similar  Domar  weight  to  manufacturing,  so  the  trade  
+contribution is lower.  
+Finally,  one  might  summarise  these  results  by  asking  what  industries  account  for  the  
+contribution of knowledge investment to Δln(V/H)?   If we define knowledge investment as the  
+contributions of ΔlnTFP+sΔln(K/H)(intang) to the total, we see that manufacturing accounts for  
+46%, trade 26%, business services 25% and financial services 6% (the numbers are very similar if  
+we add sΔln(L/H), namely 41%, 27%, 22% and 12%).   
+One important question is to ask how these results compare to those without intangibles.   
+The results without intangibles are set out in the appendix, Table C.1, but the main results are as  
+follows.  First, without intangibles, TFP contribution is 1.87 (against 1.35 above).  But note that  
+the  contribution  above  of  TFP  and  intangible  capital  deepening  is  1.35+0.53  =  1.86,  almost  
+exactly equal to TFP without intangibles, which accounts for 1.86/2.99= 62% of economic growth  
+against  1.83/2.83=65%  without  intangibles.  So  in  this  calculation  the  total  “innovation”  
+contribution turns out to about the same, but intangibles accounts about one-third of the residual.   
+Second,  the  industry  contributions  are  different.  As  we  have  seen  here  with  intangibles,  
+manufacturing  and  financial  services  account  for  46%  and  6%  of  final  innovation.    Without  
+intangibles, manufacturing and financial services TFP account for 39% and 19% of Δln(V/H).  So  
+without intangibles financial services TFP contribution is overstated.  
+VII. Conclusions 
+This  paper  tried  to  combine  a  number  of  threads  of  recent  work  on  the  rise  of  the  knowledge  
+economy.    First,  analysis  of  ICT  suggested  that  computers  need  complementary  investment  in  
+organizations, human capital and reputation.  Second, a growing perception that the knowledge  
+
+========41========
+
+40 
+economy is becoming increasingly important has led to the treating of software and R&D in the  
+national  accounts  as  investment.    To  study  the  questions  that  arise  we  have  used  the  CHS  
+framework,  extended  its  measurement  method  somewhat  using  new  data  sets  and  a  new  micro  
+survey, and implemented it on UK data for all intangibles in addition to R&D and software.  We  
+have documented intangible investment in the UK and tried to see how it contributes to economic  
+growth.  We find the following.  
+i. 
+Investment in knowledge.   
+a) Investment in knowledge, which we call intangible assets, is now greater than  
+investment  in  tangible  assets,  at  around,  in  2008,  £141bn  and  £104bn 
+respectively,  16%  and  12%  of  MSGVA,  quantifying  the  UK  move  to  a  
+knowledge-based economy.   
+b) In  2008,  R&D  was  about  11%  of  total  intangible  investment,  software  15%,  
+design  17%,    and  the  largest  categories  (22%)  training  and  organizational  
+capital.  60% of intangible investment is own account. 
+c) The most intangible-intensive industry is manufacturing (intangible investment  
+as a proportion of value added is 20%).  Manufacturing, financial services and  
+business services all invest about 3:1 on intangibles to tangibles.   
+d) The effect of treating intangible expenditure as investment is to raise growth in  
+market sector value added in the late 1990s (the internet investment boom), but  
+slightly reduce growth in the 2000s.  
+ii. 
+Contribution to growth, 2000-08.   
+a) For the most recent period of 2000-2008, intangible capital deepening accounts  
+for 23% of growth in market sector value added per hour (Δln(V/H)), a larger  
+contribution than computer hardware (12%), other tangible investments (18%,  
+
+========42========
+
+41 
+buildings, vehicles, plant) or labour quality (7%).  The largest contribution is  
+ΔlnTFP, being 40%.   
+b) With  (without)  intangibles  Δln(V/H) 2.25%pa  (2.23%pa)  and  ΔlnTFP is  
+0.90%pa  (1.19%pa).    Thus  adding  intangibles  to  growth  accounting  lowers  
+ΔlnTFP and leaves Δln(V/H) unaffected. 
+c) Capitalising R&D relative to the current practice of capitalizing software (plus  
+mineral  exploration  and  artistic  originals)  adds  0.03%  to  input  growth  and  
+reduces ΔlnTFP by 0.03%, with Δln(V/H) unaffected.   
+d) If innovation is measured as ΔlnTFP plus the contribution of intangible capital  
+deepening,  then  innovation  has  contributed  63%  of  growth  in  labour  
+productivity with  intangibles  and  53%  without.    Adding  the  contribution  of  
+labour composition gives 70% of Δln(V/H) with intangibles and 62% without.  
+iii. 
+Contribution by industries to growth.  The main finding here is the importance  
+of  manufacturing,  which  accounts  for  just  over  40%  innovation  (measured  
+either as intangible capital deepening plus TFP, or intangible capital deepening  
+plus  TFP  plus  labour  quality)  in  the  UK  market  sector.    This  is  due  to  a  
+combination  of  its  high  intangible  investment  (51%  of  total  intangible  
+contribution) and TFP (41% of total contribution), even though manufacturing  
+is a comparatively small sector in terms of employment share (19% of market  
+sector  employment).    We  also  find  important  contributions  of  
+retail/hotels/transport,  accounting  for 27%  of  innovation,  business  services  
+contributes 25% and finance 6%. 
+In future work, we hope to improve the measures of all variables.  We also wish to explore  
+policy and the total contributions of various assets by looking for spillovers.  So, for example, it is  
+
+========43========
+
+42 
+quite conceivable that R&D spillovers will greatly amplify the contribution of R&D to economic  
+growth.  
+
+========44========
+
+43 
+References 
+Awano,  G.,  Franklin,  M.,  Haskel,  J.  and  Kastrinaki,  Z.  (2010).  ‘Measuring  investment  in  
+intangible  assets  in  the  UK:  Results  from  a  new  survey’,  Economic  &  Labour  Market  
+Review,  Vol. 4, pp. 66-71.  
+Barnett, D. (2009). ‘UK intangible investment: Evidence from the innovation index survey’, St.  
+Peter’s College, Oxford University. 
+Basu, S., Fernald, J. G., Oulton, N., Srinivasan, S. (2004). ‘The case of the missing productivity  
+growth, or does information technology explain why productivity accelerated in the United  
+States but not in the United Kingdom?’, NBER Macroeconomics Annual 2003, Vol. 18. 
+Becker, G.S., (1962) ‘Investment in Human Capital: A Theoretical Analysis,’ Journal of Political  Economy LXX: 9 - 49. 
+Brynjolfsson,  E.  and  Hitt,  L.  M.  (2000).  ‘Beyond  computation:  Information  technology,  
+organizational  transformation  and  business  performance‘,  Journal  of  Economic  
+Perspectives, Vol. 14, pp. 23-48. 
+Chesson,  A.  and  Chamberlin  G.  (2006).  ‘Survey-based  measures  of  software  investment  in  the  
+UK’, Economic Trends, Vol. 627, pp. 61-72, 
+Clayton,  T.,  Dal  Borgo,  M.  and  Haskel,  J.  (2008).  ‘An  Innovation  Index  based  on  knowledge  
+capital  investment:  Definition  and  results  for  the  UK  market  sector’,  Working  Paper:  
+September 2008, Draft Report for NESTA Innovation Index 2008 Summer Projects. 
+Clayton,  T.,  Dal  Borgo,  M.  and  Haskel,  J.,  (2008).  ‘An  Innovation  Index  based  on  knowledge  
+capital  investment:  Definition  and results  for  the  UK  market  sector‘,  Report  for  NESTA,  
+http://www.coinvest.org.uk/bin/view/CoInvest/CoinvestInnovIndex 
+Corrado,  C.  A.,  Goodridge,  P.  and    Haskel,  J.  (2011).  ‘Constructing  a  price  deflator  for  R&D:  
+Calculating the price of knowledge investments as a residual’, Discussion Paper 2011/07,  
+Imperial College Business School. 
+Corrado, C. A., Hulten, C. R. and Sichel, D. E. (2005). ‘Measuring capital and technology: An  
+expanded  framework’,  in  C.  A.  Corrado,  J.  C.  Haltiwanger,  and  D.  E.  Sichel  (eds),  
+Measuring  Capital  in  the  New  Economy,  Vol.  65,,  The  University  of  Chicago  Press,  
+Chicago. 
+Corrado, C., Hulten, C. and Sichel, D. (2009). ‘Intangible capital and US economic growth‘, The  
+Review of Income and Wealth, Vol. 55, pp. 661-685. 
+Domar, E. D. (1961). ‘On the measurement of technological change‘, The Economic Journal, Vol.  
+71, pp. 709-729. 
+EU  KLEMS  Database,  March  2008,  see  M.  Timmer,  M.  O'Mahony  and  B.  van  Ark,  ‘The  EU  
+KLEMS  growth  and  productivity  accounts:  An  overview’,  University  of  Groningen  &  
+University of Birmingham; downloadable at www.euklems.net. 
+Fukao, K., Miyagawa, T. Mukai, K., Shinoda, Y. and Tonogi, K. (2009). ‘Intangible investment in  
+Japan: Measurement and contribution to economic growth’, Review of Income and Wealth,  
+Vol. 55, pp. 717-736. 
+
+========45========
+
+44 
+Galindo-Rueda, F.  (2007).   ‘Developing an R&D Satellite Account for the UK: A Preliminary  
+Analysis.’    Economic & Labour Market Review, vol. 1:12, 18-29. 
+Galindo Rueda, F., Haskel, J. and Pesole, A., (2010). ‘How much does the UK employ, spend and  
+invest in design?’, Working Paper, Imperial College Business School.  
+Gill, V. and Haskel, J. (2008). ‘Industry-level expenditure on intangible assets in the UK‘,  
+Working Paper,  
+CeRiBA.http://www.coinvest.org.uk/bin/view/CoInvest/CoinvestGilHaspaper 
+Giorgio  Marrano,  M..,  Haskel,  J.  and  Wallis,  G.  (2009).  ‘What  happened  to  the  knowledge  
+economy? ICT, intangible investment and Britain's productivity record revisited‘, Review of  
+Income and Wealth    Vol. 55, pp. 686-716. 
+Goodridge, P. and Haskel, J. (2011). ‘Film, television & radio, books, music and art: UK  
+investment in artistic originals’, Working Paper, CeRiBA.  
+http://www.ceriba.org.uk/bin/view/CERIBA/IPOArtisticOriginals 
+Haskel, J., Clayton, T., Goodridge, P., Pesole, A., and Barnett, D (2009), ‘Innovation, knowledge  
+spending and productivity growth in the UK’, NESTA Innovation Index, Pilot Report 
+Haskel,  J.,  Goodridge,  P.,  and  Pesole,  A.  (2011),  ‘Driving  economic  growth:  Innovation,  
+knowledge spending and productivity growth in the UK’, NESTA Innovation Index Report 
+Haskel,  J.  and  Pesole,  A.  (2011).  ‘Productivity  and  Innovation  in  UK  financial  services:  An  
+intangible assets approach’, Discussion Paper, Imperial College Business School. 
+Hulten, C. R. (1978). ‘Growth accounting with intermediate inputs’, Review of Economic Studies,  
+Vol. 45, pp. 511-518. 
+Hulten, C. R. (2001). ‘Total Factor Productivity: A short biography‘, in C. R. Hulten, E. R. Dean,  
+and M. J. Harper (eds), New Developments in Productivity Analysis, Studies in Income and  
+Wealth, Vol. 63, , The University of Chicago Press, Chicago.   
+Jona-Lasinio, C., Iommi, M. and Roth, F. (2009). ‘Intangible capital and innovations: Drivers of  
+growth and location in the EU‘, INNODRIVE Deliverable No. 15, WP9. 
+Jorgenson, D. W. (2007). Productivity, MIT Press, Cambridge, MA. 
+Jorgenson, D. W. and Griliches, Z. (1967). ‘The explanation of productivity change’, Review of  
+Economic Studies, Vol. 34, pp. 349-383. 
+Jorgenson,  D.  W.,  Ho,  M.  S.  and  Stiroh,  K.  J.  (2005).  Productivity,  Volume  3:  Information  
+Technology and the American Growth Resurgence, The MIT Press, London; Cambridge. 
+Jorgenson,  D.,  Ho,  M.,  Samuels,  J.  and  Stiroh,  K.  (2007).  ‘Industry  origins  of  the  American  
+productivity  resurgence’, Economic  Systems  Research,  Vol.  19,  pp.  229-252.Machlup,  F.  
+(1962).  ‘The  production  and  distribution  of  knowledge  in  the  United  States’,  Princeton  
+University Press, Princeton NJ. 
+Nakamura,  L. (1999). ‘Intangibles: What put the new in the new economy?’, Business Review,  
+Federal Reserve Bank of Philadelphia, pp. 3-16. 
+
+========46========
+
+45 
+Nakamura,  L.  (2001).  ‘What  is  the  US  gross  investment  in  intangibles?  (At  least)  one  trillion  
+dollars a year!’, Working Paper No. 01-15, Federal Reserve Bank of Philadelphia. 
+OECD. (2001). Measuring Productivity – OECD Manual. 
+http://www.oecd.org/dataoecd/59/29/2352458.pdf 
+OECD. (2002). Frascati Manual: Proposed Standard Practice for Surveys on Research and  
+Experimental Development, 6th edition,  
+http://www.oecd.org/document/6/0,3746,en_2649_34273_33828550_1_1_1_1,00.html  
+OECD.  (2005). Oslo  Manual:  Guidelines  for  Collecting  and  Interpreting  Innovation  Data,  3rd  
+edition,  
+http://www.oecd.org/document/23/0,3343,en_2649_34273_35595607_1_1_1_37417,00.htm 
+l 
+Oliner, S.D., Sichel, D.E. and Stiroh, K.J. (2008). ‘Explaining a productive decade’, Journal of  
+Policy Modeling, Vol. 30, pp. 633-673. 
+O’Mahony, M. and Peng, L. (2010). ‘Workforce training, intangible investments and productivity  
+in Europe: Evidence from EU KLEMS and the EU LFS‘, SERVICEGAP Discussion Paper  
+No. 1, University of Birmingham. 
+O’Mahony, M. and Timmer M.P. (2009). ‘Output, input and productivity measures at the industry  
+level: The EU KLEMS Database‘, Economic Journal, Vol. 119, pp. F374-F403.  
+Oulton, N. (2007). ‘Ex post versus ex ante measures of the user cost of capital’, Review of Income  
+and Wealth’,Vol. 2, pp. 295-317. 
+Oulton, N.  and  Srinivasan,  S.  (2003).  ‘Capital  stocks,  capital  services,  and  depreciation:  An  
+integrated framework’,Working Paper No. 192, Bank of England. 
+Peleg,  S.  (2005).  ‘An  exercise  to  examine  the  impact  of  capitalization  of  R&D  in  National  
+Accounts’,  paper  for  the  Canberra  II  Group  on  Measurement  of  Non-financial  Assets,  
+Canberra. 
+Soloveichik, R. (2010). ‘Artistic originals as  a capital asset’, American  Economic Review, Vol.  
+100, pp.110-114. 
+Solow,  R.  (1956).  ‘A  contribution  to  the  theory  of  economic  growth’,  Quarterly  Journal  of  
+Economics, Vol. 70, pp. 65-94. 
+Timmer, M.P., O’Mahony, M., van Ark, B. and Inklaar, R. (2010). Economic growth in Europe,  
+Cambridge University Press, Cambridge MA. 
+Tufano,  P.  (1998).  ’Financial  innovation  and  first­mover  advantages‘,  Journal  of  Financial  
+Economics, Vol. 25, pp. 213-240. 
+van Ark, B., Hao, J. X., Corrado, C. and Hulten, C. (2009). ‘Measuring intangible capital and its  
+contribution  to  economic  growth  in  Europe’,  EIB  Papers  3/2009,  European  Investment  
+Bank, Economic and Financial Studies. 
+
+========47========
+
+46 
+van  Ark,  B.  and  Hulten,  C.  (2007).  ‘Innovation,  intangibles  and  economic  growth: Towards  a  
+comprehensive  accounting  of  the  knowledge  economy’,  Yearbook  on  Productivity  2007,  
+Statistics Sweden, pp. 127-146. 
+van Rooijen-Horsten, M., van den Bergen, D. and Tanriseven, M. (2008). ‘Intangible capital in  
+the  Netherlands:  A  benchmark‘,  Discussion  Paper  No.  08001,  Statistics  Netherlands,  
+http://www.cbs.nl/NR/rdonlyres/DE0167DE-BFB8-4EA1-A55C- 
+FF0A5AFCBA32/0/200801x10pub.pdf 
+
+========48========
+
+47 
+Appendix A: Data sources and comparison with ONS data 
+TABLE A.1 
+Data sources for market sector  
+A. Intangible Investment Data 
+Type of intangible investment Current source Computarized information 
+Software Own-Account ONS, National Accounts Software purchased ONS, National Accounts Innovative property 
+Scientific R&D ONS, National Accounts Mineral exploration ONS, National Accounts Artistic Originals ONS, National Accounts 
+Comments 
+Computer industry subtracted from total number 
+New product development costs in the Own-account: software methodology using ASHE wage bills and interviews.  
+financial industry 
+New architectural and engineering  designs 
+Purchased: assumed zero 
+Own-account: software methodology using ASHE wage bills and interviews.  
+Purchased: ONS, Input-Output Tables 
+R&D in social sciences and humanities ONS, ABI sales data 
+Economic competencies Advertising 
+Market research Firm-specific human capital 
+ONS, Input-Output Tables ONS, Input-Output Tables National Employer Skills Survey 
+Organizational structure Purchased 
+Own-account 
+UK Management Consulting Association (MCA) 
+Annual Survey of Hours and Earnings (ASHE) wage bills for senior managers 
+Mark-ups on labour costs assumed from software method.  Fraction of time uses  interview data. 
+Design (excluding software and management) occupation titles checked with Design  Council. Mark-ups on labour costs assumed from software method.  Fraction of  time uses interview data.  Intra- industry purchases are subtracted to avoid double  counting. 
+ABI sales, SIC 73.2 
+Intra- industry purchases are subtracted to avoid double counting. 
+Intra- industry purchases are subtracted to avoid double counting. 
+Uses NESS04, 07 and 09, and 1978 data summarised in Barber, as benchmarks and  backcasted using sectoral wage bill data.  See text 
+20% assumed as investment 
+B. Tangible/Traditional Data (Tangible Assets: Buildings, Plant & Machinery, Vehicles, Computer Hardware) 
+Gross Value Added at current and  constant basic prices, at industry level,  we construct an aggregate for our  market sector definition 
+Gross Operating Surplus 
+Mixed Income 
+ONS, National Accounts 
+ONS implied estimates ONS, National Accounts 
+Labour compensation/compensation  ONS, National Accounts of employees 
+Total hours worked by persons  engaged 
+Real capital stock 
+ONS, "Productivity Hours" 
+EUKLEMS for industry analysis, ONS VICS for aggregate analysis 
+Labour Composition 
+Hours worked by education, gender,  age, industry 
+ONS 
+C. Other Data 
+Deflator 
+Software Own-Account 
+Software purchased 
+All other intangibles 
+Tangible assets 
+User costs, rates of return and capital  gains 
+ONS, National Accounts 
+ONS, National Accounts 
+ONS, Implied GVA deflator 
+EUKLEMS for industry analysis, ONS VICS for aggregate analysis 
+Depreciation rate Intangibles Tangibles 
+Corrado, Hulten and Sichel (2005) ONS, National Accounts 
+We build up the market sector (SIC03, A-K), with dwellings excluded from section  K.  Nominal value added is simply summed across sections.  Real value added for  each section is calculated from ONS indices of real value added data by section,  rebased to eq 
+Generated as a residual from section-level GVA, COE and MI  data  
+MI data at industry-level are only available from the Input-Output tables. Therefore  they only go back to 1992, but unpublished tables have been used to extend the  series. 
+CoE taken from ONS National Accounts. The labour share of MI (based on  CoE/GOS % split) is added on to give total labour compensation 
+As used in the ONS Productivity First Release, consistent with both QALI and  ONS "Productivity Jobs" 
+Generated using highly disaggregated investment data and a PIM.  Software supplied  with computers valued with computer machinary.  Aggregated to market sector 
+Extracted from LFS microdata, with totals by industry scaled to equal ONS  productivity jobs and hours figures. Hours refers to average hours times  employment. Data before 1993 are interpolated using EUKLEMS data.  There are 6  education groups, 2 gender gr 
+User cost data calculated endogenously such that rates of return equalise across  assets and capital rental costs (user costs times capital stocks) exhaust GOS. Capital  gains calcuated as three year uncentered moving averages of the relevant investment  def 
+See text See text 
+
+========49========
+
+48 
+Comparison with ONS data 
+To form ONS data on value added and capital services, we use industry level ONS value added  
+and  capital  services  data  and  add  up  sectors  A  to  K,  subtracting  off  residential  real  estate,  as  
+described above.  How do the KLEMS data compare with the disaggregated ONS data?  The real  
+output data are almost exactly the same, as are the capital services data.  The labour input data are  
+different.  First, the KLEMS data has fewer workers in financial services, but more in business  
+services than the ONS data.  We suspect this may be due to the treatment of agency workers of  
+whom there are many in financial services, but employed by agencies in business services and  
+hence their appropriate treatment is a problem.  This means that productivity growth in financial  
+services is much higher in KLEMS relative to the ONS, but somewhat less in business services.   
+Second, the KLEMS labour composition series grows faster than the ONS series. 
+Comparing growth-accounting results using aggregated KLEMS industry data with results  
+using ONS data  
+Our market sector results in the paper are to 2008, based on ONS data.  To compare with KLEMS,  
+we set out the growth accounting results for the market sector to 2007.  TABLE A.2 sets out our  
+results.    The top row shows the use of ONS data, with intangibles, 2000-7.  The second row shows  
+the  results  for  2000-7,  with  intangibles,  using  the  aggregated  industry  data.    Δln(V/H) is  13  
+percentage  points  higher  with  EUKLEMS,  but  the  contribution  of  Δln(L/H) is  14  percentage  
+points higher, with ΔlnTFP very similar.  So the results are quite comparable.  
+
+========50========
+
+49 
+TABLE A.2. 
+Growth accounting: comparison of ONS market sector and Domar-weighted market sector  
+aggregates, 2000-2007 
+Labour  productivit y growth 
+Contribution from capital 
+Total 
+Computers 
+Other  tangibles 
+Intangibles 
+Contributio 
+n from 
+labour  composition sDln(L/H) 
+6 
+TFP 
+Dln(V/H) 
+1 
+sDln(K/H) 
+2 
+3 
+4 
+5 
+DlnTFP 
+7 
+ONS data, with intangibles EUKLEMS, with intangibles 
+2.69 2.82 
+1.23 1.16 
+0.28 0.31 
+0.40 0.32 
+0.55 0.53 
+0.17 0.31 
+1.30 1.35 
+Notes: All figures are average annual percentages. The contribution of an output or input is the growth rate weighted  by the  corresponding average share.  Columns are  annual  average  change  in natural logs of value  added per hour  (column  1),  contribution  of total  capital  (column  2,  which  is  the  sum  of  the  next  three  columns),  contribution  of  computer  capital  (column  3),  contribution  of  other  non-computer  tangible  capital  (column  4),  contribution  of  intangibles (column 5) contribution of labour composition per hour (column 6), TFP (column 7, being column 3 less  the  sum of column 4 and column 8).   Row 1 is based on ONS data  with the capitalisation of intangibles for the  market sector.  Row 2 is EUKLEMS data, with intangibles, 2000-7, aggregated to the market sector.  In each dataset  the market sector is defined using our definition of SIC(2003) A-K excluding dwellings 
+.   
+
+========51========
+
+50 
+Appendix B: Contributions of individual assets to market sector LPG 
+Contributions of each intangible asset are set out in Table B.1.  Column 5 shows that software is  
+an important driver, with a very strong contribution in the 1990s of between 0.18% and 0.23%  
+p.a., but less so this century, contributing 0.10% p.a.. Note that in the late 1990s the contribution  
+of  software  came  close  to  that  of  non-computer  tangibles,  a  remarkable  result  highlighting  the  
+importance  of  knowledge  assets.  Column  6  shows  a  small  contribution  for  mineral  exploration  
+and artistic originals.  Columns 7 and 8 show the contribution of design to be above that of R&D  
+in the most recent period, at around 0.09% p.a., with R&D at 0.05% p.a. (this is larger than that  
+what can be inferred from the main text since it includes R&D in financial services and social  
+sciences).  In columns 8 to 12, we show the contribution of advertising and marketing, training  
+and organisational capital.  Organisational capital is the most important here, particularly in the  
+2000s, with training important in the early decade in particular. 
+
+========52========
+
+Labour  productivity  growth 
+Contribution  from labour  composition 
+Computers 
+Other  tangibles 
+Dln(V/H) 
+sDln(L/H) 
+1 
+2 
+3 
+1990-95 1995-00 2000-08 
+2.94% 3.53% 2.25% 
+0.17% 0.25% 0.16% 
+0.22% 0.49% 0.26% 
+0.73% 0.25% 0.41% 
+51 
+TABLE B.1 
+Contributions of individual assets to market sector LPG 
+Contribution from capital 
+Software 
+Minerals  
+&  copyright 
+Design 
+R&D 
+Advertising  & market  research 
+sDln(K/H) 
+4 
+5 
+6 
+7 
+8 
+0.18% 0.23% 0.10% 
+0.02% 0.00% 0.00% 
+0.07% -0.02% 0.09% 
+0.05% 0.04% 0.05% 
+Training 
+Organisational 
+TFP 
+Labour  income  share 
+DlnTFP 
+sLAB 
+9 
+10 
+11 
+12 
+13 
+0.07% 0.14% 0.03% 
+0.10% 0.15% 0.08% 
+0.14% 0.13% 0.17% 
+1.19% 1.87% 0.90% 
+0.57 0.56 0.57 
+Notes:    Data are average growth rates per hour per year for intervals shown. First column is value-added labour productivity growth in per hour terms.  Column 2 is the contribution of labour composition, namely growth in labour services per hour times share of labour in MGVA.  Column 3 is growth in computer capital services per hour  times share in MGVA.  Column 4 is growth in other tangible capital services per hour (buildings, plant, vehicles) times share in MGVA.  Column 5 is growth in software  capital services per hour times share in MGVA.  Column 6 is growth in capital services from mineral exploration and copyright per hour times share in MGVA. Column 7 is  capital services from design per hour times share in GVA. Column 8 is growth in broadly defined R&D (including non-scientific R&D and financial product development)  capital services per hour times share in GVA. Column 9 is capital services from advertising and market research per hour times share in MGVA Column 10 is capital services  from firm-level training per hour times share in MGVA. Column 11 is organisational capital services per hour times share in MGVA. Column 12 is TFP, namely column 1  minus the sum of columns 2 to 11.  Column 13 is the share of labour payments in MGVA.   
+Source: Authors’ calculations. 
+
+========53========
+
+52 
+Appendix C: Excluding intangibles, industry contributions to growth in aggregate value added,  
+capital deepening, labour quality and TFP, 2000-7 
+TABLE  C.1  re-produces  TABLE  7  except  it  excludes  intangibles.    The  contribution  of  each  
+industry  to  the  overall  market  economy  is  a  combination  of  their  contributions  within  each  
+industry and the weight of each industry in the market sector.  Thus for example, there may be  
+much tangible capital deepening in a particular sector, but it might be a small sector in the market  
+sector as a whole.   
+In  the  left  panel  columns  1,  2  and  3  show  respectively  the  industry  weights  in  market  
+sector value added, average Δln(V/H) and the contribution to aggregate value added (which is not  
+quite the product of columns 1 and 2, since the average of a product is not the product of two  
+averages).  The middle panels show the capital and labour contributions which again sum to the  
+market sector total.  The right panel shows industry ΔlnTFP and its Domar weight, each industries  
+contribution and confirms the weighted sum duplicates the aggregate.  Finally, as a memo item,  
+column 13 shows employment as a fraction of the total.  The lower panel shows the contributions  
+as a proportion of the total. 
+
+========54========
+
+53 
+TABLE C.1. 
+Excluding intangibles, industry contributions to growth in aggregate value added, capital deepening, labour quality and TFP, 2000-07  
+Value added  per hours  
+worked 
+Value- Value- 
+Contrib. to  
+aggregate  
+Capital  
+Contrib. to  
+aggregate  
+added  added  weight growth 
+value- added 
+Industry 
+1 
+2 
+Agriculture, fishing & mining Manufacturing 
+Electricity, gas & water Construction 
+Trade, hotels, transport Financial services Business activities Sum 
+0.05 0.21 0.02 0.09 0.33 0.09 0.2 1 
+-0.67 4.7 -0.51 1.28 2.84 4.91 2.86 
+-0.03 0.98 -0.01 0.11 0.93 0.43 0.58 2.99 
+Percentages of summed contributions Agriculture, fishing & mining Manufacturing 
+Electricity, gas & water 
+Construction 
+Trade, hotels, transport 
+Financial services 
+Business activities 
+Sum 
+-1% 33% 
+31% 14% 19% 100% 
+Notes: See notes to Table 7.  
+Capital 
+Labour  Composition 
+Total capital 
+Contrib. to Contrib. to  aggregate  aggregate  
+ICT  non-ICT  tangible  tangible  capital capital 
+Labour  
+Contrib. to  
+aggregate  
+weight 
+weight 
+capital 
+3 
+4 
+5 
+6 
+7 
+8 
+0.04 0.04 0.02 0.01 0.08 0.03 0.04 
+0.12 0.14 0 0.08 0.32 0 0.1 0.76 
+0 0.04 0.01 0.01 0.14 0.09 0.09 0.38 
+0.12 0.09 -0.01 0.07 0.18 -0.09 0.01 0.37 
+0.02 0.17 0.01 0.08 0.25 0.06 0.16 
+0% 4% 
+16% 18% 0% 11% 42% 0% 13% 100% 
+0% 11% 3% 3% 37% 24% 24% 100% 
+32% 24% -3% 19% 49% -24% 3% 100% 
+TFP  
+labour 
+Domar  TFP  weight growth 
+Memo: % Contribution  Contrib. to  of total  to  aggregate  hours. Innovation 
+TFP 
+9 
+10 
+11 
+12 
+13 
+(12) / (∑12) 
+0.02 0.11 0 -0.02 0.11 0.08 0.06 0.36 
+0.09 0.62 0.08 0.24 0.69 0.23 0.36 2.31 
+-1.99 1.2 -0.06 0.21 0.73 1.51 1.16 
+-0.17 0.73 -0.01 0.05 0.5 0.35 0.42 1.87 
+3% 19% 1% 11% 39% 5% 22% 100% 
+- - - - - - - - 
+6% 31% 0% -6% 31% 22% 17% 100% 
+-9% 39% -1% 3% 27% 19% 22% 
+-9% 39% -1% 3% 27% 19% 22% 
+100% 
+100% 
+
+========55========
+
+54 
+Source: Authors’ calculations. 
+
+========56========
+

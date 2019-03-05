@@ -1,0 +1,1319 @@
+September 2011 
+             No.54 
+Is Anonymity the Missing Link Between Commercial 
+and Industrial Revolution? 
+Stephen Broadberry, Sayantan Ghosal and Eugenio Proto 
+University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Is Anonymity the Missing Link Between Commercial 
+and Industrial Revolution? 
+Stephen Broadberry, Sayantan Ghosal and Eugenio Proto 
+September 2011 
+Abstract 
+The Industrial Revolution is often characterized as the culmination of a process of 
+commercialisation; however, the precise nature of such a link remains unclear. This 
+paper models and analyses one such link: the impact of a higher degree of anonymity 
+of market transactions on relative factor prices. Commercialisation raises wages as 
+impersonal labour market transactions replace personalized customary relations. This 
+leads, in equilibrium, to higher real wages to prevent shirking. To the extent that 
+capital and labor are (imperfect) substitutes, the resulting shift in relative factor 
+prices leads to the adoption of a more capital-intensive production technology which, 
+in turn, results in a faster rate of technological progress via enhanced learning by 
+doing. We provide evidence using European historical data consistent our results. 
+JEL classi–cation: N13, O14, O43 
+Keywords: Commercialisation, Industrial Revolution, Anonymity, E¢ ciency 
+Wages, Learning by Doing. 
+1 Introduction 
+A number of recent studies have pointed to the emergence of northwest Europe as a high wage economy during the early modern period, between the sixteenth and eighteenth cen- turies, with Britain overtaking the Netherlands to become the highest wage economy in 
+Department of Economics, University of Warwick, Coventry CV4 7AL, United Kingdom S.N.Broadberry@warwick.ac.uk S.Ghosal@warwick.ac.uk E.Proto@warwick.ac.uk 
+1 
+
+========2========
+
+Europe (van Zanden, 1999; Allen, 2001; Broadberry and Gupta, 2006). Since one of the key features of the Industrial Revolution was the development of labour saving technology in Britain, it is natural to link the Industrial Revolution to these prior developments in factor prices and the global commercial environment in which they emerged (Broadberry and Gupta, 2009; Allen, 2009). Indeed, a long tradition in economic history links the transition to modern economic growth to the widespread commercialisation of Britain and other parts of northwest Europe between the late medieval period and the Industrial Rev- olution (Toynbee, 1890; Polanyi, 1944; Britnell and Campbell, 1995). However the precise nature of the links between the Commercial Revolution and the Industrial Revolution has remained unclear. 
+In this paper, it is argued –rst, that the growing commercialisation of the late medieval and early modern periods led to higher wages as the greater anonymity of market relations replaced customary relations in the allocation of labour. Note that this ﬁe¢ ciency wageﬂ argument avoids the objection sometimes levelled at the literature on induced innovation that high wages do not re⁄ect high labour costs because the labour is also highly productive. E¢ ciency wages imply higher wages in anonymous commercialized factor markets to induce the same e¤ort as achieved in more personalized customary relationships backed up by close supervision. Second, it is argued that the resulting rise in the wage/cost of capital ratio led to the adoption of a more capital-intensive technology. Third, this led to a faster rate of technological progress through greater learning by doing on the capital intensive production technology. 
+Note that the concept of commercialisation used here means more than simply an increase in the proportion of output passing through the market (Britnell and Campbell, 1995: 1). As the economy urbanizes, with the move away from subsistence agriculture there is dramatic change in the informational structure among economic agents as already emphasized in the theoretical literature by Banerjee and Newman (1998). In particular, commercialisation a¤ects factor markets, with a growing reliance on anonymity in labour relations. Here, we build upon the approach of Greif (1994), who established a link between anonymous market trading relationships and prices, but without considering explicitly its implications for technology. That link is made here via the e¤ect of changing factor prices on the choice of technology and the idea of learning by doing (Hicks, 1932; Arrow, 1962; Romer, 1985). 
+2 
+
+========3========
+
+The approach taken here draws on ideas which have been used in the literature on the importance of high wages in stimulating the innovations of the Second Industrial Revolu- tion in late nineteenth century America (Rothbarth, 1946; Habakkuk, 1962; David, 1975; Broadberry, 1997). Until recently, there has been a reluctance to cast Britain in the role of a high wage producer at the time of the Industrial Revolution, since the vast literature on the standard of living debate emphasized the slowness of real wages to rise. However, recent work has emphasized international comparisons of the level of real wages and other factor prices, pointing clearly to Britain™s unusual combination of factor prices (Allen, 2001; 2009; Broadberry and Gupta, 2006; 2009). This is important not only in explaining the adoption of modern technology, but also its non-adoption in other countries with di¤erent factor prices, a point emphasized in the theoretical literature by Zeira (1998) and in the historical literature by Broadberry and Gupta (2009), Allen, (2009) and Fremdling (2000). 
+It should be noted that our approach provides a more direct link between commercial development and economic growth than that provided by Acemoglu et. al. (2005). Their indirect link focuses on the impact of Atlantic trade on institutions, with growing trade strengthening the position of merchants in northwest Europe and enabling them to impose e¤ective constraints on the executive. This improvement in ﬁinstitutional qualityﬂis seen by Acemoglu et. al. (2005) as further boosting trade and economic growth. Our approach focuses on a more direct link between trade and growth, with increasing commercialisation a¤ecting factor prices, choice of technology and the rate of technological progress. Note also that our approach maps into variables such as wages and urbanization rates, which are more objectively measurable than institutional quality. 
+The paper proceeds as follows. In section 2, we present a theoretical model to establish the links between commercialisation and technological progress. We –rst present the model under the assumption that capital and labor are perfect substitutes; we then show that all results holds more generally when production factors are imperfect substitutes. Section 3 then provides an analytic narrative and a simple econometric exercise, using data relative to the historical transition to modern economic growth in northwest Europe, in which the Commercial Revolution of the early modern period is linked to the Industrial Revolution via its e¤ects on factor prices. Section 4 concludes. Proofs are in the Appendix. 
+3 
+
+========4========
+
+2 The model 
+In this section, building on Shapiro and Stiglitz™s (1984) original model of e¢ ciency wages, we introduce our concept of anonymity and endogenous technological progress via learning by doing. We show that a higher degree of anonymity, arguably generated by the com- mercial revolution, made more di¢ cult monitoring workers and led to an increase in wages and subsequently to more capital intensive production. This process eventually led to a technological increase in labour e¢ ciency that we characterize as the industrial revolution. 
+2.1 Workers 
+Time periods are indexed by t, t = 0;1;2; :::. There is a mass N of identical risk averse 
+workers. There is a probability d that at each time t, the worker dies or permanently retires 
+from working. Since the number of workers is –xed at each period, there are dN new workers 
+in the economy so that the labor supply is always constant. Workers have an inter temporal discount factor which, for notational simplicity, we multiply by the probability of surviving 
+next period, (1 
+ d); and de–ne the resulting product as  < 1: 
+At any period t, each worker can be either employed or unemployed and is endowed 
+with a –xed amount of e¤ort that can be costlessly provided. If she is unemployed she uses her e¤ort in a backyard informal activity, which yields At; where At is a technolog- ical parameter, linked to the general economic environment at any time t; which we will characterize later; if she is employed she earns a wage wt: 
+Since e¤ort cannot be observed, employed workers can either shirk or work (i.e. choose 
+an e¤ort level e 2 f0;1g). An employed shirking worker uses her e¤ort for the backyard 
+activity earning At in addition to the wage o¤ered by the employer. She can be detected with probability 1  p and –red.1 In this case, a shirking worker can look for a job in the 
+next period by "hiding" among the pool of new workers dN and her probability of –nding a 
+new job is q˙, where q (which is endogenous and will be determined later) is the probability, 
+common to all individuals in the unemployment pool, of being hired and ˙ 2 (0;1) is a 
+parameter, the probability of being detected by a new employer as having shirked in the 
+past, accounting for the level of anonymity in the economy. We can think of ˙ as the 
+1As it has been already emphasized by Shapiro and Stiglitz (1980) –ring a shirking worker is also the optimal strategy on the part of the employer. 
+4 
+
+========5========
+
+probability that the bad reputation of the shirking workers reached the new employer. The 
+parameter ˙ can be reasonably considered close to 1 in a small village market and close to 
+0 in a large urban environment. 
+A non-shirking worker will work in the –rm until termination (which happens with 
+probability d at each t). We note that p + (1 
+ p)˙q is the probability that a shirking 
+worker at time t; will still be alive at time t + 1. We de–ne V 
+E 
+t 
+(e) as the intertemporal utility of an employed worker that exercises e¤ort e 2 f0;1g at time t: 
+We will now write down the conditions required to ensure that at the prevailing wages 
+at time period t, choosing high e¤ort e = 1 is optimal for each employed worker. To this 
+end, by the one-shot deviation principle (Blackwell (1965)), it is su¢ cient to show that no 
+employed worker can gain by deviating and choosing low e¤ort e = 0 for one period at any 
+t. 
+Fix a sequence of market wages fwt : t  0g. 
+The intertemporal utility for an employed non shirking worker is 
+V 
+E 
+t 
+(1) = wt + V 
+E 
+t+1(1); 
+(1) 
+and we have the following expected discounted utilities for an employed worker who shirks once but does not shirk again in the future: 
+V 
+E 
+t 
+(0) = wt + At +  ((p + (1 
+ p)˙q)V 
+E 
+t+1(1) + (1 
+ (p + (1 
+ p)˙q))V 
+US 
+t+1); 
+(2) 
+where V 
+US 
+t 
+is the intertemporal utility of an unemployed worker who has shirked at least once in the past but does not shirk again if employed in the future i.e. 
+V 
+US 
+t 
+= At +  (q˙V 
+E 
+t+1(1) + (1 
+ q˙)V 
+US 
+t+1): 
+(3) 
+Therefore, given the sequence of market wages, the no shirking constraint is met when- ever: 
+V 
+E 
+t 
+(1)  V 
+E 
+t 
+(0): (4) 
+We assume that at each t, each worker correctly anticipates future levels of V 
+E 
+t 
+(e); e 2 f0;1g and V 
+US 
+t 
+. 
+5 
+
+========6========
+
+2.2 Production and –rms 
+There is a –xed mass of one identical –rms, indexed by i. We will assume that each 
+–rm has an increasing, strictly concave production function with Harrod-neutral (or labour augmenting) technological progress F(k; Atl). 
+To begin with, we assume perfect substitution between factors: 
+F(k; Atl) = (k + (1 
+ )Atl) 
+ 
+;  < 1 
+(5) 
+We will return to the general case (allowing for imperfect substitutability between the factors of production) in the next subsection. 
+We assume that At evolves over time according to 
+At = (1 
+ ˆ)At 
+ 1 
++ ˆa(Kt 
+ 1), 
+0 < ˆ < 1: 
+(6) 
+The interpretation is that the prevailing technology in any period t is a weighted average of 
+the technology prevailing in the preceding period and any new knowledge created in that period. We assume that the new knowledge created in the preceding period is an increasing function of the aggregate capital stock Kt 
+ 1 
+at t  1. This assumption can be interpreted as productivity growth through learning by doing (e.g. Arrow (1962) and Romer (1986)), speci–cally the stock of knowledge increases with the amount of capital used within each –rm i.e. a(0) = 0 and a0(Kt 
+ 1) 
+> 0. 
+Firms borrow capital from an external capital market at an exogenously given interest 
+rate r; the capital supply is perfectly elastic and, in equilibrium, make non-zero pro–ts, 
+given the assumption  < 1, which implies decreasing return to scale on capital and labor 
+factors. Therefore, pro–ts of the –rm can be interpreted as a return to a –xed factor of production namely entrepreneurship. 
+All –rms are price-takers. At each t, each –rm i takes the sequence of future market 
+wages wt, the interest rate r and the technological parameter At as given. Although –rms™ choices at time t  1 in⁄uence the technology at time t; we make the standard assumption 
+that the contribution of each –rm is negligible and it is not internalized when the decision takes place: in e¤ect, maximizing the sum of pro–ts over time is equivalent to maximizing 
+current period pro–ts within each time period. Therefore, at each t, each –rm maximizes 
+6 
+
+========7========
+
+current period pro–ts only i.e. 
+max F(k; Aki;t;l 
+tl)i;t 
+ wi;tli;t 
+ rki;t 
+(7) 
+2.3 Market equilibria and steady state 
+We de–ne a market equilibrium for a –xed ˙ as follows: 
+A market equilibrium is a sequence of (Kt ; Lt; wt; At : t  1) such that at each t = 0;1: : : : 
+1. Given r, wt and At, for each –rms li;t = Lt; ki;t = Kt maximizes pro–ts, 
+2. Given wt, no employed worker shirks i.e. wt satis–es the no shirking constraint (4), 
+3. At = At 
+ 1 
++ a(Kt 
+ 1). 
+At a steady state Kt = Kt+1 = K, Lt = Lt+1 = L and At = At+1 = A for all t. From (6), it follows that A = a(K). Therefore, the steady state (long-run) values of the variables at a market equilibrium are denoted by (K; L; w; A = a(K)). 
+Next, we characterize the market equilibrium in our model –rst for the case of perfect substitutes and then for the general case with imperfect substitutes. 
+2.4 Market equilibrium with perfect substitutes 
+Consider, –rst, the pro–t maximizing problem for each –rm (7) with 
+F(k; Atl) = (k + (1 
+ )Atl) 
+ 
+;  < 1: 
+First, note that for each –rm, at each t, at an interior solution the –rst order conditions 
+with respect to capital and labour ki;t and li;t are: 
+(1 
+ )At  (ki;t + (1 
+(ki;t + (1 
+we can rewrite (8) as: 
+ki;t = 
+ (1 
+ )Atli;t + 
+ )Atli;t) 
+  1 
+= wt 
+(8) 
+ )Atli;t) 
+  1 
+= r 
+(9) 
+ 
+r 
+ 1 
+1    
+ 
+(10) 
+7 
+
+========8========
+
+and substituting it in (9) we obtain simply 
+wt = At 
+1 
+ r  
+(11) 
+i.e. at each t, at an interior solution, the factor price ratio 
+wt 
+r 
+is equal to the constant 
+(factors of production are perfect substitutes) slope of the isoquant At 
+ 
+1   
+. 
+Let ! = 
+ 
+ 
+1   
+r, so that wt = !At or equivalently, ! = 
+wt 
+ A 
+. We interpret ! as wagest 
+measured in e¢ ciency units of labour. In the case with perfect substitutes, as we shall see 
+below, ! will remain constant over time but as At will evolve over time, real wages wt will change over time. 
+With wt = !At, we can decompose the value functions (1), (2) and (3) for each worker as follows: 
+V 
+E 
+t 
+(1) = AtvEt (1) V 
+E 
+t 
+(0) = AtvEt (0) V 
+US 
+t 
+= AtvUSt : 
+(12) 
+(13) 
+(14) 
+where vEt (e) and vUSt depend on !. Furthermore, we note that in equilibrium the no shirking constraint (4) must bind, therefore 
+vEt (1) = vEt (0): 
+(15) 
+It follows that solving recursively the system given by expressions (14), (13) and (12) for the steady state values of vEt (1); vEt (0) and vUSt and using the equilibrium condition (15), we have 
+! = 
+(1  p (1 
+ (1  (p + (1 
+ q˙))  p)q˙)): 
+(16) 
+We note that for any given q; ! is increasing in ˙- wages in e¢ ciency units are higher 
+the higher the level of anonymity. Now we can determine the equilibrium labor demand. In equilibrium nobody shirks, so the probability of –nding a job for any non employed worker 
+is q; and dL is number of new jobs in the economy, at the same time dN is the ⁄ow of new 
+8 
+
+========9========
+
+employed workers, therefore the equation qdN = dL must hold. Let us then de–ne 
+q = q(L) = 
+L 
+N 
+; 
+(17) 
+Using (16) and (17), we can then rewrite the no shirking constraint as 
+!(L; ˙) = 
+(1  p (1  q(L)˙)) 
+ (1  (p + (1  p)q(L)˙) 
+: 
+(18) 
+from which we note that, di¤erently from the classical model with "e¢ ciency wages", our equilibria are compatible with no unemployment N = L  i.e. it is possible that when 
+q(L) = 1; w < 1 for low values of ˙ i.e. when the degree of anonymity in the market isn™t 
+too high. 
+Moreover, 
+lim !(L; ˙) = 
+(1  p ) L!0  (1  p) 
+ !: 
+independent of the value for ˙. 
+Therefore, as long as 
+(1  p ) 
+  (1 
+< 
+1  r; 
+ p)  
+(19) 
+there is a positive level of steady state employment L for each value of ˙. Further, as 
+(1  p (1  q(L)˙)) is increasing in both L and ˙ and  (1  (p + (1  p)q(L)˙)) is decreasing in both L and ˙ so that the ratio 
+(1  p (1  q(L)˙)) 
+ (1  (p+(1  p)q(L)˙)) 
+is increasing in both L and ˙, an increase in the value of ˙ must lower employment i.e. decrease L. 
+We depict the impact of a changing value of ˙ in Figure 1 below. 
+9 
+
+========10========
+
+SS’’ 
+SS 
+ww 
+ss'' 
+ss 
+ww 
+EE’’ 
+EE 
+ww 
+AA 
+OO 
+LL’’ 
+LL 
+NN 
+Labor market with pefect substititute production factors 
+Figure 1 shows how (11) and (18) determine the equilibrium labor demand. The Non Shirking area is above the upward bending lines, AS and AS™, determined by equation 
+(18). For higher level of ˙ (i.e. higher market anonymity), the line rotates upward, going 
+from AS to AS™. The straight line is the equilibrium wage, characterized by (11). At the equilibrium, the higher degree of anonymity ˙0 corresponds to a lower level of employment L0, as we can see in the –gure comparing equilibrium E0 with equilibrium E. 
+Intuitively, with an increase in anonymity, –rms must o¤er higher wages for a given level of unemployment. However at a higher wage they would prefer to substitute all workers with capital: this is obviously not an equilibrium because with such a high level of unemployment wages can go down so that –rms can reemploy workers until the new level of unemployment is reached at a wage not higher than before. Therefore, with perfect substitutability, the only labor market e¤ect of an increase in the degree of anonymity is a lowering of the level of employment. In the following section, where we relax the assumption of perfect substitutability, we show that the labor market will be also cleared by an increase in equilibrium wages. We will now analyze the e¤ect of anonymity on capital allocation, which will have an impact on productivity in the long-run. Note also that although the 
+10 
+
+========11========
+
+wage in e¢ ciency units ! remains constant, real wages wt will evolve over time as At changes over time. 
+Note from (18) that the equilibrium employment L is not dependent on At and Kt; so that we will write equilibrium employment as a function of the degree of anonymity alone i.e. L(˙), with L0(˙) < 0. Using the demand for capital of a single –rm, (10) and recalling 
+that in equilibrium all –rms are equal, so that Kt = ki;t and L(˙) = li;t for all –rms i at each t, aggregate capital at each time t is determined by the following equation: 
+Kt = 
+(1 
+  
+ )AtL(˙) + 1 r 
+ 1 
+1   
+   
+: 
+(20) 
+Taken together with (6), (20) determines the evolution of capital and technology over time. The following proposition characterizes the dynamics for the case where capital and labour are perfect substitutes: 
+Proposition 1 Under condition (19), the relationship between anonymity, technology and 
+capital in the long-run, when capital and labour are perfect substitutes, is given by the following: 
+(i)For each ˙, there is a unique steady state with a positive capital stock K = K (˙), a positive level of employment L = L(˙), and technology A = a(K (˙)) > 0; 
+(ii) The steady state capital stock K (˙), technology A = a(K (˙)) and real wages w = !a(K (˙)) are all increasing in the degree of anonymity ˙. 
+(iii) The steady state is locally a saddle and further, whenever a0 (K) < 
+ 
+(1  )L(˙) 
+the steady state is locally stable. 
+Proof: See the appendix  
+The above proposition shows that there is a unique positive steady state value of the capital stock K corresponding to each value of ˙. If the degree of anonymity increases to ˙0 > ˙, what are the short-run and long-run e¤ects? With k and l perfect substitutes, wages in e¢ ciency units have to be constant and therefore, the labour market clears after 
+a change in ˙ through a reduction in employment. In turn, a reduction in employment 
+increases the demand for capital and therefore, results in a bigger capital stock, increased real wages and a higher level of technology in the long run. Further, as employment levels 
+for a –xed ˙ do not depend on the current capital stock, if technology is not too sensitive 
+to small change in capital stock, the steady state is locally stable. 
+11 
+
+========12========
+
+In the following section, we relax the assumption of capital and labor being perfect substitutes and show taht the the main results will not change. The main di¤erence is 
+that, after an increase in ˙; the labor market will perhaps more realistically clear through 
+an increase of wages in e¢ ciency unit, !: 
+2.5 Market equilibrium with imperfect substitutes 
+A key assumption that allowed explicit computation of the equations in the above analysis was that capital and labour were perfect substitutes in production. In this part of the paper, we generalize the dynamics to the case where the factors of production are imperfect substitutes. 
+We will assume that the production function F(k; Al) is increasing in both its argu- ments, is strictly concave and smooth in k and l; that F00kl(k; Al) < 0 (i .e. the factors of production are (imperfect) substitutes), and limk!0 Fk = liml!0 Fl = 12. 
+At each t, the –rst order conditions characterizing pro–t maximizing input choices are: 
+Fk(kt; Atlt) = r 
+(21) 
+AtFl(kt; Atlt) = wt: 
+(22) 
+Assume that at each t, wt = !tAt i.e. the market wage is linear in At so that, as before, we can decompose the value functions for each worker with V 
+E 
+t 
+(1) = AtvEt (1), V 
+E 
+= AtvEt (0) and V 
+U 
+t t 
+= AtvU 
+t 
+where vt 
+E 
+(1), vt 
+E 
+(1) and vt 
+U 
+depend on !t. The interpretation of !t = 
+wt 
+A 
+is the same as before (i.e. real wage expressed in e¢ ciency units). Recallingt 
+that in equilibrium all –rms are equal, so that Kt = ki;t and Lt = li;t for all –rms i at each t, we can determine the aggregate equations describing the steady state (where we have 
+used (6)) as follows: 
+Fk(K; A(K)L) = r 
+(23) 
+Fl(K; A(K)L) = !t: 
+(24) 
+2An example of a production function that satis–es all these assumptions is 
+F(k; Al) = (k 
+ 
++ (1 ) (Atl) 
+ 
+) 
+1 
+ 
+, 0 <  < 1, 0 <  < 1. 
+ 
+12 
+
+========13========
+
+with the no shirking constraint (4) 
+! = ! (L; ˙) = 
+(1  p (1 
+ (1  (p + (1 
+ q(L)˙))  p)q(L)˙)): 
+(25) 
+where q(L) = 
+L 
+N 
+. 
+What is the impact of a change in the degree of anonymity ˙ on the steady state values 
+of capital stock, employment and wages? 
+By examining the impact of a higher degree of anonymity on the steady state capital labour ratio and wages, the following proposition generalizes Proposition 1 to the case where capital and labour are imperfect substitutes in production: 
+Proposition 2 Suppose that the production function is concave and satis–es the assump- tion that capital and labour are imperfect substitutes i..e. F00kl(k; Al) < 0. The relationship between anonymity, technological and the equilibrium capital dynamics when capital and 
+labour are imperfect substitutes is given by the following: 
+(i) For each ˙ > 0, there is a unique steady state with positive capital stock K = K (˙) and employment level L = L(˙); 
+(ii) The steady state stock capital labour ratio 
+K 
+L 
+= 
+K(˙) 
+L(˙) 
+, technology A = a(K (˙)) and real wages w = ! (L(˙))a(K (˙)) are all increasing in the degree of anonymity ˙; 
+(iii) Assume that in the vicinity of the steady state, at each t, agents expect that future 
+employment and wage levels will be the same as current employment levels. For each ˙ > 0, the steady state is locally a saddle. Further, there exists 0 <  < 
+ 
+1 such that whenever  <  < 
+ 
+1 the steady state is locally stable. 
+Proof: See the appendix. 
+The above proposition shows that there is a unique positive steady state value of the capital stock K corresponding to each value of ˙. If the degree of anonymity increases to ˙0 > ˙, what are the short-run and long-run e¤ects? 
+Note that in the previous section, with k and l perfect substitutes, wages in e¢ ciency 
+units have to be constant and therefore, the labour market clears after a change in ˙ through 
+a change in employment. Starting from the steady state capital stock and employment 
+corresponding to ˙, with imperfect substitutes in the model, a change in ˙ results in a 
+change in (real) wages in the short-term i.e. in a change in !t (as always At is –xed at t and will change from period t+ 1). In response to an increase in !t, no –rm will substitute 
+13 
+
+========14========
+
+labor with capital entirely given that the marginal productivity of capital will decrease, and the marginal productivity of labour will increase, as more capital is employed. Therefore, when capital and labour are imperfect substitutes in production, wages in e¢ ciency units are no longer held constant and both wages in e¢ ciency units and employment will adjust to clear the labor market. 
+In the long-run, an increase in the anonymity of the labor market results in a shift to a more capital intensive production and higher wages in e¢ ciency units and via technological progress (driven by learning by doing), the steady state capital and real wages associated with a higher level of anonymity (and hence, technology) is also an increasing function of 
+˙. 
+In order to examine the local stability of the steady state, we assume that in the vicinity 
+of the steady state, at each t, agents expect that future employment and wage levels will be 
+the same as current employment levels. Under this assumption, when workers are patient enough, current wages in e¢ ciency units aren™t too sensitive to small changes in current labour market conditions. Therefore, small changes in current labour market conditions do not result in large changes in relative factor prices and therefore, capital stock and technology. Therefore, when workers are patient enough, the steady state is locally stable. 
+3 Historical evidence: the transition to modern eco- 
+nomic growth in Northwest Europe, 1300-1850 
+We now examine the transition to modern economic growth, combining historical evidence with the theoretical model presented in the previous section. We argue that the Commercial Revolution of the early modern period was an important staging post on the road to the Industrial Revolution because of the e¤ects of growing commercialisation on factor prices. Increasing anonymity due to growing commercialisation led to an increase in the price of labour relative to the price of capital, which induced a substitution into a more capital intensive technology and an acceleration of technological progress through learning by doing. We argue further that the fact that commercialisation went further in Britain than in the rest of Europe helps to explain why the Industrial Revolution occurred –rst in Britain. 
+14 
+
+========15========
+
+3.1 Growing commercialisation 
+The growing commercialisation of the European economy can most easily be captured quantitatively in the share of the population living in urban areas, since towns were the centres of commerce. Table 1 provides data on the share of the population living in towns of at least 10,000 inhabitants. For Europe as a whole, the trend is unmistakably upwards from 1400. Looking at regional trends, however, urbanization shows a pattern of divergence within Europe. In the late medieval period, there were two main urban centres of commerce in north Italy and in the Low Countries. While urbanization stalled in north Italy after 1500, there was a brief surge in Portugal and to a lesser extent Spain during the sixteenth century, following the opening up of the new trade routes to Asia and the New World. However, the most dramatic growth of urbanization in the early modern period occurred in the Netherlands in the sixteenth and seventeenth centuries and in England during the seventeenth and eighteenth centuries as those countries displaced the Iberian powers in long distance trade and commercialized their domestic economies to an unprecedented extent. 
+This growth of commercialisation had implications for the degree of anonymity in eco- nomic relations, in factor markets as well as in product markets and this, in turn, had implications for wages. When workers were employed in small-scale enterprise in rural lo- cations where they formed part of a close-knit community, the problem of securing e¤ort from workers could be solved through reliance on customary relations backed up by close supervision. As people moved to towns where they were unknown to their neighbors and potential employers, it became necessary for employers to –nd new ways to elicit e¤ort. 
+In the model above, this is captured by a change in ˙, the degree of anonymity in the 
+economy, which lies at the heart of the no-shirking constraint equations (18) and (25). 
+One approach to dealing with this increase in the degree of anonymity in market based relationships, which was widely adopted in large urban enterprises during the early stages of the Industrial Revolution, was payment by results or piece rates (Pollard, 1965: 189-191). Of course, piece rates had also been used in a rural setting during the early modern period as part of the putting out system, but their ﬁdiscoveryﬂin the context of urban industry in the eighteenth century was often greeted as ﬁan innovation of major signi–canceﬂ(Pollard, 1965: 190). However, as Huberman (1996: 17-32) points out, attempts to manage the wage-e¤ort bargain through piece rate payments in early nineteenth century Lancashire often met with little success unless accompanied by the payment of an e¢ ciency wage 
+15 
+
+========16========
+
+above the spot-market rate. Rather than risk the prospect of losing a job with a wage above the spot market rate, a worker employed at the e¢ ciency wage is deterred from 
+shirking (Shapiro and Stiglitz, 1984).3 
+3.2 Changing factor prices 
+Table 2 sets out the pattern of silver wages in Europe. The silver wage is the silver content of the money wage in the local currency, and is useful for comparing wages across countries on a silver standard. Note –rst that Northwestern Europe saw substantial silver wage growth in the century after the Black Death of the mid-fourteenth century and again during the early modern period after 1500, as well as during the Industrial Revolution period from the mid-eighteenth century, when Britain –nally overtook the Netherlands decisively. Second, note that although southern Europe shared in the rise in the silver wage following the Black Death, from the mid –fteenth century the region was characterized more by ⁄uctuations than by trend growth in the silver wage. Third, central and eastern Europe were also characterized more by ⁄uctuations than by trend growth in the silver wage from the mid- fourteenth century. This is the pattern that would be expected from the conventional economic history of Europe, with the Mediterranean region playing the leading economic role during the –rst half of the millennium, but with northwest Europe forging ahead after 1500. 
+We have focused so far on wage di¤erences within Europe, but a complete picture of the transition to modern economic growth also requires a consideration of wage di¤erences between Europe and Asia. Broadberry and Gupta (2006) provide some evidence of this Great Divergence in the form of silver wage di¤erences, shown here in Table 3. Silver wages in India and the Yangzi delta region of China were already lower than those in England by the beginning of the seventeenth century, and then fell further behind. Contrary to the revisionist claims of Pomeranz (2000), Parthasarathi (1998) and Frank (1998) that the richest parts of Asia remained at the same level of development as the richest parts of 
+3Although the Lancashire market for labour in cotton spinning in the early nineteenth century has often been portrayed as the archetypal spot market, Huberman (1996) cautions against this interpretation, arguing that it was more myth than reality. It is, moreover, a myth which is di¢ cult to square with the central –nding that has emerged from the new focus on comparative levels of real wages in Europe: that Britain was a high wage economy at the time of the Industrial Revolution (Allen, 2001; Broadberry and Gupta, 2006). 
+16 
+
+========17========
+
+Europe until as late as 1800, they appear closer to the poorer parts of Europe. 
+We are interested in the incentives to adopt capital intensive technology. Hence we need also to examine the cost of capital, an important element of which is the rate of interest. Nominal interest rates for a number of countries are presented in Table 4. Note that interest rates changed together across Europe, it therefore reasonable to assume them exogenous with respect to each single European economy, so that intra-European di¤erences in the factor price ratio were driven by wage rate changes, as highlighted in our model. Table 4 suggests a rate of interest in Europe around 10% in the late medieval period, falling to 5-6% in the aftermath of the Black Death, 1350-1400. There was a further reduction in European rates of interest during the –rst half of the eighteenth century, to around 3-4%. By this point, interest rates were substantially lower in Europe than in other parts of the world such as India, where rates remained at medieval rates. Growing commercialisation was thus accompanied by declining interest rates. The downward trend of interest rates in Europe, combined with the increase in wages, translates into an increase in the wage/cost of capital ratio, raising the incentives to substitute capital for labour in production. The greater increase of wage rates in northwest Europe meant that the incentive to adopt capital intensive production methods was also greater in that region. 
+3.3 Factor prices and technology 
+Recent work by Broadberry and Gupta (2006; 2009) and by Allen (2009) emphasize the important role of factor prices in explaining the key technological choices of the Industrial Revolution period. Broadberry and Gupta (2009) analyze the shift of competitive advan- tage in cotton textiles between India and Britain. India was the world™s major producer and exporter of cotton textiles during the early modern period, but was displaced from this position by Britain during the Industrial Revolution. Broadberry and Gupta (2009) point to the much higher wages in Britain than in India already in the late seventeenth century, when Indian cotton textiles were imported into Britain by the East India Company. This can be seen in the –rst column of Table 5. Combined with the smaller di¤erences in the cost of raw cotton and the cost of capital, this presented British producers with a severe total factor input (TFI) price disadvantage. To get to a point where the free on board price was cheaper in Britain, required a shift to more capital intensive technology and a sustained period of technological progress to increase total factor productivity (TFP). For much of 
+17 
+
+========18========
+
+the eighteenth century, the ⁄edgling British cotton industry required protection, although the point at which the shift in competitive advantage from India to Britain occurred varied by type of yarn or cloth (as a result of di¤erent input costs) and by market (as a result of transport costs). 
+Once the shift to capital-intensive technology had occurred, technological progress ac- celerated, as implied by equation (6) in the model. In Table 5, TFP growth shifted in Britain™s favour at an annual rate of 0.3 per cent before 1770, rising to 1.5 per cent during the period 1770-1820. This would be quite consistent with the 1.9 per cent per annum TFP growth rate estimated by Harley (1993: 200) for the British cotton industry between 1780 and 1860, together with slowly rising or stagnating productivity in India. This acceleration of TFP growth following the shift to capital intensive technology can be explained by the greater potential for learning on capital intensive technology. 
+3.4 Real economic development 
+In Table 2, we examined the path of silver wages. However, an analysis of the transition to modern economic growth would not be complete without considering the path of real con- sumption wages and GDP per capita. The real consumption wage is obtained by dividing the silver wage with the silver price of basic consumption goods. Real consumption wages of European unskilled building labourers for the period 1300-1850 are shown in Table 6, taking London in the period 1500-49 as the numeraire. The –rst point to note is that real wages followed a similar pattern across the Black Death in the whole of Europe. Complete time series exist for comparatively few cities before 1500, but there is also scattered evidence for other cities. Taken together, the evidence supports the idea of a substantial rise in the real wage across the whole continent of Europe following the Black Death, which struck in the middle of the fourteenth century, wiping out between a third and a half of the popula- tion, when successive waves of the plague are cumulated (Herlihy, 1997). This episode of European economic history is thus broadly consistent with the Malthusian model, with a strong negative relationship between real wages and population (Postan, 1972: 27-40). In the –rst half of the –fteenth century, the real wage was quite uniform across the countries for which we have data, at about twice its pre-Black Death level. From the second half of the –fteenth century, however, Britain and Holland followed a very di¤erent path from the rest of Europe, maintaining real wages at the post-Black Death level and avoiding the 
+18 
+
+========19========
+
+collapse of real wages which occurred on the rest of the continent as population growth returned. Considering that in the same period Britain and Holland witnessed an increase in the level of urbanization, as noted above, we can argue that the anonymity is a candidate to explain this persistence in high wages. 
+Table 7 presents the results of the latest research on the reconstruction of national in- come during the late medieval and early modern periods in a number of countries. The GDP per capita data show northwest Europe pulling ahead of the previously more de- veloped Mediterranean Europe from the late sixteenth century. The national income data thus reinforce the conclusion from the silver wage and real wage data and from urbanization rates that Britain and Holland followed a di¤erent path from Italy and Spain. The Indian data con–rm the conventional view that the Great Divergence was already underway during the early modern period, as Europe embarked upon a period of growing commercialisation which would ultimately end up with the Industrial Revolution and the transition to modern economic growth. 
+3.5 A simple econometric test 
+Our hypothesis is that urbanization led to high wages throughout Europe, in the short-run through the e¢ ciency wage channel (increasing !t), and in the longer term because of the improved technology At. So far we have reviewed evidence showing that the urbanization, wage rate and GDP per capita data are related in a way which is at least consistent with the direction of causality proposed in the model. In what follows, we will estimate a simple econometric model linking real wages and urbanization. 
+There are at least two main problems in establishing causality from urbanization to wages: (i) a possible omitted variable bias since wages and urbanization can both be a by-product of underlying economic trends e.g. cycles or technological improvements, or other shocks; (ii) a possible problem of endogeneity, given that urbanization can be the e¤ect rather than the cause of higher wages. 
+Given the constraints of available data, we will address (i) by controlling for country GDP and introducing the year –xed e¤ect in the regressors, and (ii) by instrumenting 
+urbanization at time t, with urbanization 50 years before. 
+19 
+
+========20========
+
+Therefore, we estimate the following equation: 
+wagei;t = ci +   gdpi;t: +   urbanizationi;t + yeart + "i;t; 
+(26) 
+where index i indicates the city, and t indexes time. 
+Data on wages are aggregated at city level and are taken from table 2, while data on 
+urbanization; aggregated at country level, are from table 1. The variable gdp is the per 
+capita gross domestic product displayed in table 7, as we said this provides a control for the idiosyncratic economic cycles and technology, the years dummies yeart control for the e¤ects generated by common shocks. Dummy variable ci controls for city –xed e¤ects. 
+Table 8 displays the results of the estimations. Column 1 shows the above described pattern between wages and urbanization, column 2 shows that this relation is still signi–cant when we control for the aggregate shocks by introducing the year e¤ect. In column 3 we introduce country GDP to control for some country level omitted variable. In column 4 we use a two stage least squares estimator by using urbanizationt 
+ 1 
+(therefore 50 years before) as an instrument for urbanizationt: Finally in column 5 we introduce the wages at time t  1 in the 2SLS estimation to control for the e¤ect of wages™serial correlations. In all speci–cations and consistently with our model, the coe¢ cient of urbanization is positive and highly signi–cant. 
+4 Concluding comments 
+We have argued that commercialisation played a pivotal role in the transition to modern economic growth. We see the growing commercialisation of the late medieval and early modern periods as leading to the acceleration of technological progress during the Industrial Revolution period via its e¤ects on factor prices. The argument can be summarized as follows: (1) Commercialisation raised wages as a growing reliance on impersonal labour market relations in place of customary relations with a high degree of monitoring led to the adoption of e¢ ciency wages. (2) The resulting rise in the wage/cost of capital ratio led to the adoption of a more capital-intensive production technology. (3) This led to a faster rate of technological progress through greater learning by doing on the capital intensive technology. 
+20 
+
+========21========
+
+References 
+[1] Acemoglu, D., Johnson, S. and Robinson, J. (2005), ﬁThe Rise of Europe: Atlantic 
+Trade, Institutional Change and Economic Growthﬂ, American Economic Review, 
+95, 546-579. 
+[2] Aghion, P. and Howitt, P. (1998), Endogenous Growth Theory, Cambridge, Mass.: 
+MIT Press. 
+[3] Allen, R.C. (2000), ﬁEconomic Structure and Agricultural Productivity in Europe, 
+1300-1800ﬂ, European Review of Economic History, 4, 1-26. 
+[4] Allen, R.C. (2001), ﬁThe Great Divergence in European Wages and Prices from the 
+Middle Ages to the First World Warﬂ, Explorations in Economic History, 38, 411- 
+447. 
+[5] Allen, R.C. (2009), The British Industrial Revolution in Global Perspective, Cam- 
+bridge: Cambridge University Press. 
+[6] Arrow, K.J. (1962), ﬁThe Economic Implications of Learning by Doingﬂ, Review of 
+Economic Studies, 29, 155-173. 
+[7] Banerjee A.V., and A.F. Newman (1998). ﬁInformation, the Dual Economy, and De- 
+velopment,ﬂReview of Economic Studies 64, 631-653. 
+[8] Bates, R.H., Greif, A,. Levi, M., Rosenthal, J.-L. and Weingast, B.R. (1998), Analytic 
+Narratives, Princeton: Princeton University Press. 
+[9] Blackwell, D. (1965), ﬁDiscounted Dynamic Programming,ﬂAnnals of Mathematical 
+Statistics 36, 226Œ235. 
+[10] Braudel, F.P. and Spooner, F. (1967), ﬁPrices in Europe from 1450 to 1750ﬂ, in Rich, 
+E.E. and Wilson, C.H. (eds.), The Cambridge Economic History of Europe, Vol. IV: 
+The Economy of Expanding Europe in the Sixteenth and Seventeenth Centuries, 
+Cambridge: Cambridge University Press, 374-486. 
+[11] Brenner, R. (1982), ﬁThe Agrarian Roots of European Capitalismﬂ, Past and Present, 
+97, 16-113. 
+[12] Britnell, R.H. and Campbell, B.M.S. (eds.) (1995), A Commercialising Economy: Eng- 
+land 1086 to c.1300, Manchester: Manchester University Press. 
+21 
+
+========22========
+
+[13] Broadberry, S.N. (1997), The Productivity Race: British Manufacturing in Interna- 
+tional Perspective, 1850-1990, Cambridge: Cambridge University Press. 
+[14] Broadberry, S.N., Campbell, B., Klein, A, Overton, M. and van Leeuwen, B. (2011), 
+ﬁBritish Economic Growth, 1270-1870ﬂ, London School of Economics. 
+[15] Broadberry, S.N. and Gupta, B. (2006), ﬁThe Early Modern Great Divergence: Wages, 
+Prices and Economic Development in Europe and Asia, 1500-1800ﬂ, Economic 
+History Review, 59, 2-31. 
+[16] Broadberry, S.N. and Gupta, B. (2009), ﬁLancashire, India and Shifting Competitive 
+Advantage in Cotton Textiles, 1700-1850: The Neglected Role of Factor Pricesﬂ, 
+Economic History Review, (forthcoming), 
+[17] Broadberry, S.N. and Gupta, B. (2011), ﬁIndia and the great Divergence: An Anglo- 
+Indian Comparison of GDP per capita, 1600-1871ﬂ, London School of Economics 
+and University of Warwick, 
+[18] Clark, G. (1988), ﬁThe Cost of Capital and medieval Agricultural techniqueﬂ, Explo- 
+rations in Economic History, 25, 265-294. 
+[19] Cole, A.H. and Crandall, R. (1964), ﬁThe International Scienti–c Committee on Price 
+Historyﬂ, Journal of Economic History, 24, 381-388. 
+[20] Crafts, N.F.R. (1985), British Economic Growth during the Industrial Revolution, 
+Oxford: Clarendon. 
+[21] David, P.A. (1975), Technical Choice, Innovation and Economic Growth, Cambridge: 
+Cambridge University Press. 
+[22] Deane, P. and Cole, W.A. (1967), British Economic Growth, 1688-1959, (2nd edition), 
+Cambridge: Cambridge University Press. 
+[23] Dutton, H.I. (1984), The Patent System and Inventive Activity During the Industrial 
+Revolution, 1750-1852, Manchester: Manchester University Press. 
+[24] Epstein, S.R. (2000), Freedom and Growth: The Rise of States and Markets in Europe, 
+1300-1750, Abingdon: Routledge. 
+[25] Frank, A.G. (1998), ReOrient: The Silver Age in Asia and the World Economy, Berke- 
+ley: University of California Press. 
+22 
+
+========23========
+
+[26] Fremdling, R. (2000), ﬁTransfer Patterns of British Technology to the Continent: The 
+Case of the Iron Industryﬂ, European Review of Economic History, 4, 195-222. 
+[27] Greif, A. (1994), ﬁCultural Beliefs and the Organization of Society: A Historical and 
+Theoretical Re⁄ection on Collectivist and Individualist Societiesﬂ, Journal of Po- 
+litical Economy, 102, 912-950. 
+[28] Habakkuk, H.J. (1962), American and British Technology in the Nineteenth Century, 
+Cambridge: Cambridge University Press. 
+[29] Harley, C.K. (1993), ﬁReassessing the Industrial Revolution: A Macro Viewﬂ, in 
+Mokyr, J. (ed.), The British Industrial Revolution: An Economic Perspective, 
+Boulder, Colorado: Westview, 171-226. 
+[30] Herlihy, D. (1997), The Black Death and the Transformation of the West, Cambridge, 
+MA: Harvard University Press. 
+[31] Hicks, J.R. (1932), The Theory of Wages, London: Macmillan. 
+[32] Huberman, M. (1996), Escape from the Market: Negotiating Work in Lancashire, 
+Cambridge: Cambridge University Press. 
+[33] Maddison, A. (2003), The World Economy: Historical Statistics, Paris: Organisation 
+for Economic Co-operation and Development. 
+[34] Malanima, P. (2009), Pre-Modern European Economy: One Thousand Years (10th - 
+19th Centuries, Leiden: Brill. 
+[35] Malanima, P. (2011), ﬁThe Long Decline of a Leading Economy: GDP in Central and 
+Northern Italy, 1300-1913ﬂ, European Review of Economic History, (forthcoming). 
+[36] MacLeod, C. (1988), Inventing the Industrial Revolution: The English Patent System, 
+1660-1800, Cambridge: Cambridge University Press. 
+[37] Mendels, E. (1972), ﬁProto-industrialisation: The First Phase of the Industrialisation 
+Process?ﬂ, Journal of Economic History, 32, 241-261. 
+[38] Moosvi, S. (2001), ﬁThe Indian Experience 1600-1900: A Quantitative Studyﬂ, in 
+Panikkar, K.N., Byres, T.J. and Patnaik, U. (eds.), The Making of History: Essays 
+Presented to Irfan Habib, New Delhi: Tulika, 328-358. 
+[39] Neal. L. (1990), The Rise of Financial Capitalism: International Capital Markets in 
+the Age of Reason, Cambridge: Cambridge University Press. 
+23 
+
+========24========
+
+[40] Pamuk, S. (2007), ﬁThe Black Death and the Origins of the ‚Great Divergence™across 
+Europe, 1300-1600ﬂ, European Review of Economic History, 11, 289-317. 
+[41] Parthasarathi, P. (1998), ﬁRethinking Wages and Competitiveness in the Eighteenth 
+Century: Britain and South Indiaﬂ, Past and Present, 158, 79-109. 
+[42] P–ster, U. (2009), ﬁGerman Economic Growth, 1500-1850ﬂ, Historisches Seminar, 
+Westfälische Wilhelms-Universität Münster. 
+[43] Phelps Brown, H. and Hopkins, S.V. (1981), A Perspective of Wages and Prices, 
+London: Methuen. 
+[44] Polanyi, K. [1944] (1957), The Great Transformation, London: Bacon Hill. 
+[45] Pollard, S. (1965), The Genesis of Modern Management: A Study of the Industrial 
+Revolution in Great Britain, London: Arnold. 
+[46] Pomeranz, K. (2000), The Great Divergence: China, Europe, and the Making of the 
+Modern World Economy, Princeton, NJ: Princeton University Press. 
+[47] Postan, M. (1972), The Medieval Economy and Society: An Economic History of 
+Britain in the Middle Ages, London: Weidenfeld and Nicolson. 
+[48] Romer, Paul M. (1986): ﬁIncreasing Returns and long-run Growth,ﬂJournal of Polit- 
+ical Economy, 94, 1002Œ37. 
+[49] Rothbarth, E. (1946), ﬁCauses of the Superior E¢ ciency of USA Industry as Compared 
+with British Industryﬂ, Economic Journal, 56, 383-390. 
+[50] Shapiro, C. and Stiglitz, J.E. (1984), ﬁEquilibrium Unemployment as a Worker Disci- 
+pline Deviceﬂ, American Economic Review, 74, 433-444. 
+[51] Sullivan, R.J. (1989), ﬁEngland™s ‚Age of Invention™: The Acceleration of Patents and 
+patentable Invention during the Industrial Revolutionﬂ, Explorations in Economic 
+History, 26, 424-452. 
+[52] Toynbee, A. (1890), Lectures on the Industrial Revolution of the 18th Century in 
+England, (third edition), London: Longmans, Green. 
+[53] Voth, H.-J. (1998), ﬁTime and Work in Eighteenth-Century Londonﬂ, Journal of Eco- 
+nomic History, 58, 29-58. 
+[54] de Vries, J. (1994), ﬁThe Industrial Revolution and the Industrious Revolutionﬂ, Jour- 
+nal of Economic History, 54, 249-270. 
+24 
+
+========25========
+
+[55] de Vries, J. and van der Woude, A. (1997), The First Modern Economy: Success, Fail- 
+ure, and Perseverance of the Dutch Economy, 1500-1815, Cambridge: Cambridge 
+University Press. 
+[56] van Zanden, J.L. (1999), ﬁWages and the Standard of Living in Europe, 1500-1800ﬂ, 
+European Review of Economic History, 3, 175-97. 
+[57] van Zanden, J.L. (2006), ﬁCobb-Douglas in Early Modern Europe: Simulating Pre- 
+industrial Growthﬂ, Paper presented at International Economic History Congress, 
+Helsinki. 
+[58] Zeira, J., ‚Workers, machines, and economic growth™, Quarterly Journal of Economics, 
+113 (1998), pp.1091-1117. 
+25 
+
+========26========
+
+TABLE 1: European urbanization rates (%) 
+1300 1400 1500 1600 1700 1750 1800 1870 
+Northwestern Europe 
+Scandinavia Œ Œ 0.7 2.1 4.3 4.6 4.6 5.5 
+England (Wales) 4.0 2.5 2.3 6.0 13.2 16.4 22.1 43.0 
+Scotland Œ Œ 2.3 1.5 5.3 11.5 23.9 36.3 
+Ireland 0.8 2.1 Œ 1.0 5.1 5.1 7.3 14.2 
+Netherlands Œ Œ 17.1 29.5 32.5 29.6 28.6 29.1 
+Belgium 18.2 21.9 17.6 15.1 20.2 16.5 16.6 25.0 
+France 5.2 4.7 5.0 6.3 8.7 8.7 8.9 18.1 
+Southern Europe 
+Italy CN 18 12.4 16.4 14.4 13 13.6 14.2 13.4 
+Italy SI 9.4 3.3 12.7 18.6 16.1 19.4 21 26.4 
+Spain 12.1 10.2 11.4 14.5 9.6 9.1 14.7 16.4 
+Portugal 3.6 4.1 4.8 11.4 9.5 7.5 7.8 10.9 
+Central-Eastern Europe 
+Switzerland 3.0 2.0 2.8 2.7 3.3 4.6 3.7 8.2 
+Austria (Czech, Hung) 0.6 0.5 0.8 1.6 1.7 2.6 3.1 7.7 
+Germany 3.4 3.9 5.0 4.4 5.4 5.7 6.1 17.0 
+Poland 1.0 1.3 5.4 6.6 3.8 3.4 4.1 7.8 
+Balkans 5.2 4.6 7.7 13.3 14 12.3 9.8 10.6 
+Russia (European) 2.1 2.3 2.0 2.2 2.1 2.5 3.6 6.7 
+EUROPE 5.4 4.3 5.6 7.3 8.2 8.0 8.8 15.0 
+Source: Paolo Malanima (private communication). 
+26 
+
+========27========
+
+TABLE 2: Daily silver wages of European unskilled building laborers (grams of silver per day) 
+1300 1350 1400 1450 1500 1550 1600 1650 1700 1750 1800 
+Northwestern Europe 
+London 2.9 3.4 4.5 3.8 3.2 4.6 7.1 9.7 10.5 11.5 17.7 
+Amsterdam 3.1 4.7 7.2 8.5 8.9 9.2 9.2 
+Antwerp 3.5 3.1 3.0 5.9 7.6 7.1 6.9 6.9 7.7 
+Paris 2.8 5.5 6.6 6.9 5.1 5.2 9.9 
+Southern Europe 
+Valencia 5.6 5.2 4.2 6.6 8.8 6.9 5.7 5.1 Œ 
+Madrid Œ 6.3 8.0 Œ 5.1 5.3 8.0 
+Florence/Milan 2.2 4.5 3.8 3.5 2.9 3.8 4.7 4.1 3.2 2.9 3.1 
+Naples 3.3 3.5 5.3 4.8 4.8 3.8 3.8 
+Central-Eastern Europe 
+Gdansk 2.1 2.1 3.8 4.3 3.8 3.7 4.8 
+Warsaw Œ 2.5 3.2 2.7 1.9 3.4 4.9 
+Krakow 2.7 2.1 1.9 2.9 3.4 2.9 2.2 2.9 2.4 
+Vienna 4.0 3.2 2.7 2.6 4.4 3.5 3.2 3 2.1 
+Leipzig Œ 1.9 3.5 3.9 3.7 3.1 4.4 
+Augsburg 2.1 3.1 4.0 4.7 4.2 4.3 Œ 
+Source: Broadberry and Gupta (2006: 7); 
+derived from the database underlying Allen (2001: 429). 
+27 
+
+========28========
+
+TABLE 3: Silver wages of unskilled labourers (grams of silver per day) 
+A. Silver wages in England and India 
+Date England India India/England 
+1550-99 3.4 0.7 0.21 1600-49 4.1 1.1 0.27 1650-99 5.6 1.4 0.25 1700-49 7.0 1.5 0.21 1750-99 8.3 1.2 0.14 1800-49 14.6 1.8 0.12 
+B. Silver wages in England and China 
+Date England China China/England 
+1550-1649 3.8 1.5 0.39 
+1750-1849 11.5 1.7 0.15 
+Source : Broadberry and Gupta (2006) 
+TABLE 4: Interest rates (% per annum) 
+England Flanders France Italy Germany India 
+1201-1250 1251-1300 1301-1350 1351-1400 1401-1450 1451-1500 1501-1550 1551-1600 1601-1650 1651-1700 1701-1750 1751-1800 
+10.3 10.8 8.6 
+10.2 10 11.1 10.6 10.8 11.2 12.9 10.1 4.5 8.1 9.7 
+9.6 8.5 4.0 6.4 9.2 7.6 6.5 4.6 8.2 5.3 6.0 4.3 8.3 
+6.0 3.9 6.6 
+5.3 4.4 8 4.3 3.8 4.2 10 4.0 2.7 4.8 4.7 12 
+Source: Clark (1988: 273-274); Moosvi (2001: 337-9, 342, 351-2). 
+28 
+
+========29========
+
+TABLE 5: Comparative GB/India costs and prices (India =100) A. Cost 
+Wage Raw Cotton P Cost of Capital TFI Price W/W* C/C* R/R* 
+c.1680 400 182 137 206 c.1770 460 320 113 270 c.1790 663 480 106 357 c.1820 517 127 61 150 
+B. Prices and TFP 
+TFI price FOB TFP 
+Price P/P* A/A* 
+c.1680 206 200 103 c.1770 270 200 135 c.1790 357 147 243 c.1820 150 53 283 
+Source: Broadberry and Gupta (2009). 
+29 
+
+========30========
+
+TABLE 6: Daily real consumption wages of European unskilled building labourers (London 1500-49 = 100) 
+1300 1350 1400 1450 1500 1550 1600 1650 1700 1750 1800 
+Northwestern Europe 
+London 57 75 107 113 100 85 80 96 110 99 98 
+Amsterdam 97 74 92 98 107 98 79 
+Antwerp 101 109 98 88 93 88 92 88 82 
+Paris 62 60 59 60 56 51 65 
+Southern Europe 
+Valencia 108 103 79 63 62 53 51 41 
+Madrid 56 51 58 42 
+Florence/Milan 44 87 107 77 62 53 57 51 47 35 26 
+Naples 73 54 69 88 50 33 
+Central-Eastern Europe 
+Gdansk 78 50 69 72 73 61 40 
+Warsaw 75 66 72 45 64 82 
+Krakow 92 73 67 74 65 67 58 63 40 
+Vienna 115 101 88 60 61 63 61 50 27 
+Leipzig 34 35 57 53 44 53 
+Augsburg 62 50 39 63 55 50 
+Source: Broadberry and Gupta (2006: 7); 
+derived from the database underlying Allen (2001: 429). 
+30 
+
+========31========
+
+TABLE 7: GDP per capita levels (in 1990 international dollars) 
+1250 1300 1350 1400 1450 1500 1550 1600 1650 1700 1750 1800 1850 
+Northwestern Europe 
+England 737 730 767 1095 1172 1164 1138 1144 1215 1649 1688 2085 3006 
+Holland 876 1195 1373 1454 1432 2662 2691 2105 2355 2408 1886 
+Belgium 929 1089 1073 1203 1264 1357 1497 
+France 727 841 986 1230 
+Southern Europe 
+Spain 1249 1249 1388 1145 1160 1160 1294 1219 1175 1145 1190 1249 1487 
+Italy 1482 1376 1601 1668 1403 1337 1244 1271 1350 1403 1244 1350 
+Central-Eastern Europe 
+Germany 1332 894 1130 1068 1162 1140 1428 
+Poland 462 516 566 636 
+Austria 707 837 993 1218 
+India 684 648 630 587 576 560 
+Source: Netherlands: van Leuwen and van Zanden (2009); France, Austria, Poland: Madison (2005) 
+Italy: Malanima (2009b); Belgium: Buyst (2009), Blomme and van der Wee (1994); Germany: P–ster (2009); 
+Spain: Álvarez-Nogal and Prados de la Escosura (2009); India: Broadberry and Gupta (2011). 
+31 
+
+========32========
+
+Table 8: E¤ect of Urbanization on Wages: Independent Variable is wage in the main europen cities. In columns 4 and 5, urbanization is instrumented by using urbanization 50 years before. (std errors in brackets) 
+OLS OLS OLS 2SLS 2SLS 
+(1) 1300-1800 (2) 1300-1800 (3) 1300-1800 (4) 1300-1800 (5) 1300-1800 
+b/se b/se b/se b/se b/se Urbanization 0.459*** 0.360*** 0.318*** 0.649*** 0.658*** 
+(0.061) (0.056) (0.073) (0.158) (0.195) GDP 0.002* 0.005*** 0.004 
+(0.001) (0.002) (0.004) Wage[t-1] 0.226 
+(1.065) Year e¤ects No Yes Yes Yes Yes City e¤ects Yes Yes Yes Yes Yes 
+N 74 74 66 20 20 
+32 
+
+========33========
+
+A Appendix 
+A.1 Proof of Proposition 1: 
+(i) It follows from (6) and (20) that the steady state level of capital stock K must be the 
+solution to the equation 
+K = f(K) 
+(27) 
+r 
+ 1 
+where f(K) =  
+(1  ) 
+ 
+a(K)L(˙) + 
+1 
+ 
+1   
+  
+. The LHS of (27) is increasing in K while 
+(1  ) 1 
+ 
+r 
+1 
+f0(K) =  
+ 
+a0(K)L(˙) < 0 as a0(K) > 0. Moreover, limK!0 f(K) = 
+1   
+  
+> 0. Therefore, there exists a unique positive steady state capital stock K and technology a(K). 
+(ii) The steady state capital stock satis–es the equation 
+K = 
+(1 
+  
+ )a(K)L(˙) + 1 r 
+ 1 
+1   
+   
+By taking the total derivative of the preceding equation with respect to K and ˙ we obtain 
+that 
+dK 
+(1  )a(K)L0(˙) 
+ 
+ 
+d˙ 
+= 
+1 + 
+(1  ) 
+> 0 
+ 
+a0(K)L(˙) 
+as L0(˙) < 0 (from (18)) and a0(K) > 0 (by assumption). 
+(iii) Examining the local stability of the steady state requires us to linearize the equa- tions (6) and (20) at the steady state to obtain 
+2 32 3 2 
+4 
+1  
+(1  ) 
+ 
+L(˙) 
+54 
+dKt 
+5 
+= 
+4 
+0 0 
+0 1 dAt ˆa0(K) 1  ˆ 
+32 3 54 
+dKt 
+ 1 
+5 
+dAt 
+ 1 
+so that 
+2 3 2 32 4 
+dKt 
+5 
+= 
+4 
+1 
+(1  )L(˙) 
+ 
+54 
+dAt 0 1 
+0 0 ˆa0(K) 1  ˆ 
+32 3 54 
+dKt 
+ 1 
+5 
+dAt 
+ 1 
+which after further simpli–cation yields 
+2 3 2 32 3 
+(1 
+4 
+dKt 
+ )L(˙)ˆa0(K) (1 
+5 
+= 
+4 
+ 
+ ˆ) 
+(1  ) 
+ 
+L(˙) 
+54 
+dKt 
+ 1 
+5: 
+dAt ˆa0(K)0 1  ˆ dAt 
+ 1 
+33 
+
+========34========
+
+By computation, it is easily checked that the determinant of the matrix on the RHS of the preceding equation is zero so that if 1 and 2 denote the two eigenvalues of the said matrix, 
+12 
+1 + 2 
+= 0; 
+= 
+(1  )L(˙)ˆa0(K) + (1 
+ 
+ ˆ) 
+so that the steady state is always a saddle and is a sink if 
+(1  ) 
+ 
+L(˙)ˆa0(K) + (1 or equivalently, a0(K) < 
+ 
+(1  )L(˙). 
+ ˆ) < 1 
+A.2 Proof of Proposition 2: 
+(i) We –rst show that there is a unique positive steady state capital stock K and that employment level L exists. Note that the steady state is a solution to the equations: 
+Fk(K; a(K)L) = r; 
+Fl(K; A(K)L) = ! (L; ˙): 
+Consider the equation Fk(K; a(K)L) = r. Under the assumption that Fkk < 0, Fll < 0, Fkl < 0, a0 (K) > 0 from the equation Fk(K; a(K)L) = r there exists an implicit function g1(L) = K with 
+g01(L) =  
+a(K)Fkl 
+Fkk + Fkla0 (K) 
+< 0 
+while from the equation Fl(K; a(K)L) = ! (L; ˙) there exists an implicit function g2(L) = K with 
+g02(L) =  
+a(K)Fll + !l (L; ˙) 
+Fkk + Fkla0(K) 
+< 0: 
+Steady state employment L is the solution to g3(L) = g2(L)  g1(L) = 0. As limk!0 Fk = liml!0 Fl = 1, limL!0 g3(L) = 1 while limL!1 g3(L) = 0 so that there exists L = L(˙) > 0 such that g3(L) = g2(L)  g1(L) = 0. Finally, note that K = K (˙) = g2(L) = g1(L) > 0. 
+(ii) We examine how the steady state values of the key endogenously determined vari- 
+ables change due to changes in ˙. After substituting for wages using the no shirking constraint (4) and noting that at the steady state A(K) = a(K), the total derivative of 
+34 
+
+========35========
+
+(23) and (24) at the steady state is given by the expression 
+2 
+ 
+4 
+Fkk + Fkla0(K) 
+Fkl + Flla0(K) 
+Fkla(K) 
+Flla(K) 
+ !l 
+32 3 2 3 
+ 
+54 
+dK 
+5 
+= 
+4 
+0 
+5d˙ 
+dL !˙ 
+where !˙ = !˙ (L; ˙). The determinant, D0, of the preceding matrix can be written as 
+D0 = 
+ (Fkk + Fkla0(K))!l + a(K) FkkFll 
+ 
+ (Fkl)2 > 0 
+as F(:) is strictly concave, Fkl < 0, a0(K) > 0 and !l > 0. Therefore, 
+2 3 2 
+ 
+4 
+dK 
+5 
+= 
+1 
+4D0 
+dL 
+Flla(K) 
+ !l 
+ Fkl + Flla0(K) Fkk + Fkla0(K) 
+so that 
+2 
+3 
+2 
+ Fkla(K) 
+32 3 54 
+0 
+5d˙ 
+!˙ 
+3 
+ Fkla(K)!˙ 
+ 
+4 
+dK 
+5 
+= 
+1 
+4 5D0 
+d˙ 
+(Fkk + Fkla0(K))!˙ 
+dL 
+and 
+dK d˙ dL d˙ 
+= 
+Fkla(K)!˙ 
+ 
+ 
+D0 
+> 0 
+ 
+= 
+(Fkk + Fkla0(K))!˙ 
+D0 
+< 0 
+as, from (25), !˙ > 0. 
+(iii) In order to characterize the local stability of the steady state, we need to characterize 
+how real wages wt change in the vicinity of the steady state as equilibrium employment Lt 
+changes. 
+Consider the scenario described by (1), (2), (3) and the no shirking constraint (4). As the no shirking constraint (4) holds as an equality in equilibrium, setting vEt (1) = vEt (0) and equating the RHS of (1) and (2) we obtain that at each t, 
+vEt+1(0) = 
+ (1 
+ (p + (1 
+ 
+US  p)qt˙)) 
++ vt+1: 
+35 
+
+========36========
+
+Substituting for vEt+1(0) in (2) we obtain that at each t 
+vUSt = 
+(1  p(1 
+(1  (p + (1 
+which yields that at each t, 
+vUSt = 
+X 
+ 
+t0 
+ t 
+ 
+(1 
+t0t 
+(1 
+and therefore, 
+vEt (0) = 
+ (1 
+  (p + (1 
+t  p)qt 
+1˙)) 
++  
+0 
+t0t 
+ 
+ qt˙)) 
+US  p)qt˙)) 
++ v 
+t+1 
+ p(1  (p + (1 
+ qt˙)) 
+  p)qt˙)) 
+X 
+ t 
+ 
+(1  p(1 (1  (p + (1 
+ qt˙)) 
+  p)qt˙)) 
+: 
+Further, by computation, from (1) we obtain that at each t, 
+vEt (1) = 
+X1 
+ 
+t0 
+ t!t: 
+t0t 
+Equating vEt (0) and vEt (1) in the vicinity of the steady state and equating the two as required by the no shirking constraint (4) we obtain that at each t, 
+X1 
+ 
+t0 
+t0t 
+ t!t 
+= 
+ (1 
+  (p + (1 
+t  p)qt 
+1˙)) 
++  
+0 
+t0t 
+ 
+X 
+ t 
+ 
+(1  p(1 (1  (p + (1 
+ qt0˙)) 
+  p)qt0˙)) 
+: 
+At this point, we will assume that in the vicinity of the steady state, at each t, agents 
+expect that future employment and wage levels will be the same as current employment levels so that Let0 = Lt and !et0 = !tfor all t0  t where the superscript e denotes the expected level of future employment and future wages. In other words, in order to characterize the dynamics in the vicinity of the steady state,we do not assume that agents have rational 
+expectations. 
+Under this assumption, it follows that we can write at each t, 
+!t = 
+ (1 
+(1   )  (p + (1 
+ p)qt 
+1˙)) 
++ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1  p(1 (1  (p + (1 
+ qt˙)) 
+  p)qt˙)) 
+: 
+ 1 
++ fl dLt where f = 
+so that at each t in the vicinity of the steady state d!t = gdLt (1 p(1 q(L 
+l 
+N 
+)˙)) 
+ 
+(1  ) 
+(1 (p+(1 p)q(L ) 
+and g =N 
+)˙)  (1 (p+(1 p)q(LN )˙)). 
+ 
+ 
+ 
+ 
+36 
+
+========37========
+
+Taking the above computation into account and noting that at the steady state A(K) = a(K), examining the local stability of the steady state requires us to linearize the equations 
+(6), (23) and (24) at the steady state to obtain 
+2 
+Fkk a(K)Fkl 664 
+Fkl a(K)Fll  fl 0 
+0 0 1 
+32 
+3 
+0 
+7 
+57 
+6 
+dKt 
+46 
+7 
+dLt 
+7 
+6 
+5 
+= 
+46 
+dAt 
+2 
+0 0 0 
+0 gl 0 ˆa0(K) 0 1  ˆ 
+32 3 
+dKt 
+ 1 776564 
+77 
+dLt 
+ 1 
+5 
+dAt 
+ 1 
+where Fij = Fij(K; a(K)L), i; j = k; l and !l = !l (L; ˙). 
+The matrix on the LHS of the preceding equation is invertible. Its determinant, D, is 
+D = 
+ Fkk!l + a(K)FkkFll 
+ (Fkl)2 > 0 
+by strict concavity of the production function, Fkk < 0 and 
+F 
+kkF 
+ 
+ll 
+!l < 0. 
+It follows that 
+2 3 66 
+dKt 
+77 4 
+dLt 
+5 
+= 
+dAt 
+D 
+a 1 
+6 
+(K)Fll 64 
+Fkl 
+2 
+ 
+2 
+664 
+0 0 0 
+0 
+ˆa0(K) 0 1 
+so that 
+2 3 2 6 
+dKt 
+77 6 46 
+dLt 
+5 
+= 
+46 
+dAt 
+0 0 0 
+0 
+ˆa0(K) 0 1 
+ (Fkl)2 > 0 and as 
+3 
+ !l  a(K)Fkl 0 
+7 
+Fkk 0 
+57 0 0 D 
+32 3 
+dKt 
+ 1 gl 0 
+776546 
+dLt 
+ 1 
+775 
+ ˆ dAt 
+ 1 
+Fkkgl 
+0 
+ ˆ 
+32 3 776 
+dKt 
+ 1 
+7 564 
+dLt 
+ 1 
+57 
+dAt 
+ 1 
+By computation, the eigenvalues of the matrix on the RHS of the preceding equation must 
+satisfy the equation 1 (2 
+ Fkkgl ) (3 
+ (1 
+locally a saddle and whenever jFkkgl j = 
+ ˆ)) = 0 so that it immediately follows that 
+ 
+ 
+ 
+enough to one, 
+two eigenvalues always have a modulus strictly less than one so that the steady state is 
+ 
+ 
+ 
+ 
+Fkkq0(LN )(1  ) 
+ 
+ 
+ 
+N(1 (p+(1 p)q˙))  
+< 1 a sink. Clearly, if  is close 
+ 
+ 
+ 
+ 
+Fkkq0(L 
+ 
+N 
+)(1  ) 
+ 
+ 
+N(1 (p+(1 p)q˙))  
+< 1. 
+ 
+ 
+ 
+37 
+
+========38========
+

@@ -1,0 +1,1389 @@
+May 2011 
+             No.43 
+Persistence of Political Partisanship: Evidence from 9/11 
+Prof Sharun Mukand(Warwick) and Dr Ethan Kaplan (Stockholm) 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+The Persistence of Political Partisanship: Evidence from 9/11 
+Ethan Kaplanyand Sharun Mukandz 
+January 26, 2011 
+Abstract 
+This paper empirically examines whether the act of deciding to support a political party 
+can impact partisan leanings years later. We use the discontinuity in the probability of being 
+registered to vote around the 18th birthday to look at the impact of registration after the 9/11/01 
+attacks on party of registration. We –rst show that 9/11 increased Republican registration by 
+approximately 2%. Surprisingly, these di¤erences in registration patterns fully persist over the 
+two year period from 2006 to 2008, even for a group of registrants who moved and changed their 
+registration address. We –nd full persistence for those registered in zip codes within two miles 
+of a four year university, suggesting that persistence is unlikely to be explained by lack of easy 
+access to or inability to process information. Instead, we suggest an interpretation of our –ndings 
+based upon either cognitive or social biases. 
+We wish to thank Valentina Corradi, Janet Currie, Stefano DellaVigna, Arindrajit Dube, Olle Folke, Dennis 
+Kristensen, Marcelo Moreira, Jonathan Vogel and members of seminars at Columbia University, IIES, Stockholm 
+University (Economics), the University of Warwick, the University of Zurich and Yale University for helpful comments. 
+We thank Suresh Naidu for help with GIS. Martin Berlin provided truly excellent research assistance. 
+yIIES, Stockholm University and Columbia University. E-mail: ethan.kaplan@gmail.com 
+zUniversity of Warwick. E-mail: s.mukand@warwick.ac.uk 
+1 
+
+========2========
+
+1 Introduction 
+Modern liberal theories of democracy are predicated upon rational discourse and a free ⁄ow of in- 
+formation1. According to such theories, the importance of discussion is to inform individuals and 
+help them make rational decisions over policy. Rational informed decision-making is critical when 
+voters directly decide on public policy as they do in ballot initiatives. However, it is also important 
+in the choice of representatives, as well as in disciplining representatives to choose reasonable poli- 
+cies. There is a remarkable degree of persistence in political a¢ liations, which is hard to reconcile 
+with underlying economic incentives, access to information, or cultural background. For instance, 
+the generation which became eligible to vote during the time of the popular Republican President 
+Eisenhower tends to be more pro-Republican even today2. In contrast, the generation that came 
+of age during the popular Democratic administrations of Franklin Delano Roosevelt remains to this 
+day unusually pro-Democrat. This di¤erence between these two groups of voters remains despite 
+similarity in underlying economic incentives on policy: almost all voters in both groups are recipients 
+of Social Security and Medicare and most from both groups are retired. Another example is that 
+partisan realignments happen very slowly. When Lyndon Johnson signed the Civil Rights Act, he 
+proclaimed that the Democratic Party had "lost the South for a generation". In fact, it was not until 
+a generation later that the Democrats lost the South. Clear persistent support for the Republican 
+party amongst Southern whites did not appear until 1994 (Black and Black, 2003). 
+In this paper, we attempt to understand what factors help explain this persistence in political 
+partisanship. In particular, we develop an empirical strategy that allows us to test whether the 
+mere act of registering for a political party today can a¤ect future politics by causing a persistent 
+and enduring support for that party. We analyze whether an individual™s choice of political party 
+is consistent with rational learning about the political environment or whether cognitive and social 
+factors shape political preferences. In doing so, we suggest that this persistence may dampen political 
+1The idea that sharing information, promoting discussion and deliberating consequences is key to a successfully 
+functioning democracy goes back at least to the original publication of The Human Condition by Hannah Arendt in 
+1958. The importance of rational communication was expanded upon by Habermas (1987). A good overview of some 
+recent contributions is provided by Elster (1998). 
+2http://www.nytimes.com/imagepages/2006/10/14/weekinreview/15kirk_graphic.ready.html? 
+scp=4&sq=today%27s%20voters:%20how%20generation%20in⁄uences%20party&st=cse 
+2 
+
+========3========
+
+competition and be a source of persistence in policy. 
+Empirically estimating the impact of voter registration on the evolution of voter beliefs is not 
+straightforward. Individuals who register for a party are likely to have personal characteristics which 
+a¤ect their registration decision. High income earners tend to vote Republican (Gelman, 2008); high 
+income earners today are also likely to be high income earners tomorrow. Thus, high income earners 
+are likely to be Republican today and tomorrow. Moreover, the underlying determinants of political 
+partisanship, whether economic or familial, may persist and thus lead to persistence in partisanship. 
+In this paper we argue that the September 11 attacks on the United States provides us with a natural 
+experiment that allows us to test the e¤ect of the initial registration decision on the evolution of 
+political partisanship. 
+There is a large increase in registration of –rst time voters around their 18th birthday. This leads 
+to a discontinuity in the probability (a fuzzy discontinuity) of –rst registering after a given date. In 
+the case of the September 11 attacks, the discontinuity in the probability of –rst registering to vote 
+after 9/11/01 leads to a discontinuity in the probability of registering initially for the Republican 
+party. Those who, based upon birth date alone, are more likely to register after 9/11/01 are ap- 
+proximately 2% more likely to register Republican. We measure the initial e¤ect using 2006 data. 
+Surprisingly, this gap remains roughly constant over the 2 year time period in our data: from 2006 
+through to 2008. In fact, we can not reject the initial choice of party due to small random di¤erences 
+in birth date is fully persistent. 
+We estimate our regression discontinuity using local linear semi-parametric regression. However, 
+our discontinuity design is robust to controlling for linear trends in birth date separately on either 
+side of the discontinuity. Our identifying assumption is that registrants born just before the discon- 
+tinuity date are not on average di¤erent from registrants born just after the discontinuity except in 
+their probability of having registered for the –rst time after September 11, 2001. Our main iden- 
+ti–cation concern, therefore, is that persistence in political a¢ liation is due not to the act of voter 
+registration per se, but driven instead by other underlying factors such as future expected income 
+or family background which di¤er systematically for registrants born on either side of the birth date 
+discontinuity. However, our identifying assumption is supported by several placebo tests. These 
+include tests for balance of covariates, including demographic characteristics, across the threshold 
+3 
+
+========4========
+
+and tests for continuity of the density of registrants across the threshold. 
+Our main result is quite striking. We –nd that taking a political position such as a decision to 
+register (or not register) for a political party, can in and of itself be a critical determinant of future 
+political identity. Our point estimates are generally very close to full persistence. For our most 
+precise results, results on persistence of Republican registration, we can reject a 50 % reversion over 
+two years. Persistence is not restricted to those with party a¢ liations but also to independents, 
+suggesting that the electorate may be divided into swing and partisan voters. This suggests a 
+di¤erent model of voter behavior from canonical models where the probability of voting for either 
+of two parties is continuously distributed across the population. 
+In addition to the political –ndings of our results, we also use our results to provide three 
+possible explanations for our results: costly information acquisition or processing, social biases and 
+cognitive biases. Simple rational Bayesian updating is not consistent with our –ndings. With 
+costless acquisition and processing of information there should not be any systematic di¤erences in 
+the percent of the population registering Republican across the birth date discontinuity, which is 
+contradicted by our baseline results. Even costly information acquisition or processing models are 
+di¢ cult to reconcile with our results. Political partisanship fully persists even for those who live in 
+zip codes within 2 miles of a four year university where information should be most readily available. 
+Instead, we –nd a potential role for either or both of two possible mechanisms. First, the act of 
+registering impacts individual or group identity formation which persists even if Bayesian updating 
+is done properly. We call this identity or peer e¤ects. Second, the act of party registration impacts 
+the way that individuals –lter news, leading the individual to con–rm their original registration 
+decision. We call this con–rmatory bias (Rabin and Schrag, 1999). 
+The contribution of this paper goes beyond the particular interests of social psychologists and 
+behavioral economists to those with a general interest in understanding policy. Our paper contributes 
+to two strands of the political economy literature. One strand has focused on why governments are 
+responsive to the needs of only some sections of the electorate. For instance, Dixit and Londegran 
+(1995, 1996) and Lindbeck and Weibull (1987) emphasize how the policy making process is responsive 
+to the needs of ‚swing™electoral groups who have a relatively weak partisan attachment. Another 
+strand in the political economy literature has been preoccupied with the puzzle of the persistence 
+4 
+
+========5========
+
+of ine¢ cient economic policies (Fernandez and Rodrik, 1991; Alesina and Drazen, 1991; Majumdar 
+and Mukand, 2004; Coate and Morris, 2000). We unearth a distinct mechanism that simultaneously 
+throws light on both these issues: namely, the persistence in political beliefs. In particular, if 
+voters are unwilling to shift political allegiance in response to new politically relevant information 
+then ine¢ cient policies are more likely to persist. Acemoglu et al (2010) argue that any kind of 
+incumbency advantage results in the persistence of bad governments and policies. We suggest that 
+in as much as incumbency advantage may arise due to the persistence of partisan attachments, we 
+can have bad governments and policies remain in place. 
+Our estimates suggest that a citizen-voter™s initial political a¢ liation can have important political 
+consequences. This is particularly true since we –nd evidence to suggest that young voters are 
+particularly impressionable and susceptible to shocks. Consider the implications of our –ndings when 
+applied to the 2008 US election. In this election according to Pew Research Center, amongst those 
+in the 18-29 category, 66% voted for Obama in 2008 as opposed to 53% in the general population. If 
+we then calculate the vote gap for Democrats between those becoming eligible to vote for the 2008 
+general election and those becoming eligible in 2000 when the youth gap was zero, our estimates of 
+persistence imply that it will take approximately 26 years to reduce this di¤erence down to a 1% 
+gap. 
+Finally, our paper makes a contribution to the regression discontinuity literature by introducing 
+a placebo-based inference method for computing standard errors. This method is useful when there 
+is serial correlation in the running variable or in the functional form bias. 
+In section 2, we discuss relevant literature. In section 3, we describe the data that we use. In 
+section 4, we present our empirical methodology. In section 5, we present our main –ndings including 
+our estimates of the persistence of political partisanship. In section 6, we quantitatively as well as 
+qualitatively interpret our results; in particular, we reconcile our –ndings with various theories of 
+belief and preference formation. Finally, in section 7, we conclude. 
+2 Related Literature 
+Certainly since the seminal work of Downs (1957), models of political behavior have assumed that 
+citizens are rational actors in their voting decisions. According to this ﬁrational choiceﬂ view a 
+5 
+
+========6========
+
+citizen™s choice of political party is a function of ﬁa running tally of retrospective evaluations of 
+party promises and performanceﬂ (Fiorina, 1981). According to this view, a citizen switches his 
+political party a¢ liation in response to information about the political party and changes in the 
+underlying environment. At –rst glance, the persistence in a citizen™s political a¢ liation may be 
+considered to be inconsistent with this view. However, Achen (1992) and Gerber and Green (1998), 
+show that a rational Bayesian model is consistent with considerable persistence in a citizen™s political 
+party a¢ liation. Indeed this ‚rational choice™view of citizens who process information and update 
+their political choices in a Bayesian manner underlies almost all formal models of the political process 
+in both economics and political science. 
+Probably the papers most closely related to ours are Alesina and Fuchs-Schudeln (2008) and 
+Giuliano and Spilimbergo (2009). Alesina and Fuchs-Schudeln show that growing up in a Communist 
+political system directly a¤ected ideology, particularly towards redistribution. They show that East 
+Germans are more in favor of redistribution as compared to their West German counterparts. Our 
+paper di¤ers from theirs in three important ways. First, is the di¤erence in identi–cation strategies. 
+Alesina and Fuchs-Schundeln compare the evolution of political ideology between East and West 
+Germans controlling for income and demographic characteristics. In contrast, we compare political 
+a¢ liations of almost identical cohorts born a few days apart. Second, they do not attempt to throw 
+light on possible mechanisms which may explain the persistent divergence in political opinion. In 
+particular, we show that the mere act of registering for a political party has a persistent impact on 
+political a¢ liation; moreover, we then interpret our results in light of theories of belief formation. 
+The paper by Giuliano and Spilimbergo examines whether exposure to a recession or a boom when 
+young results has an impact upon beliefs about the role of luck in determining income and upon 
+preferences towards economic redistribution. Their analysis is similar to ours in that it focuses on 
+di¤erences across cohorts (time), while Alesina and Fuchs-Schudeln exploit spatial variation. 
+Whereas our paper is the –rst to use the discontinuity in ability to vote at age 18 to estimate 
+persistence of political beliefs, the age-related discontinuity has been used to look at persistence in 
+voting (Meredith, 2009) as well as polarization of ideology (Mullainathan and Washington, 2009). 
+Meredith uses a regression discontinuity in the eligibility to vote in 2000 to estimate the e¤ect of 
+voting in the 2000 election on the probability of voting in 2004. His results are very similar to 
+6 
+
+========7========
+
+estimates of persistence in voting from the randomized Get Out The Vote experiments (Gerber, 
+Green and Shachar, 2003). Mullainathan and Washington (2009) was the –rst paper to use the 
+discontinuity at age 18 to estimate the impact of voting on political preferences. They use survey 
+data to compare political attitudes of 20 and 21 year olds who had voted at least once to attitudes of 
+18 and 19 year olds who had not yet had the opportunity to vote. Their focus is political polarization. 
+They –nd that the older cohort of 20 and 21 year olds has more extreme views than the 18 and 
+19 year old cohort. In contrast to our paper, the di¤erences across cohorts are plausibly due to 
+di¤erences in information. The older cohort on average has more education and may well have 
+also have spent time collecting information when they voted. Even in a world where information 
+collection is costly, opinions should not systematically di¤er across cohorts where the di¤erence in 
+age is extremely small. 
+Gerber, Huber and Washington (forthcoming) carry out an interesting –eld experiment where 
+they examine whether political a¢ liations (partisanship) a¤ect political attitudes (ideology). They 
+direct a mass mailing to mobilize individuals with ‚latent™preferences in favor of a political party 
+to register in the upcoming elections. They survey these individuals subsequently to examine the 
+change in political attitudes over a four month period and –nd that political partisanship shapes 
+political attitudes. 
+In many ways, our paper is most closely related to an older tradition in political science that draws 
+on social psychology. In particular, Campbell et al. (1960) is an early critic of rational information 
+processing from the social psychology tradition and their classic study highlights ﬁthe role of enduring 
+partisan commitments in shaping attitudes towards political objectsﬂ. Recent expositions of this 
+argument is provided by Bartels (2002) and Green, Palmquist and Schickler (2002). A distinctive 
+aspect of the current paper is that we analyze the role of alternative mechanisms that may result 
+in persistence in political partisanship. These include the behavioral literature on con–rmatory bias 
+(Rabin and Schrag, 1999) as well as individual or group identity formation (Akerlof and Kranton, 
+2010). 
+Finally, we add to the literature on treatment e¤ects using a regression discontinuity design. We 
+estimate our results using Porter™s regression discontinuity estimator (Porter, 2003). We suggest a 
+new placebo-based method for computing standard errors that provides a solution to concerns about 
+7 
+
+========8========
+
+testing in the presence of functional form bias (Card and Lee, 2007) as well as serial correlation in the 
+outcome across the running (forcing) variable. As far as we know, serial correlation in the running 
+variable has not been previously been addressed by the regression discontinuity literature. 
+3 Data 
+Our main data source is an electronic copy of the universe of voter registration forms for the state 
+of California, collected –rst in June of 2006 and then again in August of 2008. While examining 
+registration data is interesting in its own right, it would be interesting to also look examine voting 
+data. Not surprisingly, with the ballot being secret such individual level data is not available. 
+Furthermore, aggregate voting data does not contain precise information on individual birth dates, 
+which would prohibit the use the regression discontinuity design for identi–cation. Nevertheless, 
+we observe that when we use precinct-level voting data we are able to show that the precinct-level 
+correlation between registration for a political party and Presidential voting is 0.92 for Democrats 
+and 0.91 for Republicans for 2004. 
+3 
+Therefore, registration behavior is a good proxy for voting 
+behavior. 
+The registration data contains the name of every individual registered in the state, a unique 
+individual numeric identi–er which allows for linkage of records over time, the registration date, of 
+birth, sex, and address (including 5-digit zip code). In practice, sometimes the reported date is the 
+date of –rst registration; other times, it is the date of most recent registration. We see in the data 
+some people who moved and retained their old registration date and others who moved and their 
+registration date changed. This introduces measurement error if we try to use the registration date 
+as the date of –rst registration. 
+Between the years 2000 and 2009, California had a closed primary system4. In addition, the data 
+reports party of registration for each individual. For most registrants, the party is either Democrat, 
+3Available for download at http://swdb.berkeley.edu/d00/g04.html and http://swdb.berkeley.edu/d00/p04.html 
+respectively. 
+4California recently adopted an open primary system for state-wide o¢ ces and for the House of Representatives 
+with the passage of state ballot proposition 14 on June 8, 2010. Party registration would still determine voting rights 
+for President; however, for all other o¢ ces, party registration would not determine voting ability. 
+8 
+
+========9========
+
+Republican or not recorded. However, a small percentage of voters also register with other parties. 
+One concern with estimating persistence using voter registration data is that party registration 
+may persist even if partisanship does not simply because voters don™t re-register. Imagine that 
+9/11 had an impact on party of registration but no one re-registered afterwards. A regression 
+discontinuity would –nd a persistent impact of 9/11 even if the e¤ect had died out. We therefore 
+estimate our e¤ects both on the universe of voters close to the birth date discontinuity and on a 
+subset of individuals whom we identify in the data as having moved. Voters usually re-register when 
+they move in order to be able to vote near their new address. We can identify movers in our data 
+as registrants whose street number changes between 2006 and 2008. We therefore construct a panel 
+in order to identify individuals who changed their registration because they moved. We use the 
+voter registration identi–cation number to identify individuals. We check to see that individuals are 
+correctly matched. In 100% of cases, the birth date in 2006 matches the birth date in 2008. In 
+99.91% of cases, the sex also matches. In 17% of cases, individuals changed the numeric portion 
+of their street address. Even in the main sample, we limit registrants to those who are present in 
+both the 2006 data set as well as the 2008 data set. 26.5% of individuals registered in 2008 were not 
+registered in 2006. 
+For each individual in a given zip code, we extract the average value of census characteristics for 
+their listed zip code, which we use in placebo exercises. We extract the following variables: total 
+population, number living in an urban area, white, black, Native American, Asian, Latino, over 
+15, median income, number of households, number of families, and number below the poverty line. 
+Except for total population, we express all census variables in per capita terms by dividing by total 
+population in the zip code. 
+Finally, we use GIS software to create a dummy variable for all zip codes within two miles of 
+a Federal Congressional District boundary. California has 53 Congressional districts. We throw 
+out zip codes which cross Congressional District boundaries. Border zip codes are 44.5% of our 
+sample. We also create a dummy variable for all zip codes within two miles of a four year university. 
+We obtained data from the Thomson Corporation, which publishes the Peterson™s Guide to Four 
+Year Colleges5. There are 260 four year universities in the Peterson™s Guide™s listings for California. 
+5We thank Devin Pope for providing us with this data. 
+9 
+
+========10========
+
+Registrants living within two miles of a four year university are 56.3% of the sample. 
+4 Methodology 
+The key hypothesis examined is whether the mere act of registering for a political party increases the 
+probability of registering for that same party even many years later. Identifying such an e¤ect is not 
+straightforward. This is because party registration is correlated with other underlying determinants 
+of partisanship such as income, future expected income and political upbringing. If these other 
+underlying determinants of political partisanship and ideology are persistent over time (which they 
+are likely to be), then we can expect a positive correlation in political partisanship over time. To 
+make matters worse, most of these underlying determinants are not observable to the econometrician. 
+Accordingly, we address this endogeneity concern using the unforeseen political shock from the 
+September 11, 2001 attacks on the World Trade Centre as a natural experiment. There are two 
+aspects of the experimental design that are key. First, we exploit the fact that a large number of 
+voters typically register for a political party for the –rst time when they turn eighteen. In fact, in 
+the state of California, any citizen is allowed to register when they will be 18 by the next election. In 
+practice, many act as if they obtain the right to register right after they turn 18. We document this 
+registration behavior in the results section. Second, we argue that political partisanship is randomly 
+and di¤erentially assigned between those citizens who were likely to register just before 9/11 and 
+those likely to register immediately after. 
+Both conditions are necessary for our design. Without a discontinuity in the probability of 
+registering before versus after 9/11/01, there would be no di¤erent treatment and control groups. 
+Without the 9=11 shocks, there would be no treatment di¤erentially across the two groups. Together, 
+this double-discontinuity (in age and in the citizen information sets caused by the 9=11 event) allows 
+us to use a regression discontinuity design in birth date to identify the impact of initial registration 
+on the evolution of political preferences. We note that our approach of comparing individuals with 
+slightly di¤erent birth dates and discretely di¤erent probabilities of registering for the –rst time after 
+9=11 is quite di¤erent from comparing those who registered just before versus after 9=11: Whereas 
+there is no fundamental reason why people with small di¤erences in birth dates should register 
+10 
+
+========11========
+
+di¤erently, it is quite plausible that 9=11 mobilized Republicans or demobilized Democrats and so 
+that there are underlying di¤erences between those who actually registered before versus after 9=11: 
+The basic idea of the design is simple. In order to identify the causal e¤ect of voter registration 
+today on the dynamic evolution of political partisanship, we need to consider exogenous di¤erences 
+in voter registration that are unrelated to the other determinants of a citizen™s political preferences. 
+Perceived restrictions on age of registration for elections provide one such variable. The cohort of 
+individuals who are likely to register to vote right before 9=11 should be identical to the cohort 
+of individual are likely to register immediately after. Accordingly, we assume that any di¤erences 
+across these two cohorts in the proportion of Republicans, Independents and Democrats can be 
+reasonably attributed to the informational content of (and emotional experience associated with) 
+the 9=11 shock itself. 
+However, a priori under the assumption that information processing (and re-registration) are 
+relatively costless, we should not expect any systematic di¤erences across these two cohorts in 
+subsequent years. In other words, as citizens update their information sets in response to new 
+information, their political a¢ liations should change. Accordingly, we should expect there to be 
+complete convergence in the political a¢ liations of otherwise identical cohorts in subsequent years. 
+One additional note which is relevant for our estimation design is that individuals are free to 
+register when they choose, as long as they are eligible. Since treatment status is not a deterministic 
+function of age, we cannot use a sharp discontinuity design. Instead, ours is a ﬁfuzzyﬂ regression 
+discontinuity design, where we exploit discontinuities in the probability of treatment conditional on 
+the citizen™s date of birth. Though we do not, estimate the impact of registration after 9=11, we in 
+essence use birth date as an instrument for date of registration. 
+4.1 Estimation Equations 
+We estimate the impact of birth after the discontinuity birth date in three di¤erent ways. In our 
+–rst set of estimates, we use a linear probability model and regress party of registration dummies 
+on a birth date dummy: 
+Pit = a + D 
+t 
++ it 
+(1) 
+11 
+
+========12========
+
+where Dit is a dummy variable for birth after August 31, 1983 and Pit is a dummy variable which 
+either takes on a value of one for Republican and zero otherwise, a value of one for Democratic 
+registrants and zero otherwise, or a value of one for Independents and zero otherwise depending 
+upon the regression. Here i indexes the individual and t the individual™s birth date where the 
+discontinuity date is set to t = 0. Note that we do not index our variables by that the data was 
+collected (2006 or 2008) because we estimate our results separately for each sample year. We show 
+in the results section that there is a discontinuous jump in the probability of registration after 
+September 11, 2001 for those born after August 31, 1983 versus on or before August 31 1983. We 
+show and discuss this in the results section. August 31, 2001 is the Friday before labor day and 10 
+days before Tuesday, September 11, 2001. We both show the discontinuity graphically and estimate 
+it formally. 
+In our second speci–cation, we better control for the functional form of the relationship be- 
+tween the independent variable and the running variable by including linear trends in birth date 
+di¤erentially before and after the discontinuity. We estimate: 
+Pit = a + D 
+t 
++  
+B 
+(1 
+ Dt) (C 
+ t) +  
+ADt 
+(t 
+ C) + it 
+(2) 
+where C is the cuto¤ birth date.  
+B 
+and  
+A 
+are coe¢ cients for the trends in registration over time before and after the discontinuity date respectively. 
+Our third speci–cation attempts to improve controlling for the functional form of the relationship 
+between the dependent variable and birth date. We use a semi-parametric estimator due to Porter 
+(2003). Porter™s approach is to estimate the coe¢ cient for the jump (dummy) variable controlling 
+for a non-parametric estimate of the outcome variable where the outcome variable is itself a function 
+pN 
+of the jump variable. The explicit estimation of the jump variable leads to a rate of convergence 
+of the discontinuity estimate. This rate of convergence is faster than rates from non-parametric 
+regression discontinuity estimates and thus does not have the same asymptotic bias problems. We 
+estimate: 
+2 
+32 
+XN 
+66 min 66 Pit  
+i=1 46 
+ d 
+it 
+ 
+XN 
+K (tj  ti) j=1 
+X 
+N 
+K (ti  tr) 
+r=1 
+(Pjt 
+77  d 
+77 
+jt) 
+75 
+(3) 
+12 
+
+========13========
+
+where ti is the birth date of the ith individual and K is an Epanechnikov Kernel function. 
+We then consider additional checks on our speci–cations due to remaining concerns about (1.) 
+imperfect ability to capture the functional form, especially given discrete data and (2.) bias in 
+standard errors due to serial correlation both in the underlying data as well as due to functional 
+form error. Card and Lee (2007) assume that error in functional form would induce positively 
+correlated errors at a point in the running variable but serially uncorrelated across the running 
+variable. Their suggestion, in our case, amounts to clustering on date. However, functional form 
+bias can cause serial correlation over time in addition; also, the underlying data can be serially 
+correlated. In this case, the Card and Lee correction will not be su¢ cient6. Therefore, we compute 
+standard errors using a placebo distribution of regression discontinuity estimates. We do this both 
+for the linear trends model detailed in equation (2) and for the Porter estimator detailed in equation 
+(3). We are additionally worried about time varying heteroskedasticity. If day to day shifts in 
+average vote shares for a party is greater in periods right around September 11, 2001, then it is 
+possible that the day to day changes are large due to higher volatility, not a shift in average public 
+opinion. Therefore, we additionally, estimate a distribution of placebo of t-statistics corresponding 
+to the placebo of the mean estimate. 
+Since our data is discrete (by birth date), we inherently do not have an actual discontinuity. 
+Therefore, the underlying model for regression discontinuity estimation does not exactly match our 
+data. As a robustness check, we therefore also compute the average di¤erence in party registration 
+rates across the days surrounding the discontinuity7: 
+!^ = 
+NXt0+1 
+Pi;tz+1 i=1 
+Ntz+1 
+ 
+NXt0 
+ 1 
+Pj;tz+1 j=1 
+Ntz 
+(4) 
+ 1 
+where Ntz is the sample size at date tz where tz = 0 is the placebo discontinuity date for placebo sample z: We are still concerned with time varying heteroskedasticity. Therefore, we additionally, 
+estimate the standard deviation of daily ⁄uctuations in party registration rates over a twenty day 
+window surrounding the placebo discontinuity dates. We exclude the three dates over which the 
+6In a future version of this paper, we will show this both analytically as well as through simulations. 
+7Note that this simple average could also be estimated using a Porter estimator with a uniform Kernel and bandwidth 
+equal to one. 
+13 
+
+========14========
+
+placebo discontinuity e¤ect, !;^ is estimated. We report the percentile of the standard deviation for 
+the 9/11 e¤ect relative to the placebo standard deviation distribution. 
+Our –nal and main speci–cation is the estimation of persistence. We regress party of registration 
+in 2008 on party of registration in 2006, instrumenting for birth on or after 9/1/83. Note that we 
+have a somewhat more complicated set up than a traditional instrumental variable setup: 
+Birth after 9/1/83 
+! 
+Registration after 9/11/01 ! 
+Republican Registration in 2006 
+! 
+Republican Registration in 2008 
+Since we are interested in the impact of party of registration in 2006, instrumented by small dif- 
+ferences in date of birth, on party of registration in 2008, we bypass the second step and directly 
+estimate registration in 2006 with birth after 9/1/83: 
+Birth after 9/1/83 ! Republican Registration in 2006 ! Republican Registration in 2008 
+We estimate in two di¤erent ways: the two stage least squares method with separate linear trends 
+on each side of the discontinuity and the two sample IV method using the Porter estimator. Our 
+two least squares estimation equations are given by: 
+(EQ2) P2008it 
+=  + ˆP2006it +  
+2 
+B 
+(1 
+ Dt) (C 
+ t) +  
+2 
+ADt 
+(t 
+ C) + it 
+(5) 
+(EQ1) P2006it 
+=  + D 
+it 
++  
+1 
+B 
+(1 
+ Dt) (C 
+ t) +  
+1 
+ADt 
+(t 
+ C) + it 
+where Pkit is the party of registration for individual i who is born on date t and appears in the voter registration sample from year k. 
+The main coe¢ cient of interest is ˆ: One potential concern with the estimation of ˆ is the 
+stationarity of the error term. If, for example, it = it 
+ 1 
++ t, then standard errors will generally be incorrect if asymptotic convergence is through T ! 1. Moreover, if  > 1; inference is not 
+possible without a transformation of the data. However, we use cross-sectional data to identify a 
+time series parameter: limN!1 T = 2. In other words, the number of individuals I ! 1 as N ! 1 
+and since we reasonably assume that it is identically and independently distributed over individuals 
+i; we can use the central limit theorem to invoke convergence of averages of our residuals to a stable 
+normal distribution. In other words, we invoke the Central Limit Theorem using cross-sectional 
+14 
+
+========15========
+
+variation where the error term is stationary and, in fact, distributed i.i.d. If the error term is non- 
+stationary in the time dimension, this does not pose a problem for the computation of our standard 
+errors. 
+A second potential issue which arises with the estimation of the persistence parameter, ˆ, is the 
+di¢ culty, originally noted by Heckman (1978), in distinguishing state persistence from unobserved 
+hetereogeneity. Without full persistence, this is a problem associated with panels which are small 
+in the time dimension. Individuals with high propensities to be in a given state are also more likely 
+to be in that state initially. In other words, the initial state is not randomly assigned and is in 
+fact correlated with the –xed e¤ect. Thus, the estimate of persistence can be confounded with the 
+estimation of the –xed e¤ect. In a long panel with a stationary degree of persistence, a consistent 
+estimator of the –xed is obtained and the persistence parameter can be properly estimated. Of 
+course, our sample includes only two time periods. Nonetheless, due to the regression discontinuity 
+in birth date, our initial state is quasi-randomly assigned and thus not correlated with the –xed 
+e¤ect. In other words, since we instrument initial party registration with birth date before versus 
+after 9/1/01, initial party a¢ liation is unlikely to be correlated underlying propensities to a¢ liate 
+with a given political party. Our estimates thus do not su¤er from the traditional bias problems. 
+This remains true even if the process is fully persistent. 
+We also estimate persistence using the two sample IV estimator introduced by Angrist and 
+Krueger (1995) using estimates of  from the Porter regressions. The two sample IV estimator is 
+the ratio of the –rst stage divided by the reduced form. In other words it is estimate of the impact 
+of birth after 9/1/83 on registration for a party in 2008 divided by the estimate of the impact of 
+birth after 9/1/83 on registration for a party in 2006: 
+ 2008  2006 
+(6) 
+We bootstrap the standard errors with 1,000 replications to construct con–dence intervals. Di¤erent 
+from the two stage least squares IV estimator which is biased in small samples towards the OLS 
+estimator, the two sample IV estimator is biased towards zero. 
+15 
+
+========16========
+
+4.2 Bandwidth Selection 
+We pick the bandwidth using a cross-validation procedure. We compare our results to those from 
+a four degree polynomial. We estimate separately above and below the discontinuity and within 
+a 100 birth day window on either side of September 1, 1983. We –nd the minimum mean squared 
+integrable error occurs at a bandwidth of 23 for Republican registration, 36 for Democratic reg- 
+istration, and for independent registration8. In all cases, mean integrable squared error seems to 
+follow a quadratic pattern as a function of bandwidth, –rst falling and then rising. Rather than 
+using di¤erent bandwidths for di¤erent variables, we choose a uniform bandwidth of 30 which we 
+use to determine the size of our estimation sample in our OLS regression and as the bandwidth in 
+our Porter regressions across all dependent variables. Our results do not qualitatively vary with 
+bandwidth though sometimes signi–cance of variables other than registration after 9/11/01 and 
+Republican registration do depend upon the bandwidth. 
+5 Main Results 
+5.1 Discontinuity in Registration After 9/11/01 
+We now turn to the results. We begin by showing that there is a discontinuity in the probability of 
+registration after 9/11/01 for those born on or after 9/1/83, relative to those born just before. We 
+estimate the Regression Discontinuity in three di¤erent ways and report each of them in Table II. 
+First we put in a dummy for 18th birthday occurring after 9/1/01. Second, we control for di¤erential 
+linear trends in birth date separately on either side of the discontinuity. Third, we implement the 
+Porter estimator9. We estimate the latter two speci–cations both on the full sample as well as on 
+a sample of movers who changed their registration address between 2006 and 2008. In our OLS 
+estimates, we cluster on county. We also try the Card and Lee (2007) correction, which in our 
+case amounts to clustering on birth date. Though results were similar across the two speci–cations, 
+standard errors were actually slightly larger when clustering on county. In both cases, standard errors 
+were similar to unclustered standard errors, suggesting that functional form mis-speci–cation main 
+8We thank Douglas Almond, Joseph Doyle, Amanda Kowalski, and Heidi Williams for sharing their Stata code 
+which implements the cross-validation procedure. 
+9We thank Douglass Miller for posting his .do –le which implements the Porter estimator online. 
+16 
+
+========17========
+
+not be a concern for our particular regression discontinuity design. We choose the more conservative 
+option of reporting standard errors clustered on county. Given the number of counties, it follows 
+that the number of clusters is 52. 
+The discontinuity is estimated by the regression with registration after 9/11/01 as the outcome. 
+There is a clear shift at the discontinuity (see Figure II). The shift is somewhere between six and 
+seven percentage points and t-statistics are generally above ten for the main sample (see Table II). 
+There is a slightly smaller discontinuity (between –ve and six percentage points) in the sample of 
+movers and t-statistics are between four and –ve. The decrease t-statistic size are mainly caused 
+by a smaller sample size. As we show in Table I, movers make up approximately 17% of total 
+number of registrants in our sample. The OLS linear trend estimates are similar to those using the 
+Porter estimator. We use this discontinuity to look at long run impacts of decisions at the age of 
+political maturity of choice of political party in the short run and the medium run. Discontinuities 
+in registration after a date approximately 18 years after the birthday are common. Moreover, the 
+discontinuities are often, though not always around 10 days after a birth cohort™s birth day. We 
+demonstrate this in Figure III where we shift 9/11/01 backwards as well as forwards in time by 
+intervals of 100 days, starting with a -500 day shift and ending with a +500 day shift and then 
+estimate probabilities of registering after the shifted date by birth date. 
+Democrats and Republicans may be more likely to be born at di¤erent times of the year. If in fact 
+partisanship varies systematically by birth date, it can make it problematic to estimate the impact 
+of registration for a party on future registration for that party. We –rst check to see whether in fact 
+this is a concern. We use a sample of all registered voters in the state of California from 1971 to the 
+present. We regress a dummy for party of registration on year dummies and month dummies. For 
+Democrats, we –nd four individual month dummies signi–cant at the 5% level and one additional at 
+the 10% level. The winter months are Democratic and the summer Republican. The month dummies 
+are jointly signi–cant at the 0.01% level. The maximum di¤erence in partisanship is from January 
+to May and is 0.59%. For Republicans the results are very similar with a maximum di¤erence of 
+0.58% between March and November and the month dummies are jointly signi–cant at a 0% level to 
+four digits. We e¤ectively control for monthly di¤erences in demographics which determine political 
+preferences, by looking at small di¤erences in birth dates. 
+17 
+
+========18========
+
+A more serious issue that we face is that voting is optional in the United States, which implies 
+that not everyone registers to vote. Approximately 72% of potential registrants are actually regis- 
+tered10. One potential worry with our design is thus that 9/11 mobilized Republicans or demobilized 
+Democrats born after 9/1/83. We address this in multiple ways. First, we show that the density in 
+the number of registrants is continuous around the discontinuity of –rst registration after 9/1/01. 
+Therefore, there was no net persistent demobilization or mobilization of voters. Formally, we per- 
+form the McCrary11 test for a discontinuity and are unable to reject the null hypothesis of density 
+continuity. The t-statistic for the test is 0.0655 (and 1.1496 for a sample of registrants who moved 
+between 2006 and 2008). We also non-parametrically plot (Figure IV) the density for registration 
+separately by birth date and by registration date. Visually, the density of registrants by birth date 
+looks ⁄at in the vicinity of 9/1/83. 
+5.2 Estimates of Impact of Registration After 9/11 on Party of Registration 
+In the next step we use regression discontinuity design to estimate the impact of birth after 9/1/01 
+on party of registration: in practice we estimate whether the voter is registered as a Republican, 
+Democrat or an Independent. In our analysis we count as an Independent anyone who is not 
+registered as either a Republican or a Democrat. In 2006, approximately 93% of those registered 
+were in one of these three categories; the others were registered with smaller parties such as the Green 
+Party, the American Independent Party and the Libertarian Party. In 2006, 38% of Californians 
+born after 1970 were registered Democrat, 28% as Republican and 34% were not registered with 
+either major party. 
+We show estimation results in Table II. In general, the results for the simple dummy model 
+(equation (1)) are di¤erent from the trend controls (equation (2)) and the Porter model (equation 
+(3)) estimates. However, the trend controls and the Porter model estimates are quite similar to 
+each other, suggesting that a linear trend most likely accounts for most of the endogeneity due to 
+partisanship trends over time. For the full sample, the increase is only signi–cant at a 5% level 
+for e¤ect on Republican registration in the trend control model. Birth after 9/1/83 increases 2006 
+Republican registration by 2.5 percentage points in the local trend model and 2.2% in the Porter 
+10See http://www.census.gov/prod/2006pubs/p20-556.pdf, p. 2. 11We thank Justin McCrary for making his .do –le available online. 
+18 
+
+========19========
+
+model. Both are signi–cant at the 5% level though the local trend estimate is also signi–cant at the 
+1% level. The estimates in the 2008 data sample are very similar in magnitude: 2.3% in the trend 
+control model and 1.9% in the Porter model, with both being signi–cant at the 10% level and the 
+trend control estimate also being signi–cant at the 1% level. The numerical results are con–rmed in 
+Figures IIIA (Republicans), IIIB (Democrats), and IIIC (Independents). 
+The movement towards the Republican party subtracts both from the Democratic Party and 
+from independents. However, neither estimates are signi–cant at conventional levels in 2006. The 
+2008 impact in 2008 is -1.6% in both the local trend and Porter estimates and is signi–cant at the 
+10% level using the Porter model. 
+The results for movers are somewhat di¤erent from the results for the full sample and in inter- 
+esting ways. The estimated e¤ects are substantially larger: approximately 6.2% both in 2008 and in 
+2006 for the Porter model and 6.8% and 6.5% respectively for the trend control model. All estimates 
+are signi–cant at the 5% level and the 2008 estimate using the trend control model is signi–cant 
+at the 1% level. Di¤erent from the results for the full sample, the e¤ects are almost of equal size 
+though opposite in sign for the independents. The estimates for independents are -6.0% in the 2006 
+trend control model and otherwise within 0.2% of -5.0%. All estimates are signi–cant at the 10% 
+level. The point estimates for Democrats are very small and insigni–cant in all speci–cations across 
+both samples of Democrats. 
+What accounts for the di¤erences in magnitudes across movers and the full sample, as well as the 
+di¤erences in e¤ected political parties? Movers are demographically distinct from the full sample. 
+Looking at table V, movers are more likely to be from zip codes with more whites and smaller 
+populations. They also are more likely to have chosen the Republican party as an alternative 
+to registering independent as opposed to registering Democrat. Consistent with Zaller™s (1992) 
+hypothesis about who is impacted by the media, those impacted by the 9/11 shock are likely to be 
+somewhat more highly educated whites living in more urban areas. We will return to the issue of 
+who was impacted and why in the section 6. 
+19 
+
+========20========
+
+5.3 Census and Gender Placebos 
+In addition to running regressions with registration after 9/11/01 and choice of political party as 
+outcome variables, we also run a number of placebos. Even though we –nd no net mobilization or 
+demobilization of voters born just after 9/1/83, we are still concerned that 9=11 could have mobilized 
+latent Republicans and demobilized latent Democrats born just after 9/1/83 and in roughly equal 
+proportions. To address this concern, we run placebos on the voter characteristics and characteristics 
+of voters™zip codes for those born on either side of the birth date discontinuity. 
+We test run regressions with 13 placebo outcomes. 12 of the 13 placebo outcomes are census 
+averages for the zip code of the registrant. The other outcome is the registrant™s gender. Our census 
+placebo variables include total population, fraction urban, fraction White, fraction Black, fraction 
+Latino, fraction Native American, fraction Asian, fraction over 15, median per capita income, number 
+of households per capita, number of families per capita, and the poverty rate. Table III shows that 
+none of the placebos is signi–cant at the 5% level. Only gender is signi–cant at the 10% level and only 
+in the mover sample. Therefore, 9/11 was unlikely to have permanently mobilized or demobilized 
+voter registration. 
+5.4 Robustness Checks 
+We now present our robustness checks to deal with serial correlation across the running variable and 
+speci–cation bias. The –rst of these is that we break up the running variable into non-intersecting 
+blocks, each 60 days in length. We then estimate placebo regression discontinuities on the placebo 
+days in the middle of the di¤erent blocks and report the percentile of the true value in the dis- 
+tribution compromised of the placebo discontinuities and the true value. We estimate 90 placebo 
+discontinuities starting with individuals born in January, 1971. Of course, in the presence of time- 
+varying heteroskedasticity, it is possible that the true discontinuity estimate has a larger e¤ect just 
+due to higher variance in the true discontinuity block. Therefore, we report p-values both for the 
+distribution of estimates and the distribution of t-statistics. For the impact of birth on Republican 
+registration, our true estimate was larger than any of the other 90 estimates. However, one of the 
+90 placebo blocks did have a larger t-statistic though with a negative mean impact. In addition, 
+the p-value for the e¤ect on Democratic registration was 0.09 though the p-value for the t-statistic 
+20 
+
+========21========
+
+distribution was considerably lower at 0.21. We graph the distributions in Figure VI. The impacts 
+on independent registration are not close to signi–cance at any conventional levels. In Figure VII, 
+we also graph the distribution of the census placebos and self-reported gender. We do –nd two out 
+of 13 signi–cant at a 10% level though none at the 5% level. Also, none of the distributions of the 
+t-statistics are signi–cant at a 10% level. 
+As an additional check on functional form bias, we estimate the simple di¤erence estimator in 
+equation (4). The bene–t of this estimator is that it formulates a hypothesis which conforms to the 
+data and thus does not su¤er from functional form bias. However, since the change is estimated 
+using a small number of points, it is a high variance estimator. Since we are again concerned about 
+serial correlation in heteroskedasticity, we break up the running variable into non-intersecting blocks 
+of 20 days and estimate 271 placebo changes in addition to 271 placebo standard deviations of the 
+outcome variable over the placebo windows. We compute the standard deviations excluding the days 
+over which the change is computed. Instead of taking the change between the day and the day before 
+the discontinuity, we look at a two day change. Our results are quantitatively and qualitatively very 
+similar to the one day change. The change for both Republicans and Democrats are signi–cant at 
+the 5% level though not the 1% level. The mean estimate for Republicans is a change of 4.6% and 
+for the Democrats a change of -6.9% putting the changes into the 97.8 percentile and 1.1 percentile 
+of the respective placebo distributions. The standard deviations were at the 63.6 percentile and 19.1 
+percentile of the Republican and Democratic placebo standard deviation distributions, reinforcing 
+that the increase in Republican voting and decrease in Democratic voting is not due to an increase 
+in cross-day variability in party of registration around 9/11. 
+5.5 Estimates of Persistence 
+In table VI, we estimate our main speci–cation: the degree of persistence. We regress party of 
+registration in 2008 on party of registration in 2006, instrumenting party of registration with birth 
+after 9/1/01. We do this with both the full sample and the mover sample and in two ways: with 
+OLS and with the Porter estimator. 
+Before presenting our instrumental variables estimates, we –rst provide some evidence whether 
+on our instrument™s monotonicity. This is important in order to be able to interpret the IV estimates 
+21 
+
+========22========
+
+as a local average treatment e¤ect of people likely to switch party a¢ liation due to the 9/11 event. 
+We bootstrap our estimates with 1,000 replications. Only three of our 1,000 bootstrap estimates 
+for the impact of birth after 9/1/01 on Republican voting are negative and only 21 for the impact 
+on Democratic registration were positive. This is in contrast to the independents, for whom 48.4% 
+were negative and 51.6% were positive. 
+For the OLS estimates, we include linear trends in birth date di¤erentially before and after 
+9/1/01 as an included instrument. Our sole excluded instrument is birth after 9/1/01. In four out 
+of six cases, we can reject the null hypothesis of no persistence but in no cases can we reject the 
+null of full persistence. In the other two cases, the –rst stage F-statistics are below one. Moreover, 
+our precise estimates are all within 0.1 below one and 0.25 above one. In particular, the estimates 
+for Republicans are 0.938 for the full sample and 1.072 for the movers sample. The Republican full 
+sample estimate is the only one with a –rst stage F-statistic above 10. Since weak instruments can 
+lead to estimates that are biased towards the OLS estimate and can also lead to incorrect test sizes, 
+we also estimate using the Porter estimator. We use a simple two sample IV, bootstrap the standard 
+errors with 1,000 replications where we report the percentage of bootstrapped estimates below zero 
+as our p-values. The p-values are generally higher with the two sample IV, potentially due to weak 
+instruments and small sample bias. However, in our four precisely estimated cases, the two sample 
+IV estimates look quite similar to the 2SLS IV estimates. All the two sample IV estimates except 
+for the full sample independent voter estimate are within 0.2 of one. The estimates for Republicans 
+are 1.166 for the full sample and 1.013 for the movers sample. The Democrat full sample estimate 
+is 0.935. All three of these are signi–cant at the 5% level. In addition, the Independent voter mover 
+sample™s point estimate is 1.020 and is signi–cant at the 10% level. 
+We do not show results of the impact of 9/11 on party of registration because the impact of 
+birth date on registration after 9/11 is underestimated. Sometimes, when citizens re-register, their 
+registration date remains the same and other times, the registration date changes. Unfortunately, 
+this depends upon policies of local counties. Since a much larger percentage of those born before 
+9/1/83 registered just before 9/11/01, re-registration lowers the measured e¤ect of birth after 9/1/83 
+on 9/11/01. This leads to some unreasonable results. We can see this from a two sample IV of the 
+impact of registration after 9/11 on Republican registration. This is obtained by dividing the impact 
+22 
+
+========23========
+
+of birth after 9/1/83 on party of registration by the impact of birth after 9/1/83 on registration after 
+9/11/01. We shows some simple calculation focusing on our benchmark of impact on registration 
+for the Republican party. 
+Using Porter estimates, which are similar to the results using the linear control model, in 2006, 
+we estimate that registration after 9/11 increases Republican registration by 33%; for movers, the 
+impact is much higher: 113%. Between 2006 and 2008, the estimates for the impact on Republican 
+registration do not change much, consistent with full or near full persistence. For the sample as 
+a whole, the decline in the estimated impact is 14%; for the movers, the estimated change in the 
+impact is 0%. In contrast, there is a marked decline in the measured impact of birth after 9/1/83 
+on registration after 9/11/01. For the full sample, the point estimate declines by 27% and for the 
+movers, who are more likely to change their registration, the point estimate declines by 47%. 35% of 
+movers in have a registration date in 2007 or 2008 in the 2008 data set. Therefore, the estimates of 
+the impact of registration after 9/11/01 on Republican registration increase dramatically to 40% for 
+the full sample and 214% for movers. So, whereas our design is useful for estimating the persistence 
+of party a¢ liation, it only provides an upper bound estimate of the impact of registration after 9=11 
+on party of registration. 
+6 Interpretations 
+We now try to better interpret our –ndings. First, we look at which groups (age and region) 
+responded to the 9/11 shocks. Then, we discuss the quantitative impacts of our –ndings dynamically 
+over time. Finally, we use our –ndings to understand models of belief formation. 
+6.1 Responses to Information 
+This subsection documents who reacted to the 9/11 political shock. We look across age and parti- 
+sanship of region of residence. We check whether our results are consistent with Converse™s (1976) 
+hypothesis that the young are much more subject to in⁄uence by news. Similarly, we also check the 
+consistency of our –ndings with Zaller™s (1992) theory that those who are subject to in⁄uence by 
+news are those who pay attention, but are not as partisan. 
+23 
+
+========24========
+
+6.1.1 Age 
+We examine whether the 9/11 shock had a much larger impact on the political registration behavior 
+of 18 year olds than those in the age group 25 to 60. We mainly focus on the younger age group for 
+two reasons. The –rst and most important is that there is a discontinuity in registration probability 
+when people turn 18. This is critical for our identi–cation strategy because it randomizes, within 
+the group of 18 year olds, those who register –rst after 9/11/01 (and thus are more likely to initially 
+register Republican) and those who register –rst before 9/11/01 (and thus are initially more likely 
+to register Democrat). However, another bene–t of looking at 18 year olds is that individuals at 
+this age are particularly open to political persuasion. There is a large literature which says that 
+political ideas are formed in early adulthood and afterwards ideas stabilize and become harder to 
+change (Converse, 1976). Therefore, older adults may, in general, be less likely to be in⁄uenced by 
+political events. Because they have lower variance political priors, they may be less likely to react to 
+a political shock in the short or the long run. More recent research has challenged this view (Green, 
+Palmquist and Schickler, 2002). To look at this issue, we run additional speci–cations, concentrating 
+on people who were between 25 and 60 years old on 9/11/01, and who re-registered to vote within 
+a 30 day window of September 11, 2001. 
+We run the Porter regression of Republican registration, Democratic registration and independent 
+registration on date of registration with a discontinuity date of 9/11/01. We only report the results 
+in the text. We do –nd an impact on Republican registration,which is remarkably similar magnitude 
+to our benchmark estimate of 18 year olds: 2.2%. The e¤ect is signi–cant at the 1% level. Whereas 
+we see a small and statistically insigni–cant impact on Democratic registration (-0.05%), the impact 
+on registration as an independent is -1.7% and signi–cant at a 5% level. However, we have to be 
+careful in comparing these estimates to our estimates for 18 year olds. The estimates for 18 year 
+olds were estimates of the impact of birth date, not registration date on Republican registration. 
+As discussed in Section 5.5, our estimates for the impact of registration after 9/11 on Republican 
+registration is 33%; it is estimated to be 113% for the movers subsample. Of course, these estimates 
+have an upward bias due to a downward bias in the measurement of the impact of birth after 8/31/83 
+on registration after 9/11/01. However, even for the full sample of 18 year olds, the estimated impact 
+would have to fall by an order of magnitude in order to be even close to the impact for those older 
+24 
+
+========25========
+
+than 25. This would imply an impact of birth after 8/31/83 on registration after 9/11/01 of over 
+50%, which is implausible. 
+Moreover, we are concerned about the endogeneity of our –ndings for the older population. 
+Whereas Republican 18 year olds can not shift their birth date in response to 9/11, Republicans can 
+di¤erentially re-register after 9/11. To check for potential endogeneity, we run a Porter regression 
+on sex and year of birth. Those registering just after 9/11/01 are 0.6 years older on average, and 
+the e¤ect is signi–cant at even a 0.1% level of con–dence. Additionally, we perform the McCrary 
+test for continuity of registration around 9/11 and are able to reject at a 1% level of con–dence. 
+Accordingly, we conclude that the impact of the 9/11 shock seems to have had a much larger impact 
+on 18 year olds than on those between 25 and 60, consistent with Converse (1976). 
+6.1.2 Partisanship By Region 
+Where information is more available, we expect less persistence. Information availability depends 
+upon both the demand side and the supply side. Later, we will look at the demand side (zip codes 
+near universities). We now look at the supply side. We look at more partisan and less partisan 
+districts. We examine the impact of 9/11 in pro-Democratic, Republican and swing districts. Ac- 
+cordingly, we split our sample into the top third most Democratic, the top third most Republican 
+and the remaining third in the middle according to aggregate Congressional vote share in the Con- 
+gressional District. The Democratic districts have Republican vote shares of less than 32.5%. The 
+Republican districts have a Republican vote share of greater than 64%. The swing districts then 
+have Republican vote share between 32.5% and 64.0%. Table VIII shows that in all three types 
+of districts, there is a large and signi–cant impact of birth on or after 9/1/83 on registration after 
+9/11/01. The magnitude is around 6-7% in all cases for 2006. The largest impact on the Republican 
+vote share is in the Democratic districts. It is 4.5%, and signi–cant at a 95% level of con–dence. 
+The e¤ect in the Republican districts is slightly smaller at 3.9%, but is not signi–cant at even a 
+90% con–dence level, partially due to the smaller sized e¤ect and partially due to higher standard 
+errors. Note that the sample size for the sum of three types of districts is signi–cantly smaller than 
+the overall sample size. This is due to zip codes which cross Congressional District boundaries and 
+thus get dropped. In the swing districts there is not much movement in vote share from 9/11. Also 
+25 
+
+========26========
+
+note that the e¤ect on Democrat vote share is larger in magnitude than the e¤ect on Republican 
+vote share in the Democratic areas. People who otherwise would have registered Democrat instead 
+register Independent as well as Republican. This is di¤erent from the Republican areas, where there 
+was a movement towards the Republican party from both the Democrats and the Independents. We 
+note that where we have signi–cant e¤ects (the Democratic districts) in 2006, we have signi–cant 
+e¤ects of a similar magnitude in 2008, once again con–rming full, or close to, full persistence across 
+the population. 
+Since Republican, Democratic and swing potentially attract very di¤erent types of individuals, 
+we restrict our sample to people registered in zip codes within 2 miles of a Congressional District 
+boundary. We then break up our sample into zip codes in a district which had a close House of 
+Representatives election in 2002 or 2004. We compare our results in these competitive districts to 
+similar districts within 2 miles of a Congressional District boundary in lop-sided races. We de–ne 
+close races as races where the two party vote share was less than 55% and greater than 45% for 
+the two parties. All other races we de–ne to be lop-sided. Figure VII is a map of the state of 
+California with electoral district boundaries in red and zip codes within two miles of a Congressional 
+District boundary in blue. We throw out zip codes which cross Congressional District Boundaries. 
+The estimation results are shown in Table VII. We only –nd an impact of 9/11 in the lop-sided 
+districts where political parties are the least active. However, the null e¤ect in close election areas 
+is somewhat illusory. We do not –nd an impact of birth after 9/1/83 on registration after 9/11/01. 
+This could be in part due to competitiveness of political parties in reaching out to 18 year olds and 
+mobilizing them to register right at their birth day. We –nd an equally large e¤ect of birth after 
+9/1/83 on registration in the non-border areas as in the close election border areas. However, there 
+is no signi–cant impact of 9/11 on Republican registration in 2006. The point estimates are 0.014, as 
+opposed to 0.043 in the lop-sided districts. Border zip codes are more rural, wealthy, and ethnically 
+white (Table VI). Many of the non-border areas are in close election districts, potentially explaining 
+the lack of a signi–cant e¤ect in those areas. This lack of persistence of the 9=11 shock in competitive 
+districts suggests that political persistence is not driven by costly information processing. 
+Unfortunately, more independent areas did not react to the 9/11 shocks and so we can not use 
+di¤erential response by degree of party competition to make inference about the role of information 
+26 
+
+========27========
+
+availability in generating persistence. However, the fact that there was an impact of 9/11 in both 
+Democratic and Republican areas but not in areas which are more mixed is itself quite interesting. It 
+suggests either of two possible interpretations: (1.) those in the middle are less interested in politics 
+and thus do not react to new information or (2.) they react less because both parties are active in 
+–ltering information which moderates the impact of news. This latter interpretation is consistent 
+to Zaller™s (1992) theory that individuals who are knowledgeable are less in⁄uenced by news. Zaller 
+focussed on demand-side determinants of knowledge. However, political parties may play a role as 
+well on the supply side. This would be an interesting area for future research. 
+6.2 Magnitudes 
+We showed that an individual™s initial choice of political party persists and we can not reject that 
+it persists inde–nitely - at least for the set of voters whose political a¢ liations were a¤ected by the 
+September 11 attacks.12 We should point out that our estimates cannot rule out the possibility that 
+there is heterogeneity in persistence in which some voters persist inde–nitely and others persist a 
+su¢ ciently small amount of time that the switchers had already switched by 2006 when we –rst 
+collected registration data. There is a large long run di¤erence between full persistence horizon and 
+90% persistence over two years much less 60% over 2 years. Whereas all of the con–dence intervals 
+for our persistence estimates include full persistence (a coe¢ cient of 1.0), they all also include a 
+two year persistence between 0.8 and 0.9. We should point out that heterogeneity in persistence is 
+consistent with our –ndings. For example, it is possible that preference shocks persist inde–nitely 
+for some members of the electorate while for others, persistence is so small that the switchers had 
+already switched by 2006 when we –rst collected registration data.13 
+The range of numbers within our 95% con–dence interval. There is a large long run di¤erence 
+between full persistence over a two year horizon and 90% persistence over two years much less 60%. 
+Our analysis suggests that the length of time required to reduce the average partisan gap by an 
+12Furthermore, the degree of persistence in political partisanship is even more striking if we account for the possibility 
+that the group of registrants a¤ected by 9/11 were if anything, less ideologically partisan before their birth date. 
+13We should point out that our estimates cannot rule out the possibility that there is heterogeneity in persistence 
+and that some voters persist inde–nitely and others persist a su¢ ciently small amount of time that the switchers had 
+already switched by 2006 when we –rst collected registration data. 
+27 
+
+========28========
+
+order of magnitude (to 10 percent of the initial gap) is quite long. In particular, a 2 year persistence 
+coe¢ cient of 0.6 implies that it takes 10 years, a coe¢ cient of 0.8 implies 22 years, 44 years with a 
+coe¢ cient of 0.9, and 460 years with a coe¢ cient of 0.99. On average, convergence never happens 
+with a coe¢ cient of 1.0. 
+Given this persistence, it is possible that a president who is popular with the young can have a 
+large impact on election outcomes years into the future. For instance, according to Pew Research 
+Center, amongst those in the 18-29 category, 66% voted for Obama in 2008 as opposed to 53% in 
+the general population14. In contrast, since 1980, the youth gap had never been higher than 6%. 
+Moreover, 18-29 year olds accounted for 17% of the electorate. That is roughly a 2.3% impact on 
+the vote share. Vote share di¤erences in US Presidential elections have been below 2.3% almost once 
+a decade: 4 times since 1960. In 1960, the Kennedy defeated Nixon by 0.1%; then in 1968, Nixon 
+defeated Humphrey by 0.7%. In 1976, Ford lost to Carter by 2.1%; –nally, in 2000, Bush won over 
+Gore with an aggregate vote share di¤erential of -0.5% (though a majority of the electoral votes). 
+Moreover, if we take our lowest point estimate for Republican persistence (the party for which we 
+have the greatest precision), it is 0.938. If we then calculate the vote gap for Democrats between 
+those becoming eligible to vote for the 2008 general election and those becoming eligible in 2000 
+when the youth gap was zero, it will take approximately 26 years to reduce down to a 1% gap. 
+Estimates of full persistence do not at all preclude switching. In fact, in our main sample of people 
+born within 30 days of 9/1/83, 2.6% switch from Republican to Democrat and 4.3% switch from 
+Democrat to Republican. Unsurprisingly, the numbers are larger in magnitude for movers. 7.9% of 
+movers switch from Republican to Democrat and 12.1% switch from Democrat to Republican15. How 
+are these results of substantial switching reconcilable with our –ndings of full or near full persistence? 
+The answer is that they measure very di¤erent things. Lets examine the case of full persistence. 
+People born just after 8/31/83 are more likely to have initially registered Republican than people 
+born just before. Individuals may switch from Republican to Democrat or vice versa. However, 
+14See http://pewresearch.org/pubs/1031/young-voters-in-the-2008-election. 
+15Alternatively, we could have estimated hazard models. However, given the measurement error in registration date, 
+the results would not have been terribly meaningful. Therefore, we could have only reasonably estimated hazard rates 
+o¤ of the di¤erence between the 2006 data sample and the 2008 data sample. Reporting simple transition probabilities 
+seemed a more parsimonious approach given our data limitations. 
+28 
+
+========29========
+
+this will not happen di¤erentially across the birth date threshold. Therefore, the average di¤erences 
+between those born on either side of 9/1/01 will remain despite random individual switching. In 
+other words, there will be no mean reversion from the 9/11 shock in the aggregate population. 
+6.3 The Persistence of Political Partisanship: Possible Mechanisms 
+We now use our estimates of persistence to help us better understand models of belief formation. A 
+range of potential theories may help explain aspects of persistence of partisanship. We discuss each 
+of them in turn, be it costly information acquisition or processing, social e¤ects or cognitive biases. 
+1. Bayesian Learning & Persuasion: Our persistence results are incompatible with models of strict 
+Bayesian learning. Any di¤erences in beliefs across Bayesian learners must be due either to di¤erences 
+in priors (Acemoglu, Chernozhukov and Yildiz; 2009) or due to di¤erences in information. However 
+our RD design allows us to rule out that di¤erences in priors is the culprit. On average, we should not 
+expect priors to di¤er across groups of people who are born a couple of days apart. Could di¤erences 
+in information at the time of initial registration account for long run di¤erences in partisanship? 
+9/11 was a large enough political event that rational Bayesian individuals registering di¤erently 
+because they were born a few days apart should not have di¤erent posteriors about politics after 
+9/11. Moreover, they also should not systematically seek di¤erent information sources. 
+Nevertheless, since parties send out information to their registered voters, it is possible that 
+the two di¤erent groups could passively receive di¤erent information. Kamenica and Gentzkow 
+(forthcoming) show that a biased source can manipulate a rational Bayesian updater™s decision by 
+choosing what massages to send. In particular, they show that it is possible for a Democratic news 
+source to persuade rational Bayesian updaters to register Democrat by sending signals which most 
+of the time convince the voter that the Democratic candidate is better and a small percentage of 
+the time convince the voter that the Republican candidate is much better. In a new working paper, 
+Kamenika and Gentzkow (2010) show that media consumers become fully informed when two media 
+sources with opposing viewpoints both send messages. So their argument relies on large costs of 
+information acquisition. We turn to that particular mechanism next. 
+2. Costly Information: If information collection or processing costs are an important source for 
+persistence, we should expect greater political persistence amongst those individuals who –nd it 
+29 
+
+========30========
+
+costlier to collect or process information. For instance, better educated individuals, or those who 
+are located where education levels are higher are likely to have lower costs of processing politically 
+relevant information. We examine this by looking at zip codes within 2 miles of a 4 year university. 
+These zip codes are enclosed by red lines in the map of the state of California shown in Figure 
+VI. University zip codes tend to be somewhat poorer, less likely to have people under 15, are more 
+urban, and have a higher density of African Americans (Table VI). Somewhat surprisingly, there 
+are similar impacts of birth on or after 9/1/01 on registration after 9/11/01 in the university and 
+non-university areas (Table VII). However, there is only an impact on party of registration in the 
+university zip codes. The impact on Republican registration is 3.1% and signi–cant at the 5% level, 
+even with the smaller sample size. There are no signi–cant impacts on either registration as an 
+independent or as a Democrat. The point estimates are negative for impacts on both Democrats 
+and independents and roughly equal in size but they are not signi–cant in either case. Moreover, the 
+point estimate for Republicans is even larger in 2008 than in 2006, suggesting full persistence. Since 
+we –nd full persistence even in university areas, we are inclined to disfavor channels that emphasize 
+costly information collection or costly information processing. 
+3. Social E¤ects and Identity: One possibility is that an individual™s pre-existing set of friends 
+strongly in⁄uences political party choice. Our experimental design rules out this type of simple 
+peer e¤ect. It is unlikely that prior to registering for a political party, individuals systematically 
+preferred to associate with only those others who were born on either side of an arbitrarily chosen 
+date. This is especially true given that we are looking at such small di¤erences in the date of birth. 
+In contrast, registering for a political party may help crystallize an ‚identity™. This may result in 
+political persistence if this ‚identity™results in an ‚identity cost™of switching political parties (Akerlof 
+and Kranton, 2010). 
+4. Cognitive Biases: Cognitive factors may also help explain political persistence. In particular, our 
+–ndings are consistent with con–rmatory bias (Rabin and Schrag, 1999) where an individual pays 
+selective attention or interprets information so as to con–rm her initial priors. First impressions may 
+a¤ect memory recall or alter subsequent information –ltering. This is closely related to the idea of 
+cognitive dissonance - where registering for a political party may make the individual psychologically 
+vested in that decision. The individual will, then, process information that favors his initial choice 
+30 
+
+========31========
+
+of party - resulting in political persistence. 
+Our –ndings, are also consistent with explanations which are mixtures of both cognitive and 
+social biases. We give a couple of examples. First, there are peer group e¤ects. People choose 
+to form friendships based at least in part upon politics. Gentzkow and Shapiro (2010) show, using 
+survey data, that whereas media exposure is not very segregated across Democrats and Republicans, 
+friendships are much more segregated; moreover, political discussions mostly happen between people 
+with very similar politics. People may retain the same public political partisan leanings because doing 
+otherwise would be socially costly. However, this is not enough to explain registration behavior. 
+People who change their partisanship could lie to their pre-existing friends. However, cognitive 
+dissonance combined with peer group e¤ects could easily explain persistence. Another possible 
+channel is what DeMarzo, Vayanos and Zwiebel (2003) call ﬁpersuasion biasﬂ- where individuals fail 
+to account and adjust for repetition of information that they may receive. For example, individuals 
+may belong to and socially interact with a Democratic group in university. However, information 
+processing will be biased if an individual treats information received from his endogenously chosen 
+social network as independent. However this cognitive bias is again not enough in and of itself. 
+Individuals must –rst form social networks with people of similar partisan leanings. 
+Accordingly, we argue that the balance of the evidence seems to suggest that the persistence 
+in political partisanship is driven mainly by some combination of social identity e¤ects and cog- 
+nitive biases. There is much less support for rational Bayesian arguments, information processing 
+arguments or pre-existing social networks. 
+7 Conclusion 
+Does the mere act of a¢ liating with a political party increase chances of a¢ liating with that same 
+party in the future? If so, how long does the impact of original a¢ liation persist? We answer these 
+questions by looking at di¤erences in initial party registration behavior of 18 year olds who happened 
+to register to vote for the –rst time just before versus after September 11, 2001 due to small di¤erences 
+in birth date. The 9/11 attacks were on the one hand, a large enough political event to have had 
+an impact and, on the other hand, unforeseen so that those registering just before 9/11 were not a 
+select group. In particular, individuals registering in the state of California for the –rst time before 
+31 
+
+========32========
+
+9/11/01 did not know about the bombings when they registered and those registering immediately 
+after did. Our results are quite striking. We –nd that on average the 9/11 attacks moved registrants 
+towards the Republican party by over two percentage points. Moreover, the initial choice of political 
+party persists and we can not reject the hypothesis that it persists inde–nitely. This persistence 
+in political partisanship is surprisingly extreme, especially accounting for the fact that most likely, 
+relatively less partisan sets of individuals had their politics a¤ected by 9/11. Our –ndings have 
+important implications for the study of political economy. They provide another channel for policy 
+persistence; policies may persist simply because support for a party persists. 
+We explore possible reasons to account for this political persistence. We –nd full persistence for 
+those registered in zip codes within two miles of a four year university - suggesting that information 
+availability is unlikely to be a factor. We do –nd, however, no impact of 9/11 in highly politically 
+competitive areas, consistent with Zaller™s (1992) notion that the informed are not in⁄uenced by 
+news. We also –nd full persistence for independents, suggesting that the electorate is potentially 
+broken into groups of partisans and non-partisans. This –nding has strong implications for models 
+of voting behavior such as the probabilistic voting model. Whereas our –ndings are di¢ cult to 
+reconcile with Bayesian models of political inference, including ones allowing for costly information 
+acquisition or costly cognitive computation, we –nd our results consistent both with theories of 
+con–rmation bias and political identity formation. 
+We hope that future work will be better able to identify the groups who are particularly subject 
+to political news shocks. Are the elderly less susceptible to in⁄uence than the young? What role 
+does education play? We would also like to see if taking a political stance leads to persistence for the 
+entire population instead of just those who are susceptible to news shocks. In addition, we hope to 
+see further clari–cation on whether persistence in political beliefs is due more to individual political 
+identity formation, social group pressure or whether it is more for cognitive reasons. Understanding 
+persistence is important not only for understanding human behavior and belief formation but also 
+for understanding how public policy evolves. 
+32 
+
+========33========
+
+References 
+[1] Acemoglu, Daron, Chernozhukov, Victor and Muhamet Yildiz (2007) ﬁLearning and Disagree- 
+ment in an Uncertain Worldﬂ, MIT Working Paper. 
+[2] Acemoglu, Daron, G. Egorov and Konstantin Sonin (forthcoming), ﬁPolitical Selection and 
+Persistence of Bad Governmentsﬂ, Quarterly Journal of Economics.. 
+[3] Achen, Christopher (1992),ﬁ Social psychology, demographic variables, and linear regression: 
+Breaking the iron triangle in voting researchﬂ, Political Behavior, Vol. 14(3): 195-211. 
+[4] Akerlof, George and Rachel Kranton (2010), Identity Economics: How Our Identities Shape 
+our Work, Wages and Well-Being, Princeton University Press. 
+[5] Alwin, Duane and Jon Krosnick (1991); ﬁAging, Cohorts and the Stability of Sociopolitical 
+Orientations over the Life Span, American Journal of Sociology, Vol. 97: 169-95. 
+[6] Alesina, Alberto and Allan Drazen (1991), ﬁWhy are Stabilizations Delayed?ﬂ, American Eco- 
+nomic Review, Vol. 81(5), pp. 1170-1188. 
+[7] Alesina, Alberto and Nicola Fuchs-Schundeln (2008), ﬁGoodbye Lenin (or not?): The e¤ect of 
+Communism on people™s preferencesﬂ, American Economic Review, Vol. 97(4): 1507-1528. 
+[8] Angrist, Joshua D. and Alan B. Krueger (1995), ﬁSplit-Sample Instrumental Variables Estimates 
+of the Return to Schooling,ﬂJournal of Business and Economic Statistics, Vol. 13: 225Œ235. 
+[9] Arendt, Hannah (1998), The Human Condition, University of Chicago Press. 
+[10] Bartels, Larry (2002), ﬁBeyond the Running Tally: Partisan Bias in Political Perceptionsﬂ, 
+Political Behavior, Vol. 24(2): 117 - 149. 
+[11] Black, Earle and Merle Black (2003), The Rise of the Southern Republican, Harvard University 
+Press, Cambridge. 
+[12] Card, David and David Lee (2008), ﬁRegression Discontinuity Inference with Speci–cation Er- 
+rorﬂ, Journal of Econometrics, 142(2): 655-674. 
+33 
+
+========34========
+
+[13] Campbell, A., P. Converse, W. Miller and D. Stokes (1960), The American Voter, Wiley. 
+[14] Coate, Stephen and Stephen Morris (1995), ﬁOn the Form of Transfers to Special Interestsﬂ, 
+Journal of Political Economy, Vol. 103(6), pp. 1210-1235. 
+[15] Converse, Philip (1976), Dynamics of Party Support: Cohort Analytical Party Identi–cation, 
+Sage Publications, Inc. 
+[16] Dixit, Avinash and John Londregan (1995), ﬁRedistributive Politics and Economic Ine¢ ciencyﬂ, 
+American Political Science Review, vol 89(4): 856-866. 
+[17] Dixit, Avinash and John Londregan (1996), ﬁThe Determinants of Success of Special Interests 
+in Redistributive Politicsﬂ, Journal of Politics, vol 58(4): 1132-1155. 
+[18] Downs, Anthony (1957) An Economic Theory of Democracy, New York, Harper. 
+[19] Elster, Jon (1998) Deliberative Democracy, Cambridge University Press, Cambridge. 
+[20] Fernandez, Raquel and Dani Rodrik (1991), "Resistance to Reform: Status Quo Bias in the 
+Presence of Individual-Speci–c Uncertainty", American Economic Review, Vol. 81(5): 1146- 
+1155. 
+[21] Fiorina, Morris (1981); Retrospective Voting in American National Elections New Haven: Yale 
+University Press. 
+[22] Gelman, Andrew (2008), Red State, Blue State, Rich State, Poor State: Why Americans Vote 
+the Way They Do, Princeton University Press. 
+[23] Gerber, Alan and Donald Green (1998), ﬁRational Learning and Partisan Attitudes, Annual 
+Journal of Political Science, Vol. 42(3): 794-818. 
+[24] Gerber, Alan, Donald Green and Ron Shachar (2003), ﬁVoting May Be Habit Forming: Evidence 
+from a Randomized Field Experimentﬂ, American Political Science Review, vol. 47(3): 540-550. 
+[25] Gerber, Alan, Greg Huber and Ebonya Washington (forthcoming), ﬁPartisan A¢ liation, Parti- 
+sanship and Political Beliefs: A Field Experiment, ﬂ, American Political Science Review. 
+34 
+
+========35========
+
+[26] Gentzkow, Matthew and Kamenica (forthcoming), ﬁBayesian Persuasionﬂ, American Economic 
+Review. 
+[27] Gentzkow, Matthew and Jesse Shapiro (2010), ﬁIdeological Segregation Online and O ineﬂ, 
+University of Chicago Working Paper. 
+[28] Giuliano, Paula and Antonio Spilimbergo (2009), ﬁGrowing Up in a Recession: Beliefs and the 
+MacroeconomyﬂNBER Working Paper 15321. 
+[29] Green, Donald, B. Palmquist and E. Schickler (2002), Partisan Hearts and Minds: Political 
+Parties and the Social Identities of Voters, Yale University Press. 
+[30] Habermas, Jurgen (1985), The Theory of Communicative Action Vol. 1: Reason and the Ra- 
+tionalization of Society, Beacon Press. 
+[31] Heckman, James J. (1978), ﬁSimple Statistical Models for Discrete Panel Data Developed and 
+Applied to Test the Hypothesis of True State Dependence Against the Hypothesis of Spurious 
+State Dependence,ﬂAnnales de l™INSEE, Vol. 30-31: 227-269. 
+[32] Kunda, Ziva (1999), Social Cognition: Making Sense of People, MIT Press, Cambridge. 
+[33] Lindbeck, Assar and Jorgen Weibull (1987), ﬁBalanced Budget Redistribution as the Outcome 
+of Political Competitionﬂ, Public Choice, Vol. 52(3): 273-97. 
+[34] Meredith, Marc (2009), ﬁPersistence in Political ParticipationﬂQuarterly Journal of Political 
+Science Vol. 4(3): 186-208. 
+[35] Majumdar, Sumon and Sharun Mukand (2004), ﬁPolicy Gamblesﬂ, American Economic Review, 
+Vol. 94(4): 1207-1222. 
+[36] Mullainathan, Sendhil and Ebonya Washington (2009), ﬁﬁSticking With Your Vote: Cognitive 
+Dissonance and Votingﬂ, American Economic Journal: Applied Economics, Vol. 1(1): 86-111. 
+[37] Porter, Jack (2003), ﬁEstimation in the Regression Discontinuity Modelﬂ, Harvard University 
+Working Paper. 
+35 
+
+========36========
+
+[38] Rabin, Matthew and Joel Schrag (1999), ﬁFirst Impressions Matter: A Model of Con–rmatory 
+Biasﬂ, Quarterly Journal of Economics, Vol. 114(1): 37-82. 
+[39] Zaller, John (1992), The Nature and Origins of Mass Opinion, Cambridge University Press. 
+36 
+
+========37========
+
+Table I 
+Numbers of Registrants Over Varying Birth Windows 
+Num. Born  Num. Born  Total Born in   Share Born  Num. Reg.  % Reg Around  Mover  
+Before 9/1/01 After 9/1/01 Window Before Around 9/1/01 9/1/01 Share Full Sample 
+10 Days 5503 5508 11574 49.98% 538 4.65% 
+20 Days 11159 11279 23001 49.73% 1607 6.99% 
+30 Days 16743 16978 34284 49.65% 3144 9.17% 
+40 Days 22113 22617 45293 49.44% 4956 10.94% 
+50 Days 27778 27958 56299 49.84% 6838 12.15% 
+Mover Sample 
+10 Days 976 930 2000 51.21% 76 3.80% 17.28% 20 Days 1936 1917 3947 50.25% 221 5.60% 17.16% 30 Days 2889 2828 5811 50.53% 440 7.57% 16.95% 40 Days 3837 3790 7721 50.31% 695 9.00% 17.05% 50 Days 4841 4667 9602 50.92% 970 10.10% 17.06% 
+Notes: (1.) Columns list numbers of registrants born just before and after 9/1/01 for various window sizes (there is a discontinuity in probability of  registration after 9/11/01 at 9/1/01), (2.) Share Born Before is the share of those born before 9/1/01 in the sum of those born  before 9/1/01 and those born  after 9/1/01, (3.) The total window also includes those born on 9/1/01, (4.)  Movers restricts the sample to registrants who changed their recorded address  between 2006 and 2008. 
+
+========38========
+
+Table II 
+Impact of Birth After 9/11/83 on Registration Date and Party of Registration 
+Trend  
+Outcome Year Dummy MoversControls 
+Reg. After 9/11 2006 0.103*** 0.067*** 0.058*** 
+(0.0064) (0.0052) (0.0117) 
+Local  Local Poly.:  Polynomials Movers 0.066*** 0.055*** (0.0065) (0.0150) 
+Reg. After 9/11 2008 0.073*** 0.048*** 0.029*** 
+(0.0040) (0.0035) (0.0078) 
+0.048*** 0.029*** (0.0054) (0.0094) 
+Republican 2006 0.014*** 0.025*** 0.065** 0.022** 0.062** 
+(0.0035) (0.0063) (0.0258) (0.0107) (0.0260) 
+Democrat 2006 -0.012* -0.012 -0.005 -0.015 -0.012 
+(0.0051) (0.0090) (0.0193) (0.0113) (0.0272) 
+Independent 2006 -0.002 -0.013 -0.060* -0.007 -0.051* 
+(0.0051) (0.0092) (0.0232) (0.0114) (0.0275) 
+Republican 2008 0.010*** 0.023*** 0.068*** 0.019* 0.062** 
+(0.0036) (0.0068) (0.0250) (0.0106) (0.0252) 
+Democrat 2008 -0.009* -0.016 -0.016 -0.016* -0.012 
+(0.0052) (0.0095) (0.0203) (0.0114) (0.0279) 
+Independent 2008 -0.001 -0.007 -0.052* -0.003 -0.050* 
+ (0.0048) (0.0097) (0.0202) (0.0113) (0.0272) 
+N 34,288 34,288 5,801 34,288 5,801 
+OLS YYYNN Trend Controls NYYNN Mover Sample NNYNY Clustered on County YYYNN 
+Notes: (1.) All regressions are in a 30 day window surround the birthdate 9/1/01, (2.) Dummy is a simple regression of the outcome variable on a  dummy for birth after 9/1/01, (3.) Trend controls allows for linear controls in time separately before and after 9/1/01, (4.) Movers restricts the  sample to registrants who changed their recorded address between 2006 and 2008, (5.) The final two columns show the results of the Porter  Estimator for the full sample and for movers respectively, (6.) Standard errors are clustered on county for the OLS regressions, (7.) Year refers to  the year of the sample, (8.) Reg. After 9/11 is a dummy variable which takes on one if the voter's recorded day of registration  is after 9/11/01, (9.)  Republican refers to registration of the Republican Party, Democrat refers to registration for the Democrat party, and Independent refers to  registration for neither of the two major parties, (10.) *** p<0.01, ** p<0.05, * p<0.1 
+
+========39========
+
+Table III Census Placebos 
+Local  Local Poly. :  Census Variables OLS w/ Trends OLS: Movers Polynomials Movers Total Population -566 -1,047 -566 -1047 
+(605.8) (754.1) -492.5 -1111.7 
+Gender 0.012 0.051 0.012 -0.055* 
+(0.0126) (0.0374) (0.0139) (0.0327) 
+Urban 0.005 0.004 0.005 0.004 
+(0.0042) (0.0067) (0.0034) (0.0077) 
+White 0.007 0.004 0.007 0.004 
+(0.0079) (0.0126) (0.0061) (0.0137) 
+Black -0.003 0.001 -0.003 0.001 
+(0.0038) (0.0030) (0.0024) (0.0049) 
+Native American 0.000 0.000 0.000 0.000 
+(0.0005) (0.0004) (0.0003) (0.0004) 
+Asian 0.002 0.000 0.002 0.000 
+(0.0021) (0.0041) (0.0027) (0.0057) 
+Latino -0.006 -0.005 -0.006 -0.005 
+(0.0039) (0.0110) (0.0055) (0.0118) 
+Over 15 0.001 0.000 0.001 0.000 
+(0.0011) (0.0027) (0.0014) (0.0036) 
+Median Income -0.59 0.513 -0.590 0.513 
+(0.6270) (0.9880) (0.6827) (0.7995) 
+Num. Households 0.000 0.000 0.000 0.000 
+(0.0014) (0.0034) (0.002) (0.004) 
+Num. Families 0.000 0.001 0.000 0.001 
+(0.0007) (0.0018) (0.0008) (0.0020) 
+Poverty -0.003 0.001 -0.003 0.001 
+(0.0025) (0.0053) (0.0021) (0.0048) N 34,288 5,801 34,288 5,801 
+Notes: (1.) All regressions are in a 30 day window surround the birthdate, (2.) OLS regressions allow for linear controls in time separately before and after  9/1/01, (3.) Movers restricts the sample to registrants who changed their recorded address between 2006 and 2008, (4.) The final two columns show the  results of the Porter Estimator for the full sample and for movers respectively, (5.) Standard errors are clustered on county for the OLS regressions, (6.)  LHS variables are census averages of demographics at the county level except for Gender which is from the voter's registration form, (7.) *** p<0.01, **  p<0.05, * p<0.1 
+
+========40========
+
+Table IV 
+Inference Using Running Variable Placebos 
+Summary  
+Statistics Total 9/11 Changes Rank Percentile Mean (Republican Change) -0.001 272 0.046** 6 97.79% Mean (Democrat Change) 0.000 272 -0.069** 269 1.10% Mean (Independent Change) 0.001 272 0.023 48 82.35% 
+SD (Rep. Change) 0.105 272 0.106 99 63.60% SD (Dem. Change) 0.140 272 0.132 220 19.12% SD (Ind. Change) 0.126 272 0.133 69 74.63% 
+Notes: (1.) Mean is the average change over two days for the number of voters registering Democrat, Republican and Independent over 272  different pairs of days from 1970 to 2006; the days are themselves spaced 20 days apart, (2.) SD is the mean of the standard deviation of the  variable over the 20 day period omitting the days over which the variable change is computed, (3.) 9/11 Change is the change from August 31  to Sept 2, (4.) Rank is the rank of the change around 9/11 compared compared with the other 271 date pairs, (5.) Percentile is the percentile  rank of the 9/11 change, (6.)  *** p<0.01, ** p<0.05, * p<0.1 
+
+========41========
+
+Table V Persistence Estimates 
+Republican Republican Democrat Democrat Independent Independent Outcome Full Sample Movers Full Sample Movers Full Sample Movers IV: 2SLS 0.938*** 1.072*** 1.222*** 3.518 0.409 0.900*** 
+(0.1514) (0.2615) (0.3185) (14.7076) (0.8415) (0.2535) 
+1st Stage F Stat. 12.5513 4.8911 2.9378 0.0375 0.6879 5.7105 
+IV: Porter 1.166** 1.013** 0.935** 0.986 2.369 1.020* P-Value 0.010 0.032 0.026 0.282 0.256 0.078 
+Notes: (1.) All regressions are in a 30 day window surround the birthdate 9/1/01, (2.) All 2SLS regressions regress the dummy for party  (Republican, Democrat and Independent) membership in 2008 sample on the party dummy from the 2006 sample with two included instruments  (linear trends differentially before and after 9/1/01) and one excluded instrument (birth after 8/31/01), (3.) Porter IV estimates are the ratio of the  2008 Porter estimates for a party divided by the 2006 Porter estimates (i.e. a two sample IV estimate), (4.) Standard errors for the Porter IV  estimates are bootstrapped with 1,000 replications, (5.) P-values are the bootstrapped estimates below zero, (6.) Standard errors are clustered on  county for the OLS regressions, (7.) Movers estimates restrict the sample to registrants who changed their recorded address between 2006 and  2008, (8.) *** p<0.01, ** p<0.05, * p<0.1 
+
+========42========
+
+Table VI 
+Mean Comparisons 
+Moved Univ. Border Close Race Moved Univ. Border Close Race Repub. 0.008 -0.091*** 0.021 0.098** Total Pop. -2,026*** 4,433*** -5,944*** -4178 (2006) (0.0125) (0.0206) (0.0191) (0.0465) (723) (1647) (1696) (4410) 
+Dem -0.011 0.053*** -0.007 -0.004 Gender -0.093*** -0.014*** 0.009 0.028* (2006) (0.0082) (0.0192) (0.0184) (0.0365) (0.0062) (0.0049) (0.0060) (0.0155) 
+Indep. -0.010 0.030* -0.012 -0.076** Urban -0.0023 0.064*** -0.031*** -0.073* (2006) (0.0139) (0.0155) (0.0107) (0.0377) (0.0059) (0.0136) (0.0081) (0.0423) 
+Repub. -0.015 -0.088*** 0.018 0.086* White 0.060*** -0.043 0.074** 0.011 (2008) (0.0121) (0.0196) (0.0186) (0.0456) (0.0171) (0.0363) (0.0292) (0.0853) 
+Dem 0.025** 0.058*** -0.006 -0.010 Black -0.005 0.033* -0.011* -0.024 (2008) (0.0108) (0.0182) (0.0190) (0.0375) (0.0049) (0.0197) (0.0060) (0.0177) 
+Indep. -0.010 0.030* -0.012 -0.076** Native 0.001*** -0.002*** 0.002** 0.001 (2008) (0.0139) (0.0155) (0.0107) (0.0377) American (0.0003) (0.0004) (0.0007) (0.0014) 
+Asian -0.014*** 0.036** -0.026*** -0.014 
+(0.0027) (0.0164) (0.0057) (0.0252) 
+Latino -0.044*** -0.026 -0.040 0.023 
+(0.0133) (0.0306) (0.0272) (0.0628) 
+Over 15 0.011*** 0.021** 0.015*** -0.031*** 
+(0.0037) (0.0079) (0.0040) -0.0106 
+Median -0.097 -1.708** 2.115** 4.349 Income (0.4384) (0.7676) (0.8296) (5.4961) 
+Num 0.021*** 0.018** 0.018*** -0.019 House (0.0043) (0.0069) (0.0046) (0.0126) 
+Num -0.001 -0.012*** -0.001 0.013*** Families (0.0015) (0.0029) (0.0028) (0.0047) 
+Poverty -0.001 0.009 -0.005 0.024 
+(0.0043) (0.0160) (0.0113) (0.0181) 
+Observ. 34,228 34,228 34,228 15,242 34,228 34,228 34,228 15,242 Notes: (1.) Reported coefficients are from an OLS regression of an outcome variable (rows) regressed on a dummy variable (columns), (2.) Moved is a dummy for the sample of  mover across zip codes; Univ.is a dummy for voters registered in zip codes within 2 miles of a university; Border is a dummy for voters registered within 2 miles of a  Congressional District Border; Close Race is a dummy for the subsample of border zip codes where the House Race was won by less  than 5% points, (3.) Variables on the Right  Panel are census averages for a registrant's zip code with the exception of Gender which is the registrant's actual gender, (4.) Standard errors are clustered on county, (5.)  ***  p<0.01, ** p<0.05, * p<0.1 
+
+========43========
+
+Table VII 
+Heterogeneity of Effects: Competitive Electoral Districts, Universities, and District Partisanship 
+Non-Border Lop-Sided  Close  Outcome Zip Codes Elections Elections Reg. > 9/11 0.045*** 0.049*** 0.007 (2006) (0.0066) (0.0077) (0.0356) 
+University Non-Univ. Zip Codes Zip Codes 0.046*** 0.048*** (0.0065) (0.0076) 
+Reg. > 9/11 0.045*** 0.049*** 0.007 (2008) (0.0066) (0.0077) (0.0356) 
+0.046*** 0.048*** (0.0065) (0.0076) 
+Republican 0.014 0.043** -0.012 0.031** 0.010 (2006) (0.0142) (0.0173) (0.0662) (0.0137) (0.0168) 
+Democrat -0.004 -0.038** 0.020 -0.015 -0.013 (2006) (0.0151) (0.0184) (0.0648) (0.0155) (0.0166) 
+Independent -0.010 -0.005 -0.008 -0.015 0.003 (2006) (0.0152) (0.0186) (0.0518) (0.0154) (0.0168) 
+Republican 0.012 0.043** -0.004 0.034** -0.001 (2008) (0.0141) (0.0172) (0.0658) (0.0136) (0.0167) 
+Democrat -0.009 -0.033* 0.018 -0.023 -0.006 (2008) (0.0152) (0.0186) (0.0652) (0.0156) (0.0167) 
+Independent -0.003 -0.010 -0.014 -0.011 0.007 (2008) (0.0151) (0.0185) (0.0524) (0.0153) (0.0167) 
+N 19,046 14,168 1,074 19,296 14,992 
+Notes: (1.) All regressions use the full sample of registrants born within a 30 day window surrounding the birthdate 9/1/01, (2.) All  regressions use the Porter Estimator, (3.) Non-border zip codes refers to the sample of all registrants in zip codes which are not within  two miles of a Congressional District boundary; Zip codes within two miles of a Congressional District boundary are split into Lop- Sided Elections, where vote margins of victory are less than 10% and Close Elections where vote margins of victory were less than  10%, (4.) University Zip Codes are zip codes within two miles of a 4 year university; Non-University Zip Codes are zip codes within  two miles of a university,  (5.) Zip codes for estimates by partisan leaning which cross Congressional District boundaries are dropped,  (6.) Year refers to the year of the sample, (7.) Reg. After 9/11 is a dummy variable which takes on one if the voter's recorded day of  registration is after 9/11/01, (8.) Republican refers to registration of the Republican Party, Democrat refers to registration for the  Democrat party, and Independent refers to registration for neither of the two major parties, (9.) *** p<0.01, ** p<0.05, * p<0.1 
+
+========44========
+
+Table VIII 
+Heterogeneity Across Democratic, Swing and Republican Districts 
+Dem. Dist. Swing Dist. Rep. Dist. Dem. Dist. Swing Dist. Rep. Dist. Outcome Year Full Sample Full Sample Full Sample Movers Movers Movers Reg. After 9/11 2006 0.063*** 0.067*** 0.059*** 0.031 0.020 0.107*** 
+(0.0174) (0.0185) (0.0156) (0.0354) (0.0447) (0.0311) 
+Reg. After 9/11 2008 0.043*** 0.047*** 0.041*** 
+(0.0144) (0.0152) (0.0136) 
+0.013 0.024 (0.0202) (0.0276) 
+0.061*** (0.0211) 
+Republican 2006 0.045** 0.013 0.039 -0.015 
+(0.0226) (0.0299) (0.0297) (0.0523) 
+-0.059 (0.0728) 
+0.135** (0.0642) 
+Democrat 2006 -0.069** -0.014 -0.029 -0.009 0.099 -0.007 
+(0.0311) 0.0295 (0.0275) (0.0719) 0.0718 (0.0601) 
+Independent 2006 0.024 0.002 -0.010 0.024 -0.040 -0.142** 
+(0.0309) (0.0286) (0.0292) (0.0718) (0.0702) (0.0637) 
+Republican 2008 0.047** -0.003 0.025 -0.005 -0.065 0.089 
+(0.0225) (0.0297) (0.0295) (0.0497) (0.0705) (0.0625) 
+Democrat 2008 -0.072** -0.004 -0.028 0.010 0.146** 0.041 
+(0.0312) (0.0297) (0.0279) (0.0728) (0.0733) (0.0622) 
+Independent 2008 0.025 -0.006 0.002 -0.006 -0.081 -0.129** 
+ (0.0307) 0.0285 (0.0291) (0.0707) (0.0706) (0.0640) 
+N 4,988 5,041 5,216 900 873 1,095 
+Notes: (1.) All regressions are in a 30 day window surround the birthdate 9/1/01, (2.) All regressions use the Porter estimator, (3.) Democratic Districts  are the third most Democratic Congressional Districts; they are districts with Republican vote share less than 32.5%; Swing Districts have in between  32.% Republican vote share and 64.0% Republican vote share; Republican Districts are the most Republican districts and have Republican votes share  greater than 64.0%, (4.) Zip codes which cross Congressional District boundaries are dropped, (5.) Year is the year of the sample, (6.) Reg. After 9/11 is  a dummy variable which takes on one if the voter's recorded day of registration is after 9/11/01, (7.) Republican refers to registration of the Republican  Party, Democrat refers to registration for the Democrat party, and Independent refers to registration for neither of the two major parties, (8.) *** p<0.01,  ** p<0.05, * p<0.1 
+
+========45========
+
+
+========46========
+
+
+========47========
+
+
+========48========
+
+
+========49========
+
+
+========50========
+
+
+========51========
+
+
+========52========
+
+
+========53========
+
+
+========54========
+
+May 2011 
+             No.43 
+Persistence of Political Partisanship: Evidence from 9/11 
+Prof Sharun Mukand(Warwick) and Dr Ethan Kaplan (Stockholm) 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========55========
+

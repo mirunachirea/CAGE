@@ -1,0 +1,565 @@
+March 2012 
+No.79 
+Whither Capitalism? Financial Externalities and Crisis 
+Marcus Miller and Lei Zhang 
+University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+     Whither Capitalism? Financial Externalities and Crisis1 
+Marcus Miller and Lei Zhang 
+University of Warwick 
+October 2011 
+Abstract 
+As with global warming, so with financial crises – externalities have a lot to answer for. We  look at three of them. First the financial accelerator due to ‘fire sales’ of collateral assets -- a  form of pecuniary externality that leads to liquidity being undervalued. Second the ‘risk- shifting’ behaviour of highly-levered financial institutions who keep the upside of risky  investment while passing the downside to others thanks to limited liability. Finally, the  network externality where the structure of the financial industry helps propagate shocks  around the system unless this is checked by some form of circuit breaker, or ‘ring-fence’.  
+The contrast between crisis-induced Great Recession and its aftermath of slow growth  in the  West and the rapid - and (so far) sustained - growth in the East suggests that successful  economic progress may depend on how well these externalities are managed. 
+Key words: Externalities, financial accelerator, limited liability, risk-shifting, global  imbalances, financial networks 
+JEL classifications: F41, G01, G18, G21 
+                                                            
+1. 
+For comments and suggestions, we are grateful to Peter Hammond, Paulo Santos Monteiro and discussion  at  
+the IEA  World Congress, Beijing, July 2011. 
+0 
+
+========2========
+
+Introduction 
+The Pareto-efficiency of competitive economic equilibrium is, of course, a central feature of  the Arrow-Debreu paradigm. But in 1986 two papers appeared concerning the welfare  inefficiency of competitive equilibria.  Geanakoplos and Polemarchakis showed that ‘missing  markets’ implied the possibility of Pareto-improving interventions; while Greenwald and  Stiglitz demonstrated that missing markets and asymmetric information implied that  competitive market prices could generate ‘pecuniary externalities’ -- with market prices  generating side-effects conceptually similar to technological externalities (such as the  productive interactions of Silicon Valley or the negative effects of industrial pollution). 
+Historical events were soon to lead to a much greater reliance on market forces world-wide, however.  The break-up of the USSR signalled the collapse of the Communist challenge to  market-oriented models of economic development and encouraged a shift from managed  capitalism to market capitalism - with the administrations of Mrs Thatcher and President  Ronald Reagan in the vanguard. In the UK, for instance, there was widespread privatisation  of nationalised industries and the stock of housing; and, in financial services, the Big Bang of  1986 signalled the opening up of the City of London to the forces of global competition.  Likewise in the USA -- where Government intervention was increasingly seen as ‘part of the  problem not the solution’ -- there was pressure to deregulate financial services; and the  success of Mr Greenspan in handling the US stock market break on Black Monday in 1987  encouraged the belief that self-regulation plus adept interest rate management could head off  financial crisis. 
+New York and London being world-leading financial centres competing for global business,  this triggered a regulatory ‘race to the bottom’ -- with reliance on self-regulation on one side  of the Atlantic matched by ‘light touch’ regulation on the other2. Over time this led  on  to repeal of the Glass Steagall legislation in the  USA ; and to such a rapid  expansion of  UK  
+                                                            
+2 
+Substantial losses suffered by US banks on Latin American lending in the 1980s did, however, lead  to cooperation in searching for internationally accepted baselines for prudential regulation. The result  wa the Basel Accord of 1988, setting a minimum capital requirement of 8% of total risk-weighted  assets on individual banks, which led to a substantial recapitalisation of the international banking  sector. 
+1 
+
+========3========
+
+banking that at the peak it was host to an industry with a balance sheet more than five times  local GDP! 
+What then of the early warnings from 1986? They seemed to be largely forgotten. Even when  severe financial crisis erupted in East Asia in 1997/8, this was widely seen as a symptom of  nascent capitalism -- of poorly regulated banks, connected lending and excessive foreign  currency exposure -- to be solved by upgrading financial regulation to the exemplary  standards of the leading economies in the West. The IMF did put to one side its plans for  increased deregulation of the capital account3; but faith in the effic ac y of lightly -regulated  markets in advanced economies was largely  unshaken . Indeed t he assumption of financial  
+market efficiency  was to become the hall -mark of macroeconomic models used by central  
+banks to steer the economy  in the time of  Great Moderation.  Even when markets departed  
+fro m fundamentals, as in the US  ‘high-tech’ bubble which characterised the early years of the  21st century, interest rate policy on its own seemed adequate for handling the consequences of  the asset price correction, Greenspan (2002). 
+But the financial crisis in North Atlantic economies in 2007/8 -- and the threat it posed of  collapse for the Western financial system and a possible repeat of the Great Depression - has  forced a reconsideration of consensus, with Mr Greenspan himself acknowledging that his  faith in the efficiency of market forces had been misplaced. 
+Do financial crises provide concrete examples of financial externalities in action?  A recent  empirical study by Majnoni and Powell (2011) using quarterly data for 139 corporate issues  from the period 1999-2006 suggests that -- at least for emerging markets - they have. They  test the hypothesis that corporate spreads will normally be determined by firm, country and  international financial characteristics; but in addition they will rise at times of crisis due to  endogenous risk or amplification effects. Their empirical results show an amplification of  shocks during crisis times depending on the size of the credit market before the crisis. For  
+                                                            
+3 
+Just before the East Asian crisis, the IMF had been planning to change the Articles of Agreement so  as to remove the sovereign right of members to impose capital controls, Fischer (2004). 
+2 
+
+========4========
+
+banking crises in particular, the weakness of the banking system amplifies shocks by  increasing the cost of capital for non-financial firms.4 
+What are the nature of these externalities? H ow  to reshape the rules and structure of banking  
+world -wide to limit the m ?  How likely are these reforms to be effected? These are the issues  to be explored in this paper. In the first section we look at  fire-sale externalities and the  under-provision of liquidity; in the second section we look at the risk-shifting due to limited  liability; finally in section three at the risk of contagion posed by the network feature of  banking. 
+In conclusion, we note how vividly the shock to the Western economies – now mired in  recession with the prospect of years of slow growth to come - contrasts with the success of  managed capitalism of India and China both in avoiding these crises and in maintaining  enviable rates of economic growth. The capacity of an economic system to limit pecuniary  externalities may, it seems, be an important determinant of capitalist development. 
+1. Fire-sales and the under-provision of liquidity 
+The ‘financial accelerator’ as pecuniary externality 
+Even without financial intermediaries, a credit-constrained market economy – where  collateral is used to handle repudiation risk – can exhibit liquidity crises and collapsing asset  prices. In the model of Kiyotaki and Moore (1997), for example,  productive small business  entrepreneurs wish to raise outside finance to acquire the fixed capital assets but face an agency problem because the  ‘human capital’ used in the business is inalienable. Recourse is  had to the issuance of debt backed by physical collateral, priced to reflect its productivity outside the entrepreneurial sector (i.e. in the hands of the ‘deep pocket’ lenders). In the face  of uncorrelated, idiosyncratic productivity shocks, agents adversely affected can sell capital  and pay down debt without affecting asset prices. But in the face of an adverse  
+macroeconomic shock to entrepreneurial productivity, the borrowing constraint can lead to  ‘fire-sales’ which affect the price of the collateral and trigger yet further sales, i.e. there is a  pecuniary externality. 
+                                                            
+4 
+For advanced economies, Barrell et al (2010) show how the probability of the crisis can be explained  by inadequate levels of capital and liquidity. 
+3 
+
+========5========
+
+This is in sharp contrast to the ‘first best’ economy where all agents are unconstrained in the  credit market, and prices and production are unaffected by net worth. How this externality  can impact on the allocation of fixed asset in the model of Kiyotaki and Moore (1997) can be  seen schematically in Figure 1. 
+Asset Price 
+qt 
+SC 
+B' 
+D' 
+Initial  conditions 
+Bursting asset bubble 
+B 
+D 
+S 
+q* 
+A θ 
+E 
+qx 
+X 
+S 
+D' 
+Temporary productivity shock 
+D 
+Insolvency 
+Solvency 
+SB Asset Holdings 
+kc 
+k* 
+kt 
+Fig. 1. The financial accelerator as pecuniary externality (Source: Miller and Stiglitz, 2010) 
+From equilibrium at E, where debt-financed Small Businesses entrepreneurs hold a stock k*  of fixed assets at price q*, the immediate impact of an adverse productivity shock is indicated  by the ‘initial condition’ labelled DD -- a schedule for their disposal of fixed assets, k, as  needed to match the  fall in net worth due to a one-period drop in productivity. This schedule  can be interpreted as an unexpected need for liquidity on their part, Krishnamurthy (2009).  From this perspective, asset prices have to fall until, at point X, the balance-sheet-driven  ‘demand for liquidity’ by Small Businesses (measured to the left from k* to DD) is matched by  the ‘supply of liquidity’ by the residual buyers who have no balance sheet problems (the agents  with ‘deep pockets’) whose take-up of assets is measured from k* to the schedule labelled SS. 
+As the figure shows, the impact on asset holding has two components. The distance EA  
+4 
+
+========6========
+
+indicates how far Small Businesses need to contract their holdings at a constant price, q*, as  they dispose of assets to reduce their borrowing in line with the fall in net worth5; the second  component , AX, indicates the need for further  disposals  due to t he advers e net worth effects  of asset prices falling in the face of concerted selling by small businesses to residual buyers  
+with  declining marginal productivity -- net worth effects  that are exacerbated by expected persistence . In the absence of fresh  shocks, the system will gradually return to equilibrium  
+along the stable path 
+6 
+SS. Th us the pecuniary externality  acts as a ‘financial accelerator’ that  takes short-run equilibrium from A to point X on SS.  
+Like Gai et al. (2008), Korinek (2011) modifies this framework so that the borrowing is done  by financial intermediaries, risk-neutral bankers who raise finance from households and  invest in risky projects; and he shows how the externality involved can be thought of in terms  their undervaluation of liquidity. Banks who think that in adverse conditions they can sell  assets fail to realise that with correlated shocks these sales will help push prices down. A  social planner would anticipate the fall and take on less risk, as he explains: 
+A planner internalizes the fact that a decline in asset prices leads to financial amplification  since it reduces the amount of liquidity that bankers can raise from their sales of each unit of  the assets. This pecuniary externality reduces the efficiency of the distribution of capital. By  contrast, decentralized bankers take asset prices as given since they realize that the behaviour of  an atomistic agent has only an infinitesimal effect on asset prices.  
+Central bankers and regulators have not generally been acting like social planners it seems.  According to Majnoni and Powell (2011) ‘policy makers in the developed world (albeit with  notable exceptions)  allowed financial institutions to push leverage up to unprecedented limits  under a shared optimism regarding the capacity of capital markets to supply an almost infinite  amount of liquidity’.  
+The difference between the private valuation and the planner’s social valuation of liquidity, as shown in Fig. 2 , is defined as the pecuniary externality (which falls to  zero in  unconstrained states). For social efficiency, Korinek (2011) proposes a state-contingent, 
+                                                            
+5 
+This would have little welfare significance if the user cost of capital – its productivity in the hands of  the residual buyers -- were constant.  
+6 
+In their discussion of amplification through balance sheets and asset prices, Kiyotaki and Moore (1997)  assume that the ‘overshooting’ will not be severe enough to render the illiquid agents insolvent. 
+5 
+
+========7========
+
+proportional tax on risk-taking that brings the private cost in line with the social cost. This is  a metaphor for macro-prudential regulation as “it closely captures what BIS defines as the  macro-prudential approach to regulation: it is designed to limit system-wide financial distress  that stems from the correlated exposure of financial institutions and to avoid the resulting real  losses in the economy” (p.26).  He also proposes taxation on complex securities such as a  CDS swap “which is likely to require large payouts precisely in times of financial turmoil” (p.  27). 
+Figure 2: Private and Social Valuation of Liquidity (Source: Korinek, 2011) 
+While these policy measures are expressed in terms of taxes on externalities, Korinek argues  that they are broadly equivalent to capital adequacy requirements “which have tax-like effects  because bank capital is costly” (p28). Such capital requirements could be reduced if CDS  swaps can be arranged ‘that shift systemic risk to agents outside the financial system who are  not subject to financial constraint’. (A deal between US banks and Chinese sovereign wealth  fund to deliver liquidity in the crisis, for example?) 
+This welfare perspective seems to match that of Stiglitz (2010) when he argues that: 
+6 
+
+========8========
+
+‘The financial sector has imposed huge externalities on the rest of society. America’s  financial industry polluted the world with toxic mortgages, and, in line with the well established “polluter pays” principle, taxes should be imposed on it. Besides, well- designed taxes on the financial sector might help alleviate problems caused by  excessive leverage and banks that are too big to fail. Taxes on speculative activity  might encourage banks to focus greater attention on performing their key societal role  of providing credit.’  
+Risk of insolvency especially after collapse of asset bubble 
+In the discussing the amplification shocks through balance sheets and asset prices, it is  customary to assume that the ‘overshooting’ will not be severe enough to render the illiquid  agents insolvent, Kiyotaki and Moore (1997), Krishnamurthy (2010) and Korinek (2011). This  is a rashly optimistic assumption in the aftermath of an asset bubble -- especially if highly  levered institutions are involved -- as is suggested in Figure 1 where the disposal schedule D'D'  associated with an asset bubble fails to intersect SS to the right of SC, the Solvency Constraint. 
+In Japan, for example, Koo (2008, pp. 14-15) reports that de-leveraging made many firms  technically insolvent after the bubble burst. In the recent North Atlantic crisis, Lehman  Brothers famously went bankrupt and Fanny May and Freddie Mac were nationalised soon  afterwards -- as were two mortgage banks in the UK. In both countries rescue plans for the  financial sector also included substantial injections of equity capital for financial institutions7. 
+How the existence of limited liability  how this can  lead to  an asset bubble  
+may induce firms to run the risk of insolvency - is  the subject of the next section. 
+-- and  
+2. Risk-shifting and under-provision of capital 
+In Casino Capitalism, Hans Werner Sinn notes how the limited liability corporation was and  is crucial for the mobilisation of savings to fund risky investment, as the limitation of liability  is needed to convince the small shareholder to participate. While this corporate form may be  ‘capitalism’s secret of success’, it can be misused by taking on massive leverage, which  generates negative externalities in the form of excessive risk-taking whose downside is borne  by the creditors. The case of US investment banks is cited as a case in point: 
+Investment banks, until well into the 1970s, were all organized as partnerships, and as  such offered their market partners the unlimited private liability of their owners. But  
+                                                            
+7 
+Further detail available in Alessandri and Haldane (2009),  Miller and Stiglitz (2009) and Sinn (2010). 
+7 
+
+========9========
+
+they evolved eventually into corporations in order to limit their liability to their equity  capital. … For the five big American investment banks in 2006, before the financial  crisis erupted, business volume was leveraged by a factor of 22 to 33 of what would  have been possible if only equity had been lent. (pp. 76-77) 
+If a business volume of 100 units of money is only backed by three to four-and a-half  units of equity, it can easily happen that in times of crises the losses eat up the equity  and lead to bankruptcy. Even worse was the fact that the low level of equity combined  with limited liability induced the stockholders to demand ever riskier business models  in order to increase their profits. … If some of the losses are borne by the creditors, it  pays to take the risk. (p.79)  
+It is the negative externality that bankers impose on their creditors and possibly the  taxpayer that induces excessive risk-taking, producing private profits and social  losses.(p.81) 
+This same logic is explored in a piece written about emerging markets by Allen and Gale  (2000) (see also Allen and Gale, 2007, Chapter 9). But they go further and show how the  incentive for highly levered institutions to shift risk on to their creditors can have the effect of  raising asset prices above the fundamental level8, i.e. create a ‘bubble’, adding further to the  vulnerability of the financial system. 
+In this section, risk-shifting incentives are presented in the context of a simple two bloc  global model, designed to show how financial externalities, weak regulation and missing  markets can expose the global economy to the risk of crisis. First we discuss how limited  liability and weak regulation of financial intermediaries can lead to an asset price bubble in  the Home country; then we look at how precautionary motive in the Foreign country (which  saves because of an absence of insurance) can further inflate the asset price in the Home  country. 
+2.1 Limited liability and excessive leverage 
+To formalise the argument we adapt Allen and Gale (2000) model study asset pricing in the  Home country (which, in the light of Sinn’s comments, could be thought of as the US). Assume there are two periods and there are two assets are available in the Home country: a  safe asset with variable supply and a risky one in fixed supply of 1. The gross return on the  safe asset in period 2 is R (R 1) and that on the risky asset is RH with probability  and  RL with probability 1 .  
+                                                            
+8 
+Prices that would be established without leverage. 
+8 
+
+========10========
+
+The investment in the risky asset has to be done through financial intermediation (e.g., risk  neutral banks) which is perfectly competitive. In the absence of adverse incentives in the  intermediation sector, the equilibrium price of the risky asset in period 1 must satisfy: 
+RH PF 
+(1 
+) RL PF 
+R 
+(1) 
+where PF represents the fundamental price of the risky asset, i.e.,  
+PF 
+RH 
+(1 R 
+)RL 
+. 
+(2) 
+For each unit investment in the risky asset, an intermediary is required to finance a fraction  k by issuing equity and borrows the rest from the market at a cost of R . (So 1 /k indicates  the leverage of the intermediary.) Let k be set by a regulatory authority, where alow value  of k indicates weak regulation of financial intermediaries.Assume specifically that  k 
+(RH RL) 
+PF 
+(3) 
+i.e. k is set too low to prevent risk-shifting behaviour on the part of the financial  intermediaries.  
+If all intermediaries are protected by limited liability, then perfect competition implies 
+(RHP 
+R) (1 
+)( 
+k) 0 
+(4) 
+where P indicates equilibrium price for the risky asset with financial intermediation. For  simplicity, we assume that the cost of the intermediary's own capital is R . So, the first term  on the right hand side of (4) represents the payoff to the intermediary in the good state, and  the second the payoff in the bad state. Note that, given(3), the realisation of the bad state  implies that the debt will not be paid in full since RL / P (1 k)R. In this case, the liability  will be taken over by an insuring agency, and the intermediary will be closed down and lose  
+its own capital,k .  
+Solving for P in (4) yields 
+P 
+RH R ( 1 
+)k 
+(5) 
+9 
+
+========11========
+
+and together with (3) this implies,  
+P 
+PF 
+i.e., weak regulation leads to asset price bubbles. 
+Let  ( 
+R,k) 
+P/PF represent the relative size of the bubble, then from (2) and (5), one finds 
+R 
+(R,k)/ R 
+0 
+(6) 
+and 
+k 
+(R,k)/ 
+k 0 
+(7) 
+i.e., a higher interest rate R reduces the demand for the risky asset, dampening its price rise; while weaker regulation (lower k ) increases intermediaries' incentive to shift risk and so  pushes up the price of the risky asset. 
+As long as households are not aware of the risk-shifting incentives that exist in the financial  intermediaries, they will treat the bubble as if it is an increase in their real wealth, as in  Laibson and Mollerstrom (2010). In the next section, we look at the global impact of this  agency problem. 
+2.2 Missing insurance markets and precautionary saving 
+Let the global exchange economy consist of two countries -- Home and Foreign -- and last  two periods. Only non-state-contingent assets can be traded between Home and Foreign. Each country is populated by a continuum of ex-ante identical consumers with preferences  over consumption in periods 1 and 2, C1 and  C 
+2 
+respectively (with * indicates variables for  
+the Foreign country), given by standard additively separable utility function which has a  
+Constant Relative Risk Averse. 
+Assume t here is no uncertainty in the first period and both countries are endowed with 1  
+of the single tradable commodity.  . To reflect a higher incidence of macroeconomic shocks the Foreign country, let two possible states of nature exist in the Foreign country 
+unit  
+in  
+, in period 2,  
+10 
+
+========12========
+
+with probability of 1 and  respectively, where  is the probability of a low state.  Specificallywe assume the state-dependent aggregate growth rate of its endowments is gˆ in  
+the high state and gˆ 
+inthe low state, giving Foreign's period 2 endowment as 1 gˆ and  
+1 gˆ 
+respectively. 
+Assume also that consumers in the Foreign country are identical ex-ante but, in period 2, they  are divided into two groups. The first group, with a measure of 1 , is unaffected by the  aggregate shock and enjoys the same endowment in either state. The second group, with a  measure of  , suffers the full brunt of the aggregate shock in the low state, so their  endowment is disproportionally reduced to 1 gˆ / in the low state.9 This formulation is  
+based on Mankiw (1986) mod el of the concentration of aggregate shocks, and is intended to  capture the lack of risk -pooling among residents of foreign country due to the absence of  social safety net or the presence of private information and moral hazard considerations. 
+Given the re 
+al global gross interest rate of  
+R , the optimal allocation of consumption in the  
+Foreign country implies its period 1 consumption  
+C 
+* 
+1 
+(R, ) has the properties 
+that :  
+C 
+* 
+1 
+(R, )/ R 0 and  C 
+* 
+1 
+(R, )/ 0. The first property is because a rise in  through both income and substitution effects, decreases period 1 consumption. The second is  because higher risk concentration leads to higher precautionary saving in the Foreign country,  red ucing its period 1 consumption , as discussed in  Miller et al  (2010). 
+R ,  
+Let the period 1 endowment of a consumer in the Home country's be 1,  so period 2 resources  will consist in an endowment of  1 g and the returns on the investment he/she made through  
+the financial intermediary in period 1. If consumers in the Home country are not aware of  incentive problem in financial intermediaries, they would treat an increase in P as an  increase in their wealth. So the ex ante wealth for the Home consumers is 
+WH 
+1 (1 
+g)R 
+1 
+( ) 
+where  
+'( ) 0 positive wealth effect of the bubble.  
+                                                            
+9The lower is the value of  
+, the higher is the degree of risk concentration. 
+11 
+
+========13========
+
+For a given the real global gross interest rate  R , the optimal allocation of consumption in the  
+Home country implies period 1 consumption C 
+1(R, 
+) has the properties:  
+C1(R, )/ 
+R 0 
+and  C1(R, )/ 0. The reason for the first property is the same as that for the Foreign’s  period 1 consumption. The second property simply reflects the fact that asset price bubbles  have a positive wealth effect.  
+To complete the model, we introduce the market-clearing condition for period 1 to determine  
+the equilibrium global interest rate R 
+: 
+C*1 (R, ) 
+C1(R, ) 2 
+(8) 
+Using the properties of  C1(R, ) and  C 
+* 
+1 
+(R, ) above, the equilibrium condition (8) implies  the following comparative statics for the global interest rate: 
+R 
+C 
+* 
+1 
+(R, )/ 
+R 
+C 
+* 
+1 
+(R, )/ C1(R, )/ 
+R 
+R 
+C1(R, )/ 
+0 
+(9) 
+R k 
+C 
+* 
+1 
+(R, )/ 
+R 
+k 
+C1(R, )/ C1(R, )/ 
+R 
+R 
+C1(R, )/ 
+0 
+(10) 
+How excessive leverage  and  risk concentration can affect  the pattern of  consumption and  
+global interest rates is illustrated with the aid of Figure 3, where the horizontal axis measures  
+period 1 consumption and the vertical the global real interest rates. (Note that Home’s  consumption is measured from point O 
+H 
+and that of the Foreign country measured from O 
+F 
+.)  In the absence of asset price bubble ( 1) and the risk concentration ( 1), the  
+equilibrium is at point A where the two demand schedules of the Home and the Foreign  intersect. Note that allocation at point A is only ‘constrained efficient’ because the global  asset markets are incomplete: full efficiency would require Arrow securities or GDP linked  bonds. 
+12 
+
+========14========
+
+R 
+C*1 (R, 
+C1(R, 
+C1(R, 
+A 
+B 
+C1(R, 
+OH 
+OF 
+Figure 3. Risk concentration, excessive leverage and global imbalances 
+Limited liability, weak regulation and excessive leverage leading to an asset bubble shift  Home’s demand schedule up to C 
+1(R, 
+1) reflecting  the  increased wealth  perceived by  Home consumers , as in Laibson and Mollerstrom  (2010) . The presence of risk concentration 
+, 
+on the other hand , shifts Foreign’s demand schedule down to C1 
+*( 
+R , 1) due to precautionary savings. Global market-clearing equilibrium with risk concentration and  excessive leverage is given by point B where the two revised demand schedules intersect.  With appropriate choice of  and  , substantial global imbalances will emerge with little  changes of real interest rates.  
+By assumption, both externalities and missing markets play a role in defining this equilibrium  -- a situation of excessive, bubble-driven consumption in one country and high precautionary  savings in the other. Welfare-improving policy interventions would involve tightening  regulation in the Home country (increasing k) and providing a social safety net in the Foreign  country (increasing  ). With  and k above the critical value shown in (3) above,  
+13 
+
+========15========
+
+equilibrium would be at A. (Welfare improvement from A would require completing the  global asset market, e.g. by the issuance of GDP bonds.) 
+3. Network externalities, contagion and circuit breakers 
+Liquidity and solvency problems have been studied in previous sections without considering  the pattern of interconnectedness between agents --. by assuming, so to say, a representative  bank. This could be defended from a reductionist perspective – why look at structure unless  you have to? It has been found however, that industry structure is key for contagion: research  at the Bank of England and the FRBNY using stochastic network theory shows that different  structures can lead to very different propagation mechanisms.  
+This is what we study in this section, beginning with a discussion of the special nature of  banks - how it arises from asymmetric information and missing markets; and how it leads to  institutional arrangements that call for a structural analysis. This is followed by a simplified  model of the banking industry where risk-pooling encourages individual banks to consolidate  into banking groups, but the risk of contagion inside any group sets a limit to efficient group  size. If the activities that generate contagion can be hived off outside the banking industry,  however, group size can expand indefinitely. This could be interpreted as an argument for  Glass-Steagall type of separation of commercial and investment banking. It may also provide  a rationale for the partial separation recommended by the UK Vickers Commission where  investment and commercial banking activities can remain within the same corporate entity  but are separated by a “ring-fence”.  
+Liquidity Provision 
+Taking the Diamond and Dybvig (1983) model as a benchmark, the problem facing agents  wishing to invest long term subject to random liquidity needs is imperfect markets for  liquidity insurance. The tension between long term investment and need for cash can be  reduced by trading in the non-contingent spot markets – what Allen and Gale call the market  solution. But,  as they show,  banks can achieve Pareto improvement by pooling of liquidity  risks using the law of large numbers. This banking solution is however, subject to a  coordination problem in that fears of depositor flight can lead to a bank run. Even without  bank runs, there is an obvious risk that the law of large numbers --- while it applies across  banks --- does not apply to any individual bank or those in a region.  Hence the emergence of  interbank markets to pool liquidity.  
+14 
+
+========16========
+
+But, as the sub-prime crisis has made clear, these interbank markets - where short-term  lending is not collateralized - are themselves prone to seizure when fear of counterparty  insolvency  stalks the streets. In the crisis of 2008-10, interbank lending effectively gravitated onto the balance sheet of  central banks: following the collapse of Lehman Brothers, the  liabilities of US Federal Reserve promptly  doubled while the balance-sheet of the Bank of  England expanded three and half times.  
+So banks that pool liquidity risk among their customers and interbank markets which  economize on system wide liquidity are both prone to collapse. Network gains are subject to  coordination failure. 
+Contagious insolvency 
+Similar issues arise with respect to insolvency.  In their stochastic network model of UK  banks Gai and Kapadia (2010) and Gai et al (2010) find that an interconnected financial  system of a large number of banks can fail if and when a shock hits affects a ‘super-spreader’ and is then dissipated widely around the system. 
+Modelling how network structure can amplify shocks may be relevant for the analysis of the  financial crisis, but in the view of Jon Danielsson (2010) a realistic ‘endogenous risk model is  beyond our abilities’. In these circumstances, he argues that supervisors should focus their  attention on where the risk is created rather than trying to measure it; and that the most  important factor is resolution – i.e. the closure of systematically important financial  institutions which have gambled and face failure. 
+Another approach, as in Stiglitz (2011), is to simplify the structure sufficiently so as to  achieve analytical tractability.  Using the electricity grid system as a metaphor, Stiglitz’s  analysis involves production uncertainty where the risk of productivity shocks is insured by  sharing costs between all the players. The result is a stylised model of endogenous risk,  where the gains of connectivity have to be balanced against the risk of propagating large  shocks around the system. By analogy with the electricity grid, the principal policy  recommendation is the implementation of ‘circuit breakers’, designed to limit the propagation  of large shocks. 
+15 
+
+========17========
+
+To throw light on structural measures currently being taken to reduce the vulnerability of  banking - both in terms of resolution procedures and of the ‘ring-fencing’ – a  simplified  version of the Stiglitz model is provided in the Annex, with a trade-off between sharing small  risks and avoiding large ones. Forming an interconnected group allows for risk-pooling, but it  exposes group members to contagion from a large shock hitting any group member, so there  is a limit to optimal group size. Given a ‘circuit breaker’ which prevents any contagion from  a large shock, however, there is no limit to the size of the group. 
+In an open economy context, Stiglitz (2011) suggests that such circuit breakers could be  interpreted as restrictions on capital flows. Here we suggest that  a circuit breaker be  interpreted as a metaphor for structural changes designed to limit the damage an insolvent  Systemically Important Financial Institution (SIFI) can impose on the wider banking system.  This could include both resolution procedures, and ‘ring-fencing’ proposals. In the UK, for  example, the Banking Act 2009 created a Special Resolution Regime (SRR)10, giving the  authorities a framework for dealing  promptly  with distressed banks and building societies ;  and the  Vickers Commission has recommended a ‘ring-fence’ for the retail banking  operations of big universal banks so that it will be possible to let the riskier investment  banking arms to fail without imperilling household savings and small business lending. 
+Financial regulation: the state of play  
+What is being done to check the impact of externalities in the financial sector since the crisis  of 2008/10? The steps being taken involve first the regulation of individual bank portfolios in  the form of rules governing capital adequacy and liquidity holdings; second changes to the  structure of the industry; and finally macro-prudential interventions across the industry which  varies with the business cycle.  
+A compact summary of the current state of play on the first two of these is provided by  Barrell and Davis (2011): 
+On Capital:  
+The new regulations, which are basically complete, will raise common equity from the  previous minimum of 1 per cent of risk-weighted assets to at least 4.5 per cent, and  
+                                                            
+10 
+By, for example, transferring all or part of a bank to a private sector purchaser, or to a ‘bridge bank’  subsidiary of the Bank of England, or into temporary public ownership; or sending it to be wound up. 
+16 
+
+========18========
+
+Tier 1 as a whole to 6 per cent. A conservation buffer of 2.5 per cent of risk-weighted  assets must also be built up with common equity, and if this is exhausted in a crisis then  the bank will be wound up.   A minimum ratio of capital to total (unadjusted) assets of  3 per cent must be held.  
+There is provision for a countercyclical capital buffer of up to 2.5 per cent of risk- weighted assets, which is to be imposed at the discretion of the regulators. The  regulation of subsidiaries and capital market activities has been substantially tightened,  including the introduction of stress-related benchmarks for trading book capital and  counterparty credit risk.  
+Table 1. Capital requirements. Source: Barrel and Davis (2011, p. F5). 
+On Liquidity 
+Two new regulations for liquidity risk are being introduced: first, a liquidity coverage  ratio (LCR) enforcing sufficient liquid assets to offset net cash outflows during a 30- day period of stress; second, a net stable funding ratio (NSFR) which seeks to ensure a degree of maturity matching over a one-year horizon, including allowance for off- balance sheet commitments. 
+The Timetable  
+Given the virulence of the crisis, plans for implementation of these reforms are extraordinarily protracted. As can be seen from the graphic of Cechetti et al. (2011), the  build- up of the equity and the implementation of the liquidity standards is spread over a  decade. 
+17 
+
+========19========
+
+Source: Cechetti et al. (2011, p. R35) 
+Implications for bank leverage  
+Academic economists see the need for much tougher regulation than do the guardians of  financial stability housed in Basel, as may be seen from the following table where the  recommendation of  Admati et al (2010) in their evidence to the ICB - that capital  be 15% on  total assets implying  leverage in single figures -    is shown in the last line.  
+By contrast, the minimum capital requirement shown at the top of the table is the 7% baseline  ratio of equity to risk weighted assets (RWA) of Basel III. As indicated in column 3, with risk  weighted assets at half the balance sheet, the leverage for banks at the Basel III minimum  could rise alarmingly close to 30.  
+The second line of the table shows what  Barrel et al (2011) calculate as the level of capital  necessary to reduce banking risk to acceptable levels - double the Basel requirements; and  this is followed by what Miles et al. (2010) estimate is needed.  
+18 
+
+========20========
+
+Minimum % RWA 
+Capital  % Total  Assets 
+Basel III 
+4.5 +2.5 = 7 + Cyclical      Buffer 
+3.5 
+Requirement Liquidity Other Leverage 
+(assuming  
+50% RWA) 
+     28 LCR,  Resolution 
+SFR 
+“Double Basel”  Barrell & Davis(2011) 
+14 
+         7 
+    14 
+Miles et al.(2010) 
+19  
+9.5  
+       11 
+ICB Final  Report(2011) (Retail banking)* 
+20 
+       10 
+      10 
+Ring- fencing 
+Admati et al.(2010) 
+n. a. 
+       15 
+         4 
+Memo item Hedge Funds Alessandri and  Haldane (2009) 
+       30 
+        3.33 
+Table 2. Regulatory measures for capital, liquidity and structural separation 
+Of crucial importance for the regulation of banking in the UK are the proposals of the  Independent Commission for Banking established by the current coalition Government and  chaired by Sir John Vickers.  In the Final Report, the Commissioners specifically recommend  a ‘ring-fence’ to insulate vital banking services on which households and SMEs depend from  problems elsewhere in the financial system. (Such a ‘ring-fence’ is similar to imposing ex  ante circuit breakers, limiting the spread of systemic risks ex post.) Ring-fenced banks are  required to have very substantial capital backing, roughly 10% of equity and 10 % of ‘Cocos’,  bonds that convert to equity depending on market conditions.  
+In addition, ring fenced banks are explicitly banned from providing a wide range of activities.  The list of these Prohibited Services (given in Chapter 3, para 3.39 of the Report) includes: 
+any service which would result in a trading book asset; 
+any service which would result in a requirement to hold regulatory capital against 
+19 
+
+========21========
+
+            market risk; 
+any service which results in an exposure to a non-ring-fenced bank or a non-bank 
+            financial organisation,except those associated with the provision of payments 
+           services where the regulator has deemed this appropriate; 
+the purchase or origination of derivatives or other contracts which would result in a 
+            requirement to hold regulatory capital against counterparty credit risk; and 
+services relating to secondary markets activity including the purchase of loans or  
+securities. 
+Broadly speaking, these prohibitions would mean that wholesale/investment banking  divisions of existing banks could not be placed within the ring-fence11; consequently, in  quantitative terms, ring fenced banks would only be allowed to hold ‘between a sixth and a  third of the total assets currently held by the UK banking sector’ ( ICB, para. 3.40). 
+As the authors of the Report observe, in something of an understatement :  
+A ring-fence of this kind would also have the benefit that ring-fenced banks would be 
+more straightforward than some existing banking structures and thus easier to 
+manage, monitor and regulate. (ICB, para. 3.40). 
+Conclusion 
+Given the pernicious externalities considered above -- and the accumulating evidence that  they matter greatly in practice -- the plans under Basel III look seriously inadequate -- especially when compared with the decisive steps taken by the Roosevelt Administration in  the 1930s. 
+In Whither Socialism, Joseph Stiglitz suggested that Communist planning could not succeed  because the information required for the top-down allocation of resources by planners was  simply not available. Could information issues prove the Achilles heel of market liberalism in  the West? What if banks use opaque financial products and limited liability to take on  
+                                                            
+11 
+With such a firewall, indeed, especially with improved resolution procedures, it is intended that   “the investment arm could, in extreme circumstance, be liquidated efficiently and at no public  expense while preserving the retail activities uninfected by bad investment banking assets” (ICB,  2010, para 4.21). 
+20 
+
+========22========
+
+excessive risk -- collecting the upside and shifting the downside to the taxpayer via bail-outs  in times of crisis? Again and again! 
+The various recommendations reported in Table 1 above suggest that it will take a good deal  more than Basel III to ‘save Western capitalism from the capitalists’. Could the type of  structural separation for UK banking recommended by the Vickers Commission – the ring- fencing of retail activities with explicit prohibition of risky products and activities therein – turn out to be an effective update of Glass-Steagall for our times? 
+References 
+Admati, Anat et al (2010), “Much more bank equity is needed and is not socially costly”.  Evidence submitted to the Independent Commission on Banking. Available on ICB website.  
+Alessandri, Piergiorgio and Andrew G Haldane (2009) “Banking on the state” Available at www.bankofengland.co.uk/publications/speeches/2009/speech409.pdf 
+Allen, Franklin and Douglas Gale, (2000), ‘Bubbles and Crises’. Economic Journal (110),  236-255. 
+Allen Franklin and Douglas Gale, (2007) Understanding Financial Crises. Oxford: Oxford  University Press 
+Barrell, Ray and E.Philip Davis. (2011) “Financial regulation”, National Institute Economic  Review, No. 216 (April). 
+Barrell, Ray and E.Philip Davis and D. Karim. (2010) “Calibrating macroprudencial policy”,  National Institute Discussion Paper, No. 354. 
+Cecchetti, Stephen G., Dietrich Domanski and Goetz von Peter, (2011), “New Regulation and  the New World of Global Banking”, National Institute Economic Review No. 216 (April). 
+Danielsson, Jon (2010), ‘Systemic risk models: issues and prospects’, Talk presented at  Macroprudential Policy: Issues and Challenges in FMG, LSE, on November 2, 2010. 
+Fischer, Stanley (2004) “Capital Account Liberalization and the Role of the IMF’. Chapter 5  of his IMF Essays from a time of crisis. Cambridge, MA: MIT Press. 
+Gai, P and Kapadia, S (2010), ‘Contagion in Financial Networks’, Proceedings of the Royal  Society A, vol. 466, no. 2120, pages 2401-2423. 
+Gai, Prasanna, Andrew Haldane, and Sujit Kapadia (2010), “Complexity, Concentration and  Contagion – Outline”. Paper presented at the EEA Conference, August, Glasgow. 
+21 
+
+========23========
+
+Geanakoplos, J. D. and Polemarchakis, H. M. (1986). ‘Existence, regularity, and constrained  suboptimality of competitive allocations when the asset market is incomplete’. Yale  University Cowles Foundation Paper, 652. 
+Greenspan, Alan (2002) ‘World Finance and risk management’ . Speech at Lancaster House  London, September. Available at www.hm-treasury.gov.uk 
+Greenwald, Bruce and Joseph E. Stiglitz (1986). “Externalities in economies with imperfect information and incomplete markets”. Quarterly Journal of Economics 101: 229 - 264. 
+Haldane, Andrew G, (2009), “Rethinking the Financial Network”. Speech delivered at the  Financial Student Association, Amsterdam, April. Available at: 
+www.bankofengland.co.uk/publications/speeches/2009/speech386.pdf 
+Haldane, Andrew G. and Robert M. May, (2011), “Systemic risk in banking  ecosystems”,Nature 469, 351–355 (20 January). 
+Independent Commission on Banking (2010), Issues Paper, Call for Evidence. London: ICB. 
+Independent Commission on Banking (2011) Final Report. London: ICB 
+Koo, Richard (2008). The Holy Grail of Macroeconomics-Lessons from Japan's Great  Recession. John Wiley & Sons. 
+Korinek , Anton (2011) “Systemic Risk-Taking: Amplification Effects, Externalities, and  Regulatory Responses” Mimeo. University of Maryland.  
+Krishnamurthy, Arvind (2010) “Amplification Mechanisms in Liquidity Crises,” American  Economic Journal - Macroeconomics, 2(3), 2010, 1 - 30. 
+Kiyotaki,  Nobuhiro  and  Moore,  John  (1997).  ‘Credit  cycles.’  Journal  of  Political Economy,  vol.105, (April), pp.211-248.  
+Laibson, D. and Mollerstrom, J. (2010). “Capital flows, consumption booms and asset  bubbles: A behavioural alternative to the savings glut hypothesis”, Economic Journal 120:  353–73.  
+Majnoni, Giovanni and Andrew Powell (2011) ‘On Endogenous Risk, the Amplification  Effects of Financial Systems and Macro Prudential Policies’. Mimeo. IADB. 
+Mankiw, N. G. (1986). The equity premium and the concentration of aggregate shocks, Journal of Financial Economics 17(1): 211–219. 
+Miles, David, Jing Yang and Gilberto Marcheggiano (2011), ‘Optimal bank capital‘, DP no. 31,  External MPC Unit, Bank of England. 
+Miller, Marcus, Paulo Santos Monteiro and Lei Zhang, (2011). “Eastern Caution, Western  Exuberance and Global Imbalances”, Journal of Globalization and Development vol. 2 (1):  Article 1. 
+22 
+
+========24========
+
+Miller, Marcus and Joseph Stiglitz (2010) ‘Leverage and Asset Bubbles: Averting Armageddon  with Chapter 11?’ Economic Journal, vol. 120(544), pages 500-518, May. 
+Sinn, Hans Werner (2010) Casino Capitalism. Oxford: Oxford University Press 
+Stiglitz, Joseph (2011) ‘Contagion, Liberalization, and the optimal structure of globalization’.  Journal of Globalization and Development. vol. 1 (2): Article 2 
+Stiglitz, Joseph (1994) Whither Socialism. Cambridge, MA: MIT Press. 
+Wolf, Wagner (2010), “In the Quest of Systemic Externalities: A Review of the Literature”, CESifo Economic Studies, 56, (1) 
+Vickers, John (2011), Opening remarks at the ICB Interim Report Publication, 11 April. 
+ANNEX 
+Optimal risk sharing network with systemic risks 
+Consider a very simple case of financial network formation. The motivation for connecting  each node to an existing component is to insure against small idiosyncratic shocks. The  whole network however, may be hit by some ‘macro shock’ which leads to the failure of  large fraction of nodes. The interaction between these two effects may limit the extent of  connectivity. In what follows, we first show the existence of such limit and then illustrate  how by isolating the node hit by the large shock can increase the connectivity. 
+As shown by Gai and Kapadia (2010), whether solvency shocks on a small fraction of nodes  can lead to systemic risk depends on (1) where the shocks hit and (2) the network structure  (degree distribution). To make the problem analytically tractable, we assume a very simple  network structure: that there are a fraction of nodes which are completely connected, and the  rest are isolated (as shown in Figure 1). If a solvency shock (a macro shock) hits an isolated  node, only that node fails. If the solvency shock hits on a node in the component, the whole  component fails. 
+Assume N ex-ante identical nodes, each faced with two types of shock: 
+(a) , small shock, could be shared by the network.  
+(b) A large shock T occurs with probability p. So an individual node will get hit with  
+probability p/N. 
+23 
+
+========25========
+
+The shocks,  , are iid random variables with bounded support and  . The type of  shock (b) is the solvency shock described above. To have clear-cut results, we further  assume that shocks (a) and (b) are independent. 
+To look at the incentive to form connections, we compare the expected utility for two types  of typical nodes: isolated and in a component. 
+1. An isolated node 
+The expected utility at the node is given by: 
+   (1) 
+where u(.) is a standard increasing and strictly concave utility function, and E is an  expectation operator. Here, we assume that  . 
+II. A node in a component 
+Figure 1. A partially connected network 
+In a partially connected network, consider an completely connected component of size n. The  expected utility of a node in the component is: 
+24 
+
+========26========
+
+(2) 
+In the completely connected component of size n, the idiosyncratic shocks are evenly shared.  (It is clear that if n=1 the above becomes (1), the unconnected case.) 
+Differentiating the above expected utility w.r.t. n yields 
+(3) 
+The first term on the RHS of (3) represents the adverse effect of solvency shock on the  component: the larger is the component, the more severe will be this adverse effect. The  second term represents the positive effect of smoothing the idiosyncratic shock: this effect  declines with the increase in n because of the concavity of the utility function. A trivial case  is when  : the negative effect dominates, no connection is formed.  
+For some reasonable utility functions (or  , it could be that the positive  effect dominates if n is small while the negative effect dominates if n is large. In this case, the  optimal network would be the one which maximises (2), as illustrated in Figure 2, so there is  a limit to the optimal size of a group. 
+Note that in a naturally formed network, an isolated node can make connections and a  connected node can break its connections, so the network will have isolated components of  size n*. In this case, the probability of systemic risk is  . 
+25 
+
+========27========
+
+Uc(n) 
+1 
+n* 
+n 
+Figure 2. Optimal network 
+III. Circuit Breaker (withdrawal of node) 
+In Gai and Kapadia (2010), the policy of isolating the node hit by a large shock was not  examined, maybe because of difficulties associated with substantial cross-holdings of assets  among banks. Side-stepping such issues, let us assume that the large shock is clearly  identifiable. Assume that if a connected node is hit by the large shock, its connections to  other nodes in a component are severed; then the expected utility of a member in an n-group  with such kind of “circuit breaker” is:  
+(4) 
+The above is an increasing function of n, so the optimal size of a group is N. 
+26 
+
+========28========
+
+1 
+N 
+n 
+Figure 3. Expected utility of a node with circuit breaker 
+The idea that by separating systemically important nodes could allow the network to benefit  fully its risk sharing function is intuitive with the aid of simple structure considered. The real  financial networks are rarely completely connected: they usually exhibit small world  properties with fat-tail degree distribution and high clustering coefficient. These imply that  there are some important financial hubs which are highly inter-connected – the so-called  “super-spreaders”. Haldane (2009) and Haldane and May (2011) have argued that it is crucial  to identify such “super-spreaders” and to impose appropriate regulatory measures (such as  higher capital buffers) to reduce their adverse effect on the stability of the whole financial  system. In the similar vein, Stiglitz (2011) suggested, in the context of global financial  integration, the use of “circuit breaker” (through, e.g., the use of capital control) to separate  the infected component from the rest of the system.  
+As disc used in Conclusion, the Independent Commission on Banking, in Final Report (2011),  advocates a structural approach to banking regulation: by ‘ring-fencing’ commercial banks  from their investment arms, and subjecting them to limits on risk assets and different capital  adequacy requirements. Could the ‘circuit breaker’ used in the simple model above be a  metaphor for such ex ante structural separation? 
+27 
+
+========29========
+

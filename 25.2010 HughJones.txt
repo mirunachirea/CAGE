@@ -1,0 +1,878 @@
+November 2010 
+                                              No.25 
+Explaining Institutional Change: Why Elected Politicians Implement Direct Democracy 
+David Hugh Jones University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Explaining Institutional Change: 
+Why Elected Politicians Implement Direct Democracy 
+January 22, 2009 
+Abstract 
+Why did representative politicians introduce direct democratic reforms, 
+thus binding their own hands? This paper presents a formal model in 
+which (1) voters are uncertain about their representative’s preferences; (2) 
+direct and representative elections are substitute methods for voters to 
+control outcomes. Some politicians beneﬁt from the introduction of direct 
+democracy, since they are more likely to survive representative elections. 
+Historical evidence from the introduction of the initiative, referendum and 
+recall in America supports the theory, which also explains two puzzling 
+empirical results: legislators are trusted less, but reelected more, in US 
+states with direct democracy. 
+JEL Classiﬁcation: D72 
+Keywords: direct democracy, institutional change, referendums 
+1 
+
+========2========
+
+1 Introduction 
+There are two schools of thought about direct democratic institutions like the US ballot 
+initiative and the popular referendum. One school claims that direct democracy beneﬁts 
+the voters, at the expense of politicians, by allowing voters to override their representa- 
+tives when they make bad or self-interested choices (Matsusaka 2004, Gerber 1996, Lupia 
+and Matsusaka 2004). The other believes that direct democracy is bad for everybody: 
+politicians lose power, but inexpert voters are likely to make bad choices (Broder 2000, 
+Schrag 2004). Most recent political science work, both theoretical and empirical, supports 
+the ﬁrst school: voters are made better oﬀ. Whatever their relative merits, both views 
+create a fundamental puzzle. Modern direct democratic institutions cannot be introduced 
+without politicians’ consent. But on either of the accounts above, they have no reason to 
+do this. 
+What about other extant rational choice theories of institutional change? These theories 
+assume (1) that political actors initiate change because they foresee gains from it; (2) 
+complete information among all participants. The assumptions provide a well-deﬁned 
+range of explanations. Weak governments can be forced to introduce change by an opposi- 
+tion coalition; political partners may bargain their way to an eﬃciency-improving reform; 
+incumbents introduce change to protect themselves from new political entrants, or as con- 
+cessions to head oﬀ deeper change. These theories also implicitly explain why change 
+mostly does not happen. Political outsiders want changes that increase their power, but 
+incumbents do not; if outsiders win power, they become incumbents and lose their incen- 
+tive to make changes. For example, the British Labour Party supported Proportional Rep- 
+resentation during the 1980s, but changed its mind after it came to power. 
+The introduction of direct democracy in America is problematic for these theories. Under 
+complete information, no party in oﬃce gains from introducing direct democracy, as this 
+gives the voters veto power over its decisions. Were weak incumbents forced to make this 
+2 
+
+========3========
+
+concession by opposition parties and interest groups? Sometimes, but sometimes direct 
+democracy was introduced by political parties who had just won power and were in a 
+position of strength – in the US, reformist Democrats and Republicans – and who wanted 
+radical social change, but nevertheless gave the people a veto over these changes. (Section 
+4 supports these claims in more detail.) 
+This paper builds a theoretical model in which some elected politicians gain from intro- 
+ducing direct democracy, for two reasons: 
+1. Politicians who foresee losing oﬃce wish to tie their opponents’ hands. 
+2. With politicians’ hands tied by direct democratic institutions, voters have less 
+incentive to vote them out of oﬃce. So (some) politicians are more likely to get 
+reelected, while implementing policies closer to their own preferences. 
+The ﬁrst point has already been mentioned. The innovation is the second point, which 
+gives a new result: even some politicians who expect to be reelected will like direct democ- 
+racy. 
+The model ignores the short-term electoral beneﬁts of introducing direct democracy and 
+thus being seen as a reformer. Only the comparative statics of politicians’ welfare with 
+and without direct democratic constraints are examined. Also, politicians are purely 
+policy-motivated. A strong oﬃce motivation would increase the incentive to introduce 
+direct democracy, by making it more attractive to trade policy power for stable tenure in 
+oﬃce. 
+The model is based on some key assumptions, shown in Table 1. First, as mentioned, 
+voters have incomplete information – they are uncertain about the best policy to pursue. 
+Representatives, by contrast, are informed.1 However, representatives may not share the 
+1. Exactly how this happens is not a trivial question but is not the focus here. Kessler 
+(2005) endogenizes the choice to become informed and shows that representatives will do 
+3 
+
+========4========
+
+preferences of the electorate. The electoral mechanism provides a way to remove represen- 
+tatives who stray too far from what the voters want. My second assumption is that this 
+mechanism is imperfect. Representatives cannot always be disciplined by elections. For 
+example, politicians who intend to retire at the end of their term, or who cannot run for 
+re-election due to term limits, will not be constrained by elections. Certain issues may be 
+too complicated or boring for the electorate to understand. Because of these occasions, 
+voters have an interest in the real preferences of those they elect, and they may also ben- 
+eﬁt from introducing a second kind of control of politicians – direct democratic restraints 
+such as the citizen’s initiative and referendum. 
+Viewing direct democratic institutions as a curb on the representative leads to the third 
+assumption: these institutions interact with representative democracy. This happens in at 
+least two ways. First, popular referendums and ballot initiatives are introduced in 
+response to the perceived shortcomings of the policy implemented by representatives. For 
+example, in 1978 California passed Proposition 13 – a swingeing tax limitation which is 
+still controversial 30 years later – not because voters were convinced in the abstract of the 
+need for direct popular control over taxation, but because they thought that existing 
+taxes, set by the legislature, were too high. In game-theoretic terms, the representative’s 
+choice of policy provides information to voters about the state of the world. Second, the 
+availability of direct democratic measures aﬀects representative elections: voters will be 
+less concerned about a representative’s policy preferences if they know that these can be 
+overridden, and representatives will behave diﬀerently in the light of that knowledge. 
+The ﬁnal assumption is about the diﬀerent ways direct and representative elections work. 
+A ballot initiative or referendum involves overriding a political decision. That is, the 
+voters change their representative’s policy and put another one in its place. In the model 
+so if the cost of acquiring information is not too high. When they do not do so, there is no 
+advantage to representative democracy. 
+4 
+
+========5========
+
+this happens after the policy is revealed, but before its consequences are discovered. Rep- 
+resentative elections, by contrast, are about judging a political decision after the conse- 
+quences. The trade-oﬀ is between ex ante ignorance and learning from bitter experience. 
+[Table 1 about here] 
+The basic idea here, that the interaction between diﬀerent kinds of elections provides a 
+motive for elected representatives to support direct democracy, could be modeled in dif- 
+ferent ways. For example, suppose that politicians have varying policy preferences, and 
+also vary in competence. Under representative democracy, the voters will trade oﬀ compe- 
+tence with extremism. Under direct democracy, the trade-oﬀ will shift. Policy extremism 
+will matter less, since it can be restrained by referendums or initiatives, and competence 
+will matter more. So competent extremists will be reelected more often, and will have a 
+reason to support direct democracy. 
+This paper focuses on a diﬀerent trade-oﬀ, which exists even when politicians vary only in 
+their policy preferences. Initiatives and referendums substitute the uninformed choice of 
+the electorate for the informed but perhaps non-centrist choice of the politician. They 
+therefore work best when they are not used, i.e. when the electorate can trust the politi- 
+cian’s choice. In eﬀect, from being an elected dictator, the politician becomes a kind of 
+adviser (though with strong agenda power): the voters can choose to accept or reject his 
+proposals. While an extreme dictator is always harmful, an extreme adviser can be cor- 
+rected for. Knowing a politician’s preferences helps the voters decide when to trust him. 
+For example, a left-winger who chooses a rightwing policy is less likely to be motivated by 
+ideology than by a recognition of political circumstances. Thus both the voters and an 
+incumbent politician can gain from the incumbent’s reelection. On the other hand, direct 
+democracy is less useful with a newly elected politician whose policy preferences are 
+unknown. So direct democratic restraints make incumbents more electable – as empirical 
+research conﬁrms (Bali and Davis 2007). 
+5 
+
+========6========
+
+Another insight follows from this approach. Since direct democracy allows a wider range 
+of incumbents to be reelected, the average policy distance between voters and politicians 
+increases. This can explain another ﬁnding that has puzzled empirical researchers: voters 
+trust their politicians less in direct democratic states (Kelleher and Wolak 2007). 
+The next section reviews the relevant literature. Section 3 develops the model. Section 4 
+discusses historical evidence from the development of direct democracy in the United 
+States during the Progressive era. The conclusion contemplates further research on how 
+representative and direct democratic institutions interact, and makes the case for more 
+incomplete information models of institutional change. 
+2 Literature review 
+There is a large literature on endogenous institutional change. This review examines 
+existing explanations of deliberate change, as opposed to unintended evolution (e.g. Greif 
+and Laitin 2004), and focuses on rational choice theories, which assume that actors have a 
+sense of their interests and form rational expectations about the future. Myopia, chance 
+and character certainly matter but it is extremely hard to weave them into a systematic 
+theory. Finally, I examine reforms of an existing system, rather than “constitutional 
+choice” in an institutional vacuum (e.g. O’Donnell et al. 1986; Przeworski 1991; Bawn 
+1993). 
+These reforms are paradoxical. They are made by powerful actors – the winners under the 
+existing system. Why, then, would they risk changing it? We can categorize existing theo- 
+ries by their answer to this question. First, there are eﬃciency theories. In these, change 
+takes place because it makes all players better oﬀ, or when winners gain more than losers 
+lose, and can compensate them. To avoid vacuity these theories must explain the times 
+6 
+
+========7========
+
+when change does not take place. For example, under some circumstances players may be 
+unable to credibly commit to compensate losers. Geddes (1991) suggests that Latin Amer- 
+ican civil service reform takes place when political parties are roughly equal in strength, so 
+that both lose from patronage – in eﬀect they are in a Prisoner’s Dilemma, which reform 
+can eliminate. Rogowski (1987) claims that states with open economies are more likely to 
+have proportional representation to reduce ineﬃcient distributive politics. 
+Second, incumbents may make reforms under pressure from a rising opponent. Acemoglu 
+and Robinson (2006) and Boix (2003) claim that the rich introduce democracy so as to 
+avoid revolution. Relatedly, the rules may be changed so as to head oﬀ the rise of com- 
+petitors, following Di Lampedusa’s advice that “everything must change so that every- 
+thing can stay the same”. For example, it has been suggested that ruling parties brought 
+in proportional representation so as to avoid being wiped out electorally by rising socialist 
+parties (Rokkan 1970, Boix 1999). Similarly, Diaz-Cayeros and Magaloni (2001) show how 
+the Mexican PRI set electoral rules so as to grant some, but not too much, power to its 
+opponents, thus sustaining its hegemony for most of the 20th century. Dunleavy and Mar- 
+getts (1995) propose that changes in pluralist democracy are in general designed to pre- 
+serve existing elites from rival coalitions (majority-preferred alternatives in a multi-dimen- 
+sional policy space). 
+Third, if a group has power, but does not expect to keep it for long, it may change insti- 
+tutions as a way to embed its interests. This is particularly relevant in democratic con- 
+texts with regular institutionalized changes of leadership. McCubbins et al. (1987) theo- 
+rize that regulations on bureaucracies are designed to ensure that the political coalition 
+which creates a new law is able to monitor its enforcement. 
+A ﬁnal group of explanations is closest to the spirit of this paper: that of institutions 
+as “credible commitments”. North and Weingast (1989) explain the institutions brought in 
+by the Glorious Revolution as a way for the sovereign to commit not to expropriate his 
+7 
+
+========8========
+
+subjects. This then allowed greater economic growth, which in turn beneﬁted the 
+sovereign. Acemoglu and Robinson (2006) emphasize that when under pressure, the rich 
+oﬀer democracy as a way to credibly commit to redistributive policies. If they simply 
+promised redistribution, this promise would be broken in times of political stability, and 
+so would not be credible. These papers do not invoke incomplete information: it is 
+assumed that the sovereign would always expropriate if he needed to (the rich would never 
+redistribute if they could avoid it). The literature on the political economy of central bank 
+independence suggests that a Left-wing party may grant central bank independence so as 
+to neutralize voters’ worries about its monetary policy (Milesi-Ferretti 1995). This will 
+make the party more electable, so that it can aﬀord to introduce its preferred policies in 
+other areas. 
+How do these theories fare at explaining the introduction of direct democracy in the 
+United States? The issue is as follows. The constitutional amendment introducing direct 
+democracy was introduced in most states by the legislature, before it was voted on by the 
+people.2 Before direct democracy was introduced, legislatures made the law. Afterwards, 
+the people could veto those laws by popular referendum, or introduce laws the legislatures 
+did not want by the ballot initiative. Also, the populace as a whole cannot be a bar- 
+gaining partner: there is no way that the median voter can “commit” to reelecting legisla- 
+tures in exchange for any possible gains (cf. Acemoglu 2003). Thus, eﬃciency explana- 
+tions are unlikely to work. Nor does it seem plausible that these reforms were granted for 
+fear of something worse. Indeed, handing over law-making power was often a gateway to 
+further constitutional changes. For example, in Oregon, after the 1905 legislature tried to 
+bring in a constitutional convention in order, it was rumored, to rescind the new direct 
+democratic provisions, citizens initiated a constitutional amendment allowing a constitu- 
+2. In Oklahoma, Arizona and Massachusetts a specially elected constitutional convention 
+brought in direct democratic measures as part of a wholesale rewrite of the state constitu- 
+tion. 
+8 
+
+========9========
+
+tional convention only after a popular vote. And unlike changes to electoral institutions, 
+direct democracy provides no way to buy oﬀ particular opponents and preserve an incum- 
+bent’s power. 
+The third explanation seems more plausible: reformists gained temporary power, then 
+introduced direct democracy so as to give the people a veto in case their successors undid 
+their reforms. This argument ﬁts many cases quite well (see Section 4), and the model 
+here formalizes the intuition. However, there remain problems. The people’s veto was a 
+double edged sword which could be – and was – used against reformers. Only politicians 
+who are likely to lose power will wish to tie their successors’ hands in this way. Further- 
+more, as de Figueiredo (2002) points out, politicians with a long-term perspective can bar- 
+gain with political opponents to preserve each others’ reforms. Finally, constitutional 
+changes in most US states required a 2/3 supermajority in the legislature; and at this 
+time, legislative constituencies were heavily biased towards more conservative rural areas 
+and against the new industrial cities (David and Eisenberg 1961; Hamm and Moncrief 
+1999). These factors together made it hard to achieve a legislative supermajority for direct 
+democratic reform made only out of extreme reformers who expected to lose oﬃce. 
+The model here combines this explanation with the “credible commitment” story. Some 
+extreme candidates for oﬃce, who do not expect to get reelected, prefer direct democracy 
+because it will bind their successors. But less extreme candidates also prefer direct democ- 
+racy, because voters who can vote down extreme policies in a ballot initiative have less 
+desire to forestall those policies by voting a candidate out. This in turn lets some candi- 
+dates implement policies closer to their ideal point. 
+Incomplete information plays a key role in this story, as it does not in previous credible 
+commitment models of institutional reform.3 Voters always prefer politicians whose prefer- 
+ences are closer to their own, so if politicians’ preferences are visible, they will always 
+3. With the exception of some of the work on central bank independence. 
+9 
+
+========10========
+
+reelect an incumbent if and only if he is closer than the average to the median voter, 
+whatever the democratic institutions (see Section 3.2). When politicians’ preferences are 
+unknown, voters must learn about them from their policy choices, and there is a trade-oﬀ 
+between a known, though extreme incumbent and an unknown challenger. Under direct 
+democracy, a familiar politician becomes more useful, since voters can judge whether to 
+accept his proposals, and incumbents thus become more electable. 
+Empirical research has not found a very compelling general explanation of the spread of 
+direct democracy. Scarrow (1997) examines the expansion of direct democracy in Ger- 
+many and ﬁnds that parties introduced reforms when the quest for short-term electoral 
+advantage caused a breakdown of long-term inter-party cooperation. However, whenever 
+state parties introduced the statewide initiative and referendum, i.e. chose to limit their 
+own power, her cases show the major parties collaborating. She explains this as a reaction 
+to declining turnout. This may be reasonable but it assumes that parties take a long-term 
+perspective on the health of democracy, which sits oddly with the basic thesis of short-ter- 
+mist competition. Bowler et al. (2002) survey legislators’ support for direct democratic 
+reforms in 3 nations. In their theoretical section they admit candidly that “legislators will 
+ﬁnd direct democracy an unappealing institution”. They do ﬁnd that ideology predicts 
+support for reforms. However, predicting behaviour from surveyed opinions, at best a 
+hopeful enterprise, is particularly problematic in this case. (The same goes for Bowler et 
+al. (2006), which ﬁnds quite high levels of expressed support for direct democracy among 
+legislators.) They conclude by suggesting that reforms will be forced on weak legislators 
+by outsider coalitions. Smith and Fridkin (2008) provide supporting evidence, showing 
+that during the progressive era, minority party strength predicted the legislature’s likeli- 
+hood of placing on the ballot a constitutional amendment granting the citizen’s initiative. 
+This argument it is intuitively attractive: if legislators have no reason to bind their hands, 
+they must have been forced to do so. However, there is a problem of commitment on both 
+sides. First, legislators may promise to support reform but fail to deliver once in oﬃce. 
+10 
+
+========11========
+
+Indeed, Bowler et al. write “[i]t is not surprising... to ﬁnd examples of legislators sup- 
+porting bills in favour of CIRs [Citizen Initiated Referendums] while in Opposition, yet 
+opposing an identical bill, or letting authorizing legislation languish, once they win Gov- 
+ernment”. Second, voters or interest groups who have threatened to punish these non-per- 
+forming legislators may face the problem that the alternative is no better. Also, although 
+the argument ﬁts many US states which introduced direct democracy, complementing the 
+case in which reformers gain temporary power, other states do not seem to ﬁt this frame- 
+work (again, see Section 4). It therefore seems worthwhile to look for further explana- 
+tions. 
+This paper also adds to the collection of formal models of direct democracy. The classic 
+models used complete information (Romer and Rosenthal 1978, Gerber 1996), while more 
+recent work introduces incomplete information. In particular, Kessler (2005) shows, in a 
+model with uninformed voters, that direct democracy may lower elected oﬃcials’ incentive 
+to become informed – a choice not examined here. The paper’s framework is similar to 
+this one’s, but the interaction between direct and representative democracy is not fully 
+modelled. 
+3 The model 
+There are two periods. In each period t = 1, 2 a politician observes a shock εt ∼ N(0, σ2ε) 
+and chooses a policy pt. The outcome is wt = pt 
+ 
+εt. (Numbered subscripts will be 
+dropped when the sense is obvious.) The voters do not observe the shock, only the out- 
+come in each period. All players’ utility is quadratic in each period: total utility for a 
+player with ideal point i is 
+ (i 
+ w1)2 
+ δ(i 
+ w2)2 where δ is the common discount rate. 
+Rather than simply referring to time, δ can be interpreted as representing the tradeoﬀ 
+between periods 1 and 2, that is, the likelihood, over a range of issues and times, that a 
+11 
+
+========12========
+
+politician will be free of the threat of reelection. When this is very low, all players are 
+more concerned with the “pre-election” period 1 eﬀect of direct democracy. When δ is high 
+they are concerned with period 2, and the possibility of restraining the politician with a 
+ballot proposal. 
+All players’ ideal points are private information. After period 1, the voters vote to keep 
+the incumbent or elect a challenger, by majority rule. The median voter’s ideal point is 0; 
+Banks and Duggan (2006) provide a median voter theorem for lotteries over outcomes 
+when utility is quadratic. The incumbent and challenger’s ideal points k are drawn from a 
+normal distribution N(0, σ2k) which is independent of ε. Write ϕk for the density function 
+of k and Φk for its cumulative distribution function. Similarly ϕε and Φε for the shock. 
+In period 2 the politician is not facing reelection. However, under direct democracy, the 
+voters observe p2 before the policy is implemented, and vote to keep it or replace it by a 
+default policy of 0. This models a popular referendum process in which voters may choose 
+to challenge the proposed policy and replace it with an existing default, which is assumed 
+to be the optimal policy given the distribution of shocks. (This maximizes the voters’ 
+incentive to choose the default and thus makes life as hard as possible for the politician: if 
+the default were less attractive, the politician would be better oﬀ.)4 A more complete 
+model would allow voters to do the same in period 1: we limit direct democracy to period 
+2 for simplicity’s sake. We also allow the politician to step down after period 1 (for 
+example, if the voters would never accept his policies in period 2, and he would do better 
+under a challenger). 
+4. An alternative assumption would be that there is an initiative process with some kind of 
+open agenda-setting process in which the median voter can select the optimal initiative 
+given p. If so, this essentially becomes a game of cheap talk in which the politician recom- 
+mends p and the median voter chooses the ultimate policy. This assumption seems opti- 
+mistic about the openness of direct democratic agenda-setting. 
+12 
+
+========13========
+
+Voters learn the proposed policy p2 before voting on it in period 2. This can be thought of 
+as the eﬀect of an election campaign, in which those with extreme preferences (on either 
+side of the issue) will make costly eﬀorts to inform others about what is at stake, through 
+advertisements, leaﬂets et cetera. Thus voters learn p (as opposed to the outcome they 
+experience, w) only when there is a direct democratic campaign. 
+In any period, a politician who knows his ideal point k and the shock ε gets utility from a 
+policy p of 
+ ( p 
+ ε 
+ k)2. This policy utility is single peaked with the peak at p = k + ε. 
+Call q = k + ε the politician’s induced policy ideal point. Single-peakedness implies that, if 
+policies within an interval [ p, p¯] are available, and a point in the interval’s interior p∈ ( p, 
+p¯) is chosen, then q = p; otherwise a lower or higher policy would have been chosen 
+instead. 
+3.1 Results 
+The setup gives us a game of incomplete information. Perfect Bayesian Equilibrium 
+(PBE) is the standard equilibrium concept for this kind of games (see e.g. McCarty and 
+Meirowitz 2007). Using it I ﬁnd a set of sensible equilibria. Unfortunately other, less sen- 
+sible ones also exist: these are ruled out with the Intuitive Criterion, a well-known reﬁne- 
+ment for signaling games (Cho and Kreps 1987). 
+We use the model to compare the expected welfare of politicians under the two diﬀerent 
+systems. The ﬁrst proposition replicates the ﬁndings of the existing literature: if we ignore 
+the eﬀect of representative elections, no politician wants direct democracy. This is trivial. 
+In period 2, under representative democracy, a politician gets exactly what she wants, 
+while under direct democracy in general she does not. 
+Proposition 1. In period 2, any politician weakly prefers representative democracy to 
+direct democracy, and an incumbent reelected from period 1 strictly prefers it. 
+13 
+
+========14========
+
+All proofs are in the appendix. 
+In the ﬁrst period, politicians correct for the shock when choosing a policy: in eﬀect, they 
+simply choose an outcome w1, and the voters are aware of this. Thus, the ﬁrst period 
+shock plays no role. Figure 1 shows ﬁrst period equilibrium behaviour. If the outcome is 
+in an interval around the median voter’s ideal point of 0, then the politician is reelected. 
+Politicians with ideal points in the interval implement their ideal outcome, taking into 
+account the eﬀect of the shock. On either side of this reelection region, there is an area 
+where politicians choose the nearest endpoint of the region rather than their own ideal 
+point: they accept a policy loss now, in order to get reelected and choose policy in period 
+2. Further out, politicians again implement their own most preferred outcome, and are not 
+reelected. 
+[Figure 1 about here] 
+The reelection region is small enough that the voters prefer to reelect an incumbent politi- 
+cian who is at the endpoint – knowing that in fact, this politician would prefer a more 
+extreme policy, and will try to implement it in the second period. If this condition is sat- 
+isﬁed, then the voters will be happy to reelect the less extreme incumbents politicians who 
+choose outcomes inside the reelection interval. On the other hand, the reelection region is 
+large enough that voters will not reelect a politician who chooses something outside the 
+reelection region. Since some policy outcomes are never observed in equilibrium – the 
+dashed line in the picture – there is a range of reelection regions satisfying both this con- 
+straint and the endpoint reelection constraint. So we have multiple equilibria. 
+We start the analysis of direct democracy by examining period 2. (Period 2 in representa- 
+tive democracy is straightforward: the elected politician implements her ideal outcome.) 
+There are two cases. Either a challenger, with an unknown ideal point, has been elected, 
+or the incumbent has been reelected. If a challenger has been elected, because voters do 
+14 
+
+========15========
+
+not know the likely direction of his bias, the choice to trust him or not is the same what- 
+ever policy he proposes. As it turns out, the voters accept any policy proposed if σ2ε > σ2k, 
+and reject any policy proposed if σ2ε < σ2k, replacing it with the default of 0. In eﬀect, the 
+choice is between two kinds of shocks, one caused by the unknown policy environment and 
+one caused by an unknown politician’s diﬀerence from the median voter. 
+The case with a reelected politician is quite diﬀerent. Even if the politician is very 
+extreme, because the direction of his bias is known (by his choice in period 1), it can be 
+accounted for. Indeed, whenever the proposed policy goes against the politician’s bias, the 
+voters know they will do better by accepting it. That is, if the politician proposes p2 < 0 
+and the voters know k2 > 0, they will always accept p2 instead of the default policy of 0. 
+I.e., if a rightwing politician prefers a more leftwing policy to the default, the median 
+voter will have the same preferences. So, whenever the shock leads the politician to “go 
+against” his prior belief, his policy proposal is accepted. As the saying runs, it takes a 
+Nixon to go to China (Cukierman and Tommasi 1998). 
+Intuitively, we might expect a rightwing politician proposing an extremely rightwing 
+policy to be voted down. This is not necessarily true. If the politician were really extreme, 
+he would not have been reelected in period 1: a very rightwing policy means he must be 
+countering a big leftwards shock. So there are possible equilibria in which very rightwing 
+policies are accepted when a moderate rightist proposes them. However, for simplicity, we 
+assume that when a rightwing politician proposes any rightwing policy, it is rejected. This 
+is the smallest possible equilibrium in terms of the set of policies accepted in period 2, and 
+therefore the worst possible equilibrium for politicians. If some politicians prefer direct 
+democracy under this equilibrium, this will be true in all cases. Period 2 under direct 
+democracy is illustrated in Figure 2. 
+[Figure 2 about here.] 
+15 
+
+========16========
+
+We can now say some more about period 1. The diﬀerent results when a challenger is 
+reelected (his proposal is always accepted if σ2k  σ2ε, and always rejected when σ2ε < σ2k) 
+make a large diﬀerence to the period 1 equilibria. In fact, if σ2ε < σ2k, a newly elected chal- 
+lenger is a useless object: the voters do not know enough about his ideal point to trust 
+him, whatever policies he proposes! On the other hand, even a very extreme incumbent, 
+whose ideal point is known, can be trusted some of the time. For this reason, in equilib- 
+rium when σ2ε < σ2k, incumbents are always reelected. This result contains the central intu- 
+ition of this paper. Direct democracy turns politicians from dictators into advisers. A dic- 
+tator whose preferences are known is still dangerous, but an adviser whose preferences are 
+known can be corrected for. Thus, direct democracy raises the value of incumbency. 
+However, this extreme result only applies when σ2ε < σ2k – that is, when an unconstrained 
+politician is actually worse for the median voter than choosing himself. When σ2ε  σ2k, the 
+result is less clear. (A really extreme politician would almost never propose a trustworthy 
+policy in period 2, so the voters would usually choose the default policy of 0 and suﬀer the 
+eﬀects of the policy shock. So it is better for them to elect an unknown challenger if he is 
+fairly trustworthy.) 
+Concretely, what does σ2ε < σ2k mean? The variance of ε measures the unpredictability of 
+the policy environment to voters. Thus, σ2ε will be lower when voters have direct knowl- 
+edge of outcomes, for example when they feel the eﬀects of the economy on their pocket- 
+books, and higher for, say, foreign aﬀairs. σ2ε will be low for “easy” policy areas (abortion), 
+and high for abstruse ones (ﬁnancial crisis management). It will be low when there is 
+widespread consensus on the best policy, and high when experts disagree. Finally, σ2ε will 
+rise during times of social change. On the other side of the inequality, σ2k is rather easier 
+to understand. When politicians are trustworthy, or when the campaign process provides 
+a lot of information on candidates so that bad candidates are not elected, σ2k will be low. 
+When politicians are untrustworthy, and when the campaign process is uninformative, σ2k 
+16 
+
+========17========
+
+will be higher. It will also be low when strong parties can commit to well-deﬁned pro- 
+grams, and high when parties are weak and individual candidates rely on their local power 
+base rather than campaign promises. 
+When σ2ε < σ2k, before reelection, some incumbents prefer direct democracy (contrast this 
+with Proposition 1). This does not only include extremists, who are not reelected and 
+therefore want to bind their successors hands; there are always some politicians who would 
+be reelected under representative democracy, but who nevertheless prefer direct democ- 
+racy. Their loss from direct democracy in period 2 is balanced by being reelected with a 
+policy closer to their ideal point. 
+All these results are restated formally below. Proofs are in the appendix. 
+Lemma 1. Under representative democracy, any equilibrium satisfying the Intuitive Cri- 
+terion can be characterized by a pair of points w⋆< 0 and w⋆> 0. 
+Equilibrium behaviour is as follows: in period 2 incumbents and challengers implement 
+their ideal point p2 = q2. In period 1, the voters reelect the incumbent if and only if the 
+outcome w1 ∈ [w⋆, w⋆]. Incumbents with w⋆  k  w⋆ implement their ideal point p1 = q1. So 
+do incumbents with k  k⋆, where k⋆> w⋆ and k⋆ is uniquely determined by w⋆; and incum- 
+bents with k  k⋆ < w⋆ where k⋆ is uniquely determined by w⋆. Incumbents with k ∈ (w⋆, k⋆) 
+(respectively k ∈ (k⋆, w⋆) ) set p1 = w⋆ + ε1 (respectively p1 = 
+ w⋆ + ε1) so that the outcome 
+is w1 = w⋆ (w1 = w⋆). 
+The set of possible equilibria is as follows: w⋆ may be any point satisfying w  w⋆  w¯; 
+similarly w⋆ may be any point satisfying 
+ w  w⋆  
+ w¯. The bounds w and w¯ are non- 
+negative and ﬁxed by the parameters. When δ  1/2, w=0, i.e. there are equilibria in 
+which politicians must implement the median voter’s ideal point, w1 = 0 to be reelected. 
+17 
+
+========18========
+
+Lemma 2. In any equilibrium satisfying the Intuitive Criterion, in period 2 under direct 
+democracy, write A for the acceptance region such that p2 ∈ A is accepted, and write Φk for 
+the voters’ probability distribution over the politician’s k at the start of period 2. 
+1. Politicians with ideal policy q2 = k2 + ε2 choose p2 = q2 if q2 ∈ A. Otherwise they choose 
+the closest point in A to q2. (If  q2 lies closer to 0 than to any other point in A, then any 
+point in AC may be chosen; we assume they choose 0.) 
+2. R− ⊂ A when the politician is known by the voters to have k  0. When k  0 for sure, 
+R+ ⊂ A. 
+3. If the voters always know the sign of k and have bounds on k (e.g. Φ(k) = 0 for k < k′, 
+Φ(k) = 1 for k > k′′, 0 < k′), at the start of period 2, then the following is a possible equi- 
+librium: A = R− when k is known positive, A = R when k = 0, A = R+ when k is known 
+negative. 
+Lemma 3. Under direct democracy, in period 2, if a challenger has been elected, and if  
+σ2k > σ2ε, the voters always reject the challenger’s proposal and choose p2 = 0 instead. If  
+σ2k  σ2ε then the challenger proposes p2 = q2 and the voters always accept. 
+Proposition 2. Under direct democracy, if  σ2ε < σ2k, then all politicians are reelected in 
+period 1. Furthermore, at least some politicians who would be reelected under representa- 
+tive democracy nevertheless strictly prefer direct democracy. 
+Equilibria when σ2k < σ2ε can be complex. In particular, even politicians who would get 
+reelected by choosing their ideal point in period 1 do not necessarily do so. (There is an 
+incentive to seem centrist, in order to get more policies accepted in Period 2.) I hypothe- 
+size, but do not prove, that for some parameter values there are politicians who prefer 
+direct democracy even though they are reelected under representative democracy, as in 
+Proposition 2. 
+18 
+
+========19========
+
+3.2 A complete information benchmark 
+To emphasize the eﬀect of voters’ incomplete information in the model, consider a bench- 
+mark in which everything is unchanged except that the voters learn a politician’s ideal 
+point k with certainty after he is elected. 
+Under representative democracy, voters know that the incumbent will implement his ideal 
+point in period 2. So after period 1, they ignore w1 and simply reelect the incumbent iﬀ 
+k21  σ2k i.e. if | k1|  σk. Therefore, in period 1 the politician always chooses w1 = k1. 
+Under direct democracy, whether the incumbent or a challenger is reelected, the voters 
+know k2 in period 2, and set the acceptance region A accordingly. As the voters’ loss in 
+period 2 is increasing in | k2| ,5 again in period 1 they reelect if and only if k21  σ2k. Once 
+again, in period 1 the politician chooses w1 = k1. As politicians who will not be reelected 
+wish to control their successors through direct democracy, and politicians who will be 
+reelected do not wish to be controlled, the following proposition is now easy to see. 
+Proposition 3. if voters learn k with certainty in each period, then only politicians with 
+| k1| > σk, who will not be reelected, strictly prefer direct democracy in period 2; all other 
+politicians strictly prefer representative democracy. 
+Compare this to Proposition 2. There, some politicians prefer direct democracy even 
+though they would be reelected under either institution. Full voter information removes 
+this eﬀect. Now only those in a position of political weakness will prefer direct democracy. 
+This is in line with some conventional explanations of institutional change. But as we 
+shall see in the next section, it does not always ﬁt the facts: the initiative and referendum 
+were not always granted by weak politicians who expected to lose oﬃce. The model sug- 
+gests why. Consider a legislature composed of some politicians who have been reelected, 
+and others who are in their ﬁrst period. Then, even if all legislators are newly elected, all 
+5. This is shown by equation (21) in the Appendix. 
+19 
+
+========20========
+
+those with ideal points | k| < σk – within one standard deviation of the mean, i.e. about 
+two-thirds of legislators – will prefer representative democracy.6 And if some legislators 
+were reelected the proportion of opponents would get even higher, making a pro-reform 
+majority, let alone a supermajority, rare indeed. 
+Adding incomplete information changes the story, so that even politicians in a strong posi- 
+tion may favour direct democracy. This improves the odds of a reform passing. It also 
+seems to ﬁt the historical facts, to which I now turn. 
+4 Historical Discussion 
+How did direct democracy come to the US?7 The standard story is as follows. In the 
+1900s, the political system in US states came to be seen as broken. Legislators were in 
+hock to special interests from business. The electoral system had been corrupted in some 
+municipalities; on the other hand, many new industrial cities were grossly underrepre- 
+sented by their allocation of seats in the legislature. Neither of the main parties was 
+trusted: turnout and partisanship, high throughout the 19th century, declined. (In terms 
+of the model, σ2k was high.) 
+The ideas of direct democracy were ﬁrst taken up by the Populists in the 1890s, seeking a 
+way round the corrupted and unrepresentative system of state representative democracy. 
+The Populists did not succeed in general, but they did pass the ﬁrst state initiative law in 
+South Dakota. In the 1900s a succession of reformers such as William U’Ren continued 
+the ﬁght and eventually forced legislatures to concede in half the US states. Supporters of 
+direct democracy included the Progressive movement, Labor unions and farmers’ groups, 
+6. We set aside the issue of strategic voting in the legislature. 
+7. This section draws on Allswang (2000), Piott (2003), Goebel (2002), Bowler and 
+Donovan (2006), Smith and Lubinski (2002) and Haynes (1919), in particular on the detail 
+in Piott’s book. 
+20 
+
+========21========
+
+as well as some Prohibitionists, all of whom hoped to use the ballot box to circumvent 
+obstructionist legislatures. 
+This story shows us two of the mechanisms for institutional change discussed in Section 2. 
+First, a group that gains short-term power, but does not expect to keep it, may use 
+reform to entrench the policy changes it wants. This is what the Populists did in South 
+Dakota. Similarly, in Oklahoma, direct democracy was introduced by a constitutional con- 
+vention which was 90% Democratic. Previously Republicans had dominated state politics; 
+this was the turning point. Later the Democratic legislature restricted direct democracy. 
+The change of heart suggests that at convention time, Democrats sought to protect their 
+preferred policies from Republican legislators; they changed their mind only when they 
+foresaw a stable period of Democratic power. Similarly, in Arizona, a constitutional con- 
+vention introduced direct democracy. 
+The more important theory is simply that divided or weak legislators may be pressured by 
+outside forces into accepting change. In Oregon, the indefatigable activist William U’Ren 
+got himself got himself elected along with the Populists, and then used logrolling tactics 
+to win over the divided major parties in the legislature, oﬀering Populist legislators’ votes 
+in exchange for support for direct democracy. Before the bill introducing the initiative 
+and referendum came up for a second vote in 1901, U’Ren helped legislators who had 
+voted for him before get reelected; further lobbying ensured it passed again. By 1904 
+U’Ren, now a formidable political force in the State, could say of a measure threatening 
+the new institutions: “The man who votes for the Brownell bill... is digging his own polit- 
+ical grave and getting into it.”8 In some state elections, the Direct Legislation League 
+extracted pledges to support direct democracy from candidates for the legislature. For 
+instance, in the Maine election of 1906, many candidates who had not pledged their sup- 
+port lost their seats; both houses of the subsequent legislature unanimously passed a mod- 
+erate bill to introduce the initiative and referendum. 
+8. Quoted in Piott (2003) p. 43. 
+21 
+
+========22========
+
+These theories are powerful and explain many of the historical cases. They also have the 
+advantage of explaining the overall pattern that direct democracy was introduced mostly 
+in Western states. These states had weak party systems so that candidates cared more 
+about their individual electoral fortunes than about preserving the legislature’s power as a 
+whole. Reformers had less success in the East where parties were strong, and in the one- 
+party South. Similarly, direct democracy was more likely to be introduced where parties 
+were closely tied in the race for oﬃce (Smith and Fridkin 2008). 
+However, the history also reveals other actors who were instrumental in introducing direct 
+democracy in many states. First, there were “reform” or “insurgent” Democrat and Repub- 
+lican politicians, progressives who aimed to wrest control of their parties from the 
+machine. They were disciplined political groups, not divided individuals, and rather than 
+gaining temporary power, they aimed to take over the political mainstream in the long- 
+term, and often succeeded. When, as often, they supported direct democratic measures, 
+they did so out of principle rather than short-term expediency. 
+For example, in California, the Direct Legislation Leagure had failed throughout the 1900s 
+to get measures brought in by pressure on individual legislators: the Southern Paciﬁc Rail- 
+road, exerted its great inﬂuence over parties to prevent a vote. Direct democracy was 
+introduced in 1911 after the Lincoln-Roosevelt League of Progressive Republicans under 
+Hiram Johnson had swept into oﬃce. This group had gained control of the Republicans 
+after the introduction of direct primaries in 1910, and passed the initiative and refer- 
+endum by huge margins – unanimously in the Assembly. In North Dakota, direct legisla- 
+tion in its ﬁnal form was passed in 1918 by the Nonpartisan League of small farmers – a 
+kind of throwback to the populists which collapsed shortly thereafter. This ﬁts the “short- 
+term power” story. But reform-oriented legislators, having gained the upper hand over the 
+party machines, passed no less than four bills introducing direct democracy in 1911. In 
+the end a relatively weak form, with high signature requirements to put a measure on the 
+22 
+
+========23========
+
+ballot, won out; nevertheless this multitude of alternatives, some quite radical, does not ﬁt 
+the picture of legislators being pushed unwillingly to act. 
+Why were these reformist members of the main parties keen on binding their future 
+hands? Surely, one reason was the short-term reputational advantage to be gained by 
+introducing the measures. But there were plenty of other reforms that voters wanted, and 
+that would not have tied their hands as legislators in future. It is plausible that, as in the 
+model, they traded oﬀ a direct loss in freedom of action, for an increase in freedom of 
+action and reelectability due to future voters’ trusting politicians more. 
+In other cases, traditional parties introduced direct legislation without strong pressure 
+from outside. In Missouri, at a time when the Missouri Direct Legislation League had 
+been weakened by the voters’ rejection of direct legislation in 1903, a Democratic gov- 
+ernor, Senate and House reintroduced the idea in 1907. Far from embracing the new insti- 
+tutions, Missourians then approved precisely none of the fourteen initiative measures 
+brought before them between 1910 and 1918 (although they also rejected several referred 
+statutes and legislative constitutional amendments). Again, it seems that at least some 
+legislators foresaw they could work better within the new system. Similarly, in Arkansas, 
+after the original direct democracy measure of 1910 had been weakened by the courts, a 
+new law was brought in by the legislature in 1916, but failed at the polls after opposition 
+by prohibitionists. In Michigan, where the Republicans were dominant and were to remain 
+so until the 1930s, a constitutional convention passed a weak measure in 1908; in 1912, 
+prodded by the state governor, the legislature strengthened it. 
+In fact, state Governors were often key players in calling for direct democracy, including 
+the already-mentioned Hiram Johnson in California and Joseph Folk in Missouri. In Col- 
+orado, the popular Progressive Democrat John Shafroth was elected Governor in 1908 
+after 5 terms in the state Congress. He campaigned for the initiative and referendum 
+throughout the legislative session, brought in a special session to adopt it, and supported 
+23 
+
+========24========
+
+the subsequent measure when it came before the voters, at the time of his successful 
+reelection bid. In Arizona, the president of the 1916 constitutional convention was one 
+George Hunt, a state Senator who had ﬁrst introduced a bill supporting direct democracy 
+in 1899, and who later became Governor. Governors’ support of direct democracy has con- 
+tinued to this day, perhaps as a way to get round an obdurate legislature. But representa- 
+tive politicians introducing their own initiatives is a relatively modern trend (Smith and 
+Tolbert 2001). In the Progressive era the trade-oﬀ modeled above seems a more likely 
+cause of their support. 
+To sum up, outside pressure on legislators was not always enough to introduce direct 
+democracy. Nor, except in the cases of North and South Dakota, did Populist radicals 
+achieve this aim. As Piott puts it (p. 254): “progressive control of state government was 
+key to winning legislative approval of these measures.” Often, these progressives were 
+within the main parties and had long-term goals to keep their political power, and often, 
+they introduced reforms not when electorally weak or divided but after winning elections 
+with large majorities. They must therefore have gained something beyond short-term 
+advantage. The model shows two long-term advantages: direct democracy could restrain 
+their opponents who might regain oﬃce through the remaining corruption in the political 
+system; and it would win back the electorate’s trust, allowing them to pursue their goals 
+more eﬀectively when in power.9 
+One question is harder to answer. How predictable was the political environment of the 
+Progressive era – in terms of the model, how high was σ2ε? Clearly, the 1890s were a time 
+of economic change and dislocation. At the same time, by the 1900s, a coherent Progres- 
+9. A point not discussed here is that in the era described, the median voter under direct 
+democracy could be very far from the median voter for the legislature, due to malappor- 
+tionment and other forms of corruption. If Progressives believed that they were close to 
+the real median voter, while their future opponents might be far on the other side, this 
+would strengthen their motives to support direct democracy. 
+24 
+
+========25========
+
+sive program had been formed on a number of issues, and certain states and cities had 
+undertaken reforms and thus acted as pathﬁnders for others. It seems probable that by 
+the 1910s, when most of the direct democratic reforms were brought in, many voters saw 
+politicians less as stewards to face an unknown and uncertain environment, and more as 
+agents who ought to be implementing a thoroughly worked-out program of reform, whose 
+outline at least was clear. 
+5 Conclusion 
+Top-down institutional reform, in which those in power voluntarily give it up, is the 
+hardest kind of institutional change to explain. The introduction of direct democracy is 
+one such tough case. Existing theories fail to appreciate how hard it is: to change a consti- 
+tution, a supermajority of legislators must be won over. This paper shows that even 
+without internal divisions between those in power, democratic representatives may still 
+prefer direct democracy, since the power they lose is compensated by increased trust 
+during representative elections. Historical data supports the argument. 
+Two broader conclusions come out of this research. For research on direct democracy, 
+there are complex links between representative and direct elections. We already know how 
+legislators may be threatened by the initiative (Gerber 1996), learn from initiatives in 
+nearby states (Boehmke 2005), or seek to weaken their implementation (Gerber et al. 
+2001). Scholars have observed that politicians are getting directly involved in initiative 
+campaigns (Smith and Tolbert 2001). Modelling this process, in particular of politicians’ 
+and initiative proponents’ role as trusted agents, could enhance our understanding further 
+(see also Garrett 2004). In particular, the interaction between the branches of government 
+may explain direct democracy’s appeal to politicians: Governors can use ballot initiatives 
+to bypass the legislature, and the House can override recalcitrant Senators the same way. 
+25 
+
+========26========
+
+More generally, our present models of institutional change tend to see the world as a bar- 
+gaining process in which people know what they are getting. There is room for a middle 
+ground between this rational-choice approach and the historicists who emphasize uncer- 
+tainty and habit. Incomplete information, signalling and trust ought to be brought in to 
+our understanding of institutional change. 
+Bibliography 
+Acemoglu, Daron, and James A Robinson. 2006. Economic Origins of Dictatorship and 
+Democracy. Cambridge University Press. 
+Acemoglu, Daron. 2003. Why not a Political Coase Theorem? Social Conﬂict, Commit- 
+ment, and Politics. Journal of Comparative Economics 31, no. 4 (December): 620-652. 
+Allswang, John M. 2000. The Initiative and Referendum in California, 1898-1998. Stan- 
+ford University Press. 
+Bali, Valentina A., and Belinda C. Davis. 2007. One More Piece to Make Us Puzzle: The 
+Initiative Process and Legislators’ Reelection Chances. Political Research Quarterly 60(2): 
+215. 
+Banks, Jeﬀ S, and John Duggan. 2006. A Social Choice Lemma on Voting Over Lotteries 
+with Applications to a Class of Dynamic Games. Social Choice and Welfare 26, no. 2: 
+285-304. 
+Bawn, Kathleen. 1993. The Logic of Institutional Preferences: German Electoral Law as a 
+Social Choice Outcome. American Journal of Political Science 37, no. 4 (November): 965- 
+989. 
+26 
+
+========27========
+
+Boehmke, Frederick J. 2005. The Indirect Eﬀect of Direct Democracy: How Institutions 
+Shape Interest Group Systems. Ohio State University Press, Columbus, OH. 
+Boix, Carles 2003. Democracy and Redistribution. Cambridge: Cambridge University 
+Press. 
+Boix, Carles. 1999. Setting the Rules of the Game: The Choice of Electoral Systems in 
+Advanced Democracies. American Political Science Review 93, no. 3 (September): 609- 
+624. 
+Bowler, Shaun, and Todd Donovan. 2006. Direct Democracy and Political Parties in 
+America. Party Politics 12, no. 5 (September 1): 649-669. 
+Bowler, Shaun, Todd Donovan, and Jeﬀrey A. Karp. 2002. When Might Institutions 
+Change? Elite Support for Direct Democracy in Three Nations. Political Research Quar- 
+terly 55, no. 4 (December 1): 731-754. 
+Bowler, Shaun, Todd Donovan, and Jeﬀrey A. Karp. 2006. Why Politicians Like Electoral 
+Institutions: Self-Interest, Values, or Ideology? Journal of Politics 68 (May): 434-446. 
+Broder, David S. 2000. Democracy Derailed: Initiative Campaigns and the Power of  
+Money. Harcourt, New York. 
+Cho, In-Koo, and David M. Kreps. 1987. Signaling Games and Stable Equilibria. The 
+Quarterly Journal of Economics 102, no. 2 (May): 179-221. 
+Cukierman, Alex, and Mariano Tommasi. 1998. When Does It Take a Nixon to Go to 
+China? American Economic Review 88, no. 1 (March): 180-197. 
+David, Paul T., and Ralph Eisenberg. 1961. Devaluation of the Urban and Suburban 
+Vote. Bureau of Public Administration, University of Virginia. 
+27 
+
+========28========
+
+Diaz-Cayeros, Alberto, and Beatriz Magaloni. 2001. Party Dominance and the Logic of 
+Electoral Design in Mexico’s Transition to Democracy. Journal of Theoretical Politics 13, 
+no. 3 (July 1): 271-293. 
+Dunleavy, Patrick, and Helen Margetts. 1995. Understanding the Dynamics of Electoral 
+Reform. International Political Science Review 16, no. 1 (January 1): 9-29. . 
+Figueiredo, Rui J. P. de. 2002. Electoral Competition, Political Uncertainty, and Policy 
+Insulation. American Political Science Review 96, no. 2 (June): 321-333. 
+Garrett, Elizabeth. 2004. Hybrid Democracy. George Washington Law Review 73: 1096. 
+Geddes, Barbara. 1991. A Game Theoretic Model of Reform in Latin American Democra- 
+cies. American Political Science Review 85, no. 2 (June): 371-392. 
+Gerber, Elisabeth R. 1996. Legislative Response to the Threat of Popular Initiatives. 
+American Journal of Political Science 40 (1):99-128. 
+Gerber, Elisabeth R., Arthur Lupia, and Matthew McCubbins. 2001. Stealing the Initia- 
+tive: How State Government Responds to Direct Democracy. Upper Saddle River, NJ: 
+Prentice Hall. 
+Goebel, Thomas. 2002. A Government By the People: Direct Democracy in America, 
+1890-1940. Chapel Hill: UNC Press. 
+Greif, Avner, and David D. Laitin. 2004. A Theory of Endogenous Institutional Change. 
+American Political Science Review 98, no. 4: 633-652. 
+Hamm, Keith E., and Gary F. Moncrief. 1999. Legislative Politics in the States. In Vir- 
+ginia Gray and Russell L. Hanson, eds., Politics in the American States: A Comparative 
+Analysis 7th edition. CQ Press. 
+28 
+
+========29========
+
+Haynes, George H. 1919. How Massachusetts Adopted the Initiative and Referendum. 
+Political Science Quarterly 34, no. 3 (September): 454-475. 
+Kelleher, Christine A., and Jennifer Wolak. 2007. Explaining Public Conﬁdence in the 
+Branches of State Government. Political Research Quarterly 60, no. 4 (December 1): 707- 
+721. 
+Kessler, Anke S. 2005. Representative versus Direct Democracy: The Role of Informa- 
+tional Asymmetries. Public Choice 122, no. 1/2 (January): 9-38. 
+Matsusaka, John G. 2004. For the Many Or the Few: The Initiative, Public Policy, and 
+American Democracy. University of Chicago Press. 
+McCarty, Nolan M., and Adam Meirowitz. 2007. Political Game Theory: An Introduction. 
+1st ed. Cambridge University Press. 
+McCubbins, Matthew D., Roger G. Noll, and Barry R. Weingast. 1987. Administrative 
+Procedures as Instruments of Political Control. Journal of Law and Economic Organiza- 
+tion 3, no. 2 (January 1): 243-277. 
+Milesi-Ferretti, Gian Maria. 1995. The Disadvantage of Tying Their Hands: On the Polit- 
+ical Economy of Policy Commitments. Economic Journal 105, no. 433 (November): 1381- 
+1402. 
+North, Douglass C., and Barry R. Weingast. 1989. Constitutions and Commitment: The 
+Evolution of Institutional Governing Public Choice in Seventeenth-Century England. 
+Journal of Economic History 49, no. 4 (December): 803-832. 
+O’Donnell, Guillermo, Philippe C. Schmitter, and Laurence Whitehead. 1986. Transitions 
+from Authoritarian Rule: Tentative Conclusions about Uncertain Democracies. Johns Hop- 
+kins University Press. 
+29 
+
+========30========
+
+Piott, Steven L. 2003. Giving Voters a Voice: The Origins of the Initiative and Refer- 
+endum in America. University of Missouri Press. 
+Przeworski, Adam. 1991. Democracy and the Market: Political and Economic Reforms in 
+Eastern Europe. Cambridge University Press. 
+Riker, William H. 1988. Liberalism Against Populism: A Confrontation Between the 
+Theory of Democracy and the Theory of Social Choice. Waveland Press. 
+Rogowski, Ronald. 1987. Trade and the Variety of Democratic Institutions. International 
+Organization 41, no. 2 (Spring): 203-223. 
+Rokkan, Stein. 1970. Citizens, Elections, Parties: Approaches to the Comparative Study 
+of the Processes of Development. Imprint unknown. 
+Romer, Thomas, and Howard Rosenthal. 1978. Political resource allocation, controlled 
+agendas, and the status quo. Public Choice 33, no. 4 (Winter 1978): 27-43. 
+Scarrow, Susan E. 1997. Party Competition and Institutional Change: The Expansion of 
+Direct Democracy in Germany. Party Politics 3, no. 4 (October 1): 451-472. 
+Schrag, Peter. 2004. Paradise Lost: California’s Experience, America’s Future. Berkeley: 
+University of California Press. 
+Smith, Daniel A. and Dustin Fridkin. 2008. Delegating Direct Democracy: Interparty 
+Legislative Competition and the Adoption of the Initiative in the American States. Amer- 
+ican Political Science Review 102, no. 3: 333-350. 
+Smith, Daniel A., and Joseph Lubinski. 2002. Direct Democracy During the Progressive 
+Era: A Crack in the Populist Veneer. Journal of Policy History 14, no. 4: 349-83. 
+Smith, Daniel A., and Caroline J. Tolbert. 2001. The Initiative to Party: Partisanship 
+and Ballot Initiatives in California. Party Politics 7, no. 6 (November 1): 739-757. 
+30 
+
+========31========
+

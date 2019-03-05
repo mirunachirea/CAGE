@@ -1,0 +1,1039 @@
+March 2011 
+No.40 
+The Empire Is Dead, Long Live the Empire! Long-Run Persistence of Trust and Corruption in the Bureaucracy 
+Sascha O. Becker (U Warwick, Ifo, CEPR, CESifo, and IZA) 
+Katrin Boeckh (OEI Regensburg and U Munich) 
+Christa Hainz (Ifo, CESifo, and WDI) 
+Ludger Woessmann (U Munich, Ifo, CESifo, and IZA) 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+The Empire Is Dead, Long Live the Empire!  Long-Run Persistence of Trust and Corruption in the Bureaucracy* 
+Sascha O. Becker  (U Warwick, Ifo, CEPR, CESifo, and IZA) 
+† 
+Katrin Boeckh  (OEI Regensburg and U Munich)  
+Christa Hainz  (Ifo, CESifo, and WDI)  
+Ludger Woessmann  (U Munich, Ifo, CESifo, and IZA)  
+Do empires affect attitudes towards the state long after their demise? We hypothesize that the  Habsburg Empire with its localized  and well-respected administrati on increased citizens’ trust in  local public services. In several Eastern European countries, communities on both sides of the  long-gone Habsburg border have been sharing common formal institutions for a century now.  Identifying from individuals living within a restricted band around the former border, we find  that historical Habsburg affiliation increases current trust and reduces corruption in courts and  police. Falsification tests of spuriously moved borders, geographic and pre-existing differences,  and interpersonal trust corroborate a genuine Habsburg effect.   
+Keywords: Habsburg Empire, trust, corruption, institutions, borders   
+JEL classification: N33, N34, D73, Z10  
+March 5, 2011  
+                                                 
+* 
+ We are grateful for substantive comments in se minars at the universities of Aberdeen, Cambridge,  Copenhagen, UC Davis, Essex, Harvard, Lancaster, Linz, Mainz, Munich, CREST Paris, Regensburg, EIEF Rome,  Stanford, and Stirling, the Sciences Po/IZA Workshop in  Paris, and the annual conferences of the European  Economic Association in Glasgow, the German Economic Association in Kiel, the Scottish Economic Society in  Perth, and the Christmas Meeting of the German-speaking Economists Abroad in Heidelberg. Discussions with and  comments from Sam Bowles, Davide Cantoni, Ed Glaeser, Avner Greif, Peter Lindert, Rachel McCleary, Nathan  Nunn, Alan Olmstead, Michael Pammer, John Karl Scholz, Ian Walker, and Rudolf Winter-Ebmer were particularly  fruitful. Elisabeth Beckmann, Laurenz Detsch, Erik Hornung, Dominikus Huber, Sebastian Kohls, and Elena  Petrova provided excellent research assistance. Woessmann gratefully acknowledges the support and hospitality  provided by the W. Glenn Campbell and Rita Ricardo-Campbell National Fellowship of the Hoover Institution,  Stanford University.  
+† 
+ Becker: Department of Economics, University of Warwick, Coventry, CV4 7AL, United Kingdom;  s.o.becker@warwick.ac.uk. Boeckh: Institute for East European Studies, History Department, Landshuter Str. 4,  93047 Regensburg, Germany; boeckh@osteuropa-institut.de. Hainz: Ifo Institute for Economic Research,  Poschingerstr. 5, 81679 Munich, Germany; hainz@ifo.de. Woessmann: Ludwig-Maximilians-University Munich  and Ifo Institute for Economic Research, Poschingerstr. 5, 81679 Munich, Germany; woessmann@ifo.de.  
+
+========2========
+
+“No other family has endured so long or left so deep a  mark upon Europe: the Habsburgs were the greatest  dynasty of modern history,  and the history of central  
+Europe revolves around them, not they around it.”  
+AJP Taylor (1948),   The Habsburg Monarchy 1809-1918 
+I. Introduction  
+The famous phrase “The emperor is dead, long live the emperor!”  indicates that, even though  individual emperors may die, their empire lives on with their immediate successors. But what if  not one emperor, but the whole empire itself perishes? In this paper, we show that empires can  leave a lasting legacy in cultural norms and the ensuing functioning of state institutions even  several generations after their formal institutions have ceased to exist. Specifically, we find that  the Habsburg Empire, which went down in 1918, still affects trust and corruption in local public  services in Central and Eastern Europe today. Our findings add to  a growing literature indicating  that history can have long-lasting effects (cf. Nunn 2009) through its impact on current formal  institutions1  or on values, beliefs, and cultural norms. 
+2 
+ Our results indicate that long-gone formal  institutions can have a persistent impact on cultural norms of social behavior, thereby affecting  the functioning of interactions between citizens and the state.   
+Trust in the key institutions of  the state and their proper functi oning is crucial in facilitating  collective action (Ostrom 1998). Trust among participants (Arrow 1972) and the enforcement of  rules and property rights (North 1990) are two leading mechanisms  that help to organize human  cooperation, interaction, and exchange, thereby providing the cultural and legal underpinning for  groups to achieve mutually productive outcomes.  As views on the optimal scope of the state  differ, we focus our analysis on two public services that enact basic functions of the state which  even critical skeptics of government intervention support: the courts and the police as the  enforcers of rules in collective action (e.g., Hayek 1960). Rather than analyzing interpersonal  trust, we focus on citizens’ trust in these state institutions and on corruption, a leading example  of malfunctioning of the interaction of citizens with the state.   
+                                                 
+1 
+ E.g., North (1990); Engerman and Sokoloff (1997); La Porta et al. (1998); Acemoglu, Johnson, and Robinson  (2001).  
+2 
+ E.g., Putnam (1993); Greif (1994); Alesina and Fuchs-Schündeln (2007); Guiso, Sapienza, and Zingales  (2008a); Tabellini (2010).   
+1 
+
+========3========
+
+The Habsburg Empire is historically known as a multi-ethnic state with a relatively well- functioning, respected bureaucracy.3  Historians characterize the  Habsburg bureaucracy as “fairly  honest, quite hard-working, and generally high-minded” (Taylor 1948, p. 44) – in contrast to  other Empires in Eastern Europe, like the Ottoman and Russian Empires (cf. Ingrao 1996, 2000;  Subtelny 2007). We argue that this attitude created trust of its inhabitants in the respectability of  government institutions, with ensuing effects on the functioning of citizen-state interactions,  particularly at the local level. However, the formal  institutions of the empire ceased to exist with  the collapse of the Habsburg Empire after World War I, breaking up into separate nation states  that have seen several waves of drastic institutional changes since.   
+To test whether the cultural norms originating in the Habsburg Empire still endure today, we  use the micro dataset of the 2006 Life in Transition Survey (LiTS) that provides measures of  trust and corruption in Eastern European countries. We focus on the 17 countries that comprise  the successor states of the Habsburg Empire and their neighboring countries. Drawing on a  variety of historical sources, we coded the location of each observation in the LiTS dataset in  terms of its affiliation with the Habsburg Empire. Yet, a simple comparison of cultural measures  across countries with diverse populations, geographies, and intervening experiences may easily  be biased by unobserved heterogeneity.   
+To identify the enduring effect of the Habsburg Empire, we therefore devise a border  specification that compares individuals living in communities located within  200 kilometers of  each other on either side of the long-gone Habsburg border, exploiting the geographical  discontinuity created by the Habsburg Empire in Eastern Europe. In order not to capture  unobserved country heterogeneity, we use country fixed effects to restrict the analysis  strictly to  variation within individual modern-day countries. This identification exploits the fact that the  former Habsburg border cuts straight through five countries today – Montenegro, Poland,  Romania, Serbia, and Ukraine. Communities on the two sides of the former border have been  sharing a common statehood for generations now. Additionally, we control for a large set of  individual-level factors such as education, religion, language, wealth indicators, and urbanity.   
+Our results suggest that the Habsburg Empire still exerts effects on cultural norms and  interactions of humans with their state institutions today. Comparing individuals left and right of  
+                                                 
+3 
+ When referring to the Habsburg Empire in this paper, we focus on its impact in Eastern Europe and do not  refer to Habsburg influence in Western Europe  such as in Spain and the Netherlands.    
+2 
+
+========4========
+
+the long-gone Habsburg border, people living in locations that used to be territory of the  Habsburg Empire have higher trust in courts and police. These trust differentials also transform  into real differences in the extent to which bribes  have to be paid for these local public services.   
+A set of falsification tests validates a causal interpretation of the results. First, when using  “placebo” borders 100 kilometers inwards or outwards of the actual Habsburg border, we do not  find any effects. This indicates that our results capture a specific Habsburg effect, rather than a  general West-East pattern. Second, we verify that altitude does not vary significantly between  the two sides of the former Habsburg border, thereby excluding obvious geographical differences  between the Habsburg and non-Habsburg sample. Third, we do not find significant differences  between the two sides in terms of medieval city size, access to medieval trade routes, and  presence of a medieval diocesan town, suggesting that the Habsburg effect is not simply a  perpetuation of differences that existed before Habsburg influence. Fourth, we show that there is  no Habsburg effect on trust in other people  and on membership in civic organizations,  corroborating that the identified Habsburg effect is genuine to citizen-state interactions.   
+Additional aspects of our results include that they are robust when restricting the comparison  groups to formerly Ottoman regions and cannot be distinguished between alternative neighboring  empires. The Habsburg effect does not vary significantly with the duration of Habsburg  affiliation, consistent with models that predict persistent effects of limited exposure. There is no  strong evidence of Habsburg effects on trust in central public services. Finally, evidence from a  firm dataset, the Business Environment and Enterprise Performance Survey (BEEPS),  corroborates the general pattern of results derived from  the LiTS household dataset.   
+Our results show that political and judicial institutions that were in effect a long time ago  have formed cultural norms that prevail today. These cultural traits  are a link through which  distant history affects the present.   
+The remainder of the paper is organized as follows. Section II provides theoretical and  historical background and derives the main hypotheses to be tested. Section III describes our  data. Section IV develops the empirical identification strategy. Section V presents our basic  results of Habsburg effects on trust and corruption in local public services. Section VI reports a  series of falsification tests to  support the validity  of the identificatio n strategy. Section VII  analyzes additional aspects of the Habsburg effect, and Section VIII presents supporting  evidence from a business survey. Section IX concludes.  
+3 
+
+========5========
+
+II. Theoretical and Historical Background  
+This section starts out by discussing different channels through which history may leave a  legacy for current outcomes and relates these to the existing literature. Next is a brief overview  of the history of the Habsburg Empire as it relates to the subject of our analysis. From this  theoretical and historical background, we derive the main hypotheses to be tested in the paper.   
+A.  Why History Matters: Some Theory, with Reference to Related Literature   
+A growing literature investigates  the different mechanisms leading to the fact that history  often has long-term repercussions for economic development (see Nunn 2009 for a review).  First, historical circumstances and events can shape the state and evolution of formal institutions that survive and affect economic interactions and outcomes today (e.g., North 1990). For  example, recent research on the importance of colonial rule for long-term economic development  emphasizes its impact on current formal institutions.4  A second reason why past developments  may be related to current developments is geography. Geographical and ecological factors that  do not vary over time, such as climate zone, disease environment, natural endowments, coastal  location, and continental orientation may have direct effects on economic development past and  present, as well as on the path of history (Diamond 1997; Sachs 2003).5  Third, historical events  may have caused differential development of people’s knowledge, human capital, which  subsequently led to differences in economic development. For example, Glaeser et al. (2004)  argue that European colonization may have left a long-term legacy not because of institutional  development, but because colonial settlers brought their human capital with them.6    
+                                                 
+4 
+ This effect may work through the bearing of large-scale plantation production on inequality and thus  institutional development (Engerman and Sokoloff 1997), through the introduction of civil vs. common law legal  systems (La Porta et al. 1998), or through persistence of  property-rights institutions determined by initial disease  environments (Acemoglu, Johnson, and Robinson 2001). Similarly, Acemoglu, Johnson, and Robinson (2005) argue  that access to Atlantic trade affected the evolution of formal institutions in Western Europe. Nunn (2008) shows that  external trade in slaves had long-run repercussions in Africa. Jha (2008) argues that medieval trade access led to  institutions promoting religious tolerance in India. Acemoglu et al. (2011) show that French invasion of Central  Europe after the French Revolution brought radical institutional changes that left a long-lasting mark.  
+5 
+ The effect of geography may interact with the evol ution of formal institutions, for example, when the  geographical endowment spurs cash cropping (Engerman and Sokoloff 1997) or when disease environments affect  institutional choices because they impact settler mortality (Acemoglu, Johnson, and Robinson 2001).  
+6 
+ As another example, Becker and  Woessmann (2009) show that the Protestant Reformation affected later  economic development within Prussia and across countries by raising literacy levels, required  to read the bible. In a  similar vein, Woodberry (2004) depicts a positive association between historic Protestant missionaries and modern- day school enrollment across colonized countries.  
+4 
+
+========6========
+
+The fourth mechanism through which history can affect long-term outcomes is the topic of  this paper: History can matter for later economic development by affecting people’s cultural  norms and values  which then persist over time. Recent lite rature shows that cultural factors such  as trust, manners of social interaction, and other values, beliefs, and norms have important  repercussions for economic development (e.g., Algan and Cahuc 2010; Tabellini 2010). Probably  the best-known example of the cultural channel is Weber’s (1904) hypothesis that a specific  Protestant work ethic furthered capitalist development.7  Putnam (1993) conjectures that the  culture of independence fostered by the experience of free city-states at the turn of the first  millennium fostered a culture of independence that left a mark on social capital and economic  development in Italy today. Guiso, Sapienza,  and Zingales (2008a)  find supportive evidence.8    
+Cultural evolution may also be closely interrelated with institutional development (Greif  2006; Greif and Tabellini 2010).9  With respect to empires, evid ence in Grosjean (2011) suggests  that in Eastern Europe, people living in areas that used to be part  of the same empire have more  similar trust values.10  Differing cultural norms can affect  outcomes even under the same formal  institutions, for example when they lead to a different functioning of the formal institutions.   
+The mechanisms of the transmission of cultural norms over time are not well understood so  far. Most of the current literature focuses on intergenerational transmission within families,11  for  example when looking at parent-child correlations (Dohmen, Falk, Hufman, and Sunde 2011) or  
+when identifying links of U.S. immigrants with  their own or their an cestors’ home countries.12 
+Alternatively, cultural norms can  persist by transmission via sc hooling, or even through the very  nature of local interactions: If a person with a prior of trust in local public  services moves into a  
+                                                 
+7 
+ However, Becker and Woessmann (200 9) and Cantoni (2009) find little evidence for this specific channel in  historical indicators of economic development.   
+8 
+ As a classical example of the cultural channel, Grei f (1994) describes how the collectivist vs. individual  attitudes towards contract enforcement of Maghribi vs. Genoese medieval merchants affected their subsequent  developments. More recently, Alesina and Fuchs-Schündeln (2007) suggest that the differing history of West and  East Germany from 1945-1990 left a mark in different political preferences for redistribution.  
+9 
+ Nunn and Wantchekon (2011) identify cultural norms a nd formal institutions as two separate channels of the  effect of slave trade in Africa. Fisman and Miguel (2007) find that both cultural norms of the home country and  legal enforcement mechanisms affect parking-violation behavior of United Nations officials in Manhattan.  
+10 
+ Cultural norms may also relate to historical education. Tabellini (2010) finds that historical measures of  literacy and political institutions are correlated with cultural variables today and subsequently with economic  development across European regions.  
+11 
+ E.g., Bisin and Verdier (2000); Tabellini (2008b); Guiso, Sapienza, and Zingales (2008b).  
+12 
+ E.g., Guiso, Sapienza, and Zingales (2006); Giuliano (2007); Tabellini (2008a); Fernández and Fogli (2009);  Algan and Cahuc (2010).   
+5 
+
+========7========
+
+town with a corrupt bureaucracy, he might quickly  change over to a prior  of distrust, and vice  versa.13  Thus, through continuous reciprocal behavior, a  local equilibrium of trust or distrust may  be maintained even with migration, and even without any family ties. Despite a multiplicity of  possible cultural equilibria, the selected equilibrium can thus be highly persistent (cf. Guiso,  Sapienza, and Zingales 2008b; Belloc and Bowles 2009). In line with this argument, Ichino and  Maggi (2000) show that workers moving into other branches of a large Italian firm in fact adopt  local habits of their new region quickly. Similarly, the large literature on peer effects suggests  that people’s attributes may affect other people (see Sacerdote 2011 for a survey).   
+Much of the work on history’s role through cultural persistence has, in the tradition of Arrow  (1972), focused on trust among people in interpersonal interactions. Little  is known, however, on  the effect of history on people’s trust in the state and the ensuing functioning of state institutions.  Such trust in citizen-state interactions gains particular relevance from the importance of rule  enforcement in collective action and a well-functioning state (see above). Trust in state  institutions is also the more obvious way in which historical empires with the particular character  of their bureaucracies may leave lasting legacies.   
+In this paper, we aim to test the fourth channel of history on cultural norms today, while  controlling for the other channels, in the specific case of the Habsburg Empire.14  Specifically, we  are interested in whether persistent cultural norms towards the interaction of individuals and  local state authorities can be  a channel through which hist orical, but long-gone formal  institutions can affect outcomes today. Beyond trust,  we also analyze whether the effect extends  to corruption – defined as the misuse of public  office for private gains (Svensson 2005) – as a  real consequence in the interaction between citizens and the state.   
+B.  Historical Background on the Habsburg Empire   
+Beginning in the 11th  century, the Habsburg dynasty gained  a multitude of territories from  Spain in the West over the Netherlands, Austria, the Dalmatian coast, Bohemia, Moravia,  
+                                                 
+13 
+ The idea that trust priors adopt quickly to local environm ents is consistent with the theory of broken windows  which suggests that first impressions of local environments affect lawful behavior. It goes back to an experiment  showing that an abandoned open car was vandalized quickly  in the Bronx but not in Palo Alto, where it was also  vandalized as soon as it had a broken window. The effectiveness of broken windows policy, which influenced anti- crime policies in such cities as New York City and Los Angeles, has been validated in Corman and Mocan (2005),  and laboratory experiments confirm that first impressions causally affect social behavior (Beckenkamp et al. 2009).  
+14 
+ In analyzing effects of empires, Mitchener and Weidenmier (2008) and Grosjean (2011) use gravity models to  show that belonging to the same empire in general has effects on trade and cultural integration, respectively.  
+6 
+
+========8========
+
+Hungary, and Bosnia to Galicia  in the East. The Habsburg 
+15 
+ identification with Austria began  when Rudolf IV of Habsburg was elected king of the Holy Roman Empire in 1273. Since then,  the Habsburgs continuously expanded their territories, by marriage,16  by succession to the  throne, but also by wars – and even by wars that were waged without Austria. In the 16th  century,  more than half of Europe was ruled by the House of Habsburg, which was itself a decisive factor  in keeping the vast country together. Charles V (1500-1558) ruled the Holy Roman Empire, a  realm of almost four million square kilometers where “the sun never sets.” For five centuries,  Austria was the great Central European superpower, until its dismemberment in World War I  (Zöllner 1990). Reasons underlying the ultimate fall of the Habsburg Empire in 1918 include  national intentions of the elites of the different  peoples living in the Ha bsburg territories and the  political will of the winning powers of World War I.17    
+In Eastern Europe,18  Habsburg broadened its territory in  1526, when – after the death of  Hungarian King Louis II – Ferdinand of Austria, brother of Holy Roman Emperor Charles V,  was elected King of Hungary, Croatia, and Bohemia.  Habsburg now had to bear the main burden  of the Ottoman drive from the Balkans into Central Europe. Twice, the expanding Ottoman  Empire tried to capture Vienna, in 1529 and 1684. The latter battle marked the beginning of the  political hegemony of the Habsburg dynasty in Eastern Europe.19  Step by step, it conquered vast  territories along the Danube – in  Hungary, Croatia, Serbia, and  Romania – constantly driving  back the Ottomans. External events caused Habsburg’s north-eastward expansion: the First  Partition of Poland in 1772, arranged by Russia and Prussia, brought Galicia and Lodomeria. The  acquisition of Bukovina in 1775 was a side effect of the Treaty of Küçük Kainardca (1774) after  the Russo-Ottoman War. Habsburg attempted to prevent Russia and its ally Serbia from gaining  further territories in the area, until the conflict with Russia became notorious in the 19th  century.  
+                                                 
+15 
+ The name Habsburg derives from the municipality and ca stle of Habsburg, in what is now Switzerland, where  the Habsburg family originates. For simplicity, we generally use the term Habsburg Empire  to refer to the entire  Habsburg history, although it is sometimes used more narrowly to refer to the period 1526-1867. The name Austrian  Empire  is officially applied during 1804-1867, and  Austro-Hungarian Empire  officially describes the two states with  one common reign during 1867-1918.  
+16 
+ As a famous hexameter put it, “Bella gerant allii, tu felix Austria nube” (Let the others wage wars, you,  fortunate Austria, marry). This mostly related to the westwards expansion.  
+17 
+ For historical background on different economic aspects of the Habsburg Empire, see, e.g., Good (1984),  Komlos (1983), and Schulze and Wolf (2009, 2011).   
+18 
+ In the remainder of the paper, we use “Eastern Europe”  as shorthand for those countries that used to be east of  the “Iron Curtain,” which are the countries covered by the LiTS dataset used in our analysis.   
+19 
+ See also Iyigun (2008) on the history and repercussions  of the Ottomans’ military engagement in Europe.   
+7 
+
+========9========
+
+To maintain a balance of power between the leading European powers, the Treaty of Berlin in  1878 allowed the Austro-Hungarian Empire to occupy Bosnia, Herzegovina, and the Sanjak of  Novi Pazar in Serbia and Montenegro (Glenny 2000).   
+The Habsburg Empire is the prototype of a Vielvölkerstaat  (state composed of many peoples)  that largely respected the identity and local differences of various parts of the empire (Ingrao  2000). Despite the national aspirations of the peoples within the empire, some aspects of  Habsburg policy were widely accepted. In particular, the bureaucracy throughout the empire was  well respected by the population because of its reliability.20  Taylor (1948, p. 44) paraphrases this  as follows: “The Austrian bureaucracy was fairly  honest, quite hard-working, and generally high- minded, it probably did more good than harm.”   
+Originally, the different parts of the Habsburg Empire were only loosely tied together. This  changed during the 18th  century when the organization was  increasingly centralized, although  most parts of the actual administration remained highly decentralized. Already Maria Theresa  (1741-1765) began to establish a Beamtenstaat  (an administration of civi l servants) and instituted  Kreishauptmänner  (county governors) to supe rvise local administration in  different parts of the  empire. Her son, Josef II (1765-1790), an enlightened and secularized monarch, resolutely  continued this way. He ended censorship, induced complex legal reforms, established German as  official language throughout the empire, promoted public education in the vernacular, and  founded institutions of social and medical care.21  As discussed in greater  detail in Section VII.A  below, this administration of the Habsburg Empire differed in central aspects from the  neighboring empires. Compared to its neighbors in the east and the north, the Habsburg state  ruled in a manner that was more acceptable and predictable for the inhabitants of the empire.   
+From the theoretical and historical discussion, we thus infer two main hypotheses on the  enduring effects of the Habsburg Empire that we want to test in this paper. First, because of the  
+                                                 
+20 
+ Several elements of the Habsburg bureaucracy surviv e to this day. For example, Emperor Franz Joseph was  known to get up early and expected to be able to reach his civil servants in office as well. In the Czech Republic,  offices generally open at 7am to this day.  
+21 
+ Additional well-received aspects of Habsburg policy  include transfers in the form of subsidies and  infrastructure projects such as railroads to less developed regions in order to foster their integration. In the Habsburg  lands, education was also more important than in the Russian and Ottoman Empires. As an exemplification, in his  famous novel “The Bridge over the Drina”, Literature Nobel Prize laureate Ivo Andrić  describes how the Habsburg  rule introduced public infrastructure, well-functioning administration, and public order and created an era of relative  security and advancement when  it took over Višegrad, a town in the east of Bosnia and Herzegovina near Serbia, in  1878. See also Imamović  (2007) and Bencze (2006). In addition, the Austro-Hungarian army was a functioning  multicultural microcosm and an important instrument for integrating peoples from all over the Habsburg territories.  
+8 
+
+========10========
+
+historical experience of a relatively decentralized, honest, and widely accepted state bureaucracy,  we hypothesize that Habsburg positively affected people’s trust in local public services. Second,  we expect that this enduring effect on people’s values reduces corruption in interactions with the  local administration, despite the fact that formal  institutions, laws, and legal regulations do not  differ anymore between former Habsburg and non-Habsburg areas.   
+III.  Data: Trust and Corruption in the Life in Transition Survey (LiTS)   
+Our main database is the Life in Transition Survey (LiTS) collected by the European Bank  for Reconstruction and Development (EBRD) in 29 countries between August and October 2006.  The LiTS aimed at surveying how the transition process after the fall of Communism affected  people’s lives. Besides socio-demographic information such as age, gender, and education, the  survey collected information on trust in public services and whether respondents usually paid  bribes in connection with these services.22  In each country, 1,000 households were interviewed,  deriving from a sample of 20 households in 50 locations (Primary Sampling Units, PSUs).23  The  LiTS dataset contains information on the municipality of residence of survey respondents. Figure  1 displays the location of municipalities in the LiTS dataset.   
+We restrict our analysis to countries that are either successor states of the Habsburg Empire  or neighboring countries thereof. Austria, not being a transition country, is not part of the survey.  Consequently, our dataset covers the following 17 countries in Eastern Europe: Albania, Belarus,  Bosnia, Bulgaria, Croatia, Czech Republic, Former Yugoslav Republic of Macedonia, Hungary,  Moldova, Montenegro, Poland, Romania, Russia, Serbia, Slovakia, Slovenia, and Ukraine. Table  1 documents which of these countries ever belonged to the Habsburg Empire and which did not.  About half of the total sample is made up of respondents living in  areas that formerly belonged  to the Habsburg Empire.   
+For each municipality in our data, we collected information on affiliation with the Habsburg  Empire, including its duration. Our sources for this information are Hrvatski Povijesni Altlas  
+                                                 
+22 
+ Other studies that use the LiTS database to study  trust and subjective preferences in the economic context  include Aghion et al. (2010), Grosjean (2011), and Grosjean and Senik (2011).  
+23 
+ The PSUs are usually based on electoral registers or  census enumeration areas. The total number of PSUs in  the sampling frame per country ranged from 630 in Montenegro to 14,771 in Romania in our five-country sample. In  the empirical analysis, we cluster standard errors by PSUs. Per household, one respondent was sampled following  the Kish grid method (adult person in household who last had birthday).  
+9 
+
+========11========
+
+(2003), Kinder and Hilgemann (2004), Leisering (2004), Magocsi (2002), Reden (1995),  Rothaug (2001), and additional specific investigations. Furthermore, we geo-coded municipality  data to compute distances among the locations. We  use this information below to restrict the  sample to respondents in municipalities within  a certain distance of  the Habsburg border.   
+Our analyses focus on two main sets of outcome  measures, reflecting tr ust and corruption in  local public services. The LiTS questionnaire surveys trust in public institutions by asking, “To  what extent do you trust the following institutions?” with a list of institutions including, among  others, courts and police as what  are mostly local public services and central state institutions  such as political parties, the parliament, the government/cabinet of ministers, the presidency, and  the armed forces, as well as trade unions as an example of a non-state institution. In contrast to  other comparable surveys on trust (e.g., the World Values Survey or the US General Social  Survey), the LiTS asks respondents to express the intensity of their trust beliefs.24  The LiTS  survey uses the following five-category scale: complete distrust, some distrust, neither trust nor  distrust, some trust, and complete trust. We exclude the few observations  reporting the additional  category of “difficult to say” from our regression analyses (6.0 percent for courts  and 3.6 percent  for police, with no difference between Habsburg and non-Habsburg). In addition, the LiTS  questionnaire also surveys trust in people by asking, “Generally speaking, would you say that  most people can be trusted, or that you can’t  be too careful in dealing with people?”   
+The LiTS questionnaire surveys corruption in  public services by as king, “In your opinion,  how often is it necessary for people like you to have to make unofficial payments/gifts in these  situations?” including courts and the road police as local public services.25  The five-point  categorical answer scale ranges from never over seldom, sometimes, and usually to always.26    
+At a descriptive level, Table 2 shows that distrust in and corruption of courts and police are  higher in formerly non-Habsburg areas than in formerly Habsburg areas.   
+                                                 
+24 
+ The answer categories differ from those in the Worl d Value Survey, which are either “Most people can be  trusted” or “Can’t be too careful”. Given this formulation, the response may be “not only shaped by people’s beliefs  about others’ trustworthiness, but also by their own preferences towards taking social risks” (Fehr 2009, p. 239). The  formulation in the LiTS with a scale from complete distrust to complete trust seems superior in this regard.   
+25 
+ Another category refers to unofficial payments to  “other police,” which is not further specified. Here, we  restrict our analysis to the well-defined case of “road police.” However, results (available from the authors on  request) are very similar for the remaining category, although mostly at lower levels of statistical significance.  
+26 
+ While it is hard to validate such corruption measures  based on subjective responses, we can at least show  external validity with respect to standard corruption measures at the country level: In our 17-country sample, the  average of the LiTS corruption measures  has a correlation coefficient with the Corruption Perceptions Index 2006 of  Transparency International (2007) of .49, statistically significant at the 5 percent level.   
+10 
+
+========12========
+
+As a falsification test, we also analyze measures of membership in organizations, which is  often used as a measure of social capital (Glaeser, Laibson, and Sacerdote 2002). The LiTS  questionnaire asks, “Are you a member of? (a) a political party, (b) other civic/voluntary  organizations (club, association).” The respondent can answer with yes or no.   
+In addition to the outcome variables, the LiTS  dataset provides a rich set of covariates  observed at the individual level. These include respondents’ age, gender, education, religion, and  indicators for whether respondents worked for income during last twelve months, for whether  their native language is an official national language, and for whether they belong to an ethnic  minority. In addition, household-level information is reported on household size, the number of  children under age 14, and a set of  possessions such as cars, credit cards, and mobile phones.  Table 3 reports descriptive statistics of these variables.   
+IV. Empirical Model  
+To estimate whether historical affiliation with  the Habsburg Empire has a lasting effect on  trust and corruption in local public services, our basic model expresses the outcome variables y  –  the measures of trust and corruption – of individual i  living in location  l  in country  c  as a  function of an indicator whether the individual lives in a community that historically used to be  affiliated with the Habsburg Empire, H, and a set of individual-level and household-level control  variables  X :   
+(1)  
+yilc = 
+α 
++ βHilc 
++ Xilc′ γ 
++εilc 
+Estimation at the individual level in a multivariate regression framework allows controlling for  observable factors that vary systematically across  individuals in our samp le. We divide the rich  set of control variables into two parts. The first set of controls includes variables that are  arguably exogenous to the Habsburg effect – individual age and gender – as well as variables  whose effect we want to separate from any possible effect of the historical Habsburg  administration – language, ethnic minority status, and religion. The second set of controls  includes variables that may be viewed as endogenous to the Habsburg effect and are thus not  included when estimating the reduced-form Habsburg effect – variables such as individual  working status, sets of indicators of household property and of education, urban or metropolitan  character of the community location, household size, and the number of young children. Given  
+11 
+
+========13========
+
+that the LiTS sampling frame drew 20 individuals per location l, we allow for clustering of the  standard errors ε  at the PSU level  l  throughout this paper.   
+Identification in this setting is hampered by the fact that not all important factors may be  readily observed. Most obviously, trust and corruption may differ across countries for reasons  other than past affiliation with the Habsburg Empire. When identification comes from cross- country variation between such former-Habsburg countries as the Czech Republic or Slovenia on  the one hand and such non-Habsburg countries as  Belarus or Moldova on the other, important  general country characteristics such as aspects of formal institutions and geography may go  unobserved. Such unobserved country heterogeneity, if correlated both with former Habsburg  status and with cultural norms, would introduce omitted variable bias in the estimates of β.   
+To address such bias from omitted country variables, as a first step we  include country fixed  effects in the model specification. This model specification exploits the fact that the former  Habsburg border cuts through several Eastern European countries. People living in these  countries have been sharing a common set of formal  institutions at least si nce the dissolution of  the Habsburg Empire in 1918. But part of the population lives in territories that used to be part of  the Habsburg Empire and another part in territories that did not belong to the Habsburg Empire.  By including country fixed effects in the model, identification comes solely from variation  within each of these countries. This effectively restricts identification to the sub-sample of  countries that encompass both areas that used to be part of Habsburg and areas that were never  part of Habsburg. This sub-sample includes five countries: Montenegro, Poland, Romania,  Serbia, and Ukraine. The within-country share of individuals in  our data who live on territory  that used to belong to Habsburg is between 40 and 48 percent in Montenegro, Poland, and  Romania, while it is low in Ukraine and high in  Serbia (see Table 1). The Appendix describes  how, after 1918, these countries ended up combining Habsburg and non-Habsburg parts. It points  out that the newly formed countries mostly united historically related territories and that the  Habsburg border did not coincide with  earlier ethnological separations.   
+While within-country identification solves the most obvious issues of unobserved  heterogeneity, countries like Poland, Romania, and in particular Ukraine still have such a  sizeable geographical expansion that important factors may yet remain omitted from the model.  Therefore, as a second step, we further restrict the sample to individuals i  living within a  restricted band around the former Habsburg border:   
+12 
+
+========14========
+
+(2)  
+yilc =α 
+c + 
+βHilc 
++ Xilc′ γ 
++εilc 
+if i 
+∈border region 
+where αc  is a full set of country fixed effects and  border region refers to  a close geographical  band around the Habsburg border. The Habsburg border – no longer existent at least since 1918  – gives rise to a geographic discontinuity within the five-country  sample. This border  specification identifies the Habsburg effect by comparing individuals left and right of the former  Habsburg border living in reasonable proximity to one another. Proximity of residence, within a  common region that is divided by a non-existing border, is meant to induce similarity in  important unobserved variables. To balance the desire for a narrow band to ensure similarity  against the desire for large enough  samples to retain statistical  power, we compare individuals  living in communities located within 200 kilometers  (124 miles) of each other on either side of  the historical Habsburg border. In robustness analyses, we also use even narrower bands.   
+To ensure that the “control group” to which the Habsburg “treatment  group” is compared  does not include locations that had actually also been exposed to  the Habsburg treatment at some  time, throughout the definition of the Habsburg variable H  is an indicator of whether a location  has ever been part of the Habsburg Empire. By contrast, defining the Habsburg variable by  Habsburg affiliation at any particular point in time would mean that part of the “control group”  had also received a “Habsburg treatment” at some point in history. For example, defining the  Habsburg treatment by its borders just before its demise in 1918 would mean that several regions  that had been part of Habsburg until 1908 would constitute a substantial part of the control group  in the border sample. However, as  one robustness analysis below,  we show that results are robust  in a specification that restricts the analysis to locations that were part of the Habsburg Empire in  1900 (and their control locations) while dropping all locations from the analysis that had been  part of the Habsburg Empire at some time but were no longer in 1900.   
+The specification of our basic model assumes that the Habsburg treatment effect is  independent of the duration of treatment. To test for the validity of this assumption, we will also  estimate models that allow the Habsburg effect to differ by length of a community’s affiliation  with the Habsburg Empire:   
+(3)  
+yilc =α 
+c + 
+β1Hilc + 
+β2Dilc 
++ Xilc′ γ 
++εilc 
+if i 
+∈border region 
+where Dilc  is the duration of the Habsburg affiliati on of the community in which individual i lives. By centering duration at 100 years of affiliation, the main Habsburg dummy H measures  
+13 
+
+========15========
+
+the effect of having been part of the Habsburg Empire for 100 years and D  measures whether a  longer or shorter duration than 100 years differentially affects the outcomes.   
+To ensure even better comparability of the treatment and control groups on the two sides of  the former Habsburg border, rather than literally including any observation within 200 km from  the Habsburg border in the sample, we implement the border sample using a geographic  matching algorithm. Individuals are included in the border sample only if there is a match in the  dataset within 200 km on the other side of the Habsburg border. That is, observations enter the  sample only if reasonably close-by observations exist on the other side of the border. This means  that the bandwidth is effectively much smaller than 200 km, because there is usually no  community placed directly at the border. It also means that the effective bandwidth varies across  regions depending on whether a match exists on the other side of the border or not. This way, our  results are not driven by observations that cannot  be matched with similar close-by observations.  The border sample is illustrated in  Figure 1, where the black dots de pict the locations of the LiTS  observations in the band of 200 km around the former Habsburg border.27    
+Our empirical identification is designed to identify a specific mechanism through which the  history of the Habsburg Empire affects outcomes today. Of the four main  mechanisms discussed  in the literature (see Section II.A above) – formal institutions, geography, human capital, and  cultural norms – we aim to shut down the first three ones. By identifying within regions that have  been part of one country for more than 90 years,28  we exclude the possibility that Habsburg  history matters through differences in formal institutions like written laws today. By focusing on  a narrow band of observations, we also exclude the channel that history matters because of  geographical differences (which we further test below). Finally, having been part of the same  country for three generations since 1918 means that formal education systems have been the  same, and we control for differences in educational attainment at the individual level. This setup  allows us to focus on the effect of historical affiliation with the Habsburg Empire on observed  
+                                                 
+27 
+ Note that given the definition of the Habsburg variable by whether the individual lives in a location that has  ever  been part of the Habsburg Empire, the relevant Habsburg “border” actually never existed in the specific shape,  but is defined by the enveloping shape of Habsburg borders at any time in history. Consequently, once the Habsburg  status of each specific location is properly coded, our matching algorithm approach also has the advantage of not  depending on an exact drawing of the enveloping Habsburg border (see Ingrao, Samardžìć, and Pešalj 2011 for an  example for border drawings in sparsely inhabited areas that are disputed among historians).   
+28 
+ While this is true for all countries in our five-country  sample, not all of them existed in their current borders  for the past 90 years. The Ukraine belonged to the USSR and Serbia and Montenegro to (the Kingdom and later the  Republic of) Yugoslavia.  
+14 
+
+========16========
+
+cultural norms today, including aspects of the latter  that may be intertwined with the functioning  of formal institutions or with educational content.   
+Our border identification strategy has some similarity with a geographic regression  discontinuity design in that it exploits a discontinuous geographic variation (Lee and Lemieux  2010), but it also has important differences. First,  our historical setting of a long-gone political  border contrasts with modern-day  examples of a geographic re gression discontinuity design  where the immediate (short-run) impact of the introduction of some policy in one geographic  area is contrasted with a control on the other side of a border. For example, rather than being  orthogonal to other observable factors, we do actually expect  the Habsburg treatment to have  affected other covariates in the model, as it has been affecting trust and corruption in local public  services for much more than a century now. What is relevant is that the Habsburg treatment can  historically be viewed as “exogenous”, and we will test this in a battery of falsification tests  below. Second, the LiTS sampling framework drew 50 municipalities per country across the  whole country and did not zoom in on the Habsburg border. As a consequence, there are too few  observations located directly at the border to neatly identify a jump at the discontinuity.   
+Third, and most importantly, in contrast to the basic assumption of a regression discontinuity  design, there are a number of reasons to expect some sort of diffusion to and interdependence  between neighboring towns across the former Habsburg border. Such reasons include migration  and marriage between neighboring towns; local spillovers whereby inhabitants of an Ottoman  town just across the border observe that well-functioning public services may have positive  consequences, so that they may imitate them to some extent; “frontier” effects in that authorities  may behave differently if located close to the enemy, such as when a Habsburg local authority  may behave more authoritarian if the Ottomans are next door; and political competition across  neighboring locations. All of these effects would mean that the Habsburg status of one town may  affect outcomes in towns that are located directly on the other side of the border. Note that any of  such diffusion or interaction effects work against our identification strategy finding a significant  difference between Habsburg and non-Habsburg locations in the border sample.   
+Despite these differences from a classical regression discontinuity design, for comparison  and to ensure that our results are not driven by peculiarities of our matching algorithm, Appendix  Table A.1 reports results for standard regression-discontinuity type specifications. These  specifications define the sample in terms of GIS-computed distance to the former Habsburg  
+15 
+
+========17========
+
+border, rather than by the matching algorithm used in our main specification. Within the  discontinuity sample of +/- 200 km, they also probe different specifications of controlling for  distance to border. We employ, in alternative specifications, a linear distance-to-border term, a  quadratic term in distance to border, and distance to border interacted with an indicator for the  respective side of the border. Results are very similar to those reported in our main specification.   
+In Section VI below, we will test the validity of the border identification model in several  falsification tests. Amongst others, we spuriously move the border by 100 km to either side, to  ensure that the estimated effect does not simply  capture linear effects of  the outward expansion  of the Habsburg Empire. We test for geographical differences of observations on either side of  the border, to ensure that the Habsburg border does not coincide with obvious geographical  barriers. We also test whether observations on either side of the border differ in dimensions that  existed before the expansion of the Habsburg Empire, such as medieval city sizes and the  location of medieval trade routes and diocesan cities. Finally, we contrast  the results on trust in  public services with interpersonal trust. All specification tests corroborate the validity of the  border specification with respect to trust and corruption in local public services.   
+Columns (7)-(10) of Table 3 compare the Habsburg and the non-Habsburg part of the border  sample in terms of their background variables. The fact that there are hardly any differences  confirms that the border specification focuses the analysis on a treatment and control group that  are very similar apart from their difference in  Habsburg treatment stat us. The only differences  that seem to come out are a higher share of respondents from an ethnic minority on the Habsburg  side and the somewhat higher level of education on the Habsburg side. The former is consistent  with the inclusive nature of the Habsburg rule, the latter with their stronger education efforts.  Note also that the Muslim share is in fact higher on the Habsburg  side. In our regressions, we  control for these and other variables to account for these limited differences on the two sides of  the border.  
+The measures of trust and corruption are categorical variables indicating the strength and  degree of ubiquity of these conditions. To account for the ordered nature of the outcome  variables, we estimate ordered logit models, which have the following form:   
+16 
+
+========18========
+
+α 
+1 
++ β'X 
+α 
+2 
++ β'X 
+(4)  
+logit ( p 
+p 
+1 
+1) 
+= log 
+1− p 
+= 
+1 
+logit(p1 + p2) = log 
+p 
+1 
++ p 
+1− p 
+1 
+− 
+M logit(p1 + p +...+ p ) = log 
+p 
+1 
++ pk 
+2 
+1− p 
+1 
+− 
+with p1 + p 
+2 
++...+ p 
+2 p2 
+= 
+2 
++...+ p 
+k p 
+2 
+−...− p 
+k k 
++ pk+ 
+1 
+=1 
+= 
+αk + β'X 
+where X  here contains both the indi cator for affiliation with the Habsburg Empire and the set of  control variables. In this proportional-odds model, the odds ratio of the event is independent of  the category j. The odds ratio is assumed to be  constant for all categories.   
+Alternatively, we estimated a generalized  ordered logit model which allows for non- proportional odds (Williams 2006; see also Maddala 1983; Long 1997). Results are very similar.  Another alternative is to ignore the categorical nature of the outcome variable and perform  ordinary least squares (OLS) regressions (e.g., Blanchflower and Oswald 2004). Again, results  are qualitatively similar.   
+V. Results  
+This section reports our main results on the effect of historical affiliation with the Habsburg  Empire on current people’s trust in two essential public services with which citizens interact – courts and police – and on real consequences for corruption in the citizen-state interactions.   
+A. Main Results  
+In Table 4, we start with the full sample of 17 countries that  were formerly part of the  Habsburg Empire or neighboring countries thereof. All models control, at the individual level,  for age, gender, native language, ethnic minority status, and six categories of  religious affiliation.  The results show that living in a location that used to be part of the Habsburg Empire is  significantly positively associated with higher levels  of trust in courts and trust in the police.  These higher levels of trust also show up in the actual interactions between citizens and the two  types of public authorities, in terms of significantly lower incidences of unofficial payments  when interacting with the courts and with the road police. To account for the fact that such  assessments may depend on whether respondents had contact with the specific public service at  
+17 
+
+========19========
+
+all, the latter specifications control for whether respondents used  the service in the previous  twelve months. Respondents with contacts report significantly higher levels  of corruption.   
+Because results in the 17-country sample might be partly driven by cross-country differences  in trust and corruption, we restrict the analysis  further to more readily comparable comparison  groups. In Table 5, we use the border sample of  respondents living within 200 km of the former  Habsburg border in those five present-day countries that were partly Habsburg. This reduced  sample contains about 3,600 observations, but the clustering in 180 locations means a substantial  reduction in statistical power. The models include  country fixed effects, so identification comes  from within-country variation close to the former Habsburg border. The results show that living  in a former Habsburg location has a significant positive effect on the reported level of trust in  courts, with a point estimate somewhat larger than in  the 17-country sample. The point estimates  on the other three variables are smaller than in the 17-country sample, indicating that the  previous results may be biased upwards by unobserved cross-country differences. Still, also in  this specification, Habsburg affiliation has a significant negative effect on the corruption of  courts and road police, and the positive effect on  trust in police reaches  statistical significance at  the 12 percent level. Thus, while statistical precision is somewhat lower in the more demanding  border sample specification, the results indicate  that affiliation with the Habsburg Empire had a  significant effect on higher trust and lower corruption in local public services.   
+Table 6 adds further control variables at the individual and household level to the model.  While the control variables in Table 5 are arguably exogenous to the Habsburg treatment, those  additionally added in Table 6 are potentially affected by past Habsburg affiliation. In principle,  affiliation with the Habsburg Empire might have affected levels of income and wealth as well as  education, urbanization, and fertility, so these variables might constitute channels through which  the Habsburg effect comes about. However, although the additional control variables increase the  variance in trust and corruption accounted for by the models, results on the effect of having been  part of the Habsburg Empire are hardly affected. This suggests that property, education,  urbanization, and fertility are unlikely to be major channels of the Habsburg effect. In the  remainder of the paper, we stick with this longer set of control variables.   
+Going beyond statistical significance, we can discuss the size of the effects estimated by the  ordered logit models by referring to marginal effects. All dependent variables are measured in  five categories, with answers on the trust variables ranging from “complete distrust” to  
+18 
+
+========20========
+
+“complete trust” and answers on the bribe variables ranging from “never” to “always.” As the  detailed results reported in Appendix Table A.2 show, when holding the other variables constant  at their means, having been part  of the Habsburg Empire increases  the probability of moving to a  higher category of trust in courts by 2.2 percentage point, on average across the five categories.  The average of the absolute value of the percentage change across categories is 1.2 percentage  points for trust in the police, 2.3 percentage points for bribes to courts, and 2.9 percentage points  for bribes to the road police. Viewed relative to  the average share of 20 percent in each of the  five categories, Habsburg affiliation thus moves the trust and corruption categories by 6-15  percent on average. This is substantially larger than the average absolute marginal effects of  most other variables such as gender, age, being employed, speaking the native language,  belonging to an ethnic minority, living in an urban or metropolitan area, and household size,  albeit smaller than the average absolute marginal effects of some education levels and of a few of  the religious comparisons. Trust and corruption in courts and police are thus affected by former  Habsburg affiliation in a quantitatively important way.   
+Appendix Table A.3 shows the marginal effects of Habsburg affiliation category by category.  For instance, affiliation with the Habsburg Empire  reduces the probability of reporting complete  distrust in courts by 4.6 percentage points and increases the probability of reporting some trust  by 3.3 percentage points. The categories of complete distrust on the one hand and some trust and  complete trust on the other hand are also the most affected ones in the case of trust in the police.  By contrast, the main effect of Habsburg on corruption of courts and road police appears in  raising the category of never having to bribe by 5.9 and 7.3 percentage points, respectively, with  most of the reduced incidence appearing in the categories of seldom and sometimes.   
+B.  Basic Robustness Checks  
+Several basic tests confirm the robustness of our main results. First, to check whether results  depend on any particular country in the border sample, we run five separate regressions where  we drop one country at a time. The reported results are robust in this analysis.29    
+Second, OLS regressions ignoring the ordered nature  of the trust and corruption outcomes  also yield the same qualitative results.   
+                                                 
+29 
+ This robustness test also ensures that results are not  sensitive to the Hungarian part of the Habsburg Empire,  which in our five-country sample was active in one country (Romania) only. Detailed results on the different  robustness checks are available from the authors upon request.   
+19 
+
+========21========
+
+Third, choice of the width of the band around the border is subject to a trade-off between  geographical proximity and sample size. We thus  also experimented with bandwidths even  narrower than the 200 km (124 miles) of the main analysis. Results are very similar – in terms of  size and statistical significance – when the sample is restricted to individuals within 150 km (93  miles) of the Habsburg border. When reducing the bandwidth even further, statistical precision  naturally tends to be reduced due to small sample sizes, but point estimates often get larger. For  example, when estimating the model of Table 5 in  a 100 km (62 miles)  border sample, the point  estimates on trust in courts, trust in police, and bribes to courts increase (in absolute terms) to  .279, .228, and -.577, respectively (significant at  the 6, 10, and 1 perc ent level), whereas the  coefficient on bribes to road police is reduced to -.231 and loses statistical significance.   
+VI. Falsification Tests   
+This section provides deeper analyses of whether the results so far can be interpreted as a  genuine effect of the Habsburg Empire on trust and corruption in local public services. They are  devised to test whether we can interpret our border sample analysis as a “historical experiment”  where Habsburg affiliation can be viewed as “randomly assigned.” They aim to rule out that the  identified effect reflects other things such as  selective expansion of  the Habsburg Empire, in  which case the results may reflect pre-existing differences. The Appendix provides narrative  background that as a general pattern, in our border sample the Habsburg border separated quite  homogeneous areas, so that the Habsburgs did not just take over those areas where people were  already more trusting. To  test this empirically, this section provides a number of falsification  tests of our border specification, several of which are derived from regression discontinuity  analysis (Imbens and Lemieux 2008; Lee and Lemieux 2010). We check whether there are  treatment effects when spuriously moving the Habsburg border inwards or outwards; whether the  Habsburg border is associated with differences in  geographical characteristics or indicators pre- dating the Habsburg Empire; and whether Habsburg effects emerge in interpersonal interactions.   
+A.  Pseudo Borders: Moving the “Treatment” Inward or Outward   
+A potential concern with the findings so far is that, rather than capturing a genuine Habsburg  effect, they might only reflect continuous differences in the West-East dimension or in  remoteness from Austria. A first falsification test is therefore to check whether a similar “effect”  
+20 
+
+========22========
+
+is found when spuriously moving the border inward  or outward. There should not be an effect  when comparing locations on either side of these meaningless borders.   
+To keep comparability to the previous analyses, we stick with the five-country border sample  and implement the falsification test as follows. In a first exercise (Table 7, first row), estimation  is restricted to the Habsburg municipalities in  the 200 km band of the  true Habsburg border and  “treatment” is defined as being “to the left” of a pseudo border  that is moved 100 km inwards  relative to the true Habsburg border. In the second exercise (second row), estimation is restricted  to the non-Habsburg municipalities in the 200 km band of the true Habsburg border and  “treatment” is defined as being “to the left” of a pseudo border that is moved 100 km outwards  relative to the true Habsburg border. By effectively restricting the analysis to two 100 km bands,  this analysis is directly comparable to the results of the 100 km border sample just discussed.30    
+Results show no statistically significant “effect” of these pseudo borders  whatsoever. In fact,  the majority of estimates points in the “wrong” direction, with lower trust and higher corruption  on the apparent “Habsburg” side of the analysis. These findings support the interpretation that  our results capture a genuine Habsburg effect and not just a West-East difference.   
+B.  Geographical Comparison of Habsburg and Non-Habsburg Areas   
+A second potential concern with the analysis so far is that during its expansion, the Habsburg  dynasty might have chosen to expand only into certain types of geographical regions and, for  example, stop before more mountainous regions.  We therefore analyze possible jumps in the  value of this geographical measure at the Habsburg border. We restrict this robustness check to  this geographic characteristic because individual and household characteristics might potentially  vary as a result of the Habsburg Empire, whereas this geographic feature is arguably exogenous.   
+In column (1) of Table 8, we regress the altitude of the municipalities in the border sample on  a Habsburg indicator. The coefficient on the Habsburg indicator is 37.2 meters, with a t-value of  0.91. Habsburg municipalities thus do not systematically differ in altitude compared to non- Habsburg municipalities. This finding dilutes potential concerns that the Habsburgs might have  fought their way through some valley and were stopped at a mountain, or, conversely, that they  systematically chose mountainous locations in proximity to their neighbors – either of which  might potentially be correlated with attitudes towards trust and corruption.   
+                                                 
+30 
+ Note that moving the whole band by 200 km would move the pseudo border outside our five-country sample.   
+21 
+
+========23========
+
+C.  Comparison of Pre-Existing Factors between Habsburg and Non-Habsburg Areas   
+Another potential concern is that the results found after the fall of the Habsburg Empire only  perpetuate pre-existing differences before the Habsburg Empire came into being (see also the  Appendix for narrative background that dilutes this concern). In principle, the Habsburg Empire  might have expanded into areas that were distinct from areas outside the (new) Habsburg border  in dimensions related to our outcomes. For instance, the expansion of the Habsburg Empire  might have stopped short of areas that were less economically developed and might have been  harder to develop. Similarly, areas outside the Habsburg Empire might have differed in their  values, beliefs, and levels of trust already before the Habsburg Empire came into being.   
+To address these issues, we collected a series of variables capturing economic development,  exposition to outsiders, and cultural features that pre-date the expansion of the Habsburg Empire.  We then test whether there are significant differences in the variables between municipalities on  both sides of the Habsburg border. In contrast to  the previous robustness check that uses a time- constant geographic characteristic, this check uses indicators that might vary over time.   
+Economic historians often use urban population as a proxy for pre-industrial economic  prosperity because cities could only be supported in areas with high agricultural productivity,  advanced economic specialization, and developed transport systems (Bairoch 1988; Acemoglu,  Johnson, and Robinson 2002). We use data on urban population from Bairoch, Batou, and  Chèvre (1988) to construct a measure of urban population in cities in our sample of Eastern  European countries. We use city size in 1400, well before the Eastern expansion of the Habsburg  Empire, as an indicator of economic development. Cities inside and outside the Habsburg  borders do not differ systematically  in population size. If anything,  the sign suggests that cities  on the Habsburg side used to be somewhat smaller (column (2) of Table 8). Similar results are  obtained when using city size in the years 1000, 1200, 1300, and 1500, and when measuring  affiliation with the Habsburg Empire in 1600 (not shown).   
+Our second measure uses major trade routes in 1450 as indicators of interaction with foreign  traders. Exchange with foreign parties is likely  to affect the trust levels of people. When  regressing an indicator of major trading cities, derived from  Magocsi (2002), on our Habsburg  indicator, we do not find a statistically significant effect (column (3)).  
+Finally, cultural values in different parts of Eastern Europe might have been influenced by a  strong presence of the Church. We use an indicator  variable for whether a city was a diocesan  
+22 
+
+========24========
+
+town in 1450, also from Magocsi (2002). Again,  the location of dioces an towns does not vary  significantly by later affiliation with the Habsburg Empire (column (4)).  
+This last set of robustness checks suggests that  the Habsburg Empire did not systematically  expand into certain areas to exploit pre-existing advantages in terms of economics, trust, and  values. Together, the three sets of  robustness checks suggest that  the provided analyses identify a  genuine effect of the former Habsburg border and do not pick up confounding effects.   
+D.  Habsburg Affiliation and Interpersonal Trust and Interactions   
+Our main hypothesis is that the localized and well-respected administration of the Habsburg  Empire had long-term effects on trust and corruption in local public services. The historical  background suggests that the Habsburg Empire affected person-state interactions but interfered  little with local cultures and interpersonal interactions (Section II.B). A further falsification test  is therefore whether historical Habsburg affiliation affects standard measures of interpersonal  trust and social capital.   
+In the same way that the LiTS surveyed trust in  courts and police, it also surveyed trust in  other people and private entities. As shown in column (1) of Table 9, there is no significant  effect of Habsburg affiliation on trust in other people, and the point estimate is actually negative.  Similarly, column (2) shows that there is no Habsburg effect on trust in trade unions, a prominent  example of a private entity with  which many people interact th at is surveyed by the LiTS.   
+Another measure of interpersonal interaction is  the extent of membership in organizations,  which is commonly used as a measure of social  capital (see Glaeser, Laibson, and Sacerdote  2002). LiTS respondents are asked separately about membership in political parties and in civic  organizations. Habsburg affiliation does not have a significant effect on either of these measures  (columns (3) and (4)).   
+Overall, the Habsburg Empire does not seem to exert persistent effects on trust in people and  private entities and on social capital and the engagement of citizens in their community. This  corroborates the result that the Habsburg effect is one related to person-state interactions at the  local level and not to any kind of interaction between individuals or between individuals and  private entities, which has no relation to past and present experiences of the local bureaucracy.  These results also provide additional evidence that the Habsburg expansion is unlikely to have  been selective, as it affects only a specific aspect of trust and not  trust in general.   
+23 
+
+========25========
+
+VII. Additional Aspects of the Habsburg Effect  
+This section probes particular aspects of the Habsburg effect in greater depth. In particular,  we analyze whether the effect of the Habsburg  Empire differs by al ternative neighboring  empires, whether the duration and timing of Habsburg affiliation alters the effect, and whether  Habsburg affiliation has an effect on trust in central public services.   
+A. Alternative Neighboring Empires  
+In the analyses so far, affiliation with the Habsburg Empire has been defined as a binary  variable. The implicit assumption is that affiliation with the Habsburg Empire has a  homogeneous effect, independent of the comparison group on the other side of the border and  independent of the duration of affiliation. Here we investigate whether there is in fact  heterogeneity in these dimensions.   
+Historical background. Three different empires ruled in the area that forms the control group  for the Habsburg treatment: the Ottoman Empire, Russia, and Prussia. The Habsburg political  structure and administration described in Section II.B above differed in important aspects from  these Eastern neighbors (for comparative treatments, cf. Ingrao 1996; Subtelny 2007).   
+The Ottoman Empire pursued no comparable reforms (see Jones 1987, ch. 9, for an  overview). It has been characterized as a “typical despotism” (Landes 1998, p. 398), a large  
+entity with oppressive and exploiting rulers, politically and economically stagnant since the 17th 
+century. Its subjects (raya, “protected flock” of the sultan) were deprived of political influence,  and reforms in the late 19th  century remained relatively weak . Hardly any secular education  existed. Bribery was an accepted institutionalized phenomenon, perceived as normal, even  expected by officials (Shaw 1976; Imber 1990; İnalcık 1996; Eldem 2006). Corruption  constituted a systemic trait of the entire administrative system and had become an intrinsic and  hardly avoidable part of local administration that alienated the subject peoples (Findley 1989).   
+Russia conceded some economic and social modifications – serfdom was abolished in 1861,  compared to 1781 in Habsburg. But the autocratic monarchy gave no leeway to real  parliamentary influence until the end of the monarchy in 1917 and did not allow for  decentralized political development (Bartlett 2005; Subtelny 2007). Prussia, by contrast, while  also known for a well-developed bureaucracy and education system, conceded less autonomy to  its outer territories than Habsburg.   
+24 
+
+========26========
+
+Results. In our border sample, nearly three quarters of the observations in the three control  empires belonged to the Ottoman Empire, with  Russia and Prussia dividing the remaining  observations. Consequently, while individual sample sizes for the Russian and Prussian  alternatives are too small to yield enough statistical power, one robustness specification is to  restrict the control group to only those areas that belonged to the Ottoman Empire. Our results,  reported in the upper panel of Table 10, are fully robust in this restricted sample.   
+If, alternatively, we use the full border sample  and include a dummy variable controlling for  those non-Habsburg areas that were not  part of the Ottoman Empire, this variable is never  significant. This indicates that we  cannot detect a statistically si gnificant difference in trust and  corruption levels between Ottoman and non-Ottoman parts of the non-Habsburg control group  (not shown). Consequently, we cannot reject the interpretation that our  results are homogeneous  with respect to neighboring empires, although they  are most cleanly iden tified in the comparison  to previously Ottoman areas.   
+Note also that substantial parts of our Habsburg treatment group at some stage in history had  also been part of the Ottoman Empire. In fact, also among the observations in our border sample  that had ever been part of the Habsburg Empire, nearly three quarters had also at some stage  been part of the Ottoman Empire, making Ottoman influence something that hardly differentiates  the Habsburg treatment and control groups in our analysis. To rule out that our results capture an  “Ottoman effect” rather than a Habsburg effect, it is  thus possible to restrict the whole analysis to  a sample of areas that have all at some stage been part of the Ottoman Empire. One part of this  sample has been part of the Habsburg Empire afterwards, the other part has not.31  As reported in  the bottom panel of Table 10, our results come out  even more clearly in this specification.   
+In an alternative specification to account for Ottoman influence (not shown), we include in  the full sample an indicator for having ever been  part of the Ottoman Empire as an additional  “treatment” indicator alongside the indicator for ever having been part of the Habsburg Empire.  The Ottoman indicator is never significant, and the Habsburg effect remains robust (although  statistical significance becomes marginal for some outcomes). Our results thus reflect an  influence of Habsburg affiliation (relative to lack of Habsburg affiliation), and no similar results  are given for Ottoman affiliation (relative to lack of Ottoman affiliation).   
+                                                 
+31 
+ While many regions changed from Ottoman to Habsburg rule over history, in our sample there are no  incidents of changes in the opposite direction.   
+25 
+
+========27========
+
+There results indicate that in our analyses, the Habsburg effect is mainly identified from a  comparison with control locations that were part  of the Ottoman Empire, but also that they  capture a genuine Habsburg effect rather than an Ottoman effect.   
+B. Duration of Affiliation with the Habsburg Empire  
+A second dimension of possible heterogeneity relates to the duration of affiliation with the  Habsburg Empire. The most straightforward way to test this, as described in  equation (3) above,  is to allow the Habsburg effect to vary with the duration of a community’s affiliation with the  Habsburg Empire. The upper panel of Table 11 shows both the binary main Habsburg variable  and the duration variable, which is centered at  100 years (close to the average Habsburg  affiliation in our border sample, see Table 3). The coefficient on the main Habsburg variable can  thus be interpreted as the effect of being affiliated with the Habsburg Empire for 100 years. The  duration coefficient measures whether differing duration of affiliation changes the impact on the  outcomes. It turns out that, with one exception, the duration effect is statistically insignificant. In  the exception – trust in courts – the duration estimate is actually  negative, but this also loses  significance once the Sanjak area (see below) is dropped from the analysis.   
+This simple duration analysis masks important specifics, though. In particular, there are three  areas that had been part of the Habsburg Empire  at some time in history but were no longer in  1900 (see Figure 1): Silesia in Poland, which belonged to the Habsburg Empire from 1526-1742;  the Kingdom of Serbia and the Banat of Craiova in Romania, 1718-1739; and West Galicia,  which came to Habsburg in the Third Partition of Poland in 1795 but was lost again in 1809.  While limited sample sizes prevent specific analyses  in these areas, the specifications reported in  the bottom panel of Table 11 drop the areas individually and jointly, to check that these historical  affiliations are not solely driving our results. Qualitative results are robust in the sample that  drops these three areas from the analysis, although the effect on trust in courts loses statistical  significance. This last specification is effectively an  analysis of the effect  of having been part of  the Habsburg Empire in 1900, rather than the definition used in our main analysis of having ever  been part of the Habsburg Empire.   
+Beyond these specific areas that capture variation in the termination of affiliation with the  Habsburg Empire, there is basically no within-country variation within our border sample in the  start and thus duration of affiliation with the Habsburg Empire. Basically all remaining locations  
+26 
+
+========28========
+
+in the border sample came to the Habsburg Empire during the 18th  century. The one exception is  the Sanjak, an area on both sides of the border between Serbia and Montenegro where Habsburg  troops were stationed nearly to the end (1908), but only since 1878. As the last row of Table 11  shows, the trust results lose significance in  the sample without the Sanjak, whereas the  corruption results are robust.   
+Given this limited and specific variation in duration of Empire affiliation, the analyses of  duration effects in our application are limited and do not allow strong conclusions on the validity  of different hypotheses of how changes in trust and corruption come about and persist. However,  the presented results do not provide evidence in favor of the hypothesis that the strength of the  Habsburg effect increases  with the duration of affiliation  with the Habsburg Empire. Rather,  they are consistent with an interpretation that there is  an effect of ever having been exposed to  Habsburg rule, rather then of the length of exposure (thereby also supporting our main  specification that defines Habsburg affiliation as having ever been part of the Habsburg Empire).  This finding contrasts with descriptive evidence in Grosjean (2011) that only history of several  centuries of common empire exerts cultural effects.  The absence of a duration effect is consistent  with theoretical models such as Guiso, Sapienza, and Zingales (2008b) in which a long-term  equilibrium can be tipped by short-term exposure.   
+C.  Trust in Central Public Services  
+An open question is whether Habsburg raised individuals’ trust in the state only at the local  level or more generally also at the central level. It seems more likely that trust in the state  survived for local public services, where the conduct and execution could have remained  different despite the same formal legal rules. The courts and the police may well function  differently in different parts of the country. By contrast, at the level of central public institutions,  there is only one parliament, one  president, etc., at least fo r the within-country variation  exploited in our border sample. However, differential trust in central state institutions may still  have survived even though centralized state institutions have been the same for former Habsburg  and non-Habsburg areas for a long time, for example because individuals may at least partly  extrapolate their local experiences with the state to the central level, because individuals on the  Habsburg side may perceive the same central state agencies differently, or because of actual  local differences in the impact of policies implemented by central authorities.   
+27 
+
+========29========
+
+Table 12 reports results on the effect of Habsburg affiliation on the levels of trust in a  number of central public services: political parties, the parliament, the government, the  presidency, and the armed forces. While all coefficients are positive, none of them reaches  statistical significance at conventional levels, and most point estimates are quite low. One might  be tempted to read these results as another falsification test for our  results on local public  services, which in total are much stronger. However, given that all point estimates for central  public services are positive and quantitatively relevant effects cannot  always be rejected, another  plausible reading is that individuals on the Habsburg side indeed extrapolated at least part of  their positive experience with local public services  to trust in state institutions more generally.   
+VIII.  Complementary Evidence from a Business Survey   
+Results so far refer to the experience of individuals  with local public services. In terms of  economic relevance, the trustworthiness and impartiality of local public services in business disputes may have specific relevance. In particular  when it comes to trust in the court system and  to sizable bribes, the experience of  firms may be of particular in terest. As a final addition, we  therefore complement the evidence on trust of individuals in local public services by looking at  the experience that firms have.   
+Suitable data come from the Business Environment and Enterprise Performance Survey  (BEEPS), which was conducted by the EBRD and the World Bank in Eastern European  countries in 2005. The purpose of the survey was to better understand constraints that hinder the  development of businesses. Businesses were asked to answer in a fashion reflecting “only [their]  perception and experience of doing business in [their] country.”  The BEEPS sampling aimed at  representativeness in manufacturing and services. Similar to the LiTS, also in the BEEPS we  know the location of respondents. From this, we  geo-coded municipality data to compute  distances and again restrict the sample to respondents in municipalities within 200 km of each  other on either side of the former Habsburg border in the five-country sample. This yields a  border sample of roughly 1,000 firms.   
+In surveying firms’ business experience, the BEEPS asks questions about the role of the  court system in resolving business disputes. Additional information allows us to control for eight  sector dummies, the year when the firm began operations in the country, and indicators for firm  size and ownership structure, as well as country dummies. As shown in Table 13, firms on the  
+28 
+
+========30========
+
+Habsburg side of the former border are significantly more likely to consider courts as being fair  and impartial. There are also positive point estimates, albeit short of statistical significance at  conventional levels, on considering courts as  being honest and uncorrupted and on firms’  confidence that the legal system will uphold their contract and property rights in business  disputes. Possibly, the wording of  the latter question (“legal system”) may draw firms to think  also of the functioning of the central legal system as opposed to the local courts. Comparable  questions on trust and corruption of the police are not available in the business survey. 
+The BEEPS also surveys membership in business associations or chambers of commerce. We  do not find a significant Habsburg effect on this, with the point estimate even negative (not  shown). Again, the Habsburg effect is not visible in inter-firm interactions but only in firm-state  interactions in terms of firms’  perception of the courts being  fairer and more impartial.   
+Results based on the business survey thus confirm the household survey results: Firms on the  Habsburg side of the long-gone border within the same country have higher trust in the courts.   
+IX. Conclusions  
+Our results show that even nearly a century after its demise, the Habsburg Empire lives on in  the attitudes towards and interactions with local state institutions of the people living within its  former borders. Comparing individuals living on  either side of the  long-gone Habsburg border,  we find that respondents in a current household survey who live on former Habsburg territory  have higher levels of trust in courts and police. They are also less likely to pay bribes for these  local public services, demonstrating that the institutional heritage influences not only preferences  and unilateral decisions but also bilateral bargaining situations in  citizen-state interactions.   
+We establish this result on the basis of a border specification that is identified from a  geographic discontinuity. We exploit the fact that the Habsburg border does not always coincide  with current national borders. Whereas many current  states in Eastern Europe were historically  inside or outside the Habsburg Empire in their entirety, five modern-day countries comprise both  Habsburg and non-Habsburg areas. Using this five-country sample, we identify the Habsburg  effect by comparing communities in close geographic proximity within a range of 200 km on  either side of the former Habsburg border. This approach has the advantage that respondents  have been sharing a common set of formal institutions for a long time now because they live  within the same current national borders, but differ in their historical exposure to the formal  
+29 
+
+========31========
+
+institutions of the Habsburg Empire. We additionally control for observed variations in  education, religion, language, and wealth at the individual level. Given this setting, we rule out  most aspects of other channels of historical influence discussed in the literature, such as  geography, formal institutions in  the form of written laws, and  human capital in the form of  educational degrees. In the case of  the Habsburg Empire, history ma tters for current attitudes and  behavior not because formal institutions persisted, but because individual cultural norms with  regard to local public services survived. A series of falsification tests corroborate this  interpretation.   
+Results on effects of the duration of exposure to the Habsburg Empire and on the specific  mechanisms through which the Habsburg effect has survived are necessarily more speculative.  The limited within-country variation in duration of Habsburg affiliation exploited in our border  analysis prevents strong conclusions, but at  least does not provide  supportive evidence that  duration of exposure matters, suggesting that even short interventions can have long-persistent  effects. Since the demise of the Habsburg Empire, substantial waves of migration and  displacement accompanied the institutional disruptions that the successor states of the Habsburg  Empire have experienced. This suggests that the cultural norms of behavior  are unlikely to have  survived solely by intergenerational transmission within families, but rather also through  channels such as the persistent nature of continuous reciprocal interactions in local communities,  the content of knowledge and behavioral patterns conveyed in schools, or the quality of human  capital of citizens, judges, and policemen. Additional analyses that investigate in greater detail  the mechanisms through which the empire effect comes about and prevails – presumably  requiring different areas of application – constitute interesting directions for future research. At a  general level, our application of the Habsburg Empire shows that past formal institutions can  leave a legacy through cultural norms even after generations of common statehood.   
+30 
+
+========32========
+
+References  
+Acemoglu, Daron, Davide Cantoni, Simon Johnson, James A. Robinson (2011). The  
+Consequences of Radical Reform: The French Revolution. American Economic Review,  
+forthcoming.   
+Acemoglu, Daron, Simon Johnson, James A. Robinson (2001). The Colonial Origins of  
+Comparative Development: An  Empirical Investigation.  American Economic Review  91 (5):  
+1369-1401.  
+Acemoglu, Daron, Simon Johnson, James A. Robinson (2002). Reversal of Fortune: Geography  
+and Institutions in the Making of the Modern World Income Distribution. Quarterly Journal  
+of Economics  117: 1231-1294.   
+Acemoglu, Daron, Simon Johnson, James A. Robinson (2005). The Rise of Europe: Atlantic  
+Trade, Institutional Change, and Economic Growth. American Economic Review  95 (3): 546- 
+579.  
+Aghion, Philippe, Yann Algan, Pierre Cahuc, Andrei Shleifer (2010). Regulation and Distrust.  
+Quarterly Journal of Economics  125 (3): 1015-1049.  
+Alesina, Alberto, Nicola Fuchs-Schündeln (2007). Goodbye Lenin (or Not?): The Effect of  
+Communism on People. American Economic Review  97 (4): 1507-1528.  
+Algan, Yann, Pierre Cahuc (2010). Inherited Trust and Growth. American Economic Review  100  
+(5): 2060-2092.   
+Arrow, Kenneth J. (1972). Gifts and Exchanges. Philosophy and Public Affairs  1 (4): 343-362.  Bairoch, Paul (1988). Cities and Economic Development: From  the Dawn of History to the  
+Present. Chicago, IL: University of Chicago Press.  
+Bairoch, Paul, Jean Batou, Pierre Chèvre (1988). The Population of European Cities from 800 to  
+1850: Data Bank and Short Summary of Results. Genève: Librairie Droz/Centre of  
+International Economic History.   
+Bartlett, Roger P. (2005). A History of Russia. Basingstoke: Palgrave Macmillan.   
+Beckenkamp, Martin, Christoph Engel, Andreas Glöckner, Bernd Irlenbusch et al. (2009).  
+Beware of Broken Windows! First Impressions in  Public-good Experiments. Preprints of the  
+Max Planck Institute for Research  on Collective Goods 2009/21. Bonn.  
+Becker, Sascha O., Ludger Woessmann (2009). Was Weber Wrong? A Human Capital Theory of  
+Protestant Economic History. Quarterly Journal of Economics  124 (2): 531-596.  
+Belloc, Marianna, Samuel Bowles (2009). International Trade, Factor Mobility and the  
+Persistence of Cultural-Institutional Diversity. CESifo Working Paper 2762. Munich:  
+CESifo.   
+Bencze, László (2006). The Occupation of Bosnia and Herzegovina in 1878. Boulder, Co.:  
+Columbia University Press.  
+Bisin, Alberto, Thierry Verdier (2000). Beyond the Melting Pot: Cultural Transmission,  
+Marriage, and the Evolution of Ethnic and Religious Traits. Quarterly Journal of Economics  
+115 (3): 955-988.  
+31 
+
+========33========
+
+Blanchflower, David G., Andrew J. Oswald (2004). Well-being over Time in Britain and the  
+USA. Journal of Public Economics  88 (7-8): 1359-1386.  
+Cantoni, Davide (2009). The Economic Effects of the Protestant Reformation: Testing the Weber  
+Hypothesis in the German Lands. Mimeo, Harvard University.   
+Corman, Hope, Naci Mocan (2005). Carrots, Sticks, and Broken Windows. Journal of Law and  
+Economics  48 (1): 235-266.  
+Diamond, Jared (1997). Guns, Germs, and Steel. New York: W.W. Norton.  
+Dohmen, Thomas, Armin Falk, David Huffman,  Uwe Sunde (2011). The Intergenerational  
+Transmission of Risk and Trust Attitudes. Review of Economic Studies, forthcoming.  Eldem, Edhem (2006). Capitulations and Western Trade. In: Suraiya N. Faroqhi (ed.), The  
+Cambridge History of Turkey, Volume  3: The Later Ottoman Empire, 1603-1839 , pp. 283- 
+335. Cambridge: Cambridge University Press.   
+Engerman, Stanley L., Kenneth L. Sokoloff (1997). Factor Endowments, Institutions, and  
+Differential Paths of Growth among New World Economies: A View from Economic  
+Historians of the United States. In: Stephen Haber (ed.), How Latin America Fell Behind, pp.  
+260-304. Stanford, CA: Stanford University Press.  
+Fehr, Ernst (2009). On the Economics of Biology and Trust. Journal of the European Economic  
+Association  7 (2-3): 235-266.  
+Fernández, Raquel, Alessandra Fogli (2009). Culture: An Empirical Investigation of Beliefs,  
+Work, and Fertility. American Economic Journal: Macroeconomics  1(1): 146-177.  Findley, Carter V. (1989). Ottoman Civil Officialdom: A Social History. Princeton, NJ: Princeton  
+University Press.  
+Fisman, Ray, Edward Miguel (2007). Corruption,  Norms and Legal Enforcement: Evidence from  
+Diplomatic Parking Tickets. Journal of Political Economy  115 (6): 1020-1048.  
+Giuliano, Paola (2007). Living Arrangements in Western Europe: Does Cultural Origin Matter?  
+Journal of the European Economic Association  5 (5): 927-952.  
+Glaeser, Edward L., David Laibson, Bruce Sacerdote (2002). An Economic Approach to Social  
+Capital. Economic Journal  112 (483): F437-F458.  
+Glaeser, Edward L., Rafael La Porta, Forencio  Lopez-de-Silanes, Andrei Shleifer (2004). Do  
+Institutions Cause Growth? Journal of Economic Growth  9 (3): 271-303.  
+Glenny, Misha (2000). The Balkans 1804-1999: Nationalism, War and the Great Powers.  
+London: Granta Books.  
+Good, David F. (1984). The Economic Rise of the Habsburg Empire, 1750-1918. Berkeley, CA:  
+University of California Press.   
+Greif, Avner (1994). Cultural Beliefs and the Organization of Society: A Historical and  
+Theoretical Reflection on Collectivist and Individualist Societies. Journal of Political  
+Economy  102 (5): 912-950.  
+Greif, Avner (2006). Institutions and the Path to the Modern Economy: Lessons from Medieval  
+Trade. Cambridge: Cambridge University Press.   
+32 
+
+========34========
+
+Greif, Avner, Guido Tabellini (2010). Cultural and Institutional Bifurcation: China and Europe  
+Compared. American Economic Review  100 (2): 135-140.   
+Grosjean, Pauline (2011). The Weight of History on European Cultural Integration: a Gravity  
+Approach. American Economic Review, Papers and Proceedings  101 (2), forthcoming.   Grosjean, Pauline, Claudia Senik (2011). Democracy, Market Liberalization, and Political  
+Preferences. Review of Economics and Statistics  93 (1): 365-381.   
+Guiso, Luigi, Paola Sapienza, Luigi Zingales (2006). Does Culture Affect Economic Outcomes?  
+Journal of Economic Perspectives  20 (2): 23-48.  
+Guiso, Luigi, Paola Sapienza, Luigi Zingales (2008a). Long Term Persistence. NBER Working  
+Paper 14278. Cambridge, MA: National Bureau of Economic Research.  
+Guiso, Luigi, Paola Sapienza, Luigi Zingales (2008b). Social Capital as Good Culture. Journal of  
+the European Economic Association 6 (2-3): 295-320.  
+Hayek, Friedrich A. (1960). The Constitution of Liberty. London: Routledge & Kegan Paul.   Hrvatski Povijesni Atlas (2003). Hrvatski Povijesni Atlas  [Croatian Historical Atlas]. Zagreb.   Ichino, Andrea, Giovanni Maggi (2000). Work  Environment and I ndividual Background:  
+Explaining Regional Shirking Differentials in a Large Italian Firm. Quarterly Journal of  
+Economics  115 (3): 1057-1090.  
+Imamović, Mustafa (2007). Pravni položaj i unutrašno politički razvitak Bosne i Hercegovine od  
+1878 do 1914  [The Legal Situation and the Inner Political Development of Bosnia and  
+Herzegovina from 1878 to 1914]. 3rd  ed. Sarajevo: Magistrat.  
+Imbens, Guido, Thomas Lemieux (2008). Regression Discontinuity Designs: A Guide to  
+Practice. Journal of Econometrics  142 (2): 615-635.  
+Imber, Colin (1990). The Ottoman Empire 1300-1481. Istanbul: Isis Press.  
+İnalcık, Halil, ed. (1996). An Economic and Social History of the Ottoman Empire, 1300-1914.  
+Cambridge: Cambridge University Press.  
+Ingrao, Charles (1996). Ten Untaught Lessons about Central Europe: An Historical Perspective.  
+Center for Austrian Studies Working Paper 96-3.  Minneapolis, MN: Univer sity of Minnesota.   Ingrao, Charles W. (2000). The Habsburg Monarchy, 1618-1815. Second edition. Cambridge:  
+Cambridge University Press.   
+Ingrao, Charles, Nikola Samardžìć, Jovan Pešalj, eds. (2011). The Peace of Passarowitz, 1718.  
+West Lafayette, IN: Purdue University Press (in press).   
+Iyigun, Murat (2008). Luther and Suleyman. Quarterly Journal of Economics  123 (4): 1465- 
+1494.  
+Jha, Saumitra (2008). Trade, Institutions and Religious Tolerance: Evidence from India. Stanford  
+GSB Research Paper 2004. Stanford University, Graduate School of Business.  
+Jones, Eric L. (1987). The European Miracle: Environments, Economies, and Geopolitics in the  
+History of Europe and Asia. 2nd  ed. Cambridge: Cambridge University Press.   
+33 
+
+========35========
+
+Kinder, Hermann, Werner Hilgemann (2004). dtv-Atlas Weltgeschichte: Von den Anfängen bis  
+zur Gegenwart. München: Deutscher Taschenbuch Verlag.   
+Komlos, John (1983). The Habsburg Monarchy as a Customs Union: Economic Development in  
+Austria-Hungary in the Nineteenth Century. Princeton, NJ: Princeton University Press.  La Porta, Rafael, Florencio Lopez-de-Silanes, Andrei Shleifer, Robert W. Vishny (1998). Law  
+and Finance. Journal of Political Economy  106 (6): 1113-1155.  
+Landes, David (1998). The Wealth and Poverty of Nations: Why Some Are So Rich and Some So  
+Poor. New York: W. W. Norton.  
+Lee, David S., Thomas Lemieux (2010). Regression Discontinuity Designs in Economics.  
+Journal of Economic Literature  48 (2): 281-355.   
+Leisering, Walter (2004). Historischer Weltatlas. Wiesbaden: Marixverlag.  
+Long, J. Scott (1997). Regression Models for Categorical  and Limited Dependent Variables .  
+Advanced Quantitative Techniques in the Social  Sciences Series No. 7. Thousand Oaks, CA:  
+Sage Publications.   
+Maddala, G.S. (1983). Limited-Dependent and Qualitative Variables in Econometrics.  
+Econometric Society Monographs No. 3. New York: Cambridge University Press.  Magocsi, Paul Robert (2002). Historical Atlas of East Central Europe. Seattle: University of  
+Washington Press.  
+Mitchener, Kris James, Marc Weidenmier (2008). Trade and Empire. Economic Journal  118  
+(533): 1805-1834.  
+North, Douglass C. (1990). Institutions, Institutional Change and Economic Performance.  
+Cambridge: Cambridge University Press.   
+Nunn, Nathan (2008). The Long-Term Effects of Africa’s Slave Trades. Quarterly Journal of  
+Economics  123 (1): 139-176.   
+Nunn, Nathan (2009). The Importance of History for Economic Development. Annual Review of  
+Economics  1: 65-92.   
+Nunn, Nathan, Leonard Wantchekon (2011). The Slave Trade and the Origins of Mistrust in  
+Africa. American Economic Review, forthcoming.  
+Ostrom, Elinor (1998). A Behavioral Approach to the Rational Choice Theory of Collective  
+Action. American Political Science Review  92 (1):1-22.  
+Putnam, Robert (with Robert Leonardi, Raffaella Nanetti) (1993). Making Democracy Work:  
+Civic Traditions in Modern Italy. Princeton, NJ: Princeton University Press.   
+Reden, Alexander Sixtus von (1995). Österreich-Ungarn: Die Donaumonarchie in historischen  
+Dokumenten. 5th  ed. Ueberreuter: Wien.  
+Rothaug, Rudolf (2001). Atlas des Habsburger-Reiches. Braunschweig: Archiv-Verlag.  Sacerdote, Bruce (2011). Peer Effects in Education: How Might They Work, How Big Are They  
+and How Much Do We Know Thus Far? In: Eric A. Hanushek, Stephen Machin, Ludger  
+Woessmann (eds.), Handbook of the Economics of Education, Vol. 3, pp. 249-277.  
+Amsterdam: North Holland.  
+34 
+
+========36========
+
+Sachs, Jeffrey D. (2003). Institutions Don’t Rule: Direct Effects of Geography on Per Capita  
+Income. NBER Working Paper 9490. Cambridge, MA: National Bureau of  Economic Research.  Schulze, Max-Stephan, Nikolaus Wolf (2009). On the Origins of Border Effects: Insights from  
+the Habsburg Empire. Journal of Economic Geography 9 (1): 117-136.  
+Schulze, Max-Stephan, Nikolaus Wolf (2011). Economic Nationalism and Economic Integration:  
+The Austro-Hungarian Empire in the Late Nineteenth Century. Economic History Review,  
+forthcoming.   
+Shaw, Stanford J. (1976). History of the Ottoman Empire and Modern Turkey, Volume 1: Empire  
+of the Gazis: The Rise and Decline of the Ottoman Empire 1280-1808. Cambridge:  
+Cambridge University Press.  
+Subtelny, Orest (2007). The Habsburg and Russian  Empires: Some Comparisons and Contrasts.  
+In: Teruyuki Hara, Kimitaka Matsuzato (eds.), Empire and Society: New Approaches to  
+Russian History, pp. 73-92. Sapporo: Slavic Research Center, Hokkaido University.   Svensson, Jakob (2005). Eight Questions about Corruption. Journal of Economic Perspectives  19  
+(3): 19-42.   
+Tabellini, Guido (2008a). Institutions and Culture. Journal of the European Economic  
+Association  6 (2-3): 255-294.  
+Tabellini, Guido (2008b). The Scope of Cooperation: Values and Incentives. Quarterly Journal  
+of Economics  123 (3): 905-950.  
+Tabellini, Guido (2010). Culture and Institutions: Economic Development in the Regions of  
+Europe. Journal of the European Economic Association  8 (4): 677-716.  
+Taylor, A.J.P. (1948). The Habsburg Monarchy 1809-1918: A History of the Austrian Empire  
+and Austria-Hungary. London: Penguin Books (reprint 1990).   
+Transparency International (2007). Global Corruption Report 2007: Corruption in Judicial  
+Systems. Cambridge: Cambridge University Press.   
+Williams, Richard (2006). Generalized Ordered Logit/Partial Proportional Odds Models for  
+Ordinal Dependent Variables. Stata Journal  6 (1): 58-82.   
+Weber, Max (1904). Die protestantische Ethik und der „Geist“ des Kapitalismus. Archiv für  
+Sozialwissenschaft und Sozialpolitik  20: 1-54, 1904; 21: 1-110, 1905. [ The Protestant Ethic  
+and the Spirit of Capitalism, 1930/2001, London: Routledge Classics.]  
+Woodberry, Robert D. (2004). The Shadow of Empire: Christian Missions, Colonial Policy, and  
+Democracy in Postcolonial Societies. Ph.D. Dissertation, Department of Sociology,  
+University of North Carolina, Chapel Hill.  
+Zöllner, Erich (1990). Geschichte Österreichs: Von den Anfängen bis zur Gegenwart. 8th  ed.  
+Wien: Verlag für Geschichte und Politik.  
+35 
+
+========37========
+
+Appendix:  Post-1918 Emergence of Countries with Habsburg and Non- 
+Habsburg Parts  
+Our identification in the border sample notably  derives from the fact that there are five  modern-day countries that combine territories that were and were not part of the Habsburg  Empire. It is important to analyze how this formation came about  so that countries ended up  combining the different parts. In particular, understanding the background of this helps ease  concerns that the within-country separation by the former Habsburg border might be correlated  with ethnic or cultural differences that  date back even further in history.   
+After World War I, the victorious allies pressed for the right of self-determination of peoples,  in particular within the defeated Habsburg Monarchy. With that premise, many borders were  newly defined to merge peoples with a common language. Consequently, as a general rule  (which by necessity hides specific  historical exceptions), the  combination of Habsburg and non- Habsburg parts in one country meant that areas that had been reasonably  natural units before  were now joined together (again). In Romania and the Ukraine, areas that already previously  tended to be inhabited by ethnologically common  people with a common language were joined  together. The same is true for the Galician parts of Poland. In Serbia, a national assembly of the  former Habsburg part deliberately voted to join  the non-Habsburg part after World War I. In  Montenegro, the former Habsburg and non-Habsburg parts formed a natural geographical unit  for a long time. The one clear exception to this general pattern is the Silesian part of Poland,  where a different area was integrated into an otherwise quite foreign country.32    
+The relative internal homogeneity  of the forming countries even  before they came into being  after World War I can also documents itself in the fact that their political borders were already  visible in the economy well before the new countries were formed, as shown by Schulze and  Wolf (2009, 2011). Their studies document, furthermore, that the fact that the fault lines along  which the Habsburg Empire was to break up are evident long before its demise cannot be  explained by factors such as administrative barriers, geography, or infrastructural differences.   
+The following provides a rough overview of the cases of the five countries which, by  focusing on the general patterns, of course  does not do justice to all specifics.   
+                                                 
+32 
+ In line with this exception status, the analyses in  Section VII.B reveal that results get stronger when  disregarding Silesia.   
+A1 
+
+========38========
+
+Poland: Polish population had been living in the Polish parts of Galicia before they came to  Habsburg. Galicia’s main part joined the Habsburg Empire in the First Partition of Poland in  1772 and stayed until 1918. North Galicia joined the Habsburg Empire in the Third Partition of  Poland in 1795 and stayed only until 1809. That is, Galicia used to belong to Poland, then came  to Habsburg through power politics driven by Russia and Prussia, and then returned to Poland  after World War I. The situation is  quite different in Si lesia. Silesia used to  be under the rule of  the Crown of Bohemia, which passed to Habsburg in 1526. After the Silesian Wars, it was  incorporated by Prussia in 1742 and later remained part of the Weimar Republic. Only after  World War II did it join Poland.   
+Ukraine: East Galicia and northern Bukovina used to be part of Habsburg, with strong  Ukrainian populations. In connection with World War II, they became part of Soviet Ukraine.   
+Romania: Three historical regions and principalities form Romania: Wallachia, Moldova, and  Transylvania. They all had large Romanian population, but whereas Transylvania used to be  close to the Habsburgs and part of Hungary, the other two were ruled indirectly by the Ottomans.  Interestingly, already in 1600 the three were briefly united. In 1859, Moldova and Wallachia  formed the modern Romanian state. Transylvania  was passed to it after Wo rld War I as an area  of Austria-Hungary that had a Romanian population.   
+Serbia: The Vojvodina, which had been part of Habsburg resp. Hungary, came to the  Kingdom of the Serbs, Croats, and Slovenes after World War I. A quickly constituted national  assembly actually voted in favor of joining the Serbian kingdom in 1918. After World War II, it  remained an autonomous province in the Yugoslav Republic of Serbia. Other parts of Serbia that  had been affiliated with Habsburg are the so-called “Kingdom of Serbia” south of the rivers Sava  and Danube, ruled by the Habsburg crown from  1718-1739 and 1788-1791, and the Serbian part  of the Sanjak, where Habsburg garrisons were stationed from 1878-1908.   
+Montenegro: The gulf and harbor of Kotor had offered access to the Adriatic Sea to the  Serbian empire in the Middle Ages and later to the Republic of Venice, before it became part of  the Habsburg crown land Dalmatia in 1797 (with  the short Napoleonic interference of 1805- 1815). Since 1918, the Bay of Kotor belonged to the Kingdom of the Serbs, Croats, and Slovenes  (since 1929: Kingdom of Yugoslavia), first within the Zeta Banovina (an administrative body),  after World War II as part of  the Yugoslav Socialist Repub lic Montenegro. Another area  formerly affiliated with Habsburg is the Montenegrin part of the Sanjak (1878-1908).   
+A2 
+
+========39========
+
+Figure 1:THE HABSBURG EMPIRE IN EASTERN EUROPE AND THE LITSLOCATIONS  
+Habsburg border in maximum expansion, Habsburg border in 1900, borders of countries today, and location of the observations in the LiTS  2006 dataset contained in the border sample and in the 17-country sample. Former Habsburg territories that are no longer part of Habsburg in  1900: 1 Silesia (1526-1742); 2 West Galicia (1795-1809); 3a Kingdom of Serbia and 3b Banat of Craiova (1718-1739).   
+
+========40========
+
+Table 1: Samples and Habsburg Status 
+17-country sample Border sample 
+Habsburg not Habsburg Total Habsburg not Habsburg Total 
+Obs. % Obs. % Obs. % Obs. % Obs. % Obs. % Albania 0 0.0 1,000 100.0 1,000 100.0 
+Belarus 0 0.0 1,000 100.0 1,000 100.0 
+Bosnia 1,000 100.0 0 0.0 1,000 100.0 
+Bulgaria 0 0.0 1,000 100.0 1,000 100.0 
+Croatia 1,000 100.0 0 0.0 1,000 100.0 
+Czech Republic 1,000 100.0 0 0.0 1,000 100.0 
+FYR Macedonia 0 0.0 1,000 100.0 1,000 100.0 
+Hungary 1,000 100.0 0 0.0 1,000 100.0 
+Moldova 0 0.0 1,000 100.0 1,000 100.0 
+Montenegro 400 40.0 600 60.0 1,000 100.0 400 40.0 600 60.0 1,000 100.0 Poland 440 44.0 560 56.0 1,000 100.0 420 52.5 380 47.5 800 100.0 Romania 480 48.0 520 52.0 1,000 100.0 260 34.2 500 65.8 760 100.0 Russia 0 0.0 1,000 100.0 1,000 100.0 
+Serbia 880 88.0 120 12.0 1,000 100.0 780 86.7 120 13.3 900 100.0 Slovakia 1,001 100.0 0 0.0 1,001 100.0 
+Slovenia 1,001 100.0 0 0.0 1,001 100.0 
+Ukraine 120 12.0 880 88.0 1,000 100.0 80 57.1 60 42.9 140 100.0 Total 8,322 49.0 8,680 51.0 17,002 100.0 1,940 53.9 1,660 46.1 3,600 100.0 
+17-country sample: 17 countries that were formerly part of the Habsburg Empire or neighboring countries thereof. 
+Border sample: respondents living within 200km of respondents on the other side of the former Habsburg border in those ve countries that are partly Habsburg. 
+Data source: Life in Transition Survey (LiTS) 2006; see main text for details. 
+
+========41========
+
+Table 2: Trust and Corruption in Local Public Services: Habsburg vs. Non-Habsburg 
+Trust in courts Trust in police 
+Habsburg not Habsburg Total Habsburg not Habsburg Total 
+Obs. % Obs. % Obs. % Obs. % Obs. % Obs. % Complete distrust 2,149 26.1 2,789 32.4 4,938 29.3 1,398 17.0 2,224 25.8 3,622 21.5 Some distrust 1,636 19.9 1,510 17.5 3,146 18.7 1,223 14.9 1,363 15.8 2,586 15.4 Neither trust nor distrust 1,860 22.6 1,619 18.8 3,479 20.7 2,043 24.8 1,646 19.1 3,689 21.9 Some trust 1,715 20.9 1,678 19.5 3,393 20.2 2,447 29.7 2,241 26.0 4,688 27.8 Complete trust 371 4.5 503 5.8 874 5.2 820 10.0 827 9.6 1,647 9.8 Di to say 495 6.0 517 6.0 1,012 6.0 292 3.6 317 3.7 609 3.6 Total 8,226 100.0 8,616 100.0 16,842 100.0 8,223 100.0 8,618 100.0 16,841 100.0 
+Bribes to courts Bribes to road police 
+Habsburg not Habsburg Total Habsburg not Habsburg Total 
+Obs. % Obs. % Obs. % Obs. % Obs. % Obs. % Never 6,368 77.8 5,685 66.1 12,053 71.8 5,665 69.0 4,879 56.7 10,544 62.7 Seldom 734 9.0 984 11.4 1,718 10.2 914 11.1 1,081 12.6 1,995 11.7 Sometimes 643 7.9 1,034 12.0 1,677 10.0 1,011 12.3 1,329 15.4 2,340 13.9 Usually 308 3.8 525 6.1 833 5.0 453 5.5 822 9.5 1,275 7.6 Always 137 1.7 376 4.4 513 3.0 165 2.0 502 5.8 667 4.0 Total 8,190 100.0 8,604 100.0 16,794 100.0 8,208 100.0 8,613 100.0 16,821 100.0 
+Trust: Answer to the question: \To what extent do you trust the following institutions?" 
+Corruption: Answer to the question: \In your opinion, how often is it necessary for people like you to have to make uno payments/gifts in these situations?" 
+Data source: Life in Transition Survey (LiTS) 2006; see main text for details. 
+
+========42========
+
+Table 3: Descriptive Statistics 
+17-country sample Border sample 
+Both sides Habsburg side non-Habsburg side 
+Mean StdDev Min Max Mean StdDev Mean StdDev Mean StdDev 
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part of Habsburg Empire .49 .50 .00 1.00 .54 .50 1.00 .00 .00 .00 Duration of a with Habsburg (in years) 126.06 176.20 .00 635.00 52.41 78.74 97.45 84.49 .00 .00 
+Individual-level variables 
+Age of respondent 47.51 17.74 17.00 92.00 46.46 17.85 47.57 17.33 45.18 18.36 Male respondent .43 .50 .00 1.00 .45 .50 .45 .50 .45 .50 Worked for income during last 12 months .49 .50 .00 1.00 .45 .50 .45 .50 .44 .50 Native language .91 .28 .00 1.00 .93 .26 .91 .29 .95 .22 Ethnic minority .09 .28 .00 1.00 .09 .28 .12 .33 .05 .21 Education (omitted category: no degree) 
+Compulsory schooling education .20 .40 .00 1.00 .19 .39 .19 .39 .18 .39 Secondary education .21 .41 .00 1.00 .20 .40 .17 .38 .24 .43 Professional, vocational school or training .35 .48 .00 1.00 .38 .49 .40 .49 .36 .48 Higher professional degree (university, college) .18 .38 .00 1.00 .16 .37 .17 .37 .16 .36 Post graduate degree .01 .10 .00 1.00 .01 .10 .01 .11 .01 .10 Religion (omitted category: atheist) 
+Buddhist .001 .03 .00 1.00 .0008 .03 .001 .03 .0006 .02 Jewish .002 .04 .00 1.00 .002 .04 .002 .04 .002 .04 Christian .77 .42 .00 1.00 .91 .29 .89 .32 .93 .26 Muslim .11 .31 .00 1.00 .05 .23 .08 .27 .03 .16 Other .01 .12 .00 1.00 .006 .08 .007 .08 .005 .07 
+Household-level variables 
+Household has a car .48 .50 .00 1.00 .51 .50 .52 .50 .51 .50 Household has a secondary residence .13 .34 .00 1.00 .16 .37 .15 .36 .17 .38 Household has a bank account .44 .50 .00 1.00 .43 .50 .45 .50 .42 .49 Household has a credit/debit card .37 .48 .00 1.00 .34 .48 .35 .48 .34 .47 Household has a mobile phone .72 .45 .00 1.00 .75 .43 .74 .44 .76 .43 Household has a computer .35 .48 .00 1.00 .39 .49 .37 .48 .40 .49 Household has access to internet at home .22 .41 .00 1.00 .25 .43 .24 .43 .26 .44 Household size (equivalent scale) 1.87 .68 1.00 6.50 1.94 .69 1.97 .71 1.90 .67 Household number of children under 14 .36 .74 .00 7.00 .39 .78 .42 .82 .35 .74 
+17-country sample: 17 countries that were formerly part of the Habsburg Empire or neighboring countries thereof. 
+Border sample: respondents living within 200km of respondents on the other side of the former Habsburg border in those ve countries that are partly Habsburg. 
+Data source: Life in Transition Survey (LiTS) 2006; see main text for details. 
+
+========43========
+
+Table 4: Trust and Corruption in Courts and Police: 17-Country Sample 
+Trust in Trust in Bribes to Bribes to 
+courts police courts road police 
+(1) (2) (3) (4) Part of Habsburg Empire .141 .311 -.603 -.586 
+(.067) (.064) (.100) (.088) Age of respondent -.003 .006 -.005 -.012 
+(.001) (.001) (.001) (.001) Male respondent -.074 .003 .014 .087 
+(.031) (.031) (.040) (.038) Native language .198 .217 -.201 -.235 
+(.095) (.091) (.136) (.130) Ethnic minority -.016 -.028 -.289 -.335 
+(.102) (.091) (.111) (.104) Controls for religious a (6 categories) yes yes yes yes 
+Used service in last 12 months 1.069 1.203 
+(.087) (.066) No. of observations 15,830 16,232 16,794 16,821 No. of PSUs 850 850 850 850 Pseudo-R2 .002 .005 .023 .045 
+Coets and standard errors from ordered logit (ologit) estimations. 
+17-country sample: 17 countries that were formerly part of the Habsburg Empire or neighboring countries thereof. 
+Dependent variable in columns (1) and (2) is answer to the question \To what extent do you trust the following institutions?" Column (1): The courts. Column (2): The police. Answer categories are: 1=Complete distrust; 2=Some distrust; 3=Neither trust nor distrust; 4=Some trust; 5=Complete trust. Category 6=Di to say set to missing in regressions. 
+Dependent variable in columns (3) and (4) is answer to the question \In your opinion, how often is it necessary for people like you to have to make uno payments/gifts in these situations?" Column (3): Interact with the courts. Column (4): Interact with the road police. Answer categories are: 1=Never; 2=Seldom; 3=Sometimes; 4=Usually; 5=Always. 
+Standard errors (clustered at the level of PSUs) in parentheses: 
+ 
+signi at ten, 
+ 
+e, 
+ 
+one percent. 
+Data source: Life in Transition Survey (LiTS) 2006; see main text for details. 
+
+========44========
+
+Table 5: Trust and Corruption in Courts and Police: Border Sample 
+Trust in Trust in Bribes to Bribes to 
+courts police courts road police 
+(1) (2) (3) (4) Part of Habsburg Empire .229 .169 -.373 -.342 
+(.132) (.109) (.205) (.174) Age of respondent -.00009 .009 -.006 -.018 
+(.002) (.002) (.004) (.003) Male respondent -.018 -.035 .026 .275 
+(.067) (.066) (.097) (.080) Native language -.240 .004 .030 .116 
+(.188) (.152) (.311) (.274) Ethnic minority -.330 -.309 -.149 -.178 
+(.135) (.125) (.203) (.171) Controls for religious a (6 categories) yes yes yes yes 
+Used service in last 12 months .936 1.104 
+(.194) (.142) Country  e yes yes yes yes 
+No. of observations 3,359 3,409 3,572 3,574 No. of PSUs 180 180 180 180 Pseudo-R2 .019 .015 .038 .054 
+Coeents and standard errors from ordered logit (ologit) estimations. 
+Border sample: respondents living within 200km of respondents on the other side of the former Habsburg border in those e countries that are partly Habsburg. 
+Dependent variable in columns (1) and (2) is answer to the question \To what extent do you trust the following institutions?" Column (1): The courts. Column (2): The police. Answer categories are: 1=Complete distrust; 2=Some distrust; 3=Neither trust nor distrust; 4=Some trust; 5=Complete trust. Category 6=Di to say set to missing in regressions. 
+Dependent variable in columns (3) and (4) is answer to the question \In your opinion, how often is it necessary for people like you to have to make uno payments/gifts in these situations?" Column (3): Interact with the courts. Column (4): Interact with the road police. Answer categories are: 1=Never; 2=Seldom; 3=Sometimes; 4=Usually; 5=Always. 
+Standard errors (clustered at the level of PSUs) in parentheses: 
+ 
+signi at ten, 
+ 
+e, 
+ 
+one percent. 
+Data source: Life in Transition Survey (LiTS) 2006; see main text for details. 
+
+========45========
+
+Table 6: Additional Control Variables 
+Trust in Trust in Bribes to Bribes to 
+courts police courts road police 
+(1) (2) (3) (4) Part of Habsburg Empire .223 .128 -.369 -.353 
+(.130) (.107) (.207) (.176) Age of respondent -.002 .008 -.006 -.015 
+(.003) (.003) (.004) (.003) Male respondent .005 -.033 .006 .242 
+(.071) (.067) (.099) (.081) Native language -.190 .026 .049 .149 
+(.178) (.153) (.315) (.276) Ethnic minority -.323 -.322 -.156 -.179 
+(.138) (.125) (.203) (.168) Controls for religious a (6 categories) yes yes yes yes 
+Worked for income during last 12 months -.021 .108 .177 .222 
+(.076) (.076) (.110) (.095) Controls for household property (7 variables) yes yes yes yes 
+Controls for education level (6 categories) yes yes yes yes 
+Urban area -.105 -.015 .040 .077 
+(.128) (.117) (.231) (.188) Metropolitan area -.110 -.199 .020 .059 
+(.158) (.148) (.279) (.238) 
+Household size (equivalent scale) .073 .106 .097 .145 
+(.068) (.063) (.084) (.072) 
+Household number of children under 14 .016 -.026 -.068 -.041 
+(.047) (.044) (.066) (.047) Used service in last 12 months .953 1.040 
+(.192) (.141) Country  e yes yes yes yes 
+No. of observations 3,359 3,409 3,572 3,574 No. of PSUs 180 180 180 180 Pseudo-R2 .023 .018 .041 .063 
+Coeents and standard errors from ordered logit (ologit) estimations. 
+Border sample: respondents living within 200km of respondents on the other side of the former Habsburg border in those ve countries that are partly Habsburg. 
+Dependent variable in columns (1) and (2) is answer to the question \To what extent do you trust the following institutions?" Column (1): The courts. Column (2): The police. Answer categories are: 1=Complete distrust; 2=Some distrust; 3=Neither trust nor distrust; 4=Some trust; 5=Complete trust. Category 6=Di to say set to missing in regressions. 
+Dependent variable in columns (3) and (4) is answer to the question \In your opinion, how often is it necessary for people like you to have to make uno payments/gifts in these situations?" Column (3): Interact with the courts. Column (4): Interact with the road police. Answer categories are: 1=Never; 2=Seldom; 3=Sometimes; 4=Usually; 5=Always. 
+Standard errors (clustered at the level of PSUs) in parentheses: 
+ 
+signi at ten, 
+ 
+e, 
+ 
+one percent. 
+Data source: Life in Transition Survey (LiTS) 2006; see main text for details. 
+
+========46========
+
+Table 7: Pseudo Borders: Moving the Border Inwards and Outwards 
+Trust in Trust in Bribes to Bribes to 
+courts police courts road police 
+(1) (2) (3) (4) Moving border 100km inwards .006 -.004 .212 -.167 
+(.170) (.136) (.286) (.231) Moving border 100km outwards .076 -.029 .521 .454 
+(.231) (.234) (.459) (.406) 
+All reported estimates are coets of the variable \Part of Habsburg Empire" in the model specition of Table 6. 
+Coeents and standard errors from ordered logit (ologit) estimations. 
+Border sample: respondents living within 200km of respondents on the other side of the former Habsburg border in those ve countries that are partly Habsburg. 
+In the  row, estimation is restricted to Habsburg locations (within the 200km band of the true Habsburg border) and treatment is de as being \to the left" of a pseudo border that is moved 100km inwards relative to the true Habsburg border. In the second row, estimation is restricted to non-Habsburg locations (within the 200km band of the true Habsburg border) and treatment is de as being \to the left" of a pseudo border that is moved 100km outwards relative to the true Habsburg border. 
+Standard errors (clustered at the level of PSUs) in parentheses: 
+ 
+signi at ten, 
+ 
+e, 
+ 
+one percent. 
+Data source: Life in Transition Survey (LiTS) 2006; see main text for details. 
+
+========47========
+
+Table 8: Geographic and Pre-Existing Differences between Habsburg and Non-Habsburg 
+Geography Indicators of pre-Habsburg development 
+Altitude of City size Trade route Diocesan city 
+LiTS municipality in 1400 in 1450 in 1450 
+in 100 meters in 1,000s (dummy) (dummy) 
+(1) (2) (3) (4) Part of Habsburg Empire .372 -.435 -.065 -.051 
+(.407) (.904) (.082) (.071) No. of observations 158 115 115 115 R2 0.0053 .002 .006 .005 
+Coeents and standard errors from ordinary least squares estimations. 
+Border sample: locations within 200km of locations on the other side of the former Habsburg border in those e countries that are partly Habsburg. In column (1), the unit of observation is a LiTS location. In columns (2)-(4), the unit of observation is a town in the Bairoch (1988) data. 
+Standard errors in parentheses: 
+ 
+signi at ten, 
+ 
+e, 
+ 
+one percent. 
+Data source: Life in Transition Survey (LiTS) 2006; Bairoch, Batou, and Chvre (1988); Magocsi (2002); see main text for details. 
+
+========48========
+
+Table 9: Interpersonal Trust and Membership in Organizations 
+Trust in Trust in Membership in Membership in 
+other people trade unions political parties civic organizations 
+(1) (2) (3) (4) Part of Habsburg Empire -.064 .027 .020 .006 
+(.139) (.141) (.013) (.008) Age of respondent -.002 -.003 .0007 -.0002 
+(.003) (.003) (.0003) (.0002) Male respondent -.040 -.071 .031 .012 
+(.070) (.072) (.008) (.007) Native language .184 -.252 -.0003 .015 
+(.138) (.194) (.016) (.008) Ethnic minority -.204 -.107 .002 .025 
+(.134) (.139) (.015) (.015) Controls for religious a (6 categories) yes yes yes yes 
+Worked for income during last 12 months -.040 -.088 .034 .006 
+(.078) (.085) (.010) (.007) Controls for household property (7 variables) yes yes yes yes 
+Controls for education level (6 categories) yes yes yes yes 
+Urban area -.030 -.256 -.003 .002 
+(.133) (.135) (.012) (.009) Metropolitan area .070 -.156 -.054 -.010 
+(.158) (.144) (.010) (.011) Household size (equivalent scale) -.054 .017 .007 .0008 
+(.064) (.069) (.007) (.005) Household number of children under 14 .019 -.025 -.003 -.002 
+(.045) (.046) (.005) (.004) Country  e yes yes yes yes 
+No. of observations 3,388 3,137 3,564 3,573 No. of PSUs 180 180 180 180 Pseudo-R2 .008 .020 .161 .079 
+Columns (1) and (2): Coets and standard errors from ordered logit (ologit) estimations. Columns (3) and (4): marginal e and standard errors from probit estimations. 
+Border sample: respondents living within 200km of respondents on the other side of the former Habsburg border in those ve countries that are partly Habsburg. 
+Dependent variable in columns (1) and (2) is answer to the question \To what extent do you trust the following [...]?" Column (1): Other people. Column (2): Trade unions. Answer categories are: 1=Complete distrust; 2=Some distrust; 3=Neither trust nor distrust; 4=Some trust; 5=Complete trust. Category 6=Di to say set to missing in regressions. 
+Dependent variable in column (3) is answer to the question \Are you a member of a political party?". 
+Dependent variable in column (4) is answer to the question \Are you a member of (other) civic/voluntary organizations?". 
+Standard errors (clustered at the level of PSUs) in parentheses: 
+ 
+signi at ten, 
+ 
+e, 
+ 
+one percent. 
+Data source: Life in Transition Survey (LiTS) 2006; see main text for details. 
+
+========49========
+
+Table 10: Habsburg vs. Ottoman Empires 
+Trust in Trust in Bribes to Bribes to 
+courts police courts road police 
+(1) (2) (3) (4) Sample restricted to Ottoman Empire in the control group 
+Part of Habsburg Empire .373 .250 -.472 -.403 
+(.166) (.133) (.222) (.210) No. of observations 2,963 2,999 3,152 3,154 No. of PSUs 159 159 159 159 Pseudo-R2 .025 .018 .039 .059 Sample restricted to locations that were ever part of the Ottoman Empire 
+Part of Habsburg Empire .417 .286 -.456 -.356 
+(.168) (.138) (.252) (.227) No. of observations 2,393 2,424 2,539 2,539 No. of PSUs 128 128 128 128 Pseudo-R2 .034 .022 .021 .049 
+Coeents and standard errors from ordered logit (ologit) estimations in the model speci of Table 6. 
+Border sample: respondents living within 200km of respondents on the other side of the former Habsburg border in those ve countries that are partly Habsburg. 
+Standard errors (clustered at the level of PSUs) in parentheses: 
+ 
+signi at ten, 
+ 
+e, 
+ 
+one percent. 
+Data source: Life in Transition Survey (LiTS) 2006; see main text for details. 
+
+========50========
+
+Table 11: Duration of Habsburg Affiliation 
+Trust in Trust in Bribes to Bribes to 
+courts police courts road police 
+(1) (2) (3) (4) Control for duration of a with the Habsburg Empire 
+Part of Habsburg Empire .232 .130 -.370 -.352 
+(.126) (.107) (.207) (.175) Duration of a with Habsburg (in 100 years) -.197 -.039 -.056 -.095 
+(.093) (.074) (.156) (.134) No. of observations 3,359 3,409 3,572 3,574 No. of PSUs 180 180 180 180 Pseudo-R2 .024 .018 .041 .063 Dropping areas (and their correspondents on the other side of the border) 
+that were no longer part of Habsburg in 1900 
+Dropping Silesia (1526-1742) 
+Part of Habsburg Empire .268 .193 -.355 -.383 
+(.137) (.113) (.219) (.189) No. of observations 3,037 3,088 3,232 3,234 No. of PSUs 163 163 163 163 Pseudo-R2 .025 .021 .036 .062 Dropping Kingdom of Serbia and Banat of Craiova (1718-1739) 
+Part of Habsburg Empire .139 .131 -.374 -.354 
+(.139) (.114) (.220) (.190) No. of observations 2,789 2,826 2,980 2,982 No. of PSUs 150 150 150 150 Pseudo-R2 .020 .018 .049 .067 Dropping West Galicia (1795-1809) 
+Part of Habsburg Empire .220 .142 -.408 -.359 
+(.136) (.111) (.207) (.179) No. of observations 3,167 3,202 3,352 3,354 No. of PSUs 169 169 169 169 Pseudo-R2 .023 .017 .037 .057 Habsburg in 1900 (dropping all three areas that had formerly been part of Habsburg and their correspondents) 
+Part of Habsburg Empire .221 .230 -.555 -.452 
+(.173) (.139) (.239) (.231) No. of observations 2,097 2,119 2,240 2,242 No. of PSUs 113 113 113 113 Pseudo-R2 .025 .020 .037 .055 Dropping Sanjak (1878-1908) 
+Part of Habsburg Empire .086 -.020 -.441 -.497 
+(.147) (.109) (.222) (.187) No. of observations 3,094 3,129 3,256 3,258 No. of PSUs 164 164 164 164 Pseudo-R2 .017 .016 .046 .071 
+Coeients and standard errors from ordered logit (ologit) estimations in the model speci of Table 6. 
+Border sample: respondents living within 200km of respondents on the other side of the former Habsburg border in those e countries that are partly Habsburg. 
+Standard errors (clustered at the level of PSUs) in parentheses: 
+ 
+signi at ten, 
+ 
+e, 
+ 
+one percent. 
+Data source: Life in Transition Survey (LiTS) 2006; see main text for details. 
+
+========51========
+
+Table 12: Trust in Central Public Services 
+Trust in Trust in Trust in Trust in Trust in 
+political parties the parliament the government the presidency the armed forces 
+(1) (2) (3) (4) (5) Part of Habsburg Empire .065 .129 .132 .193 .073 
+(.115) (.132) (.130) (.118) (.122) Age of respondent .004 .006 .008 .008 .006 
+(.003) (.003) (.003) (.003) (.003) Male respondent .014 .029 -.092 -.096 .049 
+(.074) (.075) (.076) (.074) (.068) Native language -.173 -.239 -.198 -.171 -.024 
+(.187) (.208) (.209) (.220) (.209) Ethnic minority -.137 -.163 -.260 -.268 -.241 
+(.175) (.171) (.163) (.134) (.137) Controls for religious a (6 categories) yes yes yes yes yes 
+Worked for income during last 12 months -.051 -.039 -.014 -.023 -.051 
+(.084) (.081) (.079) (.072) (.071) Controls for household property (7 variables) yes yes yes yes yes 
+Controls for education level (6 categories) yes yes yes yes yes 
+Urban area -.235 -.187 -.176 -.046 .056 
+(.112) (.127) (.129) (.121) (.132) Metropolitan area -.086 -.117 -.192 -.100 -.258 
+(.156) (.167) (.163) (.151) (.159) Household size (equivalent scale) .040 .023 -.0003 .064 .051 
+(.072) (.069) (.067) (.067) (.067) 
+Household number of children under 14 .028 .091 .096 .060 -.087 
+(.046) (.050) (.052) (.051) (.046) Country  e yes yes yes yes yes 
+No. of observations 3,352 3,396 3,386 3,380 3,149 No. of PSUs 180 180 180 180 180 Pseudo-R2 .019 .034 .031 .027 .024 
+Coeents and standard errors from ordered logit (ologit) estimations. 
+Border sample: respondents living within 200km of respondents on the other side of the former Habsburg border in those ve countries that are partly Habsburg. 
+Dependent variable is answer to the question \To what extent do you trust the following institutions?" Column (1): Political parties. Column (2): The parliament. Column (3): The government. Column (4): The Presidency. Column (5): The armed forces. Answer categories are: 1=Complete distrust; 2=Some distrust; 3=Neither trust nor distrust; 4=Some trust; 5=Complete trust. Category 6=Di to say set to missing in regressions. 
+Standard errors (clustered at the level of PSUs) in parentheses: 
+ 
+signi at ten, 
+ 
+e, 
+ 
+one percent. 
+Data source: Life in Transition Survey (LiTS) 2006; see main text for details. 
+
+========52========
+
+Table 13: Results from a Business Survey 
+Description of court system 
+in resolving business disputes: 
+upholds our 
+fair honest property rights 
+(1) (2) (3) Part of Habsburg Empire .274 .135 .185 
+(.118) (.155) (.145) Year when  began operations in country -.004 -.008 -.002 
+(.003) (.004) (.003) Sector dummies (8 categories) yes yes yes 
+Firm size medium (50-249 employees) .494 .346 .329 
+(.129) (.159) (.195) 
+Firm size large (250-9,999 employees) .123 .420 .728 
+(.159) (.203) (.201) 
+Percentage of  owned by foreigners .003 .003 .001 
+(.002) (.002) (.002) Percentage of  owned by government .003 .001 .002 
+(.002) (.002) (.002) Country xed e yes yes yes 
+No. of observations 1,029 1,009 997 No. of PSUs 168 168 171 Pseudo-R2 .028 .025 .014 
+Coecients and standard errors from ordered logit estimations. 
+Border sample:  located within 200km of  on the other side of the former Habsburg border in those e countries that are partly Habsburg. Dependent variable in columns (1) and (2) is answer to the question \How often do you associate the following descriptions with the court system in resolving business disputes?". Answer categories are: 1=Never; 2=Seldom; 3=Sometimes; 4=Frequently; 5=Usually; 6=Always. 
+Dependent variable in column (3) is answer to the question \To what degree do you agree with this statement? `I am cont that the legal system will uphold my contract and property rights in business disputes’." Answer categories are: 1=Strongly disagree; 2=Disagree in most cases; 3=Tend to disagree; 4=Tend to agree; 5=Agree in most cases; 6=Strongly agree. 
+Standard errors (clustered at the level of PSUs) in parentheses: 
+ 
+signi at ten, 
+ 
+e, 
+ 
+one percent. 
+Data source: Business Environment and Enterprise Performance Survey (BEEPS) 2005; see main text for details. 
+
+========53========
+
+Table A.1: Specification in a Classical Regression Discontinuity Framework 
+Trust in Trust in Bribes to Bribes to 
+courts police courts road police 
+(1) (2) (3) (4) Controlling for distance to border .378 .286 -.651 -.421 
+(.185) (.187) (.290) (.267) Controlling for quadratic in distance to border .374 .281 -.679 -.445 
+(.187) (.186) (.279) (.258) Controlling for distance to border and its interaction with a Habsburg dummy .372 .278 -.678 -.449 
+(.186) (.186) (.273) (.251) 
+All reported estimates are coets of the variable \Part of Habsburg Empire" in the model speci of Table 6. 
+Coecients and standard errors from ordered logit (ologit) estimations. 
+Border sample: respondents living within 200km of the former Habsburg border, based on GIS-computed distance to border, in those e countries that are partly Habsburg. 
+Standard errors (clustered at the level of PSUs) in parentheses: 
+ 
+signi at ten, 
+ 
+e, 
+ 
+one percent. 
+Data source: Life in Transition Survey (LiTS) 2006; see main text for details. 
+
+========54========
+
+Table A.2: Average Absolute Marginal Effects 
+Trust in Trust in Bribes to Bribes to 
+courts police courts road police 
+(1) (2) (3) (4) Part of Habsburg Empire .022 .012 .023 .029 Age of respondent .0002 .0007 .0005 .001 Male respondent .0005 .003 .0003 .020 Worked for income during last 12 months .019 .002 .003 .012 Compulsory schooling education .032 .031 .009 .014 Secondary education .114 .144 .069 .118 Professional, vocational school or training .083 .140 .080 .068 Higher professional degree (university, college) .059 .045 .012 .009 Post graduate degree .104 .116 .011 .025 Buddhist .072 .077 .110 .078 Jewish .002 .010 .011 .018 Christian .007 .003 .0007 .025 Muslim .002 .018 .013 .017 Other .020 .012 .0007 .008 Native language .010 .0003 .011 .0008 Ethnic minority .004 .006 .005 .009 Household has a car .007 .002 .002 .015 Household has a secondary residence .013 .017 .011 .018 Household has a bank account .027 .017 .002 .011 Household has a credit/debit card .023 .018 .011 .029 Household has a mobile phone .048 .031 .012 .035 Household has a computer .015 .012 .006 .015 Household has access to internet at home .022 .027 .020 .072 Urban area .011 .001 .003 .006 Metropolitan area .011 .019 .001 .005 Household size (equivalent scale) .007 .010 .006 .011 Household number of children under 14 .002 .002 .004 .003 Used service in last 12 months .075 .096 
+Average absolute marginal e of each independent variable for the model speci of Table 6 (including country  e holding the others constant at their mean. For instance, the upper-left entry of .022 indicates that having been part of the Habsburg Empire increases the probability of moving to a higher trust category by 2.2 percentage point, on average across the e categories. Table A.3 displays these e category by category. Dependent variable in columns (1) and (2) is answer to the question \To what extent do you trust the following institutions?" Column (1): The courts. Column (2): The police. Answer categories are: 1=Complete distrust; 2=Some distrust; 3=Neither trust nor distrust; 4=Some trust; 5=Complete trust. Category 6=Di to say set to missing in regressions. 
+Dependent variable in columns (3) and (4) is answer to the question \In your opinion, how often is it necessary for people like you to have to make uno payments/gifts in these situations?" Column (3): Interact with the courts. Column (4): Interact with the road police." Answer categories are: 1=Never; 2=Seldom; 3=Sometimes; 4=Usually; 5=Always. 
+Data source: Life in Transition Survey (LiTS) 2006; see main text for details. 
+
+========55========
+
+Table A.3: Marginal Effects of Habsburg Empire by Category 
+Trust in Trust in Bribes to Bribes to 
+courts police courts road police 
+(1) (2) (3) (4) Complete distrust -.046 -.020 Never .059 .073 Some distrust -.009 -.009 Seldom -.020 -.021 Neither trust nor distrust .011 -.001 Sometimes -.023 -.033 Some trust .033 .018 Usually -.010 -.013 Complete trust .012 .012 Always -.005 -.006 Average absolute marginal e .022 .012 Average absolute marginal ect .023 .029 
+Marginal e of past a with the Habsburg Empire in the model speci of Table 6, holding other variables constant at their mean. For instance, the upper-left entry of -.046 indicates that having been part of the Habsburg Empire decreases the probability of answering \complete distrust" by 4.6 percentage points. The last row displays the average absolute percentage change across categories and corresponds to the same number in Table A.2. 
+Dependent variable in columns (1) and (2) is answer to the question \To what extent do you trust the following institutions?" Column (1): The courts. Column (2): The police. Answer categories are: 1=Complete distrust; 2=Some distrust; 3=Neither trust nor distrust; 4=Some trust; 5=Complete trust. Category 6=Di to say set to missing in regressions. 
+Dependent variable in columns (3) and (4) is answer to the question \In your opinion, how often is it necessary for people like you to have to make uno payments/gifts in these situations?" Column (3): Interact with the courts. Column (4): Interact with the road police." Answer categories are: 1=Never; 2=Seldom; 3=Sometimes; 4=Usually; 5=Always. 
+Data source: Life in Transition Survey (LiTS) 2006; see main text for details. 
+
+========56========
+

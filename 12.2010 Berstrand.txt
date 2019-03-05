@@ -1,0 +1,1921 @@
+June 2010 
+             No.12 
+The Growth of Bilateralism 
+Scott L Baier (Clemson University), Jeffery H Bergstrand  (University of Notre Dame), Roland Mariutto (University of Notre  
+Dame) 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+The Growth of Bilateralism⁄ 
+Scott L. Baier, Jeﬁrey H. Bergstrandy , Ronald Mariuttoz 
+x 
+May 5, 2010 
+Abstract 
+One of the most notable international economic events over the past 20 years has been the proliferation of bilateral free trade agreements (FTAs). Bilateral agreements account for 80 percent of all agreements notiﬂed to the WTO, 94 percent of those signed or under negotiation, and currently 100 percent of those at the proposal stage. Some have argued that the growth of bilateralism is attributable to governments having pursued a policy of \competitive liberalization" { implementing bilateral FTAs to oﬁset potential trade diversion caused by FTAs of \third-country-pairs" { but the growth of bilateralism can also be attributed potentially to \tariﬁ complementarity" { the incentive for FTA members to reduce their external tariﬁs on nonmembers. Guided by new comparative statics from the numerical general equilibrium monopolistic competition model of FTA economic determinants in Baier and Bergstrand (2004), we augment their parsimonious logit (and probit) model of the economic determinants of bilateral FTAs to incorporate theory-motivated indexes to examine the in of existing memberships on subsequent FTA formations. The model can predict correctly 90 percent of the bilateral FTAs within ﬂve years of their formation, while still predicting \No-FTA" correctly in 90 percent of the observations when no FTA exists, using a sample of over 350,000 observations for pairings of 146 countries from 1960-2005. Even imposing the higher correct prediction rate of \No- FTA" of 97 percent in Baier and Bergstrand (2004), the parsimonious model still predicts correctly 75 percent of these rare FTA events; only 3 percent of the observations re a country-pair having an FTA in any year. The results suggest that { while evidence supports that \competitive liberalization" is a force for bilateralism { the eﬁect on the likelihood a pair of countries forming an FTA of the pair’s own FTAs with other countries (i.e., tariﬁ complementarity) is likely just as important as the eﬁect of third-country-pairs’ FTAs (i.e., competitive liberalization) for the growth of bilateralism. 
+Key words: Free Trade Agreements; International Trade; Endogenous Tariﬁs 
+JEL classiﬂcation: F14; F15 
+⁄Acknowledgements: Baier and Bergstrand are grateful to the National Science Foundation for ﬂnancial support under grants SES-0351018 (Baier) and SES-0351154 (Bergstrand). Other acknowledgements will be added later. 
+yA–liation: 
+John E. Walker Department of Economics, Clemson University, Clemson, SC 29634 USA. E-mail: sbaier@exchange.clemson.edu. 
+zA–liation: 
+Department of Finance, Mendoza College of Business, and Kellogg Institute for International Studies, University of Notre Dame, Notre Dame, IN 46556 USA and CESifo, Munich, Germany. E-mail: bergstrand.1@nd.edu. 
+xA–liation: 
+Department of Economics and Econometrics, University of Notre Dame, Notre Dame, IN 46556 USA. E-mail: rmariutt@nd.edu. 
+
+========2========
+
+1 Introduction 
+\It is ﬂrst essential to understand why so many countries, in so 
+many diﬁerent parts of the world, with such diﬁerent economic 
+systems, at such diﬁerent stages of development, have all headed 
+in the same direction. There are of course diﬁerent national 
+circumstances which explain the detailed strategies and tim- 
+ing of the individual initiatives. The overarching force, however, 
+has been the process of competitive liberalization." (Bergsten, 1996) 
+\Governments lower their external tariﬁs after joining an FTA." 
+(Ornelas, 2005c) 
+One of the most notable economic events since 1990 has been the \growth of bilateralism," 
+referring to the phenomenal proliferation of bilateral free trade agreements (FTAs). According 
+to Heydon and Woolcock (2009, pp. 10-11), bilateral preferential trade agreements \account 
+for 80 percent of all PTAs notiﬂed and in force; 94 percent of those signed and/or under nego- 
+tiation; and 100 percent of those at the proposal stage" with the vast bulk of preferential trade 
+agreements being FTAs.1 In this 20-year period, international trade economists have mostly 
+debated related normative questions { such as whether such agreements are on net welfare- 
+increasing or welfare-decreasing for member countries and/or for nonmembers { and related 
+positive questions { such as whether preferential agreements are \stumbling" or \building" 
+blocks toward global free trade. However, the profession has yet to provide an empirical model 
+that actually explains what we observe over time. Moreover, the profession has yet to provide 
+in particular a systematic empirical analysis \testing" Bergsten’s hypothesis above that the 
+\overarching force [behind the growth of bilateralism] has been the process of competitive lib- 
+eralization" versus the importance of endogenous \tariﬁ-complementarity" as the overarching 
+force. 
+1Heydon and Woolcock (2009, p. 10) note that "among projected agreements" 92 percent are planned as FTAs, 7 percent as partial scope agreements, and only 1 percent as customs unions, with customs unions diﬁering from FTAs owing to the former having a common external tariﬁ with nonmembers. For brevity, we refer here to FTAs and customs unions as \FTAs," as most agreements formed in the past 50 years have been FTAs. Our theoretical and empirical analysis will omit partial scope agreements. 
+2 
+
+========3========
+
+The main goal of this paper is to provide a parsimonious empirical model that explains 
+the actual path of bilateralism we have observed and evaluates speciﬂcally whether the \over- 
+arching force" behind the growth of bilateralism is due to competitive liberalization versus 
+tariﬁ-complementarity. In this paper, \competitive liberalization" will refer to the eﬁect of 
+third-country-pair FTAs inducing a pair of countries to subsequently form an FTA to oﬁset 
+potential trade diversion and \tariﬁ complementarity" will refer to the incentive of a pair of 
+countries to form an FTA because either or both of these countries have other FTAs (own-FTA 
+eﬁect). We have three speciﬂc potential contributions in mind. First, we use new comparative 
+statics from a simpliﬂed version of the numerical general equilibrium monopolistic competition 
+model of FTA determinants in Baier and Bergstrand (2004) to show explicitly how { in addi- 
+tion to economic size, economic similarity, proximity, and remoteness { the formation of FTAs 
+aﬁects the utility gains of potential subsequent FTA formations. However, we distinguish the 
+eﬁect of a country pair’s own FTAs with other countries on the net utility gain or loss of the pair 
+forming an agreement (i.e., tariﬁ-complementarity) from the eﬁect of third-country-pairs’ FTAs 
+on the net utility change of the pair’s proposed agreement (i.e., competitive liberalization).2 
+Second, guided by these comparative statics, we formulate and estimate a simple logit 
+(or probit) equation predicting the probability of two countries forming an FTA as a func- 
+tion of both countries’ GDP sizes and similarities, bilateral distance, and { in the spirit of 
+gravity-equation theoretical foundations in Anderson and van Wincoop (2003) and Baier and 
+Bergstrand (2009) { \multilateral indexes" of resistance and of \other FTAs" implied by the 
+theory, without having to employ the more demanding spatial econometrics used in Egger and 
+Larch (2008). Moreover, our approach can distinguish empirically the eﬁects of a country pair’s 
+own FTAs with other countries from third-country-pair FTA eﬁects on the likelihood of a pair 
+forming an agreement. We evaluate the empirical model’s robustness in a sensitivity analysis. 
+Third, using our panel of pairings of 146 countries for 46 years (with over 350,000 observa- 
+tions), we employ a \Sensitivity-Speciﬂcity" analysis to establish the optimum cutoﬁ probability 
+for whether or not { according to the model’s predictions { a country-pair should have a bilat- 
+eral FTA formed in a given 5-year period. Based on this, we predict correctly approximately 90 
+2We recognize, of course, that many of the observed FTAs between country pairs represent enlargements of existing FTAs and that much of world trade is subject to regional agreements. We will address the implications of enlargements later in the analysis. However, for now we re-emphasize, as noted in Heydon and Woolcock (2009) above, that 94 percent of the preferential trade agreements that have either been signed or notiﬂed (of which the vast bulk are FTAs) are bilateral and consequently only 6 percent involve more than two countries. Moreover, 100 percent of those currently at the proposal stage are bilateral FTAs. 
+3 
+
+========4========
+
+percent of the actual FTA formations (enlargements) for every 5-year-period from 1960-2005 
+and predict correctly (also 90 percent of the time) \No-FTAs" when no FTAs formed for the 
+same periods. Moreover, if we raise the rate of \true negatives" (or No-FTAs) to 97 percent 
+as in Baier and Bergstrand (2004) (which increases the cutoﬁ-probability), the \true positives" 
+rate falls only to 75 percent, almost as high as that in Baier and Bergstrand (2004) for only a 
+single cross-section of 1431 pairings among 53 countries in 1996 (which was 85 percent). With 
+the area underneath the Receiver Operating Characteristic (or ROC) curve curve at 97 percent 
+(100 percent being a perfect ﬂt), the model implies very high \true positive" and \true negative" 
+and very low false positive and false negative rates of prediction of bilateral FTA formations 
+over time. Moreover, the marginal response probabilities conﬂrm that the eﬁect of a country 
+pair’s own FTAs on the likelihood of the pair forming an agreement (tariﬁ-complementarity) 
+is economically and statistically larger than the eﬁect of third-country-pairs’ FTAs on this 
+likelihood (competitive liberalization). Thus, the results conﬂrm competitive liberalization has 
+been a force behind the growth of bilateralism, but the tariﬁ-complementarity eﬁect is likely 
+to have been just as important a force behind the growth of bilateralism. Finally, these results 
+suggest that the absence of trade-diversion eﬁects found in previous gravity-equation analyses 
+of bilateral trade ws may well be due to the endogenous growth of bilateralism, as noted in 
+Freund and Ornelas (2009). 
+The remainder of this paper is as follows. In section 2, we discuss the related literature to 
+motivate our analysis. In section 3, we discuss the theoretical framework for motivating our 
+econometric model. In section 4, we provide the econometric speciﬂcation and data. In section 
+5, we discuss the main empirical results and provide a robustness analysis. In section 6, we 
+discuss the ability of the model to predict particular FTAs. Section 7 concludes. 
+2 Motivating Economic Determinants of the Growth of 
+Bilateralism 
+As background, the starting point for this literature is Baier and Bergstrand (2004), which 
+extended Krugman (1991a,b), Frankel, Stein, and Wei (1995), and Frankel (1997). Using a 
+simple N-country Krugman monopolistic competition model of international trade in slightly 
+diﬁerentiated products produced under economies of scale (nested in a 2-sector Heckscher- 
+4 
+
+========5========
+
+Ohlin world), Baier and Bergstrand (2004) showed that the net utility gains from having a 
+bilateral FTA were greater the larger the two countries’ economic sizes, the more similar the 
+two countries’ economic sizes, the closer the two countries are to each other, the farther the 
+pair is from the rest of the world, the larger the two countries’ relative factor endowment 
+diﬁerences, and the smaller the diﬁerence in the two countries’ relative factor endowments 
+relative to the rest-of-the-world. Motivated by comparative statics from the general equilibrium 
+(GE) model, they used a probit model to assess the importance of these variables for predicting 
+the relationships between these determinants and the likelihood of a country-pair having an 
+FTA in a particular year (1996) { but not when the FTA formed (or enlarged).3 The postulated 
+relationships between these variables and the likelihood of an FTA were conﬂrmed empirically 
+and the model explained the existence of these agreements in a particular year. For example, 
+the model predicted correctly 85 percent of the 286 country pairs with FTAs in existence in 
+their sample using 53 countries in 1996 (the true positives rate) and 97 percent of the 1145 
+country pairs with no FTAs (the true negatives rate). 
+While useful to explain the level of bilateralism in a particular year, Baier and Bergstrand 
+(2004) did not address the growth of bilateralism across years, speciﬂcally, the sequencing (or 
+timing) of actual bilateral FTA formations/enlargements using panel data. Moreover, Baier 
+and Bergstrand (2004) ignored \endogenous bilateralism." Endogenous bilateralism refers to 
+the eﬁect of existing FTAs (or customs unions) on causing subsequent bilateral FTA forma- 
+tions. We will use the term endogenous bilateralism to refer to both the eﬁect of a country 
+pair’s own FTAs on changing the probability of the pair forming an agreement { termed here 
+\tariﬁ-complementarity," to be consistent with the endogenous subsequent lowering of external 
+tariﬁs by a pair of countries after forming an FTA, initially introduced by Bagwell and Staiger 
+(1997, 1999) { as well as the eﬁect of third-country-pairs’ FTAs on this likelihood, with the 
+latter being the main idea associated with Bergsten’s notion of \competitive liberalization." 
+The ﬂrst paper to suggest a formal model somewhat related to the spirit of \competitive liber- 
+alization" was Baldwin (1993), published as Baldwin (1995). Speciﬂcally, Baldwin (1993, 1995) 
+provided a political-economy model of the enlargement process of European economic integra- 
+tion. Starting from an initially exogenous formation of a customs union (the EEC), Baldwin 
+3Baier and Bergstrand’s sample included FTAs and customs unions; as there, we refer to both as \FTAs." Another notable study explaining the likelihood of the existence of FTAs, but from a political science perspective, is Mansﬂeld and Reinhardt (2003). 
+5 
+
+========6========
+
+articulated a \domino theory" of enlargement based upon the \demand for membership" of 
+nearby nonmembers. While such a framework can help to explain EEC enlargement, it is not 
+as useful here to help explain conceptually the proliferating formation of new bilateral FTAs; 
+Baldwin’ domino theory addresses only enlargement of existing agreements.4 Nor does Bald- 
+win’s domino theory allow for the eﬁects of FTAs among other countries on the same or other 
+continents, which we will refer to (for distinction, henceforth) as \third-country-pair eﬁects."5 
+Game-theoretic analyses of the subsequent eﬁects of FTA formations on members’ and non- 
+members’ external tariﬁs fall under the literature on \endogenous tariﬁ formation." Economists 
+often refer to the \static" and \dynamic" eﬁects of FTAs. The former refers to the \direct" 
+impact of FTAs on trade ws and on welfare. The latter refers to the eﬁects of FTA forma- 
+tion on subsequent external tariﬁs and FTA formations.6 While Krugman (1991a) suggested 
+that FTA formations may lead endogenously to higher external tariﬁs by FTA members, three 
+early intial papers have argued that FTA formations may lead to lower external tariﬁs 
+by members. Kennan and Riezman (1990) was the ﬂrst to argue that countries forming cus- 
+toms unions will tend to reduce external tariﬁs. Richardson (1993) showed that governments 
+may lower external tariﬁs after forming an FTA to lessen the negative impact on tariﬁ revenue 
+caused by the shift of imports from nonmembers to members. Bagwell and Staiger (1997, 1999) 
+introduced the term \tariﬁ-complementarity eﬁect" to refer to an additional force tending to 
+lower external tariﬁs, related to changes in terms-of-trade. 
+4In fact, we will show in our simple Krugman economic model with intra- and inter-continental transport costs and consumer-welfare-maximizing governments that a nonmember’s demand for membership in an existing FTA attributable to potential trade diversion may be positive or negative depending upon the values of the elasticity of substitution in consumption and initial tariﬁs, in contrast to Baldwin (1993, 1995). 
+5The terms \endogenous bilateralism," \competitive liberalization," \domino theory," and \interdepen- dence" (cf., Egger and Larch (2008)) are similar but not precisely synonymous. For tractability, however, we need in our paper to be speciﬂc. In particular, we will use the term endogenous bilateralism to refer to both the eﬁect of a country i’s (js) own FTAs with other non-j (non-i) countries { as well as the eﬁect of all non-ij country pairs’ FTAs { on the likelihood of an FTA forming between i and j. We will reserve the terms competitive liberalization and interdependence to refer to only the eﬁect of non-ij (or third-country-pairs’) FTAs on the likelihood of an FTA forming between i and j, as examined in Egger and Larch (2008). We will reserve the term \domino eﬁect" to refer speciﬂcally to Baldwin’s political-economy model, which focused only upon \enlargement" of an existing agreement, i.e, the eﬁect of the existence of an FTA between countries k and j on the likelihood of an FTA forming between countries i and j and simultaneously between i and k. Baldwin and Rieder (2007) ﬂnd evidence of \demand-side" membership pressure. The term \endogenous bilateralism" is not exclusive to the eﬁects of just other FTAs on subsequent FTA formations. It applies to other contexts also, such as the eﬁect of multilateral liberalization on FTA formations, cf., Freund (2000). FTA formations, more- over, may also in subsequently multilateral liberalizations, cf., Ornelas (2005a,b,c) and Estevadeordahl, Freund, and Ornelas (2008). Unfortunately, space precludes an exhaustive summary of this large literature. 
+6Kemp and Wan (1976) showed that, in a world with lump-sum redistributions, there exists a vector of tariﬁs such that no country is worse oﬁ from the creation of a customs union. 
+6 
+
+========7========
+
+In a series of intial papers, Ornelas (2005a,b,c) ﬂnds several useful results, using a 
+game-theoretic model with linear demand and cost functions, endogenous tariﬁs, perfect or 
+imperfect competition, allowing special interests to in government objectives, but no 
+international trade costs. For instance, Ornelas (2005c) ﬂnds: 
+\Governments lower their external tariﬁs after joining an FTA. 
+This reduction is such that it promotes greater trade  even 
+between FTA members and outsiders, the discrimination against 
+the latter embodied in the FTA notwithstanding. This creation of 
+trade surely beneﬂts the outside countries, but members’ welfare 
+may in principle fall under a generic arrangement. Governments, 
+however, support only FTAs that enhance their own countries’ 
+welfare, in spite of their political motivations. Therefore, when 
+an FTA is actually implemented, every country gains from it. 
+In addition, FTAs can also play a role in reducing obstacles to 
+liberalization on a multilateral basis,...." (Ornelas, 2005c, p. 491) 
+More recently Saggi and Yildiz (forthcoming, 2010) show that in a world with asymmetric 
+economic sizes, world free trade is a stable equilibrium if and only if countries are allowed 
+to form bilateral FTAs. They conclude that \we need to better understand why countries 
+choose to enter into bilateral agreements. . . [as the] existing literature has tended to pay 
+little attention to this issue." Moreover, Ornelas (2005a) notes that { despite a rich theoretical 
+literature on endogenous tariﬁ formation { empirical evaluations of the recent wave of bilateral 
+FTAs \remain relatively scarce" (p. 1718). 
+Empirically, only one published paper has addressed systematically the eﬁects of existing 
+FTAs on predicting subsequent FTAs over time. Egger and Larch (2008) extended the probit 
+speciﬂcation in Baier and Bergstrand (2004) to a panel setting and to include a \spatial lag" 
+(i.e., spatial econometrics) to investigate three hypotheses: the existence of preferential trade 
+agreements (PTAs) { which include FTAs, customs unions, and all one-way and two-way prefer- 
+ential arrangements { among third-country-pairs increases the probability of PTA enlargements; 
+the existence of PTAs among third-country-pairs increases the probability of new PTAs among 
+country pairs; and higher trade costs lessen both of the previous eﬁects of third-country-pair 
+7 
+
+========8========
+
+FTAs. All three hypotheses were tested by expanding the Baier-Bergstrand empirical probit 
+model to include a spatially-weighted matrix that aggregated for each country-pair for each 
+year all \third-country-pairs" into one artiﬂcial pair re FTA membership in all other 
+pairs (i.e., the \spatial lag"). 
+Our paper distinguishes itself from this important empirical contribution in three ways. 
+First, and most importantly, Egger and Larch (2008) considers only the eﬁect of third-country- 
+pairs’ FTAs on subsequent FTA formation, i.e., competitive liberalization (or what they term 
+\interdependence"). The construction of a spatial-weighting among only \third-country-pairs" 
+in Egger and Larch (2008, p. 387) implied that they could only examine the eﬁect of PTAs 
+signed by \non-ij" country pairs on the likelihood of a PTA between i and j. Our paper 
+disentangles the eﬁects of i’s (or j’s) FTAs with other countries on the likelihood of an FTA 
+between i and j (what we will refer to as \tariﬁ-complementarity") from the eﬁects of \non-ij" 
+third-country-pairs’ FTAs (what we will term \competitive liberalization" or interdependence). 
+We do this by introducing the notion of \multilateral (and ROW) indexes of other FTAs" { 
+in the spirit of Anderson and van Wincoop’s (2003) \multilateral resistance" terms in 
+bilateral trade ws (detailed later). We will show empirically that the eﬁects of two countries’ (i 
+and j) FTA memberships with other countries are more important for predicting the likelihood 
+of i and j forming an agreement than an FTA among a non-ij pair, consistent with comparative 
+statics from our numerical GE model. 
+Second, estimation of the probability of an FTA using spatial econometrics is much more 
+demanding than estimating a simple logit or probit model. A spatial lag introduces multiple 
+integrals into the likelihood function, rendering simple maximum likelihood estimation (MLE) 
+infeasible. Also, the error term is likely heteroskedastic with a spatial lag, leading to inconsistent 
+parameter estimates if not accounted for. Hence, the spatial binary choice model cannot be 
+estimated simply by MLE, as can our approach, and estimation demands of a spatial-lag model 
+are not trivial.7 Our model captures endogenous bilateralism using a standard logit (or probit) 
+model with a simple linear multilateral FTA index for each of two countries { as well as a 
+7Brie, for cross-section estimation, Egger and Larch (2008) apply a Bayesian Markov-Chain Monte Carlo model to estimate the parameters of interest using Gibbs sampling. Sampling from conditional distributions yields a large set of parameter draws. The corresponding estimates of the posterior moments thereof can be shown to converge in the limit to the joint posterior distribution of the parameters. For estimation, they rely on a chain based on 10,500 draws. The ﬂrst and second moments of the chain are computed after skipping 500 burn-ins. Hence, 500 draws are dropped to ensure that there is no systematic information left in the random number generation process for the remaining 10,000 draws. See Egger and Larch (2008) for details on how they estimate their model. 
+8 
+
+========9========
+
+Rest-of-World (ROW) FTA index for the pair { motivated directly from the theoretical model. 
+Third, and of lesser importance, the number of PTAs that formed bilaterally in the past 
+50 years is about ﬂve times the number of FTAs (and customs unions) only; Egger and Larch 
+(2008) provided results for all PTAs, but not for the much smaller sample of FTAs. Our 
+paper examines FTAs, customs unions, common markets and economic unions only using a 
+new data set of all such agreements in the world bilaterally for 195 countries for 1960-2005 
+(cf., www.nd.edu/ jbergstr). Nevertheless, all three hypotheses in Egger and Larch (2008) 
+were conﬂrmed, with the single positive and statistically signiﬂcant coe–cient estimate for the 
+spatial-interdependence term conﬂrming the importance of interdependence (i.e., competitive 
+liberalization). Thus, Egger and Larch (2008) was the ﬂrst paper to demonstrate economet- 
+rically the empirical validity of the eﬁect of \third-country-pairs’ PTAs" for in the 
+formation/enlargement of subsequent bilateral PTAs, that is, evidence of \competitive liberal- 
+ization." We will compare our results to theirs later. 
+This paper has three potential contributions in mind. First, we generate, using a general 
+equilibrium theoretical model, comparative statics for motivating three economic variables that 
+capture the role of \endogenous bilateralism" in in the utility gains of an FTA for a 
+country-pair in the presence of inter- and intra-continental trade costs. We start with a sim- 
+pliﬂed version of the general equilibrium model of FTA determinants in Baier and Bergstrand 
+(2004).8 We use the model to generate two important comparative statics. First, we evaluate 
+the eﬁect on the utility gain of a country-pair ij from an FTA attributable to an existing FTA 
+between another country-pair kl, which captures the in of Bergsten’s \competitive liber- 
+alization" hypothesis; we will refer to this scenario as a \third-country-pair" eﬁect in the spirit 
+of Egger and Larch (2008). Second, we evaluate the eﬁect on the utility gain of a country-pair 
+ij from an FTA attributable to an existing FTA between country-pair ik (or jl, or both), which 
+we refer to as an own-FTA (or \tariﬁ-complementarity") eﬁect. We distinguish the own-FTA 
+eﬁects from the third-country-pair-FTA eﬁects; the marginal utility gains from the former (and 
+consequently the eﬁect on the probabilities) may be larger than those from the latter. A special 
+case of competitive liberalization is Baldwin’s \domino theory," which suggests country i may 
+gain more from forming an FTA with country j { and simultaneously one with country k { if 
+j and k already have an agreement (e.g., the European Community’s enlargement). We will 
+8Since the trade ws underlying the utility function are determined by a gravity equation, our framework could alternatively be motivated using an Eaton and Kortum (2002) Ricardian model. 
+9 
+
+========10========
+
+discuss this case later under caveats, but re-emphasize that we are trying to explain \what we 
+observe over time" predominantly and more recently, which is the growth of \bilateralism" not 
+\regionalism," cf., Heydon and Woolcock (2009).9 
+Second, the theoretical model suggests that the potential welfare gain from a bilateral FTA 
+of country-pair ij is in in every year by the status of i’s (j’s) FTAs with every other 
+non-j (non-i) country { as well as FTAs between \third-country-pairs" (say, kl) { which in- 
+ i’s and j’s multilateral prices. In the spirit of the notion of \multilateral resistance" 
+from recent theoretical foundations for the gravity equation in Anderson and van Wincoop 
+(2003) as modiﬂed using the approximation method in Baier and Bergstrand (2009), the theo- 
+retical model suggests simple linear indexes of each country’s \multilateral" and country-pairs’ 
+\ROW" FTAs. For instance, country i possesses a \multilateral FTA" (or inverse-resistance) 
+index, which measures in year t (a simple or weighted average of) country i’s FTAs with every 
+other non-j country; country j has an analogous index. As the theory will suggest, these could 
+have positive eﬁects on the likelihood of an FTA between i and j. Moreover, each country-pair 
+ij has a \ROW FTA index" which measures the degree of bilateralism it faces with every other 
+non-ij pair (say, kl) in every year t; we will show that such \third-country-pair" (kl) FTAs 
+could improve the likelihood of an FTA between i and j (holding constant the multilateral 
+FTA indexes). While we will discuss the conditions under which such eﬁects could be positive 
+or negative, our theory does suggest under several sensitivity analyses that the multilateral 
+FTA indexes should have a larger impact on the utility gain for ij of a bilateral FTA than the 
+ROW FTA indexes. Such measures can be readily introduced into a standard logit (or pro- 
+bit) equation determining the likelihood of a bilateral FTA, without having to employ spatial 
+econometrics as in Egger and Larch (2008). Indeed, the marginal response probabilities for 
+own-FTA eﬁects are larger than those for third-country-pair-FTA eﬁects. And, importantly, 
+these own-FTA marginal response probabilities are just as large as the marginal response prob- 
+abilities for the other economic determinants in the logit equation. Moreover, by applying the 
+linear-approximation approach of Baier and Bergstrand (2009), we also provide theory-based 
+9As in Baier and Bergstrand (2004) and Egger and Larch (2008), our starting point is that governments are assumed to choose trade policies to maximize national welfare because this assumption has been a standard assumption in trade theory, cf., Baldwin and Venables (1995), Bond, Riezman, and Syropoulos (2004), and Kowalczyk and Riezman (2009). As the introductory quote in Bergsten (1996) notes, while national (political) circumstances diﬁer across countries, in a large cross section of determinants of trade policies the \overarch- ing" force of competitive liberalization and maximization of national economic welfare likely dominates policy decisions. We will discuss also the restrictiveness of our assumption given recent game-theoretic settings with endogenous protection under caveats. 
+10 
+
+========11========
+
+measures of \multilateral resistances" of country-pairs to avoid the typical ad hoc remoteness 
+variables included in Baier and Bergstrand (2004) and Egger and Larch (2008), as well as in 
+many gravity-equation analyses. 
+Third, adopting a methodology suggested by the literature on Receiver Operating Charac- 
+teristic (ROC) curves for selecting optimum cutoﬁ probabilities endogenously, we ﬂnd that our 
+multilateral-FTA-index-enhanced logit model can correctly predict approximately 90 percent of 
+the transitions of country-pairs from \No-FTA" status to FTA status within ﬂve years of their 
+formation { as well as correctly predicting approximately 90 percent of the observations when 
+no transition occurs. (Also, the model holds up well when including unobserved ﬂxed eﬁects 
+and time dummies; the ﬂve-variable ﬂxed-eﬁects logit model has a pseudo-R2 of 87 percent.) 
+Moreover, even raising the rate of true negatives (no FTA predicted when none exists) to 97 
+percent as in Baier and Bergstrand (2004), the rate of true positives (FTA predicted within 
+ﬂve years of its formation) falls only to 75 percent, which is only ten percent below the rate in 
+Baier and Bergstrand for predicting the existence of an FTA in a single cross-section (1996).10 
+3 Theoretical Framework and Comparative Statics 
+This section has four parts. Section 3.1 summarizes the standard Krugman monopolistic com- 
+petition model of international trade, which was at the heart of the Baier and Bergstrand (2004) 
+model. Section 3.2 discusses the parameterization of the numerical version of the GE model. 
+Section 3.3 discusses ﬂve comparative static results from the numerical GE model. Section 3.4 
+addresses some caveats and reports on the robustness of these comparative statics with respect 
+to varying parameter values. 
+10There are also three related working papers in this area. Motivated also by a simple Helpman-Krugman model, Bergstrand, Egger, and Larch (2009) explain the timing of FTAs using an econometric duration model. By introducing a simple \stair-step" trade-cost pattern to an N-country Helpman-Krugman model, Bergstrand, Egger, and Larch (2009) generates a \demand-for-membership" schedule that is increasing in membership-size of the closest FTA and a ﬂnite \supply-of-membership" schedule that is decreasing in membership-size. Their empirical model supports the implied quadratic relationship between likelihood of an FTA and the number of members in nearby FTAs, but does not address tariﬁ-complementarity and competitive liberalization eﬁects explicitly. Baldwin and Jaimovich (2009) introduce a measure of trade-weighted-averages of two countries’ FTAs with other countries to estimate the eﬁect of (what they term) \contagion" in bilateralism, for which they ﬂnd evidence; however, their measure of contagion was not motivated by a formal model (as here) and does not distinguish between tariﬁ-complementarity and competitive liberalization eﬁects. Chen (2008) provides a Cournot-model based approach to examine the determinants of timing of FTA events and the role of endogenous regionalism. However, her focus is distinguishing theoretically and empirically how the \nature" of the existing agreement { \empty-network," \exclusive network," or \hub-and-spoke network" { aﬁects the probability of two countries forming an agreement. 
+11 
+
+========12========
+
+3.1 The Model 
+The starting point is Baier and Bergstrand (2004), or B-B, which provided a Krugman model of 
+international trade with two monopolistically-competitive sectors and two factors of production, 
+where each sector produced slightly-diﬁerentiated goods under economies of scale internal to the 
+ﬂrm, in the presence of tariﬁ rates and intra-continental and/or inter-continental trade costs. 
+To focus on endogenous bilateralism in this paper, we assume here only one monopolistically- 
+competitive sector and one factor of production (labor), where goods are slightly diﬁerentiated 
+in consumption and produced under economies of scale; this is a simpliﬂed version of the B-B 
+model and a \workhorse" model of international trade. 
+We note now that we ignore intentionally certain important theoretical issues, as the pri- 
+mary focus of our paper is a potential empirical { not theoretical { contribution. First, 
+recent developments in trade theory address heterogeneous ﬂrms, cf., Melitz (2003). Arkolakis, 
+Costinot, and Rodriguez-Clare (2009) ﬂnd that, in the class of models used here { Krugman 
+(1980), as well as in Eaton and Kortum (2002), Anderson and van Wincoop (2003), Melitz 
+(2003), and some variations of Melitz (2003) { with two critical elements (CES utility and a 
+gravity equation), there exists a common estimator of the \gains from trade." This estimator 
+depends upon only two aggregate statistics: the share of expenditures of a country on imports 
+and a gravity-equation-based estimate of the elasticity of trade ws with respect to variable 
+trade costs. Consistent with that paper, Feenstra (2009) ﬂnds in a standard Melitz-type model 
+that the extensive margin of imports has a welfare contribution as a result of trade liberal- 
+ization that exactly oﬁsets the welfare loss from the reduced extensive margin of domestic 
+goods. Hence, for our purposes and in this class of models, this recent research suggests that 
+heterogeneity across ﬂrms in a sector is not central for analyzing the welfare eﬁects of trade 
+liberalization. 
+Second, we have already alluded to recent important developments in game-theoretic set- 
+tings that suggest that the welfare implications of FTAs discussed below could be potentially 
+clariﬂed or altered by incorporating endogenous tariﬁ formation. Bagwell and Staiger (1997, 
+1999) emphasize the \tariﬁ-complementarity" eﬁect, ﬂnding in a static framework that com- 
+plements ours that the formation of an FTA between a country pair can lead to both countries 
+reducing their external tariﬁ on the non-member. Bond, Riezman, and Syropoulos (2004) also 
+ﬂnd in a strategic setting the tariﬁ-complementarity eﬁect; in fact, they ﬂnd that the reduction 
+12 
+
+========13========
+
+by members of external tariﬁs is so large that the welfare of the rest-of-world (ROW) improves, 
+resulting in a rise of ROW tariﬁs. Ornelas (2005a) provides another force potentially leading 
+to the tariﬁ-complementarity eﬁect; if markets are oligopolistic, external tariﬁs may fall after 
+the FTA forms because FTAs make proﬂt-sharing more di–cult. We will assume exogenous 
+tariﬁs; however, we will report the sensitivity of our model to endogenous (Nash equilibrium) 
+tariﬁs in the robustness analysis later.11 
+Third, in reality governments’ objective functions are not constrained to only maximizing 
+national welfare. In fact, political factors matter. Recent theoretical political economy models 
+by Grossman and Helpman (1995) and Krishna (1998) suggest that trade-diverting FTAs are 
+more likely to surface, once campaign contributions and special interests are accounted for. 
+Yet, Ornelas (2005b,c) shows that such agreements are less likely, once these models allow for 
+endogenous tariﬁ formation. Though the results are founded upon linear demand and cost func- 
+tions and ignore transport costs, Ornelas (2005c) model has some very powerful implications. 
+Governments tend to lower external tariﬁs after forming an FTA. This results in greater trade 
+ws between members and between members and nonmembers. Governments support only 
+FTAs that enhance their own countries’ welfare, in spite of political motivations. Also, FTAs 
+can play a role in reducing obstacles to multilateral liberalization, helping spur global free trade, 
+as in Saggi and Yildiz (forthcoming, 2010). Freund and Ornelas (2009, p. 24) conclude that 
+the limitation in Baier and Bergstrand (2004) of not accounting for political-economy factors 
+may not be a \problem after all." 
+Our purpose in this section is to oﬁer a very parsimonious model that generates some 
+comparative statics to guide construction of useful empirical multilateral and ROW indexes 
+of \other FTAs" that ideally will help to explain what we observe about the sequencing of 
+bilateral FTAs and potentially inform us about whether or not competitive liberalization (due 
+to third-country-pair FTAs) is the \overwhelming" force behind the growth of bilateralism or 
+whether tariﬁ-complementarity is. As discussed above, the model below has some limitations. 
+However, to summarize the previous discussion, the literature on endogenous tariﬁ setting 
+tends to suggest that FTA partners are likely to subsequently reduce external tariﬁs following 
+formation of an FTA with or without political contributions, the FTAs that form are likely to 
+11Another important paper, Goyal and Joshi (2006), using endogenous tariﬁ formation show also feasible conditions under which bilateral FTAs lead to further bilateral FTAs, as optimal tariﬁs of a member on third countries are a declining function of the number of FTAs the country has, consistent with our results below. 
+13 
+
+========14========
+
+be welfare-enhancing, and bilateralism may be a critical process toward ensuring an ultimate 
+stable global free trade equilibrium. 
+3.1.1 Consumers 
+The model consists of N countries and one sector. Each country j hosts a single representative 
+consumer who derives utility from the consumption of goods. Utility is characterized by a taste 
+for variety which is captured formally by Dixit and Stiglitz (1977) preferences with a constant 
+elasticity of substitution (CES). Let cij(k) be consumption in country j by the representative 
+consumer of the diﬁerentiated good produced by ﬂrm k in country i. Let  denote the elasticity 
+of substitution in consumption between varieties of goods with  > 1. Let ni be the number of varieties of goods produced in country i. The utility function uj is given by: 
+" #¡1 
+ 
+XZ 
+N 
+uj = cij(k)¡1 dk : 
+i=1 
+ni 
+(1) 
+Within a country, ﬂrms are assumed symmetric, which then allows eliminating ﬂrm notation k. 
+We assume one factor of production, labor (L). Let wj denote the wage rate of the representative 
+worker in country j. 
+In this model, we include Samuelson iceberg-type trade costs (inclusive of government- 
+mandated trade barriers) that are allowed to be asymmetric among all country pairs. We 
+assume that tij units of a good have to be shipped from county i to ensure that one unit arrives in country j (assuming tij ‚ 1 and tii = 1). Also, let ¿ij denote the gross tariﬁ rate on goods imported into j from i (assuming ¿ij ‚ 1 and ¿ii = 1). 
+The consumer is assumed to maximize equation (1) under the budget constraint: 
+X 
+N 
+wj + T ARj = nipitij¿ijcij; 
+i=1 
+(2) 
+where T ARj is tariﬁ revenue in j redistributed lump-sum back to households in j and pi is the 
+producer’s price of good g in country i. This maximization yields a set of demand equations 
+for national economy j with Lj households: 
+Xij = P 
+ni (pitij¿ij)¡ 
+i 
+(ni=¿ij)(pitij¿ij)1¡Yj; 
+(3) 
+14 
+
+========15========
+
+where Xij is demand in country j for goods from country i and Yj denotes national income in j. In the absence of lump-sum tariﬁ redistributions, the term (ni=¿ij) in equation (3) reduces to ni. 
+3.1.2 Firms 
+All ﬂrms in the industry are assumed to produce under the same technology. The output of 
+goods produced by a ﬂrm in country i, denoted by gi, requires li units of labor, as well as an 
+amount ` of ﬂxed costs, expressed in terms of units of labor. The production function { similar 
+to that in Krugman (1980) { is given by: 
+li = ` + gi; 
+(4) 
+where we assume as traditional a constant marginal product of labor (set to unity). Firms 
+maximize proﬂts subject to the technology deﬂned in equation (4), given the demand schedule 
+derived in Section (3.1.1). In this model, proﬂt maximization leads to a constant markup over 
+marginal production costs and there are zero proﬂts in equilibrium due to free entry and exit. 
+Proﬂt maximization ensures: 
+pi = 
+ 
+ ¡ 1wi: 
+(5) 
+Zero proﬂts in equilibrium ensure: 
+gi = `( ¡ 1): 
+(6) 
+3.1.3 Factor Endowment Constraint 
+We assume that endowments of labor, Li, are exogenously given and internationally immobile. Assuming full employment, the following factor market condition holds: 
+Li = nili 
+(7) 
+15 
+
+========16========
+
+or 
+ni = (`)¡1Li: 
+(8) 
+The zero proﬂt conditions and the clearing of goods and factor markets lead to balanced 
+multilateral trade for each economy. 
+3.2 Numerical Simulation: Parameter Selection 
+The purpose of this section is to calibrate the model for a representative world economy with 
+potentially asymmetric labor endowments and bilateral trade costs. Our model can then be 
+simulated to motivate several potentially testable hypotheses regarding relationships between 
+economic characteristics of pairs of countries and the sequencing of either an FTA formation 
+or enlargement. 
+We calibrate the model identically to that in B-B; since the model is simpler, some pa- 
+rameters speciﬂed there are absent here. For the utility function, we have one parameter, the 
+elasticity of substitution between varieties of goods (). We set =4 as in B-B. For technology, 
+we set the ﬂxed cost term in the production function to unity (` = 1), without loss of generality. 
+Initially, factor endowments of labor are assumed identical across all countries in the symmetric 
+benchmark equilibrium with values of Li = 100 for all countries. In this paper, we focus on one industry, leaving analysis of sectoral diﬁerences for subsequent research. 
+The number of ﬂrms, product varieties, labor employments, wage rates, consumption levels, 
+and price levels in each country can be determined uniquely given the parameters of the model 
+(, `) and initial transport costs, tariﬁs, and labor endowments. Following B-B, we separate 
+transport costs into intra-continental and inter-continental \iceberg" components. Let a denote 
+the portion of the good that \melts" intra-continentally and b the portion that melts inter- 
+continentally; hence, within continents tij = 1=(1 ¡ a) and between countries on diﬁerent continents tij = [1=(1 ¡ a)][1=(1 ¡ b)]. We will allow both a and b to vary between their full potential values of 0 and 1 to show sensitivity of the results to variation in transport costs. 
+As in B-B, we assume the existence in each country of a social planner, which sets tariﬁ 
+rates (¿ij ¡ 1) initially at 0.3. Based upon initial parameter values, the social planner in each country considers whether its representative consumer’s utility would be better oﬁ or worse oﬁ 
+16 
+
+========17========
+
+from forming an FTA. For a country’s planner to form a new { or join an existing { FTA, the 
+change in utility from doing so must be positive.12 
+Since we set eﬁectively only three parameters (, `, and ¿) { as a and b will be allowed to 
+vary between 0 and 1 and L will be allowed to vary { we will evaluate the robustness of the 
+comparative statics later to changes in the levels of , `, and ¿ using a sensitivity analysis. 
+3.3 Numerical Simulation: Comparative Static Results 
+We use the numerical version of our model to generate ﬂve comparative statics, including 
+two regarding the eﬁects of existing FTAs on the utility gain for two countries of forming an 
+agreement. The ﬂrst three hypotheses discussed in section 3.3.1 address three comparative 
+statics regarding distance, economic size of country pairs, and dissimilarity in country-pairs’ 
+economic sizes. In section 3.3.2, the next two hypotheses address two comparative statics 
+regarding the eﬁects of endogenous bilateralism. Following B-B, initially we assume three 
+continents (1;2;3) with two countries on each continent (A; B).13 
+3.3.1 Bilateral Economic Determinants 
+This section presents three hypotheses for testing later empirically. All three are subtly dif- 
+ferent from similar hypotheses discussed in Baier and Bergstrand (2004), with the distinctions 
+explained for each hypothesis. 
+Hypothesis 1: The utility gain from (and likelihood of) an FTA between two countries 
+increases as the distance between them decreases. 
+One of the key implications from Krugman (1991a,b), Frankel, Stein, and Wei (1995), 
+Frankel (1997), and Baier and Bergstrand (2004) is that natural (intra-continental) FTAs are 
+unambiguously welfare superior to unnatural (inter-continental) FTAs; hence, two countries’ 
+social planners are more likely to form an FTA the smaller the distance between them (and if 
+they share the same continent). For a given distance between a country-pair and ROW, the 
+closer are two countries, the lower their transport costs and consequently the higher their trade 
+12The value of 0.3 was originally chosen in B-B following Frankel (1997). As noted in B-B, the ideal approach would be to consider the Nash equilibrium tariﬁs; the Nash equilibrium tariﬁs in a post-integration situation are likely to diﬁer from those in the pre-integration situation. In our robustness analysis, we will discuss both the sensitivity of our comparative statics to diﬁerent initial tariﬁ rates as well as to allowing endogenous (Nash equilibrium) tariﬁs. We note that the calculation of the Nash equilibrium tariﬁs in the six-country case of B-B yields a pre-integration tariﬁ rate of approximately 0.3 for all countries (assuming symmetry). 
+13A \visualization" of the \world" is shown in Figure 4, to be discussed later. 
+17 
+
+========18========
+
+volume. Elimination of the ad valorem tariﬁ between close FTA members alleviates the price 
+distortion on a large amount of trade, improving real income and utility of consumers more in 
+intra-continental FTAs. In this class of models, all trade volume increases are at the intensive 
+margin.14 
+However, all the studies just noted above considered the case when all continents’ countries 
+formed an FTA. This led to the comparative static result that unnatural FTAs were welfare- 
+decreasing. However, ignoring for now \endogenous bilateralism," the comparative-static eﬁect 
+in this model from only one country-pair forming an agreement is diﬁerent, and shown in Figure 
+1. Two results are worth noting. First, an FTA between one pair { natural or unnatural { is 
+always welfare improving. With only one FTA, there is less trade diversion occurring, so that 
+even an unnatural FTA improves the two members’ utility. This is consistent with the formation 
+of unnatural (inter-continental) FTAs { such as the U.S.-Australia FTA { which is a theoretical 
+result not found in any previous study. Second, as in previous studies, natural FTAs are always 
+welfare-improving relative to unnatural FTAs. In the context of our qualitative choice model, 
+this suggests that two countries will have a higher probability of an FTA if the welfare beneﬂts 
+(of trade creation) outweigh the welfare costs (of trade diversion), consistent with Hypothesis 
+1. 
+Hypothesis 2: The utility gain from (and likelihood of) an FTA between two countries 
+increases as both countries’ economic sizes increase proportionately (holding constant their 
+relative size). 
+In the previous scenario, all countries are equivalently sized in labor (and GDP). As in B-B, 
+we now introduce asymmetric sizes in terms of absolute factor endowments to determine the 
+scale-economies cum taste-for-variety eﬁects. For brevity, we limit our comparative statics to 
+natural trade partners only. We allow countries on continent 1 (1A;1B) to have larger absolute 
+endowments of labor than countries on continent 2 (2A;2B), and 2A and 2B to have larger 
+absolute endowments than countries on continent 3 (3A;3B); however, for any country-pair on 
+the same continent, GDPs are identical. As above, we consider a single FTA between a pair of 
+countries on one continent (diﬁerent from B-B). 
+14The model assumes homogeneous productivities across ﬂrms in a country, as addressed earlier in section 3.1. There are other approaches as well to suggest why FTAs tend to be formed among closer, rather than distant, countries. Zissimos (2009), for instance, adapts the model of Yi (1996) to show that { since more rents are dissipated through transportation between regions rather than within them { regional FTAs eliminate the greater harmful \rent-shifting" among members and also has greater beneﬂcial terms-of-trade eﬁects. This reduction of harmful \rent-shifting" pushes countries more toward forming regional FTAs. 
+18 
+
+========19========
+
+Figure 2 presents two surfaces, with the top one illustrating the welfare gain for either 
+country 1A or 1B of an FTA between large economies 1A and 1B and the bottom surface 
+illustrating the gain for either country 3A or 3B of an FTA between small economies 3A and 
+3B. We emphasize two results. First, an FTA between two small economies is still welfare- 
+improving. This result diﬁers from that in Figure 2 of B-B where all natural partners went 
+into an FTA simultaneously. With only one agreement at a time (and ignoring still endogenous 
+bilateralism), even small countries can beneﬂt from a bilateral FTA; hence, the trade-creation 
+eﬁect dominates the trade-diversion eﬁect. This comparative-static result { that small countries 
+can beneﬂt on net from FTAs on the same continent { is new. Second, as in B-B, large countries 
+beneﬂt more than small countries from FTAs. Intuitively, welfare gains from an FTA should 
+be higher for countries with larger absolute factor endowments (and thus larger real GDPs). 
+An FTA between two large partners (1A;1B) increases the volume of trade (at the intensive 
+margin) in more varieties than an FTA between two small partners (3A;3B) and reduces trade 
+in fewer varieties from nonmembers than two small partners would, improving utility more 
+among two large countries relative to that among two small countries.15 Also, the consequent 
+larger increase in trade among two large economies from a bilateral FTA causes a larger net 
+expansion of demand and hence a larger rise in real income (and terms of trade). Small countries 
+3A and 3B face considerable trade diversion when 1A and 1B form an FTA; the fall in relative 
+demand for the small countries’ production causes an erosion of terms of trade. In the context 
+of our qualitative choice model later, this suggests that two countries with large (but equal) real 
+GDPs should have a higher probability of an FTA than two countries with small real GDPs, 
+consistent with Hypothesis 2. 
+Hypothesis 3: The utility gain from (and likelihood of) an FTA between two countries 
+increases the more similar their economic sizes (for a given total real GDP of the country-pair). 
+In this class of models, the more similar are the real GDPs of two countries on the same 
+continent the larger the welfare gains from an FTA, for a given total GDP of the pair. In the 
+previous comparative static, countries on the same continent had identical economic sizes. If 
+1A and 1B have identical shares of the two countries’ factor endowments, the formation of an 
+FTA provides gains from an increase in the volume of trade (at the intensive margin) as the 
+tariﬁ distortion is eliminated on much trade. By contrast, if 1A has virtually all of the labor 
+15This is consistent with Bernard, Jensen, Redding, and Schott (2009) that cross-sectionally the bulk of trade can be explained by the extensive margin (number of varieties). 
+19 
+
+========20========
+
+on continent 1, formation of an FTA provides little welfare increase, since there is virtually no 
+trade between 1A and 1B because 1B produces few varieties. 
+Figure 3 illustrates this. The top surface shows the welfare gain for 1A when 1A and 1B 
+are identically sized. The bottom surface shows the welfare gain for 1A when it has a larger 
+share of the continent’s labor force. Since 1A is larger, it gains less from an FTA with 1B. This 
+result was found already in B-B, but we present it here for completeness. In the context of our 
+qualitative choice model, this ﬂgure suggests that two countries with more dissimilar economic 
+sizes should have a lower probability of an FTA, consistent with Hypothesis 3. 
+3.3.2 FTA Determinants of Subsequent FTAs 
+The following two hypotheses (Hypotheses 4 and 5) address the eﬁects of existing FTAs on 
+the welfare gains of subsequent FTAs. It is important to note, however, that our model is a 
+static one (a single period), so there is no formal sense of \time." The model can, however, 
+generate numerical welfare eﬁects of an FTA between a country-pair conditioned upon various 
+alternative scenarios, such as an FTA or no FTA between another country-pair. It is in this 
+manner we use our model’s comparative statics to motivate (for the empirical analysis) how 
+existing FTAs in the likelihood of subsequent FTAs. In order to \hold constant" as 
+many eﬁects as possible in our nonlinear model, we resume the assumption that all countries 
+have identical absolute factor endowments, to eliminate asymmetries in economic size. 
+As suggested earlier, the two hypotheses are distinguished because one (Hypothesis 4) ad- 
+dresses the \competitive liberalization" hypothesis and the other (Hypothesis 5) addresses the 
+\tariﬁ-complementarity" hypothesis. Figures 4a and 4b illustrate the two hypotheses, 4 and 
+5, respectively. Figure 4a illustrates the case of two countries, 1A and 1B { say, the US and 
+Mexico { forming an FTA conditioned upon two other countries, 2A and 2B { say, France and 
+Germany { already having an FTA. By contrast, Figure 4b illustrates the case of two countries, 
+1A and 1B { say, the US and Mexico { forming an FTA conditioned upon one of the countries 
+(say, the US or 1A) already having an agreement with another country (say, France or 2A). 
+It is important to note that { while countries 2A and 2B represent two countries on diﬁerent 
+continents { our framework allows inter- and intra-continental transport costs to vary between 
+zero and prohibitive. 
+Hypothesis 4: The utility gain from (and likelihood of) an FTA between two countries 
+20 
+
+========21========
+
+1A and 1B increases due to an existing FTA between two other countries { on the same or 
+diﬁerent continents (i.e., competitive liberalization). 
+We consider ﬂrst the case of two countries 1A and 1B forming a (natural) bilateral FTA; as 
+before, we assume that all six countries initially have a tariﬁ rate of 30 percent on each others’ 
+products.16 We know from earlier comparative statics (Figure 1) that { conditioned upon no 
+other FTAs in existence { such an FTA is necessarily welfare-improving. Figure 5a actually 
+illustrates two surfaces. The bottom surface is the welfare gain for 1A of an FTA between 
+countries 1A and 1B and no other FTA existing among all countries; we denote this F T A1A;1B. 
+Suppose now instead that 2A and 2B already have an FTA. Figure 5a also illustrates the 
+welfare gain to 1A of the formation of an FTA with 1B conditioned on an existing agreement 
+between 2A and 2B; this is the top surface. While the two surfaces are similar, the existence 
+of F T A2A;2B increases unambiguously the gain in welfare of an FTA between 1A and 1B. This is conﬂrmed in Figure 5b which shows the (vertical) diﬁerence between the two surfaces, that 
+is, the gains to 1A from an FTA between 1A and 1B conditioned on FT A2A;2B less the gains to 1A from F T A1A;1B without conditioning. Figure 5b reveals that the gain to 1A’s utility of F T A1A;1B attributable to FT A2A;2B is positive for all possible intra- and inter-continental 
+transports costs (from zero to prohibitive), given initial tariﬁs of 30 percent and  = 4. This 
+ﬂgure suggests that country 1A’s \demand for membership" in an FTA with country 1B will 
+tend to be higher if 2A and 2B have an existing FTA. The positive diﬁerence is the role of 
+\third-country-pairs" creating competitive liberalization.17 
+Intuitively, when 2A and 2B form an FTA, each of 1A and 1B experience trade diversion, 
+a loss of terms of trade, and erosion in real income. When a country pair (2A;2B) is remote { 
+that is, when b is large { there are negligible volume-of-trade and terms-of-trade (real income) 
+eﬁects on 1A’s utility from the formation of FT A2A;2B because there is little trade to be diverted 
+between country 1A and countries 2A and 2B. However, if inter- (and intra-) continental trade 
+costs are low, then 1A trades considerably with 2A and 2B; an FTA between 2A and 2B 
+causes substantive trade diversion for 1A, eroding 1A’s volume of trade with 2A and 2B and 
+1A’s utility and real income, but improving 1A’s volume of trade with 1B. Consequently, the 
+formation of F T A1A;1B has an even larger impact on 1A’s utility { in the presence of F T A2A;2B 
+16In the next section’s sensitivity analysis, we examine the robustness of these comparative statics to other initial tariﬁ levels and to endogenous Nash equilibrium tariﬁ setting. 
+17The comparative-static eﬁect is qualitatively identical if the other FTA is between two countries on another continent (3A;3B). 
+21 
+
+========22========
+
+than in its absence { because the elimination of tariﬁs from FT A1A;1B on the greater volume of trade between 1A and 1B due to FT A2A;2B more than oﬁsets the terms-of-trade loss due to trade diversion from F T A2A;2B. F T A2A;2B eﬁectively has made countries 1A and 1B more 
+\economically remote" and this isolation has made 1A and 1B economically more natural trade 
+partners, enhancing the gains from an FTA. 
+We will discuss the sensitivity of the results to alternative values of , `, and initial tariﬁ 
+rates later. 
+Hypothesis 5: The utility gain from (and likelihood of) an FTA between two countries 
+1A and 1B increases due to the existence of an FTA between either of these countries with 
+another (third) country (i.e., tariﬁ-complementarity), and the gain is likely larger than in the 
+previous case. 
+Consider again the case of two countries 1A and 1B forming a (natural) bilateral FTA; as 
+before, we assume initially that all six countries have a tariﬁ rate of 30 percent on each others’ 
+products. Figure 6a illustrates two surfaces. The bottom surface is the welfare gain for 1A of 
+an FTA between countries 1A and 1B and no other FTA existing among all countries, as in 
+Figure 5a; we denote this FT A1A;1B. 
+Suppose now instead that 1A and 2A already have an FTA. Figure 6a also illustrates the 
+welfare gain to 1A of the formation of an FTA with 1B conditioned on an existing agreement 
+between 1A and 2A; this is the top surface in Figure 6a. While the two surfaces are similar, the 
+existence of FT A1A;2A increases unambiguously the gain in welfare of an FTA between 1A and 
+1B { this is referred to in this paper as the \own-FTA" (or tariﬁ-complementarity) eﬁect. This 
+is conﬂrmed in Figure 6b which shows the (vertical) diﬁerence between the two surfaces, that 
+is, the gains to 1A from an FTA between 1A and 1B conditioned on FT A1A;2A less the gains to 1A from F T A1A;1B without conditioning. Figure 6b reveals that the gain to 1A’s utility of F T A1A;1B attributable to FT A1A;2A is positive for all possible intra- and inter-continental 
+transports costs (from zero to prohibitive). This ﬂgure suggests that country 1A’s \demand 
+for membership" in an FTA with country 1B will tend to increase if 1A has an existing FTA 
+with another country. Moreover, the eﬁect is largest when trade costs are low. The economic 
+intuition behind this is the following. At high trade costs, there is little trade between 1A and 
+2A so there can be little impact of F T A1A;2A on the gains to 1A from FT A1A;1B. However, at low transport costs, 1A trades considerably with 2A, and FT A1A;2A causes considerable trade 
+22 
+
+========23========
+
+diversion for 1A with 1B, unlike the case of FT A2A;2B which increases 1A’s trade with 1B. 
+Two issues are worth noting. First, in contrast with the previous hypothesis, since 1A 
+and 1B are trading less in the presence of F T A1A;2A than in its absence, this lower volume of trade erodes the relative gain to 1A’s welfare of FT A1A;1B. Second, one cannot ignore that F T A1A;2A increased the terms of trade and real income of country 1A (as well as that of 2A). 
+This improvement in terms of trade and real income has a positive beneﬂt for improving 1A’s 
+utility gain from FT A1A;1B, conditioned upon FT A1A;2A. 
+We emphasize the relatively larger potential beneﬂts from F T A1A;1B from the existence of F T A1A;2A (cf., Figure 6b) compared with the existence of F T A2A;2B (cf., Figure 5b) as measured by the percent change in utility. This is because F T A1A;2A causes a large increase in terms of trade and real income for 1A while FT A2A;2B causes a loss of terms of trade and real income 
+for 1A, even though F T A1A;2A leads to less trade volume between 1A and 1B and F T A2A;2B 
+leads to more trade volume between 1A and 1B. Hence, the percentage gain in utility for 1A 
+from F T A1A;1B conditioned on FT A1A;2A is greater than that from F T A1A;1B conditioned on F T A2A;2B. We will \test" this quantitative diﬁerence empirically later, using our qualitative choice econometric model. 
+Moreover, while 2A experiences some trade diversion with respect to 1B due to F T A1A;1B, 
+2A still has an incentive to be in an FTA with 1A. As Figure 6c reveals, 2A still experiences a 
+utility gain from F T A1A;2A even conditioned on FT A1A;1B. Thus, 2A has an incentive to be in 
+an FTA with 1A even if it knew 1A would form an FTA with 1B at some point in the future. 
+Consequently, these comparative statics suggest that an increase in the number of FTAs 
+that, say, country 1A has with other (non-1B) countries increases the likelihood of country 1A 
+having an FTA with 1B. In the next section, we discuss the robustness of these comparative 
+statics. 
+3.4 Caveats 
+3.4.1 Sensitivity Analysis 
+Since our comparative statics are determined over the entire span of inter- and intra-continental 
+trade costs from zero to prohibitive (i.e., 0 • a; b • 1), the only other three parameters in our 
+model in the comparative statics are the ﬂxed cost parameter (`), the elasticity of 
+substitution in consumption (), and initial tariﬁ rates (¿ij). In our baseline model, we have 
+23 
+
+========24========
+
+assumed ` = 1,  = 4, and initially ¿ij = 0.3, and then any bilateral FTA reduces ¿ from 0.3 to 0. We now consider the sensitivity of our comparative statics to variation in these values. 
+For the impatient reader, the comparative statics discussed above are insensitive to the value 
+of `, but are sensitive to values of  and initial levels of ¿ij. 
+First, consider the ﬂxed cost parameter, `, which was initially set arbitrarily equal to 1. It 
+turns out the results are insensitive to variation in `; it is an innocuous parameter. We re-ran 
+the comparative statics using instead a value of ` = 10, i.e., an order-of-magnitude change in 
+the value of the parameter. The comparative statics were insensitive to this change. 
+Second, consider the elasticity of substitution, . Anderson and van Wincoop (2004) report 
+a wide range of empirical estimates of . In general, they argue that a reasonable range of 
+values of  is between 5 and 10. However, some time-series analyses estimate  lower than 
+5, and Krugman (1991a) suggested that a reasonable range is 2 <  < 10. Consequently, we 
+re-ran our comparative statics for values of  of 2 and 10 also. We found that Figures 5 and 
+6 were qualitatively identical for  = 10. Own-FTA and third-country-pair FTA eﬁects were 
+both positive and the relative utility gain was higher for own-FTA eﬁects (relative to third- 
+country-pair-FTA eﬁects); this suggests that the results are robust for 4 <  < 10. However, 
+for  = 2, the third-country-pair eﬁect was negative; with a lower elasticity of substitution, the 
+negative terms-of-trade eﬁect from trade diversion oﬁsets the positive volume-of-trade eﬁect, 
+so that \competitive liberalization" did not promote bilateralism. Since the own-FTA eﬁect 
+remained positive at  = 2, the own-FTA eﬁect still dominated the third-country-pair eﬁect 
+for promoting growth of bilateralism. 
+Third, consider the initial values of tariﬁs, ¿ij = 0.3. The positive eﬁects of own-FTAs and 
+third-country-pair FTAs tend to be stronger the higher the initial values of ¿, as for . At 
+higher initial values of ¿, the own-FTA and third-country-pair-FTA eﬁects are positive at  
+= 4. At ¿ initially equal to 0.4, the own-FTA and third-country-pair-FTA eﬁects are both 
+positive even at  = 2. However, if ¿ = 0.15 initially, both own-FTA and third-country-pair- 
+FTA eﬁects are negative. At lower initial values of ¿, the terms-of-trade changes are not very 
+large, dampening the net positive impacts. 
+However, one comparative static result is robust whenever the own-FTA and third-country- 
+pair-FTA eﬁects are positive. In such cases, the own-FTA eﬁects (in terms of 1A’s welfare) 
+are always larger than the third-country-pair eﬁects. This robust comparative static result 
+24 
+
+========25========
+
+suggests { when both factors have contributed to the growth of bilateralism { that the \tariﬁ- 
+complementarity" eﬁect of one more existing FTA likely contributes more to the growth of 
+bilateralism than the \competitive-liberalization" eﬁect of one more existing third-country-pair 
+FTA. 
+3.4.2 Regionalism 
+As stated at the outset, this paper’s focus has been on explaining the growth of bilateralism, not 
+regionalism. In reality, however, some country pairs that form FTAs are part of \enlargements," 
+not stand-alone agreements. As this is not a focus of this paper and to limit the paper’s scope, 
+we choose not to oﬁer a formal hypothesis for \testing." However, it is useful to consider the 
+roles of \tariﬁ complementarity" and \competitive liberalization" for enlargements. 
+In reality, we often observe enlargements of FTAs. Hence, we often observe FT A1A;1B and F T A1A;2A conditioned upon the existence of F T A1B;2A, that is, enlargement of FT A1B;2A to 
+include 1A. For instance, the Canadian-US FTA was formed in 1989. In the early 1990s, 
+Mexico wanted to form an FTA with the United States. However, the Canadian-US FTA was 
+followed by NAFTA (Canada, Mexico, and US), rather than maintaining separate bilateral 
+FTAs between Canada and the US and between Mexico and the US. Of course, expansion of 
+the European Community/Union has been by enlargement. 
+We return to our baseline parameter values for , `, and initial values of ¿ij. Consider 
+instead the gain in utility to country 1A from an FTA with 1B and one with 2A conditioned 
+upon an FTA already existing between 1B and 2A, i.e., enlargement of F T A1B;2A. It turns out (ﬂgures omitted for brevity) that 1A’s utility actually declines from F T A1B;2A already being in place. The economic reason behind this is the following. The formation of F T A1B;2A causes 
+a large amount of trade diversion for 1A at low transport costs. This has a very large negative 
+impact upon its terms of trade, especially at low intra- and inter-continental transport costs, 
+ = 4, and initial tariﬁs of 0.3. However, as before at higher initial tariﬁs (say, 0.4), the 
+net welfare gain to 1A of forming an FTA with 1B and with 2A { that is, enlargement { is 
+enhanced by the existence of F T A1B;2A. Hence, the demand for membership by 1A is enhanced by competitive liberalization if the decline in tariﬁs is su–ciently great and the elasticity of 
+substitution is su–ciently high. Consequently, in the context of our model, Baldwin’s \domino 
+theory" does not necessarily hold; it depends on the values of  and initial tariﬁs. 
+25 
+
+========26========
+
+3.4.3 Other Caveats 
+Finally, we return to some of the caveats raised earlier regarding special interests and en- 
+dogenous tariﬁs. Regarding special interests and political economy issues, we conjecture our 
+model could be enhanced to account for an in of special interests in the government’s 
+objective function. We have no reason to believe that the relative importance of these consid- 
+erations would be any diﬁerent in our model relative to other models, such as those in Ornelas 
+(2005a,b,c). Extensions to incorporate considerations as raised in Ornelas (2005a,b,c) would 
+be useful, but are beyond this paper’s scope. 
+Second, we consider the importance of allowing for endogenous tariﬁs. As alluded to in an 
+earlier footnote, we have been able to solve our model using endogenous (Nash equilibrium) 
+tariﬁs. Because of the demanding computer requirements for solving our nonlinear, three- 
+continent, six-country model using pre-FTA and post-FTA Nash equilibrium tariﬁs under a wide 
+range of inter- and intra-continental transport costs, we do not provide an exhaustive robustness 
+analysis. However, we have calculated some similar comparative statics using a three-country 
+version of our model (countries 1, 2, 3) with symmetric endowments. Two main conclusions 
+surface from this sensitivity analysis. First, using endogenous Nash equilibrium tariﬁs, the 
+initial (endogenously-determined) tariﬁs for each of the three countries is approximately 0.4, 
+assuming zero intra- and inter-continental trade costs and using the baseline values of  = 4 and 
+` = 1. Second, assuming (exogenously) an FTA between countries 1 and 2, we ﬂnd in our model 
+that the best-response tariﬁ for country 1 (2) on goods imported from nonmember country 3 
+is always less than 0.2. Consequently, FTA members lower their external tariﬁs endogenously 
+(although not to zero due to rebated tariﬁ revenue). Moreover, the best response of country 
+3 is to maintain its tariﬁ on goods imported from either country 1 or 2 at approximately 0.4. 
+Hence, country 3 does not raise its optimal tariﬁ. These results appear consistent with our 
+earlier results. As stated earlier, since the primary focus of our study is a potential empirical 
+contribution, our sensitivity analysis is limited. 
+In the next section, we use guidance from these comparative statics to postulate a logit 
+model to examine each of these hypotheses and ﬂnd evidence of \endogenous bilateralism" 
+using multilateral FTA and ROW FTA indexes to capture the own-FTA and third-country- 
+pair-FTA eﬁects, respectively. However, we note now an important implication of the previous 
+comparative statics that will in measurement of these multilateral FTA indexes. Each 
+26 
+
+========27========
+
+comparative static of an FTA formation represented a discrete change of a country-pair’s tariﬁ 
+from a positive value to 0. Thus, our multilateral indexes will need to be averages of these 
+discrete changes; this will necessitate either a simple or weighted average. In anticipation of 
+this, examination of any of Figures 5-6 suggests that the quantitative eﬁect of an existing FTA 
+on the welfare gain for a country from a subsequent FTA is sensitive to the level of intra- 
+and inter-continental transport costs (which of course are related in reality to distance). One 
+possibility is to weight other FTAs in the multilateral (and ROW) FTA indexes by inverse- 
+distances (as has been done previously). We will address the issue in an alternative way later 
+when we explore the estimated marginal response probabilities, distinguishing between natural 
+(close) and unnatural (distant) FTA partners. 
+4 Econometric Issues and Data 
+4.1 Econometric Issues 
+The econometric framework employed is the qualitative choice model of McFadden (1975, 1976), 
+as in B-B. A qualitative choice model can be derived from an underlying latent variable model. 
+For instance, let y⁄ denote an unobserved (or latent) variable, where for simplicity we ignore 
+the observation subscript. As in Wooldridge (2000), let y⁄ijt in the present context represent the percent diﬁerence in utility levels from an action (formation of an FTA) between countries 
+i and j in year t, where: 
+y⁄ijt = ﬁ + xijtﬂ + †ijt 
+(9) 
+where ﬁ is a parameter, xijt is a vector of explanatory variables (i.e., economic characteristics), ﬂ is a vector of parameters, and error term †ijt is assumed to be independent of xijt and to have a logistic distribution; we will also consider in the sensitivity analysis the standard normal 
+distribution for †ijt. In the context of our model formally, y⁄ijt = min(¢Uit;¢Ujt) where ¢Uit 
+(¢Ujt) denotes the percent change in utility for the representative consumer in i (j) in year t. Hence, both countries’ consumers need to beneﬂt from an FTA for their governments to form 
+one, as in B-B. 
+Since y⁄ijt is unobservable, following B-B we deﬂne an indicator variable, FT Aijt, which 
+27 
+
+========28========
+
+assumes the value 1 if two countries have an FTA and 0 otherwise, with the response probability, 
+P r, for FTA: 
+Pr(F T Aijt = 1) = Pr(y⁄ijt > 0) = G(xijtﬂ); 
+(10) 
+where G(¢) is the logistic cumulative distribution function, ensuring that P r(F T Aij = 1) is between 0 and 1.18 While the statistical signiﬂcance of the logit estimates can be determined 
+using t-statistics, the coe–cient estimates can only reveal the sign of the partial eﬁects of 
+changes in x on the probability of an FTA, due to the nonlinear nature of G(¢). Drawing upon 
+analogy to the labor literature, we assume the existence of a \reservation cost" to forming an 
+FTA (denoted y⁄R). Hence, the gain in utility from forming/joining an FTA must exceed this 
+cost (e.g., political and/or administrative cost of action) in order for an FTA \event" to occur. 
+If y ⁄ijt ¡y⁄R > 0, then the FTA event for the pair of countries occurs at time t. Initially, we assume y⁄R is exogenous and constant; however, y⁄R may be time-varying, which we explore 
+in the empirical sensitivity analysis using time dummies.19 
+4.2 Intuition for Multilateral FTA Terms 
+The theoretical comparative statics suggest that xijt should be in by the distance 
+between countries i and j and their remoteness (Figure 1), the economic size and similarity of 
+countries i and j (Figures 2 and 3), an index of all FTAs other than those with i or j (Figure 
+5), and \multilateral" indexes of each of i’s and j’s other FTAs (Figure 6). While measurement 
+of distance, economic size, and economic similarity is straightforward, measurements of indexes 
+of \multilateral FTAs" for i and j and an index of all other non-ij FTAs (henceforth, for 
+tractability, termed ij’s \ROW FTAs" index) are not readily observed. Our theoretical model 
+suggests two alternative approaches, and we contrast their performances in the sensitivity 
+analysis later. Moreover, measures of remoteness are not as obvious as those for distance; we 
+address these in section 4.3. 
+Initially, we consider a multilateral index of country i’s FTAs with every other (non-j) 
+country. We consider the simplest approach, which is an unweighted sum of country i’s indexes 
+18We will also consider probit estimates for robustness. However, as will be discussed later, logit is less restrictive (and problematic) than probit for introducing ﬂxed eﬁects in the robustness analysis. 
+19Since our empirical analysis addresses timing issues, an econometric duration analysis may also be suitable; we discuss the robustness of our results to this alterative approach in the sensitivity analysis later. 
+28 
+
+========29========
+
+of FTAs with all other countries (excluding j) ﬂve years earlier (t ¡ 5): 
+X 
+N 
+MF T Ai;t¡5 = F T Aik;t¡5 
+k=j 6 
+(11) 
+where F T Aik;t¡5 is, as before, a binary variable assuming the value 1 if i and k have an FTA in 
+year t¡5, and 0 otherwise. We choose to use a \count" variable, rather than a simple average, 
+because later we can then estimate the marginal response probabilities of adding a single FTA. 
+We compute MF T A lagged ﬂve years to avoid endogeneity bias. Analogously, we deﬂne for j: 
+X 
+N 
+MF T Aj;t¡5 = F T Ajk;t¡5: 
+k=i 6 
+(12) 
+It follows that we can deﬂne the index for all non-ij FTAs for country-pair ij, ROW F T Aij;t¡5, as: 
+XXN 
+N 
+ROW F T Aij;t¡5 = F T Akl;t¡5: (13) 
+k=i 6 l=j 6 
+Hypothesis 4 (\third-country-pair" eﬁect) suggests that the coe–cient estimate for ROW F T Aij;t¡5 
+should be positive (Figure 5). Hypothesis 5 suggests that the coe–cient estimates for MF T Ai;t¡5 
+and MF T Aj;t¡5 should be positive (Figure 6), and their marginal response probabilities larger 
+than those for ROW F T Aijt (compare Figure 5b with Figure 6b).20 
+An alternative measure might recognize that each bilateral FTA component of these indexes 
+should be weighted by its relative economic importance. We re-ran our numerical simulations 
+for Figures 5 and 6 to allow countries 2A and 2B to have smaller absolute endowments (similar 
+to asymmetries introduced for Figures 2 and 3). The simulations revealed that the eﬁects shown 
+in Figures 5 and 6 were diminished quantitatively when such countries had smaller economic 
+sizes. For brevity, we do not provide these ﬂgures, but they are available on request. These 
+results suggest alternative GDP-weighted multilateral and ROW indexes: 
+X 
+N 
+MF T AYi;t¡5 = Yk;t¡5F T Aik;t¡5 
+k=j 6 
+(14) 
+where Yk;t¡5 is country k’s GDP in year t ¡ 5. We deﬂne MF T AYj;t¡5 and ROW F T Aij;t¡5 
+20As discussed earlier, caveats apply to the two hypotheses as suggested by the sensitivity analysis in section 
+3. 
+29 
+
+========30========
+
+analogously. We apply this alternative weighting method in the sensitivity analysis.21 
+While the use of unweighted and GDP-weighted averages of each country’s bilateral FTA 
+indexes may seem simple, such quantitative multilateral indexes can be motivated formally 
+using the linear-approximation approach of Baier and Bergstrand (2009) to the general equi- 
+librium theoretical foundations for \multilateral resistance" terms developed in the gravity- 
+equation theory in Anderson and van Wincoop (2003). Appendix A provides a summary of the 
+Baier-Bergstrand method for approximating the Anderson-van Wincoop multilateral indexes 
+of trade costs, and it is discussed brie in the next section. 
+Finally, alternative weights that come to mind are bilateral-trade-share weights or factors 
+that might in bilateral trade shares, such as inverse-bilateral-distances or GDPs divided 
+by bilateral distances. Baldwin and Jaimovich (2008) used bilateral trade shares, as did Egger 
+and Larch (2008) in a sensitivity analysis of their spatial-lag construction. However, as both 
+studies noted, such shares may create an endogeneity bias. Consequently, Egger and Larch 
+(2008) relied upon inverse-distance weights in their construction of their primary spatial lags. 
+However, as Figure 5b suggests, while the quantitative eﬁects on welfare changes for country 1A 
+of FT A1A;1B owing to existing agreements are unambiguously positively related to lower intra- continental transport costs (and likely lower intra-continental bilateral distance), such eﬁects 
+may be positively or negatively related to lower inter-continental transport costs (and likely 
+lower inter-continental bilateral distance) depending on the level of inter-continental transport 
+costs. Figure 5b hints at a possible quadratic relationship between the welfare eﬁects and 
+the level of inter-continental transport costs. Thus, scaling by inverse-distances may create 
+problems. Nevertheless, we can examine the sensitivity of the results to the roles of inter- and 
+intra-continental transport costs later when we estimate the marginal response probabilities 
+separately for trading partners on the same or diﬁerent continents. 
+4.3 Multilateral Resistance and Other Data Issues 
+Since Tinbergen (1962), gravity-equation analyses of bilateral trade ws have measured the 
+presence or absence of an FTA between a country-pair using a binary variable. Following those 
+21Of course, GDPs increase over time and consequently not scaling GDPs of countries by world GDP may in the results. Consequently, we also considered weights k;t¡5 = Yk;t¡5=Y 
+W 
+t;t¡5, where 
+Y 
+W 
+t¡5 
+is world GDP. The results are robust to this alternative measure. The alternative measure only in the absolute magnitudes of the coe–cient estimates, but has no bearing on the marginal response probabilities. 
+30 
+
+========31========
+
+studies and B-B, variable FT Aijt will have the value 1 for a pair of countries (i; j) with an 
+FTA (speciﬂcally, FTA, customs union, common market, or economic union) in year t, and 
+0 otherwise; we exclude one-way and two-way \preferential" trade agreements (where \pref- 
+erential" denotes only partial liberalization, not \free" trade). This variable was constructed 
+using all bilateral pairings among 195 countries in the world annually from 1960-2005.22 
+A 
+decomposition of cells is provided in Table 1. 
+The only other data needed are real GDPs, bilateral distances, a dummy variable assuming 
+the value 1 (0) if two countries are on the same continent (CONTij), and indexes of \remote- ness." In order to employ a consistent real GDP data set for such a long period, we use real 
+GDP data from Maddison (2009). However, the cost of a consistent real GDP panel data set for 
+such a long time period is number of usable countries. This lowers the number of countries from 
+195 to 146, and the consequent loss of observations. We construct for every country-pair the 
+variable SUMGDPij;t¡5, which is the natural log of the sum of i’s and j’s real GDPs ﬂve years prior to year t. We measure the dissimilarity of economic sizes using DIF GDPij;t¡5, which is the absolute value of the diﬁerence in the log of each country’s real GDP. Bilateral distances are 
+calculated from great-circle distances using latitudes and longitudes between economic centers 
+from the CIA’s WorldF actbook, as is standard. DISTij refers to the natural logarithm of the 
+bilateral distance between the two countries i and j. However, measures of \remoteness" of a 
+country-pair are not readily observable. We now address this issue brie. 
+Recent studies by Egger and Larch (2008) and Baldwin and Jaimovich (2008) have followed 
+B-B and used a simple average of the logarithms of the simple averages of each of countries i’s 
+and j’s bilateral distances to all other countries to measure a pair of countries’ \remoteness," 
+cf., B-B (2004, p. 40). This variable typically has a positive coe–cient estimate sign and 
+statistical signiﬂcance. However, there is no explicit theoretical foundation for its formulation. 
+It turns out that a formulation very close to this surfaces from recent developments in the 
+theoretical foundations for the gravity equation. These recent developments { based upon 
+Anderson and van Wincoop (2003), as modiﬂed using a Taylor-series expansion in Baier and 
+Bergstrand (2009) { provide guidance for measuring remoteness using \multilateral resistance" 
+22The data base is available at www.nd.edu/ jbergstr. Documentation for its construction is provided at the website. Every positive cell entry is hyper-linked to a PDF of its original treaty (98 percent of cells) or a secondary source (2 percent of cells); not all cells are potential observations as over the period some countries formed and others dissolved, e.g, Czechoslovakia. We will use only 146 of these countries as will be explained shortly. 
+31 
+
+========32========
+
+indexes that are very similar to equations (11)-(13) for FTAs. For instance, for country i’s 
+multilateral resistance index for the log of distance we use either: 
+XN MDISTi = 
+1 
+N 
+DISTik 
+k 
+(15) 
+or 
+X 
+N 
+MDIST Yit = ktDISTik 
+k 
+(16) 
+where kt = Ykt=Y 
+W 
+t 
+. Analogous terms apply for MDISTj and MDIST Yjt.23 Similarly, for country i’s multilateral resistance index for the binary variable CONTij we deﬂne: 
+1 
+X 
+N 
+MCONTi = 
+N 
+CONTik 
+k 
+(17) 
+or 
+X 
+N 
+MCONT Yit = ktCONTik 
+k 
+(18) 
+and the analogous terms for MCONTj and MCONT Yjt. For parsimony, in the spirit of Baier and Bergstrand (2009), we condense these multilateral resistance terms into two variables for 
+each country-pair. For constructing the \multilateral resistance" term for distance for the 
+unweighted case, we have: 
+XN 
+MDISTij = 
+1 
+XN 
+2N 
+( DISTik + DISTjk) (19) 
+k=1 k=1 
+and analogously for the GDP-share-weighted case. For CONT, we use: 
+XN 
+MCONTij = 
+1 
+XN 
+2N 
+( CONTik + CONTjk): 
+k=1 k=1 
+(20) 
+and analogously for the GDP-shared-weighted case (allowing for time variation in the GDP 
+weights). See Appendix A for formal details of these variables’ motivations. 
+23In the cases of these variables, we use averages rather than \count" variables, for convenience; this has no material consequence for the results. 
+32 
+
+========33========
+
+5 Empirical Results 
+In this section, we ﬂrst discuss the main empirical results. In the second part of this section, 
+we discuss the results from a sensitivity analysis. 
+5.1 Main Results 
+Table 2 provides the main empirical results. Speciﬂcation 1 provides the results for addressing 
+Hypothesis 1, where the RHS variables are { in the case of unweighted averages { time-invariant 
+variables. Speciﬂcation 1 shows that DISTij, CONTij, and MCONTij all have the expected signs and are statistically signiﬂcant at conventional signiﬂcance levels (1 percent). Bilateral 
+distance has a negative eﬁect on the probability of an FTA, while being on the same continent 
+has a positive eﬁect; these results are in line with the cross-sectional ﬂndings in B-B and 
+Hypothesis 1. MDISTij and MCONTij both have negative eﬁects on the likelihood of an FTA. While the coe–cient estimate for MCONTij is as expected, that for MDISTij is the opposite of our expectation, since this is eﬁectively a measure of \remoteness." However, we will 
+see shortly that this unexpected negative coe–cient sign is reversed in a fuller speciﬂcation. 
+The pseudo-R2 is 0.39. Recall that in logit (or probit) regressions the coe–cient signs are 
+meaningful, but the actual values of the coe–cients are not directly interpretable; however, 
+marginal response probabilities will be calculated later, as in B-B, to examine the quantitative 
+eﬁects of one-standard-deviation changes in RHS variables (and for count variables, unit changes 
+in the RHS variable). 
+Speciﬂcation 2 in Table 2 augments Speciﬂcation 1 to include the (5-year-lagged) logarithm 
+of the joint economic size of countries i and j (SUMGDPij;t¡5) and our measure of dissimilarity of economic sizes of i and j (DIF GDPij;t¡5). We ﬂnd that country-pairs are more likely to 
+form an FTA the larger and more similar are their GDPs, in accordance with Hypotheses 2 and 
+3, respectively. The results in Speciﬂcation 2 conﬂrm using a very large pooled cross-section 
+time-series data set the results found for a single cross-section of a smaller number of countries 
+in B-B and are consistent with the pooled cross-section time-series results in Egger and Larch 
+(2008).24 
+24We also used 
+ln[(Yit + Yjt)=Y 
+W 
+t 
+] for economic size, since world GDP changes over time; the results are robust to this alternative measure. Also, as in B-B and Egger and Larch (2008), we are using real GDPs as a proxy for absolute factor endowments. Consequently, the terms-of-trade (real income) eﬁects eﬁects from, say, a natural FTA relative to an unnatural FTA are captured by DISTij and CONTij. 
+33 
+
+========34========
+
+We now address Hypotheses 4 and 5. Speciﬂcation 3 provides the results of augmenting 
+Speciﬂcation 2 with MF T Ai;t¡5, MF T Aj;t¡5, and ROW F T Aij;t¡5. Speciﬂcation 3 is our main speciﬂcation. First, all three of these variables have statistically signiﬂcant positive coe–cient 
+estimates and the coe–cient estimates of the other RHS variables retain their same signs and 
+remain statistically signiﬂcant except MDISTij, which reverses its sign to the expected positive one and is statistically signiﬂcant. Second, the positive coe–cient estimates for MF T Ai;t¡5, MF T Aj;t¡5, and ROW F T Aij;t¡5 all conﬂrm Hypotheses 4 and 5. Third, the pseudo-R2 of the logit regression is 0.56, which is substantive and very close to the pseudo-R2 found in B-B for 
+their much smaller and select cross-section sample for the year 1996. We note that there are 
+10,478 observations with FTAs (FT Aij;t=1) in the sample of 358,767 observations spanning 1960-2005. Finally, we note that the coe–cient estimates for MF T Ai;t¡5 and MF T Aj;t¡5 are substantively larger than that for ROW F T Aij;t¡5. The relatively larger coe–cient estimates for the former variables are (seemingly) consistent with the relative quantitative predictions 
+for the relative utility gains. However, because of the non-linearities using logit regressions, 
+we will delay full discussion of these relative quantitative predictions until we examine more 
+appropriately marginal response probabilities later. 
+5.2 Sensitivity Analysis 
+Speciﬂcation 3 provides the main speciﬂcation for predicting later the rate of \true positives" 
+(predicting an FTA when one exists) and the rate of \true negatives" (\No-FTA" when none 
+exists). In this sensitivity analysis, we examine the robustness of results using Speciﬂcation 3 to 
+examining \formations" of FTAs (rather than the indicator representing \existence" of an FTA 
+in a given year), to using probit rather than logit estimation, to using alternative weights for 
+the various multilateral and ROW index variables, to using a panel of every ﬂve years (rather 
+than annual), to using instead a duration model, to the presence of country-pair ﬂxed eﬁects, 
+and to inclusion of time dummies in addition to country-pair ﬂxed eﬁects. Finally, we report 
+marginal response probabilities for Speciﬂcation 3. 
+First, one concern of Speciﬂcation 3 is that we are examining the \existences" of FTAs in a 
+given year rather than their \formations." FT Aij;t assumes the value 1 if an FTA exists between 
+i and j in any year t, and 0 otherwise. Alternatively, we would like to consider another dummy 
+variable for the LHS that assumes the value 1 in a year t when an FTA is formed between i and 
+34 
+
+========35========
+
+j in that year and 0 otherwise. Consequently, we construct a new variable, T F T Aij;t, which 
+assumes the value 1 if countries i and j entered into an FTA in year t, and 0 otherwise. As a 
+result, the number of observations with FTA formations (TF T Aij;t = 1) is 3,811, approximately one-third that for F T Aij;t = 1. Speciﬂcation 4 reports the results of replacing FT Aij;t with the \transition-to-FTA" binary variable T FT Aij;t. We note that the number of total observations 
+falls from 358,767 to 352,002 as we redeﬂne the LHS dummy variable to represent the change 
+from one year to the next in the FTA \status" of the pair. Note that the coe–cient estimates 
+in Speciﬂcation 4 are qualitatively identical to those in Speciﬂcation 3, with the exception of 
+MDISTij which has a negative eﬁect now. Most importantly though, all the main results hold up; MF T Ai;t¡5, MF T Aj;t¡5, and ROW F T Aij;t¡5 all have positive and statistically sig- niﬂcant coe–cient estimates as expected. However, predicting transitions is more challenging 
+than predicting the existence of FTAs; the pseudo-R2 is lower at 0.34 compared with 0.56 for 
+Speciﬂcation 3, as expected.25 
+Second, both B-B and Egger and Larch (2008) used probit estimation rather than logit, 
+the latter used here. Recall that our reason for using logit is that we will include country- 
+pair ﬂxed eﬁects shortly. As clariﬂed in Wooldridge (2002), since the logistic transformation 
+is a linear one standard ﬂxed eﬁects can be readily applied without restrictions; by contrast, 
+ﬂxed eﬁects have more restrictions on their implementation due to the Chamberlain (1980) 
+\incidental parameters" issue. However, it is useful to show that the results are robust to 
+estimation using probit. Speciﬂcation 5 provides the results of re-estimating the model of 
+determinants of existence of an FTA (FT Aij;t) using probit. The results in Speciﬂcation 5 are qualitatively identical to the corresponding logit ones in Speciﬂcation 3 with one exception; the 
+coe–cient estimate for MDISTij reverses signs from positive (which is expected) to negative but statistically insigniﬂcant in the probit speciﬂcation. The pseudo-R2 is 0.57. Quantitatively, 
+with the exception of that for MDISTij all the probit coe–cient estimates are approximately 1/2 of those in the logit equation. Thus, the results are largely robust to estimation using 
+probit instead.26 
+Third, as discussed earlier, our theoretical model provides no clear guidance for weights for 
+the multilateral FTA indexes. Following guidance from recent theoretical developments for the 
+25A similar fall in overall explanatory power for the same adjustment was found in Egger and Larch (2008). 
+26We also ran the probit on the FTA transitions dummy (T F T Aij;t) and the coe–cient estimates are quali- tatively identical to those using the corresponding logit speciﬂcation, but not reported for brevity. 
+35 
+
+========36========
+
+gravity equation in Anderson and van Wincoop (2003) as modiﬂed by Baier and Bergstrand 
+(2009), the two weighting methods suggested are a simple average of components or a GDP- 
+weighted average of bilateral components. We re-estimated our main logit speciﬂcation (3) using 
+GDP-weighted values of MF T Ai;t¡5, MF T Aj;t¡5, ROW F T Aij;t¡5, MDISTij, and MCONTij. The results are provided in Speciﬂcation 6 for the existence of FTAs.27 The results in Speciﬂ- 
+cation 3 are robust to using the GDP-weighted (or GDP-share-weighted) alternative variables; 
+all coe–cient estimates are qualitatively identical to those in Speciﬂcation 6.28 
+Fourth, in the speciﬂcations used so far, we use ﬂve-year lagged values of SUMGDPij;t¡5, DIF GDPij;t¡5, MF T Ai;t¡5, MF T Aj;t¡5, and ROW F T Aij;t¡5 to predict the existence of (or 
+transition to) an FTA for a country pair within the next ﬂve years. However, this large window 
+for FTA predictions may introduce an endogeneity bias. Consequently, we re-estimated the 
+main speciﬂcation using only RHS and LHS variables with a sub-sample of every ﬂve years. 
+This reduced our sample size for predicting existence from 358,767 to 77,059. The results are 
+provided in Speciﬂcation 7. We see in column (7) that all of the coe–cient estimates are robust 
+to this alternative speciﬂcation which retains the 5-year lag for the RHS variables. The results 
+for transition-to-FTA are also robust, but omitted from the table for brevity. 
+Fifth, Bergstrand, Egger, and Larch (2009) implemented instead a \duration analysis" of 
+the likelihood of FTA events. Like logit and probit regressions, duration models fall within the 
+class of \limited dependent variable" models, cf., Wooldridge (2002). These models estimate 
+the \hazard rate," which is the instantaneous probability of leaving an initial state (No-FTA) in 
+the interval [t; t+dt) given survival up until time t. We also estimated a duration model using 
+the same variables; the results are in Speciﬂcation 8 (9) for existence of (transition to) FTAs. 
+Columns (8) and (9) indicate that our main results from Speciﬂcation 3 are robust qualitatively 
+to using a duration model rather than a simple logit (or probit) model. All coe–cient estimates 
+(except, as before, that for MDISTij) are correctly signed and statistically signiﬂcant. 
+Sixth, the results may be sensitive to omitted unobserved cross-sectional heterogeneity. As 
+is often done in gravity equation analyses of trade ws, one introduces country-pair ﬂxed 
+eﬁects to account for unobserved heterogeneity to ensure unbiased coe–cient estimates. As 
+27Since Speciﬂcation 6 is the only one in Table 2 to use the GDP-weighted versions of MF T Ai;t¡5; MF T Aj;t¡5; ROW F T Aij;t¡5; MDISTij;t¡5 and MCONTij;t¡5, we do not change the names of the variables named in column (1) to keep Table 2’s size manageable. 
+28This conclusion also holds for the FTA transitions LHS variable (T F T Aij;t). Using GDP weights causes MDISTij and MCONTij to become time-varying. 
+36 
+
+========37========
+
+noted earlier, one of the advantages of logit over probit estimation (or duration analysis) is 
+the ability to use standard ﬂxed eﬁects; by contrast, such eﬁects cannot be used in probit 
+speciﬂcations due to the normal distribution underlying probits.29 Of course, the introduction 
+of country-pair ﬂxed eﬁects implies removing all time-invariant variables, i.e., DISTij, CONTij, MDISTij, and MCONTij. Speciﬂcation 10 reports the results of introducing country-pair ﬂxed eﬁects into main Speciﬂcation 3. We see that the remaining time-varying variables’ 
+coe–cient estimates are signiﬂcant, with only the estimate for our measure of size-dissimilarity 
+having an unexpected positive sign but statistical insigniﬂcance. All the other four variables’ 
+coe–cient estimates retain the same expected positive signs as in previous regressions. When 
+we introduce the same ﬂxed eﬁects into the logit regressions using \transition-to-FTA" binary 
+variable TF T Aij;t, shown in Speciﬂcation 11, the coe–cient estimates remain positive and statistically signiﬂcant with the exception again of insigniﬂcance for the coe–cient estimate for 
+the GDP-size-dissimilarity variable. 
+Seventh, while the country-pair ﬂxed eﬁects speciﬂcations controlled for unobservable time- 
+invariant factors, they did not control for unobservable time-varying factors. For instance, 
+world GDP and technology change over time. More speciﬂc to the issues at hand, global 
+liberalization of trade under the GATT/WTO may have had an in on the likelihood 
+of bilateralism being captured in the remaining time-varying RHS variables SUMGDPij;t¡5, DIF GDPij;t¡5, MF T Ai;t¡5, MF T Aj;t¡5, and ROW F T Aij;t¡5. Speciﬂcations 12 and 13 add to the logit ﬂxed-eﬁects speciﬂcations 10 and 11, respectively, time dummies. Columns (12) 
+and (13) report the results for the existence-of-FTA and transition-to-FTA speciﬂcations, re- 
+spectively. In Speciﬂcation 12 the SUMGDPij;t¡5 (DIF GDPij;t¡5) coe–cient estimate retains the expected positive (negative) sign and is statistically signiﬂcant (insigniﬂcant). Moreover, 
+the coe–cient estimates for MF T Ai;t¡5, MF T Aj;t¡5, and ROW F T Aij;t¡5 are positively signed as expected and remain statistically signiﬂcant. In Speciﬂcation 13, the SUMGDPij;t¡5 and DIF GDPij;t¡5 coe–cient estimates have the expected signs and both are statistically signiﬂ- cant. The coe–cient estimates for MF T Ai;t¡5 and MF T Aj;t¡5 remain positively signed and statistically signiﬂcant. The coe–cient estimate for ROW F T Aij;t¡5 is positively signed, but statistically insigniﬂcant. These results conﬂrm the importance of existing FTAs for enhancing 
+the likelihood of subsequent FTAs. 
+29There are some \restricted" methods though to try to circumvent these issues; see Chamberlain (1980) for methodology. 
+37 
+
+========38========
+
+Table 3 reports the marginal response probabilities, calculated at the means of the levels 
+of all variables. We follow the approach used in Baier and Bergstrand (2004) by separating 
+the marginal response probabilities into those calculated for \natural" trading partners (i.e., 
+pairs on the same continent) and those for \unnatural" trading partners (i.e., pairs on diﬁerent 
+continents). There are two reasons for this here. First, as in B-B, it makes little economic 
+sense to evaluate the marginal response probabilities at the \mean" of a binary variable rep- 
+resenting the presence or absence of being on the same continent. Second, our comparative 
+static theoretical results suggest that the utility gains for a country-pair from forming an FTA 
+are sensitive to the level of transportation costs. One transparent method for evaluating the 
+in of distance on the eﬁects of existing FTAs on the likelihood of subsequent FTAs is to 
+evaluate marginal response probabilities separately for natural and unnatural trading partners. 
+The format of this table is the same as in B-B. 
+Table 3a reports the marginal response probabilities for natural trading partners. First, for 
+ease of reference the probability of an FTA among natural partners at the mean level of all 
+(other) RHS variables is 0.1031, with a 95 percent conﬂdence interval of 0.0995 to 0.1068. We 
+now consider the eﬁect of a one standard deviation (S.D.) increase or decrease of variables. The 
+sixth (seventh) line of Table 3a indicates that a one S.D. increase in MF T Ai;t¡5 (MF T Aj;t¡5) increases the probability of FT Aij;t to 0.1306 (0.1381). Each of these probability changes is 
+statistically signiﬂcant at the 95 percent level, but not signiﬂcantly diﬁerent from one another.30 
+By contrast, a one S.D. increase in ROW F T Aij;t¡5 increases the probability of F T Aij;t to only 0.1101, which is also a statistically signiﬂcant change. The diﬁerence in the marginal response 
+probabilities for MF T Ai;t¡5 (MF T Aj;t¡5) and ROW F T Aij;t¡5 is economically and statistically signiﬂcant. Moreover, the diﬁerence in such probabilities is as expected; a one S.D. change in 
+MF T Ai;t¡5 (MF T Aj;t¡5) has a quantitatively larger impact on the likelihood of FT Aij;t than does a one S.D. change in ROW F T Aij;t¡5. These quantitative results are consistent with 
+relative quantitative welfare eﬁects described by Figures 5b and 6b. These results suggest that 
+\tariﬁ complementarity" has an economically and statistically larger eﬁect on the growth of 
+bilateralism than \competitive liberalization." 
+Yet, a one standard deviation change in MF T Ai;t¡5 (or MF T Aj;t¡5) need not be the same 
+30Note that each country pair enters the data set only 
+once, unlike gross trade ws in gravity equations. Thus, the coe–cients on MF T Ai;t¡5 and MF T Aj;t¡5 need not be exactly equal; if every pair entered twice, they would be exactly equal. 
+38 
+
+========39========
+
+as a one standard deviation change in ROW F T Aij;t¡5, potentially challenging the conclusion above. Consequently, the last three rows of Table 3a report the marginal response probabilities 
+of a one-unit increase in MF T Ai;t¡5, a one-unit increase in MF T Aj;t¡5, and a two-unit increase for ROW F T Aij;t¡5. Note that a one-unit { or one-FTA { increase in MF T Ai;t¡5 (MF T Aj;t¡5) increases the probability of F T Aij;t by 0.44 (0.54) percentage point, and the eﬁect is eco- nomically and statistically signiﬂcant. However, a two-unit increase in ROWij;t¡5 increases the probability of F T Aij;t by only 0.01 percentage point, which is neither economically nor statistically signiﬂcant.31 Consequently, using this alternative increase, our conclusion above 
+that tariﬁ-complementarity has an economically and statistically larger eﬁect on the growth of 
+bilateralism than competitive liberalization is supported.32 
+Table 3b reports the marginal response probabilities for unnatural trading partners (i.e., 
+pairs on diﬁerent continents). The probability of an FTA among unnatural trading partners 
+at the mean level of all (other) RHS variables is 0.0066, with a 95 percent conﬂdence interval 
+of 0.0061 to 0.0071. The sixth (seventh) line of Table 3b indicates that a one S.D. increase 
+in MF T Ai;t¡5 (MF T Aj;t¡5) increases the probability of FT Aij;t to 0.0103 (0.0115). Each of these probability changes is statistically signiﬂcant at the 95 percent level, but not signiﬂcantly 
+diﬁerent from one another. By contrast, a one S.D. increase in ROW F T Aij;t¡5 increases the probability of FT Aij;t to 0.0075, which is not a statistically signiﬂcant change. The diﬁerence in the marginal response probabilities for MF T Ai;t¡5 (MF T Aj;t¡5) and ROW F T Aij;t¡5 is economically and statistically signiﬂcant. Moreover, the diﬁerence in such probabilities is as 
+expected; a one S.D. change in MF T Ai;t¡5 (MF T Aj;t¡5) has a quantitatively larger impact on the likelihood of F T Aij;t than does a one S.D. change in ROW F T Aij;t¡5. For brevity, we do not review the other marginal response probabilities. However, all such probabilities change in 
+the expected directions and all such changes are statistically signiﬂcant except for MCONTij. These quantitative results are consistent with relative quantitative welfare eﬁects described by 
+Figures 5b and 6b. These results also suggest that \tariﬁ complementarity" has an economically 
+and statistically larger eﬁect on the growth of bilateralism than \competitive liberalization." 
+31In the context of 
+Hypothesis 4, conditioning on F T A1A;2A is equivalent to a one-unit increase whereas { in the context of Hypothesis 5 { conditioning on F T A2A;2B is equivalent to a two-unit increase.32 
+Note, however, that our marginal response probabilities { calculated using either a one-standard-deviation or a one-unit change { are employed to evaluate empirically (as closely as feasible) our theoretical Hypotheses 4 and 5. However, one could argue that the number of third-country-pair FTAs that a typical country-pair faces combined with the ROW F T Aij;t¡5 marginal response probability should be compared with the number of own FTAs combined with the MF T Ai;t¡5 marginal response probability. We leave this to future research. 
+39 
+
+========40========
+
+Finally, we note that the change in the probability of FT Aijt due to an increase in MF T Ai;t¡5 
+(or MF T Aj;t¡5 or ROW F T Aij;t¡5) is much higher for natural trading partners than for un- natural trading partners, as our comparative statics in section 3 suggested. For instance, for 
+MF T Ai;t¡5 a one unit increase in this variable (that is, one more bilateral FTA for i) causes a 0.44 percent (0.05 percent) increase in the likelihood of F T Aij within the next ﬂve years if i 
+and j are on the same (a diﬁerent) continent. 
+6 Predicting FTAs 
+An alternative measure of goodness-of-ﬂt for logit and probit models is the \percent correctly 
+predicted." However, Wooldridge (2000) points out that this percent may be misleading. For 
+instance, in Baier and Bergstrand (2004), the authors had a sample of 1431 country pairs 
+for the year 1996 with 286 actual FTAs (true positives, or TPs). Hence, 20 percent of the 
+observations were FTAs. The \unconditional" probability of an FTA was 20 percent and the 
+unconditional probability of No-FTA was 80 percent (1145/1431). Consequently, even if the 
+model had no explanatory power and failed to predict correctly even one FTA, the percent of 
+No-FTAs correctly predicted is almost 80 percent. This large percentage misrepresents the zero 
+predictive power of the model for predicting true positives. 
+Wooldridge (2000) recommends examining separately the percent correctly predicted for 
+each of the two outcomes. That is, the percent of \true positives" (TPs) in \all positives" (APs), 
+or TPs/APs = TPs/(TPs+FPs) where FP denotes \false positives," is important, but so is the 
+percent of \true negatives" (TNs) in \all negatives" (ANs), or TNs/ANs = TNs/(TNs+FNs) 
+where FN denotes \false negative." Baier and Bergstrand (2004) conducted this statistical 
+summary for their cross-section analysis of year 1996 data and found that their model predicted 
+correctly 243 of 286 FTAs, or 84.97 percent. They also predicted 1,114 of the 1,145 pairs without 
+FTAs correctly, or 97.29 percent. 
+However, a critical issue in classiﬂcation is the choice of the \cutoﬁ" on the probability 
+continuum. Baier and Bergstrand (2004) and Egger and Larch (2008) followed McFadden 
+(1975, 1976) in using a probability cutoﬁ (pC) of 0.5 to determine if an FTA was predicted or 
+not. Letting pij denote the predicted probability from the probit regression in B-B, if pij > 0:5 and the country-pair ij had an FTA, this would be a true positive. If pij • 0:5 and ij did not 
+40 
+
+========41========
+
+have an FTA, this would be a true negative. 
+In the this part, we examine some summary statistics associated with alternative cutoﬁ 
+probabilities. We examine ﬂve alternative methods for assessing the overall predictive power of 
+our main logit models for existence of and transition to FTAs, which are Speciﬂcations 3 and 
+4, respectively. The ﬂrst concerns establishing a cutoﬁ probability based upon maximizing the 
+overall predictive power; this is determined by a \Speciﬂcity-Sensitivity" analysis, described 
+shortly. The second and third concern establishing cutoﬁ probabilities consistent with having 
+a TN rate no lower than that in B-B (97 percent) or Egger and Larch (2008) (99 percent), 
+respectively. The fourth uses the arbitrary cutoﬁ of 0.5, but it turns out that this cutoﬁ is 
+consistent with a true negative rate of 99 percent (as in the third approach). The ﬂfth uses the 
+notion of Reciprocal Operating Characteristic (ROC) curves, which will be discussed. 
+While B-B and Egger and Larch (2008) used a pC of 0.5, we believe this cutoﬁ is not a 
+very relevant one. The reason lies in the fact that { as noted earlier { bilateral FTA events in 
+our panel of over 350,000 observations are rare events. First, the number of observations when 
+an FTA exists between a country-pair in a given year is 10,478; this is only 3 percent of all 
+observations. Second, the number of observations when a country-pair forms (or transitions 
+to) an FTA is 3,811; this is only 1 percent of all observations. Figure 7a provides a plot of 
+the frequency of the predicted probability of an FTA (pijt) using Speciﬂcation 3; this conﬂrms visually that FTAs are rare events and that a pijt > 0:5 would be an extremely rare event. Consequently, we ignore this cutoﬁ for now, although for completeness we will report the TP 
+and TN rates for pC = 0.5 later. 
+Cohen et al. (2003) suggests using a priori information about the proportion of FTA 
+events and No-FTA events in our population. Consider ﬂrst the case of FTA existences. The 
+proportion of FTAs (No-FTAs) in our panel { which is virtually the entire population of country- 
+pairs since 1960 { is 3 percent (97 percent). Hence, the unconditional probability of an FTA 
+existing between any country-pair in a given year is 3 percent. This suggests a more appropriate 
+cutoﬁ probability is 0.03. In fact, it turns out that the TP and TN rates are maximized at this 
+cutoﬁ, as we now show. 
+Naturally, one wants to maximize both the rates of true positives (TPs) and true negatives 
+(TNs). However, there is a trade-oﬁ. Figure 7b graphs the TP and TN rates for Speciﬂcation 3 
+(logit, FTA existence) against the entire range of possible cutoﬁ probabilities; Figure 7c graphs 
+41 
+
+========42========
+
+the TP and TN rates against the same range of pC for Speciﬂcation 4 (logit, FTA transition). 
+One can see from Figure 7b that at pC of near 0, one maximizes the likelihood of predicting 
+an FTA when one exists; however, the TN rate is virtually zero, which is a severe problem 
+since the vast bulk of observations is zero. To increase the TN rate, a higher pC is needed. 
+For our ﬂrst approach, it turns out that at a pC of 0.03 (speciﬂcally, 0.0328) we maximize 
+both the the TP and TN rates at 91 percent. Thus, at a cutoﬁ probability consistent with the 
+unconditional probability of an FTA existing (0.03), the model predicts correctly 91 percent of 
+the cases when an FTA exists within ﬂve years of the agreement forming and 91 percent of the 
+cases when No-FTA is correct. We have also conducted this analysis for predicting formations 
+of FTA (TF T Aijt equals 1 in the year an FTA goes into force, and 0 otherwise). In this case, the model predicts correctly 89 percent of the true positives within ﬂve years of the formation 
+and 89 percent of the TNs, as shown in Figure 7c. 
+Our second and third approaches consider two other possible cutoﬁ probabilities. In the ﬂrst 
+approach, we obtain a success rate for predicting FTAs when FTAs exist of 91 percent (the TP 
+rate). And while the TN rate may seem high at 91 percent, we still have a false positive rate of 
+9 percent, which implies in our sample of over 350,000 observations that we incorrectly predict 
+FTA when No-FTA exists in 9 percent of the cases. However, B-B had a higher TN rate of 97 
+percent (owing to its pC = 0.5) and Egger and Larch (2008) had a TN rate of 99 percent (also 
+using a pC = 0.5), implying much stricter false positive rates of 3 and 1 percent, respectively. 
+As Figure 7b suggests, one can raise the pC to ensure a higher TN rate, to be consistent with 
+these studies, which will of course lower the TP rate. We considered two alternative values of 
+pC. First, we considered pC = 0.114, which ensured a TN rate of 97 percent as in B-B. The 
+associated TP rate was 75 percent. The latter value is only 10 percent less than the 85 percent 
+TP rate in B-B for only a cross-section of bilateral FTAs among 53 country-pairs. Our TP rate 
+of 75 percent is remarkably high considering we are predicting the existence of an FTA between 
+a country-pair within only ﬂve years of its formation. For a TN rate of 99 percent (implying 
+pC = 0:307), the TP rate for existence of an FTA between a country-pair within ﬂve years of 
+its formation falls to 48 percent. We also considered the TP rates for predicting the actual year 
+of formation (date of entry) of an FTA between a country-pair within ﬂve years of its actual 
+formation. At a TN rate of 97 percent, the TP rate is 56 percent. At a TN rate of 99 percent, 
+the TP rate is 26 percent. Our fourth approach simply uses the cutoﬁ probability of 0.5. 
+42 
+
+========43========
+
+Tables 4a and 4b summarize the information above and additionally provide information 
+about the TP and TN rates by individual year as well as with and without the MF T Ai;t¡5, MF T Aj;t¡5, and ROW F T Aij;t¡5 terms. For economy, we provide the predictions at 5-year intervals as well as over all the years, where the logit speciﬂcation in Table 4a includes the 
+MF T A and ROW F T A terms and the speciﬂcation in Table 4b excludes these terms. First, 
+in the second and third columns, we use the cutoﬁ that maximizes overall success rate using 
+a Sensitivity-Speciﬂcity analysis, that is, maximizing both the TP and TN rates. For FTA 
+existences including MFTA and ROWFTA, this is 91.04 percent in Table 4a. In Table 4b, we 
+can see from columns 2 and 3 that the percent correctly predicted without MFTA and ROWFTA 
+is 88.35 percent. However, returning to Table 4a, this 91 percent still leaves 9 percent of the 
+observations false negatives. The second approach considered a cutoﬁ no lower than that in 
+Baier and Bergstrand (2004), 97 percent. With a higher TN rate, the fourth and ﬂfth columns 
+report a lower TP rate of 75.50 (65.34) percent in the speciﬂcation with (without) the MF T A 
+and ROW F T A terms. In our third approach with a TN rate of 99 percent as in Egger and 
+Larch (2008), the TP rate falls to 47.67 (32.37) percent in the speciﬂcation with (without) the 
+MF T A and ROW F T A terms. Fourth, the eighth and ninth columns provide the TP rates 
+using a cutoﬁ of pC = 0:5. The TP rate is 47.07 percent, which is similar to that using the 
+99 percent TN rate in the third approach. However, by contrast with the logit speciﬂcation 
+omitting the MF T A and ROW F T A terms, the predictive power of this logit is better; in Table 
+4b we predict only 28.31 percent of the FTA cells correctly using a cutoﬁ of 0.5.33 One more 
+interesting result is worth noting from a comparison of Tables 4a and 4b. In the case of Table 
+4a, the presence of the MF T A and ROW F T A terms in the speciﬂcation causes the percent 
+correctly predicted to increase as time progresses; however, in the case of Table 4b, the percent 
+correctly predicted falls over time. Hence, accounting for endogenous bilateralism in the logit 
+speciﬂcation contributes to a relatively more successful true positive rate over time. 
+Finally, the literature on Receiver Operating Characteristics (ROC) often measures the 
+overall ﬂt of a model by examining the area underneath the \ROC" curve, cf., Fawcett (2006). 
+In our ﬂfth approach, a ROC curve graphs the TP rate against the false positive (FP) rate, 
+which is one minus the TN rate. Thus, the ﬂt of a model is perfect when the area under the 
+curve ﬂlls completely the upper-left triangle of Figure 8 (i.e., the TP rate is 1 and the FP 
+33The near doubling in predictive TP rates is much larger than the 5 percentage point improvement in Egger and Larch (2008) from introducing their spatial lag. 
+43 
+
+========44========
+
+rate is 0). Figures 8a and 8b provide the ROC curves for the cases of existence of FTAs and 
+transitions to FTAs, respectively. In the case of existences of FTAs, the area underneath the 
+ROC curve is 97 percent. In the case of transitions to FTAs, the area underneath the ROC 
+curve is 95 percent. Thus, the models provide excellent ﬂts in both cases. 
+7 Conclusions 
+One of the most notable international economic events of the past 20 years has been the pro- 
+liferation of bilateral FTAs, argued by some to be attributable to governments having pursued 
+a policy of \competitive liberalization." We have employed new comparative statics from a 
+simpliﬂed version of the numerical general equilibrium model of FTA economic determinants in 
+Baier and Bergstrand (2004) to suggest how the net welfare gains of an FTA between country i 
+and country j would be in by other FTAs { both those of i (or j) with other countries 
+{ due to \tariﬁ complementarity" { as well as those among other countries (say, k with l) { 
+due to competitive liberalization. Guided by these general equilibrium comparative statics, 
+we speciﬂed a simple logit (and probit) model to estimate the in on the likelihood of a 
+bilateral FTA between i and j of indexes for each country of \multilateral FTAs" and \ROW 
+FTAs" { in the spirit of Anderson and van Wincoop’s (2003) \multilateral resistance" terms. 
+We found that the marginal response probabilities of these indexes of \own-FTA" and \third- 
+country-pair-FTA" competitive liberalization eﬁects were both statistically and economically 
+signiﬂcant { and on the order of magnitude of the eﬁects of country-pairs’ GDP sizes on the 
+likelihood of two countries forming an FTA. Moreover, using a \Sensitivity-Speciﬂcity" analysis, 
+we determined the optimum cutoﬁ probability for predicting FTAs and the results indicated 
+that we could predict correctly an FTA (\No-FTA") when one existed (none existed) 91 percent 
+of the time. The results provide economically and statistically signiﬂcant evidence that \tariﬁ 
+complementarity" is at least as important as \competitive liberalization" as a source of the 
+growth of bilateralism. 
+References 
+Arkolakis, Costas, Arnaud Costinot, and Andres Rodriguez-Clare (2009), New trade models, 
+sam old gains?, National Bureau of Economic Research Working Paper No. 15628. 
+44 
+
+========45========
+
+Bagwell, Kyle, and Robert W. Staiger (1997), Multilateral tariﬁ cooperation during the forma- 
+tion of free trade areas, International Economic Review 38, 291-319. 
+Bagwell, Kyle, and Robert W. Staiger (1999), Regionalism and multilateralism tariﬁ co-operation, 
+in John Pigott and Alan Woodland (eds.), International Trade Policy and the Paciﬂc Rim, 
+New York: St. Martin’s Press. 
+Baier, Scott L. and Jeﬁrey H. Bergstrand (2001), The growth of world trade: Tariﬁs, transport 
+costs, and income similarity, Journal of International Economics 53, 1{27. 
+Baier, Scott L., and Jeﬁrey H. Bergstrand (2004), Economic determinants of free trade agree- 
+ments, Journal of International Economics 64, 29{63. 
+Baier, Scott L., and Jeﬁrey H. Bergstrand (2006), Bonus vetus OLS: A simple approach for 
+approximating international trade-cost eﬁects using the gravity equation, working paper. 
+Baier, Scott L., and Jeﬁrey H. Bergstrand (2009), Bonus vetus OLS: A simple approach for 
+approximating international trade-cost eﬁects using the gravity equation, Journal of Inter- 
+national Economics 77, no. 1, 77-85. 
+Baldwin, Richard E. (1995), A domino theory of regionalism, in Baldwin, Haaparanta, and 
+Kiander (eds.), Expanding Membership of the European Union, Cambridge, UK: Cambridge 
+University Press. 
+Baldwin, Richard E. (2007), The logic of trade blocs as building and stumbling blocks on 
+the road to global free trade: A survey, unpublished manuscript, Graduate Institute for 
+International Studies, January. 
+Baldwin, Richard E. and Roland Rieder (2007), A test of endogenous trade bloc formation 
+theory on EU data, CEPR Discussion Paper 6389. 
+Baldwin, Richard E. and Dany Jaimovich (2008), Are free trade agreements contagious?, un- 
+published manuscript, Graduate Institute for International Studies, November. 
+Bergstrand, Jeﬁrey, Peter Egger, and Mario Larch (2009), Economic Determinants of the Tim- 
+ing if Preferential Trade Agreement Formations and Enlargements, unpublished manuscript, 
+University of Notre Dame, September. 
+45 
+
+========46========
+
+Bernard, Andrew B., J. Bradford Jensen, Stephen J. Redding, and Peter K. Schott (2009), The 
+margins of U.S. trade (long version), U.S. Census Bureau CES 09-18 working paper. 
+Bond, Eric W., Raymond G. Riezman, and Constantinos Syropoulos (2004), A strategic and 
+welfare theoretic analysis of free trade areas, Journal of International Economics 64, 1-27. 
+Chamberlain, Gary (1980), Analysis of Covariance with Qualitative Data, Review of Economic 
+Studies 47, 225-238. 
+Cohen, Jacob, Patricia Cohen, Stephen G. West, and Leona S. Aiken (2003), Applied Multiple 
+Regression/Correlation Analysis for the Behavioral Sciences, Third Edition, Mahwah, New 
+Jersey, USA: Lawrence Erlbaum Associates. 
+Dixit, Avinash K. and Joseph E. Stiglitz (1977), Monopolistic competition and optimum prod- 
+uct diversity, American Economic Review 67, 297-308. 
+Egger, Peter and Mario Larch (2008), Interdependent preferential trade agreement member- 
+ships: An empirical analysis, Journal of International Economics 76, 384{399. 
+Estevadeordal, Antoni, Caroline Freund, and Emanuel Ornelas (2008), Does regionalism aﬁect 
+trade liberalization toward nonmembers?, Quarterly Journal of Economics 123, 1531-1575. 
+Fawcett, T. (2006), An introduction to ROC analysis. Pattern Recognition Letters 27, 861-874. 
+Feenstra, Robert C. (2009), Measuring the gains from trade under monopolistic competition, 
+National Bureau of Economic Research Working Paper 15593, December. 
+Frankel, Jeﬁrey A. (1997), Regional Trading Blocs. Institute for International Economics, 
+Washington, DC. 
+Freund, Caroline (2000), Multilateralism and the endogenous formation of preferential trade 
+agreements, Journal of International Economics 52, 359-376. 
+Freund, Caroline, and Emanuel Ornelas (2009), Regional trade agreements, unpublished manuscript, 
+London School of Economics. 
+Goyal, Sanjeev, and Sumit Joshi (2006), Bilateralism and free trade, International Economic 
+Review 47 749-778. 
+46 
+
+========47========
+
+Grossman, Gene, and Elhanan Helpman (1995), The politics of free-trade agreements, American 
+Economic Review 85, 667-690. 
+Heckman, James J., and B. Singer (1984), A method for minimizing the impact of distributional 
+assumptions in econometric models for duration data, Econometrica 52, 271{320. 
+Helpman, Elhanan, and Paul R. Krugman (1985), Market Structure and Foreign Trade. Cam- 
+bridge, MA: MIT Press. 
+Joyce, Joseph P. (2005), Time past and time present: A duration analysis of IMF Program 
+Spells, Review of International Economics 13, 283-297. 
+Kemp, Murray c., and Henry Y. Wan, Jr. (1976), An elementary proposition concerning the 
+formation of customs unions, Journal of International Economics 6 95-97. 
+Kennan, J., and Ray Riezman (1990), Optimal tariﬁ equilibria with customs unions, Canadian 
+Journal of Economics 23, 70-83. 
+Kiefer, Nicholas M. (1988), Economic Duration Data and Hazard Functions, Journal of Eco- 
+nomic Literature 26, 646{679. 
+Kowalczyk, Carsten, and Raymond Riezman (2009), Trade agreements, CESifo Working Paper 
+No. 2660. 
+Krishna, Pravin (1998), Regionalism and multilateralism: a political economy approach, Quar- 
+terly Journal of Economics 111, 202-226. 
+Krugman, Paul R. (1980), Scale economies, product diﬁerentiation, and the pattern of trade, 
+American Economic Review 70, 950-59. 
+Krugman, Paul R. (1991a), Is bilateralism bad? in Helpman, Elhanan and Assaf Razin, A. 
+(eds.), International Trade and Trade Policy. MIT Press, Cambridge, MA. 
+Krugman, Paul R. (1991b), The move toward free trade zones. Policy Implications of Trade 
+and Currency Zones, Federal Reserve Bank of Kansas City, Jackson Hole, WY. 
+Lancaster, Tony (1990), The Econometric Analysis of Transition Data. Cambridge, UK: Cam- 
+bridge University Press. 
+47 
+
+========48========
+
+Maddison, Angus (2009), Statistics on World Population, GDP and Per Capita GDP, 1-2006 
+AD. (http://www.ggdc.net/maddison/). 
+Mansﬂeld, Edward D. and Eric Reinhardt (2003), Multilateral determinants of regionalsim: The 
+eﬁects of GATT/WTO on the formation of preferential trading arrangements, International 
+Organization 57, 829-862. 
+McFadden, Daniel (1975), The revealed preferences of a government bureaucracy: Theory, Bell 
+Journal of Economics 6, 401{ 416. 
+McFadden, Daniel (1976), Quantal choice analysis: A survey, Annals of Economic and Social 
+Measurement 5, 363{ 390. 
+Ornelas, Emanuel (2005a), Trade-creating free trade areas and the undermining of multilater- 
+alism, European Economic Review 49, 1717-1735 
+Ornelas, Emanuel (2005b), Rent destruction and the political viability of free trade agreements, 
+Quarterly Journal of Economics 120, 1475-1506. 
+Ornelas, Emanuel (2005c), Endogenous free trade agreements and the multilateral trading 
+system, Journal of International Economics 67, 471-497. 
+Richardson, Martin (1993), Endogenous protection and trade diversion, Journal of Interna- 
+tional Economics 34, 309-324. 
+Wooldridge, Jeﬁrey M. (2002), Econometric Analysis of Cross Section and Panel Data. MIT 
+Press, Cambridge, MA. 
+Yi, S.-S. (1996), Endogenous formation of customs unions under imperfect competition: Open 
+regionalism is good," Journal of International Economics 41, 151-175. 
+Zissimos, Ben, 2009, Why are trade agreements regional?, unpublished manuscript, Vanderbilt 
+University, February. 
+8 Appendix A 
+(Not Intended for Publication) 
+48 
+
+========49========
+
+This appendix is designed to provide intuition for constructing MDISTi and MCONTi. It is clear from B-B and the above that the factors that tend to explain whether or not two 
+countries tend to have an FTA in a given year are the same factors that tend to explain their 
+bilateral trade values cross-sectionally. In the context of B-B, country pairs that have FTAs 
+in 1996 have \chosen well," as the pairs that have selected into agreements tend to have the 
+economic characteristics that suggest they will on net beneﬂt from an FTA { and they also have 
+large trade ws. In other words, country-pairs that select into bilateral FTAs tend to have 
+the same economic characteristics that determine the volume of their bilateral trade ws. 
+It is useful then to note that { in the spirit of Anderson and van Wincoop (2003) { the model 
+described earlier can be shown to yield the bilateral trade w between a pair of countries ij 
+as determined by: 
+ Xij = 
+YiYj tij¿ 
+¶1¡ij 
+Y 
+W 
+PiPj 
+(21) 
+where Xij is the (aggregate) bilateral trade w from i to j, Yi (Yj) is GDP, Y 
+W 
+is world GDP, and: 
+X 
+N 
+Pi = kP¡1k t1¡ik ¿1¡ik (22) 
+k=1 
+under the assumption of bilaterally symmetric trade costs (tij = tji, ¿ij = ¿ji).34 
+Variables Pi and Pj are interpreted in the model’s context as \multilateral price" terms. For instance, any factor tending to lower exporter i’s multilateral price Pi { such as the formation 
+of an FTA between i and some country k { will tend to increase trade between i and k, since 
+ > 1; an analogous rationale applies to Pj. Consequently, measures of Pi and Pj are useful. 
+Unfortunately, prices are endogenous in this general equilibrium model and measures of Pi 
+and Pj are simply not readily observed. A solution to this dilemma was oﬁered in Baier and Bergstrand (2006, 2009), which applied a ﬂrst-order log-linear Taylor-series expansion to the 
+N multilateral price terms Pi above and demonstrated that this linear approximation yielded a gravity equation: 
+ 
+Xij = 
+YiYj tij¿ 
+¶1¡ij 
+Y 
+W 
+ti¿itj¿ 
+:j (23) where lnti = 
+PN 
+klntik ¡ 0:5 
+PN PN 
+kllntkl, ln¿i = 
+PN 
+kln¿ik ¡ 0:5 
+PN PN 
+PN 
+k k l k k l 
+klln¿kl, lntj = klnt ¡ 0:5PN 
+PNkj 
+k 
+kllntkl, ln¿j = 
+PN 
+k l k 
+kln¿kj ¡ 0:5PN 
+PN 
+k l 
+klln¿kl, ln de- 
+34The model can also be solved in the case of bilaterally asymmetric trade costs; however, all the trade-cost variables in our empirical speciﬂcation later will be bilaterally symmetric, so we adopt this simpler speciﬂcation here. 
+49 
+
+========50========
+
+notes the natural logarithm operator, and k = Yk=Y 
+W 
+. In Baier and Bergstrand (2009), the expansion was centered around a \frictionless" world (tij = 1). 
+In most gravity-equation analyses of international trade ws, tij and ¿ij are unobservable. Typically, one assumes tij = DIST ANCE‰ij and ¿ij = e¡ˆF T Aij where DIST ANCEij denotes bilateral distance between i and j, F T Aij is a binary variable having a value of 1 (0) if an FTA 
+exists (does not exist), and e is the natural logarithm base, cf., Anderson and van Wincoop 
+(2003, 2004) and Baier and Bergstrand (2009). Consequently, observable multilateral mea- 
+sures of the log of DIST ANCE, DIST as in the text, for i and j (ignoring the t subscript), 
+respectively, are: 
+X 
+N 
+XN XN 
+MDISTi = kDISTik ¡ klDISTkl 
+k k l 
+(24) 
+and 
+X 
+N 
+XN XN 
+MDISTj = kDISTjk ¡ klDISTkl: 
+k k l 
+(25) 
+where the second RHS term in each equation is a constant. For completeness, we can deﬂne 
+also the multilateral (resistance) CONT terms: 
+X 
+N 
+XN XN 
+MCONTi = kCONTik ¡ klCONTkl 
+k k l 
+(26) 
+and 
+X 
+N 
+XN XN 
+MCONTj = kCONTjk ¡ klCONTkl: 
+k k l 
+(27) 
+where again the second RHS term in each equation is a constant. 
+Baier and Bergstrand (2006) also considered an expansion centered around a \symmetric" 
+equilibrium, i.e., tij = t and i = 1=N. Under this expansion, the variables above are simple averages, such as: 
+XN 
+MDISTi = 
+1 
+N 
+DISTik ¡ 
+1 
+XXN 
+N 
+k 
+N2 
+DISTkl (28) 
+k l 
+and analogously for the other variables. Thus, Baier and Bergstrand (2009) suggest theory-based 
+variables to re \remoteness" instead of the ad hoc variable REMOTE used in Baier and 
+Bergstrand (2004), Baldwin and Jaimovich (2008), Egger and Larch (2008), and Bergstrand, 
+Egger, and Larch (2009). 
+50 
+
+========51========
+
+
+========52========
+
+    Figure 4a: Hypothesis 4 (Competitive Liberalization) 
+                              
+Figure 4b: Hypothesis 5 (Tariff Complementarity) 
+                         
+
+========53========
+
+
+========54========
+
+
+========55========
+
+Figure 7a 
+Figure 7b 
+Figure 7c 
+
+========56========
+
+Figure 8a 
+Figure 8b 
+
+========57========
+
+Table 1a 
+Data Description  
+Percent of  Percent of  
+Integration Index  Count  Total  Subtotal  
+0 (None)  336,640  69.1  85.8  
+1 (1-way PTA)  33,821  7.0  8.6  
+2 (2-way PTA)  11,035  2.3  2.8  
+3 (FTA)  7,498  1.5  1.9  
+4 (Customs Union)  1,547  0.3  0.4  
+5 (Common Market)  1,085  0.2  0.3  
+6 (Economic Union)         643   0.1      0.2 
+Subtotal 392,269   ―  100.0  
+Missing observations    94,641     19.5    
+Total 486,910 100.0   
+aTotal observations are based upon 146 countries 
+ (146 × 145/2 = 10,585 pairings) for 46 years     (1960-2005).  Missing data refers  to country pairs where in a gi ven year one of two countries     did not officially exist.  See data source at  www.nd.edu/~jbergstr.   
+
+========58========
+
+Variables  
+Expected  
+Sign  
+(1)  
+(2)  
+(3)  
+Table 2a  
+(4)  
+(5)  
+(6)  
+(7)  
+(8)  
+(9)  
+(10)  
+(11)  
+(12)  
+(13)  
+                  
+DISTij  - -1.02*  -1.30*  -1.54*  
+(-59.26)  (-66.97)  (71.65)  
+-1.24*  (-46.42)  
+-0.72*  (-74.67)  
+-1.59*  (-77.35)  
+-1.59*  (-35.42)  
+-0.74*  (-86.64)  
+-0.70*  (-58.87)  
+― 
+― 
+― 
+― 
+                     
+MDISTij  + -2.95*  -1.39*  
+(-75.42)  (-37.37)  
+0.25*  (5.56)  
+-0.36*  (-6.08)  
+-0.03  (-1.40)  
+0.36*  (8.86)  
+0.39*  (4.32)  
+-0.44*  (-12.03)  
+-0.96*  (-18.63)  
+― 
+― 
+― 
+― 
+                   
+CONTij  + 1.71*  1.45*  1.65*  
+(50.78)  (41.53)  (40.72)  
+1.43*  (27.85)  
+0.85*  (45.68)  
+1.57*  (40.36)  
+1.54*  (18.74)  
+1.87*  (59.79)  
+1.79*  (41.36)  
+― 
+― 
+― 
+― 
+                   
+MCONTij  - -10.07*  -4.11*  
+(-67.73)  (-26.70)  
+-0.85*  (-5.10)  
+-2.40*  (-11.07)  
+-0.80*  (-9.79)  
+-0.48  (-5.93)  
+-0.90*  (-2.70)  
+-2.91*  (-19.79)  
+-4.12*  (-20.77)  
+― 
+― 
+― 
+― 
+                   
+SUMGDPij,t-5  +  
+―  0.80*  0.51*  
+(79.20)  (44.79)  
+0.49*  (34.54)  
+0.24*  (42.96)  
+0.48*  (32.85)  
+0.50*  (21.51)  
+0.37*  (39.00)  
+0.39*  (29.69)  
+3.20*  (14.08)  
+3.43*  (12.32)  
+2.81*  (6.05)  
+4.86*  (7.34)  
+                      
+DIFGDPij,t-5  -  ―  -0.56*  -0.51*  
+(-50.73)  (-40.67)  
+-0.42*  (-27.18)  
+-0.24*  (-40.12)  
+-0.47*  (-37.97)  
+-0.53*  (-20.72)  
+-0.44*  (-42.65)  
+-0.39*  (26.74)  
+0.40  (1.66)  
+0.16  (0.56)  
+-0.10  (-0.33)  
+-1.00*  (-2.41)  
+MFTAi,t-5(i≠j) 
+                      
+―  0.09*  0.02*  
++  
+― 
+(45.68)  
+(8.47)  
+0.05*  (45.18)  
+0.06*  (59.76)  
+0.09*  (23.37)  
+0.07*  (44.87)  
+0.01*  (5.80)  
+0.35*  (11.20)  
+0.84*  (10.36)  
+0.33*  (13.64)  
+0.97*  (13.13)  
+MFTAj,t-5(j≠i) 
+                
+―  0.12*  0.05*  
++  
+― 
+(57.17)  
+(19.48)  
+0.06*  (56.13)  
+0.06*  (61.83)  
+0.11*  (27.78)  
+0.09*  (55.24)  
+0.04*  (17.14)  
+0.45*  (11.56)  
+0.88*  (10.90)  
+0.36*  (13.33)  
+0.84*  (12.41)  
+ROWFTAij,t-5  +  
+                    
+―  0.0004*  0.002*  
+― 
+(9.71)  
+(26.31)  
+0.0002*  (12.45)  
+0.22*  (31.01)  
+0.0004*  (5.32)  
+0.00004  (0.90)  
+0.001*  (25.56)  
+0.009*  (22.97)  
+0.01*  (20.86)  
+0.01*  (22.42)  
+0.01  (1.03)  
+                    
+CONSTANT  -116.17* -50.03*  
+(-60.61)  (-24.99)  
+-13.69*  (-6.31)  
+-33.08*  (-11.82)  
+-11.27*  (-10.67)  
+-6.01*  (-14.13)  
+-14.90*  (-3.44)  
+-41.27*  (-21.76)  
+-55.69*  (-4.83)  
+― 
+―        ―        ― 
+                       
+Pair Fixed Ef.  Yr Dummies  
+ No  No  
+No  No  
+No  No  
+No  No  
+No  No  
+No  No  
+No  No  
+No  No  
+No  No  
+Yes  No  
+Yes  No  
+Yes  Yes  
+Yes  Yes  
+10,478 2,490 10,478 3,811 10,478 3,811 10,478 3,811  
+Random  Prob.  
+                       No. Observ.    358,767 358,767 358,767 352,002 358,767 358,767  77,059  358,767 352,002 358,767 352,002 358,767 352,002  No. Pos. Obs.    10,478  10,478  10,478  3,811  10,478  
+No. Neg. Obs.    348,289 348,289 348,289 348,191 348,289 348,289  74,569  348,289 348,191 348,289 348,191 348,289 348,191  
+  0.029 0.029 0.029 0.011 0.029 0.029 0.032 0.029 0.011 0.029 0.011 0.029 0.011  
+log-likelihood  
+Pseudo R2     0.39 0.46 0.56  0.34 0.57 0.56 0.56  0.54 0.32 0.80 0.73    0.87 0.85  
+-28,953 -25,359 -20,663 -13,860 -20,587 -20,759  -4,792  -21,832 -14,260  -2,294  -2,034    -1,525    -1,142  
+a*denotes statistical significance in one-tail t-test (or z-test) at 1 percent level.  
+
+========59========
+
+ Table 3a 
+Natural Trading Partners 
+Existence 95% Confidence Interval Percentage 
+P(FTA_t=1| 0.1031 0.0995 0.1068  Points 
+   CONT=1)= Pr(FTA=1|X+ σ) 
+Pr(FTA=1|X-σ) Pr(FTA=1|X+95% C.I. 95% C.I.σ)   -Pr(FTA=1|X) DIFGDP 0.1494 0.1437 0.1551 0.0706 0.0678 0.0734 -0.0325 SUMGDP 0.0716 0.0688 0.0744 0.1474 0.142 0.1529 0.0443 DIST 0.1709 0.1648 0.1769 0.0612 0.0589 0.0636 -0.0419 MDIST 0.0982 0.0943 0.1021 0.1083 0.1041 0.1124 0.0051 MCONT 0.1078 0.1036 0.112 0.0986 0.0948 0.1025 -0.0045 MFTAi 0.0812 0.0782 0.0841 0.1306 0.1259 0.1353 0.0275 MFTAj 0.0766 0.0738 0.0794 0.1381 0.1332 0.143 0.035 ROWFTA 0.0966 0.0929 0.1002 0.1101 0.106 0.1142 0.007 MFTAi* 0.0989 0.0954 0.1024 0.1075 0.1037 0.1113 0.0044 MFTAj* 0.098 0.0945 0.1014 0.1085 0.1047 0.1124 0.0054 ROWFTA* 0.1031 0.0994 0.1067 0.1032 0.0995 0.1068 0.0000 σ=1 S.D. for (first 9 variables); σ=count of 1 for MFTAi* and MFTAj*, σ =count of 2 for  ROWFTA* 
+ Table 3b 
+Unnatural Trading Partners 
+Existence 95% Confidence Interval Percentage 
+             P(FTA_t=1| 0.0066 0.0061 0.0071  Points 
+  CONT=0)= Pr(FTA=1|X+ σ) 
+Pr(FTA=1|X-σ) Pr(FTA=1|X+95% C.I. 95% C.I.σ)  -Pr(FTA=1|X) DIFGDP 0.0133 0.0122 0.0143 0.0032 0.0029 0.0034 -0.0034 SUMGDP 0.0032 0.003 0.0035 0.013 0.012 0.014 0.0064 DIST 0.0171 0.0158 0.0183 0.0024 0.0022 0.0026 -0.0042 MDIST 0.006 0.0055 0.0065 0.0072 0.0066 0.0078 0.0006 MCONT 0.0072 0.0066 0.0078 0.006 0.0055 0.0065 -0.0005 MFTAi 0.0041 0.0038 0.0045 0.0103 0.0095 0.0111 0.0037 MFTAj 0.0037 0.0034 0.004 0.0115 0.0106 0.0123 0.0049 ROWFTA 0.0058 0.0053 0.0063 0.0075 0.0069 0.008 0.0009 MFTAi* 0.0061 0.0056 0.0065 0.0071 0.0066 0.0077 0.0005 MFTAj* 0.006 0.0055 0.0064 0.0073 0.0067 0.0078 0.0007 ROWFTA* 0.0066 0.0061 0.0071 0.0066 0.0061 0.0071 0.0000 σ=1 S.D. for (first 9 variables); σ=count of 1 for MFTAi* and MFTAj*, σ =count of 2 for  ROWFTA* 
+
+========60========
+
+Table 4a 
+The following predictions are from Logit, MFTA count regression, with years in multiples of 5 only. Independent variables are in t-5. 
+Correctly Predict FTA Existence in year t (FTA_t=1 ) using MFTA and ROWFTA variables 
+Cutoff from Sens,Sp TrueNeg.Rate=97% TrueNeg.Rate=99% Prob. Cutoff at 50% 
+Percent  Correctly  Percent  Correctly  Percent  Correctly  Percent  Correctly  
+Year t Correct Predicted Correct Predicted Correct Predicted Correct Predicted Observed 1960 83.87 26 38.71 12 30.96 1 3.23 1 31 1965 75.44 43 56.14 32 56.98 6 10.53 6 57 1970 82.93 34 65.85 27 19.51 8 17.07 7 41 1975 86.54 90 62.50 65 22.12 23 21.15 22 104 1980 88.46 92 84.62 88 56.73 59 56.73 59 104 1985 87.22 116 75.94 101 46.62 62 45.86 61 133 1990 94.30 149 81.65 129 57.59 91 56.96 90 158 1995 93.96 280 76.85 229 45.97 137 44.30 132 298 2000 91.79 570 76.17 473 50.40 313 50.08 311 621 2005 91.94 867 76.78 724 51.64 487 51.22 483 943 Total 91.04 2267 75.50 1880 47.67 1187 47.07 1172 2490 
+Cutoff 0.039 0.1344 0.49 0.5 
+Table 4b   
+The following predictions are from Logit, (No-MFTA) count regression, with years in multiples of 5 only. Independent variables are in t-5. 
+Correctly Predict FTA Existence in year t (FTA_t=1 ) without MFTA and ROWFTA variables 
+Cutoff from Sens,Sp TrueNeg.Rate=97% TrueNeg.Rate=99% Prob. Cutoff at50% 
+Percent  Correctly  Percent  Correctly  Percent  Correctly  Percent  Correctly  
+Year t Correct Predicted Correct Predicted Correct Predicted Correct Predicted Observed 1960 100.00 31 90.32 28 51.61 16 41.94 13 31 1965 89.47 51 61.40 35 29.82 17 26.32 15 57 1970 97.56 40 73.17 30 48.78 20 41.46 17 41 1975 95.19 99 81.73 85 45.19 47 38.46 40 104 1980 98.08 102 82.69 86 47.12 49 43.27 45 104 1985 98.50 131 81.95 109 43.61 58 38.35 51 133 1990 98.10 155 83.54 132 44.94 71 40.51 64 158 1995 98.32 293 79.19 236 40.94 122 34.23 102 298 2000 88.24 548 63.93 397 29.95 186 25.76 160 621 2005 79.53 750 51.86 489 23.33 220 21.00 198 943 Total 88.35 2200 65.34 1627 32.37 806 28.31 705 2490 
+Cutoff 0.027 0.1368 0.45 0.5 
+
+========61========
+

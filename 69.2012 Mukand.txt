@@ -1,0 +1,1885 @@
+January 2012 
+             No.69 
+Globalization and the (Mis)Governance of Nations 
+Arthur Blouin, Sayantan Ghosaland Sharun W. Mukand 
+University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Globalization and the (Mis)Governance of Nations 
+Arthur Blouin, Sayantan Ghosalyand Sharun W. Mukand 
+zx 
+University of Warwick 
+Department of Economics 
+Coventry, MA 02155 
+This version: December 2011 
+email: A.T.Blouin@warwick.ac.uk 
+yemail: S.Ghosal@warwick.ac.uk 
+zCorresponding author. email: S.Mukand@warwick.ac.uk 
+xEarlier versions of this paper has bene from comments by Douglas Gale, Jonathan Eaton, Parikshit Ghosh, Dani 
+Rodrik, Anandi Mani and Alwyn Young as well at participants in numerous seminars. 
+1 
+
+========2========
+
+Abstract 
+We analyze whether or not the globalization of capital, `disciplines’ governments and improves gov- 
+ernance. We demonstrate that globalization a governance, by increasing a country’s vulnerability 
+to sudden capital ight. This increased threat of capital t can discipline governments and improve 
+governance and welfare by placing countries in a `golden straitjacket’. However, globalization may also 
+`overdiscipline’ governments { resulting in a perverse impact on governmental incentives that catalyzes 
+(mis)governance. Accordingly, the paper suggests a novel (and quali role for capital controls. Finally, 
+we provide some suggestive evidence consistent with the predictions from our theoretical framework. 
+Keywords: Globalization, Governance; Capital Flight; Capital Controls, Discipline. 
+JEL Classion Codes: F55; F36. 
+
+========3========
+
+1 Introduction 
+The last several decades have witnessed dramatic reductions in the cost of moving capital across countries. 
+Moreover, the resulting globalization of capital has been accompanied by a transformation in the practice 
+of policymaking and governance (Rodrik, 2011). In this paper we analyze the impact of this globalization 
+of capital on the quality of a country’s governance. We ask, does the threat of capital t constrain 
+and `discipline’ governments and improve governance? Or is the exacerbated threat of capital t 
+that accompanies globalization, a stick that goes too far resulting in (mis)governance? In analyzing this 
+relationship between governance, institutional quality and globalization, our paper throws further light 
+on aspects of the design of international  architecture. In particular, should countries encourage 
+the free w of capital and information? Or do capital controls have a place in the policymaker’s toolbox? 
+The relationship between the forces of globalization and governance has received considerable attention 
+in recent years. On the one hand we have the view exempli by Summers (2000), Obstfeld (1998) who 
+argue that in a globalizing world where information is freely available and capital is mobile, governments 
+are forced to get disciplined and governance is improved.1 Indeed recent work by Kose, Prasad, Rogo 
+and Wei (2009) and Mishkin (2007) suggests that the main bene from the globalization of capital 
+ws are `collateral’ such as improved market discipline and good governance. In contrast, a much more 
+skeptical view about globalization’s impact on governance is held by Rodrik and Subramaniam (2009), 
+Stiglitz (2010) and Krugman (1999). Indeed they argue that the globalization of capital ows may provide 
+the wrong incentives to government and result in indiscipline and (mis)governance. These two sharply 
+di views on the incentive e of globalization have been hard to reconcile. In part this is because 
+the relationship between globalization and good governance is a complex one and the empirical evidence 
+on this issue (such as there is) is mixed.2 In this paper we provide both a conceptual framework that 
+helps us think systematically about these diverging viewpoints and empirical evidence in support of the 
+mechanism through which globalization a governance. 
+The theoretical framework has two key features. First, we allow for a country’s institutions of gover- 
+1Obstfeld (1998) argues that \the main potential positive role of international capital markets is to discipline policymak- 
+ers.". This view is exempli in Thomas Friedman’s (2000) book on globalization where he argues the international capital market puts countries in a \golden straitjacket" and constrains the worst excesses of governments and enacts policies that are socially optimal, in turn rewarding them with capital inws. 
+2For instance, Tytell and Wei (2004) argue that despite its theoretical plausibility it is di to ` robust and strong causal evidence’. 
+1 
+
+========4========
+
+nance to be imperfect. A state’s capacity to precommit and implement et policies may be incomplete 
+(Besley and Persson, 2011). In particular, we build on Tirole (1994) and Dewatripont and Maskin (1995) 
+to identify an ine that we argue, lies at the heart of all decision making within government - an 
+inability for governmental actors to precommit to enacting et policies. However, our framework also 
+allows for another commitment problem - this time with respect to investors. In particular, we assume 
+that investors are unable to precommit to retaining investment in the host country. In other words, 
+in light of new information, investors may either keep their investment or engage in capital ght. We 
+analyze the impact on governance of the globalization of capital in the context of these twin commitment 
+problems. 
+Our framework demonstrates that decision making within government is often characterized by a soft 
+budget constraint. The government-policymaker persists in backing projects (or businesses) that are often 
+characterized by low e budget overruns and low productivity. In this context, the globalization of 
+capital (driven by the lower costs of international capital mobility) can exacerbate the threat of capital 
+t. The paper demonstrates that the key relationship to be analyzed is how this increased threat of 
+capital t ats the incentive problem that plagues much of governmental decision making. On the 
+one hand, we show that the exacerbated threat of capital t may constrain the set of actions taken by 
+the government. Indeed, in doing so, the globalization of capital may shackle governments in a `golden 
+straitjacket’, and have a positive \incentive" e on decision making within government. This may 
+suggest that the standard view about the disciplining role of globalization is indeed correct. However, our 
+analysis suggests a more nuanced view is in order. It is not merely the increased threat of capital t 
+that accompanies the globalization of capital that is of relevance. Rather we argue, that the impact of 
+globalization on incentives within government, depends on the structure of the country’s economy. If the 
+country has strong economic fundamentals (for e.g. due to a structurally diversi export sector) and 
+is less sensitive to random shocks in the global economy, then globalization is likely to have a positive 
+incentive ect. The globalization of capital works as a `discipline’ device so long as capital t is mainly 
+triggered o by actions within government and not due to the volatility of the global economy. In contrast, 
+if random changes in the external environment have the potential to trigger capital ight, then this may 
+have perverse e In this case, the threat of capital ght overdisciplines governments, resulting in a 
+negative \incentive" e and mis-governance. This is a striking implication since it suggests that the 
+impact of globalization on governance can go either way. 
+2 
+
+========5========
+
+We further analyze the impact on national welfare of this globalization of capital. We begin by 
+characterizing the second-best welfare benchmark where there is no ine in government decision 
+making. Globalization lowers the cost of capital mobility, making capital t relatively easy. Therefore, 
+this globalization makes a country vulnerable to capital t, especially when the economy is not doing 
+well. We show that this inability to \capture" foreign investment at high levels of global integration, 
+always adversely a national welfare. We then go on to describe the welfare impact of globalization, 
+relative to this second-best welfare benchmark. We show that the impact of globalization on welfare is 
+through the \incentive" e of good governance. However, this incentive e depends on the structure 
+of the country’s economy. Globalization is likely to improve welfare if a country is less vulnerable to 
+random shocks either because it is relatively developed, or has a diversi export sector. In other words, 
+if this globalization makes the country vulnerable to the threat of capital t mainly when there is 
+ine in government, then the incentive e improves welfare. In contrast, this incentive e 
+has a negative impact on welfare, if the country has weak fundamentals - (for e.g., specializes in exporting 
+mining or primary goods that su from volatility) or faces a weak and volatile global economy. In these 
+situations, globalization lowers welfare by having a negative incentive e on governance - due to the 
+country being made vulnerable to the threat of unwarranted capital t - i.e. independent of the actions 
+of policymakers within government. 
+In a globalized world, governments are vulnerable to exogenous and sudden shifts in investor sentiment. 
+A crisis in another country can make a country directly increase uncertainty in  markets. Such 
+an increase in global uncertainty has an unambiguously negative impact on the quality of bureaucratic 
+governance. We further show that this adverse impact on governance is much higher in countries with 
+low bureaucratic state-capacity (see Besley and Persson, 2011). Furthermore, countries with high state 
+capacity are much less likely to use capital controls as a tool to mitigate the adverse impact on bureaucratic 
+incentives. We use these theoretical predictions to guide our empirical analysis. In particular, we use 
+the Mexican currency crisis of 1994 as a natural experiment which results in an increase in uncertainty 
+in international  markets. A prediction of our theoretical framework is that the impact of this 
+greater uncertainty on governance should be highest for those countries that are perceived to be `similar’ 
+to Mexico and have relatively weak institutional `state capacity’. Indeed, we  suggestive evidence 
+consistent with this prediction. 
+The issue of the appropriateness of capital controls has been central to the debate on the design 
+3 
+
+========6========
+
+of international cial architecture. The position of the IMF for most of the past two decades has 
+been quite clear - a country would only be able to reap the gains of  globalization, if capital 
+controls were reduced or eliminated.3 This view has been echoed by economists such as Edwards (1999), 
+Dornbusch (1998) among others. In contrast, Rodrik (1998), Bhagwati (1998), Eichengreen (1999) are 
+much more sympathetic to the idea of imposing restrictions on capital mobility. Indeed recently, the 
+IMF Sta Position Paper (2010) also suggests a turnaround in that it argues that under some conditions 
+capital controls can well be part of a policymaker’s toolkit. This picture is further muddied by the 
+fact that the empirical evidence does not provide us with a clean answer. We argue that the absence of 
+consensus (both at a theoretical and empirical level) on the usefulness of capital controls is understandable 
+as arguments made by both the proponents as well as critics of the use of capital controls may be of 
+relevance. Two factors are important - the quality of a country’s institutional state capacity as well 
+as the overall uncertainty in the external economic environment. Arguments for controls are strongest 
+perhaps when the country’s institutional state capacity are relatively weak and the country is vulnerable 
+to capital t arising from an uncertain and volatile global economic environment. We should also 
+emphasize that our paper has identi a very distinct argument for the quali use (and abolition) of 
+capital controls - namely how the threat of capital t may adversely e (or improve) the incentives 
+for good governance. 
+Related Literature: There is a small but growing literature that examines the link between governance 
+and the globalization of capital. In the context of  federalism, Qian and Roland (1996) use an 
+incomplete contractual structure to show that governments have a tendency to bail out failing state 
+enterprises. In this context they show that federalism by encouraging competition may discipline regional 
+governments by punishing corrupt governments with capital t. Cai and Treisman (2005) examine 
+how the increased competition to attract international capital that globalization entails, may discipline 
+governments. However, they argue that this `disciplining’ e is driven by the assumption of countries 
+having dit resource endowments, be it capital, human capital or infrastructure. In contrast, we 
+3As late as 1997, the IMF Interim Committee argued that \the liberalization of capital ws is an essential element 
+of an eient international monetary system in this age of globalization". This is quoted from Rodrik (2011) who has a fascinating discussion about the debate within the IMF and the larger historical context in which it takes place. Indeed Rodrik (1999) quotes the IMF’s World Economic Outlook from October 98 to argue that \[T]he introduction by Malaysia in early September of exchange and capital controls may also turn out to be an important setback not only to that country’s recovery and potentially to its future development, but also to other emerging market economies that have su from heightened investor fears of similar actions elsewhere". 
+4 
+
+========7========
+
+argue that the threat of capital t may have a very dit impact on governance even if countries 
+have the same resource endowments, productivity and state capacity. We show that small di 
+in the nature of the uncertainty in a country’s economic environment alone can result in lower costs of 
+international capital mobility. 
+Ju and Wei (2011) emphasize the two way relationship between international capital ws and the 
+strength of domestic institutions. However, their main focus is on the implications of globalization 
+on a complementary set of institutions - corporate governance and the  system rather than 
+ine to decision making within government and the bureaucracy. Tressel and Verdier (2007) 
+argue that the liberalization of capital is often an endogenous decision that has been carried out with 
+the collusion of foreign banks and investors - often to the detriment of the governance of the domestic 
+ system. Both the scope and notion of globalization and governance is quite dit from 
+what we have in this paper. Besley and Smart (2002) show that the impact of greater competition for 
+mobile capital depends on the `type’ of politician-policymaker in o Chang (2011) examines how 
+the globalization of short run capital mobility often interacts with elections and magni the impact of 
+exogenous shocks. While our paper is more about decision making within government, we should note 
+that political economy considerations can exacerbate the magnitude of ine in decision making 
+within government. Mukand (2006) uses a signaling model, where a policymaker’s choice of policy to 
+show that governments have an incentive to play the `con game’ and enact inet policies in 
+order to attract mobile capital. Similarly, Bartolini and Drazen (1997) also use a signaling model to 
+explore the implications of capital account liberalization as an indicator of future policies. 
+The rest of the paper is organized as follows. We describe the model in Section 2 and analyze the 
+equilibrium in Section 3. Welfare analysis and other implications of the model are discussed in Section 4. 
+Section 5 outlines empirical evidence supporting the model and Section 6 concludes. 
+2 Description of the Model 
+Before we describe the model in detail, we begin by describing the key features of our framework. 
+(i) There exists a symbiotic relationship between the government and foreign investors. The government 
+supplies a public good that augments the returns to foreign investment. In turn, foreign capital by 
+employing domestic factors, enhances national welfare. 
+(ii) We distinguish between the policymaker-government and the bureaucrat or public sector (or banking 
+5 
+
+========8========
+
+sector) manager, with the manager-bureaucrat being in charge of actual implementation of the public 
+project. An incomplete contractual structure ensures that the government cannot commit the bureaucrat 
+to choose the et action. The productivity of this public project determines the private returns to 
+the export sector. 
+(iii) We consider a small open economy, where the export sector produces a good that is sold on the 
+world market. We are interested in capturing the resilience of the country’s economy to global shocks in a 
+parsimonious way. Accordingly, we focus on the volatility of earnings of the export sector. For instance, 
+if the economy specializes in exporting mining or primary products, then its export revenue is likely to 
+be vulnerable to volatility. In contrast, if the economy is strong and well-diversi then shocks to good 
+prices in the world economy have much smaller impacts on the volatility of the revenue of this export 
+sector. Therefore, countries with strong fundamentals are assumed to have well diversi export sectors 
+and are less sensitive to random shocks to the global economy. We should emphasize that we choose this 
+particular interpretation merely for the expositional convenience of our formal model. 
+(iv) A representative foreign investor invests capital in a private project in the export sector of the host 
+country which require two stages to set up. At the second stage, the investor has to decide whether to 
+withdraw capital or whether to rollover the initial investment made. The investor observes the return 
+from its investment in the export sector prior to the rollover decision. The observed return depends on 
+both bureaucrat e and global shocks. Globalization decreases the cost of withdrawing capital at the 
+rollover stage to the foreign investor. 
+Governance: The Government and the Bureaucrat - The policymaker-government maximizes 
+the return to domestic factors. Therefore, it attempts to attract foreign investment in the export sector, 
+which through its employment of domestic factors, boosts national income.4 The government can choose 
+to initiate a public infrastructure project that a the returns to foreign investment. The infrastructure 
+can be of varying quality - high or low. Completion of the public project requires investment at two points 
+in time. There is an initial startup cost C1 and a project completion cost Cc. Therefore the government’s 
+welfare is a function of total output net of all project completion costs i.e. WY = Y 
+ (C1 + Cc) where 
+Y is additional revenue generated by foreign investment in the export sector economy and  is the share 
+4By assumption we rule out outright expropriation to avoid complicating our analysis with sovereign debt issues. Not only 
+are these issues well-understood (Eaton and Fernandez, 1995), but also outright expropriation is rarely observed. However, in our analysis, a bad realization of the public good is like an implicit tax/expropriation. 
+6 
+
+========9========
+
+of that revenue that accrues to the government as public revenue. 
+The government delegates to a bureaucrat, the actual implementation of the public infrastructure 
+project that determines the returns to investment.5 The bureaucrat’s e choice e 2 [0;1] is unobserv- 
+able. The disutility from e 
+(e) is increasing (higher e is costly) and convex in e. For simplicity 
+of exposition, we assume that the bureaucrat’s choice of e e results in infrastructure of productivity 
+e. 
+In addition to the disutility of e the bureaucrat gets a private, non-appropriable utility  from 
+completion of the public project. The idea is that the bureaucrat gets some bene from the continuation 
+of the project and the government cannot complete the project without the bureaucrat. As Dewatripont 
+and Maskin(1995) point out, this gain can be in terms of any private, non-appropriable payo including 
+additional perks or any human capital gain from increased use of the technology. Hence the bureaucrat’s 
+utility function is given by: UB =  
+ 
+(e) where  >   (1) > 0 if the public project is completed and 
+zero otherwise and 
+(e) is a (weakly) convex function of e with lime!0 
+0(e) = 0.6 
+Investment, Capital Flight and Globalization: 
+Investment takes place in a single private  in 
+the export sector that requires an initial capital investment (normalized to one unit) which has to last 
+two periods before yielding output and a return. Output is a function of the initial investment made as 
+well as the productivity of the public good. This opportunity to invest is given to a group of identical 
+risk neutral investors. Without loss of generality, we assume that decision-making within the group is 
+delegated to an individual who maximizes aggregate group pro7 This group of investors can raise 
+the initial capital investment at a per unit cost R. While the investment is for two periods, investors do 
+receive interim information (the revenue generated by the project), that tells them whether to liquidate 
+and withdraw their capital from the country, or to retain it in the project. 
+The initial unit of capital invested in the export sector yields Y units of revenue two periods later, 
+where Y = e. We take  to be an exogenous shock distributed on [0;1] that a according to the pdf 
+f(). This variable can be interpreted as a shock to global prices of the export sector good that may arise 
+5It is useful to keep in mind that in our analysis a low productivity outcome of the public good, is isomorphic to the case 
+of a cost overrun in the provision of the public good, where the cost overrun and the associated de results in a higher marginal tax on foreign investment. 
+6The incomplete contractual structure is based on Dewatripont and Maskin(1995) and Tirole(1994). 
+7Our assumptions imply that investors coordinate their withdrawal decisions. Therefore, we do not consider issues of investor coordination failure because we want to focus on a dit, if complementary, set of reasons why a country might want to impose capital controls. 
+7 
+
+========10========
+
+out of unexpected changes in demand or supply in the global economy. Therefore, if the investment in the 
+export sector project lasts the entire two periods, the aggregate payo to the investors is (1 
+ )Y 
+ R. 
+In contrast, if the investment is liquidated early, it will be taken out of the country yielding a (normalized) 
+return of 1 per unit of capital initially invested. In this case if the investment is terminated early (i.e. in 
+one period), and the capital is withdrawn and invested abroad, the aggregate group payo is 1 
+ cw 
+ R 
+where cw  0 is the (additional) cost of moving capital across international borders when the project is 
+terminated early, essentially the cost of short-term movements of capital across national boundaries. 
+Given enough time, capital is always movable across borders - whether or not there are explicit 
+restrictions on capital ws. However, what is truly distinctive of the nature of capital ws over the past 
+few decades has been the dramatic reductions in the barriers to the movement of capital across borders, 
+especially in the short run. This has resulted in the globalization of capital and the possibility of sudden 
+capital t. Accordingly, we focus on the globalization arising out of a reduction in the immediate 
+short-run cost of moving capital across international borders. This reduction in the cost cw, can be driven 
+by a combination of technological and policy related factors. For example, a policy change that results 
+in a reduction in capital controls reduces barriers mainly to short-run mobility of capital. Indeed, given 
+our focus on the impact of capital t on `discipline’, our analysis focuses on the impact of changes in 
+capital controls. 
+Alternatively, these changes in capital controls may work in conjuction with a combination of tech- 
+nological (or institutional) factors that may also a the cost of short term capital movements. These 
+factors would include any and all factors that a the degree of  integration of a country with 
+the global economy that can in ect be treated as a parameter - from the overall availability of infor- 
+mation, the level of development or the geographical proximity to major cial centers and so on. For 
+simplicity, in much of what follows we interpret an increase in globalization as a reduction in cw arising 
+out of technological changes. However, in Section 4 we will also explicitly consider the role of capital 
+controls, when we take cw to be a choice variable of the government-policymaker. Neither formulation 
+changes in a qualitative way the results that we highlight. 
+Information and the Timing of Decisions: Since investors care about the expected returns on 
+their investment, any information on the productivity of the public infrastructure project would be at a 
+premium. We assume that if there is an initial investment in the project, before deciding whether or not 
+to rollover the project, each investor observes the expected returns to the private investment project (i.e. 
+8 
+
+========11========
+
+the export sector) Y but does not observe either e or  separately. 
+The timing of the game is as follows: 
+1. The government makes the decision of whether to initiate the public infrastructure project by incurring 
+the initial setup cost C1. At this stage the government also (when it is a parameter) observes the value 
+of cw. Similarly, if it is interpreted as a choice variable, then the policymaker chooses cw (as in capital 
+controls). 
+2. The foreign investor group chooses whether or not to invest one unit of capital in the investment 
+project in the export sector of the host country- that takes two periods to mature. 
+3. The bureaucrat then makes an (unobservable) e choice e that determines the productivity of the 
+public project and hence, revenue from the investment project. 
+4. In the next stage, investors observe the overall returns and proy of investment in the export sec- 
+tor project Y and the representative investor decides whether or not to withdraw or retain the investment 
+in the country. 
+5. The government chooses whether it wants to abandon or complete the public project by paying the 
+completion cost Cc after observes the productivity of the public project as well as the returns to the 
+private export sector. 
+6. If the project is completed, the public infrastructure productivity is realized. This determines private 
+sector output and the returns to investment for foreign investors. 
+In the following sections, we solve the above game of incomplete information backwards. 
+We will solve the model over the following two sections. In section 3, we will characterize the link 
+between the threat of capital withdrawal and bureaucrat’s e choice. This section is, thus, devoted 
+to the study of the impact of globalization (viewed in terms of costs of withdrawing capital) on the 
+disciplining of nations. In section 4, we will characterize decisions that determine whether the project is 
+initiated and not prematurely liquidated. The focus in this section will be on examining the consequences 
+of changes in the cost of suddenly withdrawing capital from a country on its national welfare. 
+3 Governance and Capital Flight: The Framework 
+In this section we solve for our equilibrium and highlight aspects that are of interest. For the moment, 
+we assume that the government lacks state-capacity - in that it is unable to commit the bureaucrat to 
+choose the est level of e 
+9 
+
+========12========
+
+3.1 Capital Flight and the Soft Budget Constraint 
+Governments often face a dilemma with regard to the  of projects - be it public sector cost 
+overruns or nancial bail outs for the banking sector. Indeed the inability to cut-o funding of projects 
+that are doing badly has long term adverse incentive e We analyze the conditions under which such 
+ine may arise in our framework. First, note that if the revenue from the export sector project is 
+Y , the government will complete the public sector project if and only if the payo from doing so exceeds 
+the project completion cost, i.e. if 
+Y  Cc: 
+Recollect that the share of total revenue that enters the government’s payo (e.g. weight on the domestic 
+sector) is given by . Accordingly, if Cc  0, the government can never commit not to complete the 
+project. We show that this possibility, when the cost of project completion is low, results in a soft budget 
+constraint8. 
+Next, we turn to the decision of the representative investor to keep the money within the country 
+or to withdraw it. In our model, the representative investor cannot credibly precommit to keep money 
+within the country. If the economic environment deteriorates, the investor will pull investment out of 
+the country and there will be capital t. Whether or not the representative investor actually engaged 
+in capital t depends on whether the productivity of the investment project is high enough. We now 
+calculate the critical threshold value such that there is capital ight if productivity is below this threshold 
+and not otherwise. 
+At the time when investors have to make the decision of whether to retain or withdraw their initial 
+investment in the private sector export project R, this cost is `sunk’ and does not enter the private investor 
+calculus. This implies that the representative investor will withdraw his capital i the continuation value 
+of capital t, 1 
+ cw, is greater than the expected continuation value of retaining the investment in the 
+8Kornai(1980) was the  to observe the soft budget constraint in the context of socialist and transition economies. 
+Public sector enterprises as well as the banking sector(Cho & Kim(1995) and Borensztein & Lee(1998)) have been plagued by the soft budget constraint. In this paper we have chosen a model where poor incentives for a bureaucrat generates ine This is because of two reasons -  it is the simplest way to emphasize the underlying incentive problem without detracting from the focus on information and second, because we can easily re-interpret the model as being applicable to a variety of economic scenarios. These include the case of a public sector plagued with cost overruns and  de arising out of an incomplete contractual structure with a public sector manager or ine amongst various branches of government (see Alesina and Perotti (1996)). Furthermore, (with modi the bureaucrat can be thought of as the manager of a banking sector plagued by a soft budget constraint, which results in bad loans. 
+10 
+
+========13========
+
+project, (1 
+ )Y . In other words, on observing that the returns are Y , the investor will not engage in 
+capital t and keep the investment in the country if and only if: 
+(1 
+ )Y  1 
+ cw 
+or equivalently, 
+Y  Y = 
+1 
+1 
+ cw:   
+(1) 
+Therefore, the initial unit of investment will be retained in the country i the productivity of the public 
+sector project is higher than some threshold value - we label it the investor’s capital  threshold.9 
+Further, observe that the investor’s capital t threshold is itself decreasing in the cost of withdrawing 
+capital cw. In other words the higher is the short-run cost of withdrawing the capital cw (lower Y), the 
+more likely it is that foreign investors will roll over the investment and retain it in the country. At one 
+extreme when cw > 1, the representative investor never withdraws her investment so that the threat of 
+capital t is an empty one. At the other extreme if the cost of withdrawing capital is very low so that 
+1 
+ cw > 1 
+ , equivalently  > c 
+w, the investor will always withdraw: in this case, capital ght will 
+occur with probability one. 
+3.2 (Mis)Governance, Capital Flight and Bureaucratic E 
+We now examine how the threat of capital t a the quality of governance (i.e. bureaucrat e 
+In particular, for any given e level e, the bureaucrat will compute the probability that the gov- 
+ernment (su from a soft budget) will continue with the infrastructure project. This probability is 
+given by, 
+Pr(e  Y ) = Pr(  
+Y 
+e 
+) = 1 
+ F(Ye ) 
+i.e. for any given level of e e the probability that the productivity of the investment project will 
+exceed the capital t threshold Y . Therefore, the bureaucrat will choose e to solve 
+  
+max B(e;Y ) = 1e2[0;1]  F(Ye )   (e): 
+(2) 
+9Although in the remainder of the paper we focus on the case where 
+Cc  0, it is instructive, to brie consider the derivation of the capital t threshold where Cc can be arbitrarily dit from zero. Clearly, the policy-maker will only complete the project if Y  Ye = 
+Cc 
+n o 
+ 
+which, in turn implies that the investor will not engage in capital t i Y  max Y ; Ye . Our model studies the case where the threat of capital t is a substitute for the soft budget constraint i.e. Y  Ye , 
+(1  cw) 
+(1  ) 
+ Cc which requires that either Cc is low enough, an assumption we maintain throughout the paper. 
+11 
+
+========14========
+
+The solution to the bureaucrat’s maximization problem stated above yields a direct relation between 
+bureaucrat e e (via its impact on the productivity of the public infrastructure project) and the 
+investor’s capital t threshold Y (and cw). This relationship between the bureaucrat’s e e and the 
+investor’s capital t threshold Y is key to our analysis, and we summarize it in the proposition below. 
+Proposition 1. Under the assumption that  
+f0() 
+f() 
+< 2 for all  2 [0;1] and lim!1 f() > 0, the bureaucrat’s expected payo B(e;Y ) is concave in e and we have the following: 
+(i) the bureaucrat’s e e is non-decreasing (increasing at an interior solution) in the investor’s 
+capital  threshold Y (i.e. there is complementarity between e and Y ) if  
+f0() 
+f() 
+< 1. 
+(ii) bureaucrat’s e e is non-increasing (decreasing at an interior solution) in the investor’s capital 
+Y Y 
+ threshold Y (i.e. there is substitutability between e and Y ) if  
+e 
+f0( 
+e 
+) 
+Y 
+> 1. 
+f( 
+e 
+) 
+Proof: See Appendix. 
+The above proposition describes the key relationship of the paper - namely, the impact of an increased 
+likelihood of capital t (a higher Y) on the quality of governance (e) in the host country. Di 
+in the ability, and willingness of foreign investors to liquidate and withdraw capital from the country can 
+have very dit e on the bureaucrat’s incentives. 
+The proposition above outlines two possibilities - either the threat of capital t helps discipline the 
+bureaucrat and improve governance (Proposition 1(i)) or it may have an adverse impact on the quality 
+of governance and even worsen matters (Proposition 1(ii)).10 We discuss each of these scenarios below: 
+(a) Capital Flight, Discipline and Good Governance: Governance was poor due to the inability of the 
+policymaker to credibly threaten the bureaucrat. The bureaucrat put in low e because he was aware 
+that any threat by the policymaker to not complete the project was an empty one. However, what the 
+above proposition sketches out is that the threat of capital t helps resolve this ine. This is 
+because if the investor can withdraw money relatively easily then the bureaucrat will be unable to earn 
+the rents from the continuation of the public project. Accordingly, this threat could help resolve the 
+ine in governance. However, the proposition emphasizes an important caveat. In particular, it 
+speci that the threat of capital t is ee as a discipline device so long as the probability of 
+capital t is sensitive to changes in e e or equivalently, investor beliefs are not too sensitive to small 
+changes in the structural environment, . In other words, changes in the probability distribution over the 
+10For simplicity, in the discussion that follows, we assume that bureaucrat is at an interior solution. 
+12 
+
+========15========
+
+productivity of the public good should be driven by the bureaucrat’s e and not be overwhelmed by 
+small changes in the external economic environment that are unrelated to bureaucrat e 
+(b) Capital Flight, (Over)Discipline and Ine Governance: A striking implication of the above 
+proposition is that the threat of capital t may have a negative impact on the bureaucrat’s incentives. 
+For the threat of capital t to be ee as an incentive device, it should be triggered o by low 
+e on the part of the bureaucrat. 
+In contrast, if the probability of capital t isn’t sensitive to changes in e e (or equivalently, 
+beliefs over  are sensitive to small changes in ), then this (over)discipline worsens governance. In other 
+words, incentives will be adversely e if capital t that punishes a country is unwarranted { in that 
+it gets triggered o despite a bureaucrat putting in high e due to changes in the external environment 
+(i.e. ). So the sensitivity of governance to a country’s economic environment clearly depends on the 
+structure of its economy. We can capture this relationship in several ways, for example by examining the 
+relationship between governance (i.e. e) and the structure of the export sector (as summarized in the 
+nature of its density function f()). Alternatively, we can examine the impact of a global  or 
+currency crisis in directly exacerbating uncertainty. Given its central role in our analysis, we examine this 
+relationship between governance and various channels through which globalization may aect it next. 
+3.2.1 Globalization and Governance: Economic Fundamentals and State Capacity 
+Here we illustrate aspects of Proposition 1, by examining various channels through which globalization 
+a governance. In our framework, the global economy has an impact on the incentives for good 
+governance by a the volatility of the overall economic environment. For instance, the global 
+economy can a economic volatility through its impact on a country’s revenue, foreign investment or 
+capital t. However, the severity and nature of this impact is going to be a function of the structure 
+of the economy as well as the bureaucratic state capacity of its government. We examine these themes 
+below. 
+(i) Economic Structure, the Export Sector and Goverance: We are interested in a simple way to capture 
+an economy that has strong economic fundamentals in that it is less vulnerable to shocks from the global 
+economy. Accordingly, in what follows we use a simple channel to examine the relationship between 
+governance and the volatility of a country’s economic environment - by focusing on the structure of its 
+export sector. 
+13 
+
+========16========
+
+In our framework, the global economy injects uncertainty on an investor’s decision making, through its 
+impact on the revenue stream of the country’s export sector. For instance, if a country is relatively poor 
+and exports primary products (mining or agricultural goods), then volatility in these commodity prices 
+can have a large impact. In contrast, as a country develops and becomes more structurally diversi 
+so does its export sector (Imbs and Wacziarg(2003), Rodrik(2007)). This diversi and movement 
+into less volatile commodities, results in an export sector that is less subject to overall volatility, even if 
+individual products remain subject to idiosyncratic shocks. These structural characteristics are important, 
+because they restrict the shape the underlying density function f() and therefore, the ratio 
+ 
+f0() 
+f() 
+. As 
+the above proposition points out, whether the relationship between e e and Y is one of a substitute 
+or a complement depends on 
+ 
+f0() 
+f() 
+. Accordingly, we may be interested in how the underlying density 
+function e this key relationship. 
+For instance, consider the truncated exponential restricted to [0;1]. Observe that 
+ 
+f0() 
+f() 
+=  where 
+ > 0 and 
+1 
+ 
+is the ratio of mean to variance of the (unrestricted) exponential distribution. Accordingly, 
+it follows that a country with a structurally diversi export sector will have a  that is sutly 
+small. In other words, if   1 , 
+1 
+ 
+ 1 then 
+ 
+f0() 
+f() 
+> 1 over 
+ 
+f0() 
+f() 
+ 1 while if  > 1 , 
+1 
+ 
+< 1 then 
+non-null sets of . In the Appendix (Example 1), we show that there exists constants 0 < k1 < k2 such that if 
+1 
+ 
+< k1, bureaucrat e is increasing in cw while if 
+1 
+ 
+> k2 bureaucrat e is decreasing in cw. 
+Remark 1: If shocks to the revenue from a country’s export sector is described by a (truncated) exponential 
+distribution, then so long as the ratio of the average value of exports to their variance are (i) high enough, 
+the bureaucrat’s e will be decreasing in cw, i.e. the threat of capital  will discipline the bureaucrat 
+and lead to good governance, (ii) low enough, the bureaucrat’s e will be increasing in cw, i.e. the threat 
+of capital  will overdiscipline the bureaucrat and lead to ine governance. 
+Indeed, in general we can show that outside of some special cases such as the uniform distribution, 
+the parameter 
+If 
+ 
+f0() 
+f() 
+, and hence the elasticity of beliefs over , can take on very dit values.11  
+f0() 
+f() 
+> 2 then the bureaucrat’s expected payo B(e;Y ) may be convex. Indeed in this situation, 
+we can expect that the bureaucrat’s e to change discontinuously in Y and hence increase discontin- 
+uously in cw. If the shocks to the revenue from a country’s export sector is described by a (truncated) 
+exponential distribution, then so long as the ratio of the average value of exports to their variance is very 
+11For example, when 
+f(:) is the normal distribution (with mean  and variance 2) restricted to [0;1], by computation 
+note that  
+f0() 
+f() 
+= 
+(  ) 
+220 
+so that if  > 1, it follows that 2  K,  
+f () 
+f() 
+> 1 over non-null sets of . 
+ 
+f0() 
+f() 
+ 1 while if  < 1 , there exists K > 0 such that if 
+14 
+
+========17========
+
+low the bureaucrat’s objective function will be convex in e and will discontinuously jump up as cw is 
+increased. We elaborate on this in an example (Example 2) in the Appendix. 
+(ii) Globalization, Uncertainty and Governance: Here we examine the impact on bureaucrat e when 
+there is greater uncertainty about the external environment . In a world where there is some degree of 
+ globalization, a banking or  crisis or currency crisis elsewhere in the world, can make 
+international investors nervous and make country vulnerable to capital t - if some investors engage 
+in short-run withdrawal of money. For instance, while the Mexican cial crisis of 1994 exacerbated 
+uncertainty in the global economy, it did so especially in Latin America - labeled the `Tequila’ e 
+To model such a scenario, assume that beliefs over  are described by two possible probability density 
+functions f1(:) and f2(:) which satisfy the monotone likelihood ratio property i.e. 
+f1() 
+f2() 
+is increasing in . In other words, the probability density functions f2(:) corresponds to a more adverse external 
+environment (\bad news") relative to the probability density function f1(:) (\good news"). Let Bi(e;Y ) =h 
+iY 
+1  Fi( 
+e 
+)   (e) , where Fi(:) is the corresponding cumulative density function where i = 1;2. The 
+relationship between the bureaucrat’s e e and the beliefs over  is summarized in the proposition 
+below. 
+Proposition 2. There is an adverse impact on the quality of governance, when there is greater uncertainty 
+about the external environment, i.e. bureaucratic performance e is lower when beliefs over  are described 
+by f2(:) rather than f1(:), when f1(:) and f2(:) satisfy the monotone likelihood ratio property. 
+Proof: See Appendix. 
+The above proposition highlights the key mechanism underlying the main results of the paper: greater 
+uncertainty over  unambiguously lowers the quality of governance by worsening the bureaucrat’s incen- 
+tives. The proposition above shows that with greater uncertainty over  the probability of capital t 
+becomes less sensitive to changes in e e so that, unambiguously, the quality of governance declines. 
+In this case, even for a  level of cw, the probability distribution over the productivity of the invest- 
+ment project is relatively more responsive to chance variations in the external environment rather than to 
+changes in the bureaucrat’s e This proposition also suggests an empirical test of the key mechanism 
+of the paper. We describe this in Section 5 below. 
+Proposition 2 has a clear implication: when there is greater uncertainty in the global economy, the 
+push towards globalization (for e.g. a policy of reducing capital controls) will stop or slow down during this 
+period, because of the negative impact this greater global uncertainty has on the quality of governance. 
+15 
+
+========18========
+
+(iii) Globalization, State Capacity and Governance: A country’s state capacity is the ability of the gov- 
+ernment policymaker to implement a range of policies (see Besley and Persson, 2011). Here we outline a 
+simple framework that helps us analyze aspects of country’s bureaucratic state capacity. 
+Countries dier in the quality of their governance on a number of dimensions. However, a key aspect 
+is a government’s ability to implement policies - the administrative competence of the bureaucracy. In 
+particular, the state capacity of a bureaucracy refers to the ability of the policymaker-government to 
+ensure that its o and bureaucrats are able to administratively execute the policies that have been 
+legislated. In other words contracting problems between the policymaker and the bureaucrat are likely 
+to have been resolved through some combination of explicit and implicit incentives. 
+When bureaucrat e is contractible, the government will choose e subject to the participation 
+constraint: 
+ 
+ 
+(e)  0: 
+As national welfare is strictly increasing in bureaucrat e in any solution to policy-maker’s maximiza- 
+tion problem, the bureaucrat’s participation constraint will bind. It follows that the maximum level of 
+e consistent with the bureaucrat’s participation constraint is emax = 
+ 1(). Accordingly, we assume 
+that a country with bureaucrat state capacity  as a situation where the policy-maker is able to commit 
+the bureaucrat to emax with probability , where  2 [0;1]. Speci, if the policy-maker observes an 
+e level dit from emax, he is able to  the bureaucrat with probability . Of course, we should 
+expect most countries to have less than perfect bureaucrat state-capacity. 
+In our analysis so far, we have assumed implicitly that there is no bureaucrat state-capacity, i.e. 
+ = 0. However, in order to study the implications of our framework for empirical analysis, we revisit 
+this assumption here. 
+The following proposition states the link between cw,  and bureaucrat e 
+Proposition 3. Under the assumption that  
+f0() 
+f() 
+< 1 for all  2 [0;1], we have the following: 
+(i) an increase in state capacity  and greater globalization (lower cw) are both substitutes of each 
+other and help achieve good governance 
+(ii) for a d degree of globalization cw, the bureaucrat eort choice is increasing in state capacity . 
+Proof: See Appendix. 
+The above proposition again highlights the key mechanism underlying the main results of the paper: 
+greater state capacity unambiguously lowers the reliance of the policy-maker on the threat of capital 
+16 
+
+========19========
+
+t to maintain a high quality of governance. 
+The above proposition implies that for a given level of globalization (as captured by cw), greater state 
+capacity improves the overall quality of governance. As with Proposition 2, this proposition also suggests 
+a direct empirical test of the key mechanism through which globalization a governance studied in 
+this paper. We describe this in Section 5 below. 
+4 Governance and Globalization: Equilibrium and Welfare Analysis 
+We now complete our analysis of the equilibrium to the game and sketch out the implications of globaliza- 
+tion for the policymaker’s welfare. Observe that this being a sequential game, in what follows we analyze 
+the equilibrium backwards. We have already described the policymaker’s project completion decision, 
+the foreign investor’s capital t decision as well as the bureaucrat’s e decision. However, for a 
+complete analysis we need to further examine the conditions under which the government launches the 
+public infrastructure project and foreign investors invest capital into the investment project in the  
+place. We now describe and analyze the second-best welfare benchmark below. 
+4.1 The Welfare Benchmark with Contractible E ( = 1): the \Capture" E 
+We begin by analyzing the benchmark case when the policymaker is able to commit the government 
+bureaucracy to a speci action. This is equivalent to a case where the administrative state capacity 
+ = 1 and the government-policymaker is able to commit the bureaucrat to take the high e action 
+(see Besley and Persson, 2011). At the same time, we should keep in mind that investors cannot commit 
+to retain their investment in the country, especially if the cost of international capital mobility are 
+low.12 Therefore, we describe as our welfare benchmark the second-best case, where by assumption - the 
+bureaucracy can commit to take an action but investors cannot pre-commit to retain their capital in the 
+country. 
+Accordingly, when bureaucrat e is contractible, the policy-maker’s expected payo W is obtained 
+by maximizing with respect to e; cw the expected return to investment: 
+Z 
+1 
+ 
+W =  ef()d 
+0 
+(3) 
+12The only possible exception is the case, when the currency of the country in question acts a reserve currency for the 
+foreign investor. 
+17 
+
+========20========
+
+where expected returns to the investment are given by Y = e and  is the share of total output that 
+accrues to domestic factors. Recollect that the bureaucrat’s participation constraint is  
+ 
+(e)  0. 
+Note that for any solution to the policy-maker’s maximization problem, the bureaucrat’s participation 
+constraint will bind. It follows that the maximum level of e consistent with the bureaucrat’s partici- 
+pation constraint is emax = 
+ 1(). 
+The representative investor will invest if and only if the expected payo from investing in the country 
+(R~) is greater than the opportunity cost of doing so i.e. i 
+Z 
+! 
+1 
+ 
+R~ = (1  ) emaxf()d + (1  cw)F 
+Y 
+ 
+Y emax 
+ R (4) 
+emax 
+The  term on the left hand side is the expected payo to the foreign investor from not withdrawing 
+investment out of the country (since the return on the investment project is expected to be sutly 
+high). The second term is the investor’s payo from pulling investment out of the country (this occurs 
+with probability F( 
+Y 
+e 
+)).max 
+The policymaker faces the decision of whether to incur the up-front cost of initiating the public 
+project. If successful, such a public project boosts private returns and may help attract foreign investment. 
+Accordingly, the government will initiate the project if and only if the expected payo from doing so is 
+higher than the  cost of initiating project C1, i.e. i 
+Z 
+! 
+1 
+W =  emaxf()d  C1: (5) 
+Y 
+emax 
+The share of the total output that accrues to the policymaker-government is given by  and the term 
+within brackets is the expected project return when the bureaucrat puts in e emax, conditional on the 
+private investment being retained in the project till its maturity. 
+Consider the impact of a change in cw on the policy-maker’s payo and foreign investor’s payo 
+respectively. As mentioned earlier we can interpret this as a change in the degree of global integra- 
+tion/segregation arising out of a change in capital controls or the degree of globalization - either of which 
+a the transactions costs of moving capital across borders. When e is contractible, the direct 
+impact on the quality of governance as captured through the bureaucrat’s incentives - the \discipline"- is 
+absent. However, a high cost of withdrawing capital, makes the policymaker-government less vulnerable 
+to the adverse consequence of capital t in case of low project return. As the cost of completing the 
+project is zero, the government’s expected payo unambiguously goes up as cw goes up in value. However, 
+a higher cost of withdrawing capital reduces the option value to the foreign investor of not investing in 
+18 
+
+========21========
+
+the country. This is because the investor’s investment is likely to be captured by the host country, as the 
+investor is unlikely to be able to exercise his option to withdraw capital when the return on the investment 
+project is low. This \capture" e of a higher ex-ante cost of capital withdrawal has, as we shall show, 
+an unambiguously negative e on the returns from investing in the project in the  place. 
+In other words, once capital has been invested into a country, this \capture" e makes the host 
+country policymaker better o precisely because it limits the ability of the investors to exercise their 
+\option" to exit the country. Notice that there is a direct distributional aspect to the \capture" e - 
+since it has very dierent payo implications for the investors as against the policymaker-government. 
+Proposition 4. Under the assumption that bureaucrat e is contractible, we have the following char- 
+acterization of foreign investor and policy-maker welfare: 
+(i) the foreign investor’s ex-ante payo is decreasing in cw and there exists a cuto value c  0 so 
+that the investor invests only if cw  c. 
+(ii) the policy-maker’s expected payo is increasing in cw and there exists a cuto value c^ 0 so that 
+the government is willing to start the project only if cw  c^. 
+(iii) the project will undertaken i c^ c. 
+Proof: See Appendix. 
+Therefore, when c > 0, even when bureaucrat e is contractible but the investor cannot commit not 
+to engage in capital t if the (observed) bureaucrat e is high, there is a role for capital controls. 
+4.2 Welfare Analysis with Non-contractible bureaucrat E ( = 0) 
+We now describe the equilibrium and carry out the welfare analysis in the case that interests us - namely, 
+where the policymaker-government is unable to commit the bureaucrat to commit to take a speci 
+action (i.e. the administrative state capacity  = 0). The representative investor will invest if and only 
+if the expected payo from investing in the country (R~) is greater than the opportunity cost of doing so 
+i.e. i 
+Z 
+! 
+1 
+Y  
+R~ = (1  ) ef()d + (1  cw)F 
+Y e 
+ R (6) 
+e 
+The interpretation of the investors ex-ante payo is exactly the same as in the case with contractible 
+bureaucrat e with e in place of emax. 
+19 
+
+========22========
+
+The policymaker will initiate the project if and only if 
+Z 
+1 
+! 
+W =  
+ef()d 
+ C1: 
+Y e 
+The interpretation of the investors ex-ante payo is exactly the same as in the case with contractible 
+bureaucrat e with e in place of emax (see equation (5)). 
+We want to characterize how the decision to invest and/or the decision to initiate the project is a 
+by changes in cw. With non-contractible bureaucrat e (i.e. zero state capacity), in addition to the 
+capture e there is the \ incentive" e namely 
+de 
+dc 
+.w 
+Consider  the case where globalization has a positive discipline e Here 
+de 
+dc 
+< 0 and thew 
+bureaucrat’s optimal e choice e is decreasing in the cost of withdrawing capital. Accordingly, the 
+\discipline" e and the \capture" e both go in the same direction so that foreign investor’s 
+expected payo from investing in the country increases with globalization. However, a rise in cw, makes 
+the threat of capital t more costly and weakens the \disciplining" e of globalization. Indeed 
+this can more than o the positive impact of global segregation on the policymaker’s ability to keep 
+investment despite a bad external shock (i.e. the \capture" e Accordingly, globalization (i.e. a 
+change in cw) may not have a monotonic impact on the government’s expected payo 
+Having discussed the impact of globalization of short term capital movements, we are now in a position 
+to examine its impact on host country welfare. We do this by integrating the policymaker’s decision to 
+launch the public project with the foreign investor’s investment decision. As in the preceding discussion, 
+we capture the extent of integration of a country’s capital markets, in a particularly simple manner - a 
+reduction in the cost of a short-run liquidation and withdrawal of capital from the host country.13 
+The impact on overall welfare will be a combination of the impact of a change in the degree of global 
+integration (i.e. change in cw) on both the foreign investor’s expected payo (i.e. R~) and the policymaker’s 
+payo W. Indeed, as suggested by the preceding analysis, the overall impact on host country welfare 
+occurs through the working of the \discipline" and \capture" e The preferences of the foreign 
+investor and the policymaker are aligned when it comes to the \discipline" e Both investors and 
+the policymaker would like to provide the appropriate incentives to ensure good governance. However, 
+as mentioned above, the preferences of the policymaker and the foreign investors are in con when it 
+13We should point out that while our analysis does not distinguish between a change in the cost of withdrawing capital 
+(i.e. change in cw) that is driven by technological-environmental forces or those driven by a government’s policy choices. However, for the moment, we assume that the government can choose the value of cw subject to a lower bound cw. 
+20 
+
+========23========
+
+comes to the \capture" eect. For a summary see Figure 1 in the Appendix. 
+The following proposition compares investor and policy-maker welfare with non-contractible bureau- 
+crat e to the second-best welfare benchmark with contractible bureaucrat e 
+Proposition 5. Under the assumption that bureaucrat e is non-contractible, we have the following 
+characterization of foreign investor and policy-maker welfare: 
+(i) If a decrease in cw improves bureaucrat governance (i.e. positive \disciplining" ect), then glob- 
+alization (a smaller cw) increases both national and investor welfare if 
+dW 
+dc 
+< 0.w 
+(ii) If a decrease in cw worsens bureaucrat governance (i.e. negative \disciplining" ect), then na- tional welfare always worsens with globalization. Furthermore, if 
+dR~ 
+dc 
+jw 
+cw=0 
+> 0, then a marginal increase in cw can improve both investor and national welfare. i.e. it is a Pareto improvement. 
+(iii) When there is a disciplining ect of the threat of capital  on bureaucrat e relative to 
+the second best benchmark, lower capital controls will improve both investor and government welfare. 
+(iv) When there is an overdisciplining eect of the threat of capital  on bureaucrat e relative 
+to the second best benchmark, lower capital controls will lower both investor and government welfare. 
+Proof: See Appendix. 
+The proposition above describes that the impact on welfare of a reduction in the short-run cost of 
+withdrawing capital is due to external shocks (or other changes that are not a function of the decision of 
+the domestic policymaker). However, our framework is equally relevant, if we are analyzing the welfare 
+impact of a reduction in cw arising out of a policy decision - such as a reduction in capital controls. In 
+terms of our framework, the only dierence is that at stage 1 (refer back to the timing of the game in 
+Section 2), the government chooses cw (the level of capital controls) rather than merely observe cw. The 
+fact that this choice of a cw may involve a dead-weight loss will not alter the qualitative nature of any of 
+results summarized in the preceding Propositions. 
+Our results throw light on one of the most contentious issues in international economic policymaking 
+- the role of capital controls. A variety of arguments have been put forward for the imposition (or 
+removal) of capital controls. However, ours is the  analytical treatment which looks at a very distinct 
+channel - namely, the impact of capital controls on the quality of a country’s governance. Our analysis 
+suggests that if a country’s economy is vulnerable to shocks from the global economy (i.e. su from 
+`overdisciplining’), there could be a role for capital controls. Equally, there is a strong argument in favor 
+of reducing capital controls - the `disciplining’ of nations clearly works, albeit some of the time. 
+21 
+
+========24========
+
+Given our analysis in the preceeding section (Remark 1) taken together with our preceding discussion 
+on the impact of globalization (decrease in cw) on national welfare and the payo of the foreign investor: 
+Remark 2: (i) Globalization (i.e. lower capital controls) will improve both investor and government 
+welfare relative to the second-best welfare benchmark, so long as the country has a su structurally 
+diversid export sector, i.e. if the revenue from the country’s export sector is described by a (trun- 
+cated) exponential distribution and the ratio of the country’s average value of exports to their variance is 
+su high. 
+(ii) Globalization (i.e. lower capital controls) will lower both investor and government welfare, relative 
+to the second-best welfare benchmark, so long as the country’s export sector is insu diversid, 
+i.e. if the revenue from the country’s export sector is described by a (truncated) exponential distribution 
+and the ratio of the country’s average value of exports to their variance is su low. 
+While our results provide ammunition for both critics as well as advocates of easing up international 
+capital mobility, we suggest that our results be treated very cautiously and not read as policy recommen- 
+dation. This is especially true since we have completely sidestepped the political economy considerations 
+that may hijack capital control policy. 
+5 
+Globalization and Governance: Some Evidence 
+Our theoretical framework generates a rich set of predictions. In this section we provide evidence consis- 
+tent with some of our predictions. At the outset we should emphasize that the evidence should be treated 
+as suggestive and interpreted cautiously - for reasons we elaborate on later in the section. 
+However, before we summarize our main predictions, we recollect that a country with state capacity 
+of  implements the est with probability  (Proposition 3). Therefore, we should not expect that 
+countries with strong institutions of governance will sur from the ine that we have spelt out 
+in our analysis - and this should be accounted for in our empirical analysis below. Keeping this in mind, 
+we begin by summarizing some of the key predictions: 
+A. Uncertainty and Governance: (a) The quality of governance is adversely a by greater uncer- 
+tainty in the economic environment (Proposition 2). This is because with greater uncertainty over , the 
+probability of capital t becomes less sensitive to changes in e, resulting in an unambiguous decline 
+in the quality of governance. (b) The impact of greater uncertainty in the economic environment will be 
+decreasing in the bureaucrat state-capacity of the country  (Proposition 3). 
+22 
+
+========25========
+
+B. Governance and Globalization (Capital Controls): Countries with high bureaucratic state capacity 
+should (on average) have lower capital controls. In particular, a reduction in the cost of  global- 
+ization cw (e.g. lowering of capital controls) should be associated with improved measures of governance. 
+This is because globalization results in the quality of governance improving in some countries and wors- 
+ening in others. However, we should only expect a government to relax capital controls if doing so has a 
+positive impact on governance. 
+In what follows, while we provide some suggestive evidence on both sets of predictions, our focus 
+is on A. This is for two reasons. First, we do not have plausible measures of a change in the cost of 
+moving capital across countries, cw. The only measure that is reliably available is the size of capital 
+controls - an endogenous choice variable of the government. Second and more importantly, we focus on 
+A, because doing so throws light on the precise mechanism emphasized in the paper - in particular, how 
+an exogenous change in economic uncertainty (possibly caused by globalization), can worsen incentives 
+for good governance. However, any empirical design that tries to study this issue faces several challenges. 
+First, we should be able to identify a sudden and unexpected event that results in greater uncertainty 
+about the economic environment in a large number of countries. Second, this change in the economic 
+environment should be independent of the actions of the bureaucrat-policymaker in the country that we 
+are studying. 
+We argue that the Mexican currency crisis of 1994 provides a possible setting for a natural experiment 
+that can help throw light on the impact of the greater uncertainty on the quality of governance. This 
+currency crisis increased uncertainty and raised the fear of contagion across a number of countries that 
+were perceived by investors to be `similar’ to Mexico - the so called \Tequila et" on other countries in 
+the region (see Dornbusch, Park and Claessens, 2000).14 Further, it is plausible that the initial trigger for 
+the Mexican crisis was not the actions of policymakers and bureaucrats in countries other than Mexico. 
+15 
+Indeed, it is because of this that we are interested in the impact of this increased uncertainty on countries 
+other than Mexico. Our main hypothesis is that countries that were perceived to be similar to Mexico 
+and had poor bureaucratic state capacity, were more likely to be aected by the increased uncertainty 
+14Indeed, Glick and Rose (1999) argued that following the Mexican crisis there was considerable uncertainty as \speculative 
+attacks on ther Latin American countries occurred immediately. The most prominent targets of the `Tequila Hangover’ were Latin American countries, especially Argentina, Brazil, Peru and Venezuela." For a good summary of the e of the Mexican crisis and its aftermath see Sachs, Tornell and Velasco (1996) and Kaminsky and Reihart (2000). 
+15It matters less whether this fear of contagion (the Tequila e was driven by fundamentals or whether it was irrational investor perceptions. 
+23 
+
+========26========
+
+due to the Mexican currency crisis. It is important that we distinguish between subjective contagion and 
+real economic contagion across this set of countries. This is because according to our theory, we should 
+expect an impact from greater uncertainty (in this case, greater uncertainty driven by external shocks) 
+on bureaucratic governance under the following two conditions. First, that this increased uncertainty was 
+partially due to greater subjective (as against real economic) contagion. Second, we should only expect 
+the increased uncertainty to act governance if the country had poor bureaucratic state capacity in the 
+ place. 
+Data: As a  step for our empirical analysis, we need a measure of a country’s bureaucratic perfor- 
+mance. We have no direct measure of the quality of bureaucratic governance available across countries. 
+Fortunately, we have survey data on `bureaucratic quality’ available for a large number of countries from 
+Political Risk Services for the period 1984-1997. This is an index that is increasing in bureaucratic quality 
+and has the range from 6 to 0.2 in our data. Second, we need an exogenous measure of the perceived sim- 
+ilarity of a country to Mexico. Accordingly, we use the weighted genetic closeness of a country to Mexico 
+as a proxy for the extent of the expected `contagion’ from Mexico (see Spolaore and Wacziarg, 2009). The 
+measure ranges from 1,835 to 14.14 in our data. Countries which are seen as similar to Mexico are more 
+likely to be a by contagion in  markets. Contagion increases market volatility (Corsetti et 
+al., 2010) and is therefore likely to cause investment decisions to be less tied to bureaucrat e Third, 
+a measure of a country’s bureaucratic state capacity is the strength of its institutions - where a measure 
+of Protection against Expropriation is the most widely used measure. To facilitate interpretation we  
+the index, so that 10 represents the poorest institutions, and 0 represents the best. In order to minimize 
+concerns of endogeneity, following Acemoglu, Johnson and Robinson (2001), we use settler mortality as 
+our instrument for a country’s overall bureaucratic state capacity. 
+16 
+Empirical Speciation: According to our theoretical framework, greater uncertainty in the economic 
+environment should worsen bureaucratic performance, but only when the incomplete contractual structure 
+exists between the government and the bureaucrat (i.e. low bureaucrat state capacity). However, since 
+the uncertainty from the Mexican crisis is more likely to at countries perceived to be similar to Mexico, 
+our empirical speci takes the following form 
+17 
+16Acemoglu, Johnson, Robinson show that settler mortality correlates highly with Risk of Appropriation, so our  stage 
+should be similar in that respect, however, we have 2 endogenous variables because of our di design. Also, we must reconsider the exclusion restriction assumption, as our second stage is dit. However, we see no reason for settler mortality to impact on bureaucratic quality other than through its impact on institutions. 
+17This can be seen as a triple-di design. 
+24 
+
+========27========
+
+ect = c + 1[Contagionct  SettlerMortalityc] + 2[SettlerMortalityc  P ost94t] 
++ 3[Contagionct] + 4[P ost94t] +  Y earF E + Controls + ct 
+Where the subscript c denotes countries and t denotes year and otherwise standard time-invariant 
+variables are omitted because we estimate a  model (ie. country institutions as measured by 
+settler mortality, genetic closeness to Mexico, and their interaction are all dropped in the  
+speci P ost94 is a dummy variable for observations between 1995 and 1997, inclusive. Contagion 
+equals the interaction between genetic closeness to Mexico and P ost94. Furthermore in our model, the 
+impact of uncertainty on governance is completely absent for countries with no incomplete contractual 
+problem between the policymaker and the bureaucrat. Accordingly, in some of our speci (column 
+2 onwards) we increase the y of the speci by allowing countries with a perfect state capacity 
+index 
+18 
+to react ditly to the treatment by interacting our treatment with a dummy for perfect state 
+capacity. If this feature of our model is correct this improvement in speci should improve the 
+precision of our estimates. 
+Results: The reduced form equation above is estimated with and without a number of controls - 
+from GDP per capita, military regimes, democracy, population, trade with Mexico, and openness to 
+trade. While the results are robust to each, our preferred speci do not include GDP per capita, 
+exports, debt, trade with Mexico or openness to trade, since they are arguably endogenous variables. In 
+robustness and falsi tests we therefore omit these controls. At the same time, we want to be sure 
+that economic fundamentals are not driving our results, so it’s important to ensure robustness to variables 
+like imports and exports with Mexico, which measures how exposed each country was to real economic 
+e of the crisis. Table 1 shows the main results in a reduced form speci The coet of 
+interest is 1, which corresponds to the interaction between settler mortality and the contagion variable 
+(which equals genetic distance if the observation is post-crisis). In all the speci that we tested, 
+we obtain a negative coet, that is robust to a wide variety of controls. This is consistent with 
+our theoretical prediction that bureaucratic performance is negatively a by the increased threat of 
+capital t - so long as bureaucratic state capacity was imperfect and the country was perceived to be 
+similar to Mexico. Furthermore, our theory predicts that countries with perfect bureaucrat state-capacity 
+18The state capacity index we used to construct this binary variable is the sum of the PSR corruption, rule of law and 
+bureaucracy indices 
+25 
+
+========28========
+
+Table 1: Reduced-form Estimates of Contagion on Bureaucratic Quality 
+Dependant Variable: Bureaucratic Quality VARIABLES (1) (2) (3) (4) (5) (6) 
+Contagion x Settler Mortality -0.144* -0.597*** -0.622*** -0.627*** -0.537*** -0.557*** 
+(0.0815) (0.129) (0.126) (0.124) (0.140) (0.147) 
+Year FE Y Y Y Y Y Y Country FE Y Y Y Y Y Y Non-interacted treatments N Y Y Y Y Y Di reaction if high st.cap. N Y Y Y Y Y Military Regimes N N Y Y Y Y Democracy N N N Y Y Y GDP per capita N N N N Y Y External Debt N N N N Y Y Exports N N N N Y Y Openness to Trade N N N N N Y Interdependence with Mexico N N N N N Y 
+Observations 616 616 616 616 528 528 R-squared 0.074 0.106 0.156 0.175 0.225 0.243 Number of countries 56 56 56 56 49 49 
+Notes: All models are estimated using OLS. The time period included in the sample is restricted to 1987-1998. The dependent variable in all columns is Bureaucratic Quality. All models include country  e and year  e Contagion x Settler Mortality refers to the the interaction between Post94, Settler Mortality and Closeness to Mexico. 
+*** p<0.01, ** p<0.05, * p<0.1 
+will react very ditly to a crisis. Indeed, our results are reassuring on this count, since when we allow 
+these countries to react ditly to the crisis (column 2-6), there is a dramatic improvement of the 
+precision of our estimates. We can also discount the possibility that economic fundamentals are driving 
+our estimates based on this table. The estimate is robust to our  of two checks on this potential issue: 
+including the variables intended to control for the exposure to the crisis based on fundamentals; GDP per 
+capita, openness to trade, external debt, imports and exports with Mexico and total exports. 
+Of course, the results above are only the reduced form estimates. So we may worry whether settler 
+mortality is an adequate instrument for the institutional state capacity of a country. To further ensure that 
+the settler mortality term that we use is an adequately proxy for institutional quality, we also report two- 
+stage least squares results (see Appendix for details). Here the controls are the same as in the reduced form 
+version of the model. In column 1, because both instruments are signit predictors of both endogenous 
+variables, we might have an under-identi issue. However, as can be seen from columns 2-7, under- 
+identi is no longer a concern once we correctly specify the model to treat countries with a perfect 
+26 
+
+========29========
+
+state capacity ditly. Otherwise, the  stage is consistent with expectations. The instruments that 
+are expected to predict the endogenous variables are all highly signit with the expected signs. The 
+second stage is also consistent with all previous results. Each correctly speci model is highly signit 
+and with the expected sign. The coet of interest in the  (misspeci model is insignit, 
+which is unsurprising given the potentially under-identi  stage results. 
+We carry out further robustness checks. One concern with this framework is that we can’t be positive 
+that we’re picking up the e of the crisis speci rather than normal trend e In other words, 
+this can be seen as a di design, which relies on the identifying assumption that the 
+treatment and control groups are not already diverging before treatment. To alleviate this concern we 
+run a series of placebos, moving the year of treatment to various dit points in time. Observe from 
+Table 4 that this is not a concern since each placebo is close to zero and highly insignit . 
+As a further test of robustness, we examine serial correlation as suggested in Bertrand, Du and 
+Mullinaithan (2004). We have 56 countries in our sample, so we correct for serial correlation using 
+the two relevant (given our sample size) suggestions: clustering and collapsing the data to fewer time 
+periods 
+19. Table 3 shows the reduced form and 2SLS results using the two-way cluster-robust standard 
+errors proposed by Cameron, Gelbach and Miller (2011). This allows for clustering in two non-nested 
+dimensions, and we do so on countries and years. While we present results without the potentially 
+endogenous `exposure’ controls, their inclusion does not change the qualitative nature of the results. We 
+ that our results are robust to clustering, suggesting that serial correlation is not driving our results. 
+Despite the fact that our results seem quite robust, there are reasons to be cautious. Our  
+concern is that the possibility that the Mexican crisis results in adverse real economic contagion e 
+may result in a neighboring country’s fundamentals being a in a way that resources available to 
+the bureaucracy are curtailed. For example, the crisis results in a sharp drop in Mexican demand for 
+imports or FDI towards other Latin American countries20 - i.e. economic contagion (Rigobon, 2006). This 
+economic contagion may have an adverse impact on the budgetary situation in these countries and result 
+in fewer resources being devoted to the bureaucracy and institutions of governance. Accordingly, failure 
+19The third suggestion is block-bootstrapping, but as noted by Bertrand, Du and Mullainathan a large number of 
+observations is required. In fact they note in a working paper version that 50 observations would not be sucient for the block-bootstrap to perform well and we have only 56 
+20We control for the former using controls for trade with Mexico directly in the main results, while the latter was tested in a falsi test similar to table 5, except with FDI as the dependent variable. We do not present results on the FDI falsi test, however we can rule out that a decrease in FDI occurred among our treatment group after treatment 
+27 
+
+========30========
+
+to control for changes in economic fundamentals due to the crisis, could represent an omitted variable, 
+which might bias our estimates. However, any empirical strategy should account for the challenge that 
+arises from the endogeniety of changes in the budgetary expenditure. We therefore take a two pronged 
+approach. First, we carry out a falsi exercise by testing our model on government expenditures 
+to see if the crisis reduced government budgets. Here, if we found a signit decrease in government 
+budgetary resources, it could be argued that it was this drop in resources that was causing a drop in 
+bureaucrat performance, rather than the increased uncertainty. Reassuringly, the crisis does not have any 
+signit impact on government budgets among countries similar to Mexico with low state capacity. We 
+report these results in Table 5 columns 5-8. Not only is the estimate not signit, if anything it has the 
+opposite sign. This result is consistent with our previous speci that show a country’s change in 
+bureaucratic quality is not being driven by its direct economic exposure to the crisis. While these controls 
+are potentially endogenous, we include them only in the last column of Table 1 to show that are results 
+are not being driven by GDP per capita, openness to trade, imports and exports with Mexico, external 
+debt and exports. 
+The second main concern that we have is that our measure of bureaucratic performance is a subjective 
+one. In particular, while this measure is widely used, the main worry may well be that it is subject to 
+`contamination’ since it based on the perceptions of managers and investors surveyed. The concern 
+is that there may be no actual change in bureaucratic quality, and instead the crisis merely caused a 
+change in perceptions of bureaucratic quality. Given the absence of an alternative reliable, objective 
+measures of bureaucratic performance that are easily available for a cross section of countries, this is 
+a di challenge, which we address indirectly. To assess whether this is a signit concern, we 
+run our model through a falsi test using a variable we believe should be similarly a by 
+a perceptions bias, but for which there is no expected real e The dependent variable used is a 
+bureaucrat corruption measure from the same survey as our bureaucratic quality measure, and generated 
+using the same methodology. The idea is that because we expect no real change in real corruption, but 
+we do expect perceptions of both bureaucratic quality and corruption to be highly correlated, we can 
+attribute changes in the corruption estimate to the size of the bias. The success of this falsi design 
+relies on the claim that a perceptions bias will be highly correlated among all measures of how well a 
+government functions. 
+The results of this falsi test can be seen in Table 5, columns 1-4. Indeed the estimates are 
+28 
+
+========31========
+
+close to 0 and insignicant. While not reported, we also run a similar exercise on perceptions from 
+Heritage Foundation, and the results were similar. Transparency International and World Bank also have 
+perception based measures, however they don’t include data from before the crisis, so these measures 
+could unfortunately not be tested. However, there is no impact of the crisis on any of our falsi 
+speci indicating that the concern that our results for bureaucratic quality results are driven by 
+biased perceptions should be minimal. The fact that we do not  any signit impact of the Mexican 
+crisis on measures of perceived corruption, increases our con that changes in bureaucratic quality 
+were real changes, and not biased by false perceptions. 
+The results described above suggest that the unexpected increase in uncertainty in  markets 
+exacerbated the threat of capital t and adversely a governance, especially in those countries 
+which had relatively weak institutional state capacity. This e is robust to the inclusion of many 
+controls, including measures of current development, and survives placebo analysis. Further, the two- 
+stage least squares analysis is consistent with the reduced form analysis. Moreover, while the results from 
+our falsi tests were reassuring, they were not conclusive. Accordingly, given that we lack direct 
+measures of bureaucratic performance, we argue that the results be interpreted cautiously and treated as 
+suggestive. 
+We now brie sketch out some suggestive evidence that shows the relationship between governance 
+and capital controls sketched out in B above. The globalization of capital can occur due to changes 
+in the policy environment (e.g. a reduction in capital controls) or a function of technological changes 
+(e.g. the information technology revolution). Indeed, both these factors have been responsible for the 
+increase in the movement of international capital over the last couple of decades. However, the empirical 
+literature on  globalization on governance has been handicapped not just by the absence of any 
+(exogenous) measure of the changes in (technology related) cost of moving capital across borders, but 
+also the endogeneity of changes in the policy of capital controls. Accordingly, over here our aims are quite 
+modest. We limit our discussion to providing some suggestive evidence in support of our claims. While 
+suggestive, our results are no more than that - since issues of endogeneity and selection remain a concern. 
+As a st step, consider Columns 4 and 5 of Table 6. This provides conditional correlations that suggest 
+that a weakening of capital controls is associated with better governance as captured by improvements in 
+bureaucratic quality, i.e. the coent is negative. Of course, this correlation is likely driven by countries 
+that do not relax capital controls because they fear the adverse impact on bureaucrat governance (ie. 
+29 
+
+========32========
+
+selection bias). Recollect that our theoretical framework suggests that the e on governance from a 
+change in capital controls may on average be close to zero, as positive and negative e are possible. 
+In column 6 of Table 6 we attempt to control for the selection bias which may be driving columns 5 
+and 6. If those countries with poor institutional quality are those least likely to proceed with capital 
+control relaxation, then the institutional quality variable will be correlated with the selection bias. If 
+our theoretical prediction is correct, the inclusion of a variable correlated with the selection e should 
+drive the estimate towards zero. Indeed this is precisely what we see, as there is a reduction of the size 
+of the estimate towards zero in column 6. While consistent with our theoretical predictions, these results 
+are quite possibly driven by some omitted variable. 
+6 
+Conclusion 
+The globalization and integration of the world economy over the past few decades has led to dramatic 
+changes in the pattern of capital ws - especially to developing countries. A number of commentators 
+have pointed out both the promise and the perils of increased (though more volatile) capital ws. In 
+this paper we take a  step in examining the implications of this globalization of capital on the quality 
+of governance. Despite the simplicity of our framework, our results were quite striking. By exacerbating 
+the threat of capital t, globalization had the potential to `discipline’ errant governments into enacting 
+et policies. However, this disciplining stick of the global capital market was not perfect. The threat 
+of unwarranted capital t could also weaken incentives and `indiscipline’ governments, especially so 
+long as the government was unable to impose capital controls. 
+It is di to think of institutional mechanisms that can credibly commit governments to behaving 
+in an et manner, especially in developing countries - where the state’s bureaucratic capacity is 
+relatively weak. However, our analysis suggests that we should be cautious in presuming that the forces 
+of globalization will in and of themselves provide a simple mechanism to discipline governments and 
+improve governance. All countries face the prospect of indisciplined governments. However, this problem 
+in particularly acute in developing countries because as argued by North(1990, pp57), such countries 
+lack \...a mechanism to provide the information necessary to know when punishment is required". Our 
+analysis suggests that while such a mechanism might end up arriving as a by-product of the process of 
+globalization, integration and technological change - its impact may be uncertain. 
+30 
+
+========33========
+
+References 
+1. Acemoglu, Daron and Simon Johnson and James Robinson (2001). \The Colonial Origins of Com- 
+parative Development: An Empirical Investigation." The American Economic Review, 91(1), pp 
+1369-1401. 
+2. Alesina, Alberto, and Roberto Perotti (1996). \Budget De and Budget Institutions." NBER 
+Working Paper, No. 5556. 
+3. Bartolini, Leonardo and Allen Drazen (1997). \When Liberal Policies Re External Shocks, 
+What Do We Learn?," Journal of International Economics, 42(3-4), pp 249-273. 
+4. Bertrand, Marianne, Esther Du and Sendhil Mullainathan (2004). \How Much Should We Trust 
+DI Estimates?" The Quarterly Journal of Economics, 119(1), pp 249-275. 
+5. Besley, Timothy and Torsten Persson (2011). \Pillars of Prosperity: State Capacity and Economic 
+Development." unpublished manuscript based on Yrjo Jahnsson Lectures, 2010. 
+6. Besley, Timothy J. and Michael Smart, (2002). \Does Tax Competition Raise Voter Welfare?" 
+CEPR Discussion Papers No. 3131. 
+7. Bhagwati, Jagdish (1998). \Why Free Capital Mobility May be Hazardous to Your Health: Lessons 
+from the Latest Financial Crisis." NBER Conference on Capital Controls, Cambridge, MA, Novem- 
+ber 7. 
+8. Borensztein, E., J.W. Lee(1998). \Financial Distortions and Crisis in Korea." mimeo. IMF. 
+9. Bourguignon, Francois and Thierry Verdier, (2000). \Globalization and Endogenous Educational 
+Responses : the Main Economic Transmission Channels." DELTA Working Papers 2000-24, DELTA 
+(Ecole normale superieure). 
+10. Cai, Hongbin and Daniel Treisman (2005). \Does Competition for Capital Discipline Governments: 
+Decentralization, Globalization and Public Policy" American Economic Review,95(3), 817-830. 
+11. Cho Y.J. and J.K. Kim (1995). \Credit Policies and the Industrialization of Korea." Discussion 
+Paper 286, World Bank. 
+31 
+
+========34========
+
+12. Chang, Roberto (2011). \Elections, Capital Flows, and Politico Economic Equilibria." American 
+Economic Review, forthcoming. 
+13. Cameron, Colin Jonah Gelbach and Douglas L. Miller (2011). \Robust Inference with Multi-way 
+Clustering." Journal of Business and Economic Statistics, forthcoming. 
+14. Dewatripont, Mathias and Eric Maskin (1995). \Credit and E in Centralized versus Decen- 
+tralized Economies." Review of Economic Studies, 62(4) No.213, 541-556. 
+15. Dornbusch, Rudiger (1998). \Capital Controls An Idea Whose Time is Gone." . WorldEconomic 
+Trends (Trans-National Research Corporation), April. 
+16. Dornbusch, Rudiger, Park and Classens (2000). \Contagion: Understanding How it Spreads" World 
+Bank Research Observer, 15 (August), 17797. 
+17. Edwards, Sebastian (1999). \How Ee are Capital Controls?" Journal of Economic Perspectives 
+Vol. 13, No. 4, pp.65-84. 
+18. Eichengreen, Barry (1999). \Policy Making in an Integrated World: From Surveillance to...?" Pre- 
+pared for the Federal Reserve Bank of Boston’s Conference on Policy Making in an Interdependent 
+World, Cape Cod, 7 - 9 June 1999. 
+19. Friedman, Thomas (2000). The Lexus and the Olive Tree. Farrar, Straus, Giroux. New York. 
+20. Glick, Reuven and Andrew Rose (1999), \Contagion and Trade: Why are Currency Crises Regional" 
+Journal of International Money and Finance 
+21. Imbs, Jean and Romain Wacziarg (2003), \Stages of Diversi American Economic Review, 
+vol. 93(1) 
+22. Ju, Jiandong and Shang-Jin Wei, (2011). \Domestic Institutions and the Bypass E of Financial 
+Globalization" American Economic Journal: Economic Policy, forthcoming. 
+23. Kornai Janos (1980). The Economics of Shortage. North Holland. 
+24. Kose, Ayhan, Eswar Prasad, Kenneth Rogo and Shang-Jin Wei (2009). \Financial Globalization: 
+A Reappraisal." IMF Sta Papers, 56(1): 8-62. 
+32 
+
+========35========
+
+25. Krugman (1999). The Return of Depression Economics W.W. Norton and Co. 
+26. Mishkin, Frederic S. (2007). \Is Financial Globalization Bene Journal of Money, Credit and 
+Banking, Blackwell Publishing, vol. 39(2-3), pages 259-294, 03. 
+27. Mukand, Sharun, (2006). \Globalization and the Con Game." Journal of International Eco- 
+nomics, Volume 70, Issue 2, December 2006, Pages 406-427. 
+28. North, Douglass C., (1990). \Institutions, Institutional Change and Economic Performance." Cam- 
+bridge: Cambridge University Press. 
+29. Obstfeld, Maurice (1998). \The Global Capital Market: Benefactor or Menance." NBER Working 
+Paper 6559. Forthcoming in The Journal of Economic Perspectives. 
+30. Pavlova, Anna and Roberto Rigobon (2007). \Asset Prices and Exchange Rates." Review of Finan- 
+cial Studies, Oxford University Press for Society for Financial Studies, vol. 20(4), pages 1139-1180. 
+31. Qian, Yingyi and Roland, Gerard (1996). \The Soft Budget Constraint in China." Japan and the 
+World Economy, 1996, 8, pp. 207-223. 
+32. Corsetti Giancarlo, Marcello Pericoli and Massimo Sbracia, 2010. "Correlation Analysis of Financial 
+Contagion." Working Papers 822, Economic Growth Center, Yale University. 
+33. Rodrik, Dani (1999). \Governing the Global Economy: Does One Architectural Style Fit All?" 
+mimeo. Kennedy School, Harvard University. 
+34. Rodrik, Dani (1999). \Symposium on Globalization in Perspective: An Introduction." Journal of 
+Economic Perspectives, 12(4), Fall. 
+35. Rodrik, Dani and Arvind Subramaniam (2009). "Why Did Financial Globalization Disappoint?," 
+IMF Sta Papers, Palgrave Macmillan Journals, vol. 56(1), pp. 112-138. 
+36. Rodrik, Dani (2011). The Globalization Paradox. W.W. Norton, New York and London. 
+37. Sachs, Je, Aaron Tornell and Andres Velasco (1996). \The Mexican Currency Crisis: Sudden 
+Death or Death Foretold." Journal of International Economics vol.41(3) 
+38. Spalaore and Wacziarg (2009). \The Di of Development," The Quarterly Journal of Eco- 
+nomics, 124(2), pp 469-529. 
+33 
+
+========36========
+
+39. Stiglitz, Joseph (2010). \Contagion, Liberalization, and the Optimal Structure of Globalization." 
+Journal of Globalization and Development, 1(2), Article 2, 45 pages. 
+40. Summers, Lawrence (2000). \International Financial Crises: Causes, Prevention and Cures." Amer- 
+ican Economic Review, Vol. 90, No.2 pp.1-16. 
+41. Tirole, Jean (1994). \The Internal Structure of Government." Oxford Economics Papers. 
+42. Tressel, Thierry and Thierry Verdier (2007). \Financial Globalization and the Governance of Do- 
+mestic Financial Intermediaries" IMF Working Papers 07/47, International Monetary Fund. 
+43. Tytell, Irina and Wei, Shang-Jin (2004). \ Does Financial Globalization Induce Better Macroeco- 
+nomic Policies?" IMF Working Papers 04/84, International Monetary Fund. 
+34 
+
+========37========
+
+7 Appendix: Theory 
+ 
+h  0 
+f (Ye )Ye + 2f 
+Y Y 
+e e3 
++ 
+i 
+00(e) 
+so that the 
+Proof of Proposition 1: By computation, 
+@2B(e) 
+@e2 
+= 
+bureaucrat’s objective function is (strictly) concave in e if f0() + 2f() > 0,  2 [0;1] or equivalently,  
+f0() 
+f() 
+< 2. Further, given that the bureaucrat’s objective function is strictly concave, at an interior 
+solution e the following  condition holds: 
+@B(e;Y ) 
+= f(Ye) 
+Y 
+(e)2 
+= 
+@e 
+0(e) 
+By taking total derivatives of the  condition with respect to e and Y , it follows that 
+de dY 
+= 
+ 
+@2B(e;Y ) 
+@e@Y @2B(e) 
+@e2 
+= h 
+f0(Ye)Ye + 2f 
+  0 
+f (Ye)Ye + f 
+Y  
+  
+e 
+(e)2 
+iY 
+Y 
+e 
+(e)3 
++ 
+00(e) 
+ 
+complements (i.e. 
+@2B(e;Y ) 
+@e@Y 
+> 0) if f0(Ye )Ye + f other hand, if  
+e 
+f( 
+Y 
+e 
+) 
+   
+By computation, note that 
+@B(e;Y ) 
+= f0(Ye )Ye + f 
+Y  
+ 
+@e@Y 
+  
+e e2 
+so that bureaucrat’s e e and Y are 
+Y 
+f0() 
+e 
+> 0 which can be rewritten as 
+f() 
+< 1. On the 
+Y 
+f0( 
+Y 
+e 
+) 
+> 1, 
+@B(e;Y ) 
+@e@Y 
+< 0 so that bureaucrat’s e e and Y are substitutes.  
+Example 1 (The truncated exponential) 
+Let f(:) be the exponential distribution restricted to [0;1] so that 
+8> <g() 
+f () = 
+g^ 
+>:0 otherwise 
+where 
+exp 
+ 
+if  > 0,   0;g 
+() = 
+>:0 otherwise 
+8> < 
+ 
+if  2 [0;1]; 
+and ^g() is the corresponding cumulative distribution function. By substitution we get 
+0 
+ 
+f (Ye)Y 
+e = YY 
+ee 
+f 
+1 
+ 
+ 
+so that as long as 1  Ye , e  Y the bureaucrat’s e is increasing in cw. As e  1, as long as  
+1  
+ 1 or 
+1 
+ 
+ 
+1  
+the bureaucrat’s e is increasing in cw. 
+On the other hand if e > Y , the bureaucrat’s e choice is decreasing in cw. Let 
+the fact that e is characterized by a FOC, by substitution, we obtain that as long as 
+ exp 
+1 
+> c , 
+1 
+ 
+> 
+cg^(1) 
+ exp1 
+ 
+g^(1) 
+(e) = ce. Using 
+35 
+
+========38========
+
+To summarize: as long as the ratio to mean to variance is low enough, the bureaucrat’s e eis 
+increasing in cw; further, as long as, the ratio of mean to variance is high enough eis decreasing in cw. 
+Example 2 (Non-concave expected payo B(e;Y )) 
+If 
+ 
+f0() 
+f() 
+> 2 over a non-null set of , then the bureaucrats expected payo B(e;Y ) needn’t be 
+concave in e. In this case,  conditions may no longer be valid in characterizing e. How does e 
+depend on Y (and hence, cw) in this case? 
+To  matters, we will focus on the case with corner solutions and assume that (e) = ce. In this case, 
+ 
+Y f0(Y ) 
+f(Y ) 
+> 2, it follows that 
+e = 1 when 
+@B(1;Y ) 
+@e 
+= f(Y )Y > c. As f(Y )Y is decreasing in Y whenever 
+there exists a threshold value of Y~ such that whenever Y  Y~, e = 1 and Y > Y~, there is a discontinuous 
+jump of bureaucrat’s e from e = 1 to an interior value strictly less than one. 
+To summarize: that the bureaucrat’s e could decreasing discontinuously in Y , and hence increase 
+discontinuously in cw, when the bureaucrat’s expected utility is non-concave in own e is a robust 
+possibility.  
+Proof of Proposition 2 
+The bureaucrat will choose e to solve 
+max Be2[0;1] 
+i(e; 
+Y ) = 
+ 
+1 
+  Fi(Ye )  
+ 
+(e) 
+As f2 ()  order stochastically dominates f1 (), for each , F2 ()  F2 (), or equivalently, 
+so that for each e 2 [0;1], 
+ 
+B2(e;Y ) = 
+1 
+  F2(Ye )  
+n 
+o 
+As for each i, = 1;2, 
+1 
+ Fi(Ye ) 
+1 
+ F2 ()  1 
+ F2 () 
+  
+ (e)  1  F1(Ye )  
+n is concave in e and lime!0 1 
+ Fi(Ye ) 
+ 
+(e) = B1(e;Y ): 
+o 
+= 0, it follows that 
+@B2(e;Y ) 
+@e 
+ 
+@B1(e;Y ) 
+@e 
+. Let eidenote the optimal choice of e corresponding to the objective function Bi(e;Y ). Then, it follows that e2  e1 with strict inequality at an interior solution. 
+Proof of Proposition 3 
+For a  value of , the bureaucrat’s payo is 
+36 
+
+========39========
+
+8 
+><>[1 
+ F(Y )]  (1) , if e = emax = 1 
+B(e;Y ) = 
+>>:(1 
+ )[1  F(Ye )]  (e) , otherwise Let e 
+ 
+Y ;  denote the solution to the rst-order condition 
+(1  )f(Ye )Ye = 
+0(e) Then, e 
+ 
+Y ;   1 and the bureaucrat will choose e emax = 1 i 
+" # 
+1 
+ F(Y )  (1)  (1  ) 1  F(e  
+Y 
+Y ; ) 
+  
+(e 
+ 
+Y ; ): 
+It follows that when  = 0 (the case studied so far), without loss of generality, the bureaucrat will choose e e 
+ 
+Y ;0. When  = 1 (high state capacity) the bureaucrat will choose emax when 1 
+ F(Y )  (1). Note that when cw = 0, F(Y ) = 1 and when cw = 1, F(Y ) = 0 and 
+1 
+ F(Y ) 
+is increasing and continuous in cw so that there exists a value of cw, 0 < bcw < 1, such that whenever 
+cw  bcw, the bureaucrat chooses e emax. 
+ 
+Moreover, by duality, (1  ) 1  F(e(Y ;)) 
+Y 
+  (e 
+ 
+Y ; ) is decreasing in . Moreover, (1  )F(e(Y ;)) 
+Y F(Y ) is decreasing in Y (as long as 1 > 
+Y de 
+e 
+dY 
+see the proof of Proposition 5 below) so that as  decreases, as by assumption  
+f0() 
+f() 
+< 1 for all  2 [0;1], cw has to go up in order to ensure that the bureaucrat continues to choose e emax. 
+For a  value of cw, if the bureaucrat chooses e e 
+ 
+Y ; , note that e is increasing in cw whenever  
+f0() 
+f() 
+< 1 for all  2 [0;1].  
+ 
+Proof of Proposition 4: 
+By computation, note that the derivative of R~ with respect to cw is given by the equation 
+dR~ 
+ 
+Y 
+ 
+dcw 
+=  F 
+emax 
+< 0 
+ Y 
+and is captured by the term  F 
+e 
+. In this case, the investor’s expected payo R~ attains a maximummax 
+when it is costless to withdraw short-term capital from a country, i.e. cw = 0. Therefore, there exists a 
+cuto value c  0 so that the investor invests only if cw  c. 
+By computation, note that the derivative of W with respect to cw is given by the equation 
+dW 
+ 
+= 
+Y 
+e 
+f 
+Y 
+ 
+dcw 
+max 
+e 
+> 0max 
+37 
+
+========40========
+
+The government’s expected payo W attains a maximum when short-term capital is never withdrawn 
+from a country, i.e. cw = 1. Therefore, there exists a cuto value ^c  0 so that the government is willing 
+to start the project only if cw  c^. 
+Clearly, when 0  c^  c, the investment project will be undertaken and the government will set 
+cw = c.  
+Proof of Proposition 5: 
+By computation, note that the derivative of R~ with respect to cw, taking into account the incentive 
+e on bureaucrat e is given by the equation 
+dR~ 
+Z 
+!1 
+dcw 
+= (1  ) 
+de 
+Y  
+f()d 
+Y dcw 
+ F 
+e 
+e 
+There are two distinct ets on the investor’s expected payo R~ from investing in the project as the 
+cost of withdrawing capital increases. First, increasing the cost of withdrawing capital impacts on the 
+bureaucrat’s incentive to put in e - this is the \discipline"e The impact of this e is captured 
+R 
+de 
+by the term (1  ) f()d . Second, as above, the \capture" e is captured by the term 
+ 
+Y 
+e 
+dcw 
+ F 
+Y 
+e 
+. When 
+de 
+dc 
+< 0, 
+dR~ 
+w dc 
+< 0. In this case, the investor’s expected payo R~ attains a maximumw 
+when it is costless to withdraw short-term capital from a country, i.e. cw = 0. Therefore, there exists a 
+cuto value c  0 so that the investor invests only if cw  c. When 
+de 
+dc 
+> 0, the bureaucrat’s optimalw 
+e choice e is increasing in the cost of withdrawing capital. In this case the \discipline" e and 
+the \capture" e go in opposite directions. In this case, R~ may not be monotone in cw. In particular, 
+due to the fact that globalization may have a negative impact on the bureaucrat’s e there could be 
+regions in [0;1] where the expected return to foreign investment R~, is increasing in cw. Let c denote the 
+minimum value of cw for which the investor is indit between investing in the project or investing 
+the money outside the country. 
+It follows that when 
+de 
+dc 
+< 0, c < c and when 
+de 
+w dc 
+> 0, c > c so that relative to second-best welfarew 
+benchmark, the foreign investor has a lower tolerance for capital controls when there is a disciplining e 
+of the threat of capital t and a higher tolerance for capital controls when there is an overdisciplining 
+e of the threat of capital t. 
+We now turn to the payo of the government-policymaker. By computation, note that the derivative 
+of W with respect to cw is given by the equation"  
+Z 
+!1 
+dW 
+=  
+de 
+dcw 
+f()d 
+Y dcw 
+e 
+ (1 
+ cw)f 
+Y  
+# 
+dYe e dcw 
+38 
+
+========41========
+
+Consider the impact of a change in cw. There are two e on the expected payo to the government- policymaker W, as the cost of short-run capital withdrawal goes up. First, is the direct impact on the 
+quality of governance as captured through the bureaucrat’s incentives - the \discipline"- this can beR 
+1 
+positive or negative. This e is captured in the  term, 
+de 
+Y 
+f()d , in the government’s 
+e 
+ 
+dc w 
+Y 
+Y 
+expected payo Second, as before, the second term,  (1  cw)f 
+d 
+e 
+e dc 
+, represents the \capture"w 
+e We show that 
+de 
+Y 
+  
+< 0 so thatw  (1  cw)f 
+Y 
+d 
+Y 
+e 
+dc e dc 
+ 0. By computation,w 
+ Y 
+dY 
+dY 
+1 
+de 
+e 
+dc 
+ew  
+e 
+dY 
+dcw 
+= 
+(e)2 
+de 
+Y 
+If 
+de 
+ 0, clearly < 0. If 
+de 
+dY 
+dcw 
+dG 
+> 0, by computation, note that 
+  Y 
+Y de 
+f0( 
+e 
+)Y 
+Y Y 
+= h 
+e 
++ f 
+ 
+e 
+ e 
+(e)3 
+i 
+dY 
+< 1Y 
+f0( )Ye + 2f 
+Y Y 
+e 
+(e)3 
++ 
+00e 
+(e) 
+  
+as in this case f0(Ye)Ye + f 
+Y 
+e 
+so that again 
+d 
+Y 
+e 
+dc 
+< 0. Therefore, this second term makes the hostw 
+country policymaker better o21 precisely because it limits the ability of the investors to exercise their 
+\option" to exit the country. 
+Therefore, once we take both of these e into account, the impact of globalization on the gov- 
+ernment’s payo is the following. An increase in the cost of withdrawing short-term capital, results in a 
+higher government payo so long as the bureaucrat is being \overdisciplined". In this case lower levels of 
+global integration by reducing the threat of unwarranted capital t, improve the bureaucrat’s incen- 
+tives. In other words 
+dW 
+dc 
+> 0 whenever 
+de 
+w dc 
+> 0, since in this case both the incentive and capture ew 
+go in the same direction. In this case, the government’s expected payo W attains a maximum when 
+short-term capital is never withdrawn from a country, i.e. cw = 1. Therefore, there exists a cuto value 
+c~ 0 so that the government is willing to start the project only if cw  c~. 
+In contrast, if the bureaucrat’s incentives were such that he was being `underdisciplined’, then lower 
+levels of global integration would have a negative e on his incentive to put in e Therefore, when 
+de 
+dc 
+< 0 a weakening of the \discipline" e occurs when capital t is made costly for the foreignw 
+investor. Indeed this can more than o the positive impact of global segregation on the policymaker’s 
+ability to keep investment despite a bad external shock (i.e. the \capture" e Accordingly, glob- 
+alization (i.e. a change in cw) may not have a monotonic impact on the government’s expected payo 
+Y21 
+ Y 
+d 
+Y 
+In the appendix we show that 
+de 
+e 
+dc 
+< 0 so thatw  (1  cw)f 
+e dc 
+ 0.w 
+39 
+
+========42========
+
+Let ~c  0 denote the minimum value of cw for which the government is indit between starting the 
+project and not starting the project at all. 
+By computation, it follows that, when 
+de 
+dc 
+> 0, ~c < c^ and when 
+de 
+w dc 
+< 0, ~c > c^ so that relative tow 
+second-best welfare benchmark, the policymaker has a higher incentive to impose capital controls when 
+there is an overdisciplining e of the threat of capital t and a lower incentive to impose capital 
+controls when there is a disciplining e of the threat of capital t. 
+Figure 1: Impact of Globalization on Incentives and Payo 
+FOREIGN INVESTORS POLICYMAKER-GOVT. 
+Positive \incentive" e (de=dcw) < 0 
+Impact of Globalization (reduction in cw) on Bureaucrat Incentives 
+Payo increasing in globalization: lower cw increases payo due to both the \incentive" e and \capture" e 
+dR=dc~ w < 0 
+Ambiguity in payo higher cw lowers payo due to the negative 
+\incentive" e but increases it due to the increased \capture" 
+dW=dcw > or < 0? 
+Negative \incentive" e (de=dcw) > 0 
+Ambiguity in payo higher cw in- creases payo due to the \incen- tive" e but reduces it due to the \capture e 
+dR=dc~ w > or < 0? 
+Payo decreasing in globalization: higher cw increases payo due to both the \incentive" e (re- duces overdisciplining) and In- creases \capture e 
+dW=dcw < 0 
+40 
+
+========43========
+
+8 Empirics 
+Table 2: Two-Stage Least Squares Estimates of the Contagion E 
+VARIABLES (1) (2) (3) (4) (5) (6) 
+PANEL A: First Stage (1) - Dependant Variable: Contagion x Poor Institutions 
+Contagion x Settler Mortality 0.454*** 0.716*** 0.708*** 0.709*** 0.611*** 0.559*** 
+(0.0951) (0.153) (0.152) (0.152) (0.156) (0.157) Settler Mortality x Post94 168.8* 22.73 27.29 16.79 157.7 231.02* 
+(95.57) (115.5) (115.3) (115.7) (124.8) (128.7) 
+R-squared 0.611 0.616 0.617 0.618 0.680 0.685 
+PANEL B: First Stage (2) - Dependant Variable: Post Treatment x Poor Institutions 
+Contagion x Settler Mortality -0.205* -0.00134 -0.0129 -0.0117 -0.178 -0.214 
+(0.105) (0.169) (0.168) (0.168) (0.174) (0.175) Settler Mortality x Post94 914.4*** 801.7*** 808.4*** 801.2*** 1,001*** 991.6*** 
+(105.3) (127.7) (127.3) (127.8) (139.6) (139.1) 
+R-squared 0.686 0.688 0.690 0.691 0.741 0.743 
+PANEL C: Second Stage - Dependant Variable: Bureaucratic Quality 
+Contagion x Poor Institutions -0.205 -0.833*** -0.868*** -0.873*** -0.737*** -0.781*** 
+(0.139) (0.214) (0.212) (0.211) (0.227) (0.246) Settler Mortality x Post94 0.249** 0.569*** 0.587*** 0.621*** 0.491*** 0.561*** 
+(0.115) (0.150) (0.149) (0.147) (0.164) (0.178) 
+C-D Minimum Eigenvalue 72.7 34.9 34.7 34.3 30.2 26.5 
+Year FE Y Y Y Y Y Y Country FE Y Y Y Y Y Y Non-interacted treatments N Y Y Y Y Y Di reaction if high st.cap. N Y Y Y Y Y Military Regimes N N Y Y Y Y Democracy N N N Y Y Y GDP per capita N N N N Y Y External Debt N N N N Y Y Exports N N N N Y Y Openness to Trade N N N N N Y Interdependence with Mexico N N N N N Y 
+Observations 616 616 616 616 528 484 Number of Countries 56 56 56 56 49 45 
+Notes: All models are estimated using IV. The time period included in the sample is restricted to 1987- 1998. The second stage dependent variable in all columns is Bureaucratic Quality. All models include country  e and year  e Contagion x Settler Mortality refers to the interaction between 
+Post94, Settler Mortality and Closeness to Mexico. *** p<0.01, ** p<0.05, * p<0.1 
+41 
+
+========44========
+
+Table 3: Robustness check: clustered standard errors 
+Dependant Variable: Bureaucratic Quality 
+Reduced Form Estimates IV estimates 
+(1) (2) (3) (4) (5) (6) 
+Contagion x Settler Mortality -0.597* -0.622* -0.627** 
+(0.331) (0.321) (0.313) 
+Contagion x Poor Institutions -0.833* -0.868* -0.873* 
+(0.503) (0.492) (0.493) 
+Year FE Y Y Y Y Y Y Country FE Y Y Y Y Y Y Non-interacted treatments Y Y Y Y Y Y Di reaction if high st.cap. Y Y Y Y Y Y Military Regimes N Y Y N Y Y Democracy N N Y N N Y GDP per capita N N N N N N External Debt N N N N N N Exports N N N N N N Openness to Trade N N N N N N Interdependence with Mexico N N N N N N 
+Observations 616 616 616 616 616 616 R-squared 0.106 0.156 0.175 
+C-D Minimum Eigenvalue 34.9 34.7 34.3 Number of Countries 56 56 56 56 56 56 
+Notes: All models are estimated using OLS. The time period included in the sample is restricted to 1987-1998. The dependent variable in all columns is Bureaucratic Quality. All models include country  e and year  e Standard errors are two-way clustered at the country and year levels. Contagion x Settler Mortality refers to the interaction between Post94, Settler Mortality and 
+Closeness to Mexico. *** p<0.01, ** p<0.05, * p<0.1 
+Table 4: Placebo Estimates of Contagion on Bureaucratic Quality 
+(1) (2) (3) (4) (5) (6) VARIABLES Placebo `86 Placebo `87 Placebo `88 Placebo `89 Placebo `90 Placebo `91 
+Contagion x Settler Mortality 0.00153 0.0263 0.0439 0.0275 -0.0206 -0.0531 
+(0.0520) (0.0512) (0.0494) (0.0465) (0.0477) (0.0494) 
+Year FE Y Y Y Y Y Y Country FE Y Y Y Y Y Y Non-interacted treatments Y Y Y Y Y Y Di reaction if high st.cap. Y Y Y Y Y Y Military Regimes Y Y Y Y Y Y Democracy Y Y Y Y Y Y GDP per capita Y Y Y Y Y Y External Debt N N N N N N Exports N N N N N N Openness to Trade N N N N N N Interdependence with Mexico N N N N N N 
+Observations 366 422 478 534 590 646 R-squared 0.158 0.162 0.166 0.164 0.149 0.154 Number of countries 56 56 56 56 56 56 
+Notes: All models are estimated using OLS. The dependent variable in all columns is Bureaucratic Quality. All models include country  e and year  e Contagion x Settler Mortality refers to the interaction between Post94, 
+Settler Mortality and Closeness to Mexico. *** p<0.01, ** p<0.05, * p<0.1 
+42 
+
+========45========
+
+Table 5: Falsi Tests of Other Potential Explanations 
+Perceptions Budget 
+VARIABLES Perceived Corruption Total Government Expenditures 
+(1) (2) (3) (4) (5) (6) (7) (8) 
+Contagion x Settler Mortality 0.162 -0.140 -0.154 -0.153 0.738 1.318 1.525 1.855 
+(0.109) (0.175) (0.174) (0.174) (0.695) (1.143) (1.153) (1.154) 
+Year FE Y Y Y Y Y Y Y Y Country FE Y Y Y Y Y Y Y Y Non-interacted treatments Y Y Y Y Y Y Y Y Di reaction if high st.cap. N Y Y Y N Y Y Y Military Regimes N N Y Y N N Y Y Democracy N N N Y N N N Y GDP per capita N N N N N N N N External Debt N N N N N N N N Exports N N N N N N N N Openness to Trade N N N N N N N N Interdependence with Mexico N N N N N N N N 
+Observations 616 616 616 616 315 315 315 315 R-squared 0.062 0.075 0.084 0.084 0.078 0.086 0.091 0.106 Number of Countries 56 56 56 56 31 31 31 31 
+Notes: All models are estimated using OLS. The time period included in the sample is restricted to 1987-1998. All models include country  e and year  e Contagion x Settler Mortality refers to the interaction 
+between Post94, Settler Mortality and Closeness to Mexico. *** p<0.01, ** p<0.05, * p<0.1 
+Table 6: Correlations between State Capacity/Capital Controls and Bureaucratic Quality 
+Capital Controls Bureaucratic Quality VARIABLES (1) (2) (3) (4) (5) (6) 
+State Capacity Index -0.0235*** -0.0238*** -0.0188*** 
+(0.00376) (0.00383) (0.00387) 
+Capital Controls -0.316*** -0.236*** -0.0462 
+(0.0679) (0.0683) (0.0666) 
+Country FE Y Y Y Y Y Y Perfect st.cap. Control Y Y Y Y Y Y Military Regimes N Y Y N Y Y Democracy N N Y N Y Y Population N N Y N Y Y GDP per capita N N Y N Y Y Quality of Institutions N N N N N Y 
+Observations 661 661 661 661 661 661 R-squared 0.112 0.113 0.143 0.018 0.089 0.265 Number of Countries 56 56 56 56 56 56 
+Notes: All models are estimated using OLS. *** p<0.01, ** p<0.05, * p<0.1 
+Table 7: Summary Statistics 
+Variable Obs Mean Std. Dev. Min Max 
+Institutions 1,589 2.69 2.24 0 9.5 Bureaucratic Quality 1,589 3.299 1.54 0.2 6 Genetic Closeness to Mexico 1,620 1204 543.2 14.14 1835 Settler Mortality 904 4.69 1.21 2.15 7.99 GDP Per Capita 1,695 7,147 7,079 155 39,873 Population (1,000) 1,695 40,188 137,022 211 1,255,698 Democratic 1,694 0.487 0.499 0 1 Military Rule 1,686 0.05 0.218 0 1 
+43 
+
+========46========
+

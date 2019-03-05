@@ -1,0 +1,990 @@
+September 2010 
+                                      No.19 
+Workers Without Borders: Culture, Migration and the Political Limits to Globalization 
+Sanjay Jain (Cambridge), Sumon Majumdar (Queens University) and Sharun W.  
+Mukand (Warwick) 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Workers Without Borders? 
+Culture, Migration and the Political Limits to Globalization 
+Sanjay Jainy 
+Sumon Majumdarz 
+Sharun W. Mukandx 
+A ugust 2010 
+For comments and discussions we are grateful to V. Bhaskar, Emily Blanchard, Michael Clemens, Francesco Giovannoni, Devesh Kapur, Wilhelm Kohler, Rod Ludema, Anna Maria Mayda, John McLaren, Giovanni Peri, Andrea Prat, Lant Pritchett, Imran Rasul, and Dani Rodrik. We are also grateful for the comments and suggestions of seminar participants at Virginia, Munich, Maryland, William and Mary, Tuebingen, Royal Holloway, Bath, Georgetown, George Washington, and the joint LSE-UCL seminar, and conference participants at the southeast Asia meeting of the Econometric Society, the CESifo area conference on Global Economy, the NEUDC annual conference, the Comparative Development conference at ISI Delhi, the American Economic Association annual meetings, the Political Economics Workshop at Cambridge University, the Brunel CEDI workshop, and the IZA Migration workshop in Bonn. Jain thanks the Bankard Fund for Political Economy for –nancial support. All remaining errors are our own. 
+yUniversity of Cambridge; and 
+IZA. Address: Faculty of Economics, University of Cambridge, Austin Robinson Building, Sidgwick Avenue, Cambridge CB3 9DD U.K. Tel: +44 (0) (1223) 335-264; Fax: +44 (0) (1223) 335-475; e-mail: sanjay.jain@econ.cam.ac.uk 
+zQueen™s University. 
+Address: Department of Economics, Queen™s University; Kingston, ON K7L 3Y2, Canada. Tel: +1 (613) 533-2274. E-mail: sumon@econ.queensu.ca 
+xUniversity of Warwick. 
+Address: Department of Economics, University of Warwick, Coventry CV4 7AL U.K. E-mail: s.mukand@warwick.ac.uk 
+
+========2========
+
+Abstract 
+This paper examines the role of cultural factors in driving the politics, size and nature (tempo- rary versus permanent migration) of migration policy. We show that there exists a broad political failure that results in ine¢ ciently high barriers restricting the import of temporary foreign workers and also admitting an ine¢ ciently large number of permanent migrants. Strikingly, we show that countries that are poor at cultural assimilation are better positioned to take advantage of tempo- rary foreign worker programs than more culturally diverse and tolerant countries. Furthermore, relaxing restrictions in the mobility of migrant workers across employers has the potential to raise host country welfare even though it increases migrant wages and lowers individual –rms™pro–ts. We also demonstrate the existence of multiple equilibria: some countries have mostly temporary migration programs and see a low degree of cultural assimilation by migrants, while other countries rely more on permanent migrants and see much more assimilation. 
+Keywords: International migration, political economy, political failure, culture, assimilation, multiple equilibria. 
+JEL Classi–cation Codes: D72; F22; J61. 
+
+========3========
+
+1 Introduction 
+The single international policy reform that will, arguably, yield the largest welfare gains, is an easing of restrictions on international worker mobility.1 Indeed, given these potential bene–ts, Rodrik (2002), Kremer and Watt (2008), Pritchett (2006), and Freeman (2006) have advocated programs that promote greater mobility of workers across borders. Nevertheless, if the gains really are as large as suggested, then the issue is why such extreme barriers to international worker mobility persist. We suggest that an answer perhaps lies in the fear of the impact of such migration on a country™s culture, religion and ethnicity. Accordingly, in this paper we take a –rst step in dissecting the role of cultural factors in in⁄uencing migration policy. We ask: how does concern about cultural factors in⁄uence the politics, as well as the size and pattern of (temporary versus permanent) migration? We further ask why a government might fail to reap the large economic gains from freer worker mobility, even if such a policy were to have no adverse distributional impact and where the repatriation of these workers could be costlessly enforced. Are there simple policy innovations that can result in higher politically sustainable levels of cross-border worker mobility? Finally, we analyze the two-way relationship between migration policy and migrants™ cultural assimilation decisions and examine whether it throws light on the diversity across countries (e.g. Europe and the U.S.) in their experiences with migration and cultural assimilation. 
+Much of the migration literature has focused on its economic and distributional consequences (see Ottaviano and Peri (2008), Facchini and Mayda (2009) and Hanson (2008) for a survey).2 However, such distributional e¤ects are not unique to labor: they also occur with the increased movement of goods and capital. We argue that what is distinctive about the politics of migration is that in popular perception it has the potential to a¤ect a country™s culture and identity. We assign a central role to the impact of cultural factors in determining the nature of immigration policy. While voters™concerns about culture and national identity have been central elements in the public debate surrounding immigration, there has been remarkably little work at developing a conceptual framework to think about these issues. In this paper we take a –rst step in this direction. A nascent empirical literature has brought attention to these issues. For instance, Pritchett (2006) argues that ﬁOf all the ideas that limit migration perhaps the most important is 
+1For instance, Walmsley and Winters (2003) estimate that a 3% increase in labor migration would result in half 
+the gains associated with complete trade liberalization, and Klein and Ventura (2006) suggest that the removal of all barriers to migration between OECD and non-OECD countries would boost world output between 92 and 172%. 
+2For a systematic analysis of the political economy of immigration also see Dolmas and Hu¤man (2004), Razin, Sadka and Swagel (2002), Facchini and Mayda (2009), Facchini and Willmann (2005). 
+1 
+
+========4========
+
+the idea that there is a national ‚culture™and that increased labor mobility threatens that cultureﬂ. This view is echoed by Freeman (2006), according to whom ﬁ...public opinion and national policies toward immigration seem to rest on issues well beyond gains and losses in the labor market. Some natives worry that immigrants will present a cultural threat to their way of life and reduce social cohesionﬂ. Recent work by Card, Dustmann and Preston (2009) empirically demonstrates the importance of cultural factors in determining attitudes towards immigration. Indeed they argue that cultural factors are far more important than economic factors in driving the hostility towards migrants.3 Accordingly, in this paper we examine systematically the impact of cultural factors not just on the size of migration, but also its pattern. For instance, temporary guest-worker programs may be viewed as less threatening to a country™s culture, identity and ethnic make-up. On the other hand, permanent migration may result in larger economic gains, but their cultural impact is also likely to be higher. 
+We construct a simple dynamic political economy framework where we explore this tension between the income gain from greater migration and the associated cultural cost.4 Our framework possesses two key features. First, the objectives of employers/–rms and the country™s citizens are only partially aligned. While both –rms and citizens bene–t from having temporary workers –ll any shortage in labor, the –rms would prefer to retain the more productive, experienced workers for the long run, even if by doing so they become permanent residents. In contrast, citizens worry about the costs of having culturally very dissimilar migrants, especially if there is the prospect of them becoming permanent citizens. Second, government policymaking in our framework can be in⁄uenced through both lobbying and elections.5 Citizens can threaten to vote out of o¢ ce any government that chooses a migration policy against its wishes. In contrast, –rms can lobby the government to retain the temporary workers and make them permanent. Under these conditions we demonstrate that there exists a broad political failure with regard to migration policy. All parties in the country Œthe government, –rms and citizens, strictly prefer a larger guest worker program and fewer permanent workers. Nevertheless, countries let in not only an ine¢ ciently small number of temporary migrants but also an ine¢ ciently large number of permanent migrants. It is worth observing that these twin ine¢ ciencies have little to do with the distributional impact 
+3They argue that hostility towards immigration is driven by ‚compositional externalities™(i.e. culture, religion 
+and ethnicity) associated with immigration, and suggest that such cultural factors are three to –ve times more important than economic factors in driving hostility towards immigration. 
+4The dynamic structure of the model shares many features with Coate and Morris (1999). 
+5In a common agency framework Facchini and Willmann (2005) examine how government policymaking with respect to factor mobility is a¤ected by citizens™concerns as well as campaign contributions. 
+2 
+
+========5========
+
+of immigration, nor any administrative costs of admitting or repatriating temporary workers. Rather, the failure to implement immigration policies that are ‚potentially Pareto improving™, in the terminology of Besley and Coate (1997, 1998), is solely due to the competing political interests of –rms and citizens. 
+So why this political failure? The reason is that citizens worry that once admitted, these (culturally dissimilar) temporary migrants will not remain temporary. The –rms will lobby to retain these workers for the long run and make them permanent residents. Citizen-voters are well aware of the government™s vulnerability to the lobbying e¤orts of the –rms. Accordingly, they aim to limit the lobbying incentives of the –rms by restricting the number of temporary workers allowed into the country in the –rst place, and by threatening to replace any government which breaches that threshold. Hence, it is the citizen-voter™s recognition of a lack of inter-temporal control over the elected government that prevents socially optimal worker movement across borders. We show that this same concern also leads to an ine¢ ciently large number of permanent migrants allowed into the country. However, to be complete, this argument needs to go further. In particular, such a mechanism should also simultaneously account for the –rms™ much greater e¤ectiveness at retaining foreign workers than at lobbying to admit them into the country in the –rst place (see Coate and Morris (1999) for a general argument). This arises naturally in our framework, since the introduction of a temporary worker program creates a wedge between the pre and post migration incentive of the –rms to e¤ectively lobby the government. 
+Our analysis yields several insights. First, in the realm of practical policy design, our framework suggests a simple welfare improving policy innovation that is also politically feasible. Temporary worker migration programs in most countries typically require the ‚tying™of guest workers with speci–c employers (see Table 1). The question of practical policy interest is whether this employer- guest worker ‚tying™ is in the interest of the host country. At –rst glance the answer seems a straightforward yes Œafter all by restricting the mobility of the migrant worker, the domestic –rm can pay lower wages to the migrant worker and thus extract a higher pro–t. Nevertheless, our analysis shows that such an inference would be misleading. This is because greater mobility across –rms results in higher wages for the worker and lower rents for the –rm, thereby reducing the –rms™incentives to lobby intensively the politician to retain the foreign workers. Thus it makes a higher level of temporary migration politically sustainable. Ipso facto, elimination of worker-–rm ‚tying™ will result in the country being better positioned to take advantage of the immigration surplus by being better able to exploit productive opportunities that were going un–lled due to shortage in labor. Therefore, a policy that strengthens the foreign migrant™s bargaining position, 
+3 
+
+========6========
+
+somewhat paradoxically also bene–ts the host country™s overall welfare.6 
+Some of the largest guest-worker programs in the world exist in the Arabian Gulf States. One puzzling aspect of these programs is that there has been a dramatic shift in the source country for much of the migrant workforce coming into the Gulf States. Relatively easy-to-assimilate Arab workers from Jordan and Egypt have been replaced by culturally very dissimilar migrant workers from India and the Philippines (Jureidini, 2006). Further, this shift coincided with a large increase in the size of these migrant programs. This –nding accords well with our second comparative static result which demonstrates that host country welfare may be higher if it is di¢ cult for the temporary workers to culturally assimilate. In other words, (a) it may be easier to politically sustain a temporary migration program involving foreign workers who –nd it harder to assimilate, and (b) countries which are good at rapid socio-cultural assimilation of foreign workers may –nd it di¢ cult to sustain high levels of temporary migration. The reason is that it is politically very costly for the government to let temporary migrants stay on in those countries where they are not assimilated easily. This raises the politically sustainable level of temporary labor migration Œreducing overall ine¢ ciency Œmuch as in the above case study. 
+Countries di¤er in their ability to culturally assimilate foreign migrants. For instance, countries such as the U.S. have been perhaps more successful in assimilating their migrants than countries in Europe, such as Germany. Are these di¤erences simply an accident of history, or are they due to di¤erences in fundamentals, such as the degree of xenophobia? Can the nature of migration policy itself in⁄uence the migrants™incentives to culturally assimilate? On the one hand scholars such as Huntington (2004) have raised concerns about the scale of permanent migration, worried that ﬁthe single most immediate and serious challenge to America™s traditional identity comes from the immense and continuing immigration from Latin Americaﬂ. In contrast, others such as Rodriguez (2007) believe that temporary migration programs ﬁcompromise our ability to integrate immigrants e¤ectively into the American body politicﬂ. We explore these issues by endogenizing a migrant™s cultural assimilation decision. Since our framework relates migration policy with the cultural costs imposed by immigrants, and the latter is related to the migrants™ e¤orts at assimilating with the native culture, it naturally provides an account of migration programs and assimilation taken together. We demonstrate that there may be multiple equilibria, with countries with very similar fundamentals being stuck with very di¤erent migration policies and being more or less successful with cultural assimilation by their migrants. Some countries rely mainly on temporary 
+6Our analysis provides a framework to discuss the political sustainability of Kremer and Watt™s (2008) proposal 
+in which they argue for the political attractiveness of temporary labor migration programs in the household sector. 
+4 
+
+========7========
+
+migration programs (with temporary migrants having a very low scope for being made permanent) and see a relatively poor degree of assimilation by the migrants. In contrast, other countries have temporary migration programs that are a stepping-stone towards (large) permanent migration and are good at assimilation. This multiplicity is generated by the impact of migration programs on the migrants™assimilation decision on the one hand, and the in⁄uence of assimilation by migrants in the native culture on the natives™choice of migration policy on the other. The precise equilibrium that a country –nds itself in could be a result of its history with migrants in the past. The importance of accounting for issues of cultural assimilation in deciding the cultural composition of the immigration pool was systematically made –rst by Lazear (1999). More recently, Epstein and Gang (2008, 2010) consider the dynamics of the assimilation decision, both by the immmigrants as well as their native supporters, and the competing pressure of maintaining their ethnic identity to which migrants might be subject. Konya (2007) also focuses on cultural assimilation by migrants and its interaction with the decision to migrate in the –rst place, but taking immigration policy as given. Our focus is on how immigration policy (temporary versus permanent) itself may be shaped by the degree of the migrants™assimilation. 
+The rest of the paper is organized as follows. We describe the model in Section 2 and analyze the equilibrium in Section 3. Various implications of the model are discussed in Section 4 and Section 5 concludes. 
+2 The Benchmark Model 
+Labor migration a¤ects the domestic labor market, the host country culture and its politics. The framework that we develop aims to capture these interactions in a dynamic framework. However, having all of these features necessitates that we include them in the most parsimonious way, and eliminate all that is not essential. With this caveat, we now describe the model. 
+Production and the Labor Market: Consider an in–nite period economy with many production opportunities each period, but a shortage of quali–ed workers to take advantage of them. We 
+assume that f production opportunities open up at the beginning of the game, the implementation of each of which requires one worker. For simplicity, one could think of each of these production 
+opportunities as occurring in separate –rms. The country has a population comprised of iN (native) citizen-workers, with the crucial assumption that iN < f i.e. there are fewer native workers than required. Thus the employment of foreign workers is necessary to prevent some 
+productive opportunities being wasted. This could be viewed either as a model of the entire 
+5 
+
+========8========
+
+economy or for a particular sector which faces a shortage of quali–ed workers. Furthermore, we rule out distributional e¤ects by assuming not only that all natives are identical but also that all natives own an equal share of all –rms in the economy. This ensures that distributional consequences cannot be behind any political backlash towards foreign migrants. 
+We denote the world wage as w0 and assume that if a –rm is able to locate a suitable foreign worker, this is the wage it needs to pay him/her in the initial period. It will be the case if for ex- ample, this particular country is an attractive destination and there is competition among workers to move here. In the absence of any other considerations, the solution for the shortage would be to bring in v = f  iN foreign workers to implement the unutilized production opportunities so long as the wage for these workers does not exceed their output. These workers can be brought in on a temporary or permanent basis. The distinction between the two sets of workers is that temporary workers are to be repatriated at the end of their stint (assumed to be one period), while permanent workers can stay inde–nitely. We describe the cultural and productivity di¤erences between these two types of migrant workers below. 
+Almost by de–nition, foreign workers come from a dissimilar working environment and there are likely to be gains in productivity as they spend more time at their new jobs and adjust to their new environment. Furthermore, the skill-set for foreign workers may not immediately match that of native workers and thus they may require a transition period to get themselves up to par. We thus assume that in the –rst period of their arrival, the productivity of a foreign worker is y; while from the next period onwards, their productivity increases to y(1 + ); which is at par with native workers. Part of this increase  may be –rm-speci–c, while the remaining is general. We denote the –rm-speci–c component by s and the general part by g so that  = s+g: Accordingly, the ﬁimmigration surplusﬂequals v:y or vy(1 + ) minus the wage, depending on whether we are talking about new or experienced foreign workers.7 
+In the longer term (i.e. from the second period onwards) there maybe no di¤erences in the intrinsic productivity of migrant and native workers. Nevertheless, migrant workers face commu- nication, cultural and other social barriers that can limit their inter-–rm mobility till such time as they completely integrate into the country™s work force. With more time spent at the workplace and in the country (i.e. at least two periods), the migrant worker™s familiarity increases (say, due to an increasing ability to navigate cultural and linguistic barriers) and he may be in a position 
+7Since it su¢ ces for our purposes, we have chosen a particularly simple way to depict the labor market and 
+the ‚immigration surplus™. For a more elaborate general-equilibrium model of the labor market that shares many qualitative features of our simpler structure, see Helpman, Itskhoki and Redding (2008). 
+6 
+
+========9========
+
+to seek opportunities at other –rms, albeit at a possible mobility cost, which we discuss next. The extent of this mobility may depend on the nature of the country™s labor market, as well as cultural and legal di¤erences in the treatment of native versus migrant workers. In particular, a number of analysts have observed that there are di¤erences in structure between labor markets in Europe and the United States (Blanchard, 2005), with both geographic and inter-–rm mobility being much higher in the U.S. than in Europe (Nickell, 1997). We model this in the simplest way by assuming that the cost for a migrant worker to move to another –rm is y; thus from period t = 2 onwards, the outside option for a migrant worker is y(1 +g   ): Note that  can be thought of as a measure of the degree of segmentation of the labor market between natives and migrants, with  = 0 representing the case where there is no di¤erence between workers in terms of their history of origin. We refer to such a labor market as being integrated. A higher value of  re⁄ects an environment in which a migrant worker™s outside option is constrained. In such segmented markets, given the employee™s relatively weak outside option after the –rst period, the –rm has the potential to retain a larger part of the surplus generated by the migrant worker™s increased productivity.  can also re⁄ect di¤erences in policies across countries that limit the ability of migrant workers to move away from the employers who hired them (and brought them into the country) in the –rst place. 
+From the second period onwards, since there is a –rm-speci–c as well as a general component to the migrant worker™s productivity, we model the interaction between the –rm and the worker in the usual manner of bilateral Nash bargaining. We denote by  the bargaining strength of the –rm, and correspondingly, 1   is the bargaining strength of the worker. 
+Natives, Migrants and Socio-Cultural Heterogeneity: So far we have only described the economic aspects of migration. Higher levels of migrant labor boost national income by allowing the im- plementation of productive opportunities which would have otherwise gone abegging due to a shortage of labor. However, migration levels also matter because they may change the country™s sociocultural makeup. As forcefully argued by Alesina and La Ferrara (2005) and Huntington (2004), citizens of a country care not just about their income but also the degree of sociocultural heterogeneity in society.8 Greater ethnic and cultural diversity can a¤ect a native citizen™s welfare in di¤erent ways. As we discuss further in section 4.2, greater sociocultural heterogeneity can ad- versely a¤ect a native citizen through its impact on the nature of local public goods provided (see 
+8For instance, Freeman (2006) suggests that ﬁsome natives worry that immigrants will present a cultural threat 
+to their way of life and reduce social cohesion. This view is re⁄ected in the attitudes of some Europeans toward immigrants from developing countries, particularly those from Moslem countries.ﬂ 
+7 
+
+========10========
+
+Alesina and Spolaore, 1997). For example, natives may dislike the fact that the nature of public education changes with greater Hispanic immigration, with resources being diverted away from, say, classical music and towards teaching Spanish. A more straightforward way is when diversity enters preferences directly (as in Alesina and La Ferrara, 2005). This accords with pioneering work in social psychology by Tajfel et al. (1971) that suggests that greater ethnic heterogeneity has a direct (and adverse) impact on the utility obtained by an individual through social interaction.9 
+We model this disutility in a straightforward manner, by directly assuming (section 4.2 provides some microfoundations for this cost) that migrants impose a cultural cost on native citizens. This cost is c0 for every worker during his presence in the country in the –rst (temporary) period and c( 
+n 
+1+a) 
+if n migrants are present beyond their –rst period in the country, where c0; c00 > 0. This formulation captures, in a parsimonious way, several aspects of the cultural tradeo¤s between having temporary versus permanent migrants (i.e. those staying beyond the –rst period). Unlike short-term workers, permanent migrants acquire voting rights and may thereby in⁄uence the allocation of scarce resources across local public goods in ways that adversely a¤ect native welfare (e.g. resources towards bilingual education and not piano lessons).10 Permanent migrants are also more likely to be accompanied by family, which further increases their cultural ‚burden™. Thus overall, permanent migrants may impose higher cultural costs because they arguably threaten the nation™s ﬁidentityﬂ and ethnic composition. Furthermore, their in⁄uence on society and the cultural burden they impose on the native citizens is likely to be greater as they increase in number. Accordingly, we assume that the marginal cultural cost being imposed by these permanent migrants is increasing in n: For simplicity in analysis, we assume that the cultural cost c0 imposed by temporary migrants is linear in their numbers; allowing some convexity in these costs as well does not qualitatively change the results. While in our benchmark model we assume that the cultural costs associated with permanent migration are higher, we relax this assumption in section 4. We do this because under some conditions it can be argued that temporary migrants have a lower incentive to invest in cultural assimilation than permanent migrants. Accordingly, in section 4.1 we endogenize the migrant™s cultural assimilation decision.11 
+9See Leyens et al. (2003) for a more recent discussion. 
+10Freeman (2006) again: ﬁAnother factor that determines attitudes toward immigration is that immigrants 
+even- 
+tually become citizens and a¤ect politics.[Emphasis added] In the United States, both political parties seek support 
+from the growing Hispanic community and tailor their policies on immigration to appeal to that community.ﬂ 
+11There may be positive cultural bene–ts as well from having migrants Œ for example, in the form of increased diversity. Including this (e.g. in the form of negative costs over a certain range) does not change the qualitative nature of our results. We explicitly incorporate such bene–ts in our analysis of cultural assimilation in section 4. 
+8 
+
+========11========
+
+Thus, while permanent migrants contribute more because of their increased productivity y(1+ ) from period t = 2 onwards, they also impose cultural costs of c( 
+n 
+1+a) 
+as compared with that imposed by temporary migrants, namely c0. If the permanent migrants impose lower cultural costs as well, then the solution to the labor shortage problem is trivial, namely, to import v permanent workers once and for all. Thus to make the problem interesting, we assume: 
+Assumption 1: (i) y(1 + )v 
+ c( 
+v 
+1+a) 
+< 0; 
+(ii) y 
+ w0 
+ c0 > 0 
+Assumption 1(i) ensures that, for a large enough number of permanent workers, the socio- cultural heterogeneity costs outweigh their productivity, so that national welfare would not be enhanced if all the v vacant slots were –lled with permanent migrants. At the same time, assump- tion 1(ii) states that the one period surplus from hiring a temporary migrant worker is positive even after accounting for the cultural costs he or she imposes. Thus in the absence of any other considerations, importing migrants on a temporary basis provides a viable measure to –ll the labor shortage and enhance national welfare. However if there is some chance that the tempo- rary migrant workers may be retained and made permanent in the long run, then their long term productivity gains and cultural costs will have to be taken into account. 
+The Migration Protocol: All temporary migrants are randomly matched with the available vacant jobs. The number of –rms is large relative to the vacant jobs, so that the chance that any particular –rm gets a migrant worker is small.12 Further, we assume that the government incurs zero administrative costs in enforcing the repatriation of temporary migrants. We also assume that all foreign workers are treated symmetrically. This implies that the government can neither selectively tax nor repatriate a subset of these workers. Relaxing the latter assumptions does not alter the qualitative nature of our results. 
+However, if the migrant worker stays for two periods or longer, then he cannot be repatriated Œ the idea being that he becomes a permanent resident or citizen. Thus the tension between voters and –rms comes at the end of the –rst period, when the repatriation of temporary migrants is still feasible and desired by the citizenry, while –rms are interested in retaining them for their productivity gains. The e¤ect of this tension on realized policy works through the political process, which we detail next. 
+The Political Structure and Immigration Policy: At the start of each period, citizen-voters choose a voting rule which speci–es the number of migrants (temporary and permanent) to be allowed 
+12This allows us to focus on the –rms™e¤orts to retain their experienced workers, by ruling out the possibility of 
+their also having an incentive to lobby for (a higher number of) temporary workers in the –rst place. 
+9 
+
+========12========
+
+in that period, and the associated probability of re-election of the incumbent politician for every course of action (i.e., temporary and permanent workers) that he takes. Depending on the number of temporary and permanent workers allowed in, and the voting rule chosen by the voters, –rms can lobby the government Œspeci–cally, to retain the temporary workers at the end of the period, so as to take advantage of the gain in productivity of these workers during their subsequent periods of work with the –rm. At the end of the period, the incumbent politician who runs the government decides whether to repatriate the temporary migrants, who have by then acquired one period of ‚experience™, or to allow them to be retained by their employers, thus granting them, in e¤ect, permanent residence. The incumbent politician then faces an election. 
+All politicians are identical and care both about the representative citizen-voter™s utility, UN; as well as their own rents, which consist of the ego rents R from holding o¢ ce as well as any bribes B paid to them to in⁄uence their choice of policies. A politician™s payo¤ each period is given by 
+UP OL = (R + B) + UN 
+(1) 
+where  is the relative weight that he puts on his own rents. Given these preferences, both the citizens and the lobby are in a position to in⁄uence (using di¤erent instruments) government policymaking. The lobby can o¤er the government a bribe to induce it to allow –rms with experi- enced workers to retain them (thereby making them permanent workers, who are immune to future repatriation). In contrast, citizen-workers exercise control on government policy by threatening to replace the incumbent government in the upcoming elections. This political framework, which involves a dynamic game between the lobby, the politician and the citizen-workers of the country, is based on the structure in Coate and Morris (1999). 
+The timing of the game is as follows. At the beginning of each period, citizens observe the 
+degree of labor shortage v in the economy, and decide on the number of temporary and permanent migrants, (nT; nP) to be let in that period. They convey this to the politician by choosing a voting rule, which associates a probability of re-election for the politician/government with all possible corresponding actions (in particular, vis-a-vis repatriation) taken by the politician. The government in power chooses the number of migrant workers that –rms are allowed to bring into the country in that period. Firms hire these workers from foreign countries at the going wage rate. At the end of the period, the –rms™lobby decides whether, and how much, to o¤er the politician in 
+bribes B to implement its preferred policy of letting the experienced temporary migrant workers, who are due for repatriation, remain in the country. The incumbent politician observes the citizens™ voting rule and the bribe o¤ered by the lobby, and decides on immigration policy, which determines 
+10 
+
+========13========
+
+whether –rms are allowed to retain their experienced migrant workers. The politician can choose either to accept the bribe and implement the lobby™s preferred policy, or refuse the bribe and repatriate the temporary workers (with the aim of getting re-elected). The politician™s decision on whether or not to allow –rms to retain their experienced migrant workers is observed by citizen- voters, who then vote at the end of the period on whether to re-elect the incumbent politician, or replace him with a randomly drawn challenger. Next period, the same cycle is repeated, with either the re-elected politician, or the newly elected government that replaces him. 
+3 Equilibrium Analysis 
+We begin by brie⁄y delineating key features of the social planner™s problem by describing the optimal migrant mix in the absence of any political considerations on the part of the government. Having established the social optimum as a benchmark, we then analyze the equilibrium with political factors at work. 
+3.1 The Socially Optimal Mix: Temporary versus Permanent Migrant Workers 
+A social planner will maximize the representative citizen™s discounted stream of utility. Accord- ingly, the socially optimal number of temporary migrant workers mT and permanent immigrants mP solves the following problem: 
+max (ymT;mP  w0  c0)(mT + mP) + 
+ mP 
+1  [(y 
+ w0  c0)mT + fy(1 + )  wPgmP  c( 
+1 + a)] subject to the constraint that mT + mP  v; where wP denotes the wage that migrants will earn once they become permanent. 
+To determine wP; note that for each –rm, an extra experienced worker from period t = 2 onwards yields output of y(1 + ) each period. Since part of the worker™s increased productivity consists of general skills g which he can take to other –rms (at mobility cost  ), it gives the worker an outside option of y(1 + g   ) in bargaining with his current employer. Thus the worker and –rm bargain over the surplus y(1 + )  y(1 + g   ): Denoting the –rm™s relative bargaining strength by ; the share of the surplus enjoyed by the –rm from having such a worker is  [y(1 + )  y(1 +g   )] = y (s+  ), while the wage paid to permanent workers, wP, is given by y(1 + )  y (s +  )_. 
+Incorporating this in the expression above, the –rst-order condition with respect to mP is: 
+y (s +  )  
+ 
+c0( 
+mP 
+1 + a 1 + a) 
+ 0 with equality if mP > 0 (2) 
+11 
+
+========14========
+
+and the solution for mT is that temporary migrants –ll up the rest of the shortage i.e. mT = v  mP; since the surplus they provide viz. y  w0  c0 is positive by Assumption 1(ii). 
+Our framework emphasizes two factors that drive the socially optimal mix of temporary and permanent migrants. The –rst is the impact of the migrant worker™s productivity and how it evolves over time. For instance, if a worker™s productivity increases signi–cantly with time spent in the host country, even a country that is culturally averse to migrant workers may prefer perma- nent migrants. The other driving force is the preference that natives have for temporary versus permanent migrant workers Œthe inter-temporal ﬁcultural assimilationﬂe¤ect.13 Given these two e¤ects, two main possibilities arise. 
+(i) Corner Solutions: Permanent Immigration versus Temporary Migration: The social planner™s optimization problem may result in a corner solution where only temporary migrants are admitted, i.e. mT > 0 and mP = 0. This is the case when the cultural costs of permanent immigration are so high that it is not worth the increase in productivity i.e. when y (s +  )  
+ 0(0) 
+1+ac 
+< 0: 
+The reverse case, i.e. mT = 0; is also possible, where some permanent migrants are let in, while temporary migration is not allowed. This will be the case when either the surplus from a temporary worker y  w0  c0 is negative, or when the enhanced productivity of a long-run permanent migrant is enough to outweigh their (small) cultural costs i.e. if y (s+  )  
+ 0( v 
+1+ac 1+a) 
+> 0. For example, a country good at cultural assimilation, would prefer permanent migrants, even if they were of the same productivity as temporary migrants. 
+(ii) Interior Solution: Both Temporary Migrants and Permanent Immigration: Alternatively, for a wide set of parameters we may have an interior solution with both temporary and permanent migrants i.e. mT; mP > 0. Such an outcome is possible if the cultural costs of the temporary migrants do not outweigh their productivity bene–ts i.e. y  w0  c0 > 0; and the cultural cost of the marginal permanent immigrant is smaller than his/her long-run productivity gain i.e. y (s+  )  
+ 0( v 
+1+ac 1+a) 
+< 0: In this case, the social optimum will consist of bringing in permanent migrants till the point where their productivity surplus is o¤set by the rising cultural cost, and then –lling in the rest of the worker shortage using temporary migrants. Assumptions 1(i) and (ii) precisely give rise to this possibility. 
+13Of course, a country™s ability to assimilate foreign migrants is likely to be a function of the ethnicity of the 
+migrant workers and the ability of the country™s society to absorb and integrate migrants into the national fabric, and may di¤er widely across countries. In section 4.1 we endogenize the migrant™s cultural assimilation decision and make it a function of whether he perceives himself as likely to be in the country for the short or the long run. 
+12 
+
+========15========
+
+3.2 Politics and Barriers to Entry: Equilibrium Analysis 
+We turn next to incorporating political considerations in the migration decision. This now involves a dynamic interaction between the decisions of the citizen-voters, the –rms and the government (and is similar in structure to the political framework in Coate and Morris, 1999). The strategies and timing of this interaction are as follows. At the start of any period t, given the past history of migration policy and the resulting levels of immigration, citizen-voters choose their desired temporary and permanent migration levels for that period, (nT t; nP t), and a voting rule 
+t, de–ned as a function which associates a probability of re-election of the incumbent politician with every policy action undertaken by him. Next, the –rms which receive the nT t temporary migrant workers form a lobby and choose a bribing strategy t which determines the bribe Bt to o¤er the politician, if he chooses to allow them to retain their migrant workers.14 The politician then chooses a decision function, ˆt; by which to determine whether to take the bribe, if o¤ered, or to reject the bribe and repatriate the temporary workers. Voters observe the politician™s decision, and choose whether to retain the incumbent or to unseat him in favor of the challenger, in accordance with their voting rule. Next period, the same cycle begins again. An equilibrium strategy pro–le ( 
+t; t; ˆt) requires that each player™s strategy constitute a best response to the other players™equilibrium strategies. 
+We proceed below in a series of steps. For expositional simplicity, we begin by considering the case where permanent migration does not take place. (Later we derive conditions under which this occurs in equilibrium more generally). By ‚freezing™permanent migration, we are able to focus on the level of temporary migration and to develop some insight for the sorts of policies that might sustain welfare-improving (higher) levels of temporary migration. In the subsection 3.2.2 that follows, we open up the the parameter space to consider migration regimes that entail permanent migration as well. 
+3.2.1 Only temporary migrants 
+To understand the impact of political constraints on immigration, we –rst study the case where the only decision is on how many temporary migrants to let in every period. Given assumption 1(ii) that the surplus from employing them is positive, the socially optimal decision in this case would be to –ll all the v vacancies with temporary migrants. Unfortunately, there is the possibility that once admitted, the –rms™ lobby may bribe the government into making the temporary workers 
+14As mentioned previously, since any one –rm has a very small probability of receiving a temporary migrant 
+worker, hence it has little ex-ante incentive to join a lobby to press the government to expand the temporary migration program. 
+13 
+
+========16========
+
+permanent due to their increased productivity. This possibility and the resultant large cultural costs may limit the extent to which citizens are willing to allow in temporary workers in the –rst place. Since the social optimum here is rather simple and involves a rotating pool of v (temporary) migrants every period, the extent of ine¢ ciency can be easily detected through the deviation of migration policy from this level. 
+Consider –rst the citizen™s decisions, which involves choosing a voting rule to maximize the incentives it provides to the incumbent politician to follow the citizen™s migration preferences. Here the primary issue under consideration is the repatriation of the temporary migrants versus their being made permanent. Thus, the citizen™s voting rule is very simple: the incumbent government will be re-elected if and only if all temporary workers are repatriated. A second aspect of this decision involves the follow-up action if the government were to deviate and in fact allow the –rms to retain the temporary workers permanently: how much migration should be allowed in the future in that case? Since politicians care both about rents from being in o¢ ce as well as future welfare, the strongest incentive can be provided to them by promising the worst possible outcome on both dimensions. Since by assumption 1(ii), the welfare bene–t from bringing in temporary workers is always positive, the worst outcome on the welfare dimension is to disallow the import of any more workers ever after. Thus the promised (punishment) strategy following a deviation is to throw out the incumbent government and scrap all migration programs forever. While one may view this as the usual grim trigger strategy of repeated games, here it can be interpreted as the electorate losing faith in the political viability of migration and choosing to scrap it.15 
+Given this voting rule, we need to focus only on the case where migration is still allowed. Consider the equilibrium strategy of the incumbent politician. If o¤ered a bribe B to retain the temporary migrants, he trades o¤ the gain from accepting the bribe versus the loss in ego-rents R from being voted out of o¢ ce as well as future welfare. 
+In any period, the incumbent politician™s payo¤ from accepting the bribe (ˆ = 1), to retain nT temporary workers, is 
+15It may be useful to make two points at this stage. First, instead of considering totally scrapping migration 
+following a deviation, one might instead consider allowing the citizens to optimally chose a new policy at every stage following a deviation. However, this would require the entire path of choice to be worked out. It is possible to trace out this path, starting backwards from the point where it is no longer optimal to admit any migrants. However, it makes the analytics much less tractable without yielding any additional insights. Second, of course, ruling out future migration programs based on job vacancies does not preclude migration for other reasons, such as asylum or family reuni–cation, which are outside the scope of our model. 
+14 
+
+========17========
+
+VI(ˆ = 1;nT) = [R + B] + UN(nT;0) + VN(0; nT) 
+(3) 
+where UN(a; b) represents the native citizens™ welfare from having a temporary migrants and b permanent migrants in the economy in that period. VN(0; nT) is the value function that the politician associates with being out of power, having deviated from the voters™wishes and allowed the nT workers to stay on. In that case, since all future migration is disallowed, (0; nT) is the number of temporary and permanent workers in the future, and his continuation payo¤ is simply that of the average native citizen-worker, i.e., VN(0; nT) = 
+1 
+1  UN(0; nT 
+). 
+In contrast, the incumbent politician™s payo¤ from rejecting the bribe (ˆ = 0) and adhering to the voters™rule equals 
+VI(ˆ = 0;nT) = R + UN(nT;0) + VI(ˆ = 0;nT) 
+(4) 
+where VI(ˆ = 0;nT) is the value function that the politician associates with being in power, having complied with the voters™wishes. If the politician continues with the policy of repatriating the temporary migrants, then he enjoys being in o¢ ce the following period as well. Thus the total gain to the politician from not deviating is given by solving the above equation to get: 
+VI(ˆ = 0;nT) = 
+R 
+1  
++ 
+UN(nT;0) 
+ 1   
+(5) 
+Therefore if the number of temporary migrants under consideration is nT; the incentive con- straint for the politician is given by: 
+VI(ˆ = 0;nT)  VI(ˆ = 1;nT) 
+(6) 
+Substituting for the VI™s from above, a bribe-level B will be enough to persuade the politician to allow nT experienced (temporary) workers to be retained by their employers if: 
+B + 
+1 
+ 
+ UN(0; nT) 
+ 
+1 
+  R 
++ 
+1 
+ 
+ UN(nT;0) 
+(7) 
+where the natives™ utility function UN incorporates both the additional income as well as the heterogeneity-disutility from the immigrant workers. Hence we have: 
+UN(0; nT) = [y(1 + )  wP]nT  c( 
+nT 
+1 + a)n 
+= y (s +  )nT  c(1 + 
+T 
+a 
+) UN(nT;0) = (y  w0  c0)nT 
+15 
+
+========18========
+
+On the other hand, recall that the –rm lobby makes a take-it-or-leave-it o¤er to the politician where, in exchange for a bribe B, the politician agrees to let the lobbying –rms retain their temporary migrants. Thus we need to determine the maximum level of bribe that the –rm lobby is willing to o¤er. For each –rm, an extra experienced worker from period t = 2 onwards yields output of y(1+) each period. As discussed before, such a worker™s outside option is y(1+g In the resulting bargaining between the worker and the –rm; the surplus for the –rm from having 
+such a worker is y (s +  ). 
+  ): 
+Hence the maximum bribe the –rm lobby will be willing to pay for retaining permanently the 
+nT temporary workers is: 
+Bmax = 
+1 
+ 
+(8) 
+  
+y (s +  )nT 
+The incentive-compatibility constraint for the politician requires that this maximum bribe-level 
+not be enough to persuade the politician to retain the temporary migrants i.e. incorporating it 
+into (7) one requires: 
+1 
+ 1 
+ 
+  
+y (s +  )nT + 
+1  
+ R 
++ 
+ 
+1  [(y 
+ w0 
+ 
+ [ 
+y (s +  )nT 
+ c( 
+nT 
+1 + a)] 
+ c0)nT] 
+(9) 
+Since the gain from bringing in temporary workers is positive so long as they are not made permanent, the optimization problem for the citizen at the beginning boils down to choosing the maximum number of temporary migrants nT subject to this incentive constraint. Rewriting it, we 
+have: 
+nT[(1 + ) y (s +  ) 
+ (y 
+ w0 
+ c0)] 
+ c( 
+nT 
+1 + a) 
+ R 
+(IC0) 
+This is portrayed in –gure 1 below. It is clear from the –gure that unless the end point (i.e. at nT = v) of the left-hand side of (IC0) lies below R; the equilibrium level of temporary migration is lower than the social optimum. This is summarized in the proposition below. 
+Proposition 1 For  in an intermediate range i.e. for  2 (;); if 
+[(1 + ) y (s +  ) 
+ (y 
+ w0 
+ c0)]v 
+ c(1 + 
+v 
+a) 
+> R 
+(10) 
+then in a world with political constraints, the equilibrium level of temporary migrants nT will be lower than the socially optimal level, i.e. nT < mT:. 
+16 
+
+========19========
+
+Figure 1: The equilibrium number of temporary migrants 
+The basic intuition for the result is fairly straight-forward. Since –rms gain from retaining temporary migrant workers, they lobby the politician to not repatriate the temporary migrants. An increase in the number of temporary workers increases the resources the –rms are willing to commit to e¤ectively lobby the government. Anticipating this, at the beginning citizens decide on a suboptimal (low) number of temporary migrants. Put another way, the proposition suggests that the socially optimal level of temporary labor migration is not politically feasible. 
+While the analysis so far has assumed that only temporary migrants are allowed in initially, one can show (as we do in Appendix B) that there exists a range of parameters for which this temporary-only policy is the optimal policy even if one were to impose no restrictions on permanent migration. Intuition suggests that for this to hold, the cultural cost of permanent migration,  , cannot be too low, otherwise obviously it would be optimal to bring in some permanent migrants. What is less obvious is that  cannot be too high, either Œalthough permanent migrants will not be brought in in that case, but the incentive constraint for the politician will be easy to satisfy and there will be no ine¢ ciency in the level of temporary migration. Hence, it is for an intermediate range of , as speci–ed in the proposition above, that the politically feasible level of temporary migration will be ine¢ ciently low. 
+In fact, one can go a step further. In particular, is there the possibility of political failure in the sense that everyone may gain from an alternate policy? We answer this question in the following observation. 
+17 
+
+========20========
+
+Remark 1: Under the conditions in Proposition 1, for any equilibrium level of temporary migra- tion, nT, there exists a higher level of temporary migration, n0T > nT, which Pareto-dominates the equilibrium. 
+In any equilibrium, the number of temporary migrants allowed in is ine¢ ciently low, in the sense that there exist other (higher) levels of temporary migration that all parties would prefer. It is straightforward to see that –rms would bene–t from having more temporary migrants to –ll the availalable vacancies. For the citizens as well, higher levels of temporary migration are preferable, since by assumption 1(ii) the gain from each extra temporary worker is positive. However, the inability of citizen-voters to exercise intertemporal control over the politician means that these levels are not politically sustainable. 
+Aspects of the above political equilibrium are best understood by examining the impact of di¤erences in the relevant parameters of the model on the degree of ine¢ ciency. The following corollary to Proposition 1 addresses this. 
+Corollary 1 Under the conditions in Proposition 1, the level of temporary migration nT decreases with (i) economic factors: a rise in the inter-temporal productivity increase s or in the world-wage w0; or an increase in the –rm™s bargaining power ; or in the segmentation of the labor market ; (ii) cultural factors: a decrease in the cultural costs from permanent migration : 
+Proof. An increase in s; w0;  or  or a decrease in  tends to raise the left-hand side of (IC0). From the –gure it is then clear that this will result in a decrease in nT: 
+The above corollary thus surprisingly suggests that lower levels of productivity and/or higher cul- tural costs may in fact be associated with a greater amount of temporary migration. The intuition for this result, which is intricately related to our explicit consideration of political constraints in the determination of migration policy, is perhaps best understood by examining some striking pol- icy implications that follow. We highlight two of them below. First, the above corollary suggests that a potentially Pareto improving policy may involve reducing barriers to migrant labor mobility within the host country. Second, it suggests that a country may prefer to import (temporary) migrants from culturally dissimilar countries rather than from culturally similar countries. We outline the argument for both of these implications of Corollary 1 below. 
+(i) Employer Assignment and the (im)Mobility of Guest Workers: One of the more striking aspects of most temporary labor migration programs has been the fact that the guest workers are tied to speci–c employers. As described in Table 1, this feature is common to some of the largest temporary 
+18 
+
+========21========
+
+migration programs across the world, in countries such as the U.S., Kuwait and Switzerland.16 
+Clearly, such restrictions on the mobility of guest workers lower the bargaining power of the migrant workers, and adversely a¤ects their wages. This increases the pro–ts of the host country –rms that hire these workers. Therefore, the question of direct political (and practical) interest is whether this employer-guest worker ‚tying™is a good thing from the host country™s point of view. 
+Corollary 1(i) throws light on this issue, and suggests otherwise Œ encouraging greater labor mobility is not only potentially Pareto improving, but also politically feasible. To see the argument, suppose that when visa restrictions prevent worker mobility across –rms, the degree of worker (im)mobility is given by  (R = 1); and if such restrictions are absent by  (R = 0), where  (1) > (0). Recall that a worker™s outside option is given by y(1 +g   (R)). This implies that an increase in worker mobility (i.e. lower  (R)), increases their bargaining power vis-a-vis their employing –rms. This reduces the economic rent that the –rm is able to appropriate and thereby reduces the maximum amount the –rm lobby is willing to pay the government in order to retain its migrant workers, i.e. Bmax(  (1)) > Bmax(  (0)). Ipso facto, it increases the time-consistent temporary migration level into the country, thereby increasing welfare. 
+Thus, it suggests that a relaxation of ‚tying™restrictions should be ‚potentially Pareto improv- ing™(Besley and Coate, 1998). To see this, we –rst observe that there is an obvious bene–t to the migrant worker from a higher wage. The country™s citizens also bene–t from the increase in national income that follows this higher level of sustainable temporary migration. Perhaps less ob- viously, even –rms bene–t. At –rst glance, this may appear puzzling, since the amount of surplus they can extract from the retained experienced workers is being reduced. However, the key point is that, since in a (political) equilibrium not all vacancies are getting –lled, that surplus is not being extracted anyway. Since the level of that temporary migration is higher than it would have been with lower labor mobility, more of the productive surplus gets realized. Therefore, our theoretical framework unambiguously suggests that any policy that increases guest-worker mobility within the host country is likely to bene–t all parties, and should be made a priority. 
+(ii) Culture and Guest Worker programs in the Middle East: Some of the largest ongoing tempo- rary migration programs in the world are in the Middle East ŒBahrain, Kuwait, Saudi Arabia and the UAE being prominent examples. However, during the late eighties there was an important shift in the nature of the guest-worker programs in these countries. In particular, there was a dramatic shift in the source countries for much of the migrant workforce, away from other Arab 
+16While not strictly a temporary labor migration program, the 
+H-1B program in the United States assigns foreign 
+workers to speci–c employers and makes mobility across employers costly (Ruhs, 2002). 
+19 
+
+========22========
+
+countries, such as Egypt, Yemen and Jordan, which had previously been the main sources from which migrant workers were drawn.17 Instead, these rich Gulf countries chose to deliberately re- place temporary migrants of Arab origin with those of South (or South East) Asian origin. In fact, there was a decrease in not just the share, but even in the absolute number of Arab workers. So what accounts for this puzzling switch? 
+Our model suggests one possible answer. In particular, Corollary 1(ii) suggests that it is (po- litically) much more costly (in terms of future payo¤s) to the government to provide citizenship to culturally (dis)similar migrant workers. Thus, if the migrant workers are more culturally dissimi- lar, the –rm lobby needs to make a larger bribe in order to successfully persuade the politician to retain the temporary workers. Therefore, if a government is less likely to succumb to a bribe, the sustainable level of temporary migration nT rises with the cultural distance of the migrants. 
+Therefore, our analysis suggests that a simple way in which the degree of ine¢ ciency can be reduced is by replacing (culturally similar) Egyptian (low ) migrants with culturally distinct south Asian (high ) migrants, resulting in higher levels of politically sustainable temporary labor migration Œboosting overall national income and welfare. Jureidini (2006) in his survey of temporary migration to the Gulf States argues that this was clearly one factor that contributed to the replacement of Arab workers with other Asians: ﬁArabs were more likely to stay and eventually make demands for citizenship and political participation. Asians were considered more dependable and less demanding and were easily expelledﬂ.18 
+3.2.2 Temporary and permanent migrants 
+So far we have considered the case when citizens decide only on the number of temporary migrants to be allowed into the country to meet the labor shortage v: Given that this labor shortage is expected to last inde–nitely into the future, it may be worthwhile to –ll some of the positions with permanent migrants and then use temporary migrants to –ll the remaining slots. In this section, we study the implications of allowing citizens every period to choose the number of permanent migrants to bring in along with the number of temporary ones . 
+17The Arab share of the foreign worker population in the Arab countries of the Gulf Cooperation Council (GCC) 
+went down from 56 percent in 1985 to 32 percent in 2002. This decrease in the Arab share of temporary migrants was mirrored by the rise in the share of South and South East Asian migrants over the same period. For details see Andrezj Kapiszewski (2006). 
+18One might be hesitant to draw wider implications, given the large di¤erences in the nature of politics in liberal western democracies as compared to the Middle East. However, we should point out a simple modi–cation of our model, where elections are replaced with the threat of political instability, would also generate very similar results. 
+20 
+
+========23========
+
+If nP(i) is the number of new permanent migrants brought in period i and nT(i) is the number of temporary migrants allowed in that period (and repatriated at the end of the period), the overall 
+national welfare is given by: 
+X1 
+i[(y i=0 
+ w0 
+ c0)nT(i) + (y 
+ w0 
+ c0 + 
+1 
+As before, y 
+ w0 
+changes to y (s +  ) 
+ c( 
+1+a 
+ 
+  
+y (s +  ))nP(i)) 
+ c( 
+Pi 
+j=0 
+nP(j))] 
+1 + a 
+(11) 
+ c0 is a temporary migrant™s contribution to national welfare net of the cultural costs he/she imposes. It is the same for a permanent migrant during the –rst period of stay, andPi 
+j=0 
+nP(j) 
+) for subsequent periods, which takes into account the part of the productive surplus retained by the native –rms as well as the cultural costs imposed. This overall welfare is to be maximized subject to the government™s incentive constraint, which is now 
+given for each period i by: 
+1 
+ 
+ [ 
+y (s +  )nT(i)] + 
+1  [1 
+  
+ R] + 1  [fy 
+ [ 
+y (s +  )(nT(i) + nP(i)) 
+ 
+ w0 
+ c0gnT(i) + y (s +  )nP(i) 
+n 
+c( 
+T 
++ 
+Pi 
+j=0 
+nP(j) 
+1 + a 
+)] 
+Pi 
+nP(j))] 
+ c( 
+j=0 
+1 + a 
+(12) 
+This is the same as constraint (9) in the case of only temporary migrants, now taking into account that permanent migrants are also being brought in. The important additional factor at work here is that the addition of permanent migrants changes the marginal cost of retaining a temporary 
+worker permanently from 
+1 0(0) 
+1+ac 
+to 
+1 0( nT 
+1+ac 1+a): 
+In the –rst-best case i.e. without the incentive constraints, the optimal would involve importing all permanent migrants (if any) in the –rst period itself and then –lling the rest of the slots using a rotating pool of temporary migrants. The intuition for this stems from the fact that the cultural costs imposed by permanent migrants are the same no matter when they are imported, so that if their productivity gains outweigh these costs, then the gains should be availed of as early as possible. We –rst show (in the lemma below) that even in the presence of constraints to ensure that the politician does not succumb to the –rms™lobbying e¤orts, the structure of the solution remains similar, i.e., the optimal still involves importing permanent migrants only in the initial period, together with a rotating pool of temporary migrant workers. This helps to simplify analysis 
+of the equilibrium, which we do in proposition 2. 
+Lemma 1 In the presence of political constraints, the optimum will involve nP(i) = 0 for i  1 
+and nT(0) = nT(1) = nT(2):::::: 
+21 
+
+========24========
+
+Proof: See Appendix A. 
+Denoting by nP the number of permanent migrants brought in in the –rst period and by nT the number of temporary migrants every period, the overall welfare is now given by: 
+1 
+1  (y 
+ w0 
+ c0)nT + (y 
+ w0 
+ c0)nP + 
+1 
+while the government™s incentive constraint is: 
+1 
+ 
+  
+y (s +  )nT + 
+ 
+1  1 
+ 
+ R 
++ 
+ 
+1  [(y 
+ w0 
+ [ 
+y (s +  )(nT + nP) 
+ c0)nT + y (s +  )nP 
+ 
+ [ 
+y (s +  )nP 
+ c( 
+nP 
+1 + a)] 
+(13) 
+ c(nT 
++ nP 
+1 + a 
+)] 
+ c( 
+nP 
+1 + a)] 
+(14) 
+Using l as the Lagrange multiplier on the incentive-compatibility constraint, we can write the 
+–rst-order condition for the problem as: 
+(y 
+ w0 
+ c0) + 
+1 
+ 
+ [ 
+y (s +  ) 
+ 
+1 + a 
+ 
+c0( 
+nP 
+1 + a)] = 
+y 
+ w0 
+ c0 > 0; it implies that y (s +  ) 
+ 
+ l1 + 
+ 
+0(nT 
++ nP 
+afc 1 + a 
+) 
+ c0( 
+nP 
+1 + a)g 
+(15) 
+As c is convex, the right hand side of the above equation is negative. Since by assumption 1(ii), 
+ 0( nP 
+1+ac 1+a) 
+< 0: Thus, comparing it with the social optimum condition (2), one can easily see that the solution here will involve an excess number of permanent migrants as compared with the social optimum. We summarize the result in the 
+following proposition. 
+Proposition 2 In a world with political constraints, the optimal mix of migrants will involve an excess of permanent migrants as compared with the social optimum i.e. nP > mP: 
+The intuition for the above result is the following. Observe that the politician cares (partially) about the welfare of the citizen voter. By increasing the number of permanent migrants, the marginal cultural cost of admitting an extra migrant is raised. Thus the cultural impact of making temporary migrants permanent is now bigger, and hence the incentive constraint gets tightened. In other words, as the marginal cultural cost of immigration goes up, the politician becomes less likely to accept the lobby™s bribe to retain the temporary migrants. Thus the permanent migrants play a deterrent role in reducing the politician™s incentive problem with respect to temporary 
+migrants. 
+How is this level of permanent migration a¤ected by the various parameters? This is analyzed 
+in the following corollary to proposition 2. 
+22 
+
+========25========
+
+Corollary 2 The level of permanent migration np decreases with (i) a rise in the world wage w0; or (ii) an increase in the cultural cost of temporary migration c0. The e¤ect of a rise in the inter-temporal productivity increase s or  or in the cultural costs  on the level of permanent migration is ambiguous. 
+Proof: See Appendix. 
+The intuition for the ambiguous comparative static results stems from the fact that permanent migrants impact both the incentive constraint for politicians as well as the overall surplus. In- creases in factors such as –rm-speci–c productivity s, or in market-segmentation  , which raise –rm pro–tability cause the –rms to lobby politicians much more aggressively to retain the tempo- rary workers. As noted before, by raising the marginal cultural cost, permanent migrants help to tighten the politician™s incentive constraint. When the incentives are more skewed, as is the case when –rm pro–tability is higher, the incentive gain from bringing in more permanent migrants is not as high. This calculation encourages a reduction in the number of permanent migrants brought in when s or  is high. On the other hand, by raising the lifetime surplus from permanent migrants, an increase in s or  suggests an increase in their number. These e¤ects go in opposite directions, and thus their overall impact on the number of permanent migrants depends on which e¤ect dominates. Similarly, an increase in the cultural cost parameter  positively impacts the incentive constraint, but negatively the overall surplus. Indeed, these results can help inform the historical trajectory of migration policy in the United States. 
+The Civil Rights Movement and the Shift from Temporary to Permanent Migration: Consider the following major legislative changes that took place in 1964-65 in the United States. First, in December 1964 the Bracero Program was formally terminated after having been in place since 1942. This was one of the largest temporary worker programs in the world, and sponsored over 4.5 million border crossings of Mexican labor to work in the farm sector in California over the period 1942-64. Soon after, the Federal Government in the United States changed its immigration policy, with the passage of the landmark Immigration and Nationality Act of 1965. This Act was revolutionary in that it allowed immigration from (non-European) countries where the racial, ethnic and cultural makeup of the country was very di¤erent from that of the citizens of the U.S. at that point in time. Finally, around the same time, Congress passed the landmark Civil Rights Act of 1964 and the Voting Rights Act of 1965. 
+Typically, these three events have been analyzed independently of each other. In contrast, our starting point is to treat the contemporaneous occurrence of these events as not just a coincidence, 
+23 
+
+========26========
+
+but rather as a series of inter-related outcomes. Prior to the Immigration Act of 1965, immigration quotas were on the basis of national-origin quotas established in 1920. In practice, as argued by Chin (1996) there were strong racially based restrictions that prevented non-white individuals (most pointedly from Asia) from immigrating to the U.S..19 The Civil Rights movement played a pivotal role in changing attitudes towards, and the public tolerance of, individuals of very di¤erent ethnic-cultural makeup from the existing population (a decline in , in the context of our model).20 Furthermore, Jenkins (1999) suggests that in the wake of Lyndon Johnson™s landslide victory, congressional liberals simultaneously pushed to bring about an end to the Bracero program, pass the Civil Rights Act, as well as push through the Immigration and Naturalization Act of 1965. Indeed Wells (1996) argues that the Civil Rights Movement played an important role in the termination of the Bracero program. While a number of explanations can be o¤ered for the passage of each of these major pieces of legislation taken individually, taken together, it is highly likely that the shift in popular attitudes towards individuals of a di¤erent cultural makeup also had a major role to play in all of these policy changes. We summarize the above discussion in the following remark. 
+Remark 2: There exists a su¢ ciently large decline in  such that temporary migration is replaced by a permanent migration program. In particular, there exists a 1 > 2 such that nT(1) > 0 and nP(1) = 0 while nT(2) = 0 and nP(2) > 0. 
+19For example a person of Asian racial descent who was born and raised in Brazil was treated as Asian, and not 
+Brazilian, for the purpose of immigration. 
+20For instance, Chin (1996) argues that 
+ﬁ....whether or not aliens had a right to immigrate on a race-neutral basis, o¢ cials recognized that racism in immigration was a civil rights issue because of its e¤ect on Americans. Dean Rusk for example, observed that immigration policy had signi–cant domestic, as well as foreign e¤ects: ‚Given the fact that we are a country of many races and national origins, that those who built this country and developed it made decisions about opening our doors to the rest of the world, that anything which makes it appear that we, ourselves, are discriminating in principle about particular national origins, suggest that we think.....less well of our own citizens of those national origins, than of other citizens™.ﬂ 
+24 
+
+========27========
+
+4 Culture and Assimilation 
+4.1 Migration Policy and Cultural Assimilation 
+Our analysis has so far has taken the cultural costs to be exogenously given. In reality, the magnitude of these cultural costs imposed by migrants depends on the degree to which they have culturally assimilated in the host country. For instance, a number of in⁄uential commentators have compared the di¤erence between the immigrant experience in the United States versus that in much of Europe. In broad terms, the United States is considered to be more of a ‚melting pot™ where migrants invest in assimilation and are welcomed (Waters and Jiminez, 2005). In contrast, barring a few exceptions, in Europe migrants often do not make investments in assimilation and are socially segregated (Huntington, 2004). Indeed these broad patterns of cultural assimilation across the Atlantic also mirror di¤erences in the nature of migration policy, with permanent migrants being much more important in the U.S.21 In this section we show how our framework can be adapted to re⁄ect these broad di¤erences. In doing so, we show that the greater assimilation in the U.S. need not be because socio-cultural fundamentals are di¤erent. Rather, it may be because of the existence of multiple cultural equilibria. 
+We begin by observing that the migrant™s willingness to imbibe the local cultural ethos and assimilate is (in part) a choice variable for the migrant and is likely to be determined by the returns to this investment. From the migrant™s point of view, the perceived returns to investment in socio-cultural assimilation is driven by two concerns. First, is the expected length of time the migrant worker plans to stay, work and live in the country.22 Since our focus here is on the length of time that the migrant spends in the country, we primarily focus on this channel. However, before we move on, it is perhaps appropriate to mention that there is a second factor which a¤ects investment in cultural assimilation. This occurs if natives make complementary investments in accepting and welcoming migrants. After all, social interactions are a two-way process, depending 
+21For instance, an editorial in 
+The New Republic (dated 04/17/2006) argues that ﬁ..there is little that is more 
+antithetical to the American ideal than a guest worker. While there are dangers in romanticizing this country™s immigrant heritage, it is an unmistakable part of the national ethos. For generations, immigrants have come to the United States in search of a better life. In the process, they often remake themselves Š as Americans. Even those who are here illegally, and whom we call illegal immigrants, can transcend that identity Š or at least see their children who are born here transcend it. But a guest worker and his family have no such opportunity for transcendence....Indeed, to see the pernicious (and un-American) nature of a guest-worker program, one need only look across the Atlantic at the misery such programs have wrought in Europe.ﬂ 
+22Dustmann (1999) shows using German data that the degree of investment in human capital (language) depends on the expected length of time the migrant expects to be in the host country. 
+25 
+
+========28========
+
+on attitudes and investments made by both migrants and natives. Indeed it is easy to see that this two-way interaction can give rise to multiple equilibria.23 While the possibility of multiple equilibria is relatively easy to see in the case of two-way investments by migrants and natives, there is an additional more subtle argument that generates a similar outcome through its interaction with migration policy. We describe this now. 
+In particular, for temporary migrants a key issue is whether they can reasonably expect to be made permanent. For example for many migrant workers in the U.S., an H1-B temporary permit is perceived to be a reliable stepping stone towards their permanent resident status (see Table 1 for additional examples). Therefore, if temporary migrants believe that they have a good chance of being made permanent, then their payo¤ from such investment in imbibing the local culture is much larger. Conversely, if they perceive themselves to be truly temporary (having to return to their home country at the end of their tenure), then such temporary migrants will have very little incentive to invest in cultural assimilation. On the other hand, the decision by temporary migrants to homogenize themselves or not a¤ects the natives™attitudes towards making them permanent, and also impacts on their decision of how many temporary migrants to bring in the –rst place. Thus the two decisions (that by the migrants and the natives) are interdependent, resulting in the possibility of multiple equilibria. 
+To examine this possibility we extend our benchmark model in a simple way by endogenizing the migrants™decision at cultural assimilation and by allowing for the possibility that some temporary migrants may be made permanent in the long run. Speci–cally, temporary migrants can decide whether or not to invest in assimilation with the host country culture, (e.g. by learning the local language and customs, making an e¤ort to attend and participate in local customs). We assume 
+that if migrants incur a cost e; they reduce the cost they impose on the local society from 0 to 1; where 0 > 1: Temporary migrants™decision to incur this cost or not depends on their perceived probability of becoming permanent migrants into this society and their gains from such 
+assimilation with the local culture. We denote these gains from increased interaction with the locals by V . Second, we allow for the possibility that natives may prefer some degree of cultural 
+23If a migrant believes that natives are relatively insular and unlikely to interact meaningfully with him, then he 
+will have diminished incentives to invest in cultural assimilation and may indeed prefer to spend more of his time associating with fellow migrants. On the other side, if natives believe that migrants will not invest in assimilation, they too have little to gain from making an e¤ort to culturally interact with the migrants. This may result in a ﬁghettoﬂ like equilibrium where migrants are socially segregated from natives. In contrast, if each group believes that the other will also make investments in social integration, then we have an equilibrium where there is a good degree of socio-cultural assimilation. 
+26 
+
+========29========
+
+diversity.24 To model this in the simplest manner, we assume that d(nP) is the diversity bene–t to natives every period from bringing in nP permanent migrants. However, apart from contributing to increased diversity, permanent migrants impose other costs on the natives as discussed before, and we still use c( 
+nP 
+1+a) 
+to denote these costs. In all other respects the model is the same as earlier. 
+The timing of the game is as before, with nT temporary migrants admitted at the beginning of each period. Each migrant decides whether or not to make the private investment in cultural assimilation with the local populace. At the end of the period, if the government succumbs to the –rm lobby, all nT are made permanent. On the other hand, if it does not succumb, then among this group of temporary migrants, nP are made permanent. In making this decision, the government cannot observe the degree of assimilation undertaken by each individual migrant and so it chooses 
+the nP permanent migrants randomly from among the pool of nT temporary migrants. Thus if nP increases or the pool of temporary migrants nT decreases, the chance for each individual migrant to be absorbed permanently goes up. 
+An equilibrium for this game consists of the number of temporary migrants nT who are brought in at the beginning, investment decisions by them in cultural assimilation and the fraction of them who are admitted as permanent migrants, along with (as before) an electoral rule specifying government repatriation as a function of its actions. 
+Under these assumptions we can show the following results, summarized in the proposition below. 
+Proposition 3 If the ratio e=V is in an intermediate range, there exist multiple equilibria where, in one equilibrium, temporary migrants invest in cultural assimilation and are likely to be made permanent citizens; and in the other equilibrium, temporary migrants do not invest in cultural 
+assimilation and are likely to remain temporary. In contrast, if e=V is su¢ ciently small (large), then there is a unique equilibrium, where all temporary migrants invest (do not invest) in cultural assimilation. 
+The argument is the following. First, if i is the degree of cultural costs imposed by the temporary migrants, then the optimal number of permanent migrants requires trading o¤the diversity bene–ts against the cultural costs (ignoring productivity gains). This results in the optimal number of 
+24This relaxes the assumption made in our benchmark model that permanent migrants only impose (negative) 
+cultural costs on the natives. While a simpli–cation, in reality natives perhaps also gain from the cultural diversity that is brought by new migrants. 
+27 
+
+========30========
+
+permanent migrants to be given by: 
+i 
+i 
+d0(niP) = 
+0( 
+nP 
+1 + ac 1 + a) 
+(16) Note that, when the cultural costs imposed by migrants (), are low, it is optimal to admit more permanent migrants as the marginal cost that they impose are smaller. Let us denote by n1P and n0P the number of permanent migrants and by n1T and n0T the number of temporary migrants when the migrants do and do not assimilate respectively. Note that n0P < n1P as the costs imposed by assimilated migrants is lower. 
+From each migrant™s perspective, the probability of being made permanent is given by niP=niT and thus they incur the cost of cultural assimilation only if: 
+niP 
+niT 
+V  e > 0 (17) 
+As noted before n0P < n1P: To study the impact of i on the number of temporary migrants to be brought in, recall from section 3.2 that as the cultural cost imposed by permanent migrants is lowered, the government™s incentive constraint becomes harder to sustain as deviating from the 
+given policy does not cost as much. This point is made speci–cally in Corollary 1 where as  decreases, so does nT: In the present context, since 1 < 0; it implies that n1T < n0T: 
+Combining the two facts, n0P=n0T < n1P=n1T: In other words, in the case where migrants do invest in assimilation, the pool of temporary migrants brought in every period is smaller and the number of them made permanent is higher. Thus the chances for any individual migrant to be made permanent is high in this case, thus justifying their investment in assimilation in the –rst place. More speci–cally, this happens if 
+n1P n0P 
+n1 
+V > e: At the same time, if e > 
+T 
+n0 
+V; it implies thatT 
+of the large pool of temporary migrants brought in every period, too few are made permanent for any of them to invest in assimilation with the local culture. Thus, when 
+n1P 
+n1 
+V > e > 
+n0P 
+T 
+n0 
+V; we haveT the possibility of multiple equilibria. 
+On the other hand, if 
+n0P 
+n0 
+V > e; then the only equilibrium is where everyone invests in assimi-T 
+lating into the local society, while at the opposite extreme, if e > 
+n1P 
+n1 
+V; then the only equilibriumT 
+involves no assimilation by migrants, with very few temporary migrants being made permanent and most being repatriated at the end of their tenure. This completes the argument. 
+4.2 Cultural Heterogeneity and Migration: Some Microfoundations 
+The maintained assumption of this paper is that worker migration a¤ects native welfare not only through its e¤ect on overall income but also its e¤ect on the culture of the host country. However, 
+28 
+
+========31========
+
+we further assumed that (under some conditions) the e¤ects of permanent migration on native welfare are likely to be di¤erent from that of temporary migration. Indeed we suggested that even if one set aside distributional considerations, the political backlash against permanent migration may well be more severe than against temporary migration. We now elaborate on one such mechanism. 
+The key distinction that we highlight is that permanent immigrants acquire citizenship and voting rights. This has the potential to change the political dynamic at least at the local level. For example, take education. As pointed out by Alesina, Baqir and Hoxby (2004), there is a fundamental tradeo¤ that a¤ects the provision of local public goods like education, namely that between the bene–t of economies of scale and the cost of an increasingly heterogeneous population. For instance, there may be signi–cant di¤erences in preferences (on average) for bilingual education between the native and the immigrant population. Natives may prefer to spend school resources for extra piano classes while the immigrant may prefer particular language lessons. For simplicity, we capture these di¤erences in a single dimension Œthe unit line. Assume that an individual i has payo¤s given by ui = w  A(g  xi)2, where g is the location of the public good provided (e.g. the share of resources spent on piano lessons) and xi is the ‚location™of the individual i, representing his ideal choice. Here A is a parameter denoting the importance of the publicly provided good in an individual™s utility. It is likely to be low in an economy where there are ample alternatives to public education, for example. The second term in the utility function is the payo¤ to the individual from the local public good, with his payo¤ decreasing (at a convex rate) in the distance between his ideal point and the point actually chosen. Given this utility function, an individual™s ideal choice for the public good is g = xi: 
+Let us assume that native preferences are uniformly distributed on the unit line, with the (pre-immigration) median voter preferences among the natives (and therefore the location of the public good) given by gN = 
+1 
+2. To make the point in the simplest manner, we assume that all migrants are identical and have their public good preferences given by xM = 1. Then the addition of permanent migrants to the society results in a shift in the identity of the median voter. Suppose the initial mass of natives is unity, and that of the migrants is n; the median voter now changes from the one located at xi = 
+1 
+2 
+to that located at xi = 
+1+n 
+2 
+; resulting in a change in public good provision to gM = 
+1+n 
+2 
+: Given the preferences, the utility of a native located at xi is now given by ui = w  A(1+n2  xi)2; thus, natives whose preferences are closer to xi = 1 gain, while those located near xi = 0 lose. What about overall welfare? Evaluating aggregate utility for the natives, it changes from w  
+A 
+12 
+to w  
+A 2] 
+12[1+3n 
+after the addition of a mass n of permanent migrants to the 
+29 
+
+========32========
+
+society. Thus there is a decrease in overall welfare by 
+A 
+4 
+n2: The following proposition summarizes the impact. 
+Proposition 4 Overall welfare for the native population falls at an increasing rate with permanent migration. Furthermore, the negative impact of permanent migration is higher the greater is the importance of public goods on citizens™welfare. 
+Note that, as we have assumed in reduced form for our basic model, the cost imposed by the migrants is convex in their number. Notice also that the impact is higher the bigger is A: This implies that the constraints on immigration are likely to be higher in countries where there is greater dependence on goods and services that are publicly provided and hence there is enhanced concern that immigration may change the nature of their provision. Again, this may serve to partly explain the di¤erence in attitudes towards immigration between the US and Europe (where publicly provided goods/services are more prevalent than in the US). 
+Notice that temporary migrants do not skew the allocation of resources for local public goods as much. This is mainly because of two factors: one, temporary migrants lack political clout and are unlikely to a¤ect public good allocation to the same degree as permanent migrants; two, temporary migrants are less likely to bring with them their children and families, and therefore may not be as concerned with the provision of public goods such as education. 
+5 Conclusion 
+Aging populations, rising pension payments and labor shortages in parts of the developed world are likely to increase the debate on the shape of migration from the developing world. This paper explores a neglected channel that may prevent lowering of barriers to labor migration even in the face of greater economic gain Œ namely, concern about the country™s culture and identity. Despite the potential to boost world income, the analysis here suggests that any policy aimed at encouraging migration will face political limits driven by cultural concerns.25 In particular we 
+25Kremer and Watt (2008) propose a policy which is designed to be both Pareto improving and politically feasible. 
+They suggest that relaxing restrictions on the ﬁmigration of foreign private household workers can potentially (1) equalize wages among natives, (2) provide a –scal bene–t, and (3) limit the perceived impact of immigration on culture and crime.ﬂ Despite its attractive features, our framework suggests caution about some of the political constraints that even such an apparently attractive program might face. The key point is that the household sector is one in which the (employer-speci–c) productivity of the worker naturally rises over time. For example, over time there is likely to be a household-speci–c increase in productivity of au pairs. By contrast, there are likely to be 
+30 
+
+========33========
+
+demonstrate that countries may fail to encourage worker migration even if such a policy has no distributional impact and where enforcement of policy is administratively costless. The ine¢ ciency that arises a¤ects both the levels of temporary and permanent migration. Furthermore, our framework also allows us to understand which countries may –nd it politically di¢ cult to take advantage of the globalization of labor migration and points out that simple alterations in worker- employer tying requirements can help make greater amounts of labor migration politically feasible. 
+While the era of substantially freer international labor migration may be a long time coming, our formal model suggests that there are several politically feasible policies that may allow at least some of the gains from labor market liberalization to be realized. This paper is but a –rst step in examining the impact of culture on the politics and pattern of migration policy. Many other issues remain for future work - for example, the dynamics in the process of cultural assimilation by migrants and the resulting impact on future migration policy. Should host countries deliberately choose a diverse migrant pool or focus instead on importing migrants from a particular cultural area? We leave this and much else for further exploration. 
+small di¤erences in the productivity of workers with di¤erent amounts of experience in, say, the fast-food industry. 
+Our model suggests, pace Kremer and Watt (2008), that the political feasibility of temporary migration programs 
+might be greater in the latter sector than in the household production sector. 
+31 
+
+========34========
+
+References 
+Alesina, Alberto and Eliana La Ferrara (2005), ﬁEthnic Diversity and Economic Performanceﬂ, Journal of Economic Literature, 43(3):762-800. 
+Alesina, Alberto and Enrico Spolaore (1997), ﬁOn the number and size of nationsﬂ, Quarterly Journal of Economics, 112(4):1027-1056. 
+Alesina, Alberto, Reza Baqir and Caroline Hoxby (2004), ﬁPolitical Jurisdictions in Heterogeneous Communitiesﬂ, Journal of Political Economy, 112(2):348-396. 
+Bauer, Thomas, M. Lofstrom and Klaus Zimmerman (2000), ﬁImmigration Policy, Assimilation of Immigrants and Natives Sentiments towards Immigrants: Evidence from 12 OECD Countriesﬂ, IZA Discussion Paper 187. 
+Besley, Timothy and Stephen Coate (1998). ﬁSources of Ine¢ ciency in a Representative Democ- racy: A Dynamic Analysisﬂ. American Economic Review 88(1):139-56. 
+Blanchard, Olivier (2005), ﬁA Macroeconomic Survey of Europeﬂ, MIT Working Paper. Borjas, George (1995), ﬁThe Economic Bene–ts from Immigrationﬂ, Journal of Economic Per- spectives, 9(2): 3-22. 
+Card, David, Christian Dustmann and Ian Preston (2009), ﬁImmigration, Wages and Composi- tional Amenitiesﬂ, NBER Working Paper No. 15521. 
+Chin, Gabriel (1996), ﬁThe Civil Rights Revolution Comes to Immigration Law: A New Look at the Immigration and Nationality Act of 1965ﬂ, North Carolina Law Review, 75(273), pp 87-160. Coate, Stephen and Stephen Morris (1999), ﬁPolicy Persistenceﬂ, American Economic Review. Dolmas, Jim and Gregory Hu¤man (2004), ﬁOn the Political Economy of Immigration and Income Redistributionﬂ, International Economic Review, vol 45(4), pp 1129-1168. 
+Dustmann, Christian (1999), ﬁTemporary Migration, Human Capital and Language Fluency of MigrantsﬂScandinavian Journal of Economics, 101(2), 297-314. 
+Epstein, Gil S. and Ira N. Gang (2008), ﬁEthnicity, Assimilation and Harassment in the Labor Marketﬂ, in A. Constant; K. Tatsiramos; K.F. Zimmermann (eds.): Ethnicity and Labor Market Outcomes (Research in Labor Economics, Vol. 29), Bingley, 2009, 67 - 88 
+Epstein, Gil S. and Ira N. Gang (2010), ﬁA Political Economy of the Immigrant Assimilation: Internal Dynamicsﬂ, Discussion Paper no. 5059, IZA, Bonn. 
+Facchini, Giovanni and Anna Maria Mayda (2009), ﬁIndividual attitudes towards immigrants: Welfare-state determinants across countriesﬂ, Review of Economics and Statistics, 91(2):pp 295- 314. 
+32 
+
+========35========
+
+Facchini, Giovanni and Gerald Willman (2005), ﬁThe Political Economy of International Factor Mobilityﬂ, Journal of International Economics, 67: pp 201-19. 
+Freeman, Richard (2006), ﬁPeople Flows in Globalizationﬂ, NBER Working Paper 12315. Hanson, Gordon (2008), ﬁThe Economic Consequences of the International Migration of Laborﬂ, NBER Working Paper 14490. 
+Helpman, Elhanan, Oleg Itskhoki and Stephen Redding (2008), ﬁWages, Unemployment and In- equality with Heterogeneous Firms and WorkersﬂPrinceton University Working Paper. Huntington, Samuel P. (2004), Who Are We? The Challenges to America™s National Identity; New York: Simon & Schuster. 
+Jenkins, Craig (1999), ﬁThe Transformation of a Constituency into a Social Movement Revisited: Farm Worker Organizing in Californiaﬂin Waves of Protest: Social Movements Since the Sixties edited by J. Freeman. 
+Jureidini, Ray (2005), ﬁMiddle East Guest-Workersﬂ in Immigration and Asylum: From 1900 to the Present edited by Matthew Gibney and R. Hansen. 
+Kapur, Devesh and John McHale (2005), Give Us Your Best and Brightest: The Global Hunt for Talent and its Impact on the Developing World Center for Global Development, Washington D.C. Kapiszewski, Andresj (2006), ﬁArab versus Asian Migrant Workers in the GCC Countriesﬂ, Work- ing Paper, UN Group on International Migration and Development in the Arab Region. Klein, Paul, and Gustavo Ventura, (2006), ﬁProductivity Di¤erences and the Dynamic E¤ects of Labor Movementsﬂ, mimeo, University of Western Ontario. 
+Kremer, Michael and Stanley Watt (2008), ﬁThe Globalization of Household Productionﬂ, Harvard University Working Paper. 
+Konya, Istvan (2007), ﬁOptimal Immigration and Cultural Assimilationﬂ, Journal of Labor Eco- nomics. vol.25: pp. 367-91 
+Lazear, Edward (1999), ﬁCulture and Languageﬂ, Journal of Political Economy, 107(S6), S95- S126. 
+Leyens, Jacques, B. Cortes, S. Demoulin, John Dovidio, S. T. Fiske, R. Gaunt, M. Paladino, A. Rodriguez-Perez, R. Rodriguez-Torres, J. Vaes (2003), ﬁEmotional prejudice, essentialism, and nationalism: The 2002 Tajfel lectureﬂ, European Journal of Social Psychology, pp 703-17. Nickell, Stephen (1997), ﬁUnemployment and Labor Market Rigidities: Europe versus North Americaﬂ, Journal of Economic Perspectives. 
+Ottaviano, Gianmarco, and Giovanni Peri, (2008), ﬁImmigration and National Wages: Clarifying the Theory and Empiricsﬂ, UC Davis Working paper. 
+33 
+
+========36========
+
+Pritchett, Lant (2006), Let their People Come: Breaking the Gridlock on Labor Mobility, Center for Global Development, Washington D.C. 
+Razin, Assaf, E. Sadka and P. Swagel (2002), ﬁTax Burden and Migration: A Political Economy 
+Theory and Evidenceﬂ, Journal of Public Economics, 85(2), pp 167-190 
+Rodriguez, Cristina (2007), ﬁGuest Workers and Integration: Toward a Theory of what Immigrants 
+and American Owe One Anotherﬂ, University of Chicago Legal Forum. 
+Rodrik, Dani (2002). ﬁFinal remarksﬂ. In T. Boeri, G. Hanson, and B. McCormick (eds.), 
+Immigration Policy and the Welfare System. New York: Oxford University Press. 
+Ruhs, Martin (2002), ﬁTemporary Foreign Worker Programmes: Policies, Adverse Consequences and the Need to Make Them Workﬂ, UCSD Working Paper. 
+Tajfel, Henri (1982), Social Identity and Intergroup Relations, CUP, Cambridge. 
+Walmsley, Terrie L. and L. Alan Winters, (2005), ﬁRelaxing the Restrictions on the Tempo- 
+rary Movement of Natural Persons: A Simulation Analysisﬂ, Journal of Economic Integration, 20(4):688-726. 
+Wells, Miriam (1996), Strawberry Fields: Politics, Class and Work in California Agriculture, Cornell University Press. 
+Waters, Mary and Tomas Jiminez (2005), ﬁAssessing Immigrant Assimilationﬂ, Annual Review of 
+Sociology, vol. 31:105, pp. 105-25. 
+34 
+
+========37========
+
+Appendix A 
+Proofs: 
+Proof of Lemma 1: 
+It is useful to rewrite the problem in terms of the total number of permanent residents in the country at any point in time. Denoting this by z(i) for period i; the problem becomes: 
+max (ynT(i);z(i) 
+ w0 
+ c0)(nT(0)+nT(1)+:::::)+[(1 
+ )(y 
+ w0 
+ c0)+y(s+  )](z(0)+z(1)+:::::) 
+ c( 
+z(0) 
+1 + a) 
+ 2c( 
+z(1) 
+1 + a) 
+ :::::: 
+subject to the government™s incentive constraint for all i: 
+y(s +  )nT(i) + y (s +  )nT(i) 
+ R + (y 
+ w0 
+ c0)nT(i) 
+ c(nT(i) + 
+z(i) 
+1 + a 
+)]  c( 
+z(i) 
+1 + a)] 
+Thus each combination of nT(i) and z(i) satisfy the same incentive constraint, and the con- 
+tribution to overall welfare is given by (y 
+ 
+ )]z(i) 
+6 
+w0 
+ 
+c0)nT(i) + [(1 
+ 
+)(y 
+ 
+w0 
+ 
+c0) + y(s + 
+6 
+(y  w0  c0)nT + [(1  )(y same incentive constraint). 
+ c(z(i)1+a); discounted appropriately. Hence it implies that nT(0) = nT(1) = nT(2):::: and z(0) = z(1) = z(2):::: because if nT(i) = n (i 
+0 
+) and/or z 
+ 
+T 
+(i) = z 
+ 
+(i 
+0 
+); one would replace the combination (nT(i); z(i)) or (nT(i0); z(i0)) by the other depending on for whichever the value 
+ c0) + y(s +  )]z 
+ w0 
+ c( 
+z 
+1+a) 
+is higher (as both satisfy the 
+This implies that the number of temporary migrants imported every period is the same, and z(0) = z(1) = z(2) = ::::: i.e. all the permanent migrants are imported in the –rst period itself.  
+Proof of Corollary 2: 
+Let us rewrite the incentive-constraint when it binds: 
+(1 + ) y (s +  )nT 
+ (y 
+ w0 
+ c0)nT 
+ [c(nT 
++ nP 
+1 + a 
+) 
+ c( 
+nP 
+1 + a)] = 
+R 
+i.e. for a given level nP; it gives a maximum supportable level of nT as a function of nP: Let us call this function as nT(np): The left-hand side of the above equation is similar to that in –gure 1 i.e. it is inverse U-shaped in nt and its intersection with the R line gives nT(nP): Given that c(:) is convex, an increase in nP lowers the left-hand side of the above equation and thus increases 
+nT(nP) i.e. 
+dnT 
+dn 
+> 0:P 
+35 
+
+========38========
+
+Now, one can use nT(nP) to rewrite the objective function in terms of only the number of 
+permanent migrants as: 
+maxnP 
+1 
+1  (y 
+ w0 
+ c0)nT(nP) + (y 
+ w0 
+ c0)nP + 
+1 
+ [ 
+y (s +  )nP 
+ 
+ c( 
+nP 
+1 + a)] 
+with the attendant –rst-order condition: 
+1 
+1  (y 
+ w0 
+ c0)n0T(nP) + (y 
+ w0 
+ c0) + 
+1 
+ [ 
+y (s +  ) 
+ 
+ 
+ 
+c0( 
+nP 1 + a 1 + a)] = 0 
+(18) 
+Analysis of this equation shows how the level of permanent migration, nP; is a¤ected by the various 
+parameters. 
+The various parameters can a¤ect this equation either directly or though their e¤ect on n0T(nP): One can derive the expression for n0T(nP) as: 
+dnP 
+dnT 
+= 
+(1 + ) y (s +  ) 
+ 0(nT+nP 1+afc 1+a 
+) 
+ (y  w0 
+ c0( 
+nP 
+1+a)g  c0)  
+ 
+1+ac0( 
+nT+nP 
+1+a 
+) 
+Hence n0T(nP) decreases as ; ; s; ; w0 or c0 increases or as  decreases. 
+Returning to (18), an increase in  lowers the left-hand side only through its e¤ect on n0T(nP): Thus nP falls as  increases. A rise in w0 or c0 lowers the left-hand side both directly as well as their e¤ect on n0T(nP); hence nP falls as w0 or c0 increases. An increase in the cultural cost parameter  or a decrease in the intertemporal productivity parameters s;  have two countervailing e¤ects: they lower the left-hand side via their direct negative e¤ect on the marginal cultural cost and marginal productivity, but at the same time raise the left-hand side through their positive e¤ect on nT(nP): Thus their overall impact on the level of permanent migration is ambiguous. 
+Appendix B 
+Derivation of bounds for Proposition 1: 
+Consider the general problem where the import of both temporary and permanent migrants is possible. In this case, as in the proof of Corollary 2 above, the objective function can be written in terms of only the number of permanent migrants as: 
+maxnP 
+1 
+1  (y 
+ w0 
+ c0)nT(nP) + (y 
+ w0 
+ c0)nP + 
+1 
+ [ 
+y (s +  )nP 
+ 
+ c( 
+nP 
+1 + a)] 
+Di¤erentiating it with respect to nP one gets: 
+1 
+1  (y 
+ w0 
+ c0)n0T(nP) + (y 
+ w0 
+ c0) + 
+1 
+ [ 
+y (s +  ) 
+ 
+36 
+ 
+ 
+c0( 
+nP 1 + a 1 + a)] 
+
+========39========
+
+Figure 2: Bounds on  for Proposition 1 
+Thus the optimal policy will involve no permanent migrants if this expression is negative at the point nP = 0 i.e. if (replacing n0T(0) by the expression for 
+dnT 
+dn 
+above):P 
+(y 
+ w0 
+ c0)(1 
+ ) + [ y (s +  ) 
++(1 + 
+(y  w0 
+) y (s +  ) 
+ c0) 
+ 
+1+afc 
+0( nT 
+1+a) 
+ (y 
+ w0 
+ 
+ 
+1 + a 
+c0(1 + 
+0 
+a)] 
+ c0(0)g  c0)  
+ nT 
+< 0 
+1+ac0( 1+a) 
+(B.1) 
+The last term on the left-hand side of the above expression is increasing in ; while the middle term 
+is decreasing in : Thus to see how the left-hand side behaves due to changes in ; we di¤erentiate 
+it with respect to  to get: 
+ 
+ 
+0( 
+0 
+(y 1 + ac 1 + a) + 
+ w0 
+ c0) 
+ 
+1+afc 
+0( nT 
+1+a) 
+[(1 + ) y (s +  ) 
+ c0(0)g[(1 + ) y (s +  )  (y  w0  (y  w0  c0)  
+ nT 
+1+ac0( 1+a)]2 
+ c0)] 
+This is negative for low values of  and positive for high values of ; implying that the left-hand 
+side of (B.1) is U-shaped in  as in –gure 2 below.  and  are then given by the two points at 
+which this expression crosses the X-axis: 
+37 
+
+========40========
+
+                                        Table 1: TEMPORARY MIGRATION PROGRAMS: A SELECTION* 
+    United States  Bracero Program 
+Duration of Visa  
+        Program 
+Less than one year, 
+Renewal possible 
+Change of Status 
+No 
+Employment  restricted to Specific  Sector 
+Yes  
+(agriculture + Rail):  
+1942-46 
+Employment  restricted to Specific Employer 
+Yes 
+Skill Requirements 
+Unskilled farm workers 
+           Germany Gasterbeiter Program 
+       Switzerland Auslanderausweis B 
+Initially one year, renewal possible after residence of  possible three years 
+               
+Yes, after a period of five  years, worker may get  
+permanent resident status 
+One year, renewal 
+Yes, after a period  of five years may  get perm. residency 
+Yes 
+Yes 
+Yes 
+Yes 
+As specified by employer 
+Yes (mainly skilled) 
+   Singapore Employment Pass R 
+   Kuwait Kafala V.18 
+Two years, Renewal  Renewal possible possible for max of 
+four years 
+No 
+No 
+Yes 
+Yes 
+Yes 
+Yes 
+* This Table draws on Table 2.3 in Kapur and McHale (2005), and Ruhs (2002). 
+38 
+
+========41========
+

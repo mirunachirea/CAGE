@@ -1,0 +1,1509 @@
+September 2011 
+No.53 
+Reputation and Cooperation in Defence 
+David Hugh Jones and Ro’i Zultan University of Warwick and University College London 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Reputation and Cooperation in Defence 
+David Hugh-Jones and Ro’i Zultan 
+August 30, 2011 
+Abstract 
+Surprisingly high levels of within-group cooperation are observed in conﬂict situations. Ex- 
+periments conﬁrm that external threats lead to higher cooperation. The psychological literature 
+suggests proximate explanations in the form of group processes, but does not explain how these 
+processes can evolve and persist. We provide an ultimate explanation, in which cooperation is a 
+rational response to an external threat. We introduce a model in which groups vary in their willing- 
+ness to help each other against external attackers. Attackers infer cooperativeness of groups from 
+members’ behaviour under attack, and may be deterred by a group that bands together against an 
+initial attack. Then, even self-interested individuals may defend each other when threatened in 
+order to deter future attacks. We argue that a group’s reputation is a public good with a natural 
+weakest-link structure. We extend the model to cooperative and altruistic behaviour in general. 
+Keywords: cooperation, conﬂict, defence, signalling 
+JEL Classiﬁcation: C73, C92, D74 
+Word count: 8,449 
+David Hugh-Jones: CAGE, Department of Economics, University of Warwick m Coventry CV4 7AL. D.Hugh- Jones@warwick.ac.uk. Ro’i Zultan: Cognitive, Perceptual and Brain Sciences, University College London. We thank David Myatt, Eric Maskin, Christian Ghiglino, Rene Levinsky and Morimitsu Kurino for comments. 
+1 
+
+========2========
+
+1 Introduction 
+On August 6th, 2011, a riot started in Tottenham Hale in North London, involving arson and rampant 
+looting. Over the next three days, riots spread to other parts of London and several other cities in the 
+UK. Within a few days of the riots, people came together in large cooperative efforts to counter the 
+riots and their aftermath. People who were not personally threatened by the riots voluntarily formed 
+vigilante groups to deter further rioting in their communities, at personal cost and risk to themselves 
+(Beaumont et al., 2011). Hundreds of volunteers arrived at riot-stricken areas to help with the clean- 
+up efforts (BBC 2011, Davies et al. 2011). How did the riots lead to such large-scale cooperation, 
+when people could just as easily stay home and free-ride on the effort of others? 
+A fundamental puzzle for rationalist explanations of group conﬂict is that conﬂicts involve individuals 
+voluntarily cooperating, perhaps at great risk, to gain a collective beneﬁt (Olson, 1974). Blattman and 
+Miguel (2008), in a wide-ranging review of the civil war literature, see “the sources of armedgroup 
+cohesion amid pervasive collective action problems” as a central unresolved theoretical puzzle, and 
+designate “the complex individual motivations underlying participation in armed groups” as “an im- 
+portant area for future research”. Defence is a canonical example of a “public good”, whose provision 
+beneﬁts not only the providers, but also free-riders who contribute nothing. Accordingly, standard 
+economic theory predicts that defence will be underprovided unless the state enforces contributions. 
+Nonetheless, in many conﬂicts, people ﬁght for their group against other groups, in the absence of 
+state coercion. Furthermore, there is considerable laboratory and ﬁeld evidence that conﬂict increases 
+cooperativeness in general. Existing psychological theories, while they offer insight, can provide only 
+proximate explanations for this effect. In this paper, we attempt to provide an ultimate explanation, 
+in terms of the rationality and evolutionary optimality of cooperation during conﬂict. 
+We demonstrate a mechanism for the evolution of helping behaviour between individuals from the 
+same group, when those individuals come under attack by, for example, a rival ethnic group, or a 
+biological predator. The logic is that of reputation building (Kreps et al., 1982; Milgrom and Roberts, 
+1982). The argument runs as follows: 
+2 
+
+========3========
+
+1. Attacks against one group member are less likely to be successful if the member is defended or 
+supported by others in the group. 
+2. Groups vary in the willingness of their members to cooperate against attackers. This can be for 
+many reasons. For instance, some groups may be engaged in long-term cooperative relation- 
+ships (Trivers, 1971; Fudenberg and Maskin, 1986; Neyman, 1985), which will be terminated 
+when help is not provided to attacked partners, either due to reciprocal strategies or because the 
+partners are killed (Garay, 2008; Eshel and Shaked, 2001); other groups may be individually 
+self-sufﬁcient members without a direct incentive to cooperate. Or, some groups may be com- 
+posed of closely related kin, with high mutual altruism, while others are made up of unrelated 
+individuals. 
+3. Attackers are opportunistic: they attack so as to acquire group members’ resources (or, in the 
+case of biological predators, for food). They are therefore more willing to attack group members 
+if they expect low levels of cooperation in defence. Conversely, if they expect a strong defence 
+from a group, they may prefer to engage in an alternative, less risky activity, or to ﬁnd a different 
+group to attack.1 
+4. Because of the previous point, attackers have an interest in ﬁnding out the type of group they 
+are facing. However, they cannot always observe a group’s level of cooperativeness directly. 
+Instead, they will ﬁnd it optimal to make one or more initial attacks, in order to gauge the 
+cooperativeness of a particular group. They can then decide whether to continue attacking or to 
+break off. 
+5. As a result, even members of uncooperative groups have an interest in appearing cooperative 
+during the initial stages of an attack. By doing so, they may deter the attacker, and prevent future 
+attacks which would eventually fall on themselves. In the terminology of signalling games, less 
+cooperative groups have an incentive to pool with more cooperative groups. 
+1We treat attackers as single self-interested agents, thus abstracting away from two-sided group conﬂicts. This would be an interesting extension to the theory. 
+3 
+
+========4========
+
+6. A group’s appearance of being cooperative is itself a public good, so it might seem that the 
+collective action problem has been reintroduced at a higher level. However, this public good 
+has a natural “weakest-link” structure. If a single group member fails to cooperate, pooling 
+instantly fails; the attacker learns that the group is not truly cooperative, and can no longer be 
+deterred from further attacks; other group members then have no more incentive to cooperate. 
+This dramatic collapse of cooperation after a group member “breaks the chain” provides a 
+strong incentive not to do so. 
+We model this logic in a simpliﬁed setup. Some groups (henceforth strong types) participate in 
+social interaction, and will therefore help their fellows who come under attack,2 whereas other groups 
+(henceforth normal types) have weak intragroup connections and therefore are not motivated to help 
+their peers. An attacker makes one or more attacks on a group; during each attack, the (randomly 
+selected) target individual may be helped by another randomly selected individual, at a cost to the 
+helper which the helper privately observes. After each attack, the attacker may break off and attack a 
+new group. 
+When the maximum number of possible repeated attacks is large enough, this model has a unique 
+equilibrium that survives a natural reﬁnement. The equilibrium has the following characteristics. 
+First, for any ﬁxed group size, so long as individuals are patient enough, helping behaviour can be 
+sustained, even for arbitrarily large costs of helping. These costs may even be larger than the beneﬁt 
+provided to the helped individual. This holds because the motivation to help is provided not by the 
+beneﬁt to the target, but by the deterrence effect of driving off an attacker. In fact, our results would 
+hold even if helping purely harmed the attacker without beneﬁting the defender, suggesting that this 
+model might also explain the evolution of third-party punishment. In human conﬂicts, seemingly triv- 
+ial incidents such as insults of a group member may lead to disproportionate responses.3 Second, it is 
+irrelevant what proportion of the groups are actually strong types: this can be arbitrarily small. Third, 
+2Intuitively, helping in time of attack can be maintained in an equilibrium of a larger game that includes long-term interactions such as trading. 
+3Many examples can be found in Horowitz (2001). Stephan and Stephan (2000) discuss “symbolic threats” from a social psychological point of view. 
+4 
+
+========5========
+
+cooperation among normal types becomes less likely as the number of previous attacks increases.4 
+Lastly, cooperation is subject to sudden collapses: if a single individual does not help, then everyone 
+else stops helping. This is closely tied to the reputation logic of the game. An individual who doesn’t 
+help provides an unambiguous signal to the attacker that he is facing normal types, not strong types. 
+Afterwards the attacker can no longer be deterred, and this removes the incentive for other group 
+members to help. Thus, our theory predicts that external threats should increase not only people’s 
+cooperativeness, but also their sensitivity to each others’ behaviour: they should only help if others 
+have also helped.. This prediction goes beyond the standard social psychology claim that group 
+identity increases in response to threat, and could be used to test our theory. It also suggests an 
+alternative explanation for some cases of behaviour that resemble “indirect reciprocity” (Nowak and 
+Sigmund, 1998). Individuals may condition on others’ previous behaviour not so as to reward or 
+punish them, but because others’ previous play alters the reputational value of one’s own cooperation. 
+In addition to providing an ultimate explanation for cooperation in conﬂict, our paper contributes to 
+several other streams of the literature. Signalling explanations of altruism are well-known in theoret- 
+ical biology (Zahavi, 1975; Gintis, Smith and Bowles, 2001; Lotem, Fishman and Stone, 2003). In 
+these models helping behaviour is a costly signal of individual quality, which beneﬁts the individual 
+helper by (e.g.) making him or her a more attractive partner for reproduction. By contrast, in our 
+story, helping behaviour signals a fact about the group, and beneﬁts the whole group. Theorists have 
+also examined the effect of intergroup conﬂict on cooperation: Choi and Bowles (2007) show how 
+“parochial altruism” could coevolve with intergroup conﬂict by providing beneﬁts at group level. We 
+demonstrate that, even without group-level selection, cooperation in defence may be evolutionarily 
+stable. 
+The model is also of interest to economic theorists interested in reputation-building. Previous work 
+has examined reputation-building in repeated games, either with one patient player against an inﬁnite 
+set of short-run players (e.g., Kreps et al., 1982; Milgrom and Roberts, 1982; Fudenberg and Levine, 
+1989, 1992, 1994), two players differing in patience (e.g., Schmidt, 1993; Celetani et al., 1996) or 
+4In equilibrium, the attacker moves on at once after observing a single episode of helping, so this statement holds for off-path behaviour. 
+5 
+
+========6========
+
+with two patient players (e.g., Cripps and Thomas, 1995; Cripps, Dekel and Pesendorfer, 2005). For 
+example, Kreps et al. (1982) show that the existence of a small proportion of cooperative types al- 
+lows self-interested actors to cooperate in Prisoner’s Dilemma setups. More recently, Tirole (1996) 
+developed a theory of collective reputation, constructed as an aggregate of the reputation of individ- 
+uals overlapping generations (see also, e.g., Bar-Isaac, 2007; Winfree and McCluskey, 2005). Healy 
+(2007) has shown how collective reputation can build up among individuals who are only connected 
+by their shared reputation through anonymous rematching. Here, we develop a model of short-term 
+collective reputation in a dynamic setup that is based on an a-priori correlation of types within groups. 
+Thus, our unique brand of collective reputation relies on group types rather than on aggregate indi- 
+vidual types. We follow the standard modelling technique in the literature, by assuming that a (small) 
+proportion of the reputation-building players is a “Stackelberg type” who always plays the action that 
+gives him the long-term best response, assuming the other players best respond. Similarly, our “strong 
+types” play so as to maximize the welfare of their group, and their proportion in the population can be 
+arbitrarily small. A motivation for the early reputation models was to rationalize predatory pricing, 
+in which a market incumbent might take losses so as to deter future entrants. Market entry is also a 
+potential application here. For instance, Section 9 could be interpreted as a cartel facing an entrant 
+and attempting to deter it by collective action. 
+Our paper is organized as follows. We next discuss the wide-ranging literature on cooperation in con- 
+ﬂict. Sections 3-5 introduce our model and describe the equilibrium. The following sections develop 
+some extensions to the basic model. In particular, Section 9 extends the basic logic to public goods 
+games which are played among defenders before the attacker decides to attack. We can thus explain 
+why in-group cooperativeness increases in the face of external threats. The conclusion discusses 
+possibilities for further work. 
+6 
+
+========7========
+
+2 Cooperation in conﬂict 
+Costly cooperation in an intergroup conﬂict has been demonstrated under laboratory conditions and 
+in ﬁeld experiments (Bornstein, 2003; Erev, Bornstein and Galili, 1993). Bornstein and Ben-Yossef 
+(1994) showed in a laboratory experiment that group members’ contributions to a public good in- 
+creased when they were competing with a rival group, even though the competition did not alter the 
+monetary incentives in any relevant way. Tan and Bolle (2007) found that competition without mone- 
+tary incentive was enough to lead to increased cooperation. It appears that humans naturally respond 
+to intergroup conﬂict with intragroup cooperation, somewhat mediated by the perception of in-group 
+members as collaborators and the emotional reactions to non-cooperation once conﬂict is instated 
+(Burton-Chellew, Ross-Gillespie and West, 2010; Puurtinen and Mappes, 2009). 
+Cooperation in conﬂict is particularly apparent in civil wars, where state coercion is diminished or 
+non-existent. Admittedly, some people may be coerced into participation by other group members 
+(Hardin, 1997; Kocher and Kalyvas, 2007). However, while we do not underestimate this aspect of 
+the phenomenon, we do not believe that it can be a complete explanation, and in many historical 
+episodes it seems unlikely to have played a large role. For instance, the risks from taking an active 
+part in the French Resistance, or the Provisional IRA during the Troubles, were surely much higher 
+than any risk one’s own side might impose for not taking part.5 
+Cooperation in times of conﬂict extend beyond the conﬂict effort. Increased participation in pro- 
+social behaviours was documented in Britain during World War II (Schmiedeberg, 1942; Janis, 1951, 
+1963). Similarly, the September 11 attacks triggered pro-social behaviour in the United States, such 
+as volunteering and charity (Penner et al., 2005; Steinberg and Rooney, 2005) and blood donations 
+(Glynn et al., 2003). There is a well-known “rally round the ﬂag” effect in which expressed support 
+for political incumbents increases after a military or terrorist attack (Baker and Oneal, 2001). Shayo 
+and Zussman (2011) have shown that terrorist attacks in the local region lead Jewish and Arab judges 
+in small-claims courts in Israel to rule in favour of a plaintiff of the same nationality as the judge. 
+5Weinstein (2007) provides case studies of insurgencies where material rewards and punishments played a minor role in motivating ﬁghters. 
+7 
+
+========8========
+
+Once more, the effect has been replicated under experimental conditions. In the classic Robbers’ 
+Cave experiments, Sherif (1958; 1961) has shown how competition between groups breeds out-group 
+hostility and in-group solidarity. More importantly, an outside threat, common to both groups, fa- 
+cilitated intergroup cooperation and induced positive attitudes towards members of the out-group. 
+Controlled experiments have similarly manipulated external threat to induce cooperation between 
+children (Wright, 1943) and decrease prejudice towards African-American group members (Fesh- 
+bach and Singer, 1957; Burnstein and McRae, 1962).6 Hargreaves-Heap and Varoufakis (2002) split 
+participants into two groups and created a situation in which one group suffered discrimination; sub- 
+sequently, pairs of members of that group cooperated more often in a Prisoner’s Dilemma than pairs 
+from the other group. 
+Sociologists and social psychologists have long been aware of this phenomenon, and have argued that 
+“war with outsiders... makes peace inside” (Sumner, 1906; Campbell, 1965). Social identity theo- 
+rists explain that individuals’ sense of group identity is increased by perceived threats to the group 
+(Stephan and Stephan, 2000). While these theories offer insight, they give only a proximate, not an 
+ultimate explanation. We still do not know how humans might have evolved a psychological mecha- 
+nism that responds to external threats by increasing group identity (and hence encouraging altruistic 
+behaviour, with associated costs to one’s own ﬁtness). Indeed, the same question arises in non-human 
+biology, since some species seem to help unrelated conspeciﬁcs against predators: examples include 
+defensive rings, mobbing of predators and alarm calls (Edmunds, 1974). Furthermore, as in humans, 
+intergroup conﬂict sometimes increases within-group altruistic behaviours (Radford, 2008). Clearly, 
+social identity theory is unlikely to explain these instances of cooperation. 
+In our theory, the need to deter an attacker can mitigate the within-group collective action problem 
+and thus allow for cooperation in defence by rational, self-interested actors. We believe that this 
+insight can extend the logic of the “security dilemma” (Posen, 1993), in which actors in a conﬂict are 
+driven to ﬁght because they fear attack from the other side, to collective settings. We also believe that 
+attention to the within-group collective action problem will help to explain group dynamics even in 
+6For an extensive review of the classic sociological and psychological literature see Stein (1976). 
+8 
+
+========9========
+
+the absence of overt conﬂict. For example, if the motivation for cooperation is given by the need to 
+deter potential attackers, then people may be induced to cooperate by manipulating their perception 
+of outside threats; that is, intergroup violence can be used to construct a shared social identity (cf. 
+Fearon and Laitin 2003). 
+Some of the examples provided above, such as ethnocentrism in court judgments, are hard to explain 
+as rational self-interested behaviour. However, the theory can be viewed either as a direct game- 
+theoretic rationalization of helping behaviour within conﬂict, or, more indirectly, as explaining the 
+evolution of psychological dispositions to cooperate when threatened by attack. That is, these dispo- 
+sitions may have evolved in strategic situations like those of the model, in which small groups faced 
+opportunist external enemies and needed to deter them. If so, these evolved dispositions might still 
+work the same way in larger and more specialized modern societies (Cosmides and Tooby, 1992).7 
+Thus, our theory can be interpreted as an ultimate explanation for the proximate explanations devel- 
+oped by psychologists. 
+3 Model 
+The “defenders” are a group of size N, one of a large population of such groups. An attacker makes 
+one or more attacks on a randomly chosen member (the “target”) of the group. Another randomly 
+chosen member of the same group (the “supporter”) may assist the target at a cost c to its own ﬁtness. 
+The attack costs the defender A and gives the attacker a beneﬁt of A if the helper does not help, and 
+costs the defender/beneﬁts the attacker a < A if the helper helps. We normalize defender welfare 
+at 1 per round. Nothing in the results would change if the beneﬁt to the defender of being helped, 
+A 
+ a, were decoupled from the cost to the attacker, also currently A 
+ a; this assumption is purely to 
+simplify the exposition. 
+A proportion p of the groups are “strong” types, meaning that their members always help the target; 
+7Evolutionary explanations are sometimes accused of being “just-so stories”, i.e. 
+ex post rationalizations of existing data. However, our model generates the novel prediction that cooperation under threat should be highly sensitive to other players’ behaviour, so it is not just just-so. 
+9 
+
+========10========
+
+the rest are “normal”. Several different interpretations are possible. Strong types may be altruistic 
+towards one another, perhaps because they are genetically related, while normal types are purely 
+self-interested. Alternatively, strong types may be in long-term relationships, beyond the scope of 
+the attack episode, and able to enforce cooperation by conditioning their future behaviour on play 
+during the attack episode, whereas normal types do not expect to interact after the attack episode. 
+In the animal kingdom, migratory birds may either join communities of sedentary birds who have 
+bred together before, and may be in relationships of long-term reciprocity, or communities of other 
+migrants who are mutually anonymous (Krams and Krama, 2002). 
+After every attack, the attacker may stay, or may costlessly move to a different group. (We assume that 
+the number of groups is large enough that the chance of returning to the same group later is effectively 
+0, or alternatively, that the attacker can avoid groups that he has already moved away from.) However 
+the attacker may make no more than T attacks on any one group.8 Defenders and attackers share 
+a discount rate d. There are N defenders in each group. The cost to the supporter of helping, c, 
+is random and drawn independently in each round from C  R+, with cdf F(C) = Pr(c  C). We 
+assume F is continuous. Only the supporter observes c in each round. For technical reasons, we 
+assume that the cost is sometimes high, speciﬁcally: 
+F(C¯) < 1; where C¯ = 
+1 
+d A  d N: 
+(1) 
+The defenders and the attacker observe the history of attacks within a given group, and whether the 
+target was helped in each case. 
+8We use ﬁnite repetitions so as to avoid folk-theorem style results where there are multiple equilibria even if the attacker does not condition on defender behaviour: we want to focus on the stark case where repeated play among defenders alone could not sustain cooperation. This also enables us to ﬁnd a unique equilibrium. 
+10 
+
+========11========
+
+4 Equilibrium analysis9 
+The set of histories of length t is H 
+t 
+= f0;1gt, where 1 indicates that the defender was helped, with typical element ht. (Write H 
+0 
+= /0.) The set of all histories is H = 
+ST 
+t=0 
+H 
+t. A strategy for the 
+attacker is z : H ! [0;1], giving the probability of playing stay after each history. (We will often 
+write z(h)2 fstay;moveg for clarity: i.e., deﬁne stay=1 and move=0.) A pure strategy for a normal 
+type defender is s : H C ! f0;1g, giving the probability of helping.10 (Strong types always help.) 
+The attacker’s subjective probability that he is facing a group of strong types is m : H ! [0;1]. 
+Deﬁne pt as the t-length history of 1s, i.e. the t-length history in which supporters always helped, and 
+let p0 = /0. Let P = fp0;p1;p2;:::g. We call these “histories of (perfect) helping”. We look for the 
+following equilibrium strategies. 
+ If the defender has always been helped in the past, the attacker moves to a different group. 
+Otherwise, the attacker attacks the same group forever. Thus z(h) =move if h2P and z(h) = 
+stay otherwise. 
+ Defenders help at round t (after a history ht 
+ 1) if and only if (1) all previous defenders have 
+helped (2) c is less than a ﬁnite cutpoint Ct. Formally,s(ht 
+ 1;c) = 
+1 if ht 2 P and c  Ct; 
+s(ht 
+ 1;c) = 
+0 otherwise. 
+Notice in particular that the attacker moves after observing a single episode of helping. Because of 
+this, histories p2;p3;::: are off the equilibrium path. In order to ensure reasonable attacker beliefs at 
+these histories, we use the sequential equilibrium concept(Kreps and Wilson, 1982). 
+Proposition 1. For T high enough, the game has a Sequential Equilibrium of the above form (along 
+with appropriate beliefs). 
+The remainder of this section gives the proof. 
+9Since strong types always help by assumption, the following analysis deals strictly with normal types. 
+10The limitation to pure strategies is innocuous because defenders will only be indifferent between helping and not for a single value of c. Technically a defender could condition behaviour on his own costs of helping in previous rounds when he was a supporter. Allowing this would not affect our results. 
+11 
+
+========12========
+
+4.1 Supporter behaviour 
+Given the attacker’s strategy, and other defenders’ strategies, if at round t ht 2= P then a supporter’s 
+play does not affect future events in the game (future supporters will never help, and the attacker will 
+always stay). Since c > 0 it is never optimal to help. 
+If at round t, ht 2 P, then the supporter’s behaviour determines future play. Helping will cause the 
+attacker to move and not helping will cause the attacker to stay and all future supporters not to help. 
+Thus helping is optimal if 
+1 
+T  t T  t  c+ 
+ds1+ ds(1 
+s=1 s=1 
+ 
+A 
+N) 
+equivalently 
+Ct 
+d 
+ t+1 c = 
+ dT A: 
+1  d N 
+(2) 
+Ct is decreasing in t, and in particular, CT = 0. Also, since Ct < 
+d A 
+1  d N 
+=C¯, there is always positive probability that the supporter does not help. 
+As T ! ¥, Ct approaches C¯ = 
+d A 
+1  d N 
+for any ﬁnite t. We can use the expression for C¯ to get a sense of the strength of the motivation to support the target. A useful benchmark is the cost a defender 
+would be prepared to pay to prevent a single attack on him- or herself: this is exactly A. So, when 
+d 
+1  d 
+ N, supporters would bear as high a cost to protect the target as they would to avoid an attack on themselves. For example, in a group of N = 100, this will hold for d  0:99. 
+4.2 Attacker behaviour 
+Given these cutpoints, we can calculate the attacker’s beliefs. The initial belief m(/0) = p. Since only 
+normal types ever fail to help, m(ht) = 0 unless ht 2 P.11 
+WriteV(ht) for the attacker’s equilibrium value after a history ht, and V =V(/0). Also, write 
+VS(ht) 
+11This is shown for beliefs off the path of play in Lemma 6, where the sequential equilibrium reﬁnement is used. 
+12 
+
+========13========
+
+for the attacker’s value after ht if he stays, and subsequently plays his equilibrium strategy. 
+Equilibrium strategies give 
+T  t  1 V(ht) =VS(ht) = 
+ 
+dsA+dT 
+s=0 
+ tV, if 
+ht 2= P: 
+(3) 
+In other words, after observing any non-helping, the attacker stays and receives A per round until the 
+number of rounds is up. 
+Otherwise,V(ht) = V since the attacker moves (or has just arrived). To show that these are a best 
+response, we can apply the One-Shot Deviation Principle: to check if a strategy is a best response, we 
+need only compare it against deviations involving a single action at one information set.12 Thus, we 
+need to show that 
+V(ht) V if ht 2= P; 
+(4) 
+so that after observing a failure to help, it is optimal for the attacker to stay. This is true by (3) and 
+the fact that V  ¥s=0dsA given that the attacker’s maximum per-round payoff is A. We also need to 
+show that 
+V VS(ht) if ht 2 P 
+(5) 
+so that after observing helping it is optimal for the attacker to move rather than to stay. The right hand 
+side here is the counterfactual value from staying for a further attack. This can be calculated as 
+VS(ht) =m(ht)[a+dV]+(1 
+ m(ht))fF(Ct+1)[a+dV] + (1 
+ F(Ct+1))[A+dV((ht;0))]g if ht 2P: 
+Here, the ﬁrst term is the value if one is facing strong types: the supporter helps, so the attacker 
+receives a and then moves at once. Similarly, if the attacker is facing normal types but the supporter’s 
+cost drawn is lower than the cutpoint, then the supporter helps, the attacker receives a and moves. 
+12Hendon, Jacobsen and Sloth (1996) prove the principle for Sequential and Perfect Bayesian Equilibrium. 
+13 
+
+========14========
+
+Finally, if the cost is higher than the cutpoint, the attacker receives A and the game proceeds. In 
+equilibrium, applying (3), 
+T  t  2 V((ht;0)) =VS((ht;0)) = 
+ 
+dsA+dT 
+s=0 
+ t  1V 
+and plugging this into the previous equation gives 
+VS(ht) = [m(ht) + (1  m(ht))F(Ct+1)][a+dV] 
+T  t  1 
++(1  F(Ct+1))[ 
+ 
+dsA+dT 
+ tV] 
+if ht 2 P: 
+s=0 
+(6) 
+We now show that for T high enough, (5) holds given defender behaviour. First, we show that after 
+enough rounds, it always holds. This is simply because the attacker’s subjective probability that he is 
+facing a strong type group becomes increasingly close to certainty after observing enough rounds of 
+cooperation. 
+Lemma 1. For M large enough, equation (5) holds for all t > M. 
+Proof. First observe that V > a+dV since the attacker’s minimum payoff in the ﬁrst round is a and 
+since the attacker receives A with strictly positive probability in equilibrium. Therefore, if m(ht) is 
+close enough to 1, (6) will be less thanV and (5) will hold. 
+Next, write mt  m(pt) for short (we will keep using this notation) and use Bayes’ rule to write 
+mt = 
+p + (1 
+p  p)ts=1F(Cs): 
+(7) 
+Since F(Ct) < F(C¯) < 1, mt is strictly increasing in t and approaches 1 for large enough t.13 
+The next part of the argument demonstrates the same for early rounds. This relies on choosing T high 
+enough that Ct is very close to C¯. The logic is as follows. Observing a further round of helping has 
+13Technically a little more work is necessary to show that only the beliefs of equation (7) are possible in sequential equilibrium. See Lemma 6 in the Appendix. 
+14 
+
+========15========
+
+three effects on the attacker. First, it increases his probability that he is facing a strong type group. 
+This encourages him to move to a different group. Second, the end of the T rounds is now closer, 
+and third, as a result, the defenders’ cutpoint decreases somewhat (i.e. Ct+1 <Ct). These effects may 
+encourage the attacker to stay. However, when T is large, they become negligible, since the end of 
+the game is far away and (for that reason) the defenders’ cutpoint changes very little. Therefore the 
+ﬁrst effect dominates. 
+Lemma 2. For any M, for T high enough, VS(/0) >VS(p1) > ::: >VS(pM).14 
+Combining these Lemmas, along with the fact that VS(/0) =V, we can choose M and T large enough 
+thatV VS(ht) for ht 2 P, both for t > M and for t  M as equation (5) requires. This completes the 
+proof of Proposition 1. 
+5 Uniqueness 
+Here we investigate whether there are other equilibria. We continue to write V for the value of the 
+game to the attacker, which is also the attacker’s value after choosing move. First, we demonstrate 
+that behaviour for ht 2= P is always the same as in the equilibrium above. The argument is essentially 
+by backward induction: after the attacker has become certain he is facing a normal type group, then 
+he cannot be driven off by any further helping, and then cooperation cannot be preserved among the 
+defenders since the game has ﬁnite periods. 
+Lemma 3. Suppose m(ht) = 0. Then in any equilibrium, z(ht) = stay and s(ht;c) = 0 for all c. 
+Sequential equilibrium ensures that m(ht) = 0 for all ht 2= P,15 so this Lemma shows that in any 
+equilibrium, when ht 2= P, s(ht;c) = 0 for all c and z(ht) = stay, just as in the previous section. 
+Therefore, the only source of variation in equilibria must be in different attacker and defender re- 
+sponses to a history of helping pt. 
+14Proofs not given in the main text are in the Appendix. 15See Lemma 6 in the Appendix. 
+15 
+
+========16========
+
+We now show that for T large enough, there is no equilibrium with z(pt) > 0 for t  1. Thus, the 
+equilibrium of the previous section is the unique sequential equilibrium. 
+16 
+The proof works as follows. First, we observe that for t large enough, z(pt) = move since it becomes 
+increasingly certain that the defenders are strong types. Next, we show that when there are enough 
+rounds, the defenders’ cutpoint is higher at the end of a set of periods for which the attacker stays with 
+positive probability even after observing helping, than at the beginning of these periods. The logic 
+is that at the end, one’s own action decides whether the attacker will leave or not. At the beginning, 
+on the other hand, the attacker will stay until some future round and will then only leave if all other 
+supporters have also helped. Thus, the incentive to help is greater in the later round. On the other 
+hand, the future history of play which one can affect may be shorter in the later round; but when T is 
+large enough, this makes little difference. 
+We then examine the attacker’s value at round F, the last round in which z(pF) > 0, and at the last 
+earlier period L 
+ 1 at which z(pL 
+ 1) = 
+0 (or if there is none such, at the beginning of the game). At 
+F the attacker’s belief that he is facing a strong type group is strictly higher, and (as we showed) the 
+normal types’ cutpoint is also higher. Combining these facts reveals that, since the attacker is more 
+likely to observe a further round of defense VS(pL 
+ 1) 
+> VS(pF). By our assumption that at L 
+ 1, 
+moving is optimal,V  VS(pL 
+ 1). Thus, we arrive at 
+V > V(pF), which contradicts the assumption 
+that staying is optimal at pF. 
+Proposition 2. For T large enough, z(pt) = move for all t  1. 
+6 Evolutionary stability 
+So far we have used a “rationalist” game theory approach. Given our applications to biology, and 
+the evolutionary tone of our argument in Section 2, it is interesting to ask whether the equilibrium 
+of Section 3 is evolutionarily stable. Technically, it is not an Evolutionarily Stable Strategy, since 
+16There may be Weak Perfect Bayesian equilibria with 
+z(p1) = 0 (i.e. move), z(pt) > 0 for some t > 1, in which case, pt is never reached in equilibrium. However, all Weak Perfect Bayesian equilibria have z(p1) = move. 
+16 
+
+========17========
+
+both defenders and attackers may play differently at histories which are not on the equilibrium path 
+(for example, pt for t  2), without affecting their welfare. However, for T large enough, all Weak 
+Perfect Bayesian equilibria satisfy z((1)) = move (and C1 as deﬁned in (2), and z(h) = stay and 
+s(h;c) = 0;8c; for h 2= P). It would therefore be surprising if the equilibrium outcome given by 
+these actions were not evolutionarily stable. 
+Indeed, deﬁne Q = f(0);(0;0);(0;0;0):::g as the set of histories in which no defender helps, and 
+deﬁne the following sets of strategies: 
+Z 
+= fz() : 
+z((1)) = move;z(h) = stay for all h 2 Qg 
+S = fs(;) : s(/0;c) = 1 iff c C1;s(h;c) = 0;8h 2 Q;8cg 
+Strategies in these sets result in the same behaviour as our equilibrium, along the path of play. Taking 
+the game’s payoff functions as a measure of ﬁtness, we can then show the following: 
+Lemma 4. For high enough T: if defenders are playing any s 2 S, then any z 2 Z gives the attacker 
+strictly higher ﬁtness than any z0 2= Z; and if the attacker is playing z 2 Z and other defenders are 
+playing sˆ 2 S, then any s 2 S gives any defender strictly higher ﬁtness than any s0 2= S.17 
+Thus, these strategy sets are evolutionarily stable in the sense that a single mutant defender or a single 
+mutant attacker will be selected against.18 
+Proof. (1) Suppose s 2 S¯ = fs(;) : s(/0;c) = 1 iff c C1;s(h;c) = 0;8h 2= P;8cg. Then in equi- 
+librium, only the histories f(1)g [Q are observed by the attacker with positive probability. In each 
+of these cases any strategy z 2 Z is strictly optimal. This follows simply from noticing that the argu- 
+17Technically, we require that, after at least one history 
+h 2 Q[ /0, sˆ(h;c) 6 = s(h;c) for all c 2C, a set occuring with positive probability. 
+18We also expect that these sets are stable against simultaneous mutations by defenders and attackers, but showing it would be more complex. The logic is that if a small proportion of attackers becomes more aggressive in staying after a helping episode, then optimal defender cutpoints will be lower; this, however, makes helping a stronger signal that defenders are strong types, and increases the ﬁtness of the less aggressive attackers. 
+17 
+
+========18========
+
+ments in Lemmas 2 and 1 sufﬁce to prove the strict versions of the inequalities in equations (4) and 
+(5). 
+(2) Suppose z 2 Z¯ = fz();: z((1)) = move;z(h) = stay for all h 2= Pg, and suppose that all other 
+defenders are playing sˆ 2S¯. Then, in equilibrium, only the histories /0[Q are observed by a defender 
+with positive probability. Defenders’ payoffs from helping are strictly decreasing in cost c, so the 
+strict optimality of s 2 S is trivial from the deﬁnition of C1, and from observing that for h 2 Q, the 
+attacker’s and the other defenders’ behaviour is unchanged by helping. 
+(3) The conclusion follows since S  S¯ and Z  Z¯. 
+7 When history is unobserved 
+Some readers may be concerned that our result is driven by the history-dependent behaviour of other 
+defenders. Since future supporters will cease to help if the current supporter does not help, perhaps 
+this is just a Folk-theorem like result albeit for ﬁnite repetitions. To show this is not so, we now 
+assume that defenders cannot condition on others’ behaviour. Instead, a normal type strategy is s : 
+f1;:::;TgC! f0;1g, where s(t;c) gives the probability of helping in each roundt, given a helping 
+cost of c. 
+We look for an analogue of the earlier equilibrium, in which the attacker is instantly deterred by a 
+single episode of helping on the equilibrium path. 
+p 
+Proposition 3. If and only if F( 
+d A 
+1 d N) 
+< 
+p  p 
+ 1  p 
+, then for large enough T there is an equilibrium of the following form: 
+z(h) = move if and only if h 2 P. 
+Normal defenders help during the ﬁrst round if and only if c is less than C1 = Tt=1 
+ 1 
+dT 
+A 
+N: 
+In subse- quent rounds they never help. 
+pp 
+The expression 
+ p 
+1  p 
+is increasing in p and approaches 0 as p ! 0. Thus, the model’s conclusions are modiﬁed somewhat when defenders cannot condition on each others’ behavior. Our equilibrium 
+18 
+
+========19========
+
+only exists when the proportion of strong types is non-negligible, compared to the probability of low 
+costs. Also, after the ﬁrst round, defenders can infer that another defender did not help and therefore 
+cooperation collapses. Nevertheless, this result shows that cooperation does not require defenders to 
+directly observe earlier behaviour. 
+8 Relaxing the assumptions 
+We now informally discuss some ways in which the model’s assumptions could be relaxed. First, 
+we have assumed that strong types always help. This gives cooperation in defense its weakest-link 
+structure: a single episode of not helping is immediate proof that the group is normal type. Never- 
+theless, this structure will remain, so long as strong types help with probability close enough to 1. 
+For, a single episode of not helping will still provide strong evidence that the group is normal type; 
+for a ﬁxed round t, if T is large enough, the attacker will then prefer to stay (as he preferred to stay 
+in the previous round, and now puts a higher probability on facing a normal group). The attacker 
+may still be deterred by observing further rounds of helping, but if this requires more than one round, 
+then the incentive for future supporters to help will be diminished in all but the last of these rounds 
+(since helping does not instantly deter the attacker). Thus, not helping will continue both to alter the 
+attacker’s and future supporters’ behaviour. 
+Second, suppose that the attacker faces some cost in moving to a new group (e.g. search costs). 
+The main difference this makes is that p now becomes relevant. In the model, the probability of 
+the existing group being strong type is exactly balanced by the probability that any other group is 
+strong type. Introducing ﬁxed costs of moving would drive a wedge between the values of moving 
+and staying. However, if moving costs are low, a single episode of helping will remain sufﬁcient to 
+deter the attacker, and defender behaviour will be unchanged. 
+Lastly, we have assumed that defenders are harmed but not killed by the attack. Killing is more 
+than an extreme loss of ﬁtness; it also alters the strategic structure of future rounds, by removing 
+some actors. In particular allowing defenders to be killed would bring the partner effect into play 
+19 
+
+========20========
+
+(Eshel and Shaked, 2001): each death shrinks the group, and therefore increases the probability that 
+an individual survivor will be targeted in a given round. At large group sizes this effect is negligible 
+(i.e. 
+1 
+N 
+ 
+N 
+1 
+ 1), but at smaller group sizes it would strengthen the incentive to help. 
+9 Cooperation before conﬂict 
+In the introduction we mentioned the evidence that cooperative and helping behaviour seems to in- 
+crease when there is an attack, or the threat of an attack, from the outside. We can extend the model 
+to give a natural explanation for this. The setup is kept as simple as possible to focus on the intuition. 
+Suppose now that the attacker must commit before the game to attacking for all T periods, or moving. 
+This resembles an irrevocable decision to launch a war. In the period before making his choice, the 
+attacker observes K randomly selected group members playing a one-shot Prisoner’s Dilemma. Each 
+player may cooperate or defect; a player’s cooperation gives R 2 (1=K;1) to each of these K players, 
+at a cost of q to the player. The value of q is common knowledge among defenders, but is not known 
+by the attacker; it is drawn from a distribution with pdf Y(), supported on (R;1). After observing 
+play in the Prisoner’s Dilemma, the attacker either attacks, or does not, earning a payoff of P. This 
+could be the expected payoff from attacking a different group, or the payoff from some other activity. 
+We assume that strong types always cooperate, and, as before, always support each other against 
+attacks.19 Normal types never help during the attack itself, since the attacker cannot be deterred. We 
+assume 
+T 
+dt 
+a 
+T 
+N 
+< P < 
+dtAt=1 t=1 
+N: 
+19The Prisoner’s Dilemma itself may be the basis for the differentiation between group types. For example, strong types can be engaging in the game repeatedly with the same partners, and condition their cooperation on helping during the attacks as well as on cooperation in previous rounds of the Prisoner’s Dilemma. Conversely, normal types often reconstruct new groups with strangers, and therefore have no incentives to cooperate in the absence of an imminent attack. The attacker observes only one period of the repeated game, and therefore cannot distinguish between partner and stranger groups. 
+20 
+
+========21========
+
+The expected loss to each defender from facing an attack is: 
+T dtAN: t=1 
+There is always an equilibrium in which normal types do not cooperate. However, there may also be 
+cooperation in equilibrium, for the same signalling reason as before. We seek an equilibrium in which 
+all normal types cooperate if q is below some level ¯q. 
+It must be the case that such cooperation (and only such cooperation) deters the attacker. The at- 
+tacker’s belief after observing full cooperation is 
+m = 
+p + (1 
+p  p)Y(q¯) 
+(8) 
+and he is deterred if 
+T 
+m 
+dt 
+a 
+N 
++ (1 
+t=1 
+T 
+ m)dt 
+A 
+N 
+ P: 
+t=1 
+(9) 
+If he observes any non-cooperation he learns for sure that the defenders are normal types, and attacks 
+(since Tt=1dt 
+A 
+N 
+> P ). 
+Since m in (8) is decreasing in ¯q, (9) provides an upper limit for ¯q. Above this upper limit, cooperation 
+is not convincing enough since too many normal types are doing it. Call this the “attacker deterrence 
+constraint”. 
+If the attacker is deterred by full cooperation, and q  q¯ so that other defenders will cooperate, then it 
+is optimal for each defender to join in cooperating if 
+R 
+ q 
+T dtAN; t=1 
+equivalently if 
+T q  R+ 
+dtAN: 
+t=1 
+This provides another upper limit on ¯q. Call it the “reward constraint”, since it requires that the reward 
+21 
+
+========22========
+
+from cooperation be large enough to justify the cost. Of course, ¯q may be lower than these, since no 
+defender will cooperate if, for a given value of q, he or she expects the others not to cooperate. To 
+sum up, there is a set of equilibria in which normal type defenders cooperate for q  q¯ where 
+T 
+0  q¯  minfR+ 
+dtAN;qˆg; 
+t=1 
+where 
+qˆ  Y 
+ 1 
+1 
+p  p 
+!! Tt=1dtA 
+ a 
+N Tt=1dt 
+A 
+N 
+ P 
+is the solution to (8) and (9). 
+Examining the upper bound for ¯q reveals the following. (1) If only the attacker’s deterrence constraint 
+is binding, so that the upper bound is given by ˆq, then it is weakly increasing in P and p. An increase 
+the value of the outside option, or in the probability the attacker puts on the defenders being strong 
+types, will make him easier to deter. Also, in this case the upper bound is decreasing in A20 and a: a 
+greater beneﬁt for the attacker from ﬁnding either kind of group makes him harder to deter. Finally, 
+the upper bound increases if Y increases (in the sense of ﬁrst order stochastic dominance): when 
+average costs get higher, then cooperation up to a higher cost level will still persuade the attacker 
+that he is facing a strong group. (2) If only the reward constraint is binding then the upper bound is 
+increasing in R and A: cooperation is sustainable at higher levels when it is more efﬁcient in itself, 
+and when the cost of an attack is high. 
+It is clear that this logic could be extended to many different game forms, including episodes of 
+pairwise cooperation or altruism – any behaviour that correlates with the desire to cooperate in an 
+actual attack. 
+20To show this, differentiate ˆq, recalling that 
+P > Tt=1dt 
+a 
+N 
+. 
+22 
+
+========23========
+
+10 Conclusion 
+Economists, political scientists and biologists have puzzled over the problem of cooperation in group 
+conﬂict. This paper demonstrates one possibility: if there is even some small uncertainty regarding 
+the cohesiveness of the group, then a group consisting of selﬁsh unrelated individuals may cooperate 
+against outside attackers so as to deter them by appearing cohesive. The resulting cooperation levels 
+decrease in group size, but can be arbitrarily high if the time horizon of the attack is long enough and 
+defenders are patient enough. 
+The collaborative efforts that followed the 2011 riots in England can be thus explained by an effort 
+to signal to rioters that they stand to face cooperative resistance from communities. Activists made 
+statements to convey that efforts were collaborative as part of a cohesive community rather than 
+individual charitable helping. A dedicated website set up to coordinate efforts was reported to state 
+that “This is not about the riots. This is about the clean up – Londoners who care, coming together to 
+engender a sense of community” (BBC England, 2011, August 9). In our theoretical framework, both 
+vigilante actions and clean-up efforts can be seen as a way to signal that people in the community 
+are willing to sacriﬁce in order to help their neighbours, by that reducing the incentives to riot and 
+loot. In line with this reasoning, empathy and helping effort declined once the deterrence effect was 
+acheived.21 
+Our analysis provides an ultimate explanation for the proximate mechanisms identiﬁed in the psycho- 
+logical literature for cooperation in conﬂict. Those proximate mechanisms should generally lead to 
+the rational behavior identiﬁed in our model. Therefore, our analysis can be instrumental in directing 
+future empirical research, as it points at the necessary conditions for cooperation to be selﬁshly bene- 
+ﬁcial in the long run. Our results heavily rely on a strategic attacker, who can condition his decisions 
+on observed cooperation within the group. Cooperation in conﬂict is thus predicted to be reduced 
+when these conditions are not satisﬁed. For example, cooperation should diminish if it is not visible 
+to enemies; cooperation should be higher in the face of threats from other groups than of a natural 
+21The website www.riotcleanup.com, for example, stopped publishing calls for donations immediately after the riots ended. 
+23 
+
+========24========
+
+threat. Although proximate mechanisms sometimes generalize beyond the context for which they are 
+adapted, our analysis raises interesting new questions that merit empirical inveestigation, and may 
+lead to new insights regarding human behavior in conﬂict. 
+We see scope for further theoretical work in the following areas. First, can the uniqueness result be 
+generalized to a wider class of games with group reputation? Second, extending the model to multiple 
+groups, and/or differentiating between leaders and followers within groups, would help us to under- 
+stand how leaders can manipulate followers’ willingness to take part in group conﬂict. Lastly, in our 
+theory, defensive cooperation is due to group members’ expectations of further attacks. In the model, 
+groups are exogenously given. However, a group might also be deﬁned by the attacker’s (perhaps 
+arbitrary) choice of targets. This could provide a model of “violence and the social construction of 
+identity” (Fearon and Laitin, 2003). 
+24 
+
+========25========
+
+References 
+Baker, W. D. and J. R. Oneal. 2001. “Patriotism or Opinion Leadership?: The Nature and Origins of 
+the "Rally Round the Flag" Effect.” Journal of Conﬂict Resolution 45(5):661–687. 
+Bar-Isaac, H. 2007. “Something to prove: reputation in teams.” The RAND Journal of Economics 
+38(2):495–511. 
+BBC England. 2011, August 9. England riots: Twitter and Facebook users plan clean-up. url: 
+http://www.bbc.co.uk/news/uk-england-london-14456857, retreived on August 27, 2011. 
+Beaumont, P., J. Coleman and S. Laville. 2011, August 10. London riots: ‘People are ﬁghting back. 
+It’s their neighbourhoods at stake’. url: http://www.guardian.co.uk/uk/2011/aug/09/london-riots- 
+ﬁghting-neighbourhoods, retreived on August 27, 2011. 
+Blattman, C. and E. Miguel. 2008. “Civil war.” forthcoming in Journal of Economic Literature . 
+Bornstein, G. 2003. “Intergroup conﬂict: Individual, group, and collective interests.” Personality and 
+Social Psychology Review 7(2):129–145. 
+Bornstein, G. and M. Ben-Yossef. 1994. “Cooperation in inter-group and single-group social dilem- 
+mas.” Journal of Experimental Social Psychology 30:52–52. 
+Burnstein, E. and A.V. McRae. 1962. “Some effects of shared threat and prejudice in racially mixed 
+groups.” Journal of Abnormal and Social Psychology 64(4):257–263. 
+Burton-Chellew, M.N., A. Ross-Gillespie and S.A. West. 2010. “Cooperation in humans: competition 
+between groups and proximate emotions.” Evolution and Human behavior 31(2):104–108. 
+Campbell, D. T. 1965. Ethnocentric and other altruistic motives. In Nebraska symposium on motiva- 
+tion. Vol. 13 pp. 283–311. 
+Celetani, M., D. Fudenberg, D.K. Levine and W. Pesendorfer. 1996. “Maintaining a reputation against 
+a long-lived opponent.” Econometrica 64(3):691–704. 
+25 
+
+========26========
+
+Choi, J. K and S. Bowles. 2007. “The coevolution of parochial altruism and war.” Science 
+318(5850):636. 
+Cosmides, L. and J. Tooby. 1992. Cognitive adaptations for social exchange. In The adapted mind: 
+Evolutionary psychology and the generation of culture, ed. L. Cosmides, J. Tooby and J. H Barkow. 
+Vol. 163 Oxford: Oxford University Press p. 228. 
+Cripps, M.W., E. Dekel and W. Pesendorfer. 2005. “Reputation with equal discounting in repeated 
+games with strictly conﬂicting interests.” Journal of Economic Theory 121(2):259–272. 
+Cripps, M.W. and J.P. Thomas. 1995. “Reputation and commitment in two-person repeated games 
+without discounting.” Econometrica 63(6):1401–1419. 
+Davies, L., A. Topping, J. Ball and I. Sample. 2011, August 9. London riots: hundreds answer appeal 
+to clean up streets. url: http://www.guardian.co.uk/uk/2011/aug/09/london-riots-cleanup-appeal, 
+retreived on August 27, 2011. 
+Edmunds, M. 1974. Defence in animals: a survey of anti-predator defences. Longman Harlow. 
+Erev, I., G. Bornstein and R. Galili. 1993. “Constructive intergroup competition as a solution to the 
+free rider problem: A ﬁeld experiment.” Journal of Experimental Social Psychology 29(6):463 – 
+478. 
+Eshel, I. and A. Shaked. 2001. “Partnership.” Journal of Theoretical Biology 208(4):457–474. 
+Fearon, J. D. and D. D. Laitin. 2003. “Violence and the social construction of ethnic identity.” Inter- 
+national Organization 54(04):845–877. 
+Feshbach, S. and R. Singer. 1957. “The effects of personal and shared threats upon social prejudice.” 
+Journal of Abnormal and Social Psychology 54(3):411–416. 
+Fudenberg, D. and D. Levine. 1994. “Efﬁciency and observability with long-run and short-run play- 
+ers.” Journal of Economic Theory 62(1):103–135. 
+26 
+
+========27========
+
+Fudenberg, D. and D.K. Levine. 1989. “Reputation and equilibrium selection in games with a patient 
+player.” Econometrica: Journal of the Econometric Society pp. 759–778. 
+Fudenberg, D. and D.K. Levine. 1992. “Maintaining a reputation when strategies are imperfectly 
+observed.” The Review of Economic Studies 59(3):561. 
+Fudenberg, D. and E. Maskin. 1986. “The folk theorem in repeated games with discounting or with 
+incomplete information.” Econometrica: Journal of the Econometric Society pp. 533–554. 
+Garay, J. 2008. “Cooperation in defence against a predator.” Journal of Theoretical Biology . 
+Gintis, H., E. A. Smith and S. Bowles. 2001. “Costly signaling and cooperation.” Journal of Theoret- 
+ical Biology 213(1):103–119. 
+Glynn, Simone A., Michael P. Busch, George B. Schreiber, Edward L. Murphy, David J. Wright, 
+Yongling Tu and Steven H. Kleinman. 2003. “Effect of a National Disaster on Blood Supply and 
+Safety: The September 11 Experience.” JAMA 289(17):2246–2253. 
+URL: http://jama.ama-assn.org/cgi/content/abstract/289/17/2246 
+Hardin, R. 1997. One for all: The logic of group conﬂict. Princeton Univ Pr. 
+Hargreaves-Heap, S. and Y. Varoufakis. 2002. “Some experimental evidence on the evolution of 
+discrimination, co-operation and perceptions of fairness.” Economic Journal pp. 679–703. 
+Healy, P. J. 2007. “Group reputations, stereotypes, and cooperation in a repeated labor market.” The 
+American Economic Review pp. 1751–1773. 
+Hendon, Ebbe, Hans J?rgen Jacobsen and Birgitte Sloth. 1996. “The One-Shot-Deviation Principle 
+for Sequential Rationality.” Games and Economic Behavior 12(2):274–282. 
+URL: 
+http://www.sciencedirect.com/science/article/B6WFW-45V7FNN- 
+7/2/6f9d051e8e6e8968539ce284d3c7ad5d 
+Horowitz, D. L. 2001. The deadly ethnic riot. University of California Press. 
+27 
+
+========28========
+
+Janis, I.L. 1963. “Goup identiﬁcation under condtions of external danger.” The British journal of 
+medical psychology 36:227–238. 
+Janis, M. 1951. Air war and emotional stress: Psychological studies of bombing and civilian defense. 
+New York: McGraw-Hill. 
+Kocher, M. A and S. N Kalyvas. 2007. “How “Free” Is Free Riding in Civil Wars?: Violence, 
+Insurgency, and the Collective Action Problem.” World Politics 59(2):177–216. 
+Krams, I. and T. Krama. 2002. “Interspeciﬁc reciprocity explains mobbing behaviour of the breeding 
+chafﬁnches, Fringilla coelebs.” Proceedings of the Royal Society of London. Series B: Biological 
+Sciences 269(1507):2345. 
+Kreps, D. M., P. Milgrom, J. Roberts and R. Wilson. 1982. “Rational Cooperation in the Finitely 
+Repeated Prisoners’ Dilemma.” Journal of Economic Theory . 
+Kreps, D.M. and R. Wilson. 1982. “Sequential equilibria.” Econometrica: Journal of the Econometric 
+Society pp. 863–894. 
+Lotem, A., M.A. Fishman and L. Stone. 2003. “From Reciprocity to Unconditional Altruism through 
+Signalling Beneﬁts.” Proceedings: Biological Sciences 270(1511):199–205. 
+Milgrom, P. and J. Roberts. 1982. “Predation, reputation, and entry deterrence* 1.” Journal of eco- 
+nomic theory 27(2):280–312. 
+Neyman, A. 1985. “Bounded complexity justiﬁes cooperation in the ﬁnitely repeated prisoners’ 
+dilemma.” Economics Letters 19(3):227–229. 
+Nowak, M. A and K. Sigmund. 1998. “Evolution of indirect reciprocity by image scoring.” Nature 
+393(6685):573–577. 
+Olson, M. 1974. The logic of collective action: Public goods and the theory of groups. Harvard 
+University Press. 
+28 
+
+========29========
+
+Penner, L., M.T. Brannick, S. Webb and P. Connell. 2005. “Effects on Volunteering of the September 
+11, 2001, Attacks: An Archival Analysis.” Journal of Applied Social Psychology 35(7):1333–1360. 
+Posen, B. R. 1993. “The security dilemma and ethnic conﬂict.” Survival 35(1):27–47. 
+Puurtinen, M. and T. Mappes. 2009. “Between-group competition and human cooperation.” Proceed- 
+ings of the Royal Society B: Biological Sciences 276(1655):355–360. 
+Radford, Andrew N. 2008. “Type of threat inﬂuences postconﬂict allopreening in a social bird.” 
+Current Biology 18(3):R114–R115. 
+URL: http://www.sciencedirect.com/science/article/pii/S0960982207024220 
+Schmidt, K.M. 1993. “Reputation and equilibrium characterization in repeated games with conﬂicting 
+interests.” Econometrica 61(2):325–351. 
+Schmiedeberg, M. 1942. “Some observations on individual reactions to air raids.” International Jour- 
+nal of Psycho-analysis 23:146–175. 
+Shayo, M. and A. Zussman. 2011. “Judicial Ingroup Bias in the Shadow of Terrorism.” Quarterly 
+Journal of Economics . 
+Sherif, M. 1958. “Superordinate goals in the reduction of intergroup conﬂict.” American Journal of 
+Sociology 63(4):349–356. 
+Sherif, M. 1961. Intergroup conﬂict and cooperation: The Robbers Cave experiment. University 
+Book Exchange Norman, OK. 
+Stein, A.A. 1976. “Conﬂict and cohesion.” Journal of Conﬂict Resolution 20(1):143–172. 
+Steinberg, K.S. and P.M. Rooney. 2005. “America gives: A survey of Americans’ generosity after 
+September 11.” Nonproﬁt and voluntary sector quarterly 34(1):110–135. 
+Stephan, W. G. and C. W. Stephan. 2000. An Integrated Threat Theory of Prejudice. In Reducing 
+prejudice and discrimination: The Claremont symposium on applied social psychology. Lawrence 
+Erlbaum p. 23. 
+29 
+
+========30========
+
+Sumner, W. G. 1906. Folkways: A study of the sociological importance of usages, manners, customs, 
+mores, and morals. Ginn. 
+Tan, J.H.W. and F. Bolle. 2007. “Team competition and the public goods game.” Economics Letters 
+96(1):133–139. 
+Tirole, J. 1996. “A theory of collective reputations (with applications to the persistence of corruption 
+and to ﬁrm quality).” The Review of Economic Studies 63(1):1. 
+Trivers, R. L. 1971. “The Evolution of Reciprocal Altruism.” The Quarterly Review of Biology 
+46(1):35–57. 
+Weinstein, J. M. 2007. Inside rebellion: The politics of insurgent violence. Cambridge Univ Pr. 
+Winfree, J.A. and J.J. McCluskey. 2005. “Collective reputation and quality.” American Journal of 
+Agricultural Economics 87(1):206–213. 
+Wright, M.E. 1943. “The inﬂuence of frustration upon the social relations of young children.” Journal 
+of Personality 12(2):111–122. 
+Zahavi, A. 1975. “Mate selection–a selection for a handicap.” Journal of theoretical Biology 
+53(1):205–214. 
+30 
+
+========31========
+
+Appendix 
+Proof of Lemma 2 
+Proof. Rewrite (6) as 
+VS(pt) = [mt + (1 
+ mt)F(Ct+1)][a+dV] + [(1 
+ 
+ 
+ 
+ mt)(1 
+T  t  1  F(Ct+1))][ 
+ 
+dsA+dT 
+s=0 
+ tV]: 
+Now, T 
+t 1 
+s=0 
+dsA+dT 
+tV 
+is strictly decreasing in t and is greater than a+dV. Therefore, to show 
+the above is strictly decreasing in t, it will sufﬁce if 
+(1 
+ mt)(1 
+ F(Ct+1)) 
+(10) 
+is decreasing in t. Rewrite this expression, using the deﬁnition of m(ht) in (7), as 
+ 
+1 
+ 
+p + (1 
+p 
+ p)ts=1F(Cs) 
+ 
+(1 
+ F(Ct+1)): 
+Observe from the deﬁnition of Ct in (2) that, for any t, Ct !C¯ as T ! ¥. Since F is continuous, the 
+above expression approaches 
+(1 
+ mt)(1 ¯ 
+ F(C¯)) where m¯t  
+p + (1 
+p  p)F(C¯)t 
+(11) 
+as T ! ¥. This expression is strictly decreasing in t, since m¯t is strictly increasing in t. Deﬁne 
+e =mint2f0;:::;M 
+ 1g(1 
+ m¯t+1)(1 
+ F(C¯)) 
+ (1 
+ m¯t)(1 
+T large enough, we can ensure that 
+j 
+(1  p)ts=1F(Cs) p + (1  p) 
+t 
+s=1 
+F(Cs)(1 
+ F(Ct+1)) 
+ F(C¯)) and note that e >0. Now, by selecting 
+ (1 
+ mt)(1 ¯ 
+ F(C¯))j < 
+e 
+2 
+for all t; 
+and this, combined with our deﬁnition of e, ensures that (10) is decreasing. 
+Lemma 5. In any equilibrium, after any history ht, normal types do not help with probability of at 
+31 
+
+========32========
+
+least 1 
+ F(C¯) > 0. 
+Proof. Normal types help if 
+1 
+ c+dW  1+dW0 
+where W and W0 are continuation values from helping and not helping respectively. These are 
+bounded below by Ts=0 
+ t 
+ds(1  
+A 
+N) 
+and above by Ts=0 
+ t 
+ds. The above bound is reached if the at- tacker leaves; the lower bound holds because the defender can achieve at least this payoff by never 
+helping. The maximum difference between dW and dW0 is thus d T 
+ t  1 
+s=0 
+dsAN = 
+d  dT 
+ t+1 
+A 
+1  d N 
+<C¯; so for c C¯ the inequality above will not be satisﬁed. 
+Lemma 6. In any sequential equilibrium, beliefs m(pt) must be as given in equation (7), while 
+m(ht) = 0 for ht 2= P. 
+Proof. First, observe that in any equilibrium, defender play s(pt;c) can be characterized by a (per- 
+haps inﬁnite) cutpoint Ct, because if s(pt;c) = 1 is optimal, then s(pt;c0) must be strictly optimal 
+for c0 < c. Since pt may be off the equilibrium path of play, permissible beliefs must be derived 
+by constructing a sequence of equilibria of perturbed games in which (1) defenders’ probability of 
+helping at ht, sn(ht;c) is bounded within a subinterval of (0;1), with the interval approaching [0;1] as 
+n ! ¥, for all ht and c; (2) sn(ht;c) ! s(ht;c) as n ! ¥ (to avoid complications we assume that this 
+convergence is uniform across all c) and (3) attacker’s probability of leaving or staying is similarly 
+bounded between 0 and 1 and converges to 0 or 1 according toz(ht) 2 fstay;moveg. We also assume 
+that normal defenders help with probability 1 
+ hn(ht;c) ! 1 as n ! ¥. We then apply Bayes’ rule 
+to give the attacker’s beliefs. For pt, this results in 
+mn(pt) = 
+pts=1fR(1 
+pts=1fR(1  hn(ps;c))dF(c)gR 
+ hn(ps;c))dF(c)g+ (1  p)ts=1f sn(ps;c)dF(c)g: 
+As n ! ¥ we arrive at the limit 
+m(pt) = 
+p + (1 
+pR 
+ p)ts=1f sn(ps;c)dF(c)g 
+32 
+
+========33========
+
+and in the equilibrium of Section 3, since sn(ps;c)! 1 for c Cs, sn(ps;c)! 0 otherwise, this must 
+reduce to 
+m(pt) = 
+p + (1 
+as in (7). 
+p  p)ts=1F(Cs) 
+For ht 2= P, in any equilibrium, write ht = (r1;r2;:::;rt), with rs 2 f0;1g for s 2 f1;:::;tg. Bayes’ 
+rule gives 
+t 
+mn(ht) = 
+ps=1fr 
+R 
+s 
+(1 
+ hn(hs;c))dF(c) + (1 
+with 
+t 
+ 
+Z D = p 
+ 
+rs (1 
+s=1 
+t 
+ 
+Z 
++(1  p) rs 
+s=1 
+ hn(hs;c))dF(c) + (1 
+sn(ps;c)dF(c) + (1 
+ rs)R hn(hs;c)dF(c)g 
+D 
+Z 
+ rs) 
+ rs) 
+ hn(hs;c)dF(c) Z 
+ (1  sn(ps;c))dF(c) : 
+Since rs = 0 for at least one s, the numerator of the above expression goes to 0 as n ! ¥, and the 
+denominator D remains bounded above 0 since, after any history, normal types sometimes fail to help 
+(Lemma 5). Thus m(ht) = 0. 
+Lemma 7. Suppose that z((ht;0;h+)) = z((ht;1;h+)) for all continuation histories h+ of length 0 
+or more. Then in any equilibrium, s(ht;c) = 0 for all c. 
+Proof. We prove by backwards induction over the T periods. First, in a ﬁnal period history hT 
+ 1, 
+s(hT 
+1;c) = 
+0 for allc, since supporter behaviour cannot affect future play. Next, atT 
+ 
+ 2, s(hT 
+ 2;c) = 
+0 for all c, since the supporter cannot affect either future supporter play (as we have just shown) or the 
+attacker’s future play (by assumption). Then at T 
+and so on. 
+ 3, s(hT 
+ 3;c) = 
+0 for all c for the same reason, 
+33 
+
+========34========
+
+Proof of Lemma 3 
+Proof. Again, start at the end. Since m(hT 
+1) = 
+0, the attacker is certain that the defenders are normal 
+ 
+types, and since s(hT 
+ 1;c) = 
+0 for all c, the attacker will gain his maximum per-round payoff of A 
+next round by staying, giving a continuation value of A+dV >V (since there is positive probability 
+of receiving a in the ﬁrst round,V < A=(1 
+ d)). Thus z(hT 
+ 1) = 
+stay is strictly optimal. 
+Now consider z(hT 
+ 2). Since 
+m(hT 
+ 2) = 
+0, the attacker’s belief will stay at 0 for any continuation 
+history. Thus, z((hT 
+ 2;0)) = 
+z((hT 
+ 2;1)) = 
+stay as we have just shown. Therefore, the assumption 
+of Lemma 7 holds for histories of length T 
+ 2. Applying Lemma 7, we conclude that s(hT 
+for all c. Therefore z(hT 
+ 2) = 
+stay. For, given that s(hT 
+ 2;c) = 
+0 
+ 2;c) = 
+s((hT 
+ 2;0);c) = 
+s((hT 
+ 2;1);c) = 
+0 for all c, and that m(hT 
+ 2) = 
+0, the continuation value for staying is A+dA+d2V >V. We have 
+now proved the conclusion of the Lemma for histories of length T 
+ 2. 
+At hT 
+ 3, if 
+z(hT 
+ 3) = 
+stay then the previous paragraph shows that z((hT 
+ 3;h+)) = 
+stay for any 
+positive-length continuation history h+. Again this allows us to apply Lemma 7 and shows that 
+s(hT 
+3;c) = 
+0 for any c, and again this shows that z(hT 
+ 
+ 3) = 
+stay. This plus the previous paragraph 
+proves the conclusion of the Lemma for histories of length T 
+histories of any length. 
+ 3. Continuing thus, we prove it for 
+Lemma 8. There is some t such that in any equilibrium for a game of any length T,¯ z(pt) = move 
+for all t t.¯ 
+Proof. Applying (7), Lemma 5 shows that in any equilibriumm(pt) is strictly increasing in t, and 
+so approaches 1. Furthermore, in any equilibrium, since the probability of helping is no more than 
+F(C¯), m(pt)  m¯t as deﬁned in (11). Therefore, the set of beliefs m(pt), deﬁned over all equilibria, 
+approaches 1 uniformly as t ! ¥: for any e > 0, there is some t¯e such that m(pt¯e)  m¯t¯e > 1 
+any equilibrium. 
+ e in 
+Now, the value to the attacker of staying in equilibrium can be written 
+VS(pt) = m(pt)[a+dV0] + (1 
+ m(pt))V00 
+(12) 
+34 
+
+========35========
+
+whereV0 is the continuation value conditional on the defenders being strong types, andV00 is the value 
+if the defenders are normal types. Since strong types always help, the best response when faced with 
+them is to leave; therefore a+dV0  a+dV. Furthermore, 
+V  (p + (1 
+ p)F(C¯))a+ (1 
+ p)(1 
+ F(C¯))A+dV = a+dV + (1 
+ p)(1 
+ F(C¯))(A 
+ a); 
+since (1) the probability of normal types helping is no more than F(C¯), and (2) the attacker can 
+achieve at least the payoff on the RHS, by leaving after the ﬁrst round. Therefore, in any equilibrium, 
+a+dV0 V 
+ e2 where e2 = (1 
+ p)(1 
+ F(C¯))(A 
+ a). Plugging this into (12), and using the fact 
+thatV00 is bounded above by ¥s=0dsA, gives for any e some t¯e such that 
+¥ VS(pt¯e)  (1  e)(V  e2) +e 
+dsA 
+s=0 
+¥ 
+ V  (1  e)e2+e 
+dsA 
+s=0 
+Choosing e so that the right hand side is strictly less than V for any equilibrium value of V, we can 
+set t¯=t¯e. Then, it is sequentially rational to leave after pt¯, so z(pt¯) = leave. 
+Proof of Proposition 2 
+Proof. Suppose false, so that z(pt) > 0 for some t > 0. If T  t¯, z(pt) = 0 (i.e. leave) for t high 
+enough, as Lemma 8 shows. So, for T large enough we may take F such that z(pF) > 0, but 
+z(pF+1) = 0. Now, deﬁne L = minft  1 : z(pt0) > 0 for all t  t0  Fg. Observe that if z(pt) = 0 
+for all t < F, then L = F; if z(pt) > 0 for all t < F, then L = 1. 
+First we show that CL <CF+1. After pF, the attacker will condition on the next round, staying until 
+T if he observes no helping and leaving otherwise. Thus, 
+= 
+d 
+ F CF+1 
+ dT A; 
+1  d N 
+35 
+
+========36========
+
+just as in (2). Observe that for any T, F <t¯, by Lemma 8. Therefore as T becomes large, 
+¥ CF+1 !C¯ = 
+dtAN: 
+(13) 
+t=1 
+Now examine the supporter’s problem in round L. The beneﬁt of not helping is 
+T 
+1+ 
+ 
+dt 
+ L 
+1 
+t=L+1 
+The beneﬁt of helping is 
+1 
+F 
+  c+ 
+ 
+dt 
+ L 
+1 
+t=L+1 
+ Nohelp 
+At 
+N 
+ Attackt 
+ 
+1 
+Z 
+Ct 
+cdˆ F(cˆ) + 
+1 
+N[F(Ct)a+ (1 
+N 
+0 
+ 
+  
+A 
+N 
+: 
+(14) 
+ 
+ F(Ct))A] 
+T + 
+ 
+dt 
+ L1 
+t=F+1 
+(15) 
+ 
+ 
+ Nohelp 
+AF+1 
+N 
+where Nohelpt gives the probability that at least one defender failed to help between rounds L+1 
+and t 
+ 1, and Attackt gives the probability that the attacker is still present at time t even though all 
+defenders helped. That is, until round F, the attacker may still be present even after observing helping. 
+If so, the defender bears the expected cost in curly brackets, which includes the expected cost of being 
+a supporter and helping if c Ct, and the expected cost of being attacked and perhaps helped. From 
+round F +1 onwards, either the attacker has observed perfect helping and left, or h 2= P, the attacker 
+is staying forever and no defenders help. 
+We can calculate Attackt as 
+t 1 
+ 
+F(Cs)z(ps) 
+ 
+s=L+1 
+which is positive by deﬁnition of L, and Nohelpt, recursively, as 
+Nohelpt 
+ 1 
++ (1 
+ Nohelpt 
+ 1)z(pt 2)(1 
+ 
+ F(Ct 
+ 1)) 
+with NohelpL+1 = 0 since by assumption the current supporter helped. I.e. even if every supporter 
+helped up tillt 
+ 2, if the attacker continued to stay then att 
+36 
+ 1 the supporter may have failed to help. 
+
+========37========
+
+All that matters is that both Attackt and Nohelpt are positive, since z(pt) is positive for L t  F. 
+Rearranging (15) and (14), and taking T ! ¥, gives 
+F 
+ CL !T!¥ 
+ 
+dt 
+ L 
+(1 
+t=L+1 
+ Nohelpt)AN 
+ Attackt 
+ 
+1 
+Z 
+Ct 
+cdˆ F(cˆ) + 
+1 
+N[F(Ct)a+ (1 
+N 
+0 
+ 
+ F(Ct))A] 
+¥ + 
+ 
+dt 
+t=F+1 
+ L(1 
+ NohelpF+1)AN: 
+Comparing this with 13 showsCL <CF+1, since each term of the above sum is less than 
+A 
+N. 
+Now, 
+VS(pL 
+ 1) = [mL  1+(1 
+ mL 
+ 1)F(CL))](a+dV(pL))+(1 
+ mL 
+ 1)(1 
+ F(CL))(A+dA+:::+dT 
+ LA+dT 
+ L+1V) 
+where the ﬁrst term in brackets gives the probability of the supporter helping, and V(pL) is the value 
+after pL. Observe that 
+a+dV(pL) < A+dA+:::+dT 
+since V(pL) involves a sequence of no more thanT 
+ LA+dT 
+ L+1V 
+ L attacks which can give no more than A, 
+ 
+followed byV, and sinceV <A+dV impliesV <A+dA+:::+dt 
+1A+dtV 
+for anyt 1. Therefore 
+we can write 
+VS(pL 
+ 1) 
+> 
+[mF + (1 
+ mF)F(CF+1))](a+dV(pL)) + (1 
+ mF)(1 
+ F(CF+1))(A+dA+:::+dT 
+ LA+dT 
+ L+1V) 
+ 
+(by mF > mL 
+1 
+andCL <CF+1, and a+dV(pL) < A+dA+:::+dT 
+LA+dT 
+ 
+> 
+[mF + (1 
+ mF)F(CF+1))](a+dV) + (1 
+ mF)(1 
+ L+1V) 
+ F(CF+1))(A+dA+:::+dT 
+ F  1A+dT  FV) 
+(sinceV(pL) V; as must always hold given that leaving is an option, 
+andV < A+dV ) dT 
+ FV 
+< dT 
+ FA+dT F+1A+:::+dT LA+dT 
+ 
+= 
+V(pF): 
+ 
+ L+1V) 
+But since, by deﬁnition of L, either z(pL 
+1) = 
+0, or VS(pL 
+1) = 
+V if L = 1, it must be that V  
+ 
+ 
+VS(pL 
+1). We therefore arrive at 
+V >V(pF) which contradicts z(pF) > 0. 
+ 
+37 
+
+========38========
+
+Proof of Proposition 3 
+Proof. First consider defender behaviour. Since z((1)) = move, if t  2 then the attacker must have 
+observed not helping and will stay forever. Therefore it is not optimal to bear any cost to help. Now 
+suppose that t = 1. Helping gives expected welfare of 
+1 
+T  1  c+ 
+ 
+dt 
+t=1 
+and not helping gives 
+T  1 1+ 
+ 
+dt(1 
+t=1 
+ A=N) 
+giving a cutpoint 
+T  1 C1 = 
+ 
+dt 
+A 
+t=1 
+N: 
+Next consider attacker behavior. Write pt = (1;1;::;1) for a t-length history of helping, so that pt 2 
+P. Clearly since only related helpers help in the second and subsequent periods, v(pt) = move is 
+optimal for t  2. The interesting question is z(p1), the optimal strategy after a single episode of 
+helping. The beneﬁt of attacking is 
+m1(a+dV) + (1 
+T  2 
+ m1)( 
+ 
+dtA+dT 
+ 1V) 
+t=0 
+with 
+m1 = 
+p + (1 
+p  p)F(C1) 
+while the beneﬁt of moving is 
+V = [p + (1 
+ p)F(C1)](a+dV) + (1 
+ p)(1 
+T  1 
+ F(C1))( 
+ 
+dtA+dTV) 
+t=0 
+38 
+
+========39========
+
+We wish to show conditions when the beneﬁt of moving is greater than that of attacking. Taking T to 
+inﬁnity, the relevant inequality becomes 
+m1(a+dV) + (1 
+¥ 
+ m1)dtA  [p + (1 
+t=0 
+ p)F(C1)](a+dV) + (1 
+ p)(1 
+¥  F(C1))dtA: 
+t=0 
+Since a+dV < ¥t=0dtA, this will hold in the limit whenever m1 > p + (1 
+ p)F(C1), equivalently 
+when 
+p + (1 
+p 
+ p)F(C1) 
+> p + (1 
+ p)F(C1): 
+This results in a quadratic, but we can observe at once that it holds for F(C1) ! 0, does not hold 
+for F(C1) ! 1, and has a single crossover point in terms of F(C1). Intuitively, when F(C1) is small 
+enough, the fact that the supporter helped is strong evidence that the defenders are indeed strong 
+types. Taking T ! ¥ givesC1 ! ¥t=1dt 
+A 
+N 
+= 
+d A 
+1  d N. Solving the quadratic for 
+F(C1) gives 
+pp F(C1) = 
+ p 
+1  p 
+as the upper bound for F(C1) for the equilibrium to exist. 
+39 
+
+========40========
+

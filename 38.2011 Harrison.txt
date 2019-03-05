@@ -1,0 +1,1271 @@
+February 2011 
+             No.38 
+The Frequency of Wars 
+Mark Harrison (Department of Economics and CAGE, University ofWarwick and Centre for Russian and East European Studies, University Hoover Institution,  
+Stanford University) 
+Nikolaus Wolf (Wirtschaftswissenschaftliche Fakultät, Humboldt-Universität and  
+Centre for Economic Policy Research) 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+The Frequency of Wars* 
+Mark Harrison** 
+Department of Economics and CAGE, University of Warwick Centre for Russian and East European Studies, University of Birmingham 
+Hoover Institution, Stanford University 
+Nikolaus Wolf*** 
+Wirtschaftswissenschaftliche Fakultät, Humboldt-Universität 
+Centre for Economic Policy Research 
+Abstract 
+Wars are increasingly frequent, and the trend has been steadily upward since 1870. The main tradition of Western political and philosophical thought suggests that extensive economic globalization and democratization over this period should have reduced appetites for war far below their current level. This view is clearly incomplete: at best, confounding factors are at work. Here, we explore the capacity to wage war. Most fundamentally, the growing number of sovereign states has been closely associated with the spread of democracy and increasing commercial openness, as well as the number of bilateral conflicts. Trade and democracy are traditionally thought of as goods, both in themselves, and because they reduce the willingness to go to war, conditional on the national capacity to do so. But the same factors may also have been increasing the capacity for war, and so its frequency. 
+Keywords: wars, state capacity, democracy, trade. 
+JEL codes: H56, N40. 
+* Earlier versions of this paper were presented to the annual Defense Economics conference held at the Institute for Defense Analyses of the U.S. Department of Defense, Washington, DC, on November 17, 2008, the University of Birmingham Centre for Russian and East European Studies current affairs seminar, February 25, 2009, and the German Historical Institute conference on War in Transnational and Long Run Perspective, Moscow, July 2, 2010. We thank Alex Apostolides, Stephen Broadberry, Nick Crafts, Jari Eloranta, Bishnupriya Gupta, James Harrison, Les Hannah, Alex Klein, Bas van Leeuwen, Anandi Mani, Philippe Martin, Sharun Mukand, Dennis Novy, Eugenio Proto, Jeremy P. Smith, and the editor and referees, for advice and comments. 
+** Mail: Department of Economics, University of Warwick, Coventry CV4 7AL, United Kingdom. Email: mark.harrison@warwick.ac.uk. 
+*** Mail: Wirtschaftswissenschaftliche Fakultät, Humboldt-Universität, Spandauer Str. 1, 10178 Berlin, Germany. Email: nikolaus.wolf@wiwi.hu-berlin.de. 
+First draft: December 1, 2008. This version: February 10, 2011. 
+
+========2========
+
+The Frequency of Wars 
+‘War made the state and states made war’ (Tilly 1975, p. 42). 
+Wars are becoming more frequent. More precisely, the frequency of bilateral militarized conflicts among independent states has been rising steadily over 130 years. In this paper we consider how to evaluate this as a fact, how to explain it, and how to respond to it. 
+Part I of the paper reviews the data, and finds cause for concern. Part II outlines some reasons for puzzlement. The puzzle is that the world has become more globalized and more democratic; on both counts it should have got more peaceful, not less. In Part III we go back to the data. We find that the rising frequency of conflict is everywhere; it is not explained by a few bellicose powers. We show the answer to the puzzle will be related to the changing number of states. In Part IV, we discuss the historical relationship between war and state formation. In Part V, we raise some issues about how the factors conducive to peace and war have been analyzed in the literature and suggest lines of further investigation, in particular underlying determinants of state capacity for war. Technological, fiscal, and commercial aspects of the capacity for war are discussed in Part VI; the issue here is that these capacities are promoted by the same forces of democratization and globalization that are supposed to discourage conflict. Part VII concludes that, if the frequency of conflict has been increasing, it may not because we want it; more likely, it is “Because we can.” 
+I. 
+Many indicators of interstate conflict have been flat or declining for decades or longer. This includes the number of wars in each year since 1826 (Kristian Gleditsch 2004, p. 243), the number of military fatalities in each year since 1946 (Joseph 2008, p. 114), and the annual probability of bilateral interstate conflict, which was trending upwards between 1870 and 1914, has been in decline since 1950 (Martin, Mayer, and Thoenig 2008, p. 866). In the most recent years, despite conflicts associated with the breakup of the Soviet and Yugoslav states in the early 1990s, the downward trends have continued (Nils Gleditsch 2008, pp. 693-694). 
+One indicator has moved persistently in the wrong direction. How many countries are at war at any given time? Exploiting the Uppsala dataset on armed conflicts, backdated to 1946 (Nils Gleditsch, Wallensteen, Eriksson, Sollenberg, and Strand 2002) and updated to 2005, Joseph (2008) has noted upward trends in the annual percentage shares of all countries in the world that are at war, and of all possible country-days at war, over the postwar period. Nils Gleditsch (2008, p. 694) has dismissed these observations as statistical artifacts of a trend to coalition wars in which countries participate symbolically, at increasing distance, without ever exchanging fire with the adversary. This comforting inference is undermined, however, by another observation (Martin, Mayer, and Thoenig 2008, p. 867): between the 1950s and the 1990s, the average distance separating country pairs at war fell by one half (from more than 5,000 kilometers to less than 2,500). 
+First draft: December 1, 2008. This version: February 10, 2011. 
+
+========3========
+
+2 
+Using the Correlates of War dataset, updated in 2007, we trace the origin of the upward trend in the frequency of bilateral conflicts as far back as 1870.1 We show that it has proceeded with surprisingly little interruption through two World Wars nearly to the present day. Befitting a phenomenon that is older than the oldest person alive today, we suggest that deep causes are at work. 
+≪Figure 1 near here.≫ 
+Figure 1 charts the number of pairs of countries that have disputed with each other in each year from 1870 to 2001. This is a greater number than the number of wars for two reasons: first, it accounts for the number of countries involved in each conflict, rather than the number of conflicts; second, it has wider coverage than formal states of war, because it includes displays as well as uses of military force. The chart measures the number of pairwise disputes on a logarithmic scale, partly to give a clear picture of what has happened at the lower frequencies. 
+Viewed in this way, the chart demonstrates a clear log-linear trend; the frequency of bilateral conflicts has been rising steadily for over a century at two per cent per year.2 To be sure, there was a good deal of disturbance around the two world wars. But the surprising character of this disturbance is as follows: between 1914 and 1945, the conflicts that would normally have been distributed across the three decades arrived a little early and were squeezed into World War I, or were delayed until World War II, with an unexpected lull in between. After 1945, however, the frequency of conflict snapped back to the same trend it had followed up to 1914 and continued on that path through to the end of the millennium. 
+In principle, the number of pairwise conflicts in a time period, or the absolute frequency, is the product of two underlying variables into which it can therefore be decomposed. One component is the number of country pairs, which has increased enormously since the nineteenth century. In 1870 the world contained fewer than 50 independent states. By the end of the twentieth century, there were more than 180. This was associated with the breakup of empires (Austro-Hungarian, German, Ottoman, Russian, French, British, Dutch, Belgian, Portuguese, and Soviet) and federations (Czechoslovak and Yugoslav). As a result the total number of possible country pairs in the world between whom relations of peace or war could exist grew from around one thousand to over 17,000. 
+≪Figure 2 near here.≫ 
+After the increase in the number of possible pairs is stripped out of the data, we are left with the other component, the relative frequency of conflicts, that is, the absolute frequency of pairwise conflict normalized for the number of pairs. The number of countries since 1870 
+1 
+This is the Militarized Interstate Disputes dataset, described by Ghosn, Palmer, and Bremer (2004); we refer to version 3.1 (2007). The time series we use are reported in an unpublished Appendix, Table A1, available from [URL]. 
+2 
+We can reject a unit root at the 5% level, although not at the 1% level. Hence the series is quite close to stationary. In empirical political science, war is generally acknowledged to be auto-regressive in the sense that conflict in one period makes conflict more likely in the next. If our series of conflict frequency is regressed on time and itself with a one-year lag, there is around 50% year-on-year persistence. Controlling for that, the underlying trend growth rate is reduced to about 1 per cent year, but this trend is very significant. For details see the Appendix, Table A2 and A3. 
+
+========4========
+
+3 
+and the relative frequency of conflicts among them are shown together in Figure 2. As the chart shows, in the first 80 years the number of countries did not change much; the relative frequency of disputes fluctuated wildly and tended to rise. Then, over the next half century, the relative frequency of disputes fell back to the level of the 1870s and below, but the number of countries increased dramatically and this took over as the main driver that kept the absolute number of conflicts on its upward trend. Thus, the steady increase in the absolute frequency of conflicts was driven, statistically speaking, by quite different forces in different periods. 
+Historically it is very interesting. From a present-day standpoint, should we feel concerned? Normalized for the number of country pairs, the relative frequency of war does not show a trend and is lower today than in the 1870s. This might seem to reassure, but should not do so. Normalized for the number of planets that all countries must share – that is one, exactly – the absolute frequency of conflict today is similar to what it was during World War I. (The intensity of conflict measured by forces and expenditures is much lower, admittedly; we do not face death and destruction on the scale of the Great War.) We have more conflicts now than then, apparently, only because we have more states. 
+The number of states is not an exogenous or random variable, however. When new states come into being, what motivates them is the demand for sovereignty (Alesina and Spolaore 2003). And sovereignty includes decisions over peace – and war – with neighbors, including former compatriots. In fact it is not at all uncommon for new states to plunge into war, like Serbia or Georgia, or be born out of war, like Kosovo. If state formation and war frequency are indeed linked, and the linkage has a clear historical dimension, this should motivate historians to enquire more deeply into the nature of the connection. 
+II. 
+The data are a surprise, given the longstanding traditions of western political and philosophical thinking on the future of war. According to these traditions, the global trends towards democracy and globalization should make war increasingly a minority sport. In fact, war is a minority sport. The problem is that the minority has been growing. 
+The expected relationship between war and globalization is, on the face of it, clear cut. For many reasons, modern states ought to prefer trade to war. On the eve of World War I, Norman Angell (1910, pp. 76-77) wrote: 
+Men are fundamentally just as disposed as they were at any time to take wealth that does not belong to them. But their relative interest in the matter has changed. In very primitive conditions robbery is a moderately profitable enterprise ... But to the man whose wealth so largely depends upon his credit, dishonesty has become as precarious and profitless as honest toil was in more primitive times. 
+In more contemporary terms, trade is a positive-sum interaction; war is negative-sum. Trade costs have fallen (Jacks, Meissner, and Novy 2008); war costs are high and rising (Edelstein 2000, pp. 336-350; Stiglitz and Bilmes 2008; Glick and Taylor 2010). Victory in war can bring one-sided gains but the gains are reversible if conflict is renewed. And, in wars of choice, victory is not only uncertain but unlikely. On the record of all wars since 1700, to start one attracts a 60 percent probability of defeat (Eckhardt 1989). 
+
+========5========
+
+4 
+More or less the same tradition affirms that the spread of democracy should crowd war out of the global community. Whoever else they fight, the evidence is compelling that ‘Liberal or democratic states do not fight each other’ (Levy 1988; Russett 1995). 
+The reasons have been much debated. According to one interpretation, democratic norms make leaders more likely to exercise self-restraint. Possibly, moral constraints are weakened when the foreign state has an authoritarian ruler (Doyle 1986; Russett 1993; Maoz and Russett 1993). In another view, democratic institutions may constrain leaders to resolve conflicts non-violently, abroad as at home, or punish them more severely or more certainly if they embark on violence, or if they resort to war and lose. If democracies are thereby more selective about the wars they fight, and so more likely to win them, other states (or more specifically other democracies) may be less likely to attack them. Autocrats, in contrast, can steal the benefits of war while shifting the costs onto their subjects and avoiding punishment (Maoz and Russett 1993; Bueno de Mesquita and Siverson 1995; Bueno de Mesquita, Morrow, Siverson, and Smith 1999; Bueno de Mesquita, Smith, Siverson, and Morrow 2003; Bueno de Mesquita 2006; Jackson and Morelli 2007). 
+The democratic peace continues to be debated. Where skepticism persists, it is often based on counter-examples, such as the wars undertaken by the United States, the world’s largest rich democracy. According to Rosato (2003, p. 599; 2005), the democratic peace was ‘an imperial peace based on American power’; the United States enforced peace among the democracies after 1945 because the Cold War allowed it to, and made war against some dictators for the same reason. In this view the democratic peace was a temporary accident. A more popular and radical criticism sees the democratic peace as a sham; it detects the hand of aggressive American imperialism intervening with rising frequency in resource conflicts around the globe (e.g. Pelletière 2004). 
+In themselves, counter-examples may be of questionable significance because they can always be interpreted otherwise than as grounds for refutation: they may reflect randomness, or selection bias, or the influence of confounding factors (Doyle 2005; Kinsella 2005; Slantchev, Alexandrova, and Gartzke 2005). In the next section we will consider specifically whether the rising frequency of wars might be attributable to one rich country or a small group of them. 
+Some other recent qualifications to the democratic peace are of interest. Here are a few. First, Downs and Rocke (1994) have noted that elected leaders that face punishment by the electorate because their policies are failing have an incentive to gamble on resurrection, for example by starting wars or by persisting with them, in the hope that something will turn up. This argument has been applied to Iraq by Stiglitz and Bilmes (2008), as well as generalized by Majumdar and Mukand (2004). 
+Second, observing the record of the former Soviet and Yugoslav states, Mansfield and Snyder (1995, 2002, 2005) have proposed that new or incompletely established democracies are particularly vulnerable to risky adventures in nation-building (for discussion see Narang and Nelson 2009; Mansfield and Snyder 2009). Georgia seems to have supplied recent out- of-sample confirmation. Along similar lines, Baliga, Lucca, and Sjöström (2010) suggest that limited democracies might on balance be still more aggressive than dictatorships, if leaders are uncertain about the aggression of their neighbors and face a challenge from a hawkish minority in their own country. 
+
+========6========
+
+5 
+Doyle (2005) has suggested that democracy is a dynamic process qualified by values and institutions at the same time. The democratic peace rests, he argues, on a tripod of republican representation, commitment to human rights, and transnational 
+interdependence that falls when any one leg is missing. 
+Finally Conconi, Sahuguet, and Zanardi (2008) have looked in the data to find that democracies where leaders are subject to term limits are as likely to make war as autocratic states – and term limits are increasingly widespread. It is the democracies without term limits, where established leaders retain the option of continuing to compete for office, that account for the democratic peace. 
+≪Figures 3 and 4 near here.≫ 
+In short, the idea that democratization necessarily spreads peace has been qualified in various ways. We question whether these qualifications are adequate to the task of explaining a trend towards the rising frequency of war that has persisted for 130 years. The full difficulty is illustrated in Figures 3 and 4 which deal, respectively, with the spread of democracy and trade. In Figure 3 we report an average measure the net balance of democratic versus authoritarian attributes of political systems across all countries in the world in each year.3 This measure shows clearly the spread of democracy in the late nineteenth century, reversed by the rise of fascist, communist, and military dictatorships that began in the 1920s and continued through the 1970s. Beginning in the 1980s, democracy swept around the world once more, but it was not until the new millennium that average scores exceeded historical records. Figure 4 shows the average of a standard measure of trade openness over the same period. It reflects a relatively open global economy in the late nineteenth century, the profound setback to globalization of the interwar period, and a recovery that began in the 1950s, recovered to the level of the previous century in the 1970s, and went on to far exceed it. 
+These charts show clearly that the world in the year 2001 was more open and more democratic than the world of 1870 – and also more conflict ridden. It is true that trade and democratization grow together. From study of the endogenous relationship between trade and democratization since 1870, López Córdova and Meissner (2008) confirm that more open countries have been consistently more democratic. Most likely trade has tended to drive democracy, but with long lags and through uncertain and varying channels. But on our own figures, as trade and democracy have spread, so have wars. Over significant sub- periods, for example from 1870 to 1913 and from the mid-1970s to 2001, the positive associations of openness and democratization with the absolute frequency of wars have been particularly close. Thus, if we have not got the general relationship between economic and political progress and war completely and utterly wrong, to say the least, we have missed some important confounding factors. 
+III. 
+In this section we explore the data in cross section and time series. Intially, we ask whether the rising frequency of wars is attributable to a single country or small group of countries. 
+3 
+Other studies tend to report a single measure, the Polity 2 variable which aggregates and nets various dimensions of democratic and authoritarian rule. See for example Martin, Mayer, and Thoenig (2008). 
+
+========7========
+
+6 
+Consider the United States. We are all aware of America’s wars, but the result is a selection bias. The share of the United States in the global count of pairwise conflict-years was 9.3 percent from 1870 to 1945, 11.2 percent from 1946 to 1991, and 10.8 percent from 1992 to 2001. Subtracting the conflicts of the United States from the global series makes little difference to its level and no difference to its upward trend.4 
+≪Figures 5 and 6 near here.≫ 
+≪Table 1 near here.≫ 
+More generally, Figures 5 and 6 show that the propensity to originate militarized disputes is everywhere, in all parts of the global income distribution. Countries with larger GDPs (Figure 5) have a tendency to throw their weight around somewhat more often than others. Table 1 makes this more precise. The upper block of shaded cells in the table shows figures for the whole period; all countries are ranked by GDP in every year. We find that, of all those originating a dispute, the median country was ranked at 0.74 in the global GDP distribution at the time; in other words, one half of countries originating conflicts had GDPs larger than 74 percent of all countries at the time. We also measure the quartile points of the distribution: one quarter of countries originating conflicts had GDPs larger than 94 percent of all countries at the time, while one quarter had GDPs smaller than half of all countries. This bellicosity is an attribute of size, however, not of development level. Figure 6, and the remaining rows of Table 1 show that countries that are richer in GDP per head are not disproportionately responsible for the instigation of conflicts. The lower block of shaded cells, covering the whole period, shows that one quarter of countries originating conflicts had incomes per head higher than 76 percent of all countries at the time. Thus, the role of these countries in the frequency of conflicts was nearly perfectly in proportion to their numbers. 
+Wars are everywhere and their frequency has been rising everywhere, but the relative contributions of countries at different points of the global income distribution have hardly changed; this is seen both in the linear time trends in Figures 5 and 6, and the stability of the inter-quartile ranges over time in Table 1. Larger economies have contributed more than their fair share of conflicts, but not a rising share. The share of richer economies in the 
+4 
+The influence of the United States in our data is possibly our most frequently asked question when we have presented this work. Using FW for the annual pairwise frequency of conflict, and t for time with 1871 as year zero, for our full dataset we get: 
+Ln(FW) = 0.6187 + 0.5344 AR(1) + 0.009387 year (N= 130, R2 = 0.77) 
+with all coefficients significant at the 0.0001 percent level. Excluding conflicts involving the United States, we get: 
+Ln(FW no US) = 0.5552 + 0.5419 AR(1) + 0.009245 year (N= 130, R2 = 0.77) 
+and similar significance levels. For more detail see the Appendix, Tables A3 and A4. 
+
+========8========
+
+7 
+instigation of conflict is neither disproportionate nor rising. Poor countries, some of them small, also start many conflicts.5 
+Closer analysis of time series can sharpen our focus on this puzzle. First, the relationship between militarized disputes on one hand and democracy and trade openness on the other will emerge as statistically weak. Second, the changing number (and hence size) of states should be a crucial factor in any explanation for the frequency of wars. Third, the statistics will tell us that the relationship between these factors and the frequency of militarized disputes is highly non-linear. 
+≪Tables 2 and 3 near here.≫ 
+If we simply regress the number of militarized disputes on the degree of trade openness and on the average degree of democratization (all in logs), and control for serial correlation (Table 2, specification 1), we find that both openness and democracy significantly reduce the frequency of war. Once we control for the number of states, however (specification 2), the positive influence of democracy vanishes. 
+An econometric perspective allows us to explore whether the relationship among variables is sufficiently well approximated as linear with all explanatory variables entering separately, or more complex than this. Using Ramsey’s (1969) RESET test on specification 2, we can test (specification 3) whether any transformation of the set of dependent variables – including cross-products between them, such as effects of democracy and trade on country formation – can improve the fit. While the linear specification initially appeared to fit the data rather well with an adjusted R2 of 0.77, the RESET test very clearly rejects this simple model. It points us toward possible interactions between democracy, trade, and the number of countries as well as potential nonlinearities in their effect on war over time. In short, we should rethink how democracy and openness matter. 
+Before we leave econometrics, we carry out some robustness checks, specification 2 (controlling for the number of states) as our baseline. In Table 3, specification 4 examines the effect of splitting our democracy measure into levels of political competition versus executive restraint. Based on the powerful reasoning of Paul Collier (2009), we look for evidence that stable democracy is founded on executive restraint, and the spread of the latter might favour peaceful conflict resolution. But neither is significant. 
+We also check for the effects of eliminating pairwise conflicts involving the United States from the dependent variable. This exclusion does not change much. Specification 5 reports the effect of democracy as somewhat more positive, but still insignificant. Splitting democracy into political competition and executive restraint also remains ineffective. 
+IV. 
+As illustrated by Figure 2 and Table 2, the upward trend in the frequency of wars is tightly related to the increase in the number of sovereign states. Given the dramatic change in the 
+5 
+Which countries have accounted for most conflicts? Over the entire period and the 3,112 conflicts in Table 1, the United States comes in second place (originating 161 conflicts) behind Russia/USSR (219). The United Kingdom (119) is fourth, following China (151). Germany (97) is sixth, after Iran (112). France is tenth, after Israel, Turkey, and Iraq. Thus middle- and low-income countries are well represented and even small countries are present. 
+
+========9========
+
+8 
+number of states since 1870, and especially after the two world wars, an understanding of this relationship seems to be crucial for any explanation of the absolute frequency of wars in general, and of the role of democratization and trade in particular. 
+Empirical studies on the issue usually treat the changing number of countries as exogenously given, and either use it as an additional control variable, or focus on the relative frequency of wars standardized by the number of country-pairs (e.g. Martin, Mayer, and Thoenig 2008). This approach can mislead, however, insofar as the incidence of warfare has been at the heart of the process of state-formation and wars have served to create, consolidate or destroy states. We take one lesson from Tilly (1975, p. 42) who, in the context of the consolidation of the European state system, proposed that ‘war made the state and states made war.’ Another lesson is available from Gibler (2007) who suggests that peace and democracy are joint symptoms of stable borders, not the other way around. 
+If we limit our attention to the period after 1871, many wars in Europe and elsewhere began in attempts to revise existing political borders, either as a struggle for independence from empires – often supported by external powers – or as an effort to expand existing empires. Tensions within the British Empire (for example the two Boer Wars) and within the Austro-Hungarian and Ottoman Empires in the build-up to World War I come to mind as conflicts over the very number and size of independent political entities. The increase in the number of states after 1918, largely due to the partitioning of the Austro-Hungarian and Ottoman Empires, was not only a direct outcome of World War I; aspirations for the creation of new independent states lay equally at the origins of the war (e.g. Henig 2002). 
+Similarly, World War II arose from Nazi Germany’s efforts to build an autarkic continental empire, beginning with the subjugation and liquidation of independent states such as Poland and Czechoslovakia (Overy 1987). 
+After 1945 the larger colonial empires were dismantled in a largely (if not entirely) peaceful way. Many of the newly independent states were only weakly integrated by European standards, however. They inherited fragmented populations and fragile economic structures that were designed for an imperial periphery. In consequence, many of these states were prone to militarized conflicts over boundaries, motivated either by ethnic tensions or economic pressures. Comparing the challenges faced by African states to the European experience of state formation, for example, Herbst (1990, p. 136) argued: ‘It should be obvious that the incentives that African leaders have to incite wars for the purpose of state-making are significant and may become much stronger in the future.’ Against this background, there is a clear case for treating the number and size of countries as endogenous to the frequency of wars. 
+As we argued earlier, the data suggest that changes in the number of states not only affect the absolute frequency of wars but also interact with the effects of democratization and trade, and hence most probably affect the relative frequency of wars. Consider the theoretical framework provided by Alesina and Spolaore (2003) who have highlighted interactions between the formations of states on the one hand side and democracy, trade openness, and the development of international institutions on the other. In a nutshell, they argue, given all countries are composed of heterogeneous populations, global economic integration should strengthen the formation of smaller independent states; so should democratization, via tendencies of further decentralization and eventual separatism. The global spread of democracy and declining trade costs after 1945, together with the observed 
+
+========10========
+
+9 
+increase in the number of states, seems to lend empirical support to these ideas. But it also challenges our understanding of the frequency of wars. 
+Alesina and Spolaore (2003, p. 221) conclude by conceding that they have not explored ‘how a configuration of countries might affect the level of conflict’ except for the impact of an ‘exogenous’ change in the likelihood of international conflict on state formation. Yet the likelihood of international conflict is clearly not exogenous; it is what we would like to explain. 
+V. 
+How much do we really know? Less than we should, apparently. There is a vast and long- standing international relations literature on war and peace. The literature was once based on intuitive inference from narratives and comparisons, but has been transformed over the last thirty years by new data and the application of quantitative methods. Large-scale open- access cross-country panel datasets have been created that deal with war and peace, political regimes, and historical macroeconomic and trade variables.6 We should know more than ever before about the correlates of war and peace. Yet, what do we know? 
+As might be expected, the literature that has resulted, being voluminous, is of variable quality. Not all of the data now available have been well used; among thousands of regressions that have been reported are many with potentially biased or otherwise dubious estimates, for example because of the neglect of fixed effects in pooled regressions (Green, Kim, and Yoon 2001). 
+In some ways the present state of the field is reminiscent of the literature on global economic growth and divergence a decade or more ago. Banerjee (2007) has described how economists strayed into thinking of global development as a machine that produced growth using levers labeled ‘investment,’ ‘education,’ and ‘trade.’ In much the same way, estimation strategies have typically modeled global relations as a machine with big push-buttons marked ‘democracy’ and ‘trade.’ Economists have learned, however, that, while the big buttons have some power as statistical drivers of global development in the aggregate, their power has intrinsic limits. The buttons become particularly unreliable when applied in the context of any given country. One likely reason (Rodrik 2007) is that their operation is at least partly confounded by unobserved cross-country variation in institutions. 
+Where next for the study of peace and war? Experience suggests three possible correctives. One is to look inside the regressors: democracy and trade are complex phenomena that may have multiple or non-linear effects. An example of work in this spirit would be the investigation of term limits in democracies by Conconi, Sahuguet, and Zanardi (2008), but other aspects are also likely to be deserving of closer study. Collier (2009) has argued that electoral competition may impede effective governance for development unless accompanied by checks on executive power. Intuitively, electoral competition without 
+6 
+See the Correlates of War project at http://www.correlatesofwar.org, the Polity IV project at http://www.systemicpeace.org, the UCDP/PRIO (Uppsala Conflict Data Program at the Department of Peace and Conflict Research, Uppsala University, and International Peace Research Institute, Oslo) dataset at http://www.prio.no, the Penn World Tables at http://pwt.econ.upenn.edu, and the national income and population dataset of Angus Maddison at http://www.ggdc.net/maddison. 
+
+========11========
+
+10 
+executive restraint might be as damaging for international relations as it can be for domestic development. As we have seen, however, our aggregate data do not confirm this. 
+Another desirable corrective is to seek reconciliation of cross-section results with what time series and narratives tell us. The virtue of cross sections is that they enlarge the data; but the fact is that we live our lives through time. When we ask what may happen next year, it is not always helpful to be told what would happen if Argentina became Britain in a timeless way, since countries (and country pairs) are likely to be otherwise different in ways that we cannot control. Narratives of democratization in particular countries, for example, have shed light on the hypothesis of democratic peace where pooled cross-section studies have failed to do so or may even have misled. In principle fixed effects should exclude the across-unit variation from the variation that is exploited for estimation, leaving only the within-unit variation over time. However, this works only under some rather restrictive assumptions, for example that the variation across units remains unchanged over time. 
+A third corrective is to rethink the units of analysis themselves, because it is not always clear what the unit should be: the country or the pair, for example. We should not treat the number of sovereign states and their capacity to wage war as exogenous. The nature of ‘state and legal capacity’ generally, and its relationship to propensities for peace and war, are the subject of recent work by Besley and Persson (2008, 2009). Following their lead, further research in this field should also incorporate issues of state-formation, institutional change and openness. Such an agenda faces two obvious challenges. The first challenge is that empirical studies into these issues must find a way to capture the process of state formation as an endogenous variable. But the data are intrinsically unsuited to this. The data currently used in empirical studies are defined on the lines of national state boundaries (for example data on trade between states, state institutions, or conflicts between states). The state made statistics, and statistics defined the state (e.g. Tooze 2001, pp. 1-39). Therefore, we face great difficulty in treating changes in boundaries – that is, changes in the geographical reach of institutions – as varying endogenously over time, and this is one factor that tends to limit our focus to variation in the cross-section. 
+One solution might employ narratives and case studies that explore both developments over time and interactions between regions. Another solution would follow Ramankutty, Foley, Norman, and McSweeney (2002), Buhaug and Rød (2006), Wimmer and Min (2006) and Michalopoulos (2008) who use data on a grid of equally sized regions that are defined strictly by geographical position. Their data would require extension to cover institutional characteristics including political independence, variables reflecting trade costs, and the prevalence of conflict. This is a feasible but still enormous task. 
+A significant gain from this approach might be to weaken the intellectual barriers that arise when statistics are based on state borders. In reality, a continuity of violence runs from unorganized and organized crime through civil war to militarized interstate conflict. But social science struggles to recognize this as a continuum of interconnected phenomena. Instead, our data and models chop it up into artificial segments. Scholars specialize in one segment or another. The possibility of integrating insights is diminished. 
+The second challenge arises directly from our earlier results and the broad trends visible in the data. An understanding of the frequency of wars apparently needs to consider not only the relationship of war to state formation, institutional change, and trade, but should crucially consider all these factors as interrelated. For example, democratization may impose 
+
+========12========
+
+11 
+constraints on political leaders that reduce the probability of war and enhance trade integration. Simultaneously, democratization might transform public finance and hence as a by-product increase the capacity to wage war. Trade integration, by enabling countries to consume outside their production possibilities, may also increase the capacity for war. Hence, the second challenge is to open the ‘black boxes’ of institutions, boundaries, and trade and inspect the multiple interactions through which each affects the frequency of war. 
+Put in a simpler way, a focus on the appetite or ‘demand’ for war is reasonable, justifiable, and convenient if the number of states can be treated as exogenous; but this may have led us to neglect ‘supply-side’ or capacity-for-war factors that are also relevant. We will consider technological, fiscal, and commercial aspects of this at greater length. Globalization and democratization both ought to have diminished the appetite for war – and may well do so in cross section. But they may also have promoted the formation of states and the capacity for war over long periods of time, and this may explain some of what we see in the historical time series. 
+We frame the rest of our contribution as narrative, rather than as quantitative analysis. This is for a variety of reasons, including the tentative nature of our investigation, but the most important reason is that we see our existing statistical categories, within the frontiers of given states, as too crude and artificially bounded to bear the weight of statistical inference. 
+VI. 
+We consider the technological, fiscal, and commercial capacities for war. First, the relative costs of destructive power have been declining for centuries. From the Middle Ages, they fell more rapidly in western Europe than elsewhere. The result was a European comparative advantage in the ‘gunpowder technology,’ reflected first in trade, then in conquest (Hoffman 2010). The growth of technological capacities for war has continued to the present day. A preoccupation with public finances is likely to see only the rising unit cost of major weapon systems; in place of horses and sailing vessels, we now have billion dollar planes and hundred billion dollar warships. But the destructive power of these systems has risen even faster than unit costs. The advent of atomic weaponry meant that the same destruction that previously required the repeated application of mass bomber formations in multi-year campaigns could be achieved by one plane and one bomb. ‘In terms of “bangs per buck”,’ writes Niall Ferguson (2001, p. 40), ‘military technology has never been cheaper.’ 
+Competitive arms races followed inevitably. How could such weaponry become affordable on a rising scale? There was fiscal as well as industrial revolution. In the Middle Ages most citizens were poor, but that was not all. Tax compliance was low and sovereign debt was unattractive to lenders. Often, rulers raised military forces in kind: local overlords supplied the king with armed men and food. As a result, the ruler could wage external war only by consensus of the nobility. Or the king raised taxes to pay the army; conditional on having done so, he gained freedom of military action, but he could raise the taxes in the first place only through the overlords, and this again required their consent. Nor could rulers borrow to any great extent because, at this stage, there was no real distinction between public finance and the personal finance of the king; lenders were reluctant, not knowing if the king would be bound by his word, or if his debts would die with him. 
+
+========13========
+
+12 
+Comparative data suggest that no sixteenth-century ruler could extract more than 5 per cent of GNP in central revenues from the territory of the kingdom (Karaman and Pamuk (2010). The local burden on peasants might well be higher, but much of what could be raised locally was dissipated locally in paying off overlords or tax farmers. Only adding to the size of the kingdom could add to central revenues, but this risked diminishing returns as tax-raising authority was delegated across a wider territory. 
+The seventeenth century saw a fiscal revolution in northwestern Europe. Dutch and English fiscal ratios climbed to 10 and then 20 percent of national income. Patrick O’Brien (2005) has charted the progress of this revolution in England between 1500 and 1800. In the middle of these three centuries fall the English Civil War of 1642 to 1651 and the Glorious Revolution of 1688. Before 1642 English revenues were only once, briefly, more than 5 per cent of national income; after 1688, they were never less than that, and increasingly much more. 
+What drove the transformation of public finance? The Civil War and the Glorious Revolution destroyed absolutism and set new restraints on the executive – at least, the executive was now restrained in everything but the making of war (O’Brien 2001, 2005; Açemoglu, Johnson and Robinson 2005). Abroad, the government aggressively promoted the Atlantic trade by extending naval power, a policy that won taxpayers’ support and built tax compliance. At home, credible guarantees against default widened the market for sovereign debt. The result was to build public finance (Tilly 1975, 1990; Bonney 1994; Ferguson 2001). 
+Since other regions of Europe and the Near East did not follow, there was fiscal divergence. Nomadic empires such as that of the Mongols failed because they could not mobilize sufficient resources to compete with China or Russia (Perdue 1996). At the end of the eighteenth century the fiscal ratio of an agrarian state like the Ottoman Empire remained as it was. Through the nineteenth century, the gap widened (Cardoso and Lains 2010). In fact, by the early twentieth century the liberal democracies could put half or more of national income into war. In World War I Germany did so too, but only by exhausting its economy in the attempt to compete. In contrast, the agrarian empires of the Ottomans, Romanovs, and Habsburgs struggled to mobilize their resources at all (Broadberry and Harrison 2005). 
+Later in the century, the non-democracies caught up and eliminated the gap. The extraordinary 60-to-70 percent fiscal ratios of Nazi Germany, militarist Japan, and the Soviet Union in World War II stand out (Harrison 1998). Behind this lay the fact that, by World War II, dictators of varying hues had learned to substitute the instruments of modern nationalism and modern repression for their adversaries’ advantages of fiscal transparency and voluntary tax compliance. 
+What the dictators could not match was the capitalist democracies’ commercial capacities for war. This aspect of state capacity is illustrated by a twentieth-century paradox. Since the Napoleonic era, European governments have worried about food security. Britain has relied overwhelmingly on imported calories. Despite this, in two world wars Britain had little difficulty in feeding its people (Olson 1963). In contrast, those countries that believed themselves secure were the first to run short of food. In the last quarter of the nineteenth century Germany’s leaders worked hard to limit their exposure to international trade and to protect agriculture. In 1914 Russia went to war, assured of the availability of a large 
+
+========14========
+
+13 
+peacetime surplus of exportable grains. Yet it was Russian and German cities that were stalked by hunger (Offer 1989; Broadberry and Harrison 2005). 
+It was easier for Britain to feed itself from the other side of the world than for Berlin, Vienna, St Petersburg, or Constantinople to induce farmers thirty miles distant from the capital to feed their own people. Why was this? Britain had invested not in agriculture but in something more important: the gains from international trade. These were not only direct gains in the Ricardian sense of returns to specialization, but also indirect gains from the establishment of an overseas trading network that would robustly survive the disruptions of continental war. The Russian, German, Austro-Hungarian, and Ottoman Empires had inferior external networks, although Russia was helped by peripheral membership of the Anglo- French network. But there was more: these countries, with their large peasant populations, could not maintain the integration of their own domestic markets under the pressure of wartime mobilization. Unable to trade with the cities on peacetime terms, their peasant farmers seceded from the war effort, retreating into subsistence activities, leaving the soldiers and war workers without food. 
+To varying degrees, these countries had a commercial capacity for war that was greatly inferior to Britain’s. They thought they were safe; they perceived the British to be at risk. When war broke out, they expected Britain to starve. Using commerce rather than agriculture, however, the British fed themselves to standards little short of peacetime through two world wars. In both world wars, moreover, the Allies were able to multiply the military value of coalition resources through long-distance economic cooperation that the Central and Axis Powers could not match. 
+The lesson of this narrative is straightforward: war and trade are not exclusive. The same conclusion can be reached in other ways, however. Using panel data from 1950, Martin, Mayer, and Thoenig (2008) have shown that trade had a double effect on the relative frequency of pairwise conflict. More bilateral trade reduced this frequency, but more multilateral trade raised it. Over time both multilateral and bilateral openness increased on average, but the net effect was positive. For any country pair separated by less than 1,000 kilometers, globalization from 1970 to 2000 raised the probability of conflict by one fifth (from 3.7 to 4.5 percent). On the interpretation of Martin and his co-authors, the same forces that widened the scope of multilateral trade made bilateral war less costly. As long- distance trade costs fell, open economies could increasingly wage war against some (most likely close by), while continuing to reap the gains from trade with others (at a distance). This phenomenon might also offer a key to the weaknesses of economic sanctions identified by Davis and Engerman (2003, 2006). 
+From various angles, therefore, it is possible to identify something that it is convenient to call the commercial capacity for war; this capacity is increasing in trade liberalization, and also in the information, communication, transportation, and transaction technologies that account for much of modern economic growth. 
+VII. 
+The evidence suggests that, normalized by the number of countries in the world, the risk of war is lower today than at the end of the nineteenth century. Normalized by the number of planets we have to share, however, it is of the same frequency (if not intensity) as during 
+
+========15========
+
+14 
+World War I. There has been a steady upward trend in the number of bilateral conflicts over 130 years. 
+Existing explanations of the resort to war in terms of the political incentives facing rulers subject to varying moral and cultural norms and constitutional arrangements, widespread in modern political science and political economy, are clearly both necessary and productive. We argue that an emphasis on preferences and incentives, which we call the demand side of the decision for war, cannot fully or convincingly explain the aggregate picture. It is necessary also to consider the supply side – the capacity for war. In this sense, we conclude, if the frequency of conflict has been increasing, it may not because we want it; more likely, it is “Because we can.” 
+The rising frequency of bilateral conflicts is reflected right across the global distributions of countries by size and wealth. Wealthy countries are not responsible for more than their share of conflicts, or for a rising share of conflicts. Countries that are economically above the median of the economic size distribution do contribute more than their share, but the rising trend is equally present among countries that are smaller (and poorer) than the median. 
+This rising trend may turn out to have been driven by things we would otherwise welcome as global improvements. For example, the hunger for political participation and national self-determination has been satisfied in many troubled regions, and this has led to the formation of new states. The growing number of states is an important explanatory factor in the rising frequency of wars, but this does not make the trend a statistical artifact because the number of states is not exogenous. 
+In modern times just as much as in the Middle Ages, new states have been born amid conflict. The demand for statehood is also a demand for the capacity to engage in national self-determination by force, and each new state has added a focus for potential conflict. With the downfall of empires, moreover, democracy has become more typical – and, with democracy comes improved fiscal capacity. As a result, countries that adopt democracy are likely to be able to raise taxes or borrow more in order to promote national adventures without recourse to domestic repression. 
+With more borders there is more cross-border trade. Beyond this, moreover, falling trade costs are another modern boon that has allowed many countries to benefit from specialization and increased economic interdependence. Wider markets have in turn increased the scope for smaller countries to self-insure against asymmetric shocks. A moral hazard that we associate with insurance, however, is that the insured can then engage in risky behavior at lower cost. In the same way, small states that reduce risks through multilateral exchange may become more inclined to risky action in bilateral relations. To complete the picture, continuously rising global productivity has lowered the costs of production and consumption – and destruction, too. 
+We see lessons for policy and history. In policy terms, democracy is good, but without nation there is no democracy, and nation-building is a double-edged process. Similarly, falling trade costs and wider multilateral exchange have been powerful promoters of economic growth and development, but may also have cheapened war. How can we encourage democracy to spread in ways that don’t offer gains to nation-building adventurists? How can we lock countries into regional or global trade without freeing their hands for confrontational foreign adventures at shorter range? These questions may hold some of the keys to a peaceful twenty-first century. 
+
+========16========
+
+15 
+For history, we have identified some unsolved problems in the relationship between economic progress and organized violence, and we have proposed some answers. An underlying issue is that our historical categories and statistics have been limited by the existence of states and their borders. In historical reality, there is a continuum of violence from organized crime through civil conflict to inter-state warfare. As violence flows from one category to another, it drops out of one specialist field and one dataset and pops up in others. There is a unified process to which the formation and destruction of states and state borders is endogenous. This process challenges historians and social scientists to work together to understand it. 
+
+========17========
+
+The Frequency of Wars: References 
+Footnote references 
+Açemoglu, D., S. Johnson, and J. A. Robinson, ‘The Rise of Europe: Atlantic Trade, 
+Institutional Change, and Economic Growth,’American Economic Review, 95:3 (2005), 
+pp. 546-79. 
+Alesina, A., and E. Spolaore, The Size of Nations (Cambridge, Mass., 2003). 
+Angell, N., The Great Illusion: A Study of the Relation of Military Power to National 
+Advantage (1910). 
+Baliga, S., D. Lucca, and T. Sjöström. ‘Domestic Political Survival and International Conflict: Is 
+Democracy Good for Peace?’ Review of Economic Studies, forthcoming. 
+Banerjee, A., ‘Inside the Machine: Toward a New Development Economics,’ Boston Review, 
+32:2 (2007), pp. 12-18. 
+Besley, T., and T. Persson, ‘The Origins of State Capacity: Property Rights, Taxation, and 
+Politics,’ American Economic Review, 99(4), pp. 1218-1244. 
+Besley, T., and T. Persson, ‘Wars and State Capacity,’ Journal of the European Economic 
+Association, 6:2-3 (2008), pp. 522-530. 
+Bonney, R., ed., The Rise of the Fiscal State in Europe, 1200-1815 (Oxford, 1999). 
+Broadberry, S. G., and M. Harrison, eds., The Economics of World War I (Cambridge, 2005). Bueno de Mesquita, B., ‘Game Theory, Political Economy, and the Evolving Study of War and 
+Peace,’ American Political Science Review, 100: 4 (2006), pp. 637-642. 
+Bueno de Mesquita, B., A. Smith, R. M. Siverson, and J. Morrow, The Logic of Political 
+Survival (Cambridge, Mass., 2003). 
+Bueno de Mesquita, B., and R. M. Siverson, ‘War and the Survival of Political Leaders: A 
+Comparative Study of Regime Types and Political Accountability,’ American Political 
+Science Review, 89:4 (1995), pp. 841-855. 
+Bueno de Mesquita, B., J. Morrow, R. M. Siverson, and A. Smith, ‘An Institutional Explanation 
+of the Democratic Peace,’ American Political Science Review 93:4 (1999), pp. 791-807. Buhaug, H., and J. K. Rød, ‘Local Determinants of African Civil Wars, 1970-2001,’ Political 
+Geography25:3 (2006), pp. 315-335. 
+Cardoso, J. L., and P. Lains, eds, Paying for the Liberal State: The Rise of Public Finance in 
+Nineteenth-Century Europe (Cambridge, 2010). 
+Collier, P., Wars, Guns, and Votes: Democracy in Dangerous Places (London, 2009). Conconi, P., N. Sahuguet, and M. Zanardi. 2008. Democratic Peace and Electoral 
+Accountability. Working Paper. ECARES, Université Libre de Bruxelles. 
+Davis, L. E., and S. L. Engerman, ‘Sanctions: Neither War nor Peace,’ Journal of Economic 
+Perspectives, 17, no. 3 (2003), pp. 187-197. 
+Davis, L. E., and S. L. Engerman, Naval Blockades in Peace and War: An Economic History 
+Since 1750 (Cambridge 2006). 
+Downs, G. W., and D. M. Rocke. ‘Conflict, Agency, and Gambling for Resurrection: The 
+Principal-Agent Problem Goes to War,’ American Journal of Political Science 38:2 (1994), 
+pp. 362-380. 
+Doyle, M. W. ‘Three Pillars of the Liberal Peace,’ American Political Science Review, 99:3 
+(2005), pp. 463-466. 
+Doyle, M. W., ‘Liberalism and world politics,’American Political Science Review, 80(4) (1986), 
+pp. 1151-1169 
+Eckhardt, W. ‘Civilian Deaths in Wartime,’ Bulletin of Peace Proposals, 20:1 (1989), pp. 89- 
+98. 
+Edelstein, M., ‘War and the American Economy in the Twentieth Century,’ in S. L. Engerman 
+and R. E. Gallman, eds, The Cambridge Economic History of the United States, 3, The 
+Twentieth Century (Cambridge, 2000), pp. 329-405. 
+Ferguson, N., The Cash Nexus: Money and Power in the Modern World, 1700-2000 (2001). 
+
+========18========
+
+The Frequency of Wars: References 
+Ghosn, F., G. Palmer, and S. Bremer, ‘The MID3 Data Set, 1993–2001: Procedures, Coding 
+Rules, and Description.’ Conflict Management and Peace Science, 21 (2004), pp. 133- 
+154. 
+Gibler, D. M. ‘Bordering on Peace: Democracy, Territorial Issues, and Conflict,’ International 
+Studies Quarterly, 51:3 (2007), pp. 509-532. 
+Gleditsch, N. P., ‘The Liberal Moment Fifteen Years On,’ International Studies Quarterly, 52:4 
+(2008), pp. 691-712. 
+Gleditsch, N. P., P. Wallensteen, M. Eriksson, M. Sollenberg, and H. Strand. ‘Armed Conflict 
+1946-2001: A New Dataset,’ Journal of Peace Research, 39:5 (2002), pp. 615-637. Glick, R., and A. M. Taylor, ‘Collateral Damage: Trade Disruption and the Economic Impact of 
+War,’ Review of Economics and Statistics, 92(1) (2010), pp. 102-127. 
+Green, D. P., S. Y. Kim, and D. H. Yoon, ‘Dirty Pool,’ International Organization, 55:2 (2001), 
+pp. 441-468. 
+Harrison, M., ed., The Economics of World War II: Six Great Powers in International 
+Comparison (Cambridge, 1998) 
+Henig, R., The Origins of the First World War (3rd edn. 2002). 
+Herbst, J., ‘War and the State in Africa,’ International Security, 14:4 (1990), pp. 117-139. Hewitt, J. J., ‘Unpacking Global Trends in Violent Conflict, 1946-2005,’ in J. J. Hewitt, J. 
+Wilkenfeld, and T. R. Gurr, eds, Peace and Conflict 2008 (2008), pp. 107-118. 
+Hoffman, P. T., ‘Prices, the Military Revolution, and western Europe’s Comparative 
+Advantage in Violence,’ Economic History Review, 64:S1 (2010), pp. 39-59. 
+Hoffman, P. T., and J.-L. Rosenthal, ‘The Political Economy of Warfare and Taxation in Early 
+Modern Europe: Historical Lessons for Economic Development,’ in J. Drobak and J. V. 
+Nye, eds, The Frontiers of New Institutional Economics (San Diego, 1997), pp. 31-55. Jacks, D. S., C. M. Meissner, and D. Novy, ‘Trade Costs, 1870-2000,’ American Economic 
+Review, 98:2 (2008), pp. 529-534. 
+Jackson, M. O., and M. Morelli, ‘Political Bias and War,’ American Economic Review, 97:4 
+(2007), pp. 1353-1373. 
+Karaman, K., and Ş. Pamuk, ‘Ottoman State Finances in European Perspective, 1500-1914,’ 
+Journal of Economic History, 70:3 (2010), pp. 593-629. 
+Kinsella, D., ‘No Rest for the Democratic Peace,’ American Political Science Review, 99:3 
+(2005), pp. 453-457. 
+Levy, J. S., ‘Domestic Politics and War,’ Journal of Interdisciplinary History, 18:4 (1988), pp. 
+653-673. 
+López Córdova, J. E., and C. M. Meissner, ‘The Globalization of Trade and Democracy,’ World 
+Politics, 60:4 (2008), pp. 539-575. 
+Majumdar, S., and S. W. Mukand, ‘Policy Gambles,’ American Economic Review, 94:4 (2004), 
+pp. 1207-1222. 
+Mansfield, E. D., and J. Snyder, ‘Democratic Transitions, Institutional Strength, and War,’ 
+International Organization, 56.2 (2002), pp. 297-337. 
+Mansfield, E. D., and J. Snyder, ‘Democratization and War,’ Foreign Affairs, 74:3 (1995), pp. 
+79-97. 
+Mansfield, E. D., and J. Snyder, ‘Incomplete Democratization and the Outbreak of Military 
+Disputes,’ International Studies Quarterly, 46:4 (2002), pp. 529- 549. 
+Mansfield, E. D., and J. Snyder, ‘Pathways to War in Democratic Transitions,’ International 
+Organization, 63 (2009), pp. 381-390. 
+Mansfield, E. D., and J. Snyder, Electing to Fight: Why Emerging Democracies Go to War 
+(Cambridge, Mass., 2005) 
+Maoz, Z., and B. Russett, ‘Normative and Structural Causes of Democratic Peace, 1946-1986,’ 
+American Political Science Review, 87:3 (1993), pp. 624-638. 
+
+========19========
+
+The Frequency of Wars: References 
+Marshall, M. G., and K. Jaggers. ‘Political Regime Characteristics and Transitions, 1800-2006,’ 
+Center for Systemic Peace, Polity IV Project at http://www.systemicpeace.org (2007). Martin, P., T. Mayer, and M. Thoenig, ‘Make Trade Not War?’ Review of Economic Studies 
+75:3 (2008), pp. 865-900. 
+Michalopoulos, S., ‘The Origins of Ethnolinguistic Diversity: Theory and Evidence,’ Working 
+Paper, Tufts University (2008). 
+Narang, V., and R. M. Nelson. ‘Who Are These Belligerent Democratizers? Reassessing the 
+Impact of Democratization on War,’ International Organization, 63:2 (2009), pp. 357- 
+379. 
+O’Brien, P. K., ‘Fiscal and Financial Preconditions for the Rise of British Naval Hegemony, 
+1485-1815,’ Working Paper No. 91/05, London School of Economics, Department of 
+Economic History (2005). 
+O’Brien, P. K., ‘Fiscal Exceptionalism: Great Britain and its European Rivals: From Civil War to 
+Triumph at Trafalgar and Waterloo,’ Working Paper No. 65, London School of Economics, 
+Department of Economic History (2001). 
+Offer, A., The First World War: An Agrarian Interpretation (Oxford, 1989). 
+Olson, M., The Economics of the Wartime Shortage: A History of British Food Supplies in the 
+Napoleonic War and in World Wars I and II (Durham, N.C., 1963). 
+Overy, R. J., The Origins of the Second World War (1987). 
+Pelletière, S. C., America's Oil Wars (New York, 2004). 
+Perdue, P. C., ‘Military Mobilization in Seventeenth and Eighteenth-Century China, Russia, 
+and Mongolia,’ Modern Asian Studies 30 (4) (1996), pp. 757-793. 
+Ramankutty, N., J. Foley, J. Norman and K. McSweeney, ‘The Global Distribution of Cultivable 
+Lands: Current Patterns and Sensitivity to Possible Climate Change,’ Global Ecology and 
+Biogeography, 11:5 (2002), pp. 377-392 
+Ramsey, J. B., ‘Tests for Specification Errors in Classical Linear Least Squares Regression 
+Analysis,’ Journal of the Royal Statistical Society, Series B, 31:2 (1969), pp. 350-371. Rodrik, D., One Economics, Many Recipes: Globalization, Institutions, and Economic Growth 
+(Princeton, 2007). 
+Rosato, S., ‘Explaining the Democratic Peace,’ American Political Science Review, 99:3 (2005), 
+pp. 467-472. 
+Rosato, S., ‘The Flawed Logic of Democratic Peace Theory,’ American Political Science 
+Review, 97:4 (2003), pp. 585-602. 
+Russett, B. ‘And Yet It Moves,’ International Security, 19:4 (1995), pp. 164-175. 
+Slantchev, B. L., A. Alexandrova, and E. Gartzke, ‘Probabilistic Causality, Selection Bias, and 
+the Logic of the Democratic Peace,’ American Political Science Review, 99:3 (2005), pp. 
+459-462. 
+Stiglitz, J. E., and L. J. Bilmes,The Three Trillion Dollar War: The True Cost of the Iraq Conflict 
+(2008). 
+Tilly, C., ‘Reflections on the History of European State-Making,’ in C. Tilly, ed., The Formation 
+of National States in Western Europe (Princeton, 1975), pp. 3-83. 
+Tilly, C., Coercion, Capital, and European States, AD 990-1992 (Oxford, 1990). 
+Tooze, J. A., Statistics and the German State, 1900-1945: The Making of Modern Economic 
+Knowledge (Cambridge, 2001). 
+Wimmer, A., and B. Min, ‘From Empire to Nation-State: Explaining Wars in the Modern 
+World, 1816-2001,’ American Sociological Review, 71:6 (2006), pp. 867-897. 
+Supplementary Data 
+An unpublished Appendix with Tables A1 to A4 and other data files are available at [URL]. 
+
+========20========
+
+The Frequency of Wars: Figures 
+Figure 1. Militarized disputes between pairs of countries since 1870 
+100 
+s 
+t 
+c 
+i 
+l 
+f 
+n 
+o 
+c 
+ 
+10 
+e 
+s 
+i 
+w 
+r 
+i 
+a 
+P 
+1 
+1870 
+1890 
+1910 
+1930 
+1950 
+1970 
+1990 
+Notes. Disputes are coded from level (1 no action) through 2 (threat of force), 3 (display of force), 4 (use of force), and 5 (war). We use all disputes of level 3 (the closing of a border or the dispatch of ships or troops) and above. For the full dataset, see the unpublished Appendix, Table A1, available from [URL]. The shaded area delimits the 1914 to 1945 period. 
+Source. The Militarized Inter-State Disputes dataset, version 3.1, at http://www.correlatesofwar.org, described by Ghosn et al. (2004). 
+
+========21========
+
+The Frequency of Wars: Figures 
+Figure 2. The relative frequency of pairwise militarized disputes and the number of independent states since 1870 
+6.25E-02 
+210 
+3.13E-02 
+180 
+y 
+c 
+s 
+n 
+1.56E-02 
+150 
+e 
+i 
+e 
+r 
+t 
+u 
+n 
+q 
+u 
+e 
+r 
+f 
+ 
+7.81E-03 
+120 
+o 
+c 
+ 
+t 
+f 
+c 
+i 
+o 
+l 
+ 
+f 
+r 
+n 
+o 
+3.91E-03 
+90 
+e 
+b 
+c 
+ 
+m 
+e 
+u 
+v 
+i 
+n 
+ 
+t 
+1.95E-03 
+60 
+a 
+e 
+l 
+h 
+e 
+T 
+R 
+9.77E-04 
+Relative conflict frequency 
+4.88E-04 
+Number of countries 
+1870 1890 1910 1930 1950 1970 1990 
+30 
+0 
+Sources. Conflict data as Figure 1. Number of countries from Martin, Mayer, and Thoenig (2008). 
+
+========22========
+
+The Frequency of Wars: Figures 
+Figure 3. Democratization: Political competition and executive constraint since 1870 
+100 
+4 
+Pairwise conflicts 
+3 
+Net democracy 
+e 
+r 
+2 
+o 
+c 
+s 
+ 
+s 
+y 
+t 
+c 
+c 
+i 
+l 
+1 
+a 
+r 
+f 
+c 
+n 
+o 
+o 
+c 
+10 
+0 
+m 
+ 
+e 
+e 
+d 
+s 
+ 
+i 
+t 
+w 
+e 
+r 
+-1 
+n 
+i 
+ 
+a 
+e 
+P 
+-2 
+g 
+a 
+r 
+e 
+v 
+-3 
+A 
+1 
+-4 
+1870 
+1890 
+1910 
+1930 
+1950 
+1970 
+1990 
+Note. The shaded area delimits the 1914 to 1945 period. 
+Sources. Conflict data as Figure 1. Net democracy: the Polity2 variable from the Polity IV dataset at http://www.systemicpeace.org, described by Marshall and Jaggers (2007). 
+
+========23========
+
+The Frequency of Wars: Figures 
+Figure 4. Trade openness since 1870 
+100 
+0.50 
+Pairwise conflicts 
+Openness 
+s 
+s 
+s 
+t 
+c 
+e 
+i 
+l 
+n 
+f 
+n 
+n 
+e 
+o 
+c 
+ 
+10 
+0.25 
+p 
+o 
+ 
+e 
+s 
+e 
+i 
+g 
+a 
+w 
+r 
+r 
+i 
+e 
+a 
+v 
+P 
+A 
+1 
+0.00 
+1870 
+1890 
+1910 
+1930 
+1950 
+1970 
+1990 
+Note. The shaded area delimits the 1914 to 1945 period. 
+Sources. Conflict data as Figure 1. Openness data from Martin, Mayer, and Thoenig (2008). 
+
+========24========
+
+The Frequency of Wars: Figures 
+Figure 5. Countries originating conflicts, 1870 to 2001, ranked by GDP 
+1.00 
+ 
+s 
+e 
+i 
+r 
+t 
+n 
+u 
+0.80 
+o 
+c 
+ 
+t 
+f 
+c 
+o 
+i 
+l 
+ 
+f 
+P 
+n 
+0.60 
+D 
+o 
+c 
+G 
+ 
+ 
+y 
+g 
+b 
+n 
+i 
+ 
+t 
+k 
+a 
+0.40 
+n 
+i 
+t 
+a 
+i 
+r 
+ 
+n 
+i 
+e 
+l 
+i 
+t 
+n 
+0.20 
+e 
+c 
+r 
+e 
+P 
+0.00 
+1870 1890 1910 1930 1950 1970 1990 
+Sources. As Table 1. 
+Note. The solid line is a linear time trend. 
+
+========25========
+
+The Frequency of Wars: Figures 
+Figure 6. Countries originating conflicts, 1870 to 2001, ranked by GDP per head 
+1.00 
+ 
+f 
+o 
+ 
+t 
+d 
+c 
+a 
+i 
+0.80 
+l 
+e 
+f 
+h 
+n 
+/ 
+o 
+c 
+P 
+ 
+D 
+g 
+0.60 
+G 
+n 
+ 
+i 
+t 
+y 
+a 
+b 
+i 
+ 
+t 
+i 
+k 
+n 
+n 
+i 
+ 
+a 
+0.40 
+s 
+r 
+ 
+e 
+e 
+i 
+l 
+r 
+i 
+t 
+t 
+n 
+n 
+u 
+e 
+0.20 
+c 
+o 
+r 
+c 
+e 
+P 
+0.00 
+1870 1890 1910 1930 1950 1970 1990 
+Sources. As Table 1. 
+Note. The solid line is a linear time trend. 
+
+========26========
+
+The Frequency of Wars: Tables 
+Table 1. Pairwise conflicts, 1870 to 2001, and countries originating them, distributed by GDP 
+and GDP per head 
+1870 to 
+Conflicts Conflicts per year 
+2001 3112 23.8 
+1871 to 
+1913 
+326 
+7.6 
+1914 to 
+1945 
+603 
+18.8 
+1946 to 
+1990 
+1679 
+37.3 
+1991 to 
+2001 
+497 
+45.2 
+Percentile rank of countries that originated disputes, 
+By GDP: 
+Quartile 3 
+Quartile 2 (median) 
+Quartile 1 By GDP per head: 
+Quartile 3 
+Quartile 2 (median) 
+Quartile 1 
+0.94 0.74 0.50 
+0.96 0.79 0.33 
+0.96 0.85 0.44 
+0.76 0.56 0.30 
+0.75 0.53 0.26 
+0.79 0.62 0.33 
+0.91 0.72 0.54 
+0.91 0.72 0.44 
+0.77 0.56 0.28 
+0.72 0.54 0.29 
+Note. The upper block of shaded cells in this table can be read as follows. When all countries are ranked by the size of their GDP in every year, we find that, of all those originating a dispute, the median country was ranked at 0.74 in the global percentile GDP distribution at the time. The country at the upper quartile was ranked at 0.94 and the country at the lower quartile at 0.50. Thus, one quarter of countries originating conflicts had GDPs larger than 94 percent of all countries at the time, while one quarter had GDPs smaller than half of all 
+countries. 
+Sources. For this table, we merge two datasets, the Militarized Inter-State Disputes dataset, version 3.1, at http://www.correlatesofwar.org, described by Ghosn et al. (2004), and the national income and population dataset of Angus Maddison at 
+http://www.ggdc.net/maddison. In the Militarized Inter-State Disputes dataset we identify countries that originated disputes of level 3 or higher, as defined in the notes to Figure 1. We match 162 countries by name; many are straightforward, but we match Russia with Russian Federation and USSR, Austria with Austria-Hungary, and Germany with German Federal Republic. In each year we attach a percentile rank to all matched countries by GDP and GDP per head. There are many missing observations in the Maddison dataset; particularly before 1950, many countries are represented by infrequent benchmarks. To lessen the risk of selection bias (since countries that are poorer in data tend also to be poorer in income) we give each country with missing data its percentile rank from the year when it is next observed. In this way, we create 3,112 matches out of 3,224 conflicts that were originated between 1870 and 2001. We then find the percentile ranks by GDP and GDP per head in each year of the countries originating disputes over the whole period and each of the subperiods in the table. Unpublished data files are available at [URL]. 
+
+========27========
+
+The Frequency of Wars: Tables 
+Table 2. Conflict, democracy, trade openness, and the number of countries 
+Specification 3: 
+Unrestricted RESET Dep. Variable = Specification 1 Specification 2 equationa Log(FW) Coefficient t-statb Coefficient t-statb Coefficient t-statb Constant 2.522 2.471 –5.424 –4.272 1.942 2.022 Log(Openness) –0.794 –1.925 –0.737 –2.620 0.017 0.111 Log(Democracy)d –0.676 –1.624 –0.096 –0.262 0.184 1.408 Log(# of Countries) ... ... 1.602 8.205 –0.299 –1.404 AR(1) 0.900 25.529 0.651 7.241 0.229 10.033 Fitted Value2 ... ... ... … –0.143 –1.281 Adj. R2 0.727 0.762 0.770 
+Prob (RESET F-test) ... ... 0.024 
+DW-stat 2.666 2.333 1.950 
+# of obs 130 130 130 
+Notes. 
+a 
+Ramsey’s (1969) RESET Test Statistics: F-Statistic: 4.251 (Probability: 0.04), Log likelihood ratio: 4.382 (Probability: 0.036). The RESET test considers whether the inclusion of further variables or non-linear combinations of the regressors makes a significant contribution to explain the variation of the dependent variable. 
+b 
+Based on Newey-West HAC Standard-Errors and Covariance. 
+Sources. FW is the conflict measure shown in Figure 1. Openness and # of countries: Martin, Mayer, and Thoenig (2008). Democracy: the Polity2 (or net democracy), variable from the Polity IV dataset at http://www.systemicpeace.org, described by Marshall and Jaggers (2007), averaged over all sample countries for a given year. 
+
+========28========
+
+The Frequency of Wars: Tables 
+Table 3. Robustness tests 
+Specification 4 Specification 5 Specification 6 Dep. variable Log(FW) Log(FW no US) Log(FW no US) Variable Coefficient t-stat Coefficient t-stat Coefficient t-stat Constant –6.059 –4.014 –5.488 –2.396 –6.526 –3.878 Log(Openness) –0.773 –2.598 –0.803 –2.628 –0.851 –2.622 Log(Democracy) ... ... –0.207 –0.265 ... ... 
+Log(PolComp) –0.099 –0.070 ... ... –0.239 –0.166 Log(ExConst) 0.443 0.192 ... ... 0.701 0.304 Log(# of Countries) 1.601 7.095 1.638 6.723 1.623 6.818 AR(1) 0.647 7.331 0.655 9.464 0.652 8.122 Adj. R2 0.760 0.764 0.763 
+DW-stat 2.323 2.180 2.170 
+# of obs 130 130 130 
+Note. Specification 4 tests specification 2 (from Table 2), splitting the democracy variable into separate components for political competition and executive constraint (as Figure 5). Specification 5 tests specification 2, eliminating pairwise conflicts involving the United States from the dependent variable. Specification 6 tests specification 4, again eliminating U.S. pairwise conflicts from the dependent variable. 
+Sources. As Table 2. 
+
+========29========
+
+The Frequency of Wars: Appendix 
+Table A1. Time series data, 1870 to 2001 
+Pairwise conflicts 
+Total 
+Democracy measures 
+Excluding 
+United 
+States Polity 2 
+Political competition 
+Foreign 
+trade openness 
+Variable name 
+Number 
+of countries 
+# of countries 
+FW FW no US Demo- 
+Executive 
+constraint 
+Exconst Polcomp Openness 
+cracy 
+1870 47 4 2 -2.32 3.43 4.58 0.11 
+1871 
+46 
+5 
+5 
+-2.05 
+3.62 
+4.75 
+0.16 
+1872 43 5 5 -1.65 3.63 4.98 0.18 
+1873 
+43 
+4 
+3 
+-1.65 
+3.53 
+5.02 
+0.17 
+1874 43 2 2 -1.56 3.62 5.00 0.18 
+1875 
+43 
+4 
+3 
+-1.46 
+3.64 
+5.00 
+0.16 
+1876 44 8 7 -1.60 3.72 4.76 0.18 
+1877 
+44 
+4 
+4 
+-1.63 
+3.73 
+4.69 
+0.19 
+1878 46 8 7 -1.65 3.73 4.73 0.20 
+1879 
+46 
+2 
+2 
+-1.53 
+3.71 
+4.78 
+0.21 
+1880 46 4 3 -1.15 3.72 5.00 0.20 
+1881 
+46 
+4 
+4 
+-1.13 
+3.75 
+4.98 
+0.21 
+1882 45 4 4 -1.13 3.75 4.98 0.20 1883 44 3 3 -1.06 3.74 5.12 0.20 1884 44 4 4 -1.15 3.74 5.12 0.20 1885 44 8 6 -1.15 3.74 5.12 0.20 1886 44 6 6 -1.34 3.66 5.02 0.19 
+1887 
+45 
+6 
+6 
+-1.34 
+3.66 
+5.02 
+0.19 
+1888 45 5 3 -1.21 3.68 5.08 0.19 
+1889 
+45 
+3 
+1 
+-1.13 
+3.70 
+5.08 
+0.20 
+1890 45 4 4 -0.96 3.72 5.35 0.16 
+1891 
+45 
+6 
+5 
+-1.00 
+3.75 
+5.37 
+0.20 
+1892 45 1 1 -0.98 3.77 5.37 0.20 
+1893 
+46 
+5 
+4 
+-0.96 
+3.77 
+5.46 
+0.19 
+1894 46 3 3 -0.89 3.85 5.38 0.20 
+1895 
+46 
+7 
+6 
+-0.91 
+3.85 
+5.29 
+0.18 
+1896 46 6 6 -1.00 3.81 5.29 0.21 1897 46 5 5 -1.00 3.81 5.29 0.21 1898 46 10 9 -0.66 3.85 5.51 0.21 1899 46 4 4 -0.66 3.85 5.51 0.20 1900 46 8 6 -0.68 3.89 5.42 0.16 1901 46 5 5 -0.48 3.96 5.48 0.19 1902 47 8 6 -0.40 3.94 5.51 0.19 1903 48 6 3 -0.44 3.91 5.55 0.19 1904 48 6 4 -0.53 3.81 5.62 0.19 1905 49 7 5 -0.47 3.87 5.71 0.20 1906 48 5 4 -0.20 3.87 5.87 0.20 
+1907 
+47 
+6 
+6 
+-0.51 
+3.77 
+5.76 
+0.20 
+1908 48 9 8 -0.07 3.94 5.96 0.20 
+1909 
+49 
+9 
+8 
+-0.02 
+4.00 
+5.90 
+0.19 
+1910 49 9 8 0.21 4.02 5.87 0.19 
+1911 
+49 
+19 
+16 
+0.50 
+4.14 
+5.96 
+0.20 
+1912 48 12 11 0.56 4.14 5.96 0.21 
+1913 
+48 
+13 
+12 
+0.93 
+4.27 
+6.08 
+0.18 
+1914 47 27 23 0.63 4.12 5.90 0.17 1915 47 16 15 0.68 4.22 5.96 0.19 1916 46 15 11 0.78 4.28 5.96 0.22 1917 46 18 14 1.28 4.42 6.24 0.23 1918 54 32 27 1.54 4.50 5.98 0.20 1919 53 23 21 1.63 4.53 6.06 0.19 1920 59 20 17 1.80 4.55 6.00 0.18 1921 60 18 16 2.05 4.63 6.20 0.13 
+
+========30========
+
+Pairwise conflicts 
+Variable name 
+Number 
+of countries 
+# of countries 
+Total FW 
+2 
+Democracy measures 
+Excluding 
+United 
+States Polity 2 FW no US Demo- 
+cracy 
+Executive constraint 
+Exconst 
+Political competition 
+Polcomp 
+Foreign 
+trade openness Openness 
+1922 62 11 11 1.88 4.67 6.24 0.14 1923 62 11 11 1.56 4.57 6.12 0.15 1924 62 2 2 1.15 4.41 6.02 0.15 1925 63 6 6 0.94 4.30 5.85 0.16 1926 63 8 7 0.79 4.25 5.87 0.15 
+1927 
+64 
+9 
+8 
+0.69 
+4.23 
+5.92 
+0.15 
+1928 64 6 6 0.43 4.05 5.72 0.15 
+1929 
+64 
+4 
+3 
+0.18 
+3.98 
+5.65 
+0.14 
+1930 64 3 3 0.00 3.87 5.59 0.12 
+1931 
+64 
+6 
+6 
+-0.16 
+3.91 
+5.45 
+0.10 
+1932 65 7 6 -0.13 3.91 5.46 0.08 
+1933 
+65 
+8 
+7 
+-0.50 
+3.75 
+5.23 
+0.08 
+1934 67 14 13 -1.01 3.56 4.94 0.10 1935 67 11 11 -1.00 3.54 4.99 0.10 1936 67 11 11 -1.56 3.32 4.72 0.10 1937 66 15 15 -1.10 3.45 4.95 0.12 1938 66 13 13 -0.96 3.46 5.02 0.10 1939 65 37 37 -1.15 3.32 5.06 0.11 1940 61 67 66 -2.17 3.03 4.55 0.10 1941 54 33 29 -1.74 3.15 4.60 0.09 1942 52 31 31 -1.82 3.11 4.59 0.09 1943 52 18 18 -1.66 3.15 4.60 0.09 1944 55 14 14 -0.86 3.44 5.22 0.09 
+1945 
+62 
+19 
+18 
+-0.09 
+3.67 
+5.56 
+0.09 
+1946 65 9 7 0.09 3.97 5.74 0.12 
+1947 1948 1949 1950 
+67 72 74 74 
+5 9 24 21 
+5 8 23 19 
+-0.16 -0.11 -0.38 -0.14 
+3.82 3.88 3.87 3.94 
+5.68 5.46 5.24 5.28 
+0.15 
+... 0.13 0.13 
+1951 75 18 16 -0.28 3.91 5.31 0.17 
+1952 
+75 
+21 
+20 
+-0.14 
+4.01 
+5.26 
+0.15 
+1953 77 23 19 -0.22 4.01 5.19 0.14 
+1954 
+81 
+25 
+21 
+-0.45 
+4.01 
+5.03 
+0.14 
+1955 83 31 30 -0.39 3.95 5.00 0.16 
+1956 
+86 
+29 
+24 
+-0.06 
+4.01 
+5.12 
+0.16 
+1957 88 17 14 0.05 4.06 5.05 0.16 
+1958 
+89 
+38 
+33 
+-0.45 
+3.81 
+4.85 
+0.13 
+1959 88 41 39 -0.26 3.87 4.90 0.13 
+1960 
+106 
+33 
+29 
+-0.74 
+3.77 
+4.49 
+0.14 
+1961 110 38 31 -0.87 3.75 4.44 0.14 
+1962 
+117 
+37 
+30 
+-0.85 
+3.81 
+4.42 
+0.14 
+1963 119 36 34 -1.17 3.65 4.32 0.14 
+1964 
+122 
+34 
+29 
+-1.21 
+3.68 
+4.30 
+0.15 
+1965 125 41 37 -1.26 3.63 4.18 0.15 
+1966 
+129 
+35 
+34 
+-1.35 
+3.54 
+4.23 
+0.15 
+1967 130 33 28 -1.64 3.42 4.14 0.15 
+1968 
+134 
+23 
+20 
+-1.48 
+3.42 
+4.20 
+0.16 
+1969 134 34 30 -1.78 3.31 4.08 0.17 
+1970 
+136 
+17 
+15 
+-1.77 
+3.35 
+4.10 
+0.18 
+1971 142 27 25 -2.20 3.25 3.85 0.18 
+1972 
+142 
+20 
+18 
+-2.55 
+3.17 
+3.66 
+0.18 
+1973 143 28 25 -2.49 3.23 3.70 0.21 
+1974 
+145 
+26 
+25 
+-2.38 
+3.24 
+3.75 
+0.27 
+1975 152 35 31 -2.37 3.26 3.67 0.26 
+1976 
+152 
+35 
+31 
+-2.62 
+3.20 
+3.56 
+0.27 
+1977 153 37 35 -2.65 3.18 3.54 0.27 
+1978 
+155 
+33 
+31 
+-2.19 
+3.34 
+3.74 
+0.27 
+
+========31========
+
+3 
+Pairwise conflicts Democracy measures 
+Number Excluding Foreign 
+of United Executive Political trade 
+countries Total States Polity 2 constraint competition openness Variable # of FW FW no US Demo- Exconst Polcomp Openness name countries cracy 
+1979 159 35 29 -1.75 3.47 3.94 0.30 1980 160 33 31 -1.94 3.38 3.85 0.32 1981 162 34 28 -1.95 3.38 3.86 0.33 1982 162 39 34 -1.83 3.44 3.89 0.31 1983 163 40 28 -1.63 3.51 3.98 0.29 1984 164 46 42 -1.70 3.47 4.02 0.27 1985 164 47 43 -1.45 3.52 4.16 0.27 1986 166 46 42 -1.33 3.57 4.20 0.25 1987 166 72 68 -1.31 3.60 4.24 0.26 1988 166 46 41 -1.03 3.67 4.36 0.27 1989 166 23 21 -0.56 3.76 4.64 0.31 1990 169 13 11 0.55 4.13 5.19 0.32 1991 182 21 17 1.24 4.38 5.72 0.31 1992 183 24 22 1.92 4.52 5.97 0.31 1993 187 35 30 2.13 4.56 6.11 0.30 1994 186 42 36 2.42 4.64 6.25 0.32 1995 187 43 41 2.39 4.60 6.25 0.34 1996 187 44 41 2.28 4.58 6.24 0.35 1997 187 44 41 2.26 4.54 6.26 0.37 1998 187 28 23 2.42 4.60 6.43 0.36 1999 187 43 39 2.65 4.63 6.59 0.37 2000 187 32 25 2.89 4.70 6.66 0.41 2001 187 43 39 3.09 4.75 6.76 0.40 Sources: 
+FW: The Militarized Inter-State Disputes dataset, version 3.1, at 
+http://www.correlatesofwar.org, described by Ghosn et al. (2004). Disputes are coded from level (1 no action) through 2 (threat of force), 3 (display of force), 4 (use of force), and 5 (war). We use all disputes of level 3 (the closing of a border or the dispatch of ships or troops) and above. 
+Openness and # of countries: Martin, Mayer, and Thoenig (2008). 
+Democracy: the Polity2 (or net democracy), Exconst, and Polcomp variables from the Polity IV dataset at http://www.systemicpeace.org, described by Marshall and Jaggers (2007). 
+
+========32========
+
+4 
+Table A2. Unit root tests on FW (the frequency of pairwise conflicts) Null Hypothesis: FW has a unit root 
+Exogenous: Constant 
+Bandwidth: 3 (Newey-West automatic) using Bartlett kernel 
+Adj. t-Stat Prob.* 
+Phillips-Perron test statistic -2.915191 0.0463 Test critical values: 1% level -3.481217 
+5% level -2.883753 
+10% level -2.578694 
+*MacKinnon (1996) one-sided p-values. 
+Residual variance (no correction) 65.63298 HAC corrected variance (Bartlett kernel) 54.22658 
+Phillips-Perron Test Equation 
+Dependent Variable: D(FW) 
+Method: Least Squares 
+Date: 01/17/11 Time: 09:05 
+Sample (adjusted): 1872 2001 
+Included observations: 130 after adjustments 
+Variable Coefficient 
+Std. Error 
+t-Statistic 
+Prob. 
+FW_NEW(-1) -0.152393 
+C 3.267484 
+0.047833 1.176782 
+-3.185957 2.776626 
+0.0018 0.0063 
+R-squared 0.073473 Mean dependent var 0.292308 Adjusted R-squared 0.066235 S.D. dependent var 8.449069 S.E. of regression 8.164465 Akaike info criterion 7.052725 Sum squared resid 8532.287 Schwarz criterion 7.096840 Log likelihood -456.4271 Hannan-Quinn criter. 7.070650 F-statistic 10.15032 Durbin-Watson stat 2.230413 Prob(F-statistic) 0.001813 
+
+========33========
+
+5 
+Table A2 (continued). 
+Null Hypothesis: FW has a unit root 
+Exogenous: Constant 
+Lag Length: 0 (Automatic - based on SIC, maxlag=12) 
+t-Statistic Prob.* 
+Augmented Dickey-Fuller test statistic -3.185957 0.0231 Test critical values: 1% level -3.481217 
+5% level -2.883753 
+10% level -2.578694 
+*MacKinnon (1996) one-sided p-values. 
+Augmented Dickey-Fuller Test Equation Dependent Variable: D(FW) 
+Method: Least Squares 
+Date: 01/17/11 Time: 09:08 
+Sample (adjusted): 1872 2001 
+Included observations: 130 after adjustments 
+Variable Coefficient 
+Std. Error 
+t-Statistic 
+Prob. 
+FW(-1) -0.152393 
+C 3.267484 
+0.047833 1.176782 
+-3.185957 2.776626 
+0.0018 0.0063 
+R-squared 0.073473 Mean dependent var 0.292308 Adjusted R-squared 0.066235 S.D. dependent var 8.449069 S.E. of regression 8.164465 Akaike info criterion 7.052725 Sum squared resid 8532.287 Schwarz criterion 7.096840 Log likelihood -456.4271 Hannan-Quinn criter. 7.070650 F-statistic 10.15032 Durbin-Watson stat 2.230413 Prob(F-statistic) 0.001813 
+
+========34========
+
+6 
+Table A3. The trend in FW (pairwise conflict frequency), 1871-2001 Dep. Var. = FW 
+Regression Statistics Multiple R 0.8796 R Square 0.7737 Adjusted R 
+Square 0.7702 Standard Error 0.4444 Observations 131 
+ANOVA 
+df SS MS F Regression 2 86.45 43.23 218.9 Residual 128 25.28 0.1975 Total 130 111.7 
+Coefficients Intercept 0.6187 AR(1) 0.5344 time 0.009387 
+Standard 
+Error t Stat P-value 
+0.1233 5.017 1.71E-06 
+0.0747 7.150 5.91E-11 0.001827 5.139 1.01E-06 
+
+========35========
+
+7 
+Table A4. The trend in FW no US (pairwise conflict frequency, excluding those involving the United States), 1871-2001 
+Dep. Var. = FW no US 
+Regression Statistics Multiple R 0.8782 R Square 0.7714 Adjusted R 
+Square 0.7678 Standard Error 0.4547 Observations 131 
+ANOVA 
+df SS MS F Regression 2 89.310 44.65 215.9 Residual 128 26.47 0.2068 Total 130 115.8 
+Coefficients Intercept 0.5552 AR(1) 0.5419 t 0.009245 
+Standard 
+Error t Stat P-value 
+0.1152 4.820 4E-06 
+0.07404 7.319 2.44E-11 0.001855 4.983 1.99E-06 
+
+========36========
+

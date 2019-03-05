@@ -1,0 +1,2980 @@
+November 2011 
+No.67  
+Mediation and Peace 
+Johannes Horner, Massimo Morelli and Francesco Squintani Yale University, European University Institute and Columbia University,  
+University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Mediation and Peace 
+Johannes Hornery 
+Massimo Morelliz 
+Francesco Squintanix 
+April, 2011 
+Abstract 
+This paper applies mechanism design to con resolution. We determine when and how unmediated communication and mediation reduce the ex ante probability of con in a game with asymmetric information. Mediation improves upon un- mediated communication when the intensity of con is high, or when asymmetric information is signit. The mediator improves upon unmediated communication by not precisely reporting information to con parties, and precisely, by not revealing to a player with probability one that the opponent is weak. Arbitrators who can enforce settlements are no more ee than mediators who only make non-binding recommendations. 
+1 Introduction 
+Over the years, the formal theory of international relations has much developed the pos- 
+itive analysis of con by making use of advanced game theoretical techniques.1 Instead, 
+the powerful tools of mechanism design have not yet been extensively used to explore which 
+We thank Sandeep Baliga, Alberto Bisin, Yeon-Koo Che, Matt Jackson, Philippe Jehiel, Adam Meirowitz, Clara Ponsati, Kris Ramsay, Tomas Sjostrom, as well as Yingni Guo for excellent research assistance, and the audiences of the ESSET 2009, SAET 2009, Wallis Conference 2010, con and mech- anism design conferences at Princeton, Warwick, Madrid and UCL, and regular seminars at Cambridge, Columbia, Essex, EUI, Bristol, Melbourne, Oxford, Sydney, UNSW, Siena, Toulouse School of Economics, University of Pennsylvania, UCL, UCLA and Warwick. This paper also bene from various conver- sations with Mr. Gianluca Esposito, Principal Administrator at the Council of Europe, and currently Consulting Counsel at the International Monetary Fund (IMF) (the views expressed by Gianluca Esposito do not necessarily re the views of the Council of Europe, of the IMF or of any of their respective bodies). 
+yYale University, Department of Economics. 
+zEuropean University Institute, Department of Economics, and Columbia University, Department of Political Science. 
+xEssex University, Department of Economics. 
+1See Jackson and Morelli (2011) for an updated survey of such a positive analysis. 
+1 
+
+========2========
+
+institutions may be more ee for con resolution and prevention.2 The revelation 
+principle, a fundamental result in mechanism design due to Myerson (1979), identi me- 
+diation as an et institution to deal with con that arise because of asymmetric 
+information, one of the main rationalist explanations for wars.3 
+Indeed, mediation has 
+played an increasingly important role in the organization of peace talks to resolve recent 
+international crises. According to the International Crisis Behavior (ICB) project, the 
+most comprehensive empirical e to date, 30% of international crises for the entire pe- 
+riod 1918{2001 were mediated, and the fraction rises to 46% for the period 1990{2001 (see 
+Wilkenfeld et al., 2005). In a simple model of con this paper  asks when, and how, 
+mediation improves the ex ante probability of peace with respect to unmediated peace 
+talks.4 Second, we ask whether arbitration improves on mediation, to explore the relevance 
+of the power of enforcing settlements in international con resolution.5 
+Before describing our speci set up and  we brie motivate our general mod- 
+elling choices. 
+In line with the mechanism design literature, we consider unbiased mediators who have 
+no private information.6 Further, the mediator’s objective is the minimization of the ex-ante 
+2A few papers study mechanism design in international relations (Bester and Warneryd, 2006, and Fey and Ramsay 2009, 2010); we discuss them later in details. A discussion on the importance of institutional design for con or international cooperation is in Koremenos et al (2001). 
+3Blainey (1988) famously argued that wars begin when states disagree about their relative power and end when they agree again (see also Brito and Intriligator, 1985, and Fearon, 1995). Wars may arise because of asymmetric information about military strength, but also about the value of outside options or about the contestants’ political resolve, i.e. about the capability of the leaders and the peoples to sustain war. For example, it is known that Saddam Hussein grossly under-estimated the US administration political resolve, when invading Kuwait in 1990. 
+4The role of communication in reducing the probability of con due to asymmetric information is established by Baliga and Sjostrom (2004). 
+5As well as international con the intuition that private information may cause bargaining failures has been invoked as an explanation for costly trials in the case of litigation, and strikes in the case of wage bargaining (see Kennan and Wilson, 1993, for an early review). But unlike in international relations, where nations are sovereign, arbitration is always possible in these contexts; and hence the study of mediation has not been much developed. Further, most of the analysis has focused on the performance of currently available arbitration mechanisms in speci game theoretic models, rather than characterizing optimal arbitration, which is the scope of mechanism design analysis. 
+6As some scholars claim, \mediator impartiality is crucial for disputants’ con in the mediator, which, in turn, is a necessary condition for his gaining acceptability, which, in turn, is essential for mediation success to come about" (see e.g. Young, 1967, and the scholars mentioned in Kleiboer, 1996). On the other 
+2 
+
+========3========
+
+probability of war. Hence, our mediator must be able to commit to quit in some circum- 
+stances, instead seeking a peaceful agreement in all contingencies (see Watkins, 1998). Such 
+commitments, in fact, facilitate information disclosure by the contestants, and ultimately 
+improve the ex-ante chances of peaceful con resolution.7 Finally, we study mediators 
+who have no independent budget for transfers or subsidies, and cannot impose peace to the 
+contestants. To be sure, third-party states that mediate con such as the United States, 
+are neither unbiased nor powerless; However, single states account for less than a third of 
+the mediators in mediated con (Wilkenfeld, 2005), so that we view our assumption 
+not only as a useful theoretical benchmark, but also as a reasonable approximation for 
+numerous instances of mediated crises. 
+Unlike most of the mechanism design literature, we assume that the mediator’s proposals 
+must be self-enforcing.8 Indeed, countries are sovereign, and enforcement of contracts or 
+agreements is often impossible in international relations (see e.g. Waltz, 1959).9 
+This 
+assumption is formalized by introducing ex post individual rationality constraints requiring 
+that both contestants  proposed peaceful settlements more advantageous than starting 
+con In the terminology of Fisher (1995), our mediators perform \pure mediation," 
+i.e., they gather information and propose settlements, rather than \power mediation," 
+which also involves mediator’s power to reward, punish or enforce. In order to describe 
+the di between arbitration and mediation, in the  section, we relax ex post 
+individual rationality and introduce standard ex interim individual rationality constraints. 
+To achieve their objectives, mediators can facilitate communication, formulate propos- 
+hand, when a mediator possesses independent information that needs to be credibly transmitted, some degree of bias may be optimal (see Kydd, 2003, Rauchaus, 2006). 
+7In the  discussion, we provide some anecdotal evidence supporting our assumption of full mediator’s commitment, which is obviously also one of our normative prescriptions. 
+8Among the few papers studying self-enforcing mechanisms, see Matthews and Postlewaite (1989), Banks and Calvert (1992), Cramton and Palfrey (1995), Forges (1999), Compte and Jehiel (2008), and Goltsman et al. (2009). 
+9Viewed another way, countries cannot commit not to initiate war if such an attack is a pro devia- tion from an agreement. In this sense, even if the bargaining problem comes from asymmetric information, we also have a natural form of commitment problem built in. See Powell (2006) for a recent comprehensive discussion of the relative importance of asymmetric information and commitment problems in creating bargaining breakdown. 
+3 
+
+========4========
+
+als, and manipulate the information transmitted (see Touval and Zartman, 1985, for a 
+discussion of these three roles; and Wall and Lynn, 1993, for an exhaustive discussion 
+of all observed mediation techniques). Because we consider unmediated cheap talk as a 
+benchmark, our mediators can only improve the chances of peace by managing the w 
+of information between the parties. In practice, this corresponds to the mediator’s role in 
+\collecting and judiciously communicating select contial material" (Rai 1982, 108{ 
+109). Obviously, this activity requires private and separate caucuses. Indeed, the practice 
+of shuttle diplomacy has become popular since Henry Kissinger’s e in the Middle East 
+in the early 1970s and the Camp David negotiations mediated by Jimmy Carter, in which a 
+third party conveys information back and forth between parties, providing suggestions for 
+moving the con toward resolution (see, for example, Kydd, 2006). In the real world, me- 
+diators also often prevent con by facilitating communication or coordinating discussions 
+among parties unwilling to communicate without a mediator. Such instances of mediation 
+correspond to what we formally call unmediated communication. Our paper con the 
+value of mediators as communication facilitators, by showing that communication often 
+reduces the chance of con 
+Having clari our methodological choices and our general motivation, we now describe 
+the basic features of our model and then o a preview of our  
+We consider a simple model of con in which two players contest  amount of re- 
+sources.10 A player cannot observe the opponent’s strength, political resolve, or willingness 
+to t. Speci, each player is strong (hawk) with some probability and weak (dove) 
+otherwise. If the two players are of the same type, war is a fair lottery; else, the stronger 
+wins with higher probability. For simplicity, we assume that all wars are equally costly.11 
+10This is a standard metaphor for many types of wars, for example related to territorial disputes or to the present and future sharing of the rents from the extraction of natural resources. Indeed, Bercovitch et al (1991) show that mediation is useful mostly when the disputes are about resources, territory, or in any case divisible issues. 
+11It might be interesting to allow for dit costs for symmetric and asymmetric wars, but the addi- tional notational and computational costs appear a heavy price to pay. 
+4 
+
+========5========
+
+We consider a simple game where the two players simultaneously choose whether to agree 
+to a given resource split, and war takes place unless both players agree. For any value of 
+the split, we calculate the equilibrium that maximizes the ex ante chances of peace. Then, 
+we choose values of the split that maximize the peace chances.12 
+In order to introduce unmediated communication, we augment our basic model by 
+letting the peaceful split parameter depend on cheap-talk messages priorly shared by the 
+players, and on the realization of a public randomization device. Indeed, it is known 
+that public randomization devices may be reproduced by simultaneous cheap talk (see, 
+Aumann and Hart, 2003). When war cannot be avoided in our benchmark model, the 
+optimal separating communication equilibrium is shown to improve on no-communication. 
+Intuitively, it allows players to reveal their type, and establish type-dependent splits to 
+avoid con However, war cannot be fully avoided.13 
+We then consider mediated communication. First, the mediator collects the players’ 
+messages privately. Then, she optimally chooses message-dependent split proposals, possi- 
+bly randomizing.14 Given these de we can now report our main results. 
+- When does a mediator help? The mediator’s optimal solution cannot be worse than 
+any equilibrium without the mediator. In fact, the mediator could always, trivially, 
+make the messages she receives public, thereby mimicking the optimal unmediated 
+communication equilibrium. Further, the mediator strictly improves the peace chance 
+in two distinct sets of circumstances. First, when the intensity (or cost) of con is 
+12One of the mediator’s role in our model will be to make peaceful split recommendations after hearing the players’ private report. By selecting the split values that induce equilibria with the highest chance of peace in our benchmark, we isolate the information management role of the mediator from her split proposal role. 
+13In a small parameter region, in which the cost of war is high, the players can improve on the sep- arating equilibrium, by playing a mixed strategy equilibrium in the cheap talk game. Of course, mixed strategy equilibria are strictly dominated by mediation, as mixed strategies induce randomizations inde- pendent across players, instead of the optimally correlated randomizations chosen by the mediator (see, e.g. Aumann, 1974). 
+14The model by Banks and Calvert (1992) can be related to our construction. They also compare the solution of self-enforcing mediation to what can be achieved without a mediator in an underlying two- by-two game. But their underlying game is very dit from our game of con They consider a coordination game with incomplete information. 
+5 
+
+========6========
+
+high. Second, when the intensity of con is low, but the uncertainty regarding the 
+disputants’ strength is high.15 
+- How does the mediator help? 
+When con intensity is high, the mediator can 
+improve upon unmediated communication by o unequal splits even when she 
+observes both players reporting to be doves. This is equivalent to an obfuscation 
+strategy by which the mediator does not reveal with probability one to a self-declared 
+dove that she is facing a dove. When the intensity is low but uncertainty is high, 
+the mediator’s strategy involves proposing equal split settlements even when she 
+receives dit messages. Equivalently, the mediator does not always reveal to a 
+self-declared hawk that she is facing a dove. 
+Although it is widely believed that a successful mediator should issue credible reports 
+to the con parties, we  that such a reporting strategy would be sub-optimal. 
+Speci (and realistically), the mediator should not always reveal that a player is 
+weak, when this is the case. 
+- Does arbitration improve on mediation? Surprisingly, we  that an arbitrator who 
+can enforce settlements is no more ee in preventing con than a mediator 
+who can only propose self-enforcing agreements.16 Our results are in line with the 
+view that a mediator should not necessarily need enforcement power: \A mediated 
+settlement that arises as a consequence of the use of leverage may not last very 
+long because the agreement is based on compliance with the mediator and not on 
+internalization of the agreement-changed attitudes and perceptions" (Kelman, 1958). 
+15Interestingly, the intensity of con and asymmetric information are considered among the most important variables that a when mediation is most successful (see e.g. Bercovitch and Houston, 2000, and Bercovitch et al., 1991). Our  resonate with well-documented stylized facts in the empirical literature on negotiation (Bercovich and Jackson 2001, Wall and Lynn, 1993), that show that parties are less likely to reach an agreement without a mediator when the intensity of con is high than when it is low. Rauchhaus (2006) provides quantitative analysis showing that mediation is especially ee when it targets asymmetric information. 
+16This result is in contrast with  in other environments (e.g., Cramton and Palfrey, 1995, Compte and Jehiel, 2008, or Goltsman et al., 2009). 
+6 
+
+========7========
+
+We conclude the introduction by discussing a few papers that, like us, study mechanism 
+design in international con The basic game of con and arbitration model studied 
+in this paper are binary versions of the model by Bester and Warneryd (2006), who, unlike 
+us, do not solve the more involved mediation and unmediated communication problem. Fey 
+and Ramsay (2009) establish simple sut conditions for mediation and communication 
+to achieve peace with probability one; unlike us, do not characterize optimal mechanisms 
+when they do not yield peace with probability one.17 Fey and Ramsay (2010) show that 
+mediation and unmediated communication yield the same outcomes in the special case when 
+all private information concerns only one’s cost of ting. Ours is the  paper that 
+solves the optimal mediation and unmediated communication problem in a game of con 
+where each player’s private information includes features that bear direct implications on 
+the outcome of war, such as military strength, political resolve, or preference for ting. 
+The paper is organized as follows. Section 2 introduces our basic model of con 
+Section 3 studies unmediated communication. Section 4 solves optimal mediation. Section 
+5 compares mediation and arbitration. The  section o some concluding comments. 
+In particular, it discusses interim mechanism selection, mediator’s commitment and con- 
+testants’ renegotiation. All proofs are in appendices. 
+2 The Game of Con 
+Two players contest a cake of size normalized to one.18 War shrinks the value of the 
+cake to  < 1. The expected payo in case of war depends on both players’ private types. 
+Each player can be of type H or L with probability q and (1 
+ q), respectively.19 
+This 
+17Another di is that unlike them we impose sequential rationality after every history, including after deviations, as it a incentives at the reporting stage (see for instance Green and Lat, 1987 for the importance of applying sequential rationality after every history). 
+18Depending on the context, of course, the interpretation of the cake ranges from territory or exploitation of natural resources to any measure of social surplus in a country or partnership. 
+19To simplify the analysis, and keep the problem’s dimensionality in check, we adopt a fully symmetric model. We believe that our results will hold approximately, for models that are close to symmetric. 
+7 
+
+========8========
+
+private characteristic can be thought of as related to resolve, military strength, leaders’ 
+stubbornness, etc. We will often refer to type H as a \hawk" and to a L type as a \dove" 
+(with no reference to the hawk-dove game). When the two players are of the same type, 
+the expected share of the cake in case of war is 1=2 for both. When a type H player ts 
+against an L type, her expected share of the cake is p > 1=2; and hence her expected 
+payo is p: If p < 1=2; the problem is trivial as con can always be averted with the 
+anonymous split (1=2;1=2); we shall therefore assume henceforth that p > 1=2: 
+We consider a simple \agreement" game where the two players simultaneously choose 
+whether to agree to a given cake division (x;1 
+ x); where x 2 [0;1] is a parameter of 
+the game. Unless both players agree to the split, war takes place.20 
+We assume that 
+when the two players accept a peaceful split, this prevents war.21 For any value of the 
+split, we calculate the equilibria that maximize the ex ante chances of peace. Then, we 
+choose values of the split that maximize the peace chance, which will be denoted by V , 
+the value. Our benchmark model is therefore directly comparable with the mediation and 
+unmediated communication programs that we will later describe in details. In fact, it can 
+be reformulated as a simple program where the split x 2 [0;1] is chosen so as to maximize 
+peace chances, subject to ex-post individual rationality constraints only, without allowing 
+players the possibility to communicate. 
+The model has three parameters: ; p, and q. Yet, it turns out that a more parsimonious 
+20Even though simultaneous decisions to go to war are sequentially rational in all circumstances, one could conceive other game forms with sequential decisions to accept or reject an agreement, and in such game forms one could intuitively expect a lower frequency of war. Since this intuition about alternative game forms can apply only for the game without communication and for unmediated communication, while with mediation the order of play is irrelevant, it follows that our choice of game form, if anything, stacks the deck against the mediator, hence making our conclusions to follow on the importance of mediation robust to changes in the underlying game. 
+21If the cake is a resource that can be depleted in a short period and does not have spillovers on relative strength, then there is no commitment problem. If the cake sharing is instead to be interpreted as a durable agreement for example on the exploitation of a future stream of resources or gains from trade, then the commitment problem is non trivial. In this case the agreement could be about periodic tributes to be made in perpetuity, and there are ways to implement the agreement with sut use of dynamic incentives. See for example Schwartz and Sonin (2008). 
+8 
+
+========9========
+
+description of all results depend on only two statistics:22 
+  
+1 
+p  q 
+and   
+1=2 
+q 
+ 1=2  =2 
+: 
+The parameter  is the hawk/dove odds ratio, and   0 represents the ratio of bene 
+over cost of war for a hawk: the numerator is the gain for waging war against a dove instead 
+of accepting the equal split, and the denominator is the loss for waging war against a hawk 
+rather than accepting equal split. Given that  is increasing in , we will also interpret 
+situations with low  as situations of high intensity or cost of con 
+Armed with this simpli we can now calculate the splits (x;1 
+ x) and equilibria 
+in the consequent war-declaration game that maximize the ex ante probability of peace. 
+First, note that for q=2+(1 
+ q)p  1=2; or   ; both doves and hawks choose peace in 
+the peace-maximizing equilibrium of the game with x = 1=2: When  < ; the probability 
+of peace is maximized by setting x so that all doves play peace, together with the hawk 
+type of one of the two players. This is achieved by setting x  p; so as to convince the 
+hawk type of player 1 to play peace, against a player 2 who plays peace if and only if dove, 
+and 1 
+ x  (1 
+ q)=2 + q (1 
+ p); so as to convince the dove type of player 2 to play 
+peace, against a player 1 who always plays peace. These two inequalities are both satis 
+for some x if and only if (1 
+ q)=2+q (1 
+ 1), which is always 
+ p)+p  1; i.e.,   
+1 
+2( 
+satis when   1: When this condition fails, the probability of peace is maximized by 
+setting x = 1=2 so that doves play peace, and hawks declare war. 
+In sum, the optimal probability of peace absent communication or mediation is: 
+ 
+(1 
+ q)2 = 
+1 
+(+1)2 V = 
+1 
+ q = 
+1 
++1 
+1 
+if  < 
+1 
+2( 
+ 1); if 
+1 
+2( 
+ 1)   < ; if   : 
+22This feature will allow us to give graphical illustrations of most results. 
+9 
+
+========10========
+
+3 Communication Without Mediation 
+Communication Game 
+In order to study the value of unmediated communication, 
+we augment our basic model as follows. After privately learning her type, each player i 
+sends a message mi 2 fl; hg: The two messages are sent simultaneously. After observing 
+each other’s message, the players play a speci of the agreement game, where the 
+split x may depend on the messages m = (m1; m2) and on the realization of a public 
+randomization device. Speci, we assume that with probability 1  p(m) a split x(m) is 
+selected that induces war as the unique equilibrium of the agreement game, e.g., x(m) = 0: 
+With probability p(m), the split x(m) is selected so as to induce peace in equilibrium. We 
+calculate the optimal values of the peaceful splits x() and the probabilities p() subject to 
+the constraints that players are willing to use the equilibrium communication and agreement 
+strategies. 
+Before proceeding with the analysis, we brie comment on the characteristics of our 
+communication protocol. Relative to the benchmark without communication, we have 
+introduced one round of binary cheap talk, and a public randomization device. Following 
+Aumann and Hart (2003), such a public randomization device can be replicated by an 
+additional round of communication (using so-called jointly controlled lotteries). Hence our 
+game can be reformulated as a two-round communication game without any extraneous 
+randomization device. For the sake of tractability, we do not consider the possibility of 
+further rounds of cheap talk.23 
+The restriction to binary messages is natural given the 
+binary type space. When focusing on pure-strategy equilibria, this restriction is without 
+loss of generality. But it is possible that more messages might help in mixed-strategy 
+equilibria (numerical optimization shows that allowing for three messages does not help). 
+On the other hand, the restriction to a single peaceful split x(m), for every m; rather than 
+the consideration of a lottery over peaceful splits, is without loss of generality.24 
+23This might help, however. Aumann and Hart (2003) provide examples of games in which longer, indeed unbounded, communication protocols improve upon  round communication. 
+24Note that can replace without loss any lottery over peaceful recommendations with its certainty equiv- 
+10 
+
+========11========
+
+Pure-strategy Equilibria. 
+We momentarily ignore mixed strategies by the players 
+at the message stage. Those will be considered in the next subsection. Evidently, there is 
+always a pooling equilibrium in which both types choose the same reporting strategy, whose 
+outcomes coincide with the equilibrium of the agreement game without communication. We 
+now consider separating equilibrium, i.e., equilibrium in which each player truthfully reveals 
+her type. 
+Let us consider here only equilibria with peaceful splits x(m) and probabilities p(m) 
+that are symmetric across players. Such symmetry restriction entails that x(h; h) = x(l; l) = 
+1=2, and that we only need to  another split value, i.e., b  x(h; l) = 1 
+ x(l; h), given 
+that the message space contains only two elements. We shall later see that this restriction 
+is without loss of generality, because the separating equilibrium which minimizes the ex 
+ante probability of peace is calculated by solving a linear program.25 To shorten notation 
+further, we let pL  p(l; l); pH  p(h; h) and pM  p(h; l) = p(l; h). 
+Armed with these de the optimal separating equilibrium is characterized by 
+the following program. Maximize the peace probability 
+min (1b;pL;pM;pH 
+ q)2(1 
+ pL) + 2q(1 
+ q)(1 
+ pM) + q2(1 
+ pH) 
+subject to the following ex post individual rationality (IR) constraints and ex interim incen- 
+tive compatibility constraints (ICL; ICH).26 First, reporting truthfully must be optimal. 
+alent. In fact, at the agreement stage, the requirement that the players accept such a deterministic average split is less stringent than the requirement that they accept all splits in the support of the lottery. Fur- ther, lotteries over peaceful splits a each player’s equilibrium payo at the communication stage only through their expectations. Finally, the payo of a player who deviates at the communication stage is convex in the recommended split, as we shall later see. Hence, the deviation payo is lower when replacing a lottery with its certainty equivalent, thus making the equilibrium requirement less stringent. 
+25We will see that each player’s constraints are linear in the maximization arguments. Thus, the con- straint set is convex. Hence, suppose that an asymmetric mechanism maximizes the probability of peace. Because the set-up is symmetric across players, the anti-symmetric mechanism, obtained by interchanging the players’ identities, is also optimal. But then, the constraint set being convex, it contains also the symmetric mechanism obtained by mixing the above optimal mechanisms. As the objective function is linear in the maximization argument, such symmetric mixed mechanism is also optimal. 
+26The \star" superscript refers to the fact that, when a player contemplates deviating at the message stage, she also anticipates and takes into account that she might prefer to declare war ex post, even when players are supposed to coordinate on peace. This explains the maxima on the right-hand side of the two 
+11 
+
+========12========
+
+For the dove. This constraint (ICL) states that 
+(1 
+ q) ((1 
+ pL)=2 + pL=2) + q ((1 
+ pM)(1 
+(1 
+ q) ((1 
+ pM)=2 + pM maxfb; =2g) + q ((1 
+ p) + pM(1 
+ b))  
+ pH)(1 
+ p) + pH maxf1=2;(1 
+ p)g): 
+The left-hand side is the dove’s equilibrium payo With probability 1 
+ q; the opponent 
+is also a dove, in which case the equal split 1=2 occurs with probability pL and the payo 
+from war, =2; is collected with probability (1 
+ pL): With probability q; the opponent is 
+hawk. With probability pM; this leads to the split 1 
+ b; and with probability 1 
+ pM to 
+the payo from war (1 
+ p): The right-hand side is the expected payo from exaggerating 
+strength. When the opponent is dove, the split b is recommended with probability pM: In 
+principle, the player may deviate from the recommendation, and collect the war payo =2; 
+hence the payo is maxfb; =2g: Further, war takes place with probability 1 
+ pM: When 
+the opponent is hawk, the split 1=2 is recommended with probability pH; and war occurs 
+with probability 1 
+ pH: Similarly, for the hawk, the constraint (ICH) 
+(1 
+ q) ((1 
+ pM)p + pMb) + q ((1 
+ pH)=2 + pH=2)  
+(1 
+ q) ((1 
+ pL)p + pL maxf1=2; pg) + q ((1 
+ pM)=2 + pM maxf1 
+ b; =2g); 
+must hold, where the left-hand side is the equilibrium payo and the right-hand side is the 
+expected payo from \hiding strength."27 
+Second, players must  it optimal to accept all peaceful splits. Given that, in a 
+constraints. As anticipated earlier, such maxima make the deviation payo convex in the recommended 
+peaceful split. 
+27Even though the constraints (IC  
+L) and (IC H) are not linear because of the maxima and of the products pMb; they can be turned into linear constraints as follows. First, one replaces each constraint with four constraints in which the left-hand sides equal the left-hand side of the original constraint with one of the four pairs of the arguments of the two maxima, in lieu of the maxima. Second, one changes the variable b with pB = pMb and the constraint 1=2  b  1 with pB  pM  2pB: 
+12 
+
+========13========
+
+separating equilibrium, messages reveal types, this requires that 
+b  p; 1 
+ b  (1 
+ p): 
+That is, a hawk facing a self-proclaimed dove must get a share b that makes war unpro 
+against a dove. Similarly, the dove’s share against a hawk cannot be so low that it is better 
+for her to go to war. The constraint that a player would accept an equal split when the 
+opponent’s type is the same as her own, 1=2 > =2; is always satis 
+Solving this program yields the following characterization. We here omit the precise 
+equilibrium formula, presented in the Appendix, as it is quite burdensome. 
+Proposition 1 There is a unique best separating equilibrium in the communication game 
+without mediation. This equilibrium displays the following characteristics, for  <  : 
+ The ex ante probability of peace is strictly greater than in the absence of communica- 
+tion. 
+ Dove dyads do not  pL = 1: 
+ Hawk dyads  with positive probability, pH < 1; and the dove’s incentive compati- 
+bility constraint ICL binds. 
+ If   1 and/or   (1+) 
+ 1, then the hawk’s incentive compatibility constraint 
+ICH 
+does not bind, and b = p; further: 
+{ if  < = 2; then hawk dyads  with probability one, pH = 0; and asymmetric 
+dyads  with positive probability, pM 2 (0;1) ; 
+{ if   =2 (which covers also the case   (1+) 
+ 1); 
+then hawk dyads  with 
+positive probability, pH 2 (0;1); and asymmetric dyads do not  pM = 0: 
+ If  < 1 and  < (1 + ) 
+ 1, then 
+ICH binds and b > p; and further pH = 0 and 
+pM 2 (0;1) for  < = (1 + ); whereas pH 2 (0;1) and pM = 1 otherwise. 
+13 
+
+========14========
+
+We now elaborate on the characterization described above. 
+First, the separating equilibrium always improves upon the agreement game without 
+communication. While intuitive, this result is far from obvious: While at least one equilib- 
+rium of the communication game must be at least as good as the optimal agreement game 
+equilibrium, it is not an obvious implication that the separating equilibrium would strictly 
+improve upon all equilibria without communication. 
+Second, war is never optimal when both players report low strength: pL = 1; intuitively, 
+there is no need to punish self-reported doves by means of war, as they receive lower splits 
+on average than if reporting to be hawks. 
+Third, the truth-telling constraint for the low type, ICL, is always binding, because 
+on average hawks receive higher peaceful splits than doves. Given that the incentive to 
+exaggerate strength must be discouraged, there needs to be positive probability of war 
+following a high report. The most potent channel through which the low type’s incentive 
+to exaggerate strength can be kept in check is by assigning a positive probability of war 
+whenever there are two self-proclaimed high types. When  is low (few high types) it is 
+indeed optimal to set pH = 0 and pM > 0, whereas for higher values of , pH < 1 and 
+pM = 1: When  is sutly high, the likelihood of a hawk is sutly high that 
+prescribing war against a dove is not needed to deter a dove to exaggerate strength. But 
+when  is low, deterring misreporting by a dove requires having self-reported hawks t 
+both against hawks and doves, with positive probability. 
+Fourth, when the truth-telling constraint for the high type, ICH, is not binding, then 
+b = p; and when both truth-telling constraints are binding, then the ex post IR constraint 
+b  p does not bind. Hence, b is either pinned down by the ex post IR constraint b  p; or 
+by the joint ex interim truth-telling constraints. Intuitively, both (ICH) and the constraint 
+b  p need b sutly large to be satis On the other hand, keeping in check the 
+(binding) constraint (ICL) requires keeping b as low as possible. Hence b will be such that 
+either ICH binds, or b = p: 
+14 
+
+========15========
+
+The other properties of the characterization of Proposition 1 are best described by 
+distinguishing the cases   1 and  < 1. 
+Suppose  that   1, so that the bene from war are sutly high. Then 
+the ex post IR constraint always binds, and hence b = p; and the ex interim high-type 
+truth-telling ICH constraint never binds. This is because the hawk hiding strength always 
+prefers to wage war (both against hawks and doves). When b = p, the condition   1 
+is equivalent to 1 
+ b  =2: As a result, the hawk obtains the payo p against doves, 
+regardless of her message, whereas against hawks she obtains =2 if hiding strength, and 
+either =2 (after a war recommendation) or 1=2 (after settlement) when truthfully reporting. 
+In sum, hawks receive a higher payo if revealing their type, and the ICH constraint never 
+binds. 
+Second, suppose that  < 1. For   1=(1 + ), the high-type truth-telling constraint 
+ICH binds, and b > p. To see why, suppose by contradiction that b = p: For  < 1; 
+this would imply that 1 
+ b > =2: Consider a hawk pretending to be a dove. If she meets 
+a dove, she can secure the payo p by waging war. This is also the payo for revealing 
+being hawk and meeting a dove: She obtains p through war or through the split b = p: If 
+she meets a hawk, she gets 1 
+ b with probability pM and =2 with probability 1 
+ pM. By 
+claiming to be a hawk, she gets 1=2 with probability pH and =2 with probability 1 
+ pH. 
+But we know that pM is larger than pH; and because 1 
+ b > =2; this gives an incentive to 
+pretend to be a dove (hiding strength) to secure peace more often than by revealing that 
+she is a hawk, which contradicts ICH. To make sure that both truth-telling constraints 
+are satis we must have b > p, so as to reduce the payo from hiding strength. This 
+reduces both the payo from settling against a hawk when hiding strength and the payo 
+from settling against a dove when revealing to be hawk. 
+To see why b = p when  2 [1=(1 + ); ]; even if  < 1; note that pH increases in , 
+as in the case of   1. Because the incentive to hide strength decreases as pH increases 
+relative to pM, we can reduce b as  increases. When  reaches the threshold 1=(1 + ), 
+15 
+
+========16========
+
+the o b required for the high type truth-telling constraint to bind is exactly p. Further 
+increasing  cannot induce a further decrease in b, because the ex post IR constraint b  p 
+becomes binding. So in the region where  2 [1=(1 + ); ], the ICH constraint does not 
+bind and b = p. 
+We conclude this subsection by discussing the probability of peace in the best separating 
+equilibrium, pictured in Figure 1. For   1; it is U-shaped in  for   =2; and decreasing 
+in  when  is between =2 and . To understand the forces leading to the U-shaped e 
+of  in the lower region, note  that an increase in  shifts probability mass from the 
+LL dyad to the LH dyad and from the LH dyad to the HH dyad (the overall e on 
+the likelihood of the LH dyad is that it increases in  if and only if  < 1): Because 
+1 = pL  pM > pH; these shifts make the probability of peace initially decrease in  
+However, pM strictly increases in  for   =2; and eventually this makes the probability 
+of peace increase in . Interestingly, despite the fact that pH strictly increases in , for 
+ > = 2; it still does not grow fast enough to compensate for the shift in probability mass 
+towards the dyads with the higher probability of war. As a result, the probability of peace 
+decreases in  when  is between =2 and . 
+Figure 1: Probability of peace in the separating equilibrium 
+Mixed-strategy Equilibria. 
+This subsection considers mixed strategy equilibria. 
+Mixing can help, though its role in the unmediated communication game is relatively lim- 
+16 
+
+========17========
+
+ited (compare Figure 1 and right panel of Figure 2). The following result states that, while 
+there is no mixed-strategy equilibrium in which the hawk randomizes between sending the 
+high and low report, there exists a mixed-strategy equilibrium in which the dove random- 
+izes.28 Furthermore, in some parameter region, depicted in the right panel of Figure 2, such 
+a mixed strategy equilibrium yields a higher ex ante peace probability than the separating 
+equilibrium. The speci de of the region in which mixing improves upon the sepa- 
+rating equilibrium is rather cumbersome, as is the explicit description of the mixed-strategy 
+equilibrium, and so it is relegated to the Appendix. But it is interesting to note that mixing 
+may improve only in a small subset of the parameter region in which both ex interim IC* 
+constraints bind: mixing by the dove may relax the incentive of the hawk to hide strength. 
+We summarize our  as follows. 
+Proposition 2 Allowing for mixed strategies in the unmediated communication game, the 
+best equilibrium is such that the hawk always sends message h and the dove sends l with 
+probability strictly less than one. 
+The probability  < 1 with which the dove sends l is reported in appendix, and shown 
+in the right panel of Figure 2. 
+Figure 2: Welfare in the best (pure or mixed) equilibrium, and region where mixing occurs 
+28In this subsection, and this subsection only, attention is restricted to symmetric equilibria. That is, we did not establish whether asymmetric mixed-strategy equilibria may yield a higher welfare. 
+17 
+
+========18========
+
+4 Mediation 
+In the previous section, we have characterized the optimal equilibrium in the case in 
+which players send public messages. In this section, we consider mediated communication. 
+We modify the game form to account for such a mediator. In the  stage, messages 
+are no longer public. They are separately reported to a mediator, who then proposes the 
+split, possibly at random. More precisely, the version of the revelation principle proved in 
+Myerson (1982) guarantees that the following game form entails no loss of generality: 
+- After being informed of her type, each player i privately sends a report mi 2 fl; hg 
+to the mediator. 
+- Given reports m = (m1; m2), the mediator recommends a split (b;1 
+ b) according 
+to some cumulative distribution function F(bjm); where the only recommendation 
+leading to war in the support of F (m) is b = 0:29 Unlike the reports, the mediator’s 
+recommendation is public. 
+- The contestants play the agreement game with the recommended split b: 
+Again by the revelation principle, we may restrict attention to distributions F such that 
+truthful type revelation and obedience to the mediator’s recommendation are part of the 
+equilibrium. As before, this imposes both ex interim incentive compatibility constraints and 
+ex post individual rationality constraints, which we now describe. To simplify notation, we 
+restrict attention to mechanisms that are symmetric across players, where F (m1; m2) = 
+1 
+ F (m2; m1) for all (m1; m2), and to discrete distributions F: We shall later see that 
+these restrictions entail no loss of generality. 
+Let Pr[m 
+ i; b; mi] denote the equilibrium joint probability that the players send mes- 
+sages (mi; m 
+ i) and that the mediator o 
+(b;1 
+ b), and set Pr[b; mi]  Pr[h; b; mi] + 
+29Clearly all recommendation leading to war induce the same payo and hence can be subsumed by the recommendation b = 0; which only induces war in the agreement game. This feature of the model should not be taken literally. In the real world, mediators do not literally make recommendation leading to war, but they may quit, and this usually results in con escalation by the contestants. 
+18 
+
+========19========
+
+Pr[l; b; mi]. When player i is a hawk, she reports mi = h in equilibrium, and ex post 
+individual rationality requires that 
+bPr[b; h]  Pr[l; b; h]p + Pr[h; b; h]=2; for all b 2 (0;1); 
+(1) 
+which ensures that, if recommended the peaceful split b; i.e., for all b 2 (0;1) such that 
+Pr[b; h] > 0; the hawk prefers accepting the split to starting a war. Similarly, when i is a 
+dove, ex post individual rationality dictates that 
+bPr[b; l]  Pr[h; b; l](1 
+ p) + Pr[l; b; l]=2; for all b 2 (0;1): 
+(2) 
+Ex interim incentive compatibility requires that, when player i is a hawk, she truthfully 
+reports mi = h: The associated constraint (ICH) dictates that 
+∫ 
+1 
+qF(0jhh)=2 + (1  q)F(0jhl)p + bdF(bjh)  qF(0jlh)=2 + 
+∫ 
+0 
+1 
+(1  q)F(0jll)p + maxfb;Pr[ljb; l]p + Pr[hjb; l]=2gdF(bjl); 
+0 
+(3) 
+where Pr[m 
+ ijb; mi] = Pr[m  i; b; mi]= 
+Pr[b; mi] whenever Pr[b; mi] > 0, and F(mi)  
+qF(mi; h) + (1 
+ q)F(mi; l); for mi and m 
+ i 
+taking values l and h: Note that, as in 
+the optimal separating equilibrium program, player i might behave opportunistically after 
+deviating, as re by the maxima on the right-hand side. 
+Similarly, to ensure truth-telling by player i when a dove, the following constraint (ICL) 
+must be satis 
+∫ 
+1 
+qF(0jlh)(1  p) + (1  q)F(0jll)=2 + (1  b)dF(bjl)  qF(0jhh)(1  p) + 
+∫ 
+0 
+1 
+(1  q)F(0jlh)=2 + maxf1  b;Pr[ljb; h]=2 + Pr[hjb; h](1  p)gdF(bjh): 
+0 
+(4) 
+19 
+
+========20========
+
+In the best equilibrium, the mediator seeks to minimize the probability of war, i.e., 
+(1 
+ q)2F(0jhh) + 2q(1 
+ q)F(0jlh) + q2F(0jll): 
+Because recommendations need to be self-enforcing, there is a priori no reason to restrict 
+the mediator in the number of splits to which he assigns positive probability. In fact, rec- 
+ommendations convey information about the most likely opponents’ revealed types, and it 
+might be in the mediator’s best interest to scramble such information by means of multiple 
+recommendations. Nevertheless, Proposition 3 below shows that relatively simple mech- 
+anisms reach the maximal probability of peace among all possible mechanisms, including 
+asymmetric ones. These simple mechanisms can be described as follows. Given reports 
+(h; h), the mediator recommends the peaceful split (1=2;1=2) with probability qH, and 
+war with probability 1 
+ qH. Given reports (h; l), the mediator recommends the peaceful 
+split (1=2;1=2) with probability qM, the split (b;1 
+ b) with probability pM, and war with 
+probability 1 
+ pM 
+ qM, for some b  1=2: Given reports (l; l), the mediator recommends 
+the peaceful split (1=2;1=2) with probability qL, the splits (b;1 
+ b) and (1 
+ b; b) with 
+probability pL each, and war with probability 1 
+ 2pL 
+ qL. 
+Again, we relegate the explicit formulas of the solution to the Appendix, and restrict 
+ourselves here to the description of its main features. 
+Proposition 3 A solution to the mediator’s problem is such that, for all  <  : 
+ Doves do not  qL + 2pL = 1: 
+ The low-type incentive compatibility constraint ICL binds, whereas the high-type in- 
+centive compatibility constraint ICH does not, and b = p. 
+ For   1 and  > = 2; hawk dyads  with positive probability, qH 2 (0;1), mixed 
+dyads do not  (pM + 2qM = 1), and mediation strictly improves upon cheap talk. 
+20 
+
+========21========
+
+ For   1 and   =2, the solution exactly reproduces the separating equilibrium 
+of the cheap talk game (specially, qL = 1; qM = 0; pM 2 (0;1) and qH = 0), and 
+mediation yields the same welfare as cheap talk. 
+ For  < 1; the probability pL of unequal splits among dove dyads is bounded above 
+zero, and mediation strictly improves upon cheap talk. 
+We now comment on the solution and we make some comparisons with the optimal 
+separating equilibrium characterized in Proposition 1. 
+Suppose that  > 1. If  > = 2; then qM > 0: the mediator sometimes recommends 
+the equal split (1=2;1=2) when one player reports to be a hawk, and the other claims to 
+be a dove. In this way, the ex post IR constraint of the high type who is recommended 
+the equal split becomes binding. We remark that this ex post constraint was slack in the 
+unmediated equilibrium. By making a slack constraint binding, the mediator increases the 
+probability of peace. Indeed, the mediator lowers the gain from pretending to be a hawk, 
+by making exaggerating strength less pro against doves. When   =2 instead, 
+qH = qM = 0 and the mediator does not improve upon unmediated communication. In this 
+case, in fact, in both the mediated and the best (unmediated) separating equilibrium, war 
+needs to occur with probability one in dyads of hawks, to avoid that doves misreport their 
+type. But then the above-mentioned slack constraint is not relevant for either program, 
+and the mediator cannot improve upon unmediated communication. 
+In contrast with the case of   1, the mediator always yields a strict welfare im- 
+provement when  < 1. When  > 1=(1 + ), so that b = p in the perfectly separating 
+equilibrium, it is also the case that  > = 2 (note that 1=(1 + ) > =2), and hence the 
+mediator helps for the same reasons as when   1. When  < 1=(1 + ), the mediator 
+makes sure that the ICH constraint is satis with b = p. In fact, the mediator o 
+(b;1 
+ b) with positive probability when both players report to be doves. A hawk who is 
+hiding strength, and who is o 1 
+ b believes that the opponent is most likely a hawk, 
+and does not wage war. This reduces the incentive to hide strength in order to wage war 
+21 
+
+========22========
+
+if revealed that the opponent is weak, that we observed in the unmediated equilibrium. 
+Hence, the expected payo of hiding strength is lower, and the ICH constraint is satis 
+with b = p. Note that the ex post individual rationality constraint b  p was slack in the 
+unmediated equilibrium. By making this rationality constraint binding, the mediator can 
+improve the objective function, i.e. increase the probability of peace. 
+We can now precisely answer the  set of questions presented in the introduction: 
+ When does mediation improve on unmediated communication? 
+{ When the intensity and/or cost of con is high (low ), mediation strictly 
+improves the peace chance with respect to unmediated cheap-talk. 
+{ When con is not expected to be very costly or intense (high ), mediation 
+strictly improves the peace chance if and only if the proportion of hawks is 
+intermediate, i.e., for high expected power asymmetry. 
+ How does mediation improve on unmediated communication? 
+{ When the proportion of hawks is intermediate (high expected power asymmetry), 
+the mediator lowers the reward for a dove from mimicking a hawk, by not always 
+giving the lion’s share to a declared hawk facing a dove (or, equivalently by not 
+always revealing to a self-reported hawk that she is facing a dove). This lowers 
+the incentive to exaggerate strength and achieves a favorable peace settlement 
+with a dove. 
+{ Instead, when the probability of facing a hawk is low and con is expected 
+to be costly, the mediator’s strategy is to o with some probability unequal 
+split to two parties reporting low type (or, equivalently the mediator does not 
+always reveal to a dove that she is facing a dove). This lowers the incentive to 
+hide strength and seek peace with a hawk. 
+22 
+
+========23========
+
+Figure 3 shows the probability of peace in the mediated game compared to the proba- 
+bility of peace induced by the best separating equilibrium. We note one sharp di 
+between mediated and unmediated communication: the ex ante probability of peace is 
+decreasing in , for  2 [=2; ), without mediation, whereas in the same range the ex 
+ante probability of peace is increasing in  with mediation. This di could have an 
+important impact on an important debate in international relations, namely the debate on 
+\deterrence:" the higher is  (or q), the more \deterred" a country should be from initiating 
+a war, due to a higher likelihood of facing a hawk. Hence, a possible interpretation of this 
+di is that an international system with a level of deterrence higher than another is 
+\good" for peace if every bilateral crisis is dealt with using mediators, whereas it is \bad" 
+if direct communication is the most common way in which countries try to avoid wars. 
+Figure 3: Probability of peace in the mediated vs. unmediated case, and region where mediation dominates 
+We conclude by brie discussing the comparison between mediation and the best com- 
+pletely mixed-strategy equilibrium. It should not be surprising to the reader familiar with 
+the literature on correlated equilibrium (see, e.g. Aumann, 1974) that mediation strictly 
+improves the chance of peace. By randomizing over recommendations, the mediator can 
+23 
+
+========24========
+
+reproduce any distribution induced by mixing. In unmediated communication, however, 
+because players must mix independently of each other, they cannot generate the optimal 
+correlated distribution chosen by the mediator. The mixing by the dove may improve 
+welfare upon the pure-strategy equilibrium, but at the cost of inducing war with positive 
+probability within dove dyads. This does not occur with a mediator, who induces war only 
+when at least one of the players is a hawk. 
+5 The Role of Enforcement 
+Even though the cause of war is asymmetric information, the analysis of the optimal 
+mediation problem involves a signit enforcement problem. Countries are sovereign, and 
+enforcement of contracts or agreements is often impossible. Because war can be started 
+unilaterally, we have incorporated ex post IR and ex interim IC* constraints in the for- 
+mulation of the optimal mediation program. In our model, the residual ex ante chance 
+of war that results in the optimal mediation solution, can be thought as being due to a 
+combination of asymmetric information and enforcement problems. 
+So far, mediation has reduced to optimal information elicitation from, and transmission 
+to, the con parties. One might also wonder whether the mediator could further 
+reduce the ex ante probability of war if she were an arbitrator, i.e. if she were endowed 
+with the power of enforcing agreements. For this, it is enough to compare our  
+with those of Bester and Warneryd (2006). Rather than imposing ex post IR constraints 
+and ex interim IC* constraints in our basic game of con they study the same set up 
+with ex interim IR and IC constraints. Con parties must be willing to participate 
+in the arbitration process, and to reveal their information to the arbitrator. But the 
+arbitrator’s recommendations are enforceable by external actors, such as the international 
+community. Hence, they abstract away from enforcement, and their model is suitable to 
+describe arbitration. 
+24 
+
+========25========
+
+Formally, invoking the version of the revelation principle proved by Myerson (1979), 
+the Bester-Warneryd problem can be summarized as follows. The parties truthfully report 
+their types L; H to the arbitrator. The arbitrator recommends peaceful settlement with 
+probability p(m) after report m: Because recommendations are enforced by an external 
+agency, they can restrict attention to a single peaceful recommendation x(m); for each 
+report pair m:30 Symmetry is without loss of generality because the arbitrator’s program 
+is linear, and entails that the settlement is (1=2;1=2) if the players report the same type, 
+that the split is (b;1 
+ b) if the reports are (h; l), and (1 
+ b; b) if they are (l; h), for some 
+b 2 [1=2;1]: Let pL = p(l; l); pM = p(l; h) = p(h; l) and pH = p(h; h). The arbitrator 
+chooses b; pL; pM and pH so as to solve the program 
+min (1b;pL;pM;pH 
+ q)2 (1 
+ pL) + 2q (1 
+ q) (1 
+ pM) + q2 (1 
+ pH) 
+subject to ex interim individual rationality (for the hawk and dove, respectively) 
+(1 
+ q) (pMb + (1 
+ pM)p) + q (pH=2 + (1 
+ pH)=2)  (1 
+(1 
+ q) (pL=2 + (1 
+ pL)=2) + q (pM (1 
+ b) + (1 
+ q)p + q=2; 
+ pM) (1 
+ p))  (1 
+ q)=2 + q (1 
+ p); 
+and to the ex interim incentive compatibility constraints (for the hawk and dove, respec- 
+tively) 
+(1 
+ q) ((1 
+ pM)p + pMb) + q ((1 
+(1 
+ q) ((1 
+ pL)p + pL=2) + q ((1 
+ pH)=2 + pH=2)  
+ pM)=2 + pM(1 
+ b)); 
+30In fact, both participation and revelation decisions are taken 
+before knowing the arbitrator’s recom- mendation, and hence the players’ payo depend only on the expected recommendation, and not on the realized one. Hence, as in footnote 24, any lottery over peaceful recommendations can be replaced without 
+loss with its certainty equivalent. 
+25 
+
+========26========
+
+(1 
+ q) ((1 
+ pL)=2 + pL=2) + q ((1 
+ pM)(1 
+ p) + pM(1 
+ b))  
+(1 
+ q) ((1 
+ pM)=2 + pMb) + q ((1 
+ pH)(1 
+ p) + pH=2): 
+In general, the solution of the program with an arbitrator (with enforcement power) pro- 
+vides an upper bound to the solution of the program with a mediator (without enforcement 
+power), as described in Section 4. Surprisingly, the solution of the latter program yields 
+the same welfare as the solution of the former program.31 Speci, for   =2; the 
+mechanisms with and without enforcement coincide. When  > = 2; the simplest optimal 
+mechanism with enforcement is such that b < p, which is not self-enforcing. But the opti- 
+mal mechanism without enforcement obfuscates the players’ reports, and this obfuscation 
+succeeds in fully circumventing the enforcement problem. 
+Proposition 4 An arbitrator who can enforce recommendation is exactly as ective in 
+promoting peace as a mediator who can only propose self-enforcing agreements. 
+The intuition is as follows. First, note that the dove’s IC constraint and hawk’s ex 
+interim IR constraint are the only ones binding in the solution of the mediator’s program 
+with enforcement power. Conversely, the only binding constraints in the mediator’s pro- 
+gram with self-enforcing recommendations are the dove’s IC* constraint and the two ex 
+post hawk’s IR constraints. Recall that, in our solution, the hawk is always indit 
+between war and peace if recommended a settlement. Further, the dove’s IC* constraint in 
+the mediator’s problem with self-enforcing recommendations is identical to the dove’s IC 
+constraint in the arbitrator’s program, because a dove never wages war after exaggerating 
+strength in the solution of mediator’s problem with self-enforcing recommendation. 
+Further, the hawk’s ex interim IR constraint integrates the two binding hawk’s ex 
+post IR constraints in the arbitrator’s problem. While requiring a constraint to hold in 
+31This result facilitates the proof of Proposition 3. It is enough to establish that the simple mechanism characterized there, and described in closed form in the Appendix, satis the more stringent constraints of the mediator’s program. Because this mechanism achieves the same welfare as the solution to the arbitration problem, it must be optimal, a fortiori, in the mediator’s program. 
+26 
+
+========27========
+
+expectation is generally a weaker requirement than having the two constraints, it turns out 
+that the induced welfare is the same. This is easiest to see when   =2, as in this case the 
+only settlement ever granted to a hawk is b; when the opponent is dove. For any mechanism 
+with this property, the ex interim IR and the ex post IR constraints trivially coincide. Let 
+us now consider the case  > = 2: In this case, the optimal truthful arbitration mechanism 
+prescribes a settlement b < p that is not ex post IR for a hawk meeting a dove, as well as 
+prescribing a settlement with slack, equal to 1=2; to same type dyads. The mediator cannot 
+reproduce this mechanism. But it circumvents the problem with the obfuscation strategy 
+whereby the hawk is made exactly indit between war and peace when recommended 
+either the split 1=2 or the split b = p. Hence, it optimally rebalances the ex post IR 
+constraints so as to achieve the same welfare as the arbitrator. 
+We can now answer the last question that we posed in the introduction. 
+ How do mediation and arbitration di in terms of con resolution? 
+{ In our game, there is no di in terms of optimal ex ante probability of 
+peace between the two institutions. 
+{ Either the two optimal mechanism coincide, for  low relative to ; or the medi- 
+ator’s optimal obfuscation strategy circumvents her lack of enforcement power. 
+As striking as the results in this section might sound, we do not want to rule out the 
+possibility that they rely on our discrete type space assumption. It would be interesting to 
+examine when it extends to richer environments32 
+6 Concluding Remarks 
+By applying mechanism design techniques to the study of international con reso- 
+lution, this paper derives a number of lessons on mediation, arbitration and unmediated 
+32Indeed, it is known since at least Myerson and Satterthwaite (1983) that such possibility results might hinge on discreteness. 
+27 
+
+========28========
+
+communication. First, we have determined when mediation improves upon unmediated 
+communication. This is the case when the intensity of con and/or cost of war is high 
+(low ); when power asymmetry has little impact on the probability of winning; and even 
+when neither  nor p is low, mediation can still be strictly better than direct communica- 
+tion when the ex ante chance of power asymmetry is high (intermediate q). Second, we 
+have characterized how mediation improves upon unmediated communication. In intuitive 
+terms, this is achieved by not reporting to a player with probability one that her opponent 
+is weak. In particular, when the ex ante chance of power asymmetry is high, the mediator 
+lowers the reward from mimicking a hawk by not always giving the lion’s share to a hawk 
+facing a dove. When the expected intensity or cost of con are high, regardless of the 
+expected degree of uncertainty, the mediator reduces the temptation to hide strength by a 
+strong player. The mediator’s strategy is to lower the reward from mimicking a dove by 
+giving sometimes an unequal split to two parties reporting being a low type. Third, we 
+have shown that the value of deterrence may depend on the con resolution institution. 
+For intermediate probability that the players are strong, the probability of peace increases 
+in the level of militarization when crises are mediated, whereas it decreases when peace 
+talk are unmediated. Finally, we have shown that an arbitrator who can enforce outcomes 
+is exactly as ee as a mediator who can only propose self-enforcing agreements. 
+We conclude the paper by discussing a few matters that arise from our analysis. 
+First, we address the question of whether disputants would consent to the involvement 
+of a mediator in the peace talks. Speci, suppose that we augment our mediation 
+game to include a stage in which, immediately after being informed of their types, the 
+contestants simultaneously and independently choose whether to accept the mediator or 
+resort to unmediated cheap talk. Further assume that mediation will take place if and 
+only if both players agree. It can be shown that this game admits both equilibria in which 
+mediation always takes place and ones in which it never occurs (details available upon 
+28 
+
+========29========
+
+request). Hence, the optimal equilibrium of this game is, again, the one with mediation.33 
+Second, we note that, while we have required recommendations to be self-enforcing, they 
+need not be renegotiation-proof, as they might be Pareto-dominated for the players. For 
+instance, when there is common belief that both players are hawks, they would be better o 
+settling for an equal split rather than going to war, although doing so is part of the solution. 
+Yet renegotiation-proofness does not seem to be a  and foremost concern of real world 
+mediators. It is not overly realistic to think that, after the mediator quits, contestants 
+who struggled to  an agreement in the presence of the mediator, will autonomously sit 
+down at the negotiation table again, in search for a Pareto improving agreement. Indeed, 
+while the literature on the causes of con underlines that contestants may not be able 
+to individually commit to peaceful con resolutions, it may well be the case that they 
+can jointly or even individually commit to belligerent resolutions, when such commitments 
+are ex ante valuable. Audience costs, for instance, are recognized to provide an important 
+channel that makes war threats credible (see, for instance, Tomz, 2007). 
+Finally, we revisit the issue of commitment by the mediator. Our analysis suggests 
+that the mediator’s success relies on her commitment to quit in some circumstances, rather 
+than seeking a peaceful agreement in all contingencies. As stressed by Watkins (1998), this 
+may be achieved by means of so-called action-forcing events. Further, before starting the 
+mediation process, mediators often make clear to the disputants under which circumstances 
+they will quit. Such contingent plan of actions often include deadlines. According to Avi 
+Gil, one of the key architects of the Oslo peace process, \A deadline is a great but risky tool. 
+Great because without a deadline it’s di to end negotiations. [The parties] tend to 
+play more and more, because they have time. Risky because if you do not meet the deadline, 
+either the process breaks down, or deadlines lose their meaning" (Watkins, 1998). Among 
+the many cases in which this technique was used, see for instance Curran and Sebenius 
+33Interestingly, scholars seem to disagree on the likely motives for consenting to mediation. According to Princen (1992), such motives are individual interests, rather than \shared values". But Bercovitch (1992, 1997) argues that disputants might view mediation as an expression of their commitment to peaceful con resolution, and seek it out of a desire to improve their relationships with each other. 
+29 
+
+========30========
+
+(2003)’s account of how a deadline was employed by former Senator George Mitchell in the 
+Northern Ireland negotiations. Committing to such deadlines might be somewhat easier for 
+professional mediators whose reputation is at stake, but they have been also used both by 
+uno and o individuals, including Pope John Paul II and former U.S. President 
+Jimmy Carter.34 
+Meanwhile, institutions like the United Nations increasingly sets time 
+limits to their involvement upfront (see, for instance, the U.N. General Assembly report, 
+2000). 
+References 
+[1] Aumann, R.J. (1974): \Subjectivity and correlation in randomized strategies," Journal 
+of Mathematical Economics 1, 67{96. 
+[2] Aumann, R.J. and S. Hart (2003): \Long Cheap Talk," Econometrica, 71(6), 1619{60. 
+[3] Baliga, S. and T. Sjostrom (2004): \Arms Races and Negotiations," Review of Eco- 
+nomic Studies, 71(2), 351{69. 
+[4] Banks, J.S. and R.L. Calvert (1992): \A Battle-of-the-Sexes Game with Incomplete 
+Information," Games and Economic Behavior, 4, 347{372. 
+[5] Bebchik, B. (2002): \The Philosophy and Methodology of Ambassador Dennis Ross 
+as an International Mediator," International Negotiation, 7, 115{131. 
+[6] Bercovitch, J. (1992): \The Structure and Diversity of Mediation in International Re- 
+lations," in. J. Bercovitch and J.Z. Rubin (eds) Mediation in International Relations: 
+Multiple Approaches to Con Management, New York: St. Martin’s Press. 
+[7] Bercovitch, J. (1997): \Mediation in International Con An Overview of Theory, 
+a Review of Practice," in I.W. Zartmann and J.L. Rasmussen (eds) Peacemaking in 
+34See Bebchik (2002) on how Clinton and Ross attempted to impress upon Arafat the urgency of accepting the proposal being o for a  settlement, calling it a \damn good deal" that would not be within his grasp inde. 
+30 
+
+========31========
+
+International Con Methods and Techniques, Washington D.C.: United States 
+Institute of Peace Press. 
+[8] Bercovitch, J., J.T. Anagnoson, and D. Wille (1991): \Some conceptual issues and em- 
+pirical trends in the study of successful mediation in international relations," Journal 
+of Peace Research 28, 7{17. 
+[9] Bercovitch, J. and A. Houston (2000): \Why Do They Do It? An Analysis of the 
+Factors In Mediation Behavior in International Con Journal of Con 
+Resolution, 44(2), 170{202. 
+[10] Bercovich, J. and R. Jackson (2001): \Negotiation or Mediation? An Explo- 
+ration of Factors A the Choice of Con Management in International Con- 
+Negotiation Journal, 17, 59{77. 
+[11] Bester, H. and K. Warneryd (2006): \Con and the Social Contract," Scandinavian 
+Journal of Economics, 108(2), 231{49. 
+[12] Blainey, G. (1988): The Causes of War. Third ed. New York: The Free Press. 
+[13] Brito, D.L. and M.D. Intriligator (1985): \ Con War, and Redistribution, " Amer- 
+ican Political Science Review, 79(4), 943{957. 
+[14] Compte, O. and P. Jehiel (2009): \Veto Constraint in Mechanism Design: Ine 
+with Correlated Types," American Economic Journal: Microeconomics, 1, 182{206. 
+[15] Cramton P.C. and T.R. Palfrey (1995): \Rati mechanisms: learning from dis- 
+agreement," Games Economic Behavior, 10, 255{283. 
+[16] Curran, D. and J.K. Sebenius (2003): \The Mediator as Coalition Builder: George 
+Mitchell in Northern Ireland," International Negotiation, 8(1), 111{147. 
+[17] Fearon, J.D. (1995): \Rationalist explanations for war," International Organization, 
+49:3, 379{414. 
+31 
+
+========32========
+
+[18] Fey, M. and C. Ramsay (2009): \Mechanism Design Goes to War: Peaceful Outcomes 
+with Interdependent and Correlated Types," Review of Economic Design, 13(3), 233{ 
+250. 
+[19] Fey, M. and K. Ramsay (2010): \When Is Shuttle Diplomacy Worth the Commute? 
+Information Sharing through Mediation," World Politics, 62-4, 529-60. 
+[20] Fisher, R.J. (1995): \Paci Impartial Third Party Intervention in International Con- 
+ a Review and Analysis." In Beyond Confrontation: Learning Con Resolution 
+in the Post Cold War Era. Ed. Vasquez, Johnson, Ja and Stamato, Ann Arbor: 
+University of Michigan Press, 39{59. 
+[21] Forges, F. (1999): \Ex post Individually Rational Trading Mechanisms," in Current 
+Trends in Economics: Theory and Applications, ed. Charalambos Aliprantis, Nicholas 
+Yannelis and Ahmet Alkan, Springer, 157{76. 
+[22] Green, J. and J.J. Lat (1987): \Posterior Implementation in a Two-Person Decision 
+Problem", Econometrica 55, pp. 69-94. 
+[23] Jackson, M.O. and M. Morelli (2011): \Reasons for War: an Updated Survey," Hand- 
+book on the Political Economy of War, edited by Chris Coyne, Elgar Publishing. 
+[24] Kelman, H.C. (1958): \Compliance, identi and internalization: Three pro- 
+cesses of attitude change," Journal of Con Resolution 2, 51{60. 
+[25] Kennan, J. and R. Wilson (1993): \Bargaining with Private Information", Journal of 
+Economic Literature, 31(1), 45{104 
+[26] Kleiboer, M. (1996): \Understanding Success and Failure of International Mediation," 
+Journal of Con Resolution, 40(2), 360{89. 
+[27] Koremenos, B., Lipson C. and D. Snidal (2001): \The Rational Design of International 
+Institutions," International Organization, 55(4), 761{99. 
+32 
+
+========33========
+
+[28] Kydd, A. (2003): \Which Side Are You On? Bias, Credibility, and Mediation," Amer- 
+ican Journal of Political Science, 47(4), 597{611. 
+[29] Kydd, A. (2006): \When Can Mediators Build Trust,"American Political Science 
+Review, 100, 449{462. 
+[30] Matthews S.A. and A. Postlewaite (1989): \Pre-play communication in two-person 
+sealed-bid double auctions,"Journal Economic Theory 48, 238{263. 
+[31] Myerson, R.B. (1979): \Incentive Compatibility and the Bargaining Problem," Econo- 
+metrica, 47(1), 61{73. 
+[32] Myerson, R. B. (1982): \Optimal coordination mechanisms in generalized principal- 
+agent problems," Journal of Mathematical Economics, 10(1), 67{81. 
+[33] Myerson, R.B. and M.A. Satterthwaite (1983): \Et Mechanisms for Bilateral 
+Trading," Journal of Economic Theory, 29(2), 265{81. 
+[34] Powell, R. (2006): \War as a Commitment Problem," International Organization, 60, 
+169{203. 
+[35] Princen, T. (1992): Intermediaries in International Con, Princeton, N.J.: Prince- 
+ton University Press. 
+[36] Rai H. (1982): The Art and Science of Negotiation, Harvard University Press. 
+[37] Rauchhaus, R. W. (2006): \Asymmetric Information, Mediation and Con Man- 
+agement,"World Politics, 58, 207{241. 
+[38] Schelling, Thomas C. (1960): The Strategy of Con Cambridge, MA: Harvard 
+University Press. 
+[39] Schwarz, M. and K. Sonin (2008): \A Theory of Brinkmanship, Con and Com- 
+mitments," Journal of Law, Economics, and Organization. 24(1): 161{183. 
+33 
+
+========34========
+
+[40] Tomz, M. (2007): \Domestic Audience Costs in International Relations: An Experi- 
+mental Approach," International Organization, 61, 821{40. 
+[41] Touval, S., and I.W. Zartman (1985): \Introduction: Mediation in theory," In In- 
+ternational mediation in theory and practice, edited by S. Touval and I.W. Zartman, 
+7{17. Boulder, CO: Westview. 
+[42] United Nations General Assembly Security Council (2000): Report A/55/305- 
+S/2000/809. 
+[43] Wall, J.A. and A. Lynn (1993): \Mediation: A Current Review," Journal of Con 
+Resolution, 37(1), 160{94. 
+[44] Waltz, K. (1959): Man, the State and War: A Theoretical Analysis. New York: 
+Columbia University Press. 
+[45] Watkins, M. (1998): \Building Momentum in Negotiations: Time-Related Costs and 
+Action-Forcing Events," Negotiation Journal, 14(3), 241{256. 
+[46] Wilkenfeld, J., Young, K.J., Quinn, D.M. and V. Asal (2005): Mediating International 
+Crises, Oxon, U.K.: Routledge. 
+[47] Young, O.R. (1967): The intermediaries: Third parties in international crises, Prince- 
+ton, N.J.: Princeton University Press. 
+Appendix A - Unmediated Communication 
+Proof of Proposition 1 All the statements in the proposition, but the comparison with no-communication, follow from the following characterization lemma: 
+Lemma 1 The best separating equilibrium is characterized as follows. 
+1. Suppose that   1. 
+34 
+
+========35========
+
+(a) When  < = (1 + ); both ex interim IC* constraints bind, 
+b > p; pH = 0; pM = 
+1 
+(1 + )(1 
+ 
+ 
+and 
+1 + 
+); 
+V = 
++ (1  ) 
+(1 + )(1  )(1 + )2: 
+(b) When  2 [=(1 + );minf1=(1 + ); g]; both IC* constraints bind, 
+b > p; pM = 1; pH = 1 
+ 
+ 
+(1 + ); 
+and V = 1 
+ 
+ (1 + )(1 + )2: 
+(c) When  2 [1=(1 + ); ); only the ICL constraint binds, 
+b = p; pM = 1; pH = 
+2   
+(2 + ); 
+and V = 
+2(1 + ) +  
+2 +  + (2 + ): 
+2. Suppose that  > 1. 
+(a) When  < = 2; only the ICL constraint binds, 
+b = p; pH = 0; pM = 
+1 
+1 +  
+ 2; 
+and V = 
+(1 +  
+1 +   2)(1 + )2: 
+(b) When  2 [=2; ), only the ICL constraint binds, 
+b = p; pM = 1; pH = 
+2   
+( + 2); 
+and V = 1 
+ 
+ (2 + )(1 + ): 
+The proof of lemma 1 proceeds in two parts. Part 1 (  1): 
+We set up the following relaxed problem: 
+min (1b;pL;pM;pH 
+ q)2(1 
+ pL) + 2q(1 
+ q)(1 
+ pM) + q2(1 
+ pH) 
+subject to the high-type ex post IR constraints: 
+b  p 
+35 
+
+========36========
+
+to the probability constraints: 
+pL  1; pM  1;0  pH 
+and ex ante low-type IC* constraint: 
+(1 
+(  q) (1 
+(  q) (1 
+)  pL)2 + p 
+1L 
+2 
++ q ((1 
+) ( 
+(1 
+ pM)2 + pMb 
++ q 
+ pM)(1  p) + pM(1  b))  
+) (1  pH)(1  p) + p 
+1H 
+2 
+Step 1. We want to show that pL = 1: We  note that setting pL = 1 maximizes the LHS of the relaxed low-type IC* constraint and does not a the RHS. It is immediate to see that the high-type ex post constraint is not a either. 
+Step 2. We want to show that the relaxed low-type IC* constraint binds. Suppose it does not. It is possible to increase pH thus decreasing the objective function without violating the constraint (note that there is no constraint that pH < 1 in the relaxed problem). 
+ b appears in the LHS 
+Step 3. We want to show that the high-type ex post constraint binds. Suppose it does not. Then b > p; and it is possible to reduce b without violating the ex post constraint. But this makes the low-type relaxed IC* constraint slack, because 
+and b in the RHS. Because step 2 concluded that the low-type relaxed IC* constraint cannot be slack in the solution, we have proved that the ex post constraint cannot be slack. 
+1 
+ 2 
+in the relaxed 
+Step 4. We want to show that for   =2: pH = 0; pM = 
+1+ 
+program. The low-type relaxed IC* constraint and ex post constraint de the function 
+pM = 
+(1 
+( 
+ H( + 2)); 
+ 2 + 1) 
+(5) 
+substituting this function into the objective function 
+W = 2(1 
+ q)(1 
+ pM) + q(1 
+ pH) 
+duly simpli in light of step 1, we obtain the following expression: 
+W = pH( 
+2  2 + 1) ( + 1) 
++ 
+ 
+( 
+(2 +  + 3) 
+ 3 +   22  2 + 1) ( + 1) 
+; 
+36 
+
+========37========
+
+where we note that, because   2 the coet of pH is positive and the whole expres- sion is positive. Hence, minimization of W requires minimization pH: Setting pH = 0 and 
+solving for pM in (5) yields 
+pM = 
+1 +  
+1 
+ 2: 
+Because   =2; it follows that pM  1, as required. We note that the probability of war 
+equals: 
+C = 
+(2 
+( 
+ 3 +   2 + 1) ( + 1)2 
+ 22): 
+ 
+Step 5. We want to show that for   =2, pM = 1; pH = 
+2  
+(+2) 
+in the relaxed problem. In light of the previous step, the solution pH = 0 yields pM > 1 and is not admissible when  > = 2. Because pM decrease in pH in (5), the solution requires setting pM = 1 and, from (5), pH = 
+2  
+(+2). When 
+  =2; pH  0 and hence the solution is admissible. We note 
+ 
+that the probability of war equals: 
+C = 
+( + 2) ( + 1): 
+straints. The low-type ex post constraint 1 Because b > =2 and 1=2 > (1 
+ 
+ p) is trivially satis when b = p. 
+ b = 1 
+ p  =2 yields 
+2 1 
+Step 6. We want to show that the solution constructed satis all the program con- 
+ b  (1 
+ p), the low-type ex ante IC* constraint coincides with the low-type ex ante relaxed IC* constraint. The condition 1 
+ 1, i.e.  = 
+2p 1 
+1  
+ 1. Hence, for   1, we conclude that  b  =2. So, after simpli the ex ante high-type IC* constraint becomes: 
+ 2p  , i.e. 1 
+   2p 
+= (1 
+1H 
+) 
+ pH)2 + p 
+(2  pM)p + pMb) + q 
+( 
+(1 
+ q)p + q 
+(1 
+ q) ((1 
+(1 
+ q) ((1 
+ pL)p + pLp) + q 
+= (1 
+ q)p + q=2; 
+ 
+ 
+(1 
+( 
+(1 
+1H 
+)  pH)2 + p 
+2 
+ 
+)  pM)2 + p 
+M 
+2 
+which is satis (with slack when   =2). The probability constraints are obviously 
+satis 
+Part 2 (  < 1). We allow for two cases: 
+37 
+
+========38========
+
+Case 1. I will temporarily consider the following relaxed problem: 
+min (1b;pL;pM;pH 
+ q)2(1 
+ pL) + 2q(1 
+ q)(1 
+ pM) + q2(1 
+ pH) 
+subject to the low-type and high-type relaxed IC* constraints: 
+(1 
+(  q) (1 
+(  q) (1 
+)  pL)2 + p 
+1L 
+2 
++ q ((1 
+) ( 
+(1 
+ pM)2 + pMb 
++ q 
+(1 
+ q) ((1 
+ pM)p + pMb) + q 
+( 
+(1 
+ q)p + q 
+(1 
+ pM)2 + pM(1 
+ pM)(1  p) + pM(1  b))  
+) (1  pH)(1  p) + p 
+1H 
+2 
+( 
+) (1  pH)2 + p 
+1H 
+2 
+ 
+) 
+ b) : 
+which embed the assumption (to be veri ex post) that 1 
+constraints: 
+pL  1; pM  1;0  pH 
+ b  =2; and to the probability 
+Step 1. As in the previous case, we conclude that pL = 1. 
+Step 2. We want to show that the low-type relaxed IC* constraint binds. Indeed, if it does not, we can increase pH without violating neither relaxed IC* constraints (note that the LHS of the high-type relaxed IC* constraint increases in pH). 
+Step 3. We want to show that the high-type relaxed IC* constraint binds. Suppose not. We can then reduce b because the LHS of the high-type relaxed IC* constraint increases in b and the RHS decreases in b. This makes the low-type relaxed IC* constraint slack, without changing pM and pH. But in light of step 2, this cannot minimize the objective function. Hence, the high-type relaxed IC* constraint must bind. 
+1 
+ 
+Step 4. We want to show that for  < = (1 + ), pH = 0 and pM = 
+(1+)(1 ) 
+solve the relaxed problem. The binding relaxed ex ante IC* constraints de the function: 
+38 
+
+========39========
+
+[pM; b] (pH), after substituting  for q and  for p, we obtain: 
+b = 
+2 +  
+  
+  
+ 2H + H 
+ 3pH + 2pH  2pH 2 (1  H  pH) ( + 1) 
+ 2pH 
+ 2pH + 2pH + 1 
+pM = 
+(1  H(1 + )): 
+( + 1) (1  ) 
+(6) 
+Substituting pM into the objective function 
+W = 2(1 
+ q)(1 
+ pM) + q(1 
+ pH) 
+duly simpli in light of step 1, we obtain: 
+W = pH1 
+ 2 
+  
++ 
+      2 
+( + 1) ( + 1) (1 
+ 2;  ) 
+because the coet of pH is positive, this quantity is minimized by setting pH = 0. Then, solving for pM and b when pH = 0 we obtain: 
+b =  
+1 
+2 + 2 
+(  2 pM = 
+1 
+( + 1) (1  ) 
+  +  +  
+ 1) 
+we know that 1     so pM  0; but the condition pM  1 yields 
+1 
+(+1)(1  ) i.e.   
+ 
++1 
+; as stated. We note that the probability of war equals: 
+ 1  0; 
+C = 
+(  2 +  + 2 + 2): 
+( + 1) ( + 1) (  1) 
+Step 5. We want to show that for  < = (1 + ), pH = 0 and pM = 
+1 
+(1+)(1  ) 
+solve the original problem. Again, the low-type ex ante IC* constraint coincides with the relaxed low-type ex ante IC* constraint. We need to show that the ex post constraint b  p is satis In fact, simpli yields: 
+b 
+ p = 
+1 
+2 
+( + 1) 
+ 1 
+(1 
+ ) (1 
+ )  > 0: 
+39 
+
+========40========
+
+high-type IC* constraint, i.e. that 1 ex post constraint 1  b  (1 simpli we obtain: 
+Finally we show that the high-type IC* constraint coincides with the (binding) relaxed 
+ b  =2. Note in fact, that this implies that the 
+ p) is satis because =2 > (1 
+1 
+ b 
+ =2 = 
+1 
+2 
+( + 1) 
+1 
+(1 
+1 
+ 
+ 
+ p). Indeed, after 
+ 
+ ) (1 
+ )  0: 
+Step 6. We want to show that for  2 [=(1 + );minf1=(1 + ); g]; pM = 1; pH = 
+(1+) 
+solves the relaxed problem. When  > = (1 + ), setting pH = 0 violates the constraint pM = 1: Further, the expression (6) reveals that pM decreases in pH. Hence minimization of pH; which induces minimization of W, requires setting pM = 1: Solving for 
+b and pH, we obtain: 
+b = 
+ (   
+ 3 + 2 
+2 + 2 + 2 + 2 
+pH = 
+   +  
+( + 1) 
+= 1 
+  
+ 2 + 2 
+ 1) 
+ 
+ (1 + ): 
+ 
+The condition that pH  0 requires that   
++1 
+as stated. 
+1 
+ 
+ 
+Step 7. We want to show that for  2 [=(1 + );minf1=(1 + ); g]; pM = 1; pH = 
+(1+) 
+solves the original problem. Again, the low-type ex ante IC* constraint coincides with the relaxed low-type ex ante IC* constraint. We need to show that the ex post constraint b  p is satis In fact, simpli yields: 
+b 
+ p = 
+1 
+2 
+( + 1) 
+1 
+( + 1) 
+1 
+( +  
+ 
+ 
+ 1) ( 
+ 1) 
+1 
+and this quantity is positive if and only if   
++1: 
+Finally we show that the high-type ex ante IC* constraint coincides with the (binding) relaxed high-type ex ante IC* constraint, 
+ b  =2. Note in fact, that this implies that the ex post constraint 1 
+ p). Indeed, after simpli we obtain: 
+i.e. that 1 
+(1  p) is satis because =2 > (1 
+1 
+ b 
+ =2 = 
+1 
+2 
+( + 1) 
+1 
+( + 1) 
+1 
+(1 
+ 
+ 
+ 
+ b  
+ 
+ )( 
+  +  
+ 2 + 1) 
+1 
+ 1) but because 
+1 
++1 
+( + 2 
+ 1) < 
+and  + 2+1  0 if and only if   
++1 
+( + 2  
+, this condition is less stringent than   
+ 
++1. 
++1 
+40 
+
+========41========
+
+Case 2. We want to show that for  2 [1=(1 + ); ); pM = 1; pH = 
+2   
+(2+) 
+solve the original problem. Consider now the same relaxed problem that we considered in the proof for the case of   1. We know from the analysis for the case   1, that this relaxed problem is solved by pH = 0; pM = 
+1 
+1+  2; b 
+= p for  < = 2 and by pM = 1; pH = 2   
+(+2) 
+; b = p for  2 [=2; ). We now note that 
+1  + 1 
+ =2 = 
+1 
+2 
+( + 1) 
+ 1 
+(1 
+ ) ( + 2) 
+and this quantity is positive when   1. Hence the possibility that  < = 2 is ruled out: On the domain 1=(1 + )      1, the solution to the relaxed problem is pM = 1; pH = 
+2   
+(+2), with 
+b = p. We now need to show that this is also the solution of the original problem. Again, the low-type ex ante IC* constraint coincides with the relaxed low-type ex ante IC* constraint. Consider the ex ante high-type IC* constraint. The condition 1  b = 1  p  =2 yields  = 
+2p  1 
+1   
+ 1. Hence, for   1, we conclude that 1  b  =2, and hence that 1  b  (1  p). So the ex ante high-type IC* constraint becomes: 
+( 
+(1  q) ((1 
+ pM)p + pMp)+q 
+(1 
+) 
+ 
+1 
+( pH)2 + p 
+H 
+2 
+ (1  q)p  q (1 
+ pM)2 + pM(1 
+) 
+ p) 
+ 0 
+and indeed, after simpli the LHS equals: 
+1 
+( + 2) 
+ 1 
+( + 1) 
+ 1 
+2 
+( +  
+ 1) (1 
+ ); 
+a positive quantity as long as +  1, i.e.,  > 
+1 
++1, which is exactly the condition under which we operate. 
+This concludes the proof of the characterization lemma. 
+One can then verify by inspection that the above full characterization determines all the characteristics highlighted in Proposition 1, but the comparison with no communication, which we now determine. 
+For  > 1;  < =2 and  < 
+  1 
+2 
+; the separating equilibrium optimal value 
+1+ 
+(1+  2)(1+)2 is evidently larger than the optimal no-communication value 
+1 
+(1+)2 
+: 
+Suppose that  > 1;  < =2; and  > 
+  1: 
+2 
+The separating equilibrium optimal value and the no-communication values are, respectively, 
+1+ 
+(1+  2)(1+)2 
+and 
+1 
++1: 
+The di is: 
+1 +  1 + 1  
+(1 +  2)(1 + 
+ 
+) 
++ 1 
+= 
+(2 
+ )2  
+(  2 + 1) ( + 1)2; 
+41 
+
+========42========
+
+and this quantity is positive because  > 
+  1 
+2 
+and  < = 2: 
+Suppose that  > 1 and  > = 2; and  > 
+  1 
+2 
+: The separating equilibrium optimal value is 1  
+ 
+(2+)(1+) 
+: Taking the di with the no-communication value, 
+1 
+ 
+ (2 + )(1 + ) 
+ 
+1 
+ + 1 
+= 2( 
+ 
++ 2) ( + 1) 
+> 0: 
+Suppose that  < 1 and  < = (1 + ): The separating equilibrium optimal value is 
+1++(1  ) 
+(1+)(1  )(1+)2 
+: Hence, 
+1 +  + (1  ) (1 + )(1  )(1 + )2 
+ 
+1 
+ + 1 
+= 
+(   +  + 1) 
+( + 1) ( + 1)2 (1  ); 
+because  <  < 1; the above is positive if    +  + 1 > 0; i.e.  > 
+  1 
++1 
+which always holds. 
+Suppose that  < 1 and  < = (1 + ): The separating equilibrium optimal value is 1  
+ 
+(1+)(1+)2 
+: Hence, 
+1 
+ 
+ (1 + )(1 + )2 
+ 
+1 ( 
+ + 1 
+= 
+ +  + 1) 
+( + 1) ( + 1)2 
+> 0 
+Suppose that  < 1 and  2 [1=(1+); ); so that the separating equilibrium optimal value is 
+2(1+)+ 
+2++(2+) 
+and 
+2(1 + ) +  2 +  + (2 + ) 
+ 
+1 
+1 
+ + 1 
+= 2 ( + 2) 
+ 
+( + 1) 
+ 1 
+ > 0: 
+This concludes the proof of Proposition 1. 
+Proof of Proposition 2. The Proposition follows from this Lemma. 
+Lemma 2 Allowing players to play mixed strategies in the unmediated communication game, the optimal equilibrium is such that the hawk always sends message h and the dove sends message l with probability , where  < 1 if and only if  < 1 and 
+{ 
+√ 
+ 
+1 +  
+>  > max 
+ 1  (5 + 6) + (1 + 3) (1 +  (11 + 8 (3 + 2))); 
+2 (1 + ) (1 + 3) 
+√ 
+} 
+ 1   (8 + 3) + 1 +  (16 +  (54 +  (48 + 25))) 
+2 (2  1) 
+: 
+42 
+
+========43========
+
+For  < 22=(1 + 3); 
+pM = 
+2 
+2(1 + )( 
+  +  
+; pH = 0;  = 1 + 
+ 
+2(1 
+ ) 
+2 
+and V = 
+( (4 + 3) 
+4( 
+For  > 22=(1 + 3); 
+ 1=); b = (1 + (1 
+ ))=2 
+   2(3 + 2)):  )(1 + )2 
+2 
+pM = 1; pH = 0; b = p;  = 
+(1 + )(1 + ) 
+(1 + 2) 
+; and V = 
+(1 + 2)2: 
+We omit the proof of Lemma 2 as it is very involved, and the Lemma is only a secondary result in the paper. The proof is available upon request. 
+Appendix B { Mediation 
+For reasons of clarity, the proof of Proposition 3 is postponed to after the proof of 
+Proposition 4 
+Proof of Proposition 4. The proof follows from this Lemma. 
+Lemma 3 The solution of the mediator’s program with enforcement power is such that: 
+For   =2, 
+pM = 
+ 
+ 2 + 1; pH 
+= 0; and V = 
+( 
+1 
+For   =2; 
+pM = 1; pH = 
+( 
+  + 1); 
+and V = 
+( 
+2 
+  
+( + 1)  2 + 1) ( + 1)2; 
+ + 1   + 1) ( + 1): 
+Proof. We  solve the following relaxed program: 
+min (1b;pL;pM;pH 
+ q)2 (1 
+ pL) + 2q (1 
+ q) (1 
+ pM) + q2 (1 
+ pH) 
+43 
+
+========44========
+
+subject to high-type ex interim individual rationality: 
+( 
+(1 
+ q) (pMb + (1 
+ pM)p) + q 
+p 
+1H 
+2 
++ (1 
+)  pH) 
+ 
+2 
+ (1 
+ q)p + q2; 
+to low-type ex interim incentive compatibility: 
+(1 
+(  q) (1 
+(  q) (1 
+)  pL)2 + p 
+1L 
+2 
++ q ((1 
+) ( 
+(1 
+ pM)2 + pMb 
++ q 
+and to 
+pL  1; pM  1 and pH  0: 
+ pM)(1  p) + pM(1  b))  
+) (1  pH)(1  p) + p 
+1H 
+2 
+; 
+First, note that pL = 1 in the solution because pL appears in the constraints only in the right-hand side of the low-type ex interim incentive compatibility constraint, which is increasing in pL. Second, note that the low-type ex interim incentive compatibility must be binding in the relaxed program’s solution, or else one could increase pH thus reducing the value of the objective function, without violating the high-typeex interim individual rationality constraint. Third, note that the high-type ex interim individual rationality constraint must be binding in the relaxed program’s solution, or else one could decrease b and make the low-type ex interim incentive compatibility slack. 
+Solving for b and pH as a function of pM in the system de by the low-type ex interim incentive compatibility and high-type ex interim individual rationality constraints, and plugging back the resulting expressions in the objective function, we obtain 
+C = 
+ pM 
+( + 1) ( + 1 
+ + 1 
+ ) 
++ K; 
+where K is an inconsequential constant. Hence, the probability of con is minimized by setting pM = 1 whenever possible. Substituting pM = 1; in the expression for pH earlier 
+ +1), which is strictly positive for 
+  =2 and always smaller 
+derived, we obtain pH = 
+( than one. 
+2   
+Solving for b and pM as a function of pH in the system de by the low-type ex interim incentive compatibility and high-type ex interim individual rationality constraints, and plugging back the resulting expressions in the objective function, we obtain 
+C = 
+( 
+( + 1) 
+ 2 + 1) ( + 1)pH 
++ K; 
+44 
+
+========45========
+
+1 
+ 
+where K is another inconsequential constant. The coet of pH is positive for   =2; hence the probability of con is minimized by setting pH = 0, which entails pM = 
+ 2+1; a quantity positive and smaller than one when   =2: 
+The proof of Lemma 3 and hence of Proposition 4 is concluded by showing that this solution does not violate the high-type ex interim incentive compatibility and low-type ex interim individual rationality constraints in the complete program. 
+Indeed, for   =2, we verify that the slacks of these constraints are, respectively 
+1 
+2 
+(   + 1) 
+ 1 
+(1 
+and 
+1 
+2 
+( 
+ ) ( 
+  + 1) 
+1 
+( + 1) (1 
+Similarly, for   =2; the slacks are 
+1 
+2 
+( 
+ 
+and 
+1 
+2 
+( + 1 
+ 2 + 1) 
+1 
+( + 1) 
+1 
+(1 
+ 
+ 2) 
+1 
+( + 1) 
+1 
+( + 1) (1 
+ 
+ ) ( + 1) > 0; 
+ 
+ ) > 0: 
+ ) ( 
+ ) ( + 1) > 0; 
+ 
+ ) > 0: 
+Proof of Proposition 3. The characterization follows from this Lemma. 
+Lemma 4 A solution to the mediator’s problem is such that: 
+ For   =2, 
+1 
+qL + 2pL = 1; qH = qM = 0; b = p; pM = 
+1 +  
+Further, 
+pL  
+( 
+2  2 + 1) ( 
+(1  1);if 
+  1; pL  
+22 
+The ex ante peace probability is 
+V = 
+(1 +  
+ 2: 
+ ) (  ) ( + 2)if 
+(    1) 
+ < 1; 
+ + 1  2)(1 + )2: 
+45 
+
+========46========
+
+ For   =2, 
+2 
+  
+qL + 2pL = 1; pM + qM = 1; b = p; qH = 
+( + 1 
+ 
+= 
+2   
+); qM ( + 1  ); 
+and qL  
+2( 
+(2 ) 
+: Further, for   1; 
+  +1) 
+pL  2( 
+( 
+ ) ( + 2)   + 1) ( 
+(1  1)if 
+  1; pL  
+22 
+ ) ( 
+ ) ( + 2)if (    1) 
+ < 1; 
+The ex ante peace probability is 
+V = 
+( 
+ + 1   + 1) ( + 1): 
+Proof. Consider the general mechanisms subject to the ex post IR and ex interim IC* constraints (1)-(4). It is straightforward to observe that the ex post IR constraints con- straints are stronger than the following (high-type and low-type, respectively) ex interim 
+IR constraints 
+∫ 
+1 
+bdF (bjh)  Pr[l; h]p + Pr[h; h]=2; 
+∫0 
+1 
+bdF (bjl)  Pr[h; l](1 
+0 
+ p) + Pr[l; l]=2; for all b 2 [0;1] 
+and that the ex interim IC* constraint are stronger than the ex interim IC constraint obtained by substituting the maxima with their  argument (the interim payo induced by accepting peace recommendations later in the game). 
+By the revelation principle by Myerson (1979), the optimal ex ante probability of peace within the class of mechanisms which satisfy these ex interim IC and IR constraints cannot be larger than the ex ante probability of peace identi in Lemma 3 in Appendix D. Because the ex interim IC and IR constraints are weaker than the ex interim IC* and ex post IR constraints, it follows that any mechanism subject to the constraints (1){(4) cannot yield a higher ex ante probability of peace than the one identi in Lemma 3. 
+Hence, to prove the result, it is enough to show that the formulas for the choice variables (b; pL; qL; pM; qM; qH) satisfy the constraints (1)-(4) and achieve the same ex ante probability of peace as in Lemma 3. Specialize to the mechanisms described by 
+46 
+
+========47========
+
+(b; pL; qL; pM; qM; qH), the ex post IR constraints take the following form, for the high type: 
+bpM  pMp; (qqH + (1 
+ q)qM)  1=2  qqH=2 + (1 
+ q)qMp; 
+and for the low type: 
+pLb  pL=2; (qpM + (1  q)pL)(1  b)  qpM(1  p) + (1 (qqM + (1  q)qL)  1=2  qqM(1  p) + (1  q)qL=2; 
+ q)pL=2; 
+whereas the high-type ex interim IC* constraint is 
+q(qH=2 + (1  qH)=2) + (1  q)(pMb + qM=2 + (1  pM  qM)p)  maxf(qpM + (1  q)pL)(1  b); qpM=2 + (1  q)pLpg + maxf(1  q)pLb;(1 + maxf(qqM + (1  q)qL)  1=2; qqM=2 + (1  q)qLpg 
++q(1  pM  qM)=2 + (1  q)(1  2pL  qL)p; 
+ q)pLpg 
+and the low-type ex interim IC* constraint is 
+q(pM(1  b) + qM=2 + (1  pM  qM)(1  p)) 
++(1  q)(pLb + pL(1  b) + qL=2 + (1  2pL  qL)2)  
+maxf(1  q)pMb;(1  q)p 
+M 
+2g 
++ maxf(qqH + (1  q)qM)  1=2; qqH(1 +q(1  qH)(1  p) + q(1  pM  qM)=2; 
+ p) + (1 
+ q)q 
+M 
+2g 
+It is straightforward to verify that the values provided in Lemma 4 are such that the ex ante IC* constraint in which the low type does not wage war after misreporting is binding. Also, plugging in our two sets of values for the choice variables gives the same welfare as in Proposition 3. We are left with showing that all other constraints are satis We distinguish the two cases. 
+Step 1. Suppose that  < = 2, so that qM = qH = 0: After simpli the low-type IC* constraint becomes 
+q(pM(1  p) + (1 (1  q)pMp + q(1 
+ pM)(1  p)) + (1  q)  1=2   p) + q(1  pM)=2; 
+47 
+
+========48========
+
+which is binding for pM = 
+1 
+1+  2: 
+Consider the high-type IC* constraint 
+q=2 + (1 
++ maxf(1 
+ q)(pMb + (1  pM)p)  maxf(qpM + (1  q)pL)(1  b); qpM=2 + (1  q)pLpg  q)pLb;(1  q)pLpg + maxf(1  q)qL  1=2;(1  q)qLpg + q(1  pM)=2; 
+Note that 
+(qpM + (1 
+ q)pL) (1 
+ b)  qpM=2 + (1 
+ q)pLp; 
+as long as either  > 1 or p  
+(1  )p 
+= 
+(1  ) (  )(+2) 
+L 
+2 
+M 
+22 (    1) 
+for  < 1; that 
+(1 
+ q)pLb = (1 
+ q)pLp 
+and that 
+(1 
+ q)qL  1=2  (1 
+ q)qLp: 
+Then we substitute in the high-type IC* constraint (duly simpli 
+q=2 + (1 
+ q)(pMb + (1 
+ pM)p)  q=2 + (1 
+ q)p; 
+which is clearly satis because b = p. 
+Similarly, we  that the two high-type ex post constraints 
+pMb  pMp; and (qqH + (1 
+ q)qM)  1=2  qqH=2 + (1 
+ q)qMp 
+are satis | the second one because both sides equal zero. 
+We need to show that the low-type ex post constraints are satis Indeed: 
+pLp > pL=2; (1 
+ q)qL  1=2 > (1 
+ q)qL=2; 
+whereas 
+(qpM + (1 
+ q)pL) (1 
+ p)  qpM(1 
+ p) + (1 
+ q)pL=2; 
+as long as pL (  1) = p 
+(+2p  2) q 
+L 
+(1  ) 
+ 2(1 
+ q)pM 
+= 2M: So that if   1; pL  
+2 
+(  2+1)(  1) and if  < 1; pL  0  
+2 
+(  2+1)(  1): 
+Finally the probability constraints are satis In fact, 0  pM  1 requires only that 1  1 +   2 i.e., that   =2: 
+Step 2. Suppose that   =2. Consider the low-type constraint,  After simplifying 
+48 
+
+========49========
+
+maxima, as the low type always accepts the split if exaggerating strength, the low-type IC* constraint is satis as an equality when plugging in the expressions pM +qM = 1; b = p; 
+qH = 
+2   
+(+1  ); 
+qM = 
+2   
+(+1  ): 
+Then we consider the high-type IC* constraint. We proceed in two steps. We  determine the o behavior of the high type and show that 
+(qpM + (1 
+ q)pL)  (1 
+ b)  qpM=2 + (1 
+ 
+ q)pLp 
+ 
+ 
+as long as either  > 1 or p  
+(1 )p+ 
+= 
+(1 ) ( )(+2) 
+L 
+2 M 22 (  1) 
+for  < 1; that 
+(1 
+ q)pLb = (1 
+ q)pLp 
+and that (qqM + (1 
+ 
+q 
+ 
+ 
+ 
+ 
+ q)qL) 1=2  qqM=2 + (1 
+ q)qLp 
+(2  ) 
+ +1) 
+: 
+2   
+ 
+as long as qL  
+1  
+2p 1 1 qqM; 
+i.e. qL  
+ 
+ 
+qM = 
+2( 
+Then we verify that the consequentially simpli high-type IC* constraint is satis with equality, when substituting in the expressions pM + qM = 1; b = p; qH = 
+(+1 ); 
+2  
+: 
+We then verify that the two high-type ex post constraints 
+qM = 
+ 
+(+1  ) 
+pMb  pMp; and (qqH + (1 
+ q)qM)  1=2  qqH=2 + (1 
+ q)qMp 
+2   
+ 
+qM = 
+ 
+(+1  ) 
+are satis with equality when substituting in the expressions for b = p; qH = 
+(+1 ); 
+2  
+: 
+Finally, show that the low-type ex post constraints are satis In fact 
+pLp > pL=2; and (qqM + (1 (qpM + (1  q)pL) (1  p)  qpM(1 
+ q)qL)  1=2 > qqM(1 
+as long as pL ( 
+ 
+  
+ 1) = p 
+(+2p 
+L 
+(1  ) 
+ 
+ p) + (1  q)pL=2; 
+ q)qL=2; 
+ p) + (1 
+q 
+ 
+= 2M. So that if   1; pL  
+ 
+ 2) 
+ 2(1 
+q)pM 
+2 
+( )(+2) 
+( +1)( 1) 
+and if  < 1; pL  0  2 
+(  )(+2) 
+( +1)( 1): 
+Finally the probability constraints are satis In fact, because  + 1 
+ ) < 0; and 2 
+conditions 0  qH  1 and 0  qM  1 require only that 2 
+ 
+ ( + 1 
+ ) = ( + 1) ( 
+  
+  > 0; 2   ( + 1  ) = ( + 2) (  ); the 
+   0: 
+Having proved that the claimed solution satis all constraints, the proof of Lemma 4, 
+and hence Proposition 3 is now concluded. 
+49 
+
+========50========
+
+Mediation and Peace 
+Johannes Horner, Massimo Morelli, and Francesco Squintani MATERIAL NOT FOR PUBLICATION 
+Proof of Lemma 2. We proceed in three parts. 
+Part 1. (The low type mixes). 
+The choice variables are b, , pL, pM, and pH. We have 19 constraints, i.e. one IC for the low type which is binding, four IC for the high type to get rid of the maximum in the constraint, two ex post constraints for high type, four ex post constraints for low type, and eight probability constraints. First we rearrange the IC constraint for low type and express b in terms of the other variables. Substituting b into objective function and constraints, we get rid of b and IC constraint for low type. After simplifying the constraints, we are left with the following constraints, referred to as constraints Ci, i = 1; : : : ;9. (We omit the constraints that all probabilities must be in [0;1].) 
+1. ICH1 : (1 + )pM(1 +  
+ 2) 
+ (1 + )pH(1 +  
+ ) + pL; 
+2. ICH2 : 
+ pH + pM + 
+(pH+pL  2pM); 
+1+ 
+3. ICH3 : (1 + )(   + )pH + (  1 +  
+ 2)(pH 
+ pM) + (pH + pL 
+ 2pM)2; 
+4. ICH4 : (1 +)(   +)pH + ((  1 + 
+(pH + pL  2pM)2; 
+ 2)pH +(pL +L 
+ pM) +pM + 2M) + 
+5. EXH1 : pM + pL + pH(  1 
+ (2 + ) + ) 
+ pM( 
+ 2 + 2); 
+6. EXH2 :  + (  1 + ); 
+7. EXL1 : pH(1 + 
+ )(1 + (2 +) 
+ ) +(pM(2 + (3 +) 
+ 2) +pL(  1 
+ +)); 
+8. EXL3 : pM(2 + (3 + ) 
+ 2) + pL + pH(  1 
+ (2 + ) + ); 
+9. EXL4 : 1 
+ 
+(1+)  1  + 
+: 
+ case 1: C5 binds 
+This section covers the case that only C5 binds. We do not assume C5 binds ex ante. 
+1 
+
+========51========
+
+We set up the following relaxed problem: 
+min 1pL;pM;pH; 
+ (( 
+ 
+2pL 
+1 + ) 
++ 2 
+ 1 +   pM 
+1 +  1 +  
++ (1 + 
+  )2pH) 
+1 +  
+subject to the following constraints: 
+1. pL  1, 2. 0  pM  1, 3. pH  0, 4. 0    1, 
+5. C5  0 , pL  (1 + (2 + )  )pH + (  2 + 2  1)pM. 
+{ Case 1.1: Parameter Region is 1=2<  
+1 
+ 1 + 
+p5) and 
+1   
+p5) and 
+2(  
+<  < 2, or 
+ > 
+1( 
+2 
+ 1 +  <  < 2. 
+1. We want to show that pL = 1. Suppose pL < 1. We can set pL = 1 and 
+increase pH to make sure C5 is satis By doing so, no constraint will be 
+violated and the objective function is strictly decreased. 
+2. We want to show that C5 binds. Suppose it does not. We can increase pH 
+without violating other constraints and decrease the objective function. 3. Suppose (  2+2  1) > 0. Then 
+MCpM 2+(  2  1) 2 MUpM 
+MCp 
+= 
+H 
+1+  +(1+) 
+< 
+1+   
+= 
+MUp 
+,H 
+since (  2  1) < 0 and (1 + )  > 0. Therefore, we want pM to be as 
+large as possible and pH to be as small as possible, i.e. pM = 1 or pH = 0. 
+If     2 + 2  1, pH = 0 and pM = 
+ 
+  2+2  1. 
+If     2 + 2  1, pM = 1 and pH = 
+1  +2   
+1  +2+ 
+. 
+4. Suppose (  2 + 2  1)  0. We have pL + (   + 2  2 + 1)pM  
+(1 + (2 + )  )pH. Then pL = 1, pM = 1 and pH = 
+1  +2   
+1  +2+. 
+5. To sum up, we conclude that: 
+(a) If 0    1 + 2  , then pL = 1, pM = 1, pH = 
+1  +2   
+1  +2+, and 
+V = 
+(1+  )2 
+(1+)(1+(2+)  ). 
+(b) If 1    1 + 2  , then pL = 1, pH = 0, pM = 
+ 
+  2+2  1, and 
+V =  
+(1+  )((  1+  2)(1+)+(1+)). 
+(1+)2(1  +2  2) 
+Under the parameter region we specify above, we know that 1 + 2    1. 
+Since   1, only case (a) is possible. And V is minimized when  = 1. 6. The solution to the relaxed problem is pL = 1, pM = 1, pH = 
+2   
+2+, 
+ = 1, 
+and V = 
+ 
+2++2+ 
+. Substituting these into the original problem, we can 
+show that all the constraints are satis Therefore, this is also the solution 
+to the original problem. 
+2 
+
+========52========
+
+{ Case 1.2: Parameter Region is 0<  
+1 
+2 
+and  > 1, or  > 
+1 
+2 
+and  > 2. 
+1. We want to show that pL = 1. Suppose not. We can increase pL and pH 
+and decrease the objective function without violating the other constraints. 
+2. It is easy to show that C5 binds. Suppose not. We can increase pH and 
+decrease the objective function without violating the other constraints. 3. Suppose (  2 + 2  1) > 0. 
+If 
+MCpM 
+= 
+2+(  2  1) 
+MCp 
+ 
+2 MUpM 
+H 
+1+  +(1+) 1+   
+= 
+MUp 
+, then we want pH 
+M 
+to be as large 
+as possible and pH to be as small as possible, i.e. pM = 1 or pH = 0. If 
+    2 + 2  1, pH = 0 and pM = 
+ 
+  2+2  1. If 
+    2 + 2  1, 
+pM = 1 and pH = 
+1  +2   
+1  +2+ 
+. 
+If 
+MCpM 
+=H 
+2+(  2  1) 2 MUpM 
+MCp 1+  +(1+) 
+> 
+1+   
+= 
+MUp 
+, we want p 
+M 
+to be as small asH 
+possible and pH to be as large as possible, i.e. pM = 0 and pH = 
+ 
+1+(2+)  . 4. Suppose (  2 + 2  1)  0. We have pL + (   + 2  2 + 1)pM  
+(1 + (2 + )  )pH. Then pL = 1, pM = 1 and pH = 
+1  +2   
+1  +2+. 
+5. To sum up, we conclude that: 
+(a) If 0    
+1+2   
+2 
+, we have pL = 1, pM = 1, pH = 
+1  +2   
+1  +2+, and 
+V = 
+(1+  )2 
+(1+)(1+(2+)  ). 
+(b) If 
+(  1+  2)(1+)  
+ 
+>  
+1+2   
+1++2 
+ 
+2 
+, pL = 1, pM = 0, pH = 
+1+(2+)  . 
+And V = 
+(1+  )(1  +(3+2+(1++))) 
+(1+)2(1+(2+)  ) 
+. 
+(c) If max(1+2 
+  
+; 
+(  1+  2)(1+)) 
+2  1++2 
+   1 + 2  , then pL = 1, pM = 1, 
+pH = 
+1  +2   (1+  )2 
+1  +2+, and 
+V = 
+(1+)(1+(2+)  ). 
+(d) If max(1 + 2  ; 
+(  1+  2)(1+) 
+ 1++2 
+)    1, pL = 1, pH = 0, pM = 
+ (1+  )((  1+  2)(1+)+(1+)). 
+  2+2  1, and 
+V =  
+(1+)2(1  +2  2) 
+6. Under the parameter region we specify above, all the cases speci above 
+are possible. After comparing all the minimized values, we  that case 
+(d) achieves the minimized V when  = 1. 
+7. The solution to the relaxed problem is pL = 1, pM = 
+1 
+1+  2, 
+pH = 0,  = 1, 
+and V = 
+((2+)  (3+2)) 
+(1+  2)(1+)2 
+. Substituting these into the original problem, we 
+can show that all the constraints are satis Therefore, this is also the 
+solution to the original problem. 
+ case 2: C1 binds 
+This section covers the case that C1 binds and C5 might bind. We do not assume C1 binds ex ante. 
+3 
+
+========53========
+
+We set up the following relaxed problem: 
+min 1pL;pM;pH; 
+ (( 
+ 
+2pL 
+1 + ) 
++ 2 
+ 1 +   pM 
+1 +  1 +  
++ (1 + 
+  )2pH) 
+1 +  
+subject to the following constraints: 
+1. pL  1, 
+2. 0  pM  1, 
+3. pH  0, 
+4. 0    1, 
+5. C1  0 , pL  (1 + )(1 +  
+ )pH + (1 + )(  1 
+  + 2)pM. 
+6. C5  0 , pL  (1 + (2 + ) 
+ )pH + ( 
+ 2 + 2 
+ 1)pM. 
+{ Case 2.1: 
+Parameter Region is 0<  
+1 
+2 
+and  <   
+ 
+1 , or 
+1=2<  
+1 
+2( 
+1 + 
+p5) and 
+ 
+ 
+ <  < 
+1  . 
+ 
+1. We want to show that pL = 1. Suppose not. We can increase pL and pH 
+and decrease the objective function without violating other constraints. 
+2. It’s easy to show that either C1 or C5 binds. Suppose both are not bind- 
+ing. We can increase pH without violating other constraints. Here, we  
+consider the case where C1 binds. 
+3. Suppose 2    1  0. Then 
+MCpM 
+= 
+2    1 
+< 
+2 
+MCpH 
+= 
+MUpM 
+1+   1+   MUp 
+. Therefore,H 
+pM = 1 or pH = 0. If   (1 + )(  1   + 2), we have pM = 1 and 
+pH = 
++(1+)(1+  2) 
+(1+)(1+  ) 
+ 0. If   (1 + )(  1   + 2), we have pH = 0, 
+pM = 
+ 
+(1+)(  1  +2) 
+ 1. 
+4. Suppose 2    1 < 0, we have pL = 1, pM = 1, and pH = 
++(1+)(1+  2) 
+(1+)(1+  ) 
+. 5. To sum up ,we can show that: 
+(a) If 0    
+(1+)(1+) 
+1+2 
+, then pL = 1, pM = 1 and pH = 
++(1+)(1+  2) 
+(1+)(1+  ) 
+. 
+(b) If 1    
+(1+)(1+) 
+1+2 
+, then pL = 1, pH = 0, and pM = 
+ 
+(1+)(  1  +2). 6. Since in the parameter region speci above 
+(1+)(1+) 
+1+2 
+ 1, we know that 
+only case (a) is possible. Hence, pL = 1, pM = 1, pH = 
++(1+)(1+  2) 
+(1+)(1+  ) 
+, 
+and V = 
+(1+  ) 
+(1+)(1+)2 
+. Notice that V is a quadratic function of  which is 
+maximized at  = 
+1+. 
+2 
+4 
+
+========54========
+
+7. Substituting pL, pM, and pL into C5, we have the following constraint on : 
+(  1 
+ 2 + 
+(1 + ) 
+1 +    
++ 
+ 
+1 + ) 
+ 0; 
+which is equivalent to 
+1    2; 
+where 
+1 = 
+1 
+2(2 + 
+ + 3 + 2 
+√ 
+2(3 + 4) + (4 + 5) + ( + 2)2); 
+√ 
+2 
+= 
+1 
+2(2 + 
+ + 3 + 2 + 2(3 + 4) + (4 + 5) + ( + 2)2): 
+Since 
+1+ 
+2 
+< 1  1 < 2, we know that V is minimized at  = 1. 
+8. Next we consider the case that C5 is binding. Using the same method, we 
+get the minimized value which is larger than the V speci above. Hence, 
+the solution to the relaxed problem is pL = 1, pM = 1, pH = 1  
+ 
++, 
+ = 1, 
+and V = 
+ 
+(1+)(1+)2 
+. Substituting the solution to the original problem, we 
+show that all the constraints are satis Hence, this is also the solution 
+to the original problem. 
+{ Case 2.2: Parameter Region is 0<  
+1 
+2 
+and 
+ 
+1   
+   1. 
+1. pL=1. Suppose not. We can increase pL and pH without violating other 
+constraints. 
+2. It is easy to show that either C1 or C5 binds. Suppose both are not bind- 
+ing. We can increase pH without violating other constraints. Here, we  
+consider the case where C1 binds. 
+3. Suppose 2    1  0, 
+MCpM 
+= 
+2    1 2 MUpM 
+MCpH 1+   
+< 
+1+   
+= 
+MUp 
+. Therefore,H 
+pM = 1 or pH = 0. If   (1 + )(  1   + 2), we have pM = 1 and 
+pH = 
++(1+)(1+  2) 
+(1+)(1+  ) 
+ 0. If   (1 + )(  1   + 2), we have pH = 0, 
+pM = 
+ 
+(1+)(  1  +2) 
+ 1 
+4. Suppose 2    1 < 0, we have pL = 1, pM = 1, and pH = 
++(1+)(1+  2) 
+(1+)(1+  ) 
+. 
+5. To sum up ,we can show that: 
+(a) If 0    
+(1+)(1+) 
+1+2 
+, then pL = 1, pM = 1 and pH = 
++(1+)(1+  2) 
+(1+)(1+  ) 
+. 
+(b) If 1    
+(1+)(1+) 
+1+2 
+, then pL = 1, pH = 0, and pM = 
+ 
+(1+)(  1  +2). 
+6. Since in the parameter region speci above 
+(1+)(1+) 
+1+2 
+ 1, we know that 
+both case (a) and (b) are possible. 
+5 
+
+========55========
+
+(a) If 0    
+(1+)(1+) 
+, pL = 1, pM = 1, pH = 
++(1+)(1+  2) 
+1+2 (1+)(1+  ) 
+, and 
+V = 
+(1+  ) 
+(1+)(1+)2 
+. 
+Substituting pL, pM, and pL into C5, we have the following constraint: 
+(  1 
+ 2 + 
+(1 + ) 
+1 +    
++ 
+ 
+1 + ) 
+ 0; 
+which is equivalent to 
+1    2; 
+where 
+1 = 
+1 
+2(2 + 
+ + 3 + 2 
+√ 
+2(3 + 4) + (4 + 5) + ( + 2)2); 
+1 
+√ 
+2 
+= 
+2(2 + 
+ + 3 + 2 + 2(3 + 4) + (4 + 5) + ( + 2)2): Taking into account all constraints on , we have the following problem: 
+minV = 
+(1 +   )  
+(1 + )(1 + )2 
+such that 
+0    
+(1 + )(1 + ) 
+1 + 2 
+= 3; 
+1    2: 
+We can show that if  < 
+1 
+ 
+p8 
++ 92), or  > 
+1 
+4(3 4(3 
++p8 + 92), 
+then 3 < 1 and the feasible region of is empty. If 
+1(3 
+4 
+ 
+p8 
++ 92)  
+  
+1(3 
+p8 
+ 
+1+ 
+4 
++ + 92), then 
+2 
+< 1    3  1. Since 
+V is a quadratic function of , it is obvious that V is minimized at 
+ = 3 = 
+(1+)(1+) 
+1+2 
+, and V = 
+2 
+(1+2)2 
+: 
+Here we rearrange the parameter region. We show that if 0    1 
+and 
+22 
+   
+ 
+1+3 1+ 
+, then pL = 1, pM = 1, pH = 0,  = 
+(1+)(1+) 
+1+2 
+, and 
+V = 
+2 
+(1+2)2 
+: 
+(b) If 1    
+(1+)(1+) 
+1+2 
+, we have pL = 1, pH = 0, pM = 
+ 
+(1+)(  1  +2), and 
+V = 
+(1 +  
+ )((1 + )(1 +   ) + (1 +   2)(1 +  + )): 
+(1 + )(1 + )2(1 +   2) 
+6 
+
+========56========
+
+Substituting pL, pM, and pL into C5, we have the following constraint: 
+(  + (2 +  (1 + )(1 +  
+ 
+which is equivalent to 
+0    
+1 +  
+2 
+or 
+1 
+2(2 + 
+ 
+ 2))  2) 
+ 0; 
+ 
+)  
+ : 
+Taking into account all constraints on , we have the following reduced 
+problem: 
+minV = 
+(1 +   
+ )((1 + )(1 +  
+(1 + )(1 + )2(1 +  
+such that 
+1    
+(1 + )(1 + ) 
+1 + 2 
+; 
+0    
+1 +  
+2 
+or 
+1 
+2(2 + 
+ 
+1+2 
+ ) + (1 +   2)(1 +  + )) 
+ 2) 
+ 
+)  
+ : 
+ 
+). If  
+1+ 
+  > 
+22  1+3 
+, then 
+ 
+ 1++2)) 
+ 
+ 
+ 
+ 
+), 
+If 0    
+22 
+1+3 
+, then 1    
+1 
+2(2 + 
+ 
+1    
+(1+)(1+) 
+1+2 
+. Since the curve of V is inverse U-shaped, we know that the minimal can be achieved at  = 1,  = 
+1(2 + 
+ 
+ 
+2  
+), or  = (1+)(1+). When 
+ = 1, V = 
+(+2+( 
+1 
+(1+)( 1+)(1+)2 
+. When  = 
+1 
+2(2+ V2 = 
+(+2(3+2) 2(4+3)) (1+)(1+) 
+4(1+)2( +) 
+. When  = 
+1+2 
+, V3 = 
+(1+2)2 
+. To sum up, we have following three cases: 
+ 
+ 
+or  <  < 1 and 0    
+2 
+√ 
+ 1  2 
+1+11+242+163 
+(1+)2(1+3) 
+  2(  1+2) 
+ 
+1 2 
+1+16+54 
+(  1+2)2 
+i. V1 is chosen when 0 <  <  and 0    
+2(1+) 
++ 
+1 
+√ 
+2 
+ 1 8 32 
+2+483+254 
+. 
+√ 
+ii. V2 is chosen when  <  < 1 and 
+2+483+254 
+2( 1+2) 
+< 
+ < 
+22 
+1+3 
+. 
+ 
+1+ 
+ 1  8  32 
+ 
+ 
+1 
+2 
+1+16+54 
+(  1+2)2 
+√ 
+ 1  2 
+1+11+242+163 
+(1+)2(1+3) 
+<  < 
+iii. V3 is chosen when 0 <  <  and 
+2(1+) 
++ 
+1 
+2 
+ 
+, or  <  < 1 and 
+1+ 
+  > 
+22 
+1+3 
+. 
+Since the solution given in case (b) is superior to that in case (a), the above 
+solution is the  solution. 
+7. Next we consider the case that C5 is binding. Using the same method, we 
+7 
+
+========57========
+
+get the minimized value which is not smaller than the value for V speci above. Substituting the solution to the original problem, we show that all the constraints are satis Hence, this is also the solution to the original 
+problem. 
+ 
+Part 2 (The high type mixes). Suppose that the high type mix between the high message (with probability ) and the low message. The low type only sends the low message. Let  := 
+q(1 ) 
+1 q 
+be the posterior of facing a high type after the low message. Let  := 1 the probability of low message. The optimal equilibrium is found by solving the following 
+ 
+program. 
+min 2 (1b;pL;pM;pH; 
+ pL) + 2(1 
+ ) (1 
+ pM) + (1 
+ q be 
+ )2 (1 
+ pH) 
+subject the ex ante IC* constraint for the for the low type: 
+((1 
+ pL) ((1 
+ p) + (1 
+ ((1 
+ pM) ((1 
+ p) + (1 
++(1 
+ )((1 
+ pH) (1 
+ p) + pH maxf2 
+ )=2) + p 
+1L 
+2) + (1 
+ )((1  )2) + pM maxfb;((1 
+1;(1 
+ p)g) 
+ p) + (1 
+ pM) (1  p) + pM(1 
+ )2)g) 
+ b)) 
+to the indi condition for the high type 
+((1 
+((1 
+ pM) (2 + (1  pL) (2 + (1 
+ )p) + pMb) + (1  )p) + p 
+1L 
+2) + (1 
+ )((1 
+ ) ((1 
+ pH) 
+ 
+2 
++ p 
+1H 
+2) =  pM) 
+ 
+2 
++ pM(1  b)) 
+to the high-type ex post constraints: 
+b  =2 + (1 
+ )p; 1 
+ )p; 1=2  =2; 1=2  2 + (1 
+ b  
+ 
+2 
+to the low-type ex post constraints: 
+1 
+ b  (1 
+ p); 1=2   (1 
+ p) + (1 
+ )=2 
+and to the probability constraints: 
+0  pL  1;0  pM  1;0  pH  1;0    1: 
+8 
+
+========58========
+
+But is immediate to note that the constraint set is empty. Indeed, the third high-type ex 
+post constraint is equivalent to: 
+ 1 2 
+(1 
+ ) 
+  (1 
+1 + (1 
+ )  ) 
+ 0; 
+which cannot be the case for  >  . 
+q  
+ q) + q(1 
+ ) be the probability of a low message. 
+Part 3 (Both types mix). Suppose that the low type mixes between the low message (with probability ) and the high message. The high type mixes between the high message (with probability ) and the low message. Let  := 
+1  
+be the posterior of facing a high type after the high message. Let  := (1 
+Let  := 
+q(1 ) 
+ 
+be the posterior of facing a high type after the low message. The optimal equilibrium solves the following program: 
+ 
+min 2 (1b;pL;pM;pH; 
+ pL) + 2(1 
+ ) (1 
+ pM) + (1 
+ )2 (1 
+ pH) 
+subject the ex ante IC* constraint for the for the low type: 
+((1 
+ pL) ((1 
+ p) + (1 
+ )=2) + p 
+1L 
+2) + (1 
+= ((1 
+ pM) ((1 
+ p) + (1 
+ )=2) + pMb) + (1 
+ )((1 
+ pM) ((1 
+ )((1 
+ pH) ((1 
+ p) + (1  )2) + pM(1  b)) 
+ p) + (1  )2) + p 
+1H 
+2) 
+to the indi condition for the high type 
+((1 
+((1 
+ pM) (2 + (1  pL) (2 + (1 
+ )p) + pMb) + (1  )p) + p 
+1L 
+2) + (1 
+ )((1 
+ ) ((1 
+ pH) (2 + (1  pM) (2 + (1 
+ )p) + p 
+1H 
+2) = 
+ )p) + pM(1 
+ b)) 
+to the high-type ex post constraints: 
+b  =2 + (1 
+ )p; 1=2  =2 + (1 
+ )p; 
+1 
+2 
+ 2 + (1 
+ )p; 1 
+9 
+ b  2 + (1 
+ )p 
+
+========59========
+
+to the low-type ex post constraints: 
+1 
+ b  (1 
+1 2  (1 
+ p) + (1  )=2; 1=2   (1  p) + (1  )2 
+and to the probability constraints: 
+ p) + (1 
+ )=2; b  (1 
+ p) + (1 
+ )2 
+0  pL  1;0  pM  1;0  pH  1;0    1;0    1: 
+But is immediate to note that the constraint set is empty. Indeed, second and fourth high-type ex post constraints are equivalent to: 
+X := 
+1 
+2 
+(1 
+ ) 
+( + ) 
+ + 1  
+ 0; Z := 
+1 
+2 
+(1 
+  
+ 
+ 
+ ) 
+   +  
+     
+ 0: 
+Evidently, X  0 requires   
++, which, in light of 
+ >  requires  +  > 1. Consider Z, note that it increases in . When  takes its upper value ; 
+Z = 
+1 
+2 
+(1 
+ ) 
+(1 
+ + (1 
+  
+ )  ) 
+which is positive if and only if  +   1: This concludes that whenever  >  , either 
+X < 0 or Z < 0 or both. 
+10 
+
+========60========
+

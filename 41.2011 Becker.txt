@@ -1,0 +1,627 @@
+April 2011 
+             No.41 
+Does Parental Education Affect Fertility? Evidence from Pre-Demographic Transition Prussia 
+Sascha O. Becker (Warwick), Francesco Cinnirella (Munich), Ludger  
+Woessmann (Munich) 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Does Parental Education Affect Fertility?  Evidence from Pre-Demographic Transition Prussia* 
+  
+Sascha O. Becker†   
+Francesco Cinnirella‡   
+Ludger Woessmann§   
+  
+Abstract  
+While  women’s  employment  opportunities,  relative  wages,  and  the  child quantity‐quality trade‐off have been studied as factors underlying  historical fertility limitation, the role of parental education has received  little  attention.  We  combine  Prussian  county  data  from  three  censuses—1816,  1849,  and  1867—to  estimate  the  relationship  between women’s education and their fertility before the demographic  transition.  Despite  controlling  for  several  demand  and  supply  factors,  we  find  a  negative  residual  effect  of  women’s  education  on  fertility.  Instrumental‐variable estimates, using exogenous variation in women's  education  driven  by  differences in  landownership  inequality,  suggest  that the effect of women’s education on fertility is causal.   
+  
+JEL Code: N33, J13, J24.  
+Keywords:  Demographic  Transition,  Female  Education,  Fertility,  Nineteenth Century Prussia.   
+  
+April 4, 2011  
+                                                         
+* We thank participants at the workshop “Towards Sustained Economic Growth: Evidence  and Theory” in Barcelona, the CEPR conference “The Economy of Family Policy” in Bergen,  the  workshop  “Human  Capital  in  Economic  History”  in  Tübingen,  the  workshop  “Gary  Becker Revisited: Welfare and Household Behavior in Europe” at the European University  Institute in Florence, and seminar participants at Ifo Munich and the University of Stirling,  as well as Erik Hornung, for helpful comments. Financial support by the Pact for Research  and Innovation of the Leibniz Association is gratefully acknowledged.  
+† University of Warwick, CEPR, CESifo, Ifo, and IZA. E‐mail: s.o.becker@warwick.ac.uk.  ‡ Corresponding author: Ifo Institute for Economic Research and CESifo, Munich. E‐mail:  cinnirella@ifo.de.  
+§ University of Munich, Ifo Institute, CESifo, and IZA. E‐mail: woessmann@ifo.de.  
+
+========2========
+
+1. Introduction  
+The demographic transition, together with the industrial revolution, is one of the  most important events in modern history. It marks the transition from Malthusian  stagnation  to  modern  economic  growth,  which  allowed  the  economies  to  experience  an  unprecedented  growth  of  income  per  capita  (Guinnane,  2011).  A  large theoretical and empirical literature addresses the historical causes of fertility  restraint.  Much  attention  has  been  devoted  to  the  impact  of  employment  opportunities for women outside agriculture, the effect of the female relative wage,  and the child quantity‐quality trade‐off (e.g., Crafts, 1989; Galloway, Hammel, and  Lee, 1994; Galloway, Lee, and Hammel, 1998; Brown and Guinnane, 2002; Dribe,  2009; Becker, Cinnirella, and Woessmann, 2010, 2011).   
+Yet, the role of parental education, and in particular of women’s education, has  received little empirical attention, despite its obvious possible roles for knowing  the means to control fertility (Easterlin and Crimmins, 1985), for relative female  earnings, and for shifting preferences from children to newly emerging consumer  goods (Guzman and Weisdorf, 2010). In demography and development economics,  there is such abundance of evidence on the negative association between mothers’  education  and  fertility  that  Cochrane  (1979)  argued  that  it  is “one  of  the  most  clear‐cut correlations” in the social sciences, although there is no agreement about  causality.1  However,  historical  evidence  on  this  relationship  and  its  causal  structure is fairly limited.  
+In this paper, we contribute to the knowledge on the determinants of historical  fertility by analyzing this neglected channel, the effect of women’s  education  on  fertility.  We  combine  Prussian  county  data  from  three  different  censuses  (1816,  1849,  and  1867)  and  estimate  the  relationship  between  parental schooling  and  fertility  before  the  demographic  transition.  Prussia  offers  an  important  
+                                                         
+1 For recent examples from development economics with differing results, see Breierova  and Duflo (2004), Osili and Long (2008), and Lavy and Zablotsky (2011). See Strauss and  Thomas (1995) and Schultz (2008) for reviews. Currie and Moretti  (2003),  Black,  Devereux,  and  Salvanes  (2008),  and  McCrary  and  Royer  (2011)  are examples of recent  evidence from developed countries, again with conflicting results. For examples of more  descriptive  analyses  in  demography,  see  Gutmann  and  Watkins  (1990)  and  Rindfuss,  Morgan, and Offutt (1996).   
+1  
+
+========3========
+
+opportunity to analyze this relationship because of her strong focus  on  primary  education starting from the eighteenth century (Melton, 1988) and because of her  high‐quality data on school enrolment and fertility. As the censuses provide data  on school enrolment by gender, we can focus our analysis on female enrolment.   
+Our results suggest that, despite controlling extensively for demand and supply  factors, women’s primary education has a significant negative residual impact on  fertility. The demand and supply factors taken into account in our analysis include,  among others, the women’s age at marriage, employment opportunities for women  outside  agriculture,  and  mothers’  preference  for  child  education,  proxied  by  the  primary  school  enrolment  rates  at  the  time  when  the  children  enter  school  age.  The relationship is robust to the introduction of measures for child and maternal  mortality, and migration. Given the very high correlation between male and female  enrolment rates, however, we cannot separately identify the effect of women’s and  men’s  education  in  the  regression  analysis.  Our  conclusions  on  the  effect  of  women’s education on their fertility may therefore be more generally interpreted  as the effect of parental education on fertility.  
+The possible existence of unobserved variables that are correlated with  both  women’s  education  and  fertility  could  bias  our  estimates,  curtailing  a  causal  interpretation.  Therefore,  we  adopt  an  instrumental‐variable  approach  using  landownership inequality in 1816 as an instrument for mothers’ education (Galor,  Moav, and Vollrath, 2009; Becker, Cinnirella, and Woessmann, 2010). We exploit  exogenous variation in primary school enrolment rates driven by the opposition to  education of the landed nobility that had no interest in having an educated labor  force  (Melton,  1988).  The  instrumental‐variable  estimates  suggest  that  the  negative  effect  of  mothers’  education  on  fertility  is  causal  and that OLS likely  underestimates the true effect.  
+2. Related literature on the historical fertility transition   
+The European Fertility Project (EFP), coordinated in Princeton in the 1960s and  1970s,  aimed  at  studying  the  fertility  patterns  of  most  Western European  countries (Coale and Watkins, 1986). The EFP concluded that the spread of new  moral and cultural norms together with birth control technology were responsible  
+2  
+
+========4========
+
+for  the  fertility  decline  in  Europe.2  In  particular,  Knodel  (1979)  using  family  reconstitution data studies the transition from natural fertility to family limitation  in a sample of 12 German villages. Knodel finds a strong heterogeneity  in  the  timing of the emergence of family limitation but he cannot identify the factors that  could explain such diversity.  
+Regarding  the  causes  of  the  demographic  transition,  Knodel  (1974) and the  European Fertility Project in general attributed much importance to the processes  of  innovation  and  diffusion  of  knowledge  about  contraception,  downplaying  the  role  of  socio‐economic  factors.  This  view  has  been  firmly  criticized  and,  more  recently, several studies have shown the importance of socio‐economic factors as  determinants of the fertility decline.  
+A  few  studies  show  that  employment  opportunities  for  women  and cultural  factors might have shaped the demographic transition at the end of the nineteenth  century (Crafts, 1989; Galloway, Hammel, and Lee, 1994). Analyzing county data  for  Prussia  starting  from  the  last  quarter  of  the  nineteenth  century,  Galloway,  Hammel, and Lee (1994) also include an educational variable constructed as the  number of teachers per 100 individuals aged 6‐13, which has a negative effect on  the marital fertility rate.   
+Brown and Guinnane (2002) study the fertility transition in Bavaria, a German  region characterized by strong Catholicism and a relatively rural economy. They  use census data for the period 1880‐1910 and find that Catholicism had a large and  growing  impact  on  fertility,  stressing  the  importance  of  social  norms  in  fertility  regulation. They find also differential fertility by occupation and a significant effect  of  wages,  which  speaks  in  favor  of  an  “adjustment”  interpretation  of  the  demographic  transition.  Important  with  respect  to  our  analysis, Brown and  Guinnane do not include measures of education (or schooling) because of lack of  such information. More in general, all these studies do not include a direct measure  (or a proxy) for mothers’ education.  
+In  a  recent  paper,  Dribe  (2009)  analyzes  the  factors  that  characterized  the  fertility  transition  in  Sweden.  Using  county‐level  data  for  the  period  1880‐1930,                                                           
+2 See Brown and Guinnane (2007) for a critique of the empirical approach  and  the  conclusions of the European Fertility Project.  
+3  
+
+========5========
+
+Dribe  finds  that  lower  child  mortality,  higher  urbanization,  and  stronger  “educational  orientation”  were  associated  with  lower  marital  fertility.  Similar  to  Galloway,  Hammel,  and  Lee  (1994),  Dribe  measures  educational  orientation  through the ratio of the number of teachers over 100 children aged  7‐14.  This  variable serves as an indicator of the importance of child quality and therefore to  control for the child quantity‐quality trade‐off. Interestingly, Dribe finds that only  variation in the levels of education and not variation over time  is  relevant  for  explaining fertility decline (Dribe, 2009, p. 83).  
+Recent  theoretical  (Galor  and  Weil,  2000)  and  empirical  work  (Becker,  Cinnirella,  and  Woessmann,  2010,  2011)  analyzes  the  relationship  between  the  quantity‐quality  trade‐off  of  children  and  fertility restraint for  the period  before  and during the demographic transition. In other theoretical models, human capital  is a crucial ingredient not through its association with technology, but rather with  life expectancy (see for instance Cervellati and Sunde (2005)).   
+In this paper, we show that mothers’ formal education played an important role  in  fertility  restraint,  independently  from  intervening  factors  such  as  age  at  marriage, employment opportunities for women outside agriculture, and parental  preferences  for  educated  children.  Possible  mechanisms  underlying the effect of  women’s education on fertility are its role for knowledge about the means of  fertility control (Easterlin and Crimmins, 1985), for the relative female wage, and  for  preference  shifts  towards  a  larger  variety  of  newly  available  consumption  goods  (Guzman  and  Weisdorf,  2010).  We  will  return  to  these  mechanisms  in  greater details in the discussion of our results in Section 8.   
+3. Demographic patterns in Prussia  
+In the framework of the European Fertility Project (EFP), Knodel (1974) studied  the  demographic  transition  in  Germany.  Using  the  definition  of  a  10  percent  decline  of  the  index  of  marital  fertility  rate,  Knodel  identifies the onset of the  fertility transition in Germany in 1895.  
+Figure 1 shows the trends of the crude birth rate, mortality rate, and marriage  rate for Prussia in the nineteenth century. The figure shows relatively stable trends  for the first three quarters of the century. In fact, after decreasing in the 1820s, the  
+4  
+
+========6========
+
+crude birth rate fluctuates around 40 births per 1000 people. Similarly,  the  mortality  rate  fluctuates  between  25  and  30  deaths  per  1000  people.  Mortality  peaks in 1831, when Prussia was hit by a cholera epidemic, in 1848, in conjunction  with the political unrest, and in 1866 during the Austrian‐Prussian war. With the  exception of 1866, the birth rate mirrors the swings of the mortality rates. Only  around the last two decades of the nineteenth century, birth and mortality rates  point  to  a  secular  decline.  At  the  bottom  of  Figure  1,  we  also show the trend in  marriage rates, which remained fairly constant oscillating at around 9 marriages  per 1000 people.  
+The  birth  rate  levels  shown  in  Figure  1  are  consistent  with  the European  marriage pattern characterized by high fertility within marriage but relatively low  levels of birth rates.3 Other characteristics of the European marriage pattern were  a  late  average  age  at  first  marriage  and  a  relatively  high  share  of  unmarried  women. Knodel studies family reconstitution from 12 German villages and reports  for the period 1750‐1899 an average age at first marriage that fluctuates around  26.9 for women and 29.4 for men (Knodel, 1979, Table 1, p. 496). Our data show  that, in 1849, a considerable share of women married after age 30 and that this  positively correlates with the (stock) share of unmarried women.  
+4. Prussian county data on  education and fertility   
+A major criticism of the European Fertility Project is the choice of relatively large  units of analysis. In the case of Germany, the EFP used 30 Regierungsbezirke, which  are  large  administrative  districts  with  roughly  half  a  million  inhabitants  and  comprising more than 10 counties (Kreise), on average. Similarly to the study of  Galloway, Hammel, and Lee (1994) and Galloway, Lee, and Hammel (1998)  but  going  much  further  back  in  time,  in  our  study  we  use  more  disaggregated  data,  namely at the level of the 334 counties (Kreis) for the period before the onset of the  Prussian demographic transition. Our main data stem from the Prussian censuses  in 1816, 1849, and 1867 and are reported by the Prussian Statistical Office (see  appendix for details).   
+                                                         
+3 The biological maximum is considered to be around 60 births per thousand.  
+5  
+
+========7========
+
+The  1816  Prussian  census  contains  information  on  the  number  of  children  enrolled in primary school by county. Our main variable of interest—the  female  enrolment rate—is constructed as the number of girls enrolled in primary school  in 1816 over the total number of girls aged 6‐14. Its geographical pattern is shown  in Figure 2. We shall then consider female enrolment rates in 1816 as a proxy for  the level of education of future mothers.   
+As  our  measure  of  fertility,  we  would  ideally  like  to  have  the  number  of  children  of  the  women  who  were  enrolled  in  primary  schools  in  1816.  Unfortunately, we cannot observe fertility for exactly these cohorts. But we have  detailed population censuses that allow us to link the number of children in 1867  with female education levels in 1816.4 Thus, as fertility measure we use the child‐ woman ratio constructed as the number of children aged 10‐19 over the number of  women aged 40‐69 in 1867, depicted in Figure 3.5 We use the number of children  aged 10‐19 because this age group contains, amongst others, those children who  were born in 1849—the year for which we observe most of the demand and supply  factors  entering  our  regressions,  discussed  in  greater  detail  in  the  next  section.  Most importantly, cross‐county differences in this age group are  expected  to  mirror differences in fertility and, in particular, in family size.  The  number  of  women  aged  40‐69  in  1867—the  denominator of our child‐woman ratio—is  expected to capture the female cohorts who were in school in 1816. In fact, women  between ages 40‐69 in 1867 were aged 22‐51 in 1849 and aged 0‐18 in 1816.   
+In sum, variation across counties of the child‐woman ratio in 1867 is expected  to capture variation in fertility of mothers (i) with an educational level proxied by  the female enrolment rates in primary school in 1816, and (ii) whose demand and  supply  factors  are  captured  by  our  set  of  control  variables  for  1849.  Figure  4  
+                                                         
+4 Since we also have the female enrolment rates in 1849, we can proxy  the  female  enrolment rates in 1832 by interpolating the rates in 1816 and 1849. In this way, those  enrolled  in  primary  school  in  1832  (aged  6‐14)  would  be  23‐31  in  1849  and  41‐49  in  1867.  All  results  provided  in  the  following  analysis  hold  when  using  the  1832  approximation.  
+5 We use data from 1867 and not earlier because that is the first  year  in  which  the  population census uses detailed age categories.  
+6  
+
+========8========
+
+shows  the  relationship  between  our  two  variables  of  interest:  female  enrolment  rate in 1816 and the child‐woman ration in 1867.6  
+Since the denominator of the child‐woman ratio contains women of a relatively  old  age  given  the  period  considered  here,  female  mortality  is  a crucial issue.  According to our data, average female life expectancy at age 25 in 1849 was 58.7  (standard deviation  4.4).  In  general,  there is  a  positive relationship  between life  expectancy and education. In our case, the correlation coefficient between female  primary  school  enrolment  rate  in  1816  and  life  expectancy  at  age 25 in 1849 is  0.35.  That  is,  women  with  a  formal  education  were  more  likely  to  live  longer,  which  means  that  they  are  over‐represented  in  our  child‐woman  ratio  in  1867.  Assuming  a  negative  relationship  between  female  education  and  fertility,  that  would  bias  our  estimates  toward  more  negative  estimates.  Additionally,  women  giving birth to more children were more likely to die in childbirth, which would  also affect our dependent variable. The 1849 census contains information on the  number of women who died at child birth, which allows us to construct a maternal  mortality ratio.7 Our data show that around 0.8 mothers died for every 100 live  births.8 We can show that controlling for female life expectancy at age 25 and for  the maternal mortality ratio does not affect our findings. In addition,  we  also  provide evidence that our results do not change in alternative specifications of the  dependent variable that aim to alleviate the issue of female mortality.  
+Prussian census data do not provide detailed information on age at marriage.  Yet, the 1849 census reports the (flow) number of marriages in 1849 by three age  categories: women younger than 30, between 30 and 45, and older than 45.9 Our  
+                                                         
+6  Another  important  assumption  here  is  that  between  1849  and  1857,  counties  did  not  change systematically their age at marriage pattern. In fact, the children aged 10‐19 we  observe in 1867 are also the product of marriages, not observed, that occurred between  1850  and  1857.  Systematic  changes  in  the  pattern  of  age  at  marriage  across  counties  during this period would affect our coefficient estimate. However, there is no evidence of  systematic changes in age at marriage in such a short period of time.  
+7 The maternal mortality ratio is defined as the ratio of the number of maternal deaths per  100 live births.  
+8 To provide an order of magnitude, according to the United Nations  Population  Fund  (UNFPA), in 2005 the maternal mortality ratio for developing countries  was  450  per  100,000 live births.  
+9 The same categorization is available also for men.  
+7  
+
+========9========
+
+measure for age at marriage is constructed as the share of women who married  when older than 30. The variable is thus bounded between zero and one. A value of  the  variable  close  to  one  (zero)  indicates  a  tendency  to  marry later  (earlier).10  According to our data, on average, around 23 percent of the marriages  in  1849  involved a woman above the age of 30. Table 1, which presents descriptive  statistics for all our variables, shows that this variable presents  considerable  variation with levels ranging from about 0.09 to 0.46.  
+We also have a variable for the share of married women in 1849 computed as  the  ratio  of  women  in  wedlock  over the total number of women aged  15‐45.  According to this variable, about 70 percent of the women lived in a marriage (s.d.  0.06), with the variable ranging from a minimum of 0.43 to a maximum  of 0.85.  This variable shall be used as a proxy for the nuptiality rate. It is interesting to note  that there is a negative correlation between age at marriage and the stock share of  
+married women (ρ= −0.38). This suggests that in those counties where the average  age at marriage was higher the celibacy rate was also relatively high.  
+5. A supply-demand framework to study fertility  
+Easterlin  and  Crimmins  (1985)  suggest  that  the  number  of  children born in a  family is determined by three sets of factors: the demand for children, the supply  of children, and the cost of fertility regulation. We shall also use this theoretical  framework  when  choosing  the  covariates  of  our  regression  analysis and for the  interpretation of the results. The merit of such a supply‐demand  approach  is  to  overcome the dichotomy between economic (adjustment) and cultural  (innovation)  factors  that  characterizes  the  literature  on  the  demographic  transition (Friedlander, Okun, and Segal, 1999).  
+The demand for children depends on family income and the relative  cost  of  children.  If  we  consider  children  as  normal  goods,  we  expect  to  find  a  positive  
+                                                         
+10 Remarriage might be an issue here, as we only observe the number of marriages at one  point in time (in 1849) and do not know whether it is a first marriage. In fact, we know  that  remarriage  rates  were  not  a trivial number. Knodel (1974) reports  a  share  of  remarriages  between  15  and  25  percent  of  all  the  marriages  and that  men  were  more  likely  to  remarry  than  women.  However,  as  long  as  remarriage  rates  do  not  differ  systematically across counties, that should not affect our analysis.  
+8  
+
+========10========
+
+effect of income on fertility. We do not have a direct measure for income, but we  can control for the industrialization level (and urbanization), which is generally a  good proxy for the income level. In particular, we use the share of the population  employed in manufacturing.  
+Recently, unified growth theory11 extensively uses the concept of the quantity‐ quality trade‐off of children to model the demographic transition and consequently  the transition from stagnation to growth.12 The theory argues that, as returns to  education  increased  due  to  technological  developments,  families  shifted  their  preferences toward higher quality of children, which eventually affected negatively  the demand for children. We take into account parental tastes for the education of  their children, and therefore the child quantity‐quality trade‐off, by controlling for  the level of education in 1864.  
+It has been shown that employment opportunities for women outside  agriculture—the opportunity cost of a child—significantly influence fertility levels.  Assuming  that  the  time  devoted  to  child  rearing  cannot  be  spent in the labor  market, better employment opportunities for women should be negatively related  to fertility. We include two variables to proxy for employment opportunities  for  women outside agriculture: (i) the ratio of individuals employed in textile factories  over the number of women (15‐60) and (ii) the share of individuals employed as  craftsmen in the textile sector in 1849.13  
+Easterlin and Crimmins (1985) define the supply of children as the number of  surviving children a couple would get if they made no conscious efforts to limit the  size of the family. It therefore reflects natural fertility and child survival rates. To  take  into  account  these  factors,  in  our  regression  analysis  we control  for  age  at  marriage  and  child  mortality  (0‐5).  We  expect  age  at  marriage  to  be  negatively  correlated with fertility, as later age at marriage implies a shorter  duration  of  marriage. In addition, lower child mortality is expected to be negatively correlated  with total fertility as lower child mortality allowed families to be more effective in  
+                                                         
+11 See Galor (2005) for an exhaustive review of the theory.  
+12 See Becker and Lewis (1973) and Becker and Tomes (1976) for the  seminal  contributions on the quantity‐quality trade‐off of children.  
+13 Unfortunately, the 1849 census does not provide gender‐specific employment figures.  
+9  
+
+========11========
+
+reaching the desired number of children and reduced any hoarding effect (Doepke,  2005).  Finally,  we  also  control  for  religion  in  order  to  account  for  cultural  differences that may have contributed to the spread of new attitudes  towards  fertility control procedures.14  
+6. Regression analysis  
+We start our empirical analysis by estimating the relationship between women’s  formal education and fertility by standard ordinary least squares (OLS) controlling  for variables such as women’s age at marriage, employment opportunities outside  agriculture, and preference for child quality. More formally:  
+  
+fertilityi 
+,1867 
+= ai 
++ β edui,1816 
++ 
+Xi,1849 
+λ + 
+Zi,1849 
+γ 
++εi (1)  
+where fertility is the ratio of youths aged 10‐19 over the number of women 40‐69  
+in 1867, edu is the share of girls (6‐14) enrolled in primary school in 1816, β the  parameter  of  interest,  X and Z  respectively  a  vector  of  demand  and  supply  variables for 1849, and the subscript i=1, 2, …, 334 indicates the county (Kreis).  
+Standard economic models and empirical evidence suggest that mothers with  higher level of education get married later, have higher employment opportunities,  have a higher relative wage, have a relatively stronger preference for child quality,  and have higher consumption aspirations. All these factors, in turn, are expected to  lower the demand for children. We therefore expect the effect of women’s formal  education on fertility to be reduced substantially by these intervening factors.  
+6.1  Women’s education and fertility   
+Table  2  reports  the  OLS  estimates  of  equation  (1).  We  present  various  specifications that sequentially introduce more control variables in order to study  how  the  effect  of  women’s  education  changes  when  adding  further  intervening  factors. Note that the model includes also enrolment rates in 1864 to account for  the revealed preference of parents for their children’s education, i.e. the quantity‐ quality trade‐off of children. In addition, we also control for the maternal mortality  
+                                                         
+14 See Coale and Watkins (1986) on the conclusions of the Princeton Fertility Project.  
+10  
+
+========12========
+
+ratio in 1849 to correct for differentials in female mortality that could affect the  denominator of our dependent variable.15   
+Column 1 shows the strong negative correlation of women’s formal education  with fertility. An increase in the female enrolment rate in 1816 by 10 percentage  points is associated with a decrease of around 6 children per 100 women in 1867.  This effect is very large, as it implies that a one standard deviation increase in the  enrolment  rate  is  associated  with  a  decrease  of  the  child‐woman ratio of about  0.44 standard deviations. This strong correlation is corroborated by the high level  of explained variance already in the bivariate specification of column 1, which  implies  that  female  schooling  levels  in  1816  explain  around  20  percent  of  the  cross‐county variation in the child‐woman ratio in 1867.  
+The coefficient remains significant and of similar magnitude when controlling  for  urbanization,  industrialization,  religion,  and  the  marriage rate (column 2).  Column 3 shows that employment opportunities for women outside agriculture  have  a  strong  negative  effect  on  fertility.  In  particular,  employment  levels  of  craftsmen in the textile sector are strongly negatively correlated with fertility. The  possibility to earn a (higher) wage increases the opportunity cost of children and  therefore depresses the demand for children. Our result is in line with the study of  Schultz (1985) who, using county‐level data for Sweden, reports a negative effect  of higher female relative wages on fertility.16 Yet, the effect of women’s education  maintains its magnitude and significance in the specification of column 3.  
+Similarly, women’s age at marriage has a significant negative effect on fertility  (column 4). The remarkable increase of the explained variance in this specification  
+                                                         
+15  Given  the  relatively  strong  correlation  with  maternal  mortality, the coefficient for  female life expectancy at age 25 is never statistically significant, which is why we control  only for maternal mortality.  
+16 Employment opportunities in the textile sector might also capture  child  employment  opportunities, which would have a positive effect on fertility.  We  are  not  aware  of  any  estimate  of  child  labor  in  Prussia  for  the  period  under  consideration.  However,  the  Prussian Child Labor Law was passed in 1839, setting a minimum age of nine for children  working in factories. The minimum age was increased to twelve years in 1853. Therefore,  the period under investigation is likely characterized by declining rates of child labor. This  is also witnessed by the increasing  enrolment  rates  in  primary school  that  reached  the  average value of 80 percent in 1849. This would support the argument of an increasing  relative cost of children.  
+11  
+
+========13========
+
+stresses  the  importance  of  age  at  marriage  in  explaining  fertility  variation.  This  does not have to mean that age at marriage was deliberately used to limit fertility.  Generally, the theory assumes that age at marriage is exogenous to the decision on  deliberate fertility control (Easterlin and Crimmins, 1985). Yet, to the extent that  education  and  age  at  marriage  are  correlated,  it  is  important  to  control  for  women’s age at marriage to isolate the effect of women’s education  on  fertility.  Still, controlling for age at marriage the coefficient for women’s education remains  large and highly significant.  
+Educated mothers are likely to have stronger preference for the education of  their children. Therefore, the estimated effect of women’s education might simply  reflect  such  a  preference  for  quality to the detriment of quantity. There is also  evidence  showing  that  investment  in  children  in  the  form  of  education  was  complementary to investment in better nutrition (Weir, 1993; Hatton and Martin,  2009). To account for the child quantity‐quality trade‐off, column 5 controls for the  primary school enrolment rates in 1864. Enrolment levels in 1864 indeed have a  significant negative impact on realized fertility. Most important, controlling for the  quantity‐quality  trade‐off  reduces  the  effect  of  female  education  by  almost  30  percent.17 This result is consistent with the hypothesis that mothers with a formal  education tend to have a higher preference for child quality.  
+There is a large theoretical and empirical literature stressing the importance of  child mortality in explaining fertility restraint (Crafts, 1989; Boyer1989).18 Column  6  therefore  introduces  a  control for child mortality (age 0‐5) in  1849.  Unexpectedly,  the  sign  of  the  coefficient  is  negative,  which  becomes  even  larger  when  controlling  for  maternal  mortality  in  column  7.19  This  result  is  actually  common to other studies (e.g., Brown and Guinnane, 2002; Galloway, Hammel, and  Lee, 1994).  
+                                                         
+17 Similarly to other studies, we also used the number of school teachers per capita as an  indicator for preferences for child quality. The results are qualitatively the same. Yet, we  view the number of children attending school in 1864 as a superior measure for the child  quantity‐quality trade‐off.  
+18 By contrast, the European Fertility Project concluded that the infant mortality rate did  not play a major role in the European fertility decline (van de Walle, 1986).  
+19 The negative effect persists also when we use the infant mortality rate or mortality rates  for different ages.  
+12  
+
+========14========
+
+Finally,  column  7  introduces  a  control  for  maternal  mortality  to  account  for  differential  mortality  levels  that  might  affect  the  number  of  women  in  the  denominator of our dependent variable. Clearly, this variable is endogenous to the  child‐woman ratio, as a higher number of births increases the probability of dying  at childbirth, which may explain the significant positive coefficient of this variable.  However, even after controlling for maternal mortality, the effect  of  women’s  education remains unaltered.   
+In sum, we find that women’s age at marriage, employment opportunities for  women  outside  agriculture,  and  the  quantity‐quality  trade‐off  of  children  have,  respectively,  a  strong  impact  on  realized  fertility  before  the  demographic  transition in Prussia. Yet, even after controlling for these factors,  we  find  that  women’s formal education has a significant  negative  residual  effect  on  fertility.  This effect is economically non‐trivial: in the most encompassing specification of  column 7, a one standard deviation increase in the female enrolment rate in 1816  is  associated  with  a  decrease  of  the  child‐woman  ratio  in  1867  of  about  0.3  standard deviations.  
+6.2 Robustness checks  
+Table 3 presents a series of additional robustness checks. Column 1 introduces a  control for population density. The coefficient of our variable of interest remains  unaffected and the explanatory power of the model does not improve significantly.  
+As our analysis links information from three different censuses,  systematic  differences across counties in migration patterns may constitute a problem. In fact,  migration generally concerned young, single males (Boyer and Williamson, 1989).  Therefore, if parents considered children as assets for their old‐age period, higher  out‐migration  rates  might  be  negatively  correlated  with  fertility.  By  contrast,  a  positive balance of immigrants might negatively affect fertility as migrants tended  to get married later.20 Column 2 introduces a measure for net migration.  Unfortunately, we only have detailed data on migration for the last two decades of  the  nineteenth  century.  Thus,  we  use  net  migration  in  1880,  constructed  as  the                                                           
+20 In fact, there is a slightly positive correlation between age at marriage and our variable  for net migration in 1880 (ρ=0.12).  
+13  
+
+========15========
+
+difference  between  immigrants  and  emigrants  over  the  reference population  (in  1000).21 We find that counties with a higher net migration, and thus with relatively  more immigrants than emigrants, tend to have lower fertility. Yet, our coefficient of  interest remains unaffected in its magnitude and significance.  
+Recently,  Alesina,  Giuliano,  and  Nunn  (2010)  suggested  that,  consistent  with  the existing anthropological evidence, in societies with a traditional use of animal  plough agriculture the division of labor is split along gender lines,  with  men  working  outside  of  the  home  in  agriculture  and  industry,  and  women  working  within  the  home.  The  idea  is  that  animal  plough  agriculture  was  heavier  work,  more suited for men, and that such cultures persisted over time. In column 3, we  follow this line of thought and control for cattle per woman as a measure of the  type of agriculture prevalent in an area. This control turns out not to be significant.  
+Figures 2 and 3 suggest that geographical clustering could be an issue as, for  instance, there is higher fertility in the East. Cultural and institutional factors are  likely to be behind such geographical  stratification.  Column  4 adds  measures  of  latitude and longitude (in radians) in order to test whether the  estimated  association between women’s education and fertility holds independently of broad  geographic patterns. We find that higher latitude is associated with higher fertility,  whereas  higher  longitude  is  associated  with  lower  fertility.  These  geographical  controls,  especially  latitude,  have  a  large  effect  on  fertility.  Further,  they  significantly  reduce  the  effect of  female  education,  as  a  one‐standard  deviation  increase in the female enrolment rate in 1816 is now associated with a decrease of  the child‐woman ratio in 1867 by about 0.2 standard deviations. However, though  smaller, the negative effect of women’s formal education on realized fertility is still  highly statistically and economically significant.22  
+Finally, column 5 presents estimates using a different variable for employment  opportunities  for  women  outside  agriculture.  Contrary  to  1849,  for  1867  we  
+                                                         
+21 We could also use net migration for the year 1862 but this variable is less precise as,  contrary to 1880, it does not consider unofficial emigrants. However, estimates using net  migration in 1862 are virtually identical.  
+22 We further investigated the effect of geographical clustering by estimating models that  explicitly take into account spatial autocorrelation. Our findings (not reported) are robust  in spatial lag and spatial error models (see Anselin, 1988 and Anselin and Hudak, 1992).  
+14  
+
+========16========
+
+observe the share of women employed in industry. Clearly, this is a better variable  for  employment  opportunities  for  women  outside  agriculture,  as  it  takes  into  consideration  the  actual  industrial  female  labor  force;  on  the  other  hand,  this  variable is observed only when the decision about fertility has already been taken.  As expected, we find a strong negative effect of the female employment variables  for 1867, but the coefficient for women’s education is still highly significant.  
+In some studies, female literacy has been interpreted as a proxy for knowledge  of contraception methods (Boyer and Williamson, 1989). Therefore, one could  argue that the estimated effect of mothers’ education on fertility is capturing, to  some extent, the relationship between contraception and fertility. In order to test  this hypothesis, we used changes in illegitimacy rates as a proxy for the use of  contraceptive  methods  (Shorter,  Knodel,  and  van de  Walle,  1971). In fact, as  argued  by  Boyer  and  Williamson  (1989)  and  Crafts  (1984),  cross‐sectional  differences in illegitimacy rates mirror not only the use of contraceptives but also,  for  instance,  the  extent  of  non‐marital  sexual  activity.  Thus,  we  test  whether  controlling  for  changes  in  illegitimacy  rates  in  the  period  1849‐1862  affects  the  estimated  effect  of  women’s  education.  We  find  that  the  coefficient for women’s  education remains unchanged both in its magnitude and significance.23  
+7. Instrumental-variable results  
+So far, our estimates have shown a robust association between women’s education  and fertility. However, our results do not necessarily show a causal relationship, as  the existence of unobserved county‐specific variables that are correlated with both  women’s education and fertility could bias the estimates. Therefore, we adopt an  instrumental‐variable (IV) approach which uses exogenous variation in enrolment  rates  to  estimate  its  causal  effect  on  realized  fertility.  In  particular,  we  use  landownership inequality in 1816 as an instrument for women’s enrolment rates  in primary schools.  
+The  idea  of  using  educational  variation  that  derives  from  landownership  inequality  builds  on  Galor,  Moav,  and  Vollrath  (2009)  who  present a theoretical  
+                                                         
+23 Estimates not reported here but available upon request.  
+15  
+
+========17========
+
+model where inequality in the distribution of landownership negatively affects the  implementation  of  human‐capital‐promoting  institutions.  This  is due to the low  complementarities  between  land  and  human  capital.  The  authors  provide  empirical  evidence  for  the  United  States  in  the  twentieth  century  corroborating  their  prediction.24  In  the  case  of  Prussia,  there  is  substantial  anecdotal  evidence  that noble landowners (Junker) opposed the construction of rural schools or did  not monitor the enforcement of school attendance (Melton, 1988).  
+For their U.S. evidence, Galor, Moav, and Vollrath (2009) use the share of land  held by large landowners. In Prussia, the 1816 census provides information on the  number of land holdings grouped in three categories: 0‐15, 15‐300, or greater than  300 Morgen.25 This allows us to construct an index of landownership inequality as  the ratio of the largest land holdings over the total number of holdings.26  
+The  exclusion  restriction  for  the  validity  of  the  IV  estimates  is  that  landownership inequality in 1816 is not directly related to later fertility outcomes.  Bengtsson and Dribe (2006) show that total marital fertility, as well as age‐specific  marital  fertility,  is  very  similar  across  socioeconomic  groups  with  different  landownership  patterns  in  pre‐transition  Sweden.  By  contrast,  Brown  and  Guinnane (2002) find that in rural Bavaria farm size is negatively correlated with  marital  fertility.  However,  it  is  important  to  note  that  both  studies  analyze  the  effect of farm size and do not investigate the role of inequality in the distribution of  land,  which  is  the  relevant  measure  of  our  identification  strategy.  In  our  case,  though the landed nobility had discretional power regarding the  marriages  of  laborers,  it  seems  unlikely  that,  once  the  concession  to  marry was  granted,  the  landowner  could  influence  the  level  of  marital  fertility.  Therefore,  to  the  extent  that we control for the age at marriage and for the share of married couples, the                                                           
+24 Easterly (2007) also provides cross‐country evidence on the adverse effect of inequality  on human capital formation and economic development.  
+25 One Morgen is equal to about 0.25 hectares. For counties whose information  on  landownership  in  1816  cannot  be  directly  matched  with  the  1849  borders  due  to  administrative reforms of the county structure (see data appendix), we use information on  landownership  inequality  in  1849.  If,  alternatively,  we  adjust  all  our  variables  to  the  county  borders  in  force  in  1816,  qualitative  results  on  the  ensuing  267‐observation  sample are qualitatively the same (available on request).  
+26 Becker, Cinnirella, and Woessmann (2010) use variation in landownership inequality in  1849 in order to identify exogenous variation in enrolment rates in 1849.  
+16  
+
+========18========
+
+exclusion  restriction  should  hold.  Furthermore,  even  if  we  suppose  that  landownership inequality in 1816 had a direct effect on fertility, that would affect  fertility in 1816, which is a variable we include in our regression. In fact, our IV  regressions  include  the  child‐woman  ratio  in  1816  constructed  as  the  ratio  of  children aged 0‐7 over the number of women aged 15‐45 in 1816.  
+Table 4 starts with OLS estimates of this specification, which are very similar to  our  previous  results.  Columns  2  and  3  then  report  the  first  and  second  stage,  respectively,  of  our  IV  regression.  The  first‐stage  results  reveal  a  significant  negative relationship between landownership inequality and the female enrolment  rates in 1816. The F‐statistic  of  the  excluded  instrument  in  the  first  stage  is  reassuringly  high,  at  21.2.  The  second‐stage  estimates  confirm  the  significantly  negative effect of women’s education on their fertility from the OLS regressions,  with a point estimate that is notably larger.   
+Table 5 presents alternative estimates to show that our findings are not driven  by  selective  mortality,  which  would  affect  the  dependent  variable.  In  column  1,  instead of having the number of women aged 40‐69 in 1867 as the denominator of  the dependent variable, we use the number of households in 1867. The idea is that  the  household  might  continue  to  exist  even  if  the  mother  died,  so  that  female  mortality  does  not  bias  our  dependent  variable.  A  drawback  of  this  alternative  measure is that we cannot refer to a precise female age group. Column 2 uses as  the dependent variable the ratio of children aged 0‐14 over the number of women  aged 17‐45 in 1849, again meant to capture the girls enrolled in 1816. Given the  younger  age  group  observed  in  1849  in  the  denominator,  the  issue  of  women  mortality is less severe than in the standard specification. In  both  cases,  the  coefficient for female enrolment in 1816 is highly significant and of similar size.  
+8. Discussion  
+Our estimates imply that women’s education has a significant negative  effect  on  realized fertility, independently of the fact that more educated women tend to get  married later, have more employment opportunities outside agriculture, and have  a  stronger  preference  for  the  education of their children. Instrumental‐variable  estimates suggest that this effect is causal. This result is important in its own right,  
+17  
+
+========19========
+
+as it sheds light on a determinant of fertility decline, namely women’s education,  that has been largely neglected in the historical literature.  
+This finding opens up the question about the mechanism that is driving  the  negative  relationship  between  women’s  education  and  fertility.  Easterlin  and  Crimmins (1985) discuss the various effects that formal education might have on  fertility control. On the one hand, formal education improves health conditions, so  that it can have a positive effect on fertility by enhancing the potential supply of  children. On the other hand, education lowers the costs of fertility regulation by  providing more information about the means of fertility control. Following Crafts  (1984)  and  Boyer  and  Williamson  (1989),  we  used  variation  over  time  in  illegitimacy  rates  as  a  proxy  for  the  use  of  contraceptive  methods. The effect of  women’s  education  remained  highly  significant,  both  economically  and  statistically. Though far from conclusive, this suggests that female education is not  (only) capturing better access to information about contraception.27 Furthermore,  estimates  of  spatial  lag  models  that  explicitly  take  into  account  spatial  autocorrelation seem to rule out any local spillover explanation,  as  the  negative  relationship between mothers’ education and fertility holds also when controlling  for the level of fertility of neighboring counties.28  
+A more plausible explanation for our residual effect of women’s education  regards the female relative wage. It is hypothesized that an increasing female wage  relative  to  that  of  men  increased  the  opportunity  cost  of  children  and  therefore  reduced  fertility.  Such  a  trend  in  the  relative  wage  of  females might have been  induced by increasing levels of women’s education. In fact, Dribe (2009) finds for  Sweden  that  increasing  female  relative  wages  were  associated  with  declining  fertility among women over 35. This result is consistent with Schultz (1985) who  finds that a quarter of the decline in the Swedish total fertility rate from 1850 to  1910 can be explained by the 10 percent rise in the female to male wage ratio. In  our regression analysis, we do not have a direct measure for the female relative  
+                                                         
+27 In addition, there is some evidence according to which methods of fertility control were  known and available at a reasonable cost; see for example Bengtsson and Dribe (2006) on  the case of Sweden.  
+28 Estimates of the spatial lag model are available upon request.  
+18  
+
+========20========
+
+wage, but only control for employment opportunities outside agriculture. Yet, we  have the number of manual workers by gender, which allows us to construct the  ratio  of  female  over  male  manual  workers  for  1849.  A  larger  number  of  female  handworkers could proxy for a higher female relative wage. Indeed, the coefficient  on this ratio in the instrumental‐variable specification is negative,  though  insignificant,  which  is  consistent  with  the  negative  effect  on fertility  of  a  higher  female  relative  wage.29 The effect of women’s education, however, is virtually  unaffected. Therefore, although we cannot directly reject the hypothesis that our  estimated  effect  of  women’s  education  captures  to  some  extent  the effect of a  higher female relative wage, our IV strategy and the additional control variables  mitigate the concern of an omitted‐variables problem. 30   
+Another  possible  explanation,  which  has  received  little  attention  in  the  literature, is the availability of new consumption goods. Standard economic theory  assumes that children are normal goods and that consumption goods and children  are  gross  substitutes.  In  a  recent  paper,  Guzman  and  Weisdorf  (2010)  formally  show how an increase in consumption goods variety may depress the demand for  children. Under certain assumptions, the introduction of new consumer goods to  markets can have the effect of turning tastes away from children,  toward  consumption  of  previously  unavailable  items.  In  our  case,  formal  education  may  operate by shifting preferences from children to consumption goods as educated  women  develop  higher  (or  different)  consumption  aspirations  (de Vries,  2008;  Leibenstein,  1975;  Easterlin  and  Crimmins,  1985).31  Knodel  (1974,  p.  127),  analyzing  the  decline  of  fertility  in  Germany,  argues  that  "improvements  in  the  standard of living were supposed to instill mobility aspirations as well as desires  for even greater material wealth and the limitation of family size was seen as one  way to realize these goals". Clearly, an empirical test of this "change of                                                           
+29 Estimates not presented here but available upon request.  
+30 We also included the land‐labor ratio to additionally control for the economic structure  of the county. The effect of women’s education remained unaffected.   
+31 Ogilvie (2010) argues that before 1800, the industrious and consumer revolutions were  held  back  in  continental  Europe  largely  due  to  the  influence  of guilds. The Stein‐ Hardenberg  Reforms  in  the  first  decade  of  the  nineteenth  century  abolished,  amongst  others,  guild  restrictions  and  thus  removed  important  obstacles for the consumer  revolution.  
+19  
+
+========21========
+
+preferences"  hypothesis  is  hard  to  implement  with  county‐level  data.  Data  on  consumption  patterns  at  a  disaggregated  level  are  very  scarce  and  therefore  a  thorough test of this hypothesis is at the moment not possible. Nevertheless, the  study  of  the  relationship  between  higher  levels  of  education  and  consumption  patterns deserves further research.  
+9. Conclusion  
+A growing theoretical and empirical literature views the industrial revolution and  the demographic transition in a unified framework. In particular, scholars try to  understand  the  interrelationships  between  factors  that  characterized  the  industrial revolution and those that triggered the demographic transition.  
+In this paper, we contribute to this literature by shedding light  on  the  relationship  between  women’s  formal  education,  measured  in  terms  of  school  enrolment rates, and their fertility. Linking county‐level data from three different  censuses, we show that increases in women’s education played a substantial role  in  reducing  fertility  already  before  the  demographic  transition in Prussia. Least‐ squares estimates show that an increase of girls' enrolment rates by one standard  deviation  is  associated  with  a  decrease  in  realized  fertility  between 0.2 and 0.3  standard deviations. This effect is net of factors such as later age at marriage and  better employment opportunities for women outside agriculture.  
+Previous research has shown to what extent the quantity‐quality trade‐off of  children affected fertility levels in Prussia. In line with those results, our estimates  suggest that mothers with a formal education have stronger preferences  for  the  education of their children. In fact, once we control for the child quantity‐quality  trade‐off, the effect of women’s education on their fertility is reduced by almost 30  percent. However, even after controlling for classical fertility demand and supply  factors, we find a robust residual effect of women's education on their fertility.  
+In order to discard possible biases coming from unobserved heterogeneity, we  adopt an instrumental‐variable approach. We use exogenous variation  in  enrolment  rates  driven  by  landownership  inequality  in  1816.  Inequality  in  the  distribution  of  land  negatively  affects  the  implementation  of  human‐capital‐ promoting institutions given the low complementarities between agriculture and  
+20  
+
+========22========
+
+education. The instrumental‐variable estimates suggest that female education has  indeed a causal negative effect on fertility.  
+This  result  is  important  in  its  own  right  as  it  quantifies  the role  of  women’s  education in reducing fertility, a factor that has so far been widely neglected in the  analysis of historical fertility patterns. It also provides another link through which  the industrial revolution, by increasing the demand for educated labor, may have  subsequently triggered the demographic transition. In addition, our finding opens  up an intriguing question, namely on the mechanism that is at work  behind  the  inverse relationship between women’s education and realized fertility.  
+21  
+
+========23========
+
+References  
+ALESINA,  A.,  P.  GIULIANO,  AND  N.  NUNN  (2010):  "On  the  Origins  of  Gender  Roles:  
+Women and the Plough," Harvard University, working paper.  
+ANSELIN, L.  (1988): Spatial Econometrics: Methods and Models.  Kluwer  Acedemic  
+Publishers.  
+ANSELIN, L., AND S. HUDAK  (1992):  “Spatial  Econometrics  in  Practice:  A  Review  of  
+Software Options,” Regional Science and Urban Economics, 22(3), 509–536.  BECKER, G. S., AND H. G. LEWIS (1973): “On the Interaction between the Quantity and  
+Quality of Children,” Journal of Political Economy, 81(2), S279–88.  
+BECKER, G. S., AND N. TOMES (1976): “Child Endowments and the Quantity and Quality  
+of Children,” Journal of Political Economy, 84(4), S143–S162.  
+BECKER, S. O., F. CINNIRELLA, AND L. WOESSMANN (2011): “The Effect of Investment in  
+Children’s Education on Fertility in 1816 Prussia,” Cliometrica, forthcoming.  BECKER,  S. O.,  F. CINNIRELLA,  AND  L. WOESSMANN  (2010):  “The  Trade‐off  between  
+Fertility  and  Education:  Evidence  from  before  the  Demographic  Transition,”  
+Journal of Economic Growth, 15(3), 177‐204.  
+BENGTSSON,  T.,  AND  M. DRIBE  (2006):  “Deliberate  Control  in  a  Natural  Fertility  
+Population: Southern Sweden, 1766‐1864,” Demography, 43(4), 727–746.  BLACK, S. E., P. J. DEVEREUX, AND K. G. SALVANES (2008): “Staying in the Classroom and  
+Out of the Maternity Ward? The Effect of Compulsory Schooling Laws  on  
+Teenage Births,” Economic Journal, 118(530), 1025–1054.  
+BOYER, G. R., AND J. G. WILLIAMSON (1989): “A Quantitative Assessment of the Fertility  
+Transition in England, 1851‐1911,” Research in Economic History, 12, 93–117.  BREIEROVA, L., AND E. DUFLO (2004): “The Impact of Education on Fertility and Child  
+Mortality:  Do  Fathers  Really  Matter  Less  Than  Mothers?,”  NBER  Working  
+Paper No. 10513.  
+BROWN, J. C., AND T. W. GUINNANE  (2002):  “Fertility  Transition  in  a  Rural,  Catholic  
+Population: Bavaria, 1880‐1910,” Population Studies, 56(1), 35–49.  
+BROWN,  J. C.,  AND  T. W.  GUINNANE  (2007):  “Regions  and  Time  in  the  European  
+Fertility  Transition:  Problems  in  the  Princeton  Project’s  Statistical  
+Methodology,” Economic History Review, 60(3), 574–595.  
+22  
+
+========24========
+
+CERVELLATI, M., AND U. SUNDE  (2005):  “Human  Capital  Formation,  Life  Expectancy,  
+and  the  Process  of  Development,” American Economic Review,  95(5),  1653– 
+1672.  
+COALE, A. J., AND S. C. WATKINS (1986): The Decline of Fertility in Europe. Princeton  
+University Press.  
+COCHRANE, S. H.  (1979): Fertility and Education: What Do We Really Know? Johns  
+Hopkins Press, Baltimore.  
+CRAFTS, N. F. R. (1984): “A Cross‐Sectional Study of Legitimate Fertility in England  
+and Wales, 1911,” Research in Economic History, 9, 89–107.  
+CRAFTS, N. F. R. (1989): “Duration of Marriage, Fertility and Women’s Employment  
+Opportunities in England and Wales in 1911,” Population Studies, 43(2), 325– 
+335.  
+CURRIE, J.  AND E. MORETTI  (2003):  “Mother’s  Education  and  the  Intergenerational  
+Transmission of Human Capital: Evidence from College Openings,” Quarterly  
+Journal of Economics, 118(4), 1495–1532.  
+DE VRIES,  J.  (2008):  The  Industrious  Revolution:  Consumer  Behavior  and  the  
+Household Economy, 1650 to the Present. Cambridge University Press.  DOEPKE, M.  (2005):  “Child  Mortality  and  Fertility  Decline:  Does  the  Barro‐Becker  
+Model Fit the Facts? ,” Journal of Population Economics, 18(2), 337–366.  DRIBE,  M.  (2009):  “Demand  and  Supply  Factors  in  the  Fertility  Transition:  A  
+County‐level Analysis of Age‐specific Marital Fertility in Sweden, 1880‐1930,”  
+European Review of Economic History, 13(1), 65–94.  
+EASTERLIN,  R. A.,  AND  E. M.  CRIMMINS  (1985):  The  Fertility  Revolution:  A  Supply­ 
+Demand Analysis. The University of Chicago Press.  
+EASTERLY, W.  (2007):  “Inequality  Does  Cause  Underdevelopment:  Insights  from  a  
+New Instrument,” Journal of Economic Development, 84(2), 755‐776.  FRIEDLANDER, D., B. S. OKUN, AND S. SEGAL (1999): “The Demographic Transition Then  
+and  Now:  Processes,  Perspectives,  and  Analyses,” Journal of Family History,  
+24(4), 493–533.  
+GALLOWAY,  P. R.,  E. A.  HAMMEL,  AND  R. D.  LEE  (1994):  “Fertility  Decline  in  Prussia,  
+1875‐1910: A Pooled Cross‐Section Time Series Analysis,” Population Studies,  
+48(1), 135–158.  
+23  
+
+========25========
+
+GALLOWAY, PATRICK, R., D. LEE, RONALD, AND E. A. HAMMEL (1998): “Urban versus Rural:  
+Fertility  Decline  in  the  Cities and  Rural  Districts  of  Prussia,  1875  to  1910,”  
+European Journal of Population, 14(3), 209–264.  
+GALOR, O.  (2005):  “The  Demographic  Transition  and  the  Emergence  of  Sustained  
+Economic Growth,” Journal of the European  Economic Association , 3(2-3), 494–504.  GALOR, O., AND O. MOAV (2006): “Das Human‐Kapital: A Theory of the Demise of the  
+Class Structure,” Review of Economic Studies, 73(1), 85–117.  
+GALOR,  O.,  O. MOAV,  AND  D. VOLLRATH  (2009):  “Inequality  in  Land  Ownership,  the  
+Emergence  of  Human‐Capital  Promoting  Institutions  and  the  Great  
+Divergence,” Review of Economic Studies, 76(1), 143–179.  
+GALOR, O., AND D. N. WEIL (1999): “From Malthusian Stagnation to Modern Growth,”  
+American Economic Review, 89(2), 150–154.  
+GALOR,  O.,  AND  D. N.  WEIL  (2000):  “Population,  Technology,  and  Growth:  From  
+Malthusian Stagnation to the Demographic Transition and Beyond,” American  
+Economic Review, 90(4), 806–828.  
+GUINNANE,  T.  W.,  (2011):  “The  Historical  Fertility  Transition:  A  Guide  for  
+Economists,” Journal of Economic Literature, forthcoming.  
+GUTMANN, M. P., AND S. C. WATKINS (1990): “Socio‐Economic Differences in Fertility  
+Control: Is There an Early Warning System at the Village Level?,” European  
+Journal of Population, 6(1), 69–101.  
+GUZMAN,  R. A.,  AND  J. WEISDORF  (2010):  “Product  Variety  and  the  Demographic  
+Transition,” Economics Letters 107(1), 74–76.  
+HATTON, T. J., AND R. M. MARTIN (2009): “Fertility Decline and the Heights of Children  
+in Britain, 1886‐1938,” IZA Discussion Paper No. 4306.  
+LAVY,  V.,  AND  A.  ZABLOTSKY  (2011):  “Mother’s  Schooling,  Fertility,  and  Children’s  
+Education: Evidence from a Natural Experiment,” NBER Working Paper No. 16856.  KNODEL, J. (1979): “From Natural Fertility to Family Limitation: The Onset of Fertility  
+Transition in a Sample of German Villages,” Demography, 16(4), 493–521.  KNODEL,  J. E.  (1974):  The  Decline  of  Fertility  in  Germany,  1871­1939.  Princeton  
+University Press.  
+KÖLLMANN,  W.  (1980):  Quellen  zur  Bevölkerungs­,  Sozial­  und  Wirtschaftsstatistik  
+Deutschland, 1815­1875. Harald Boldt Verlag, Boppard am Rhein.  
+24  
+
+========26========
+
+LEIBENSTEIN,  H.  (1975):  “The  Economic  Theory  of  Fertility  Decline,”  Quarterly  
+Journal of Economics, 89(1), 1–31.  
+MCCRARY, J., AND H. ROYER (2011): "The Effect of Female Education on Fertility and  
+Infant Health: Evidence from School Entry Policies Using Exact Date of Birth,"  
+American Economic Review, forthcoming.  
+MELTON,  J.  V. H.  (1988):  Absolutism  and  the  Eighteenth­century  Origins  of  
+Compulsory Schooling in Prussia and Austria. Cambridge University Press.  OGILVIE, S. (2010): "Consumption, Social Capital, and the ‘Industrious Revolution’ in  
+Early Modern Germany," Journal of Economic History, 70(2), 287‐325.  OSILI, U. AND B. T. LONG (2008): “Does Female Schooling Reduce Fertility? Evidence  
+from Nigeria,” Journal of Economic Development 87(1), 57‐75.  
+RINDFUSS, R. R., S. P. MORGAN, AND K. OFFUTT (1996): “Education and the Changing Age  
+Pattern of American Fertility: 1963‐1989,” Demography, 33(3), 277–290.  SCHULTZ, T. P.  (1985):  “Changing World  Prices,  Women’s  Wages,  and  the  Fertility  
+Transition:  Sweden,  1860‐1910,” Journal of Political Economy,  93(6),  1126– 
+1154.  
+SCHULTZ, T. P. (2008): “Population Policies, Fertility, Women’s Human Capital, and  
+Child  Quality,”  in  Handbook  of  Development  Economics,  vol.  4,  ed.  by  T.  P.  
+Schultz and J. Strauss, pp. 3249‐3303. Elsevier, Amsterdam.  
+SHORTER,  E.,  J. KNODEL,  AND  E. VAN DE  WALLE  (1971):  “The  Decline  of  Non‐Marital  
+Fertility in Europe, 1880‐1940,” Population Studies, 25(3), 375–393.  STRAUSS,  J.,  AND  D.  THOMAS  (1995):  “Human  Resources:  Empirical  Modeling  of  
+Household and Family Decisions,” in Handbook of Development Economics, vol.  
+3A, ed. by J. Behrman and T. N. Srinivasan. Elsevier, Amsterdam.  
+VAN DE  WALLE,  F.  (1986):  “Infant  Mortality  and  the  European  Demographic  
+Transition,”  in  The  Decline  of  Fertility  in  Europe,  ed.  by  A. J.  Coale  and S. C.  
+Watkins. Princeton University Press.  
+WEIR, D. R. (1993): “Parental Consumption Decisions and Child Health during the  
+Early French Fertility Decline, 1790‐1914,” Journal of Economic History, 53(2),  
+259–274.  
+25  
+
+========27========
+
+Appendix: County-level data for Prussia in the nineteenth  
+century  
+1816 is the earliest year for which the Prussian Statistical Office, founded in 1805,  collected  detailed  data  at  the  county  and  municipality  level.  The  county  data  provide  information  on  the  number  of  public  elementary  schools  (Öffentliche  Elementarschulen), the only school type equally available in rural areas and towns  at the time, and the number of students therein. In addition, the town data report  on the number of schools and students in the following school types available only  in  towns:  private  elementary  schools  (Privat­Elementarschulen),  public  middle  schools for boys and girls (Öffentliche Bürger­ oder Mittelschulen für Söhne und  Töchter), and private middle schools (Private Bürger­ oder Mittelschulen für Söhne  und Töchter). To capture all children at recommended school age, county and town  enrolment data are aggregated to compute total primary enrolment.32 The source  of the 1816 Population Census data is Alexander A. Mützell, Neues Topographisch­ Statistich­Geographisches  Wörterbuch  des  Preussischen  Staats,  Vol.  6,  Halle:  Karl  August Kümmel, 1825.33  
+The  source  of  the  1849  census  data  is  the  Prussian  Statistical Office,  which  published the data in the period 1851‐1855 under the title “Tabellen und amtliche  Nachrichten über den Preussischen Staat für das Jahr 1849”. The census of 1849  contains seven volumes. We use Vol. 1 for population data, Vol. 2 for education and  
+                                                         
+32  The  1816  census  data  are  structured  into  289  counties;  an  administrative  reform  subsequently  split  some  counties  in  the  Eastern  part  of  Prussia  into  smaller  units.  We  converted  the  data  to  match  the  334  counties  of  the  borders  in 1849/1867  based  on  population data from the 1821 census. Regression results that cluster standard errors at  the  level  of  280  independent  units  of  observation  in  1816  (accounting for the fact that  some counties had to be combined first before they could be subdivided  again  into  the  new structure) are practically identical to those presented here.  
+33 The 1816 school enrolment data were missing for the eleven counties of the district of  Cologne. We imputed the data based on school enrolment data available in 1829 for all 59  counties of the Rhine Province. Given a correlation of 0.59 of the 1829 data with the 1816  data for the 48 counties with both datasets available, we regressed the 1816 data on the  1829 data and predicted the 1816 values for the eleven Cologne counties based on their  1829 values. Data on the age structure in 1816 were also missing for the eleven counties  of the district of Cologne, which report population totals only. We used the share of the  female age group 0‐7 and 15‐45 of the contiguous provinces (Arnsberg,  Dusseldorf,  Aachen, Koblenz) to impute the missing child‐woman ratio of 1816 for the eleven Cologne  counties.  
+26  
+
+========28========
+
+mortality data, Vol. 5 for data on landownership, and Vol. 6a for factory data. All  data are available for 334 counties.   
+The  1849  education  data  contain  information  on  the  number  of  schools  and  students for public elementary schools (Öffentliche Elementarschulen) and public  middle schools for boys and girls (Öffentliche Mittelschulen für Söhne und Töchter).  We combine enrolment in elementary and middle schools to obtain primary school  enrolment,  matching  the  fact  that  children  at  recommended  school  age  (6‐14  years) could either attend elementary schools or middle schools.  
+We construct measures of life expectancy at different ages by calculating age‐ specific mortality rates from population and mortality data, which are reported in  age groups of varying size, usually encompassing five years.   
+The  1849  factory  data  contain  information  on  the  number  of  factories  and  workers for the Prussian counties. 119 types of factories are distinguished by the  products fabricated. Our variable for industrialization in 1849 refers to the share  of  population  working  in  textile,  metal,  and  other  factories.  The textile sector  includes  factories  for  spinning,  weaving,  dyeing,  and  apparel.  The  metal  sector  includes processing of metals and production of metal products and machinery, as  well  as  manufacture  of  stone  and  glass  products.  The  other  industrial  sectors  include such factories as those producing food, wood, paper, wax, and rubber.   
+The 1864 census reports education information on public elementary schools  (Öffentliche  Elementarschulen), private elementary schools (Privat­ Elementarschulen),  public  middle  schools  for  boys  or  girls  (Öffentliche  Mittelschulen für Söhne oder Töchter), and private middle schools for boys or girls  (Private Mittelschulen für Söhne oder Töchter).  To  calculate  enrolment  rates,  we  divide the number of enrolled students by the number of children aged 6 ‐14 in  1864. The source of the 1864 census data is Preussische Statistik, Vol. 10.  
+In  order  to  generate  the  child‐woman  ratio  in  1867,  we  use  the population  census. In particular, we use data from Preussische Statistik, Vol. 16b. For the net  migration rate in 1880, we use data contained in Preussische Statistik, Vol. 42.   
+27  
+
+========29========
+
+Table 1: Summary statistics   
+Variable  Mean  Std. Dev.  Min.  Max.  N  Child‐woman ratio (1867)  1.714  0.268  1.016  2.540  334  Female enrolment rate (1816)  0.545  0.210  0.020  0.939  334  Employed in textile factories (1849)  0.149  0.209  0.013  1.747  334  Age at marriage (1849)  0.226  0.061  0.090  0.464  334  Enrolment rate (1864)  0.753  0.104  0.438  1.201  334  Child mortality (1849)  7.50  2.35  3.36  14.91  334  Maternal mortality ratio (1849)  0.829  0.345  0  2.050  334  Urban share (1849)  0.246  0.186  0  1  334  Share in industry (1849)  0.030  0.029  0.006  0.322  334  Share Protestants (1849)  0.605  0.394  0.002  0.999  334  Share married women (1849)  0.701  0.058  0.431  0.854  334  Population density (1849)  0.200  1.121  0.020  14.978  334  Net migration per 1000 inhabitants (1880)  ‐1.682  3.669  ‐32.219  2.374  334  Cattle per woman (1849)  0.676  0.208  0.006  1.454  334  Women in industry per capita (1867)  0.007  0.009  0  0.063  334  Landownership inequality (1816)  0.017  0.020  0  0.148  334  Child‐woman ratio (1816)  0.894  0.156  0.505  2.292  334  Enrolment rate (1849)  0.801  0.117  0.334  0.988  334  Note: Child‐woman ratio is the number of children aged 10‐19 over the number of women aged 40‐69. Female enrolment rate is the ratio of girls enrolled in  primary and middle schools over the number of girls aged 6‐14. Age at marriage is defined as the share of women who married at age older than 30. The  maternal mortality ratio is defined as the number of maternal deaths per 100 live births.   
+Source: Data for 334 counties from the Prussian Statistical Office; see data appendix for details.  
+  
+
+========30========
+
+Table 2: Mothers’ education and fertility—Basic results  
+Dep. var.: Child­woman ratio (1867)  (1)    
+Female enrolment rate (1816)  ‐0.561***          
+(0.057)  
+(2)  
+‐0.620***  (0.062)  
+(3)  
+(4)  
+(5)  
+(6)  
+(7)  
+‐0.597***  (0.061)  
+Employed in textile factories (1849)      ‐0.281***  
+(0.101)  
+‐0.539***  (0.058)  ‐0.197**  (0.089)  
+Age at marriage (1849)        ‐1.832***  
+(0.207)  
+‐0.342***  (0.067)  ‐0.176**  (0.086)  ‐1.687***  (0.220)  
+Enrolment rate (1864)          ‐0.730***  
+(0.152)  
+‐0.348***  (0.068)  ‐0.170**  (0.078)  ‐1.638***  (0.216)  ‐0.858***  (0.180)  
+Child mortality rate (1849)            ‐1.496**  
+(0.589)  
+‐0.344***  (0.069)  ‐0.158**  (0.079)  ‐1.610***  (0.214)  ‐0.797***  (0.179)  ‐1.726***  (0.606)  
+Maternal mortality ratio (1849)              0.077*            
+Urban share (1849)    ‐0.079  
+(0.085)  Share in industry (1849)    0.642            
+(0.425)  Share Protestants (1849)    0.044            
+(0.035)  Share married women (1849)    0.273            
+(0.324)  Constant  2.020***          1.835***  
+(0.035)  (0.225)  
+‐0.025  (0.090)  1.145***  (0.393)  0.021            (0.036)  0.344            (0.323)  1.800***  (0.225)  
+0.056            (0.079)  0.749*            (0.383)  ‐0.087**  (0.035)  ‐0.111  (0.265)  2.546***  (0.207)  
+0.131            (0.087)  1.043***  (0.369)  ‐0.116***  (0.037)  0.296            (0.309)  2.658***  (0.226)  
+0.182*            (0.092)  0.925**  (0.367)  ‐0.118***  (0.038)  0.359            (0.313)  2.805***  (0.235)  
+(0.041)  0.200**  (0.097)  0.961**  (0.381)  ‐0.116***  (0.038)  0.362            (0.314)  2.694***  (0.234)  
+Observations  334  334  334  334  334  334  334  R2  0.193  0.209  0.251  0.379  0.428  0.442  0.450  Note: OLS regressions, Robust standard errors in parentheses. *** p<0.01, ** p<0.05, * p<0.10. Child‐woman ratio is the number of children aged 10‐19 over the  number of women aged 40‐69. Female enrolment rate is the ratio of girls enrolled in primary and middle schools over the number of girls aged 6‐14. Age at  
+marriage is defined as the share of women who married at age older than 30.   
+Source: Data for 334 counties from the Prussian Statistical Office; see data appendix for details.   
+  
+
+========31========
+
+Table 3: Robustness specifications  
+Dep. var.: Child­woman ratio (1867)  (1)    
+Female enrolment rate (1816)  ‐0.343***               
+(0.069)  Employed in textile factories (1849)  ‐0.160**               
+(0.079)  Age at marriage (1849)  ‐1.615***               
+(0.214)  Enrolment rate (1864)  ‐0.783***               
+(0.180)  Population density (1849)  ‐0.009             
+(0.008)  
+(2)  
+(3)  
+(4)  
+(5)  
+‐0.315***             (0.068)  ‐0.148*             (0.079)  ‐1.552***             (0.211)  ‐0.695***             (0.182)  ‐0.011             (0.008)  
+‐0.259***             (0.069)  
+  
+Net migration per 1000 inhabitants (1880)    ‐0.012***               
+(0.004)  
+‐0.313***             (0.067)  ‐0.147*             (0.080)  ‐1.558***             (0.219)  ‐0.699***             (0.182)  ‐0.011             (0.008)  ‐0.012***             (0.004)  
+Cattle per woman (1849)      0.009                 
+(0.070)  
+‐0.248***             (0.068)  ‐0.145*             (0.079)  ‐1.921***             (0.237)  ‐0.603***             (0.224)  ‐0.019**             (0.008)  ‐0.009**             (0.004)  ‐0.064             (0.069)  
+Latitude in rad x 100        3.507***             
+(0.859)  
+Longitude in rad x 100        ‐0.843***             
+(0.303)  
+‐1.916***             (0.236)  ‐0.587***             (0.220)  ‐0.017**             (0.008)  ‐0.009**             (0.004)  ‐0.051             (0.071)  3.468***             (0.867)  ‐0.793***             (0.300)  
+Women in industry per capita (1867)          ‐3.397**             
+Constant  2.709***               
+(0.236)  
+2.620***            (0.228)  
+2.617***             (0.224)  
+‐0.347             (0.854)  
+(1.456)  ‐0.317             (0.858)  
+Control variables   Yes  Yes  Yes  Yes  Yes  Observations  334  334  334  334  334  R2  0.451  0.472  0.472  0.509  0.509  Note: OLS regressions, Robust standard errors in parentheses. *** p<0.01, ** p<0.05, * p<0.10. Child‐woman ratio is the number of children aged 10‐19 over the  number of women aged 40‐69. Female enrolment rate is the ratio of girls enrolled in primary and middle schools over the number of girls aged 6‐14. Age at  marriage is defined as the share of women who married at age older than 30. Net migration is computed as the difference between immigrants and emigrants  over the reference population (*1000).  Control variables: urban share, share in industry, share Protestants, share married women, child mortality rate, and  
+maternal mortality ratio.   
+Source: Data for 334 counties from the Prussian Statistical Office; see data appendix for details.   
+  
+
+========32========
+
+Table 4: Instrumental­variable results  
+  (1)  Dependent variable:  
+(OLS)  Female enrolment rate (1816)  ‐0.325***  
+ (0.082)  
+Child­woman ratio (1867)  
+Landownership inequality (1816)    ‐2.583***   
+Child‐woman ratio (1816)  0.285   
+(0.272)  Employed in textile factories (1849)  ‐0.143*   
+(0.079)  Age at marriage (1849)  ‐1.394***   
+(0.228)  Enrolment rate (1864)  ‐0.678***   
+(0.167)  Constant  2.307***   
+(0.376)  
+(2)  (3)  Female enrolment rate (1816)  Child­woman ratio (1867)  
+(1st stage)  (2nd stage)  
+  ‐0.850**   
+(0.377)  
+  
+(0.561)  
+‐0.108   0.225   
+(0.104)  (0.224)  
+‐0.028   ‐0.142*   
+(0.036)  (0.074)  
+‐0.038   ‐1.394***   
+(0.178)  (0.225)  
+0.851***   ‐0.186   
+(0.116)  (0.390)  
+0.411**   2.483***   
+(0.195)  (0.362)  
+Control variables   Yes  Yes  Yes  
+Observations  334  334  334  
+R2  0.466  0.482  0.370  
+F‐statistic 1st stage      21.180  
+Note: OLS and two‐stage least squares regressions, Robust standard errors in parentheses. *** p<0.01, ** p<0.05, * p<0.10. Child‐woman ratio is the number of  children aged 10‐19 over the number of women aged 40‐69. Female enrolment rate is the ratio of girls enrolled in primary and middle schools over the  number of girls aged 6‐14. Age at marriage is defined as the share of women who married at age older than 30. See text for details on landownership  inequality. Control variables: urban share, share in industry, share Protestants, share married women, child mortality rate, and maternal mortality ratio.  Source: Data for 334 counties from the Prussian Statistical Office; see data appendix for details.   
+  
+
+========33========
+
+Table 5: Alternative specifications to address women’s mortality  
+  (1)  (2)  
+Dependent variable:  Ratio of children aged 10­19   Ratio of children aged 0­14     over number of households (1867)  over women aged 17­45 (1849)  Female enrolment rate (1816)  ‐0.444**   ‐0.415**   
+(0.206)  (0.210)  
+Child‐woman ratio (1816)  0.090   0.237*   
+(0.063)  (0.122)  
+Employed in textile factories (1849)  ‐0.051*   ‐0.098**   
+(0.028)  (0.042)  
+Age at marriage (1849)  ‐0.162   ‐0.782***   
+(0.112)  (0.136)  
+Enrolment rate (1864)  0.174      
+(0.206)  
+Enrolment rate (1849)     0.133   
+(0.204)  
+Constant  1.366***   1.182***   
+(0.142)  (0.234)  
+Control variables   Yes  Yes  
+Observations  334  334  
+R2  0.078  0.587  
+F‐statistic 1st stage  21.180  14.621  
+Note: Second stage of two‐stage least squares regressions, with female enrolment rate instrumented by landownership inequality, Robust standard errors in  parentheses. *** p<0.01, ** p<0.05, * p<0.10. Female enrolment rate is the ratio of girls enrolled in primary and middle schools over the number of girls aged 6‐ 14. Age at marriage is defined as the share of women who married at age older than 30. See text for details on landownership inequality. Control variables:  urban share, share in industry, share Protestants, share married women, child mortality rate, and maternal mortality ratio.  
+Source: Data for 334 counties from the Prussian Statistical Office; see data appendix for details.   
+  
+
+========34========
+
+Figure 1: Demographic patterns in Prussia, 1815­1915  
+50 
+40 
+30 
+20 
+10 
+1815 1820 1825 1830 1835 1840 1845 1850 1855 1860 1865 1870 1875 1880 1885 1890 1895 1900 1905 1910 1915 
+year 
+birth rate mortality rate marriage rate 
+  
+Note: Birth rate: crude births per 1000 people. Mortality rate: deaths per 1000 people. Marriage rate: marriages per 1000 people.  
+Source: Köllmann (1980); Galloway, Hammel, and Lee (1994).   
+  
+
+========35========
+
+Figure 2: The female enrolment rate in 1816  
+Female enrolment rate 
+(.7774481,.9386203] 
+(.7245995,.7774481] 
+(.681011,.7245995] 
+(.6350241,.681011] 
+(.5888864,.6350241] 
+(.5336899,.5888864] 
+(.4842639,.5336899] 
+(.3478914,.4842639] 
+(.2165305,.3478914] 
+[.0195764,.2165305] 
+  Note: Ratio of girls enrolled in primary and middle schools over the number of girls aged 6‐14. Depiction in county borders of 1849.  
+Source: Data for 334 counties from the Prussian Statistical Office; see data appendix for details.  
+  
+
+========36========
+
+Figure 3: The child­woman ratio in 1867  
+Child-woman ratio (1867) 
+(2.094054,2.540444] 
+(1.947107,2.094054] 
+(1.831202,1.947107] 
+(1.761573,1.831202] 
+(1.66607,1.761573] 
+(1.613764,1.66607] 
+(1.565155,1.613764] 
+(1.494083,1.565155] 
+(1.395466,1.494083] 
+[1.015836,1.395466] 
+  
+Note: Number of children 10‐19 over women aged 40‐69. Depiction in county borders of 1849.  Source: Data for 334 counties from the Prussian Statistical Office; see data appendix for details.  
+  
+
+========37========
+
+Figure 4: The relationship between mothers’ education and fertility  
+2.5 
+2 
+1.5 
+Child-woman ratio (1867) 
+1 
+0 .2 .4 .6 .8 1 
+Female enrolment rate (1816) 
+   Note: Female enrolment rate is the ratio of girls enrolled in primary and middle schools over the number of girls aged 6‐14.   
+The child‐woman ratio is defined as the number of children 10‐19 over women aged 40‐69.  
+Source: Data for 334 counties from the Prussian Statistical Office; see data appendix for details.  
+  
+
+========38========
+

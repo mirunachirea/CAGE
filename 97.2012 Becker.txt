@@ -1,0 +1,1921 @@
+September 2012 
+                No.97 
+Offshoring and the Onshore Composition 
+of Tasks and Skills 
+Sascha O. Becker, Karolina Ekholm and Marc-Andreas Muendler 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Offshoring and the Onshore Composition 
+of Tasks and Skills 
+Sascha O. Becker University of Warwick 
+Karolina Ekholm{ Sveriges Riksbank 
+Marc-Andreas Muendler 
+UC San Diego 
+August 26, 2012 
+Abstract 
+We analyze the relationship between offshoring and the onshore workforce composition in German multinational enterprises (MNEs), using plant data that allow us to discern tasks, occupations, and workforce skills. Offshoring is associated with a statistically signiﬁcant shift towards more non-routine and more interactive tasks, and with a shift towards highly educated workers. The shift towards highly educated workers is in excess of what is implied by changes in either the task or the occupational composition. Offshoring to low-income countries—with the exception of Central and Eastern European countries—is associated with stronger onshore responses. We ﬁnd offshoring to predict between 10 and 15 percent of observed changes in wage-bill shares of highly educated workers and measures of non-routine and interactive tasks. 
+Keywords: Trade in tasks; multinational enterprises; demand for labor; linked employer- employee data 
+JEL Classiﬁcation: F16, F14, F23, J23, J24 
+We thank Costas Arkolakis, Beata Javorcik, Anselm Mattes, Andres Rodriguez-Clare and Deborah Swenson as´ 
+well as two anonymous referees and the editor for insightful and helpful comments. Alexandra Spitz-Oener gener- ously contributed task classiﬁcations for robustness checks. We thank Heinz Herrmann, Alexander Lipponer, Beatrix Stejskal-Passler, Elisabetta Fiorentino and Elena Biewen at Deutsche Bundesbank for support with ﬁrm data, and Ste- fan Bender, Iris Koch and Stephan Heuke at Bundesagentur fur Arbeit for assistance with plant records. Karin Herbst¨ 
+and Thomas Wenger at Deutsche Bundesbank kindly contributed string matching code. Ming Zeng provided excellent research assistance. We gratefully acknowledge ﬁnancial support from the VolkswagenStiftung, the Fritz-Thyssen- Stiftung, the Wallander Foundation, the Swedish Council for Working Life and Social Research, CAGE, EFIGE, and the Ifo Institute. Muendler gratefully acknowledges the hospitality of Princeton University while this research was un- der way. Becker is also afﬁliated with CAGE, CEPR, CESifo, Ifo, and IZA. Ekholm is also afﬁliated with Stockholm University, CEPR and CESifo. Muendler is also afﬁliated with CAGE, CESifo and NBER. An Online Supplement to this paper with data descriptions and additional results is available at econ.ucsd.edu/muendler/papers/abs/fditasks. 
+{karolina.ekholm@riksbank.se. 
+1 
+
+========2========
+
+1 Introduction 
+There is considerable agreement among economists that fragmentation of production, and off- shoring of production stages, likely affects employment and wages across countries. Disagreement remains over the expected direction of these effects. If offshoring mainly involves tasks carried out by low-skilled labor, the relative demand for low skill would decline and contribute to a widening wage gap between skilled and unskilled labor (Feenstra and Hanson 1996, 1999). Since offshoring is likely to be associated with cost reductions, which put downward pressure on wages, low-skilled workers may nevertheless beneﬁt from an increase in their real wages. Moreover, if the associ- ated cost reductions are particularly strong in industries employing low-skilled labor intensively, offshoring might reduce the wage gap between skilled and unskilled labor as resources are reallo- cated towards low-skill intensive industries (Jones and Kierzkowski 1990) and cost savings from trade in tasks may accrue to skill groups that are relatively susceptible to offshoring (Grossman and Rossi-Hansberg 2008).1 
+Recent research points to the nature of tasks as a more relevant characteristic for a job’s propen- sity to be offshored than the skill level of the worker (see e.g. Leamer and Storper 2001, Markusen 2006, Jensen and Kletzer 2006, Blinder 2006). This is of particular importance for labor-market consequences if offshoring involves relatively many tasks that high-skilled workers carry out so that low-skilled workers are less affected. Interpreting computer-tomography images or X-rays, for instance, typically requires higher education, but can easily move offshore.2 Maintenance work, on the other hand, need not require higher education, but can typically not relocate because proximity to the maintained facilities is required. Several task characteristics are potentially rel- evant for offshorability: the prevalence of codiﬁable rather than tacit information to perform the job (Leamer and Storper 2001); the prevalence of routine tasks, especially if they can be summa- rized in deductive rules (Levy and Murnane 2004); or the job’s lacking requirement of face-to-face contact and geographic proximity (Blinder 2006). Whereas the nature of tasks could be strongly correlated with the skill-intensity of the occupation, there is no a priori reason for this to be the case. 
+To examine the relationship between offshoring and the composition of skills and tasks in the home economy, we build a data set based on German multinational enterprises (MNEs) and their offshore employment (OE). MNEs conduct an important part of worldwide offshoring.3 We then combine the MNE data with plant-level information on workforce skills and occupations over the period 1998-2001, during which German MNEs strongly expanded foreign operations. In a ﬁnal data construction step, we link the occupations with survey information on task components by occupation. We follow Autor, Levy and Murnane (2003), and related research by Spitz-Oener (2006), in that we match occupations to the involved share of routine versus non-routine tasks. To identify tasks according to the non-routine/routine and interactive/non-interactive dichotomies, we 
+1See also the treatments in Baldwin and Robert-Nicoud (2010) and Kohler (2009). 
+2This business practice has become known as 
+tele-radiology. U.S. or EU trained doctors living in South Asia or Australia perform tele-radiology for the United States and Europe. 
+3The estimated share of value added at MNE afﬁliates in world output was 10.1 percent in 2005, up from 6.7 percent in 1990 (UNCTAD 2006). Intra-ﬁrm trade accounts for around one-third of goods exports from Japan and the United States, a similar proportion of all U.S. goods imports, and one-quarter of all Japanese goods imports (OECD 2002). 
+2 
+
+========3========
+
+newly codify information from a German work survey on workplace tool use.4 
+Our data choice has three main beneﬁts: the detailed German occupational classiﬁcation offers reﬁned task-to-occupation matches; our task measures are based on observed job activities from an economy-wide worker survey; and actual tool uses provide palpable insight into the nature of tasks. To mitigate potential codiﬁcation errors in our mapping from tool uses to task con- tent, we adopt two alternative mappings that handle ambiguities differently. Subsequent results are qualitatively close under either codiﬁcation. We adopt dichotomous deﬁnitions of tasks (non- routine/routine and interactive/non-interactive), worker skills (high education/low education) and occupations (white-collar/blue-collar) for comparability to cost function estimation in related re- search (Slaughter 2000, Hanson, Mataloni and Slaughter 2005, Harrison and McMillan 2011). The combined data allow us to query whether non-routine tasks and interactive tasks are less off- shorable and to assess skill-demand implications. 
+In shift-share analysis, we compare MNEs and their offshore employment evolution to non- MNEs (sometimes also called national enterprises) with no in-house OE. We ﬁnd a marked em- ployment shift both towards highly educated workers and towards non-routine and interactive tasks at MNEs, irrespective of whether MNEs expand or shrink their OE. Non-MNEs shift employment out of high-end tasks, but also towards more highly educated workforces. Dichotomous deﬁni- tions allow us to collapse the relative labor demands for onshore tasks, skills and occupations into a reduced-form estimation equation. Regression analysis shows that tasks have a statistically sig- niﬁcant relationship to offshoring in the direction that theory leads us to expect: onshore workers perform more non-routine and more interactive tasks at MNEs with more offshoring. We also ﬁnd that offshoring is consistently associated with higher workforce education. This is the case even when we control for the changing composition of tasks at the plant level. 
+Our MNE data include plants from all sectors of the economy. We ﬁnd onshore labor-demand responses to be qualitatively similar across all sectors, adding to earlier evidence on services off- shoring (e.g. Crino 2010` a,b). A limitation of our analysis is the restriction to offshoring within the same ﬁrm, in contrast to offshore outsourcing to independent suppliers. An advantage of MNE data is, however, that we can directly relate the onshore workforce composition to observed OE at the MNE. Importantly, offshore activity at MNEs includes production for the local host mar- ket, services-with-goods bundling such as after-sales services related to both local production and exports from the home economy, and local procurement, back-ofﬁce and sales activities attached to home-country exports. We do not discern between horizontal or vertical FDI as such but the data provide information on the location of offshore activity, which we combine into four country groupings: two groupings of lower-income countries and two groupings of countries at a similar level of income as Germany. Estimated effects of offshoring on the task and educational compo- sition are strongest for OE in low-income countries outside Europe, whereas OE in low-income countries in Central and Eastern Europe does not exert statistically signiﬁcant responses in Ger- many. 
+Our ﬁndings are consistent with the traditional view that offshored tasks tend to be carried out by low-skilled rather than high-skilled workers, in contrast with recent conjectures. The predicted economic effect of offshoring on the educational composition of onshore workforces at MNEs is 
+4Nilsson Hakkala, Heyman and Sjoholm (2008) and Baumgarten, Geishecker and G¨ 
+org (2010) have meanwhile¨ 
+adopted our task codiﬁcation from Appendix Table A.1 for related research. 
+3 
+
+========4========
+
+modest, however. Our estimates translate into a contribution of offshoring to changes in the wage- bill share of highly educated workers in the order of 10-15 percent—a moderate effect compared to the 15-40 percent contribution of offshoring measured as imports of intermediate inputs to the change in the wage-bill share of non-production workers in the United States (Feenstra and Hanson 1999). 
+Few papers to date have studied the empirical nature of tasks and the extent to which task offshoring involves high-skilled or low-skilled labor.5 Blinder (2009) uses occupational codes to construct task indexes based on a binary proximity criterion whether work can be carried out remotely or whether the job must be performed on site. According to these indexes, around a quarter of U.S. jobs are potentially offshorable but Blinder ﬁnds little or no correlation between an occupation’s offshorability and the skill level of workers. For services jobs, Jensen and Klet- zer (2010) construct two arguably less subjective measures of offshorability. The ﬁrst measure is based on the geographic concentration of industries and occupations within the United States and motivated by the idea that tradable activities are localized in few places and then traded both nationally and internationally.6 The second one is based on the occupational requirements classiﬁ- cation of work activities in the occupational network database, from which Jensen and Kletzer pick eleven job-content measures to construct an index of offshorability. Jensen and Kletzer document that their two measures are positively correlated and ﬁnd that occupations with a greater share of college-educated workers are more offshorable. In contrast, we ﬁnd that relative demand for highly educated workers increases at MNEs with large offshore employment. 
+A separate line of recent research investigates the effect of technical change on relative skill demand with an emphasis on the relation between tasks and information technology. Autor, Levy and Murnane (2003) classify tasks into skill-related categories and ﬁnd that information technology displaces routine and non-cognitive tasks between 1970 and 1988. In a similar approach, Spitz- Oener (2006) ﬁnds for Germany that rapidly computerized occupations involve more non-routine and interactive tasks between 1979 and 1998. More closely related to our paper, Goos, Manning and Salomons (2009) discern abstract, routine and service tasks for European countries, and add to the set of technology variables a proxy for offshorability: the counts of news reports about plant closures. The news-reports proxy to offshoring exhibits no statistically detectable association with labor demand outcomes. Our analysis conditions out equipment use and plant effects, and we ﬁnd a statistically signiﬁcant but economically modest response of tasks to MNEs’ offshore activity during a period of intensiﬁed offshoring. 
+This paper has four more sections. Section 2 describes the data and the construction of vari- ables, in particular the classiﬁcation of tasks as non-routine or interactive. A shift-share analysis in Section 3 decomposes the changes in workforce composition into aggregate, sector-speciﬁc and plant-speciﬁc effects. We present estimation strategy and regression results in Section 4, where we also interpret our ﬁndings in light of recent theories of offshoring. Section 5 concludes. 
+5Mankiw and Swagel (2006) review the literature on U.S. MNEs and conclude that offshoring to date has at most modest labor market consequences. Crino (2009) and Feenstra (2010) survey the broader empirical literature on` 
+offshore outsourcing and report relevant economic effects on relative earnings. A related literature investigates the effect of intermediate inputs on technology transfers and productivity outcomes (e.g. Amiti and Wei 2009, Hijzen, Inui and Todo 2010). 
+6Jensen and Kletzer (2010) adjust the earlier Jensen and Kletzer (2006) concentration measure for downstream demand concentration. 
+4 
+
+========5========
+
+2 Data 
+Our data derive from the combination of four micro-data sources, assembled at Deutsche Bundes- bank in Frankfurt. The unit of analysis in this paper is an onshore plant of a German MNE.7 
+2.1 Data sources 
+Onshore plant information comes from conﬁdential quarterly social-security records at the Ger- man Federal Labor Agency (Statistik der Bundesagentur fur Arbeit¨ STATISTIK-BA), our ﬁrst data source. The raw STATISTIK-BA data are at the worker-job level and cover the universe of workers registered in the social insurance system over the years 1998-2006, representing around 80 percent of the formally employed German workforce.8 The records contain worker and job characteristics, and the monthly wage. Wages in the German social security data are top-coded at the contribution assessment ceiling, which is annually adjusted for nominal wage changes, but there is no censoring from below.9 
+We map educational attainment into a binary classiﬁcation and consider workers as highly educated if they hold at least the college-qualifying certiﬁcate Abitur, offered only in the most advanced of three secondary schooling tiers. To assign white-collar and blue-collar occupations, we use the German legal distinction between blue-collar Arbeiter and white-collar Angestellte. We then aggregate the binary education and occupation information to the plant level and compute wage-bill shares for individual tasks, education levels and occupations by plant. 
+Second, conﬁdential information on German MNEs and their offshore activities comes from the combined MIDI-USTAN database at Deutsche Bundesbank (BuBa); see Lipponer (2003) for a documentation of MIDI (MIcro database Direct Investment, an extract from DIREK) and Deutsche Bundesbank (1998) for a documentation of USTAN (which reports parent-level operations of Ger- man MNEs). These data sources offer foreign afﬁliate information since 1996. Given the start year of STATISTIK-BA data in 1998 and the end year of our version of USTAN in 2001, our ﬁnal sample period is restricted to 1998-2001. The outward FDI data cover all offshore afﬁliates of German MNEs according to minimal reporting thresholds.10 For the present paper, we largely restrict our 
+7A German MNE is a ﬁrm, headquartered in Germany, with reported outward FDI, or a German ﬁrm with reported outward FDI, whose ultimate beneﬁcial owner is headquartered elsewhere. A similar data combination was performed at the worker level for the analysis in Becker and Muendler (2008). 
+8Covered are full- and part-time workers at private enterprises, apprentices, and other trainees, as well as temporar- ily suspended employment relationships. Civil servants, student workers, and self-employed individuals are excluded and make up the remaining 20 percent of the formal-sector labor force. Plants within the same municipality may report workforce information using a single plant identiﬁer. Although our data derive from the pristine STATISTIK-BA source, Bender, Haas and Klose’s (2000) description of a random sample also applies to our universal STATISTIK-BA records. 
+9We use the average monthly wage during the second quarter, when records are considered most representative for the year. Top-coding is binding only for a minor fraction of workers (Bender, Haas and Klose 2000). Workers with an annual income below 3,865 EUR (in 2001) are not subject to social security contributions, but are part of our estimation sample. 
+10In 1999 through 2001, reporting is mandatory for all offshore afﬁliates with either a balance sheet total of more than EUR 5 million and at least a ten-percent ownership share of the German parent or with a balance sheet total of more than EUR 0.5 million and at least a 50-percent ownership. In 1998, reporting was mandatory for offshore afﬁliates with a balance sheet total of more than EUR 0.5 million and at least a twenty-percent ownership share. We 
+5 
+
+========6========
+
+analysis to ﬁrms in manufacturing, services and commerce. Services in our deﬁnition include util- ities and construction, but we keep commerce separate. We will show statistics for economy-wide aggregates across all sectors in our descriptive analysis but do not isolate agriculture and mining. We extract afﬁliate-level information on employment and ownership (from MIDI) and parent-level information on ﬁxed assets and value added (from USTAN). We allocate parent-level value added to the plant according to the plant’s employment share in parent employment. We deﬂate nominal variables to the December 1998 value.11 
+Third, we use the commercial database MARKUS (from Verband der Vereine Creditreform) on German corporate ownership to combine the preceding two data sources. MARKUS allows us to identify all onshore afﬁliates of MIDI-USTAN ﬁrms, to which we then link STATISTIK-BA plants. Multinational enterprises are also multi-ﬁrm enterprises in the home economy so that outward FDI affects workers beyond the individual FDI-reporting ﬁrm’s workforce. Moreover, many German enterprises bundle the management of their offshore afﬁliates into legally separate ﬁrms (mostly limited liability GmbHs) for tax and liability reasons. Those bundling ﬁrms then report FDI to MIDI as required by German law. The economic impact of the reporting ﬁrm’s FDI, however, goes beyond the ﬁrm’s narrow legal boundary in that jobs throughout the corporate group may be affected. We consider all ﬁrms within a corporate group (an enterprise) as potential FDI ﬁrms if at least one ﬁrm in the group reports outward FDI activities. 
+The STATISTIK-BA, MIDI-USTAN and MARKUS data do not share common ﬁrm identiﬁers. Prior to our analysis, a string-matching procedure (described in Becker and Muendler (2008)) therefore linked these three data sources. By German commercial law, plant names include the ﬁrm name, so the string-matching procedure used name, and address, to gather the plants that belong to the same ﬁrm. When linking ﬁrms and their German plants to the foreign operations they may have, the string-matching routine identiﬁed the cases where the ﬁrm clearly has multi- national operations and cases where the ﬁrm clearly has not. In the resulting matched sample we can therefore discern between German plants that clearly belong to German MNEs and plants that clearly belong to non-MNEs. However, there is also a large fraction of plants for which the deliberately conservative string matching routine did not make an assignment; those plants could either be part of a multinational enterprise or not. In our descriptive analysis, we report plants at indeterminate ﬁrms separately and ﬁnd results always to lie between those for unambiguous MNEs and unambiguous non-MNEs, consistent with the implication that changes in the group of plants at indeterminate ﬁrms should lie between the changes of the clearly deﬁned groups. We base our main comparisons below on unambiguous MNEs and unambiguous non-MNEs, and we use infor- mation for the unambiguous non-MNEs to control for common trends in wage-bill shares at the industry level. 
+In regressions (Section 4), we exclude from the sample ﬁrms with outlier offshore employment (OE) greater than 100 times their home employment.12 Of the plant observations, we keep balanced 
+use balanced panels in regression analysis to prevent attrition from changing reporting thresholds. Our point estimates are not sensitive to omission of year-1998 observations. 
+11In some speciﬁcations we use sales revenues to measure offshore activities. We then transform afﬁliate sales over the full sample period to Euros at the exchange rate on December 1998. 
+12Head and Ries (2002) also report the presence of MNEs with large ratios of offshore to home employment in the case of Japanese MNEs. A considerable number of German MNEs bundle the management of offshore activities in separate German ﬁrms. Some onshore activities of corporate MNE groups may have gone unlinked in the preceding 
+6 
+
+========7========
+
+panels to conduct plant ﬁxed and random effects estimation for ﬁrms that are continuously active abroad. The resulting estimation sample contains 5,064 observations of 1,266 plants at 490 MNEs for the period 1998-2001. The total number of workers in 1999 in the sample is 667,760, out of which 389,201 are workers in plants belonging to manufacturing MNEs. Estimated aggregate German employment at manufacturing MNEs in 1999 is 1,597,738 (Becker et al. 2005). Based on the proportion of observed workers at manufacturing MNEs to total workers at manufacturing MNEs, we are thus capturing around a quarter of the domestic employment at German MNEs. 
+2.2 Variable construction 
+Our fourth data source is the BIBB-IAB work survey, which we use to codify the tasks involved in an occupation as non-routine or interactive. For this purpose, we reclassify workers’ answers to questions in the Qualiﬁcation and Career Survey for 1998/99 regarding the use of 81 work- place tools on the job. The German Federal Institute for Vocational Training (Bundesinstitut fur¨ Berufsbildung BIBB) and the research institute of the German Federal Labor Agency (Institut fur¨ Arbeitsmarkt- und Berufsforschung IAB) conduct the survey with a random sample of one-tenth of a percent of the German labor force. 
+Nature of tasks. To classify tasks, we start by coding the answers to 81 yes/no questions as to whether a worker uses a speciﬁc workplace tool or not. The 81 workplace tools range from hand tools to machinery and diagnostic devices to computers and means of transport. We assign two different indicators to the use of any given workplace tool: (i) an indicator whether use of the workplace tool implies a non-routine task, and (ii) an indicator whether use of the same workplace tool implies a personally interactive task. Non-routine tasks involve non-repetitive methods of work and require a high degree of problem solving ability. Interactive tasks demand frequent face- to-face interaction with local coworkers, suppliers or customers and thus require proximity and interpersonal skills. As a shorthand we frequently refer to non-routine tasks and interactive tasks together as high-end tasks. The two classiﬁcations do not need to coincide. In our approach, the use of a cash register, for instance, implies routine and personally interactive work. 
+In the German context, we see three distinct advantages of our task measures and occupation codes over alternative classiﬁcations. First, we can use information from a concurrent and com- prehensive German survey of actual workplace activities for our analysis of German labor-market responses instead of foreign classiﬁcations.13 Second, we can apply the detailed German two-digit occupation system with variation across 84 occupations instead of the more limited ISCO88 sys- tem with only 28 two-digit occupations. Third, workplace tool uses are observed activities based on individual-level survey responses and provide a transparent picture of the current nature of occupations. 
+string-match procedure. We therefore exclude outliers as a matter of caution (but ﬁnd the results to be relatively insensitive to their inclusion). 
+13Much of the existing literature on countries other than the United States uses U.S. classiﬁcations (called 
+DOT and O*NET). For those U.S. systems, a data initiative is underway to improve on classiﬁcations with systematic task surveys (Princeton Data Improvement Initiative). For a group of European economies, Tijdens, De Ruijter and De Ruijter (2011) document that the task content of occupations varies considerably across countries. 
+7 
+
+========8========
+
+A potential weakness of our task constructs is that the inferred association between workplace tools and task content remains subject to judgment. We therefore use two different systems of indicators for tool uses that predict an occupation’s task content (see Table A.1). One set of indi- cators is based on a restrictive interpretation of what might constitute non-routine and interactive tasks, while another set is based on a more lenient interpretation. We assess the robustness of our estimation results to the alternative classiﬁcations (results with the lenient interpretation reported in Appendix A) and ultimately ﬁnd only minor economic differences. 
+Our guiding rationale for non-routine tasks and their association with workplace tools is the assessment whether young apprentices could independently perform tool-associated tasks in their ﬁrst week of work. The use of mechanical precision tools, scientiﬁc and designer software, and the programming of computers or CNC machinery, for example, unambiguously indicate non-routine tasks. In contrast, the use of basic ofﬁce and communication equipment or software—such as dic- tation devices, personal and ofﬁce computers, e-mail and internet connections, or word processing and spreadsheet programs—opens room for judgment. Operating basic devices and software is arguably routine. Young apprentices can press the buttons and click the tabs with little need to ask superiors. However, the equipment use for remote communication with clients or suppliers and the software use for business analysis and report writing may indicate the involvement of non-routine tasks. We therefore assign basic ofﬁce devices and software to indicate non-routine tasks under the lenient deﬁnition, but not under the strict deﬁnition. 
+Our leading principle for codifying interactive tasks is the assessment whether the tools im- ply face-to-face interaction. The worker’s operation of a cash register, therapeutic aid or photo camera, for example, unambiguously indicates personal contact or proximity and therefore inter- active tasks, whereas the use of internet, e-mail, telephones, and CNC machinery indicates no personal contact or proximity and therefore no interactive tasks. Phone communications and e- mail exchanges are interactive in the sense of two-way dialogue, but they are prime examples of workplace tool uses to bridge the distance between two parties, making physical interaction obso- lete. In contrast, ambiguities arise for tool applications such as in the system support of computers, the handling of surveillance cameras, or the operation of cargo cranes. Those may or may not require face-to-face interaction with coworkers, clients and suppliers. We therefore assign those basic tool uses to interactive tasks under the lenient deﬁnition, but not under the strict deﬁnition. 
+For our employment and wage-bill measures of task content we map tasks to occupations in three steps. First, we use information on workplace tools in 84 two-digit occupations from the BIBB-IAB work survey (KldB-88 codes) and calculate the average number of non-routine and in- teractive tasks involved in performing a given two-digit occupation (based on our codiﬁcation of responses to the 81 survey questions on workplace tools). Second, we ﬁnd the maximum number of non-routine and interactive tasks required to perform any two-digit occupation.14 Third, we measure a given two-digit occupation’s degree of non-routine and interactive tasks as the ratio be- tween the average number of non-routine and interactive tasks in the occupation and the maximum number in any occupation. We standardize by the maximum and minimum number of tasks in any occupation so that task shares vary between zero and one across occupations. 
+With this standardization, each occupation is assigned a number between zero and one that 
+14Under our restrictive codiﬁcation, the observed maximum of non-routine and interactive tasks per 
+KldB-88 two- digit occupation is respectively 6.7 and 3.3—after averaging over responses by occupation. Under the more lenient codiﬁcation, the maximum number of non-routine and interactive tasks per occupation is respectively 15.4 and 7.3. 
+8 
+
+========9========
+
+Table 1: CORRELATIONS OF WAGE BILL SHARES AT CONTINUING PLANTS, 1998-2001 
+Strict Deﬁnition Non- Inter- routine active tasks tasks 
+Strict deﬁnition Non-routine tasks Inter-active tasks Lenient deﬁnition Non-routine tasks Inter-active tasks Highly educ. (Abitur+) White-collar occup. 
+1.00 .470 
+1.00 
+.988 .803 
+.404 .827 
+.567 
+.277 
+.255 
+.118 
+Lenient Deﬁnition Non- Inter- routine active tasks tasks 
+Highly White- educ. collar (Abitur+) occup. 
+1.00 .774 .556 .260 
+1.00 .455 .103 
+1.00 .313 
+1.00 
+Sources: Linked STATISTIK-BA/MIDI data 1998-2001 and BIBB-IAB worker survey 1998/99, balanced panel of MNE 
+plants 1998-2001 in any sector. 
+Note: Pairwise correlations between variables. All correlation coefﬁcients signiﬁcant at one percent level. Asterisk 
+ 
+marks signiﬁcance at one percent level. 
+measures its intensity in non-routine and interactive tasks. In the analysis, we treat this index as a cardinal number under the assumption that the frequency of binary responses across workers in the large-scale survey is proportional to the importance of the task for a worker on a given job. Note that even if a worker spends a small amount of time on a certain task, the task may be crucial for the value of the worker’s performance. In a surgeon’s work day, for instance, the actual time use of a specialized medical tool may be short but elemental. To assess the robustness of our task classiﬁcations, we also use an occupation-to-task mapping created by Spitz-Oener (2006) for the study of information technology use and labor demand. Whereas our codiﬁcation of tasks draws on 81 questions regarding workplace tool use, the Spitz-Oener task classiﬁcation draws on a separate set of 15 activity descriptions in the same BIBB-IAB survey (see Appendix A). 
+We use correlations to query the plausibility 
+Covariation between workforce characteristics. 
+of our task measures and their potential ability to identify distinct workplace characteristics. Ta- ble 1 presents the pairwise correlations between the wage-bill shares of different work types at the plant level. We report correlations for a balanced panel of MNE plants because much subsequent analysis will consider that subsample. Correlation patterns are similar in the unbalanced panel of MNE plants. All pairwise correlation coefﬁcients are positive and statistically signiﬁcantly differ- ent from zero at the one-percent level (in fact at less than the .01-percent level). 
+The upper-left entries in Table 1 shows differences between the strict and lenient deﬁnitions of task types. For non-routines tasks, the strict and lenient deﬁnitions are highly correlated at the plant level with a coefﬁcient of 99 percent. The two deﬁnitions differ more for the interactive tasks, resulting in a correlation coefﬁcient of 83 percent. The two types of tasks—non-routine and interactive—are more clearly different between each other for the strict deﬁnition (a correlation coefﬁcient of 47 percent compared to one of 77 percent under the lenient deﬁnition). Their weaker 
+9 
+
+========10========
+
+association under the strict deﬁnition is one of the reasons why we prefer the strict deﬁnition in subsequent analysis. The lenient deﬁnition results in a higher correlation between interactive tasks and education, whereas correlations between tasks in the one hand side and education or occupation on the other hand side are quite similar under either deﬁnition. Later regression results for the strict deﬁnition will be qualitatively similar to those for the lenient deﬁnition (in the Appendix). 
+Tasks offer a measure of workplace characteristics that is distinct from conventional occupation classiﬁcations. The pairwise correlations of the white-collar wage-bill share with the wage-bill share of highly educated workers (Abitur or more) is 31 percent, the correlations of white-collar occupations with task measures are considerably lower: 25 percent and 12 percent under the strict deﬁnition, 26 and 10 percent under the lenient deﬁnition. 
+Offshore activities. We follow Head and Ries (2002) in measuring a plant’s exposure to its parent ﬁrm’s offshore activities with the share of offshore activities in total activities:15 
+∑ 
+OEkℓt = ∑ 
+n2ℓ 
+x∑knt 
+n2ℓ 
+xknt + 
+, 
+j2h 
+xkjt 
+(1) 
+where k is an MNE, ℓ a foreign location and h home, and where xknt is the activity of MNE k’s offshore afﬁliate n in location ℓ, and xkjt is the activity at MNE k’s onshore plant j. For the computation of (1), xnt is weighted by the parent ﬁrm’s ownership share in the foreign afﬁliate. OEkℓt is a measure of the parent ﬁrm’s offshore activities and does not vary across an MNE’s plants. Marked labor productivity differences between foreign workers and workers at home, however, may lead to a small measured sensitivity of home employment with respect to OE. We therefore also use sales revenues as an alternative measure of offshore activity. Sales may suffer from other problems, however, as they can be affected by transfer pricing. Yet we ﬁnd estimation results with offshore sales to be similar to those with employment, and therefore only report results based on employment. Between 1998 and 2001, measure (1) of OE at German MNEs increased by .059 across all sectors on average, translating into a 5.9 percentage point increase in the share of foreign employment in total MNE employment. 
+In estimation, we discern offshore activities by four aggregate locations: CEE (Central and Eastern Europe), DEV (Developing countries), OIN (Overseas Industrialized countries), and WEU (Western Europe). Following Muendler and Becker (2010), we choose these regions to be ge- ographically coherent and to include broadly similar countries in terms of labor-force skills and institutional characteristics (see Appendix Table II.1). The four aggregate locations host similarly large manufacturing workforces for German manufacturing MNEs in 2000: between 250,000 and 400,000 workers. CEE and WEU share borders with Germany and are contiguous, whereas OIN includes non-European industrialized countries, and DEV spans the remaining developing coun- tries throughout Africa, Latin America and the Asia-Paciﬁc region. 
+15The Head and Ries measure naturally varies between zero and one. An alternative measure is the ratio between offshore and onshore activities (Slaughter 2000). For any location ℓ, that ratio is independent of the size of the parent’s operations at another location (the ratio between employment in low-income countries and home employment is independent of employment in high-income countries). Being an unbounded ratio, however, it can be more sensitive to outliers. 
+10 
+
+========11========
+
+3 Offshoring and Onshore Employment Composition 
+We observe German employment by sector and ﬁrm, and by task and education. Consider em- ployment Ltsf at time t in sector s and at a ﬁrm of type f (such as an MNE or a non-MNE). To describe sources of change in employment at ﬁrms and in sectors, we can deﬁne the following decomposition in the spirit of a shift-and-share analysis between periods t and t+τ: 
+( 
+Lt+τs 
+Lt 
+s 
+ 
+( 
+Lt+τsf Ltsf 
+ 
+) 
+Ltsf 
+= 
+Lt+τ 
+ 1 
+Lt 
+  
+Aggregate Effect 
++ 
+) (t+τ ) 
+ 
+L 
++ 
+Lt+τsf 
+Lt 
+Lt 
+ 
+Lt+τs 
+  
+sf 
+Lt 
+, 
+ 
+s 
+ Sector Mix Effect Individual Effect 
+(2) 
+where Lts  
+∑ 
+f 
+Ltsf denotes employment in sector s and Lt  
+∑ ∑ 
+s f 
+Ltsf denotes economy-wide employment. 
+The aggregate effect measures the percentage change in economy-wide employment; this term isolates ﬂuctuations in aggregate labor demand and aggregate labor supply over the period. The sector mixterm captures deviations in sector-speciﬁc employment changes from the economy-wide employment changes, indicating whether a given sector grows faster or slower than the economy- wide average. Within sectors, there are various types of ﬁrms including MNEs and non-MNEs. The individual effect measures how these types of ﬁrms change employment within their respective 
+sectors. 
+Overall employment shifts. 
+Table 2 applies decomposition (2) to the manufacturing, services and commerce sectors between 1998 and 2001 and discerns plants into those at MNEs, at non- MNEs and at indeterminate ﬁrms (plants at indeterminate ﬁrms could not be perfectly string matched to either MNEs or non-MNEs). Plants that enter or exit over the sample period, and plants at ﬁrms that switch between MNE and non-MNE status, are kept in the sample of Table 2. As a consequence, ﬁrms with switches between status groups shift employment between groups. Employment can therefore fall because plants exit from the sample or ﬁrms change status, and employment can increase because of plant entry into the sample or ﬁrms switching into a status. 
+Table 2 shows the initial employment allocation (column 5). In 1998, close to 27 percent of German employment is in manufacturing, almost 56 percent in services, 15 percent in commerce, and the omitted remaining employment occurs in agriculture and mining (2 percent). The preced- ing string match allows us to associate close to 7 percent of plant employment clearly with MNEs and 16 percent clearly with non-MNEs. However, the deliberately cautionary string-matching rou- tine classiﬁes 77 percent of employment as indeterminate. This conservative approach makes sure that our comparisons between MNEs and non-MNEs are precise. 
+Overall employment across all sectors (including agriculture and mining beyond manufactur- ing, services and commerce) expands by 4.3 percent over the sample period (column 2 and ﬁnal row). This employment growth is not balanced, however. Manufacturing and commerce employ- ment grow 1.3 and 1.5 percent slower than aggregate employment, whereas services employment 
+grows 1.7 percent faster than average. 
+MNEs grow faster than non-MNEs in all sectors. In fact, non-MNEs slightly shrink in the aggregate. At MNEs, employment expands more than 11 percent during the sample period (col- umn 1), rising by 8 perent at manufacturing MNEs, 12 percent at commerce MNEs and 19 percent 
+11 
+
+========12========
+
+Table 2: EMPLOYMENT CHANGES INCLUDING FIRM ENTRY AND EXIT, 1998-2001 
+Overall Change 
+(1) 
+Decomposition 
+Aggregate Sector Mix Individual 
+(2) (3) (4) 
+Employment share in 1998 
+(5) 
+Manufacturing plants at MNEs 
+Non-MNEs Indeterminate ﬁrms Total 
+Services plants at MNEs 
+Non-MNEs Indeterminate ﬁrms Total 
+Commerce plants at MNEs 
+Non-MNEs Indeterminate ﬁrms Total 
+Total plants at MNEs 
+Non-MNEs Indeterminate ﬁrms Total 
+.076 -.020 .033 .031 
+.043 .043 .043 .043 
+-.013 -.013 -.013 -.013 
+.045 -.050 .002 
+.036 .041 .192 .269 
+.188 .017 .063 .061 
+.043 .043 .043 .043 
+.017 .017 .017 .017 
+.128 -.044 .002 
+.019 .077 .459 .555 
+.117 -.016 .035 .028 
+.043 .043 .043 .043 
+-.015 -.015 -.015 -.015 
+.088 -.044 .006 
+.010 .035 .108 .153 
+.111 -.002 .047 .043 
+.043 .043 .043 .043 
+.068 -.046 .004 
+.065 .160 .775 1.000 
+Source: Linked STATISTIK-BA/MIDI data 1998-2001. 
+Notes: A ﬁrm is a multinational enterprise (MNE) if the ﬁrm has positive offshore employment in a given year. Employment change decomposition using (2). Plants of indeterminate ﬁrms cannot be perfectly string matched to either MNEs or non-MNEs. 
+at services MNEs in the aggregate. In contrast, overall employment shrinks at non-MNEs, drop- ping by 2 percent at manufacturing non-MNEs, by 1.6 percent at commerce non-MNEs but rising by 1.7 percent at services non-MNEs. Taking out aggregate change and a shift in the sector mix, the individual effect for non-MNEs is negative in all three sectors, however (column 4). The observed employment changes at indeterminate ﬁrms are between the changes at MNEs and non-MNEs in all sectors (columns 1 and 4), consistent with the cautionary string matching approach by which the group of indeterminate ﬁrms contains a mix of MNEs and non-MNEs. The performance of ﬁrms in commerce appears more similar to manufacturing ﬁrms than to services ﬁrms—one reason why we choose to separate commerce from core services sectors (ﬁnancial and business services, personal services, and utilities and construction). 
+OE at German MNEs rose by 23 percent, from 3.1 to 3.8 million workers, during the same period.16 Most of this increase occurred in German services MNEs, where OE rose by 48 percent, from over 1.3 to just under 2.0 million. At manufacturing MNEs, OE remained roughly constant at between 1.5 and 1.6 million workers. 
+16We base these ﬁgures on ownership-share weighted 
+OE as in later estimation. At majority-owned foreign afﬁliates, employment also increased by 23 percent, from 3.0 to 3.7 million workers (unweighted employment rose by 25 percent, from 3.8 million to 4.7 million). 
+12 
+
+========13========
+
+Table 3: EMPLOYMENT CHANGES AT CONTINUING PLANTS, 1998-2001 
+Overall Change 
+(1) 
+Aggregate Sector Mix Individual 
+Manufacturing plants at MNEs with OE expansion MNEs with OE reduction Non-MNEs 
+Indeterminate ﬁrms Total 
+Services plants at MNEs with OE expansion MNEs with OE reduction Non-MNEs 
+Indeterminate ﬁrms Total 
+Commerce plants at MNEs with OE expansion MNEs with OE reduction Non-MNEs 
+Indeterminate ﬁrms Total 
+Total plants at 
+MNEs with OE expansion MNEs with OE reduction Non-MNEs 
+Indeterminate ﬁrms Total 
+.132 -.060 .025 .014 .021 
+.278 -.040 .024 .038 .041 
+.295 -.092 .029 -.015 -.0001 
+.194 -.061 .023 .019 .025 
+Decomposition 
+(2) 
+(3) 
+(4) 
+Employment share in 1998 
+(5) 
+.025 .025 .025 .025 .025 
+-.004 -.004 -.004 -.004 -.004 
+.111 -.081 .004 -.007 
+.025 .018 .030 .196 .269 
+.025 .025 .025 .025 .025 
+.016 .016 .016 .016 .016 
+.237 -.081 -.017 -.003 
+.014 .011 .059 .470 .555 
+.025 .025 .025 .025 .025 
+-.025 -.025 -.025 -.025 -.025 
+.296 -.092 .029 -.015 
+.005 .007 .028 .114 .153 
+.025 .025 .025 .025 .025 
+.170 -.085 -.002 -.005 
+.045 .036 .123 .796 1.000 
+Source: Linked STATISTIK-BA/MIDI data 1998-2001, balanced panel of MNE plants 1998-2001. 
+Notes: A ﬁrm is a multinational enterprise (MNE) if it has positive offshore employment in 1998 or in 2001. Em- ployment change decomposition using (2). Plants of indeterminate ﬁrms cannot be perfectly string matched to either 
+MNEs or non-MNEs. 
+To track the effect of changes in offshoring employment at existing MNEs, we restrict our sample to continuing plants with a presence in both the initial sample year 1998 and the ﬁnal year 2001. For this sample of continuing plants, we discern between MNEs with an OE expansion of offshore employment and those with a reduction. Table 3 shows the results of decomposition (2) 
+for continuing plants. 
+Overall employment expands by only 2.5 percent at continuing plants over the sample period (column 2 and ﬁnal row). Taken together with the overall employment growth rate of 4.3 percent in Table 2 before, we can infer that the difference of 1.7 percent employment growth is due to net entry of plants. The employment growth at continuing plants is also not balanced. Manufacturing employment grows 0.4 percent more slowly than aggregate employment and services employment 
+grows 1.6 percent faster than average. 
+Across all sectors, continuing MNEs with an OE expansion grow the fastest with a rate of 19.4 percent (column 1 of Table 3) or 17.0 percent faster than economy-wide average (column 4). Non- MNE plants that continue in business also grow, but by only 2.3 percent overall, .2 percent slower 
+13 
+
+========14========
+
+than economy-wide average.17 The worst performing German plants are those at MNEs with OE reductions, shrinking at a rate of 6.1 percent.18 The evidence that MNEs with employment growth abroad also expand jobs at home, whereas MNEs that shrink abroad also cut jobs at home, is consistent with at least two competing explanations. First, MNEs might suffer global product- market shocks and in response change employment in the same direction at all their locations. Second, MNEs with favorable factor-market access shocks abroad and resulting foreign expansions may gain competitiveness in global product markets, allowing them to expand also at their home locations. Becker and Muendler (2008) use a propensity-score matching approach that compares observably identical ﬁrms with different OE changes to discern between the two explanations for the same German ﬁrm-worker data in 2000 and 2001. The evidence suggests that each explanation accounts for about half of the observed employment change at home. 
+Employment shifts by task and skill. 
+To investigate employment shifts by different work types, we vary the earlier decomposition exercise and now consider task types or skill groups i at ﬁrms 
+f: 
+( 
+Lt+τfi Ltfi 
+ 
+) 
+Ltfi 
+= 
+Lt+τ 
+ 1 
+Lt 
+  
+Aggregate Effect 
++ 
+(Lt+τ 
+f 
+Lt 
+f 
+ 
+ﬁrm f and 
+ 
+) (t+τ )Lt+τ 
+ 
+L 
++ 
+Lt+τfi 
+Lt 
+Lt 
+ 
+f 
+(3) 
+  
+fi 
+Lt 
+, 
+ 
+f 
+ 
+Firm Mix Effect Individual Effect 
+∑ 
+i 
+Ltfi denotes employment at 
+ 
+where Ltfi denotes employment by work type 
+∑ 
+i at ﬁrm f, Ltf  
+Lt  
+∑ 
+f i 
+Ltfi denotes aggregate employment. In the spirit of the earlier literature, for tasks we distinguish between non-routine or interactive tasks (i) at the high end, and routine or non-interactive tasks ( i) at the low end. Regarding skills, we distinguish between highly educated workers with college-qualifying Abitur (i) and workers with less schooling ( i). We measure task-speciﬁc employment by summing the task intensities (fractions between zero and one for each occupation) across observed occupations. 
+As before, the aggregate effect measures the percentage change in economy-wide employ- ment; this term isolates ﬂuctuations in aggregate labor demand and aggregate labor supply over the period. The ﬁrm mix term captures deviations in employment changes by ﬁrm type from the economy-wide employment changes, indicating whether a given ﬁrm type grows faster or slower than the economy-wide average. Within ﬁrms, there are pairs of work types. The individual effect measures how employment of work types changes within ﬁrms. We use data across all sectors of the economy for the decomposition (including agriculture and mining in addition to manufac- turing, services and commerce). The samples with available information for tasks and for skills differ slightly. We therefore apply the aggregate and ﬁrm mix effects measured in the task sam- ple also to the skills sample. The shift-share decomposition offers an alternative to regressions of workforce characteristics on offshoring dummies in a cross section of plants (e.g. Biscourp and Kramarz 2007). The additivity of between-sector, between-ﬁrm and within-ﬁrm components permits a direct comparison among main sources of change. 
+17Taken together with evidence from Table 2 before, we can infer that it is net plant exit that makes non-MNE plants 
+shrink overall. 
+18Again, observed employment changes at indeterminate ﬁrms are between the changes at ﬁrms of known type (columns 1 and 4), consistent with the implication of the conservative string match that the group of indeterminate 
+14 
+
+========15========
+
+Table 4: EMPLOYMENT CHANGES BY TASK AND SKILL AT CONTINUING PLANTS, 1998-2001 
+Overall Change 
+(1) 
+Aggregate Firm Mix Individual 
+MNEs with OE expansion Non-routine tasks Routine tasks Interactive tasks Non-Interactive tasks Highly educated (Abitur) Less educated Total 
+MNEs with OE reduction Non-routine tasks Routine tasks Interactive tasks Non-Interactive tasks Highly educated (Abitur) Less educated Total 
+Non-MNEs 
+Non-routine tasks Routine tasks Interactive tasks Non-Interactive tasks Highly educated (Abitur) Less educated Total 
+Total 
+Non-routine tasks Routine tasks Interactive tasks Non-Interactive tasks Highly educated (Abitur) Less educated Total 
+.232 .175 .215 .190 .388 .155 .196 
+-.040 -.068 -.057 -.057 .073 -.082 -.057 
+.019 .022 .016 .024 .087 .015 .021 
+.037 .017 .019 .026 .128 .008 .024 
+Decomposition 
+(2) 
+(3) 
+(4) 
+Employment share in 1998 
+(5) 
+.024 .024 .024 .024 .024 .024 .024 
+.172 .172 .172 .172 .172 .172 .172 
+.035 -.022 .018 -.007 .192 -.041 
+.017 .028 .012 .033 .008 .037 .045 
+.024 .024 .024 .024 .024 .024 .024 
+-.081 -.081 -.081 -.081 -.081 -.081 -.081 
+.017 -.011 .0002 -.00008 
+.130 -.025 
+.014 .022 .010 .026 .006 .030 .036 
+.024 .024 .024 .024 .024 .024 .024 
+-.003 -.003 -.003 -.003 -.003 -.003 -.003 
+-.002 .001 -.005 .002 .066 -.006 
+.039 .083 .036 .087 .010 .112 .123 
+.024 .024 .024 .024 .024 .024 .024 
+.012 -.007 -.005 .002 .104 -.016 
+.365 .635 .296 .704 .131 .869 1.000 
+Sources: Linked STATISTIK-BA/MIDI data 1998-2001 and BIBB-IAB worker survey 1998/99, balanced panel of MNE 
+plants 1998-2001 in any sector. 
+Notes: A ﬁrm is a multinational enterprise (MNE) if it has positive offshore employment in 1998 or in 2001. Task measures based on restrictive interpretation. Task-speciﬁc employment is the sum of task intensities (fractions between zero and one per occupation) across observed occupations. Employment change decomposition using (3). Decompo- 
+sitions for skill adjusted to match sample for tasks. 
+15 
+
+========16========
+
+The individual effects in Table 4 (column 4) show that all MNEs, both with expanding and shrinking OE, reallocate their onshore workforces towards high-end (non-routine and interactive) tasks and towards more highly skilled workers. There is a considerable overall shift towards high- end tasks. MNEs with OE expansions raise employment in non-routine tasks by 3.5 percent and in interactive tasks by 1.8, while MNEs with OE reductions shrink overall employment but still expand non-routine tasks by 1.7 percent. The opposite change in the task composition occurs at non-MNEs, they reduce employment in high-end (non-routine and interactive) tasks and raise employment in low-end tasks. However, non-MNEs do raise the employment of highly skilled workers, as do MNEs. The difference in the work type reallocation between MNEs and non-MNEs for tasks but not skills suggests that tasks capture a distinct workforce characteristic separate from 
+skills. 
+Much of the existing empirical literature that investigates international economic integration and its effect on workforce composition takes the wage-bill share of work types as the main out- come variable. In that spirit, we revisit decomposition (3) now for the wage bill and consider work 
+types i at ﬁrms f: 
+( 
+Wt+τfi Wtfi 
+ 
+) 
+Wtfi 
+= 
+Wt+τ 
+ 1 
+W 
+t 
+   
+Aggregate Effect 
++ 
+(W 
+t+τ 
+f 
+W 
+t  
+f 
+ 
+ﬁrm f and 
+) (t+τ )W 
+ 
+W 
++ 
+Wt+τfi 
+t+τ 
+W 
+t 
+Wt 
+ 
+f 
+  
+fi 
+W 
+t 
+, 
+ 
+f 
+ Firm Mix Effect Individual Effect 
+(4) 
+where Wt denotes the wage bill of work type i at ﬁrm f, W 
+t 
+ 
+∑ 
+f i 
+Wtfi 
+fi 
+denotes the wage bill at 
+W 
+t 
+ 
+∑ ∑ 
+f i 
+Wtfi is the aggregate wage bill. One interpretation of the wage bill is that it measures employment in current efﬁciency units. To assign a wage bill to a task, we weight a worker’s wage with the worker’s occupational task intensity (a fraction between zero and one per 
+occupation) and sum over worker observations. 
+For the wage bill, the aggregate effect reﬂects both the percentage change in the economy-wide nominal wage and the percentage change in economy-wide employment. Therefore the term takes out economy-wide changes in the real wage and inﬂation, in addition to aggregate labor supply and demand ﬂuctuations. The ﬁrm mix term captures deviations in wage bill changes by ﬁrm type from the economy-wide wage bill changes. The individual effect measures how the wage bill of work types changes within ﬁrms. As before, the samples with available information for tasks and for skills differ slightly. We therefore apply the aggregate and ﬁrm mix effects measured in the 
+task sample also to the skills sample. 
+Similar to the evidence on employment changes before, the wage bill decomposition in Table 5 (column 4) shows a strong shift towards high-end (non-routine and interactive) tasks at MNEs, irrespective of whether MNEs expand or shrink their OE. In contrast with the employment decom- position before, however, the wage bill of non-routine tasks markedly increases also at non-MNEs. We know from Table 4 above that employment in non-routine tasks shrinks at non-MNEs, so the increasing wage bill in non-routine tasks must be due to wage increases. This evidence is con- sistent with predictions of the trade-in-tasks model by Grossman and Rossi-Hansberg (2008). As offshoring progresses and domestic employment shifts towards tasks that are relatively more costly 
+ﬁrms contains a mix of ﬁrm types. 
+16 
+
+========17========
+
+Table 5: WAGE BILL CHANGES BY TASK AND SKILL AT CONTINUING PLANTS, 1998-2001 
+Overall Change 
+(1) 
+Aggregate Firm Mix Individual 
+MNEs with OE expansion Non-routine tasks Routine tasks 
+Interactive tasks Non-Interactive tasks Highly educated (Abitur+) Less educated 
+Total 
+MNEs with OE reduction Non-routine tasks Routine tasks 
+Interactive tasks Non-Interactive tasks Highly educated (Abitur+) Less educated 
+Total 
+Non-MNEs 
+Non-routine tasks Routine tasks 
+Interactive tasks Non-Interactive tasks Highly educated (Abitur+) Less educated 
+Total 
+Total 
+Non-routine tasks Routine tasks 
+Interactive tasks Non-Interactive tasks Highly educated (Abitur+) Less educated 
+Total 
+.368 .268 .339 .298 .565 .239 .310 
+.073 .009 .047 .032 .237 -.012 .036 
+.090 .068 .075 .076 .206 .060 .076 
+.132 .079 .103 .099 .260 .067 .100 
+Decomposition 
+(2) 
+(3) 
+(4) 
+Employment share in 1998 
+(5) 
+.100 .100 .100 .100 .100 .100 .100 
+.209 .209 .209 .209 .209 .209 .209 
+.058 -.041 .029 -.011 .257 -.069 
+.024 .033 .016 .040 .012 .045 .057 
+.100 .100 .100 .100 .100 .100 .100 
+-.064 -.064 -.064 -.064 -.064 -.064 -.064 
+.037 -.028 .011 -.005 .201 -.048 
+.019 .025 .013 .031 .008 .035 .044 
+.100 .100 .100 .100 .100 .100 .100 
+-.024 -.024 -.024 -.024 -.024 -.024 -.024 
+.015 -.008 -.0009 .0004 .131 -.016 
+.038 .071 .033 .076 .012 .097 .109 
+.100 .100 .100 .100 .100 .100 .100 
+.031 -.021 .002 -.001 .160 -.033 
+.400 .600 .310 .690 .171 .829 1.000 
+Sources: Linked STATISTIK-BA/MIDI data 1998-2001 and BIBB-IAB worker survey 1998/99, balanced panel of MNE 
+plants 1998-2001 in any sector. 
+Notes: A ﬁrm is a multinational enterprise (MNE) if it has positive offshore employment in 1998 or in 2001. Task measures based on restrictive interpretation. The task-speciﬁc wage bill is the sum of worker wages times the worker’s occupational task intensity (a fraction between zero and one per occupation) across observed occupations. Wage bill change decomposition using (4). Decompositions for skill adjusted to match sample for tasks. 
+17 
+
+========18========
+
+to offshore, workers who shift into hard-to-offshore tasks can experience a wage increase regard- less of their sector of employment, even if their skills are susceptible to offshoring. For tasks that require personal interaction, however, the wage response at non-MNEs only mitigates the employ- ment effect (Table 4) but does not overturn it so that the wage bill drops at non-MNEs (Table 5). Across all types of ﬁrms, both employment (Table 4) and wage bills (Table 5) of highly educated workers increase. 
+In summary, there is a shift of employment and wage bills towards high-end (non-routine and interactive) tasks at MNEs, irrespective of whether MNEs expand or shrink their offshore employ- ment. MNEs also raise the employment and wage bill shares of highly educated workers. Those responses are reminiscent of the pairwise correlations above (Table 1): plants with a greater wage- bill share of highly educated workers also have a large wage-bill share in high-end tasks. High-end (non-routine and interactive) tasks are typically considered less tradable and offshorable. In con- trast with Jensen and Kletzer (2010), the shift-share analysis and pairwise correlations might there- fore lead us to predict that less skilled workers are more susceptible to offshoring. However, the employment changes at MNEs are not the reverse of those at non-MNEs. Non-MNEs reduce em- ployment in high-end tasks, contrary to MNEs, but raise the employment of highly skilled workers similar to MNEs. The following section investigates to what extent the apparent covariations and the observed shift towards high-end tasks at MNEs hold up to closer scrutiny when controlling for additional plant-level characteristics and discerning regions with OE expansions. 
+4 Estimation 
+Shift-share analysis provided insight into the relationship between offshoring and onshore labor demand. Shift-share analysis does not control for confounding factors. We now turn to regression analysis, which allows us to factor in plant speciﬁc effects, to condition on capital-output ratios and MNE size, and to control for sector-level information. We follow the prior literature and consider a reduced-form estimation approach to predict the relative demand for work types at domestic ﬁrms for varying levels of foreign exposure. 
+4.1 Estimation Strategy 
+Consider relative demand for work type i at an onshore plant j of MNE k with offshore employ- ment (OE) at foreign location ℓ in year t:19 
+θijt = 
+∑ 
+γℓ OEkℓt + βK ln 
+Kkt wijt 
+ℓ Y 
++ βY lnYkt 
+jt 
++ βw ln 
+w 
++ αijt 
+j 
++ αt + εijt, (5) 
+ 
+where θijt is the share of work type i in the total wage bill at plant j (measuring either task, skill or occupation wage bills), Kkt/Ykt is the parent-level capital-output ratio at MNE k, Yjt is real value added at plant j, wijt is the wage of work type i at plant j, w 
+ ijt 
+is the composite wage of the complementary work type not in i, αj is a plant-speciﬁc effect, αt is a year effect, and εijt an additive disturbance. 
+19Equation (5) is a common speciﬁcation in related research (Slaughter 2000, Head and Ries 2002, Hansson 2005). 
+18 
+
+========19========
+
+Equation (5) follows from a conventional factor-demand system under some simplifying as- sumptions on the cost function. The speciﬁcation collapses MNE k’s OE of any work type in individual countries into employment in more aggregate locations: OEkℓt.20 In our data, foreign workers are not distinguishable by work type. Therefore, we do not treat foreign employment as simultaneous factor demands in a multi-equation demand system. We instead treat OE as a quasi-ﬁxed factor at the time of the onshore workforce choice. The speciﬁcation makes our skill composition results closely comparable to the existing literature (Slaughter 2000, Head and Ries 2002, Hansson 2005) and thus provides a common benchmark for our novel task composition anal- ysis. The economic motivation for a single equation (5) is that exogenous changes in offshoring costs trigger foreign employment adjustments at a longer time horizon than decisions on onshore tasks. A plausible rationale for the MNE’s sequential choice is the presence of ﬁxed coordination costs or sunk investment costs associated with offshore activities. 
+The wage ratio wijt/w 
+ ijt 
+accounts for variation in the wage-bill share θijt that is explained by relative factor prices and restricts the own- and composite cross-wage coefﬁcients to be equal in absolute value.21 Capital enters as a quasi-ﬁxed factor. The capital-output ratio captures un- observed user costs of capital at the parent level and accounts for variation in θijt due to capital deepening. The plant-speciﬁc effect conditions on unobserved time-invariant plant heterogeneity. Time dummies control for changes in the workforce composition that are common to all plants. Any terms-of-trade effects associated with trade in tasks should be subsumed in these year effects. 
+The coefﬁcients of foremost interest are γℓ, which can best be interpreted as capturing differen- tial responses of MNEs to their individual offshoring conditions beyond any general-equilibrium effects. We wish to test whether γℓ is different from zero and to quantify its economic relevance. To do so, we assess the predicted relationship between OEkℓt and the wage-bill of different work types.22 
+A source of potential bias may arise from the presence of the log wage ratio ln (wit/w 
+ it) 
+be- cause wages also enter the dependent wage-bill share variable. In a baseline speciﬁcation we follow Slaughter (2000) and Head and Ries (2002), who omit ln (wit/w 
+ it). To check robustness, we also include the relative wage term and ﬁnd other coefﬁcient estimates to remain similar. We also run regressions with employment shares rather than wage-bill shares as left-hand side variables. 
+We estimate several variants of speciﬁcation (5) to assess robustness. We use the ratio between imported intermediates and output at the industry level to control for offshore outsourcing to in- dependent suppliers abroad. We include product-market import penetration to remove potentially spurious correlations with foreign competition and we control for R&D intensity to proxy for tech- nical change. We use the industry-speciﬁc average wage-bill share of work type i in plants of non-MNEs in order to control for common trends in wage-bill shares that affect all ﬁrms within an industry. This variable also addresses concerns about changes in the supply of highly educated 
+20This strategy is similar to Hansson (2005). An alternative speciﬁcation would be to interact the 
+OE measure with the per-capita income of the host country (see Head and Ries (2002) for a discussion). 
+21This is tantamount to assuming the short-run cost function for onshore activities to be linearly homogenous in the wages of the different work types entering the cost function. 
+22We largely interpret this relationship as an informative correlation for theory and further empirical work rather than a causal one. However, we also ran instrumental variables speciﬁcations where we use the two-year lag of foreign labor input as an instrument, in the spirit of Blundell and Bond (2000) who use lagged factor inputs as instruments for present factor inputs to estimate production functions. The IV results conﬁrm the OLS results. We report the IV results in our Online Supplement IV. 
+19 
+
+========20========
+
+workers, which could lead to a coincidentally increasing proportion of highly educated workers unrelated to offshoring. 
+There may be important differences in the response to changing offshoring costs depending on whether it leads the ﬁrm to become an MNE or merely expand existing foreign operations. Muendler and Becker (2010) document that responses at the extensive margin of MNE entry ac- count for a substantial part of German MNEs’ total employment response to wage differentials between Germany and foreign locations. For this paper, we conducted robustness checks on the relevance of selection into ﬁrst-time MNE status but found the coefﬁcient estimates for OE not to be affected in any substantive way. Taken together, the ﬁndings are consistent with the interpreta- tion that selection matters less for the composition than for the level of parent employment. 
+When estimating equation (5) for the wage-bill share of highly educated workers we also con- trol directly for the task composition at the plant. This allows us to assess whether shifts in task composition alone account for shifts in the workforce’s educational proﬁle. A statistically signif- icant positive estimate of γℓ in the presence of the task-content control variable is consistent with the interpretation that offshoring is associated with educational upgrading in excess of what can be explained by changes in the task recomposition. Similarly, including the white-collar wage- bill share allows us to examine whether offshoring predicts educational upgrading in excess of occupational recomposition. 
+4.2 Estimation Results 
+We estimate equation (5) for each of the four advanced work types: non-routine and interactive tasks, educational attainment and white-collar occupations. 
+Non-routine and interactive tasks. We start with regressions of the wage-bill shares of non- routine and interactive tasks and ﬁt the model to all MNE plants as well as separately to MNE plants in manufacturing, services, and commerce. FDI in commerce primarily involves setting up sales afﬁliates abroad. This type of FDI might be viewed as a speciﬁc form of horizontal FDI where the ﬁrm duplicates home production abroad in order to save on trade costs. Retail and wholesale services simply cannot be delivered at a distance, implying that cross-border trade costs arguably are prohibitive for most commerce. As a consequence, one might expect offshore and onshore activities to be largely dissociated and onshore employment unaffected by offshoring in commerce. FDI in services, on the other hand, can potentially involve upstream activities that differ from those carried out at home so that cost reduction is a potentially important motive. FDI in services may therefore involve both horizontal and vertical FDI, similar to manufacturing. 
+We estimate equation (5) both for plant ﬁxed and plant random effects. Results are generally similar and for the most part we focus on the results from random effects estimation. Hausman tests fail to reject exogeneity of the random effects. We take this as support for using the random- effects model, which is preferable on efﬁciency grounds. In this section, we only present results based on the stricter classiﬁcation into non-routine and interactive tasks.23 
+23Table III.1 in our Online Supplement III also presents results for the more lenient classiﬁcation and the Spitz- Oener (2006) deﬁnition of non-routine and interactive tasks. 
+20 
+
+========21========
+
+ 
+ 
+(10) 
+(.587) 
+(.177) 
+(.191) 
+(.098) 
+(.094) 
+(.126) 
+ 
+ 
+ 
+ 
+(9) 
+(.187) 
+(.265) 
+(.158) 
+(.195) 
+(.208) 
+(.974) 
+ 
+ 
+ 
+(8) 
+(.167) 
+(.215) 
+Random Effects 
+(1.429) 
+(.119) 
+(.110) 
+(.092) 
+Interactive tasks 
+one percent. 
+ASKS 
+ 
+T 
+ 
+(.072) 
+(.051) 
+(.063) 
+(.064) 
+(.065) 
+(.293) 
+ﬁve, 
+(.195) 
+-.334 
+ 
+ 
+All All Manuf. Serv. Comm. 
+FE 
+(6) (7) 
+.025 .042 -.053 -.477 .029 
+(.085) 
+.044 -.072 -.125 -.212 .204 
+(.065) 
+.088 .087 .292 .272 -.167 
+(.064) 
+.103 .092 .254 .363 -.126 
+(.064) 
+(.065) 
+.006 .005 .025 .007 .015 
+.013 .024 .022 .067 .00002 
+.013 .023 .022 .061 .0001 
+1.319 1.653 2.265 2.594 .683 
+-.001 -.016 .198 .209 -.228 
+5,008 5,008 1,876 1,020 2,112 
+(.352) 
+NTERACTIVE 
+I 
+ 
+ 
+signiﬁcance at ten, 
+ 
+(5) 
+(.193) 
+(.190) 
+(.222) 
+(1.474) 
+(.271) 
+(.390) 
+ROUTINE AND 
+- 
+ 
+ON 
+N 
+(4) 
+(.458) 
+(.456) 
+(.420) 
+(.503) 
+(.489) 
+worker survey 1998/99, balanced panel of MNE plants. 
+(2.030) 
+IAB 
+- 
+ 
+ 
+ 
+ 
+BIBB 
+(3) 
+(.314) 
+(.435) 
+Random Effects 
+(2.214) 
+(.189) 
+(.186) 
+(.210) 
+FFSHORING AND 
+Non-routine tasks 
+ 
+ 
+ 
+ 
+ 
+(.127) 
+(.125) 
+(.126) 
+(.585) 
+(.144) 
+(.102) 
+data 1998-2001 and 
+.187 
+(.359) 
+Table 6: O 
+ 
+ 
+ 
+ 
+ 
+MIDI 
+All All Manuf. Serv. Comm. 
+FE 
+(1) (2) 
+/ 
+.033 .524 .139 -.423 .503 
+(.165) 
+.270 .206 .527 .653 -.217 
+.305 .243 .592 .781 -.170 
+.275 .197 .613 .654 -.177 
+.010 .004 .026 .023 .002 
+.003 .069 .012 .001 .098 
+.002 .064 .013 .002 .093 
+-.331 .322 -.221 -.411 .782 
+(.124) 
+(.125) 
+(.127) 
+5,008 5,008 1,876 1,020 2,112 
+(.686) 
+(.126) 
+BA 
+- 
+statistic) 
+F 
+STATISTIK 
+RE 
+ℓ 
+γ 
+ 
+: Linked 
+: Wage-bill shares in percent, varying between zero and 100. Estimators are plant ﬁxed (FE) and plant random effects. Hausman test of random effects 
+F E 
+ℓ 
+(within) 
+(between) 
+(overall) 
+γ 
+2 
+2 
+2 
+Sectors 
+Estimator 
+Offshore empl. share 2.693 2.505 3.671 4.317 .735 
+LogCap./Val. add. 
+Log Value added 
+Year 1999 
+Year 2000 
+Year 2001 
+Hausman test ( 
+Obs. 
+R 
+R 
+R 
+Sources 
+Notes 
+speciﬁcation for all sectors against FE speciﬁcation. Standard errors in parentheses: 
+21 
+
+========22========
+
+Table 6 shows estimates for worldwide offshoring. The ﬁrst ﬁve columns present the results for non-routine tasks and the last ﬁve columns the results for interactive tasks. The two ﬁrst columns for each of the task types report results for the whole sample with all sectors. The ﬁrst column is based on plant ﬁxed effects and the second column on plant random effects estimation. The last three columns for each task type show the results from random-effects estimations for manufac- turing, services, and commerce separately. The point estimates for the offshoring variable are the estimated percentage-point change in the wage-bill share associated with a one unit increase in the offshoring measure, which by construction varies between zero and one (see eq. (1)). 
+The estimated coefﬁcients for offshore employment in Table 6 are positive and statistically signiﬁcant at the one-percent level in all regressions, except in commerce. For non-routine tasks, the estimated coefﬁcient is somewhat higher in services than in manufacturing, but for interactive tasks the estimated coefﬁcients are similar in magnitude across sectors. In commerce, the estimated coefﬁcient of offshore employment is much closer to zero, which is also reﬂected in the fact that the estimated coefﬁcients for the all-sector sample are smaller than the ones for manufacturing and services separately. As noted before, offshore employment increased by .059 across all sectors between 1998 and 2001. This means that the coefﬁcient estimate in column 2, for instance, implies a .15 (2.505  .059) percentage point increase in the wage-bill share of non-routine tasks across all sectors. We will quantify the economic relevance of these and further estimates in Table 10 below. 
+The random-effects estimates for all sectors in Table 6 suggest that non-routine tasks are per- formed more frequently at MNE plants whose parent is larger in value added and more capital intensive. But neither size nor capital intensity are signiﬁcantly associated with the wage-bill share of interactive tasks. While the estimated coefﬁcients of year dummies are highly signiﬁcant for the sample of manufacturing MNEs, they show no clear time pattern. The positive association between offshoring and the wage-bill share of non-routine and interactive tasks is robust to the choice of task classiﬁcation and the inclusions of industry-level controls.24 
+The association between onshore employment and offshoring may depend on the type of lo- cation of the MNE’s afﬁliates. Table 7 presents results when offshore employment is divided into the four aggregate locations CEE (Central and Eastern Europe), DEV (Developing countries), OIN (Overseas Industrialized countries), and WEU (Western Europe).25 
+All results are based on plant random effects estimates. For both non-routine and interactive tasks, the estimated coefﬁcients for offshoring to rich host regions OIN and WEU are positive throughout, i.e. for all sectors combined (columns 1 and 4) as well as when looking at manu- facturing (columns 2 and 5) and services (columns 3 and 6) separately.26 The estimates are also statistically signiﬁcant at the ﬁve-percent level in the all-sector sample and in most sub-sector spe- ciﬁc regressions. The picture is somewhat different for the lower-income regions CEE and DEV. For CEE, the coefﬁcient estimates are generally smaller in absolute value and in some cases take on negative signs (but in those cases the estimates are statistically insigniﬁcant). For DEV, coefﬁcient 
+24Results are reported in Tables III.1 and III.2 in our Online Supplement III. 
+25We also looked at alternative speciﬁcations, using host region GDP as an interaction variable, similar to Head and Ries (2002). It turned out that this was unsuitable in the case of Germany, where CEE and WEU are both geographically close, but have different GDP levels. 
+26As expected, there is no statistically detectable relationship between offshore employment and the onshore work- force composition in commerce. In the remainder of this section, we restrict our attention to manufacturing and services. Note, however, that the results for all sectors combined include commerce. 
+22 
+
+========23========
+
+ 
+ 
+ 
+ 
+ 
+one percent. 
+(6) 
+(.187) 
+.276 
+.365 
+.213 
+(.271) 
+.007 
+.069 
+.062 
+Serv. 
+(2.744) 
+(2.430) 
+2.017 
+-.487 
+1020 
+2.642 
+3.170 
+2.599 
+-.214 
+(.162) 
+(.196) 
+(.202) 
+(1.110) 
+(1.278) 
+ 
+ﬁve, 
+ 
+EGIONS 
+R 
+ 
+ 
+ 
+ 
+(5) 
+(.675) 
+(.138) 
+(.215) 
+.283 
+.225 
+.216 
+.053 
+.025 
+.026 
+-.392 
+(4.372) 
+(1.211) 
+(.113) 
+1876 
+6.904 
+2.879 
+1.444 
+-.045 
+-.135 
+(.110) 
+(.977) 
+(.096) 
+Manuf. 
+ORLD 
+W 
+Interactive tasks 
+signiﬁcance at ten, 
+ 
+OUR 
+ 
+ 
+: F 
+All 
+(4) 
+.343 
+(.465) 
+.031 
+(.102) 
+(.109) 
+.077 
+(.064) 
+.080 
+(.072) 
+(.087) 
+.009 
+.026 
+.025 
+(2.716) 
+4.020 
+1.615 
+-.072 
+-.006 
+5008 
+2.636 
+(.679) 
+(.970) 
+ASKS 
+T 
+ 
+ 
+(3) 
+.922 
+(.455) 
+(.456) 
+.631 
+(.422) 
+.743 
+(.496) 
+.644 
+(.490) 
+.033 
+Serv. 
+(2.427) 
+(3.730) 
+-.437 
+1020 
+8.394 
+(4.353) 
+1.149 
+6.210 
+-.402 
+.0003 
+.0008 
+(2.768) 
+NTERACTIVE 
+I 
+ 
+ 
+ 
+ 
+ 
+worker survey 1998/99, MNE plants only. 
+(2) 
+.04 
+.101 
+(.282) 
+(.432) 
+.527 
+.545 
+.671 
+.046 
+.046 
+(1.481) 
+(2.272) 
+6.080 
+-.239 
+1876 
+(6.582) 
+3.389 
+-2.240 
+11.330 
+(.192) 
+(.184) 
+(.200) 
+Manuf. 
+(2.248) 
+IAB 
+- 
+ROUTINE AND 
+- 
+Non-routine tasks 
+BIBB 
+ON 
+N 
+ 
+ 
+All 
+(1) 
+.06 
+.491 
+(.302) 
+.331 
+(.285) 
+.184 
+(.146) 
+.218 
+(.147) 
+.222 
+(.157) 
+.008 
+.063 
+-.541 
+(1.182) 
+(4.819) 
+5008 
+7.008 
+4.178 
+(2.413) 
+3.074 
+(1.788) 
+data 1998-2001 and 
+FFSHORING AND 
+MIDI 
+/ 
+BA 
+- 
+Table 7: O 
+STATISTIK 
+: Linked 
+(within) 
+(between) 
+(overall) 
+: Estimators are plant random effects. Robust standard errors, clustered at the MNE level, in parentheses: 
+2 
+2 
+2 
+Offshore empl. share in CEE 
+Offshore empl. share in DEV 
+Offshore empl. share in OIN 
+Offshore empl. share in WEU 
+LogCap./Val. add. 
+Log Value added 
+Year 1999 
+Year 2000 
+Year 2001 
+Obs. 
+R 
+R 
+R 
+Sources 
+Notes 
+23 
+
+========24========
+
+estimates are generally positive and larger in absolute value than for the rich host regions. 
+CEE countries are different, with generally small and mostly insigniﬁcant coefﬁcient estimates. What explains the fact that offshoring to CEE countries deviates from the general pattern by which labor recomposition effects are stronger for lower-income countries? The weak effects of off- shoring to CEE countries are consistent with the idea that tasks performed in CEE countries are similar to those performed at the parent ﬁrm. Workforces in CEE countries are characterized as highly educated (see e.g. Marin 2004), so they might be able to perform similar tasks as in Ger- many, just at lower cost. Taken together with earlier ﬁndings in Muendler and Becker (2010), the results in Table 7 are consistent with the interpretation that wage gaps between Germany and CEE result in job shifts to CEE and a declining employment level at German parents but do not detectably affect the composition of the remaining employment at home. 
+Education and occupations. We now turn to the results for the more conventional workforce characteristics. These are based on regressions of the onshore wage-bill share of highly educated workers (Abitur or more) and white-collar occupations on the same predictors as the ones used above. We only report the results for manufacturing and services and put together in the same table (Table 8) the results for worldwide offshoring and offshoring to the four world regions discussed before. The ﬁrst four columns show the results for highly educated workers and the last four columns the results for white-collar workers. 
+The results for manufacturing are relatively similar across the two work types (columns 1 and 2 vis-a-vis columns 5 and 6). The estimated coefﬁcients of worldwide offshoring are positive and` 
+statistically signiﬁcant. The point estimates are somewhat higher for white-collar workers than for highly educated workers. The regional pattern reﬂects that found for upgrading to higher-end tasks: the effect is strongest for offshoring to DEV and milder for offshoring to OIN and WEU, with offshoring to CEE having the smallest (and statistically insigniﬁcant) effect. Comparing DEV with OIN and WEU, our results are similar to those in Head and Ries (2002), who found a skill-upgrading effect that diminished for higher-income host regions. In our case, the shift towards more high-end tasks (Table 7) is also stronger for developing countries (DEV) than for more developed regions (OIN and WEU). 
+The results for services, however, differ depending on whether we measure skills by education or by the white-collar/blue-collar distinction. None of the estimated coefﬁcients of offshoring are signiﬁcant in the regressions for white-collar workers. This is not surprising. Since most of the workers in the services sector are white-collar workers to begin with, we would not expect offshoring to be associated with a strong shift in this share. In the regressions for highly educated workers, however, the estimated coefﬁcient for worldwide offshoring and for offshoring to DEV and WEU countries are positive and signiﬁcant at the ﬁve-percent level or above. As in the case of task-based measures, the estimated coefﬁcients of offshoring to CEE countries are small and generally insigniﬁcant. 
+Skills and tasks. Results so far point to a positive relationship between offshoring and the wage- bill shares of all four advanced work types. Much of the debate about labor-demand effects of offshoring has centered on the question how offshoring impacts on relative skill demand. Suppose offshoring generates larger cost savings in labor-intensive industries than in skill-intensive indus- 
+24 
+
+========25========
+
+ 
+ 
+ 
+one percent. 
+(8) 
+(.738) 
+(3.582) 
+(7.249) 
+-.688 
+(4.438) 
+(1.331) 
+3.479 
+5.691 
+(15.546) 
+1.090 
+(.970) 
+(.850) 
+(.836) 
+ 
+ﬁve, 
+ 
+ 
+ 
+ 
+(7) 
+(.697) 
+(3.748) 
+(1.325) 
+2.233 
+(.970) 
+(.823) 
+(.836) 
+ 
+ 
+ 
+ 
+ 
+(6) 
+.636 
+(.600) 
+(3.427) 
+(4.320) 
+(15.848) 
+6.071 
+25.002 
+14.323 
+(.416) 
+(.447) 
+(.479) 
+(4.464) 
+(1.092) 
+signiﬁcance at ten, 
+ 
+White-collar occupations 
+ 
+ 
+ 
+ 
+ 
+(5) 
+(.717) 
+9.726 
+(5.056) 
+(.409) 
+(.446) 
+(.489) 
+(1.096) 
+CCUPATIONS 
+O 
+ 
+ 
+(4) 
+(.847) 
+(.896) 
+(.908) 
+(7.835) 
+(1.137) 
+(1.101) 
+2.587 
+(10.757) 
+23.706 
+(9.579) 
+-2.737 
+20.404 
+(9.330) 
+ 
+(3) 
+(.829) 
+(.922) 
+(.938) 
+(1.143) 
+(1.105) 
+12.328 
+DUCATION AND 
+(4.724) 
+, E 
+ 
+ 
+ 
+ 
+(2) 
+(.585) 
+(.549) 
+(3.159) 
+(3.997) 
+(.379) 
+1.658 
+(11.713) 
+5.753 
+7.477 
+(4.341) 
+16.803 
+(.405) 
+(.453) 
+FFSHORING 
+Highly educated (Abitur+) 
+ 
+ 
+ 
+ 
+(1) 
+.123 .092 1.100 1.100 -.877 -.833 -.705 -.625 
+(.607) 
+.383 .371 1.120 1.164 -3.371 -3.395 .786 .799 
+(.539) 
+.730 .732 .224 .170 1.845 1.804 2.527 2.502 
+.038 .051 .036 .053 .096 .108 .022 .022 
+.015 .013 .034 .033 .018 .024 .006 .008 
+.017 .015 .034 .034 .021 .028 .007 .008 
+(.379) 
+1871 1871 1007 1007 1876 1876 1020 1020 
+7.486 
+1.168 1.153 .782 .662 2.890 2.764 2.146 2.149 
+1.254 1.350 1.346 1.280 2.380 2.411 1.974 1.948 
+(3.573) 
+(.414) 
+(.461) 
+Manuf. Manuf. Serv. Serv. Manuf. Manuf. Serv. Serv. 
+Table 8: O 
+data 1998-2001, MNE plants only. 
+MIDI 
+/ 
+BA 
+- 
+STATISTIK 
+(within) 
+(between) 
+(overall) 
+2 
+2 
+2 
+Offshore empl. 
+Offshore empl. share in CEE 
+Offshore empl. share in DEV 
+Offshore empl. share in OIN 
+Offshore empl. share in WEU 
+LogCap./Val. add. 
+Log Value added 
+Year 1999 
+Year 2000 
+Year 2001 
+Obs. 
+R 
+R 
+R 
+: Linked 
+: Estimators are plant random effects. Robust standard errors, clustered at the MNE level, in parentheses: 
+Source 
+Notes 
+25 
+
+========26========
+
+tries, then a drop in offshoring costs can induce a drop in the relative price of the labor-intensive good. As Grossman and Rossi-Hansberg (2008) show, the relative-price effect expectedly de- presses wage bills for low-skilled workers. Arguably, whether the effect of offshoring is channeled through an onshore task recomposition, or whether there is a direct effect on skill demand, may not matter much to the individual worker. Nevertheless, it is of economic importance whether the recomposition of tasks explains the association between offshoring and the skill composition as measured by education, or whether the educational intensity increases beyond the effect required by task recomposition. We therefore check whether the association between offshoring and the wage-bill share of highly educated workers changes when we take the task recomposition of the onshore workforce into account in regressions. 
+Table 9 presents results for speciﬁcations that include the observed task composition and industry-level controls for the all-sector sample. To facilitate comparison, the ﬁrst column reports the results for a basic speciﬁcation with worldwide offshoring but no additional controls. The next three columns present results from regressions that include industry-level controls. 
+As explained before, our offshoring measure only captures situations where the activities lo- cated abroad remain within the ﬁrm and is in this sense more restrictive than measures based on information on imports of intermediate inputs (e.g. Feenstra and Hanson 1999, Amiti and Wei 2009). Foreign MNE activity, however, includes production for the local market, local services- goods bundling such as after-sales services, and local back-ofﬁce services, and is in this sense less restrictive than those measures. To check robustness of our results, we include measures of offshoring that are similar to those used by Feenstra and Hanson (1999) in their study of off- shoring effects on the relative wage of non-production workers in the United States. Our mea- sures of intermediate-input trade are based on information from the German input-output tables (at the NACE two-digit level). Column 2 includes narrow offshoring, which measures the share of imported inputs of goods produced within the industry itself, while column 3 includes broad offshoring, which is a measure of the share of imported inputs produced across all industries. Nei- ther measure is signiﬁcantly related to the wage-bill share of highly educated workers, while the estimated coefﬁcient of worldwide offshoring remains positive and statistically signiﬁcant. 
+Column 4 includes narrow offshoring together with the industry’s research intensity (R&D per output), its import penetration (imports divided by absorption) and its overall share of highly educated workers. R&D intensity is included to control for skill-biased technological change while import penetration is included to control for possible effects of increased foreign competition in the home market. The wage-bill share of highly educated workers in non-MNEs in the same industry is included to control for secular trends in the wage-bill share. As is evident from the table, none of these controls are signiﬁcantly related to the wage-bill share of highly educated workers. The estimated coefﬁcient of worldwide offshoring, however, remains signiﬁcant and is just slightly smaller than in the ﬁrst three columns. Overall, regressions with these industry-level controls suggest that MNEs’ onshore responses to offshoring conditions are not driven by industry-level changes. 
+In the last two columns of Table 9 we take on directly the question how the association between offshoring and relative onshore demand for skills is altered once the task recomposition of the onshore workforce is taken into account. In column 4 we include the employment share of high- end tasks and in column 5 we include the employment share of white-collar workers. In these columns, the estimated coefﬁcient of offshoring captures the relationship between offshoring and 
+26 
+
+========27========
+
+ 
+ 
+ 
+ 
+(6) 
+.068 
+.198 
+.189 
+6.722 
+1.376 
+1.898 
+4,921 
+(.519) 
+(.345) 
+25.609 
+(2.229) 
+(2.690) 
+signiﬁcance at ten, 
+ 
+ 
+ 
+ 
+(5) 
+.370 
+(.497) 
+.789 
+.107 
+.336 
+.317 
+5.819 
+(.325) 
+8.827 
+(14.831) 
+4,921 
+79.370 
+(1.796) 
+(7.068) 
+ 
+ 
+(4) 
+.761 
+(.529) 
+.993 
+.011 
+.075 
+.070 
+(4.517) 
+(8.539) 
+8.189 
+(.391) 
+(11.499) 
+(32.807) 
+4,915 
+11.475 
+11.026 
+-3.195 
+12.156 
+(2.235) 
+HECKS 
+C 
+ 
+ 
+ 
+(3) 
+.892 
+.974 
+.012 
+.052 
+.049 
+(.531) 
+8.442 
+-.309 
+(7.589) 
+(.384) 
+4,921 
+(2.251) 
+OBUSTNESS 
+: R 
+ 
+ 
+(2) 
+.870 
+(.534) 
+.934 
+.013 
+.051 
+.048 
+8.408 
+(.380) 
+9.853 
+(11.637) 
+4,921 
+DUCATION 
+(2.241) 
+E 
+worker survey 1998/99, balanced panel of MNE plants, all sectors. 
+IAB 
+ 
+- 
+ 
+ 
+(1) 
+.890 
+.969 
+.013 
+.052 
+.049 
+(.538) 
+8.443 
+4,921 
+BIBB 
+(.369) 
+(2.251) 
+FFSHORING AND 
+Table 9: O 
+data 1998-2001 and 
+MIDI 
+/ 
+BA 
+- 
+STATISTIK 
+one percent. 
+: Linked 
+ 
+: Estimators are plant random effects, conditional on year effects (not reported). Industry-level controls at the two-digit NACE level. Following Feenstra 
+(within) 
+(between) 
+(overall) 
+ﬁve, 
+2 
+2 
+2 
+Offshore empl. share 
+LogCapital/Valueadded 
+Log Value added 
+Industry-level controls 
+Offshoring (narrow) 
+Offshoring (broad) 
+R&D share in production 
+Import penetration share in absorption 
+Wage-bill share of highly educ. 
+workers (with Abitur+) in non-MNEs 
+Plant-level controls 
+Share of workers with non-routine tasks 
+Share of workers with interactive tasks 
+Share of white-collar workers 
+Obs. 
+R 
+R 
+R 
+Sources 
+Notes 
+and Hanson (1999), narrow offshoring includes only imported intermediate inputs from within importing industry. Broad offshoring also includes imported 
+non-energy intermediate inputs from all other industries. Robust standard errors, clustered at the two-digit industry level, in parentheses: 
+ 
+27 
+
+========28========
+
+Table 10: OFFSHORING PREDICTIONS OF WAGE BILL SHARES 
+Coefﬁcient Change in Pred. change Obs. change Contrib. to estimate offsh. emp. in wage-bill sh. in wage-bill sh. obs. change 
+All sectors 
+Non-routine tasks 2.51 Interactive tasks 1.65 Highly educated (Abitur+) 8.44 White-collar occupations 6.45 Manufacturing 
+Non-routine tasks 3.67 Interactive tasks 2.27 Highly educated (Abitur+) 7.49 White-collar occupations 9.73 Services 
+Non-routine tasks 4.32 Interactive tasks 2.59 Highly educated (Abitur+) 12.33 White-collar occupations 2.23 
+.059 .059 .059 .059 
+.148 .097 .497 .380 
+1.44 1.03 4.23 4.56 
+10.2% 9.4% 11.7% 8.3% 
+.039 .039 .039 .039 
+.145 .089 .295 .384 
+1.03 .94 3.08 3.44 
+14.1% 9.5% 9.6% 11.2% 
+.090 .090 .090 .090 
+.390 .235 1.115 .202 
+4.34 1.37 11.6 9.84 
+9.0% 17.1% 9.6% 2.1% 
+Sources: Linked STATISTIK-BA/MIDI data 1998-2001 and BIBB-IAB worker survey 1998/99, balanced panel of MNE plants. 
+Notes: Wage-bill shares in percent, varying between zero and 100. Services exclude commerce. Task measures under strict interpretation. Predictions based on coefﬁcient estimates in Tables 6, 8 and 9 controlling for plant random effects and year effects. 
+the wage-bill share of highly educated workers for a given composition of tasks or occupations. The estimated coefﬁcient is still positive and signiﬁcant at the one-percent level. However, the magnitude drops. We conclude that the wage-bill share of highly educated workers increases with offshoring in excess of what is implied by changes in the task or occupational composition. While the task and occupational composition of the onshore workforce does matter for the magnitude of the MNE’s response to offshoring conditions, it does not offer an exhaustive explanation for this response. 
+Sometimes offshoring is taken to imply the contraction of activities at home-country plants and their move to offshore locations. In order to check whether the estimated relationship differs when the ﬁrm contracts in Germany, we ran regressions in which we interact the offshoring measure with a dummy variable for employment reductions at German MNE plants. The estimated coefﬁcient of the interaction term is not signiﬁcantly different from zero. At other times, the term offshoring is used speciﬁcally to capture imports of intermediate inputs and services, in which case offshoring is more closely related to vertical FDI than to horizontal FDI. In order to check whether the distinc- tion between horizontal and vertical FDI matters for the estimated relationship we also interact the offshoring measure with an indicator whether the industry is characterized by horizontal or vertical FDI. We take the industry-level indicator for vertical and horizontal FDI industries from Harrison and McMillan (2011). Again, the estimated interaction coefﬁcients are not statistically signiﬁcant. 
+28 
+
+========29========
+
+Economic relevance. To assess the economic relevance of tasks for the association between offshoring and onshore workforce composition, we quantify the explanatory power of offshore employment for wage-bill shares of the different advanced work types. We use the offshoring coefﬁcient estimates (from Tables 6, 8 and 9) and the observed changes in offshoring employment between 1998 and 2001 to perform in-sample predictions of the implied changes in wage-bill shares. Table 10 presents estimates of the offshoring coefﬁcient in regressions of wage-bill shares by work type (column 1), the observed change in offshore employment (column 2), the implied wage-bill change obtained by multiplying these two numbers (column 3), the observed onshore wage-bill change (in column 4), and, ﬁnally, the estimated contribution of the offshoring-predicted change to the observed onshore change in wage-bill shares (column 5). 
+The offshoring measure explains around 10-15 percent of the observed shifts in onshore wage- bill shares for the majority of regression results. In manufacturing, the largest contribution is found for the wage-bill share of non-routine tasks (14 percent), while the smallest is found for the wage- bill share of interactive tasks (9.5 percent). The predicted contribution to the observed change in the wage-bill share of white-collar workers of 11 percent is close to the contribution of around 9 percent at Japanese MNEs reported by Head and Ries (2002). 
+In services, the predicted contribution to the observed changes varies more than in manufactur- ing. The smallest contribution—2 percent—is found for the wage-bill share of white-collar work- ers. As noted above, the estimated coefﬁcient of offshoring in regressions of the wage-bill share of white-collar workers is not statistically signiﬁcant. The largest contribution—17 percent—is found for the wage-bill share of interactive tasks. Offshoring is thus predicted to contribute more to the shift towards interactive tasks in services than in manufacturing. 
+Of further interest for the general equilibrium effect of offshoring on wages is whether increases in offshoring tend to occur in industries that intensively employ skilled or unskilled workers. As pointed out by Jones and Kierzkowski (1990) in a one-sector setting with offshoring and shown by Grossman and Rossi-Hansberg (2008) for a two-sector economy with two skill groups, the effect of offshoring on relative wages depends on the sector-bias of the cost-reductions generated by off- shoring. If offshoring primarily occurs in relatively skill-intensive industries, it is more likely to contribute to a widening than a narrowing of the wage gap. German ﬁrms carrying out in-house offshoring in fact tend to be considerably more skill-intensive than national ﬁrms. In 2000, the average employment share of highly educated workers was about 16 percent for MNEs and only about 8 percent for non-MNEs. Our identiﬁcation strategy, however, is based on ﬁrm-level out- comes associated with differential offshore activities, within ﬁrms and years, so that industry-wide changes are set aside by design. Our shift-share and regression evidence that MNEs expand skill- intensive high-end tasks, together with the observed skill intensity of MNEs, suggest nevertheless that offshoring at German MNEs may favor high-skill demand. 
+5 Concluding Remarks 
+Using novel plant-level data for German MNEs and detailed work-survey information on tasks, this paper analyzes the relationship between offshore employment and the onshore workforce compo- sition. Results show that tasks capture a distinct dimension of workforce composition, only partly related to conventional workforce characteristics on educational attainment and white-collar or 
+29 
+
+========30========
+
+blue-collar occupations. There is a marked employment shift towards non-routine and interactive tasks at MNEs. Regression analysis shows that offshore employment is a signiﬁcant predictor of the wage-bill shares of non-routine and interactive tasks for manufacturing as well as services. The onshore employment response is more closely associated with offshoring to low-income countries outside Europe than to high-income countries. However, the wage-bill share of highly educated workers also responds to offshoring, and the observed task recomposition cannot fully explain the educational upgrading at MNEs. 
+Similar to earlier evidence on skill demand responses to offshoring, our estimates for both task and skill responses suggest that offshoring predicts around 10-15 percent of the actual changes in wage-bill shares. Several interpretations are consistent with the ﬁnding that in-house offshoring predicts only a small recomposition towards non-routine and interactive tasks and only a small shift in onshore demand towards highly educated workers. We base estimates on variation within plants over time, conditioning on plant and time effects. Large workforce recompositions may take place when national ﬁrms become MNEs, whereas effects after MNE entry can be small. Time indicators are highly signiﬁcant predictors of the workforce composition and suggest that common shocks across ﬁrms are important elements of workforce changes. It remains an open question beyond our identiﬁcation strategy whether time-varying effects are mostly related to technical change, to management practices, to offshoring, or a combination of these and other factors. 
+30 
+
+========31========
+
+Appendix 
+A Construction of Task Measures 
+Our main task measures build on a set of 81 questions in the BIBB-IAB work survey (Qualiﬁcation and Career Survey 1998/99) regarding workplace tool use. Table A.1 lists the 81 workplace tools in the survey. Workers report both their occupation and whether or not they use the listed tool. We codify whether or not the use of a tool indicates that the task is non-routine (involving non- repetitive work methods that require experience) or personally interactive (requiring face-to-face interaction with coworkers or third parties). We choose to classify the use of the workplace tools under two different interpretations: our strict interpretation allows possibly few tool uses to indicate non-routine work or interactive work, and our lenient interpretation takes possibly many tool uses to indicate non-routine or interactive work. Table A.1 reports our codiﬁcation. Based on these classiﬁcations, we compute the task intensity of occupations as described in Subsection 2.2. 
+As a robustness check to our classiﬁcation of tasks, we reuse a classiﬁcation by Spitz-Oener (2006) for information technology and labor demand. The Spitz-Oener (2006) mapping is based on a set of 15 job descriptions, also in the BIBB-IAB work survey. Table A.2 lists those job de- scriptions. Spitz-Oener (2006) classiﬁes job descriptions with codes v192 and v200 as (manual) routine tasks, we take the complementary 13 job descriptions to imply non-routine tasks. Fol- lowing Spitz-Oener (2006), we take job descriptions v189, v190, v194, v195, and v198 to imply interactive tasks. For the mapping from tasks to occupations, we proceed similar to our own task classiﬁcations and compute the task intensity of occupations as described in Subsection 2.2. 
+31 
+
+========32========
+
+Table A.1: WORKPLACE TOOLS AND NON-ROUTINE OR INTERACTIVE TASKS 
+Non-routine tasks Interactive tasks 
+Strict def. Lenient def. Strict def. Lenient def. Work involving (1) (2) (3) (4) 
+Tools or devices 
+Simple tools 
+Precision-mechanical, special tools Power tools 
+Other devices 
+Soldering, welding devices 
+Stove, oven, furnace 
+Microwave oven 
+Machinery or plants 
+Hand-controlled machinery Automatic machinery 
+Computer-controlled machinery Process plants 
+Automatic ﬁlling plants 
+Production plants 
+Plants for power generation Automatic warehouse systems Other machinery, plants 
+Instruments and diagnostic devices Simple measuring instruments Electronic measuring instruments Computer-controlled diagnosis Other measuring instruments, diagnosis Computers 
+Personal or ofﬁce computers Connection to internal network Internet, e-mail 
+Portable computers (laptops) Scanner, plotter 
+CNC machinery 
+Other computers, EDP devices Ofﬁce and communication equipment Simple writing material 
+Typewriter 
+Desktop calculator, pocket calculator Fixed telephone 
+Telephone with ISDN connection Answering machine 
+Mobile telephone, walkie-talkie, pager Fax device, telecopier 
+Speech dictation device, microphone Overhead projector, beamer, TV Camera, video camera 
+continued 
+x 
+x 
+x 
+x 
+x 
+x x x x 
+x x x x x x x 
+x 
+x x 
+x x 
+x x x x 
+x x x x 
+x x 
+x x x 
+x x x 
+x x x 
+32 
+
+========33========
+
+Table A.1: WORKPLACE TOOLS AND NON-ROUTINE OR INTERACTIVE TASKS, CONT’D 
+Non-routine tasks Interactive tasks 
+Strict def. Lenient def. Strict def. Lenient def. Work involving (1) (2) (3) (4) 
+continued 
+Means of transport 
+Bicycle, motorcycle 
+Automobile, taxi 
+Bus 
+Truck, conventional truck 
+Trucks for hazardous good, special vehicles Railway 
+Ship 
+Aeroplane 
+Simple means of transport 
+Tractor, agricultural machine 
+Excavating, road-building machine Lifting-aids on vehicles 
+Forklift, lifting truck 
+Lifting platform, goods lift 
+Excavator 
+Crane in workshops 
+Erection crane 
+Crane vehicle 
+Handling system 
+Other vehicles, lifting means 
+Other tools and aids 
+Therapeutic aids 
+Musical instruments 
+Weapons 
+Surveillance camera, radar device Fire extinguisher 
+Cash register 
+Scanner cash register, bar-code reader Other devices, implements 
+Software use by workers with computers Word processing program 
+Spreadsheet program 
+Graphics program 
+Database program 
+Special, scientiﬁc program 
+Use of other software 
+continued 
+x x x x 
+x x x x x x x x x 
+x x x x x x x x x 
+x x 
+x x x x 
+x x x 
+x 
+x 
+x x x 
+x x x x x 
+x x x 
+x 
+x x x 
+x 
+x x x x x x x x 
+x 
+x 
+x x x x x x 
+33 
+
+========34========
+
+Table A.1: WORKPLACE TOOLS AND NON-ROUTINE OR INTERACTIVE TASKS, CONT’D 
+Non-routine tasks Interactive tasks 
+Strict def. Lenient def. Strict def. Lenient def. Work involving (1) (2) (3) (4) 
+continued 
+Computer handling by workers with computers Program development, systems analysis Device, plant, system support 
+User support, training 
+Computer use by any worker 
+Professional use: personal computer 
+Machinery handling by workers with machinery Operation of program-controlled machinery Installation of program-controlled machinery Programming of program-controlled machinery Monitoring of program-controlled machinery Maintenance, repairs 
+x x x 
+x x x 
+x 
+x x x 
+x 
+x 
+x 
+x x x x 
+x x x x 
+x 
+x 
+Source: BIBB-IAB worker survey 1998/99. 
+Note: Authors’ classiﬁcation of workplace-tool use associated with non-routine or interactive tasks. The strict inter- pretation allows only few tool uses to indicate non-routine or interactive work, the lenient interpretation considers possibly many tool uses. 
+Table A.2: NON-ROUTINE AND INTERACTIVE TASKS BY SPITZ-OENER 
+Code v189 v190 v191 v192 v193 v194 v195 v196 v197 v198 v199 v200 v201 v223 v224 
+Task 
+Training, teaching, instructing 
+Consulting, informing others 
+Measuring, testing, quality controlling 
+Surveillance, operating machinery, plants, or processes Repairing, renovating 
+Purchasing, procuring, selling 
+Organizing, planning 
+Advertising, public relations, marketing, promoting business Information acquisition and analysis, investigations Conducting negotiations 
+Development, research 
+Manufacture or production of merchandize 
+Providing for, waiting on, caring for people 
+Practicing labor law 
+Practicing other forms of law 
+non-routine 
+x 
+x 
+x 
+interactive 
+x 
+x 
+x x x x x x x 
+x x 
+x 
+x x x 
+Source: BIBB-IAB Qualiﬁcation and Career Survey 1998/1999. 
+Note: Classiﬁcation of non-routine or interactive tasks by Spitz-Oener (2006). v189-v224 codes are variable abbrevi- ations in the BIBB-IAB data. 
+34 
+
+========35========
+
+References 
+Amiti, Mary, and Shang Jin Wei. 2009. “Service Offshoring and Productivity: Evidence from the U.S.” 
+World Economy, 32(2): 203–20. 
+Autor, David H., Frank Levy, and Richard J. Murnane. 2003. “The Skill Content of Recent Technologi- 
+cal Change: An Empirical Exploration.” Quarterly Journal of Economics, 118(4): 1279–1333. 
+Baldwin, Richard, and Fred´ eric Robert-Nicoud.´ 2010. “Trade-in-goods and Trade-in-tasks: An Integrat- 
+ing Framework.” NBER Working Paper, 15882. 
+Baumgarten, Daniel, Ingo Geishecker, and Holger Gorg.¨ 2010. “Offshoring, Tasks, and the Skill-Wage 
+Pattern.” IZA Discussion Paper, 4828. 
+Becker, Sascha O., and Marc-Andreas Muendler. 2008. “The Effect of FDI on Job Security.” The B.E. 
+Journal of Economic Analysis & Policy: Advances, 8(1): Article 8, pp. 1–45. 
+Becker, Sascha O., Karolina Ekholm, Robert Jackle, and Marc-Andreas Muendler.¨ 2005. “Location 
+Choice and Employment Decisions: A Comparison of German and Swedish Multinationals.” Review of 
+World Economics/Weltwirtschaftliches Archiv, 141(4): 693–731. 
+Bender, Stefan, Anette Haas, and Christoph Klose.2000. “The IAB Employment Subsample 1975-1995.” 
+Journal of Applied Social Science Studies, 120(4): 649–62. 
+Biscourp, Pierre, and Francis Kramarz. 2007. “Employment, Skill Structure and International Trade: 
+Firm-level Evidence for France.” Journal of International Economics, 72(1): 22–51. 
+Blinder, Alan S. 2006. “Offshoring: The Next Industrial Revolution?” Foreign Affairs, 85(2): 113–28. 
+Blinder, Alan S. 2009. “How Many U.S. Jobs Might Be Offshorable?” World Economics, 10(2): 41–78. 
+Blundell, Richard, and Stephen R. Bond. 2000. “GMM Estimation with Persistent Panel Data: An Appli- 
+cation to Production Functions.” Econometric Reviews, 19(3): 321–40. 
+Crino, Rosario.` 2009. “Offshoring, Multinationals and Labour Market: A Review of the Empirical Litera- 
+ture.” Journal of Economic Surveys, 23(2): 197–249. 
+Crino, Rosario.` 2010a. “Employment Effects of Service Offshoring: Evidence from Matched Firms.” Eco- 
+nomics Letters, 107(2): 253–56. 
+Crino, Rosario.` 2010b. “Service Offshoring and White-Collar Employment.” Review of Economic Studies, 
+77(2): 595–632. 
+Deutsche Bundesbank. 1998. “The Methodological Basis of the Deutsche Bundesbank’s Corporate Bal- 
+ance Sheet Statistics.” Monthly Report, 1998(10): 49–64. 
+Feenstra, Robert C. 2010. Offshoring in the Global Economy: Microeconomic Structure and Macroeco- 
+nomic Implications. Ohlin lectures, Cambridge and London:MIT Press. 
+35 
+
+========36========
+
+Feenstra, Robert C., and Gordon H. Hanson. 1996. “Foreign Investment, Outsourcing and Relative 
+Wages.” In The Political Economy of Trade Policy: Papers in Honor of Jagdish Bhagwati. , ed. Robert C. 
+Feenstra, Gene M. Grossman and Douglas A. Irwin, Chapter 6, 89–127. Cambridge and London:MIT 
+Press. 
+Feenstra, Robert C., and Gordon H. Hanson. 1999. “The Impact of Outsourcing and High-Technology 
+Capital on Wages: Estimates for the United States, 1979-1990.” Quarterly Journal of Economics, 
+114(3): 907–40. 
+Goos, Maarten, Alan Manning, and Anna Salomons. 2009. “Job Polarization in Europe.” American 
+Economic Review, 99(2): 58–63. 
+Grossman, Gene M., and Esteban Rossi-Hansberg. 2008. “Trading Tasks: A Simple Theory of Off- 
+shoring.” American Economic Review, 98(5): 1978–97. 
+Hanson, Gordon H., Raymond J. Mataloni, and Matthew J. Slaughter. 2005. “Vertical Production Net- 
+works in Multinational Firms.” Review of Economics and Statistics, 87(4): 664–678. 
+Hansson, Par.¨ 2005. “Skill Upgrading and Production Transfer within Swedish Multinationals.” Scandina- 
+vian Journal of Economics, 107(4): 673–692. 
+Harrison, Ann, and Margaret McMillan.2011. “Offshoring Jobs? Multinationals and U.S. Manufacturing 
+Employment.” Review of Economics and Statistics, 93(3): 857–75. 
+Head, Keith, and John Ries. 2002. “Offshore Production and Skill Upgrading by Japanese Manufacturing 
+Firms.” Journal of International Economics, 58(1): 81–105. 
+Hijzen, Alexander, Tomohiko Inui, and Yasuyuki Todo. 2010. “Does Offshoring Pay? Firm-Level Evi- 
+dence from Japan.” Economic Inquiry, 48(4): 880–95. 
+Jensen, J. Bradford, and Lori G. Kletzer. 2006. “Tradable Services: Understanding the Scope and Impact 
+of Services Offshoring.” In Offshoring white-collar work. Vol. 2005 of Brookings Trade Forum, , ed. Lael 
+Brainard and Susan M. Collins, Chapter 3, 75–133. Washington, D.C.:Brookings Institution. 
+Jensen, J. Bradford, and Lori G. Kletzer. 2010. “Measuring Tradable Services and the Task Content 
+of Offshorable Services Jobs.” In Labor in the New Economy. NBER Studies in Income and Wealth, , 
+ed. Katharine G. Abraham, James R. Spletzer and Michael J. Harper, Chapter 8, 309–35. Chicago and 
+London:University of Chicago Press. 
+Jones, Ronald W., and Henryk Kierzkowski. 1990. “The Role of Services in Production and International 
+Trade: A Theoretical Framework.” In The political economy of international trade: Essays in honor of 
+Robert E. Baldwin. , ed. Ronald W. Jones and Anne O. Krueger, Chapter 3, 31–48. Oxford and Cam- 
+bridge, Mass.:Blackwell. 
+Kohler, Wilhelm. 2009. “Offshoring: Why Do Stories Differ?” In The EU and Emerging Markets. Eu- 
+ropean Community Studies Association of Austria Publication Series, , ed. Gabriele Tondl, Chapter 2, 
+17–49. Vienna and New York:Springer. 
+Leamer, Edward E., and Michael Storper. 2001. “The Economic Geography of the Internet Age.” Journal 
+of International Business Studies, 32(4): 641–65. 
+36 
+
+========37========
+
+Levy, Frank, and Richard J. Murnane. 2004. The New Division of Labor. Princeton:Princeton University 
+Press. 
+Lipponer, Alexander. 2003. “A “New” Micro Database for German FDI.” In Foreign Direct Investment in 
+the Real and Financial Sector of Industrial Countries. , ed. Heinz Herrmann and Robert Lipsey, 215–44. 
+Berlin:Springer. 
+Mankiw, Gregory N., and Phillip Swagel. 2006. “The Politics and Economics of Offshore Outsourcing.” 
+Journal of Monetary Economics, 53(5): 1027–56. 
+Marin, Dalia. 2004. “A Nation of Poets and Thinkers—Less so with Eastern Enlargement? Austria and 
+Germany.” CEPR Discussion Paper, 4358. 
+Markusen, James R. 2006. “Modeling the Offshoring of White-Collar Services: From Comparative Ad- 
+vantage to the New Theories of Trade and Foreign Direct Investment.” In Offshoring white-collar work. 
+Vol. 2005 of Brookings Trade Forum, , ed. Lael Brainard and Susan M. Collins, Chapter 1, 1–34. Wash- 
+ington, D.C.:Brookings Institution. 
+Muendler, Marc-Andreas, and Sascha O. Becker. 2010. “Margins of Multinational Labor Substitution.” 
+American Economic Review, 100(5): 1999–2030. 
+Nilsson Hakkala, Katariina, Fredrik Heyman, and Fredrik Sjoholm.¨ 2008. “Multinational Firms and 
+Job Tasks.” IFN Working Paper, 781. Research Institute of Industrial Economics, Stockholm. 
+OECD. 2002. “Intra-industry Trade and Intra-ﬁrm Trade and the Internationalisation of Production.” In 
+Economic Outlook. Vol. 71, Chapter VI, 159–170. Paris:OECD. 
+Slaughter, Matthew J. 2000. “Production Transfer within Multinational Enterprises and American Wages.” 
+Journal of International Economics, 50(2): 449–472. 
+Spitz-Oener, Alexandra. 2006. “Technical Change, Job Tasks, and Rising Educational Demands: Looking 
+Outside the Wage Structure.” Journal of Labor Economics, 24(2): 235–70. 
+Tijdens, Kea, Esther De Ruijter, and Judith De Ruijter. 2011. “Inside Occupations: Comparing the Task 
+Descriptions of 160 Occupations Across Eight EU Member States.” Amsterdam Institute for Advanced 
+Labour Studies (AIAS), University of Amsterdam, unpublished manuscript. 
+UNCTAD. 2006. World Investment Report. New York and Geneva:United Nations. FDI from Developing 
+and Transition Economies: Implications for Development. 
+37 
+
+========38========
+
+Online Supplement 
+I Corporate Ownership and FDI Exposure 
+Prior to our shift-share analysis and estimation, we inferred the economically relevant ownership share of a German ﬁrm in any other German ﬁrm (also see Becker and Muendler 2008). The relevant ownership share can differ from the recorded share in a ﬁrm’s equity for two reasons. First, a ﬁrm may hold indirect shares in an afﬁliate via investments in third ﬁrms who in turn control a share of the afﬁliate. We call ownership shares that sum all direct and indirect shares cumulated ownership shares. Second, corporate structures may exhibit cross ownership of a ﬁrm in itself via afﬁliates who in turn are parents of the ﬁrm itself. We call ownership shares that remove such circular ownership relations consolidated ownership shares. This appendix describes the procedure in intuitive terms; graph-theoretic proofs are available from the authors upon request. 
+Consolidation removes the degree of self-ownership (α) from afﬁliates, or intermediate ﬁrms between parents and afﬁliates, and rescales the ultimate ownership share of the parent to account for the increased control in partly self-owning afﬁliates or intermediate ﬁrms (with a factor of 1/(1  α)). Investors know that their share in a ﬁrm, which partly owns itself through cross owner- ship, in fact controls a larger part of the ﬁrm’s assets and its afﬁliates’ assets than the recorded share would indicate. In this regard, cross ownership is like self-ownership. Just as stock buy-backs in- crease the value of the stocks because investors’ de facto equity share rises, so do cross-ownership relations raise the de facto level of control of the parents outside the cross-ownership circle. 
+We are interested in ultimate parents that are not owned by other German ﬁrms, and want to infer their cumulated and consolidated ownership in all afﬁliates. Consider the following example of interlocking (Example 2 in Figure I.1). The ultimate parent with ﬁrm ID 101 holds 90 percent in ﬁrm 201, which is also owned by ﬁrm 202 for the remaining 10 percent. However, ﬁrm 201 itself holds a 25 percent stake in ﬁrm 202—via its holdings of 50 percent of 301, which has a 50 percent stake in 201. Firms 201 and 202 hold 60 percent and 40 percent of ﬁrm 909. Our cumulation and consolidation procedure infers the ultimate ownership of 101 in all other ﬁrms. 
+We assemble the corporate ownership data in a three-column matrix:27 the ﬁrst column takes the afﬁliate ID, the second column the parent ID, and the third column the effective ownership share. Table I.1 shows this matrix for Example 2 in Figure I.1 (the third column with the direct ownership share is labeled 1, representing the single iteration 1). 
+On the basis of this ownership matrix, our inference procedure walks through the corporate labyrinth for a prescribed number of steps (or iterations). The procedure multiplies the ownership shares along the edges of the walk, and cumulates multiple walks from a given afﬁliate to a given ultimate parent. Say, we prescribe that the algorithm take all walks of length two between every possible afﬁliate-parent pair (in business terms: two ﬁrm levels up in the group’s corporate hierar- chy; in mathematical terms: walks from any vertex to another vertex that is two edges away in the directed graph). 
+We choose the following treatment to infer the cumulated and consolidated ownership for ultimate parents: We assign every ultimate parent a 100 percent ownership of itself. This causes 
+27We assemble cleared ownership data by ﬁrst removing one-to-one reverse ownerships and self-ownerships in nested legal forms (such as Gmbh & Co. KG). 
+S1 
+
+========39========
+
+Example 1: No Interlocking 
+Example 2: Circular Interlocking 
+101 
+101 
+301 
+50% 
+100% 
+90% 
+50% 
+50% 
+201 50% 
+202 
+201 
+10% 
+202 
+100% 
+60% 40% 
+908 
+909 
+909 
+Figure I.1: Examples of Corporate Groups 
+the procedure tocumulate and consolidatethe effective ownership share for all afﬁliates of ultimate parents, at any length of walks. There are seven distinct possibilities in the example to move in two steps through the corporate labyrinth. Table I.1 lists these possibilities as iteration 2 (all entries in or below the second row). With our treatment, there is now an eighth possibility to move from afﬁliate 201 to parent 101 in two steps because we have added the 101-101 loop with 100-percent ownership. As a result, our procedure cumulates ownerships of ultimate parents for all walks that are of length two or shorter. The procedure starts to consolidate shares as the length of the walk increases. Iteration 3 in Table I.1 shows the cumulated and partially consolidated ownership of ultimate parent 101 in afﬁliate 201, for all three-step walks, including the ﬁrst cycle from 201 through 202 and 301 back to 201 and then to 101. 
+In 2000, the maximum length of direct (non-circular) walks from any ﬁrm to another ﬁrm is 21. So, for all ultimate parents, the cumulated and consolidated ownership shares are reported correctly from a sufﬁciently large number of iterations on. Table I.1 shows iteration 100. The ownership share of 101 in 201 has converged to the exact measure (.9/(1  .1  .5  .5) = .923076) at ﬁve-digit precision. Firm 101 controls 92.3 percent of ﬁrm 201’s assets, among them ﬁrm 201’s offshore afﬁliates. 
+To calculate the FDI exposure at any hierarchy level in the corporate group, we use a single- weighting scheme with ownership shares. The economic rationale behind single-weighting is that ultimate parents are more likely to be the corporate decision units (whereas FDI conducting and reporting ﬁrms in the group may be created for tax and liability purposes). We ﬁrst assign FDI exposure measures (offshore afﬁliate employment by world region) from onshore afﬁliates to their ultimate German parents. Suppose ﬁrm 201 in Example 2 of Figure I.1 conducts FDI in the corpo- rate group. We assign 92.3 percent of 201’s FDI exposure to ﬁrm 101, the ultimate German parent. We then assign the same 92.3 percent of 201’s FDI exposure to all afﬁliates of 101 (201 itself, 202, 301, 909). Therefore jobs throughout the group (including those at 201 itself) are only affected to the degree that the ultimate parents can control offshore afﬁliate employment (or sales). We assign only 92.3 percent of 201’s FDI exposure to 201 itself because the ultimate parent only has 92.3 percent of the control over employment at 201.28 
+28An alternative assignment scheme would be double-weighting, ﬁrst weighting FDI exposure by ownership and then assigning the FDI exposure to jobs throughout the corporate group using ownership weights again. We de- 
+S2 
+
+========40========
+
+Table I.1: Ownership Inference 
+Afﬁliate-parent 
+pair 
+Iteration (Length of Walk) 1 2 3 5 9 
+100 
+201-101 201-202 201-301 202-101 202-201 202-301 301-101 301-201 301-202 909-101 909-201 909-202 909-301 
+.9 .90 .900 .92250 .92306 .92308 .1 .00000 
+.05 .00125 
+.225 .22500 .23077 .23077 
+.25 .00625 
+.5 .00000 
+.45 .450 .46125 .46153 .46154 .5 .00000 
+.05 .00125 
+.54 .540 .64350 .64609 .64615 .6 .100 .00006 .00000 .4 .06 .00150 .00000 
+.20 .030 .00500 .00001 
+Because we choose single-weighting in the onshore branches of the MNE, we also single- weight offshore afﬁliate employment by the ownership share of the German parent in its offshore afﬁliates. Mirroring the minimal ownership threshold of 10 percent in the MIDI data on offshore afﬁliates, we also discard the FDI exposure of onshore afﬁliates with ownership shares of less than 10 percent in our single-weighting assignment of FDI exposure to onshore jobs throughout the corporate group. 
+II Regional Aggregates 
+We lump host countries into four broad regions: CEE (Central and Eastern Europe), DEV (Devel- oping countries), OIN (Overseas Industrialized countries), and WEU (Western Europe), beyond the home location Germany. We list the regional deﬁnitions in Table II.1. The broad regions share geographic characteristics, and contain countries with relatively similar endowments and institu- tional characteristics. CEE and WEU share borders with Germany and are geographically contigu- ous, whereas OIN includes non-European industrialized countries, and DEV spans the remaining developing countries throughout Africa, Latin America and the Asia-Paciﬁc region. 
+cide against double-weighting. Any weighting scheme results in exposure measures that are weakly monotonically decreasing as one moves upwards in the corporate hierarchy because ownership shares are weakly less than one. Double-weighting aggravates this property. Revisit Example 1 in Figure I.1 and suppose ﬁrm 201 conducts FDI. Single-weighting assigns 50 percent of 201’s exposure to afﬁliate 908, double-weighting only 12.5 percent. If 908 it- self conducts the FDI, single-weighting assigns 25 percent of its own FDI exposure to 908, double-weighting only 6.25 percent. In economic terms, double-weighting downplays the decision power of intermediate hierarchies in the cor- porate group further than single-weighting so that we favor single-weighting. Recall that purely laterally related ﬁrms (sisters, aunts and nieces) are excluded from our offshore-expansion group so that ﬁrms 202 and 909 in Example 1 of Figure I.1 are not relevant for the choice of weighting scheme. 
+S3 
+
+========41========
+
+Table II.1: AGGREGATE LOCATIONS 
+Locations Countries 
+WEU Western European countries 
+(EU 15 plus Norway and Switzerland) 
+OIN Overseas Industrialized countries 
+including Australia, Canada, Japan, New Zealand, USA 
+as well as Iceland and Greenland 
+CEE Central and Eastern European countries 
+including accession countries and candidates for EU membership 
+as well as Balkan countries, Belarus, Turkey, and Ukraine DEV Developing countries 
+including Russia and Central Asian economies 
+as well as dominions of Western European countries and 
+of the USA 
+III Robustness to Alternative Task Measures 
+Table III.1 presents results from re-estimating the two main speciﬁcations of Table 6 in the text for alternative task measures in the all-sector sample. Columns 1 and 2 repeat the estimates from Table 6 (columns 2 and 7) to facilitate comparisons. Columns 3 and 4 in Table III.1 show re- sults under the lenient task deﬁnitions (Table A.1) and columns 5 and 6 report results under the complementary task deﬁnitions by Spitz-Oener (Table A.2). The magnitudes of the association be- tween OE and non-routine or interactive tasks are similar across the three different task measures, although statistical signiﬁcance is somewhat weaker for both the lenient deﬁnition and the Spitz- Oener deﬁnition. A similar pattern can be observed for manufacturing and services separately (not reported). 
+Table III.2 presents results from estimating the relationship between offshoring and the task composition with additional controls at the sector level. Tasks are classiﬁed according to the stricter deﬁnition and the controls are similar to the ones used in Table 9. To facilitate comparison, we also include the results from regressions without the additional controls in Table 6 (Columns 2 and 7). The relationship between overall offshoring and the wage-bill shares of non-routine and interactive tasks is strikingly robust in magnitude and coefﬁcient remain signiﬁcant when introducing these controls. 
+IV Instrumental Variables Regressions 
+A cause of concern is that simultaneity problems may affect equation (5). If OE at ℓ and onshore demand for work type i are simultaneously determined, then γℓ may be biased. Instrumenting for OE helps assess this problem if a valid and strong instrument for OE can be found. We report esti- mation results from using the two-year lag of OE as instrument. Using the two-year lag of foreign labor input in our cost function estimation follows an identiﬁcation strategy similar to Blundell 
+S4 
+
+========42========
+
+Table III.1: OFFSHORING AND TASKS FOR ALTERNATIVE TASK MEASURES 
+Task: 
+Strict def. Non-rout. Interact. 
+(1) 
+Offshore empl. share 2.505 
+(.585) 
+LogCap./Val. add. 
+.524 (.144) 
+Log Value added 
+.322 (.102) 
+Obs. R2 (within) R2 (between) R2 (overall) 
+5,008 .004 .069 .064 
+Lenient def. 
+Non-rout. Interact. 
+(2) 
+(3) 
+1.653 (.293) 
+2.217 (.564) 
+(.338) 
+1.280 
+.042 (.072) -.072 (.051) 5,008 .005 .024 .023 
+.545 (.138) 
+(.083) 
+.289 
+.153 (.099) 5,008 .005 .057 .053 
+(.059) 
+.164 
+5,008 .005 .040 .038 
+(4) 
+Spitz-Oener def. Non-rout. Interact. 
+(5) (6) 
+2.946 (.376) 
+3.150 (.440) 
+-.490 (.092) 
+-.729 (.107) 
+-1.165 (.067) 
+-1.281 (.078) 
+5,008 .054 .154 .150 
+5,008 .037 .202 .196 
+Sources: Linked STATISTIK-BA/MIDI data 1998-2001 and BIBB-IAB worker survey 1998/99, balanced panel of MNE 
+plants. 
+Notes: Estimators are plant random effects, conditional on year effects (not reported). Standard errors in parentheses:  
+signiﬁcance at ten, 
+ 
+ﬁve, 
+ 
+one percent. 
+and Bond (2000) who use lagged factor inputs as instruments for present factor inputs to estimate production functions.29 Our instruments are valid if current home employment is not related to past OE other than through current OE itself, conditional on other MNE-level performance vari- ables in equation (5). While we consider this assumption plausible for the operation of MNEs, we do not want to overly stress the results. Much of our emphasis is on the predicted relationship between OE and the onshore workforce composition, and we largely interpret this relationship as an informative correlation for theory and further empirical work rather than a causal one. 
+Table IV.3 shows the results for all four advanced work types from two-stage least squares regressions using the all-sector sample. The lower panel reports results from the ﬁrst-stage regres- sion corresponding to the second-stage regression in the upper panel. Past offshore employment is a highly signiﬁcant predictor of current offshore employment, and thus a strong instrument.30 
+In the second stage, the estimated coefﬁcients for worldwide offshoring (columns 1 to 4) are all positive and statistically signiﬁcant, except for white-collar occupations.31 
+instrumental variable regressions never overturn any of our ﬁndings and conﬁrm our earlier results 
+when statistically signiﬁcant. 
+So, overall, the 
+29Blundell and Bond (2000) estimate a GMM production function for ﬁrst-differenced variables. We use a conven- tional ordinary least-squares approach for comparability to the existing literature on MNEs and allow for plant effects. Alternative instruments at the industry level, such as OE by Swedish MNEs and exports and imports by Germany’s trading partners, have not proven to be sufﬁciently strong instruments in ﬁrst-stage speciﬁcations. 
+30One might prefer an ‘independent’ source of variation to a lagged endogenous variable as an instrumental variable, but such variables aren’t readily available. 
+31In the second-stage regressions, we control for plant random effects. Results from ﬁxed-effect estimations are qualitatively similar, but the point estimates are larger in absolute magnitude at the same time as they have larger standard errors, rendering them statistically insigniﬁcant. 
+S5 
+
+========43========
+
+Table III.2: OFFSHORING AND TASKS: SECTOR-LEVEL CONTROLS 
+Offshore empl. 
+LogCapital/Valueadded 
+Log Value added 
+Industry-level controls Offshoring (narrow) 
+R&D share in production 
+Import penetration share in absorption 
+Wage-bill share of non-routine tasks in non-MNEs Wage-bill share of interactive tasks in non-MNEs Obs. 
+R2 (within) 
+R2 (between) 
+R2 (overall) 
+Non-routine tasks (1) (2) 2.505 2.499 (.585) (.572) 
+.524 (.144) 
+.333 (.142) 
+.322 (.102) 
+.105 (.102) 
+9.453 (4.875) 
+22.041 (17.812) -1.496 (2.036) 
+36.423 (2.754) 
+5008 .004 .069 .064 
+5002 .006 .199 .197 
+Interactive tasks (3) (4) 1.653 1.706 (.293) (.288) .042 -.007 (.072) (.072) -.072 -.101 (.051) (.052) 
+3.360 (2.485) 
+33.665 (8.958) 
+-9.078 (1.027) 
+14.365 (1.801) 
+5008 .005 .024 .023 
+5002 .002 .157 .149 
+Sources: Linked STATISTIK-BA/MIDI data 1998-2001 and BIBB-IAB worker survey 1998/99, balanced panel of MNE 
+plants. 
+Notes: Estimators are plant random effects, conditional on year effects. Robust standard errors, clustered at the two- digit industry level, in parentheses: 
+ 
+signiﬁcance at ten, 
+ 
+ﬁve, 
+ 
+one percent. 
+S6 
+
+========44========
+
+Table IV.3: OFFSHORING, TASKS AND SKILLS: IV ESTIMATES 
+Offshore empl. share 
+LogCap./Val. add. 
+Log Value added 
+Year 1999 
+Year 2000 
+Year 2001 
+Non- routine tasks (1) 4.760 (1.463) .653 (.165) .461 (.102) .154 (.133) .171 (.137) .096 (.142) 
+Inter- active tasks (2) 3.136 (.680) .024 (.081) -.110 (.050) .079 (.068) .053 (.070) -.071 (.072) 
+Highly educ. (Abitur+) 
+(3) 6.607 (2.439) 
+.786 
+(.320) 
+.920 (.200) 
+.516 
+(.280) 
+.581 
+(.285) 
+.495 
+(.293) 
+White- collar occup. (4) 4.153 (3.604) -1.440 (.371) -2.704 (.223) 1.442 (.281) 2.050 (.292) 1.840 (.305) 
+First stage estimates for offshore employment share 
+Offshore empl. share (t 
+ 2) 
+Obs. R2 (within) R2 (between) R2 (overall) 
+.872 (.007) 4900 .005 .067 .061 
+.872 (.007) 4900 .005 .023 .020 
+.875 (.007) 4815 .008 .060 .052 
+.872 (.007) 4900 .032 .092 .091 
+Sources: Linked STATISTIK-BA/MIDI data 1998-2001 and BIBB-IAB worker survey 1998/99, MNE plants only, all 
+sectors. 
+Notes: Two-period lag of offshore employment serves as instrument for current offshore employment. Estimators are plant random effects. Robust standard errors, clustered at the MNE level, in parentheses: 
+ 
+signiﬁcance at ten, 
+ 
+ﬁve, 
+ 
+one percent. 
+S7 
+
+========45========
+

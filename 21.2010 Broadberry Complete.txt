@@ -1,0 +1,1394 @@
+September 2010 
+No. 21 
+English Economic Growth, 1270-1700 
+Stephen Broadberry (Warwick) Bruce Campbell (Queen’s University, Belfast), Alexander Klein (Warwick), Mark Overton (Exeter) Bas van Leeuwen (Warwick) 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+ENGLISH ECONOMIC GROWTH, 1270-1700 
+Stephen Broadberry, University of Warwick, S.N.Broadberry@warwick.ac.uk 
+Bruce Campbell, Queen’s University Belfast, b.m.campbell@qub.ac.uk 
+Alexander Klein, University of Warwick, A.Klein.1@warwick.ac.uk 
+Mark Overton, University of Exeter, M.Overton@Exeter.ac.uk Bas van Leeuwen, University of Warwick, bas.vanleeuwen1@googlemail.com 
+9 July 2010 File: Pre1700v3.doc 
+Abstract: We provide annual estimates of GDP for England over the period 1270-1700, constructed from the output side. The GDP data are combined with population estimates to calculate GDP per capita. Sectoral price data and estimates of nominal GDP are also provided. We find per capita income growth of 0.20 per cent per annum, although growth was episodic, with the strongest growth after the Black Death and in the second half of the seventeenth century. Living standards in the late medieval period were well above “bare bones subsistence”, although levels of kilocalorie consumption per head were modest because of the very large share of pastoral production in agriculture. 
+Acknowledgements: This paper forms part of the project “Reconstructing the National Income of Britain and Holland, c.1270/1500 to 1850”, funded by the Leverhulme Trust, Reference Number F/00215AR. It is also part of the Collaborative Project HI-POD supported by the European Commission's 7th Framework Programme for Research, Contract Number SSH7-CT-2008-225342. 
+
+========2========
+
+I. INTRODUCTION 
+There are two conflicting views of the long run development of living standards in the 
+English economy. One view, which is based largely on real wage evidence, paints a bleak 
+picture of long run stagnation from the late thirteenth century to the middle of the 
+nineteenth century, albeit with quite large fluctuations over sustained periods (Phelps 
+Brown and Hopkins, 1981). This view has recently been supported by Clark (2005), who 
+provides a real wage series which shows less extreme fluctuations than that of Phelps 
+Brown and Hopkins, but leaves the trend unchanged. Furthermore, Clark (2007a) adds 
+new time series for land rents and capital income to arrive at a picture of long run 
+stagnation in GDP per head. This view sits uneasily with a second view, based largely on 
+estimates of wealth and the appearance of new products, which appear to show modest 
+but sustained growth of living standards between the middle ages and the Industrial 
+Revolution (Overton, Whittle, Dean and Haan, 2004; de Vries, 1994). 
+These two very different views of the long run development of the English 
+economy have been able to co-exist because of the absence of reliable and empirically 
+grounded estimates of the output and productivity of the English economy over this 
+period. This paper forms part of a project to reconstruct the national income of Britain 
+and Holland between the late thirteenth and the late nineteenth centuries, built up form 
+the output side. A sister paper by Broadberry and van Leeuwen (2010a) provides 
+estimates of GDP for Great Britain covering the period 1700-1870, which provides a 
+bridge between the estimates in this paper and the estimates of Feinstein (1972) for the 
+post-1870 period. 
+2 
+
+========3========
+
+For agriculture, we build on the path breaking study of Overton and Campbell 
+(1996), which tracked long run trends in agricultural output and labour productivity, but 
+was restricted to estimates for a small number of benchmark years. To provide annual 
+estimates, we rely heavily on two data sets assembled for the medieval and early modern 
+periods. For the medieval period, we analyse the Medieval Accounts Database assembled 
+by Campbell (2000; 2007), drawing upon the archival labours of a number of other 
+historians, including David Farmer, John Langdon and Jan Titow. The information on 
+arable yields and animal stocking densities is taken largely from manorial accounts, but is 
+supplemented by information on the non-manorial sector from tithes. For the early 
+modern period, we use the probate inventory database assembled by Overton, Whittle, 
+Dean and Hann (2004), which provides indirect estimates of arable yields and animal 
+stocking densities from the valuation of the assets left by farmers. 
+For industry and services, we build on the pioneering approach of Deane and Cole 
+(1967), as modified by Crafts and Harley (1992). Gross output indicators for the major 
+sectors have been assembled and weighted using value added shares. Finally, to 
+aggregate the sectoral output series we estimate value added weights for agriculture, 
+industry and services in 1381, 1522, 1600 and 1700. 
+For the period between 1270 and 1700, we find English per capita income growth 
+of 0.20 per cent per annum on average. This cumulates to more than a doubling of per 
+capita incomes, although growth was episodic rather than continuous, with the strongest 
+3 
+
+========4========
+
+growth occurring during the Black Death crisis of the fourteenth century and in the 
+second half of the seventeenth century. Combining this with the estimates in Broadberry 
+and van Leeuwen (2010a) and working back from the present, the modest trend growth in 
+per capita income since 1270 suggests that living standards in the late medieval period 
+were well above what Allen (2009: 36-41) calls “bare bones subsistence”. This can be 
+reconciled with modest levels of kilocalorie consumption per head because of the very 
+large share of pastoral production in agriculture. This meant that a large share of the 
+English population were already in a position during the late Middle Ages to afford what 
+Allen calls the “respectable lifestyle”, with a more varied diet including meat, dairy 
+produce and ale, as well as the less highly processed grain products that comprised the 
+bulk of the bare bones subsistence diet. 
+Our estimates of GDP are built up primarily from the output side. However, the 
+national accounting perspective suggests a number of tests which can be conducted to 
+demonstrate consistency, drawing on estimates from the income and expenditure sides. In 
+particular, we check consistency with the real wage estimates which have been used 
+frequently by economic historians to draw conclusions about long run living standards 
+(Clark, 2005; Allen, 2001). Second, we also consider per capita consumption of 
+kilocalories, to check the sustainability of the population (Overton and Campbell, 1996). 
+The paper proceeds as follows. Sections II to IV describe the procedures for 
+estimating output in agriculture, industry and services, respectively. Section V then 
+aggregates the sectoral outputs into real GDP and combines this with data on population 
+4 
+
+========5========
+
+to derive estimates of per capita GDP. In section VI, real GDP by sector is reflated with 
+sectoral price indices to provide a measure of nominal GDP, which can be compared with 
+benchmark estimates produced by other authors. In section VII, we compare the long run 
+evolution of per capita GDP derived from the output side with real wages and examine 
+the per capita consumption of kilocalories in the light of Allen’s (2009) distinction 
+between bare bones subsistence and respectable lifestyle baskets. Section VIII concludes. 
+II. AGRICULTURAL PRODUCTION 
+1. Arable farming 
+The starting point for any estimate of the output of the arable sector is the total area under 
+crop, which is set out in Table 1. For most benchmark years, the data differ slightly from 
+Overton and Campbell (1996), as a result of the incorporation of subsequent scholarship. 
+For 1700, we rely on estimates by contemporaries reported in Holderness (1989) for the 
+trends between 1700 and 1850, but with the absolute level pinned down by Prince’s 
+(1989: 41) interpretation of the 1801 Crop Returns. The figure for 1600 has been 
+obtained by interpolating backwards in line with population. For the medieval period, the 
+starting point is the estimate for 1300. Around this time, the population attained its 
+medieval peak, so that the arable acreage would also have been at its peak. Contrary to 
+the claims of Clark (2007b: 124), it is unlikely that the arable acreage in 1300 could have 
+been much above the level of 1800. Estimates for other years between 1270 and 1500 are 
+obtained by extrapolation from 1300 on the basis of trends in the cropped acreage on 
+demesnes and tithe data in the non-demesne sector (Campbell et al., 1996; Dodds, 2004; 
+Medieval Accounts Database). 
+5 
+
+========6========
+
+Having obtained estimates of the overall arable acreage in use, the next step is to 
+allocate it between fallow and the major crops sown. This information is taken from the 
+Medieval Accounts Database for the period before 1500 and the Early Modern Probate 
+Inventories Database for the period 1500-1700. For the medieval period, it should be 
+noted that we assume the distribution of crops in the demesne sector to be representative 
+of the country as a whole. This is broadly consistent with the much smaller amount of 
+evidence on the non-demesne sector (Sapoznik, 2008; Dodds, 2007). For the period 
+between 1492 and 1553, there is a gap in information as the manorial records come to an 
+end before the probate inventories become available. 
+The amount of fallow declined from between a third and a half in the medieval 
+period to less than a quarter in the early modern period. Information on the crop 
+distribution is taken from data that are intrinsically local and of uneven geographical 
+coverage, so that a system of regional weightings is essential to ensure a reliable national 
+total. Each region’s share of the national sown acreage is taken from the 1801 crop 
+returns, but within each region, the breakdown of crops varies over time in line with the 
+information in the databases. The winter-sown crops, including rye and maslin (a mixture 
+of wheat and rye) as well as wheat, remained important throughout the period. Amongst 
+the spring-sown crops, barley and dredge (a mixture of barley and oats) increased in 
+importance, while oats declined. Pulses and other crops (largely clover and root crops) 
+increased in importance during the early modern period (Overton, 1996: 99-101, 110). 
+6 
+
+========7========
+
+To calculate output from the estimated areas sown with each crop requires 
+information on grain yields per acre, net of seed sown. Weighted national average yields 
+per acre, gross of tithe and seed can be obtained from the manorial accounts for the 
+medieval period and the probate inventories for the early modern period. Each dataset has 
+been divided into seven regional groupings and separate chronologies have been 
+constructed for each region before being combined into a single weighted master 
+chronology for the country as a whole. Due to the discontinuous nature of much of the 
+data, the chronologies are derived using regression analysis with dummy variables for 
+each farm and for each year, as suggested by Clark (2004). Since our evidence is drawn 
+from the seigniorial sector, we need to consider what was happening in the non-demesne 
+sector. Although Postan (1966) clearly believed that yields were higher on the demesnes 
+as a result of access to better land and more capital, Stone (2006: 21) has recently argued 
+that yields were around 11 per cent higher in the non-demesne sector, where incentives 
+were stronger for peasants. Since the direction of the adjustment is unclear, and would 
+anyway be quite small, we have assumed that yields on the demesne sector were 
+representative of English agriculture as a whole, although we will consider the 
+implications of relaxing this assumption in a later section. 
+Grain yields gross of seed as well as tithe are shown in Figure 1 for wheat, rye, 
+barley, oats and pulses. From these gross yields it is necessary to subtract grain used as 
+seed to derive the net yields shown in Table 2 for all the major crops. There are some 
+differences between crops, but the different datasets appear to tell a consistent story, with 
+yields declining during the late medieval period from around 1300, picking up again 
+7 
+
+========8========
+
+during the early modern period from the mid-sixteenth century. The data exhibit a high 
+degree of short run volatility, which has been smoothed out in Figure 1 with a 10-year 
+moving average. 
+In addition to making allowance for grain used as seed, calculation of the net 
+output of the arable sector must take account of consumption of oats and pulses by 
+animals working on the farm. Estimates of the numbers of working animals per 100 sown 
+acres can be obtained from the medieval accounts and probate inventory databases. For 
+the early modern period, these stocking densities are assumed to apply to the whole 
+agricultural sector and hence are simply multiplied with the sown acreage to produce 
+estimates of the numbers of working animals. However, for the medieval period, the 
+demesne stocking densities have been converted into the numbers of horses and oxen on 
+all lands using Wrigley’s (2006: 449) assumption that the stocking density of animals on 
+non-seigniorial holdings was three-quarters that on the demesnes. In making these 
+estimates, allowance has been made for both the declining share of demesne acreage and 
+the lesser quantities of fodder consumed by immature animals. As with the crop yields, a 
+regional weighting scheme is needed to derive the stocking densities for the country as a 
+whole from the observations on individual demesnes and farms. 
+Figure 2 sets out the numbers of mature working animals in England. There was a 
+gradual process of substitution of horses for oxen as working animals, beginning in the 
+medieval period and accelerating during the early modern period. Using assumptions 
+about consumption of oats and pulses by mature and immature animals, it is possible to 
+8 
+
+========9========
+
+derive estimates of farm animal consumption, which are then subtracted from gross 
+output to derive arable output net of seed and animal consumption in Table 3. 
+During the medieval period, output of wheat and rye, the principal bread grains, 
+declined substantially from the late thirteenth century peak, with a sharp fall in line with 
+population following the Black Death of the mid-fourteenth century. The output decline 
+was even sharper for oats, which fell out of favour as a crop for human consumption. In 
+place of malted oats, malted dredge (a barley/oats mixture) and malted barley became the 
+preferred brewing grains, and demand for barley remained relatively buoyant. Output of 
+pulses also declined relatively slowly during the medieval period. 
+By the end of the sixteenth century, output of the major grains was back to the 
+peak pre-Black Death level. Output of wheat continued to increase after 1600, while rye 
+declined. This reflected the growing preference for the more expensive bread grain. The 
+output of barley increased markedly in line with the demand for better quality ale brewed 
+from the best barley malt. Output of pulses also grew rapidly during the early modern 
+period. Output of oats, net of consumption by farm horses, fluctuated more erratically, 
+but on a downward trend. 
+2. Pastoral farming 
+The starting point for deriving the numbers of non-working animals is again the stocking 
+densities. As with the working animals, particular care must be taken for the medieval 
+period in moving from the stocking densities on the demesnes to the numbers of animals 
+9 
+
+========10========
+
+in the country as a whole. Conversion of the seigniorial stocking densities into 
+corresponding national densities and numbers of animals is based on four key 
+assumptions. First, following Allen (2005), it has been assumed that due to their high unit 
+capital value, the density of cattle was one-third lower on the non-demesne lands. 
+However, we have also made an allowance for the negative relationship between farm 
+size and stocking density, drawn from the post-1550 data. Second, again following Allen 
+(2005), mature cattle have been divided into milk and beef animals in the ratio 53 to 47 
+percent. Third, swine, a popular animal with peasants, are assumed to have been stocked 
+by non-seigniorial producers at the same density as on the demesnes.1 Fourth, aggregate 
+sheep numbers are assumed to have been stationary in the long term, in contrast to their 
+dynamic growth in the seigniorial sector. This is consistent with trends in exports, 
+inferred levels of domestic demand, and the decline in average fleece weights noted by 
+Stephenson (1988: 380). Stocking densities can also be obtained for the early modern 
+period from probate inventories. Non-working animal numbers for the whole period 
+1270-1700 are shown in Figure 3, taking 10-year moving averages to smooth out short 
+run volatility. 
+Calculating the output of the pastoral sector is more speculative than the 
+equivalent calculation for the arable sector, since the percentages of animals producing 
+specific products and the yields per animal have attracted less attention from historians 
+than crop yields. Until more systematic work is done on the sources, the estimates 
+advanced here are necessarily provisional. 
+1 
+Note that if we were to adopt Wrigley’s (2006) assumption that swine were stocked at twice the manorial density by peasants, this would produce an implausibly large jump in swine numbers between the late medieval and early modern periods. 
+10 
+
+========11========
+
+Table 4 sets out the numbers of non-working animals, with cattle divided between 
+milk and beef herds and calves. The proportions of animals assumed to have been 
+producing milk, meat and wool are set out in Table 5. A high proportion of cows are 
+assumed to have produced milk and a high proportion of sheep to have yielded wool. 
+Meat, however, was produced only by those animals that were slaughtered. Following 
+Holderness (1989: 147), it is assumed that approximately a quarter of the stock of cattle 
+and sheep and around half of all pigs were slaughtered in the early modern period. These 
+ratios are also applied to the late medieval period for sheep and pigs, in line with 
+slaughter rates documented by Campbell (1995: 164-167). For cattle, however, slaughter 
+rates were lower in the medieval period because there were few herds kept specifically 
+for beef. These basic assumptions have been qualified with additional information from 
+Clark (1991) and Ecclestone (1996). 
+The next step in the calculations involves the estimation of yields of milk, meat 
+and wool per animal. Table 6 sets out our preferred estimates, drawn from a number of 
+sources, including Clark (1991), Allen (2005), Stephenson (1988) and Britnell (2004). 
+Data between benchmark years were interpolated using information on the relative prices 
+of pastoral products and the animals from which they were derived. Finally, Table 7 
+combines the information on numbers of animals, percentages of each animal producing 
+and yields per animal to provide estimates of output in the pastoral farming sector. 
+11 
+
+========12========
+
+Further assumptions are needed to derive output estimates for hay, hides and 
+skins, and dairy products. Hay output is derived from the numbers of non-farm horses, on 
+the assumption that each horse consumed 2.4 tons of hay per year (Allen, 2005). Output 
+of hides and skins is derived from the numbers of working and non-working animals 
+using assumptions on the percentages of each animal producing and yields per animal 
+from Clark (1991), Clarkson (1989) and Ecclestone (1996). In the dairy sector, output is 
+split between cheese, butter and fresh milk using data from Biddick (1989) and 
+Holderness (1989). 
+3. Total agricultural output 
+Multiplying the output volumes by their prices yields the total value of net output. The 
+price data are taken largely from Clark (2004), who synthesises the published data of 
+Beveridge (1939), Thorold Rogers (1866-1902: volumes 1-30) and the multi-volume 
+Agrarian History of England and Wales, as well as integrating new archival material, 
+principally from the unpublished papers of William Beveridge and David Farmer. To 
+this, have been added the prices of hides from Thorold Rogers (1866-1902) and of rye 
+from Farmer (1988; 1991), as well as direct estimates from the Early Modern Probate 
+Inventories Database. Output can be valued in both current prices and in constant 1700 
+prices. 
+Figure 4 plots arable, pastoral and total agricultural output in constant prices on a 
+logarithmic scale, while Table 8 summarises the same information in growth rate form, 
+using 10-year averages to capture long run trends. It should be noted that the gap between 
+12 
+
+========13========
+
+1492 and 1553 in the series for arable and pastoral production has been filled at the level 
+of total agricultural output using the demand function approach of Crafts (1985) and 
+Allen (2000). Agricultural consumption per head is assumed to be a function of its own 
+price (PA), the general price level (PY) and income (Y). Income and price elasticities are 
+estimated from the data for output (adjusted for net imports), prices and real wages over 
+the period 1301-1492 and 1553-1700, and used to predict the missing values of output 
+between 1492 and 1553, based upon the known values of prices and real wages for this 
+period. The results are discussed in detail in Broadberry and van Leeuwen (2010b). 
+During the medieval period, arable output exhibited a clear downward trend, 
+while pastoral output showed greater stability. Agriculture as a whole thus showed a 
+modest decline in output. From the mid-sixteenth century, arable and pastoral output both 
+grew, with the pastoral sector at first lagging behind the arable sector, but outpacing it 
+from the mid-seventeenth century. 
+The pastoral sector was thus increasing its share of real agricultural output during 
+the medieval period and from the mid-seventeenth century. However, in current price 
+terms the picture is complicated by changes in relative prices. In particular, although the 
+price of pastoral products relative to arable showed no clear trend during the medieval 
+period, pastorasl products became steadily cheaper after 1500, particularly during the 
+“Great Inflation” of the sixteenth century, as can be seen in Figure 5. This amplified the 
+effects of the slower real growth of the pastoral sector between the 1450s and the 1650s, 
+and then dampened the effects of the faster pastoral growth after 1650. Thus the current 
+13 
+
+========14========
+
+price data in Figure 6A and Table 9 show the pastoral sector increasing its share of output 
+during the medieval period and again from the mid-seventeenth century. Between the 
+mid-fifteenth century and the mid-seventeenth century, by contrast, the share of the 
+pastoral sector in current price agricultural output declined. In constant 1700 prices, 
+however, the early modern decline in the share of pastoral agriculture was much more 
+muted, as can be seen in Figure 6B. 
+However, what is perhaps most striking about Table 9 is the already very high 
+share of the pastoral sector in medieval England. This meant that although the English 
+people did not have a particularly generous diet if viewed in terms of kilocalories, it was 
+a varied diet, with meat, dairy produce and ale to supplement the less highly processed 
+grain products that made up the bulk of the diet. 
+III. INDUSTRIAL PRODUCTION 
+For the period 1270-1700, it is possible to obtain volume measures of some of the key 
+industries, which can be broken down into three major sectors: metals and mining; 
+textiles and leather; and other industries. Figure 7 plots the component series of the three 
+major sectors in parts A to C, while part D plots the three major sectors, together with the 
+total industrial production index. 
+1. Metal and mining industries 
+The metals and mining sector is based on physical output volumes for a number of 
+important industries. Tin output is available on an annual basis for the whole period from 
+14 
+
+========15========
+
+1301 with relatively few gaps, from Hatcher (1973: 156-159) and Mitchell (1988: 303- 
+304). King (2005) provides data on bar iron production for the period 1490-1700. The 
+output of coal in the 1560s and circa 1700 is taken from Hatcher (1993: 68), interpolated 
+using shipments of coal from north-eastern ports, also taken from Hatcher (1993: 487- 
+495), updating the earlier work of Nef (1932: 380-381). In Figure 7A, we see that 
+although tin output grew more rapidly than industrial production as a whole, the coal and 
+iron industries grew even more rapidly, particularly during the sixteenth century. 
+2. Textiles and leather 
+The textiles and leather sector is based on volume indicators of the key raw material 
+inputs of wool and animal hides. Exports of wool and woollen cloth are given by Carus- 
+Wilson and Coleman (1963) for the period 1280-1554. However, the export of wool is 
+negatively related to the export of cloth, so we use the production of wool from 
+agriculture minus wool exports as an indicator of the woollen textile industry. It should 
+be noted that although the period between the mid-fourteenth and mid-fifteenth centuries 
+was characterised by strong growth of wool cloth exports, this was offset by the decline 
+in home consumption as population declined. The output of hides from pastoral 
+agriculture is used to track the output of the leather industry. Figure 7B shows that 
+woollen textiles grew more rapidly than the leather industry. 
+3. Other industries 
+Food processing, building and book production are grouped together as the relatively 
+heterogeneous group of other industries. Food processing is assumed to grow in line with 
+15 
+
+========16========
+
+agricultural output. Building is assumed to grow in line with population, but with an 
+allowance for urbanisation. For the medieval period, however, allowance has been made 
+for church building, using data on the number of cathedral and abbey building projects 
+derived from Morris (1979: 179). Book production is measured by the index of new 
+English language book titles obtained from the British Library’s English Short Title 
+Catalogue (http://estc.bl.uk/F/?func=file&file_name=login-bl-list). Figure 7C shows that 
+book production grew much more rapidly than food processing and construction, 
+although the growth rate accelerated in construction with the growing urbanisation of the 
+English economy after 1500. 
+4. Aggregate industrial production 
+To aggregate the individual series into an overall industrial production index and the sub- 
+indices for the three component major sectors, we require a set of weights. The weights 
+for circa 1700 in Table 10 are derived from Hoffmann (1955), but with a number of 
+modifications, including an allowance for the production of books as well as the 
+reworking of the weighting scheme by Crafts et al. (1989). 
+Figure 7D plots the index of industrial production on a logarithmic scale, together 
+with the three major sector sub-indices. Table 11 summarises the aggregate information 
+in growth rate form over fifty year periods, using 10-year averages to capture long run 
+trends. Following a period of stagnation in industrial production as population declined 
+after the Black Death, there was a return to industrial growth after 1500, which can be 
+16 
+
+========17========
+
+discerned clearly in Figure 7D. The average annual growth rate over the period 1270- 
+1700 was 0.32 per cent. 
+IV. SERVICES 
+The service sector has received much less attention from economic historians than 
+agriculture and industry. Here, we build on the approach used by Deane and Cole (1967) 
+to estimate service sector output in eighteenth century Britain. For England 1270-1700, 
+we break down services into government, commerce, and housing and domestic service. 
+1. Commerce 
+For commerce, we combine indicators of international trade and transport, domestic trade 
+and transport and finance, which are plotted in Figure 8. We begin with a description of 
+the index for international trade and transport, which combines information on the 
+volume of exports, the distances travelled by those exports and the growth of the English 
+merchant shipping tonnage. The export volume data are available on an annual basis for 
+wool and cloth exports from all major English ports between 1280 and 1543 in Carus- 
+Wilson and Coleman (1963), with the national totals conveniently summarised in 
+Mitchell (1988: 358-359). Wool and cloth, which together accounted for 86.6 per cent of 
+the value of total exports in 1565, are aggregated into an index of export volumes using 
+weights of 90 per cent for cloth and 10 per cent for wool, derived from Stone (1949: 37). 
+The series has been extended over the period 1270-1280 on the assumption that the 
+stability of the export to domestic production ratio during the period 1280-1290 also held 
+during the previous decade, for which domestic wool production data are available. For 
+17 
+
+========18========
+
+the period after 1500, data on shortcloth exports through London are available from 
+Fisher (1940: 96) for the period 1500-1600 and from Fisher (1950: 153) for the period 
+1600-1640, with the overwhelming dominance of London in the trade demonstrated by 
+Davis (1954: 164-165) for the seventeenth century and by Carus-Wilson and Coleman 
+(1963) for the sixteenth century. Log-linear interpolation has been used for missing 
+years. 
+To capture the volume of international transport as well as commerce, it is 
+necessary to take account of the distances over which these exports were shipped, which 
+changed over time with the shifting importance of different trade routes. An important 
+factor here was the growing importance from around 1500 of the new trade routes to the 
+east around the south of Africa and to the Americas across the Atlantic, since the 
+distances on these routes dwarfed distances on the intra-European trade routes. Davis 
+(1954: 164-165) provides a regional breakdown of export destinations for the mid- 
+seventeenth century, which are adjusted to a pre-1500 pattern by eliminating the new 
+trade routes to the Americas and Asia. 
+After 1640 there is an unfortunate gap in the trade data until the new official 
+figures which start in 1697. However, for the period 1570-1700, we have data on the 
+English merchant shipping tonnage from Davis (1962). For the overlap period 1570- 
+1640, we have used the export data to interpolate between the much lower frequency 
+shipping tonnage data. This enables us to capture both the volatility of international 
+18 
+
+========19========
+
+commerce and the growing share of that commerce being shipped by English merchants 
+with the encouragement of mercantilist governments (Supple, 1964; Davis, 1973: 46-49). 
+Domestic trade and transport is measured by an index of marketed agricultural 
+and industrial output. An index of industrial and agricultural output is constructed from 
+the sectoral real output data described earlier. Changes in the share of output marketed 
+are captured by the cumulative number of new markets established in the period 1300- 
+1490 and the growth of the urban share of the population from 1490 to 1700. The data on 
+the growth of the market are taken from Letters (2005), while the data on urbanisation are 
+from Malanima (2009). 
+The extent of financial mediation in the economy is measured by the inverse of 
+the velocity of circulation, derived from Mayhew (2009). The long run decline of 
+velocity during the process of economic development was noted by Cameron (1967), 
+focusing on the experience of a number of countries, including England between 1750 
+and 1844. He particularly emphasised the institutional changes associated with the 
+development of new forms of money, such as bills of exchange, with lower velocity than 
+cash. Declining velocity can therefore be taken as an indicator of the growth of a more 
+sophisticated financial services sector. Mayhew (1995) extended the analysis back to 
+1300 and confirmed Cameron’s finding of a long run decline in velocity, but with an 
+interruption to the process during the Tudor debasement of the mid-sixteenth century. 
+Mayhew (2009) provides an update to his earlier study, incorporating revised money 
+supply data from Allen (2001). To convert this measure of financial intermediation into 
+19 
+
+========20========
+
+an index of financial sector activity, we interact the inverse of the velocity of circulation 
+with the population, as a scaling factor. 
+The fastest growing part of commerce was domestic trade and transport, with two 
+strong phases of growth. The first growth phase occurred with the rise of markets before 
+the Black Death, while the second growth phase occurred with the spread of urbanisation 
+after 1500. International trade and transport showed little trend growth before 1500, but 
+then grew rapidly during the mercantilist period from the sixteenth century onwards. The 
+financial sector declined with population after the Black Death and then showed 
+relatively modest growth from the mid-fifteenth century, but with a serious setback 
+during the Great Debasement of the mid-sixteenth century. 
+2. Housing and domestic service 
+Deane and Cole (1967) assumed that housing and domestic service grew in line with 
+population, and we have followed the same procedure here. Output therefore declined 
+sharply across the Black Death, continued to fall until the mid-fifteenth century and then 
+recovered until the mid-seventeenth century. 
+3. Government 
+For government, we use a 10-year moving average of real government revenue from 
+O’Brien and Hunt (1999), which is available for the whole period from the European 
+State Finance Database at http://www.le.ac.uk/hi/bon/ESFDB/frameset.html. The state 
+20 
+
+========21========
+
+expanded its size rapidly during the wars of the late medieval period, and again with the 
+rise of the mercantilist state during the seventeenth century. 
+4. Aggregate service sector output 
+The weights for the main service sectors are shown in Table 12, and are taken from the 
+circa 1700 shares in Crafts (1985: 16). Within commerce, the weights are derived as 
+follows. First, the relative shares of domestic and international trade and transport are 
+based on the relative shares for Holland, adjusted for the different degree of openness in 
+England compared to Holland. Since the share of exports and imports in GDP was lower 
+in England than in Holland, domestic trade and transport accounted for a higher share of 
+commerce in England than in Holland, and international trade and transport for a 
+correspondingly lower share. Second, the share of finance is set at 5.0 per cent of total 
+service sector output, which amounts to around 1.7 per cent of GDP, the share of finance 
+in GDP for 1907, the first benchmark year for which current price sectoral shares are 
+available for Britain with a separate enumeration of finance (Feinstein, 1972: 208). 
+The resulting series for total service sector output is plotted in Figure 8B, and the 
+growth rates for the whole period and sub-periods are presented in Table 13. Total 
+service sector output trended downwards during the medieval period, before picking up 
+strongly form the mid-fifteenth century. The slowest growing sector was housing and 
+domestic services, while the fastest growing sector was government, particularly before 
+1350. Commerce grew rapidly from the mid-sixteenth century. The average annual 
+growth rate for the aggregate service sector over the period 1270-1700 was 0.21 per cent. 
+21 
+
+========22========
+
+V. REAL GDP, POPULATION AND GDP PER CAPITA 
+The next step is to construct an index of real GDP for England over the period 1270-1700 
+from the above series for agriculture, industry and services, using an appropriate set of 
+weights. Table 14 sets out the weighting scheme, derived from reconstruction of nominal 
+GDP by sector. Real output trends from the sectoral series described earlier in the paper 
+are transformed into current price trends using sectoral price deflators, with absolute 
+levels of GDP in current prices established using an input-output table for 1841. For the 
+period 1270-1450, we use 1381 weights, a year for which it is also possible to establish 
+sectoral labour force shares from the Poll Tax Returns. For the period 1450-1550, we use 
+1522 weights, matching labour force shares derived from the Muster Rolls. For 1550- 
+1650, we use 1600 weights. Finally, for 1650-1700, we use circa 1700 weights, matching 
+the labour force estimates derived from the original study by Gregory King [1696]. The 
+resulting series, plotted in Figure 9, can be used to calculate growth rates over 50-year 
+periods, presented in Table 15. English GDP trended down after the Black Death, before 
+returning to positive growth from the late fifteenth century. Over the whole period 1270- 
+1700, the English economy averaged a growth rate of 0.24 per cent per annum. 
+Ultimately, we are interested in what happened to GDP per capita, the most 
+widely accepted indicator of material living standards over the long run. Although the 
+population of England has been firmly reconstructed by Wrigley and Schofield (1989) 
+and Wrigley et al. (1997) for the period since the compulsory registration of births, 
+marriages and deaths, estimates before 1541 are more speculative. For the period after 
+22 
+
+========23========
+
+1541, the data in Table 16 are based on the estimates of Wrigley et al. (1997), 
+interpolated using Wrigley and Schofield (1989). For earlier years, our estimates are 
+based on data for individual manors, extending forwards in time the approach of Hallam 
+(1988). It should be noted that our peak medieval population estimate of 4.81 million in 
+1348 is a little higher than the range of 4.0 to 4.5 million suggested by Overton and 
+Campbell (1996), but still well below the figure of at least 6 million suggested by Postan 
+(1966) and Smith (1991). As Overton and Campbell (1996) point out, such a high 
+population estimate has implications for other variables such as land use, crop 
+combinations, yields and kilocalorie extraction rates and the share of the population 
+living in towns, which would be hard to square with other evidence. We shall return to 
+this issue in a later section on consumption and output. Note the impact of the Black 
+Death, which struck in 1348-49, sharply accelerating a population decline that was 
+already underway in the early fourteenth century. 
+Combining the population data with the real GDP series produces our estimates of 
+GDP per capita growth in Table 17. The trend is of modest positive per capita income 
+growth between 1270 and1700, at an average annual rate of 0.20 per cent. However, the 
+path of growth was episodic. We find that GDP per capita grew substantially during the 
+Black Death crisis of the fourteenth century, and then remained on a plateau between 
+circa 1450 and 1650 before resuming growth during the second half of the seventeenth 
+century. These trends can also be seen in Figure 10, which plots GDP per capita on a 
+logarithmic scale. Note that although there were some isolated bad years between 1550 
+23 
+
+========24========
+
+and 1650, the trend level of per capita income remained above the level of the pre-Black 
+Death period. 
+Per capita income growth before the Industrial Revolution thus appears to be 
+confined largely to periods of falling population. This may at first sight appear to confirm 
+the Malthusian interpretation of writers such as Postan (1972) and Clark (2007a). The 
+Malthusian model depends on two key assumptions. First, population responds positively 
+to real incomes, so that if real income falls, fertility declines (the preventive check) and 
+mortality increases (the positive check). Second, there is a negative relationship between 
+the population level and real income, because of diminishing returns to labour, holding 
+land fixed. However, it is helpful to follow Mokyr and Voth (2010) in distinguishing 
+between the strong and weak versions of the Malthusian model. In the strong version, the 
+iron law of wages holds, so that if there is a positive shock to real incomes, they are 
+quickly forced back down to “bare bones” subsistence. In the weaker version, the positive 
+and preventive checks operate, but not sufficiently strongly to bring the economy back to 
+bare bones subsistence. In the weaker version of the Malthusian model, a society may 
+have a per capita income level sufficient for the majority of the population to afford the 
+respectability basket, as a result, for example, of restrictions on fertility through late 
+marriage. 
+The evidence for pre-industrial England presented above is clearly not consistent 
+with the strong version of the Malthusian model offered by Postan (1972). First, although 
+population was above the medieval peak by 1700, per capita incomes were around twice 
+24 
+
+========25========
+
+as high. The economy was able to support a larger population with a smaller proportion 
+working in agriculture, freeing up others to produce the industrial goods and services 
+demanded in a more urbanised society. Second, although it is not known when it first 
+became the norm, late marriage is known to have been prevalent in early modern England 
+(Wrigley and Schofield, 1989; Wrigley et al., 1997). Third, fertility limitation and the 
+high share of the pastoral sector meant that living standards for the majority were 
+“respectable” in 1300, and remained so throughout the period. Nevertheless, it must be 
+emphasised that there was a sizeable minority of people at the bottom of the income 
+distribution who were living at bare bones subsistence. Allen (2009: 50) suggests that this 
+group represented 18.3 per cent of the population in 1688, while the social tables 
+constructed by Campbell (2008: 940) for 1290 suggest that this proportion may have 
+been as high as 26 per cent in the medieval period. 
+The above interpretation is consistent with the weak Malthusian model. However, 
+there is an important way in which pre-industrial England does not fit the Malthusian 
+interpretation, either strong or weak. This is the important role of the growth of London. 
+Whereas Malthus clearly thought in terms of a negative relationship between population 
+density and real income levels through diminishing returns, there is much evidence to 
+suggest that the growth of London acted as a stimulus to productivity and real income 
+levels (Wrigley, 1985; Allen, 2009). This is more in line with the positive relationship 
+between population density and real income levels hypothesised by Boserup (1965; 
+1981), through effects on intensity of land use in surrounding rural areas and investment 
+in density-dependent infrastructure in the metropolitan centre, thus creating increasing 
+25 
+
+========26========
+
+rather than diminishing returns. Furthermore, Campbell et al. (1993) demonstrate the 
+positive influence of the large London market on the organisation of agricultural 
+production in the surrounding counties already during the medieval period, thus casting 
+doubt on a fundamental assumption of the Malthusian model long before the Industrial 
+Revolution. 
+VI. PRICES AND NOMINAL GDP 
+Real GDP can be converted to current prices by reflating the sectoral volume indices by 
+sectoral price series. The absolute values of nominal GDP can be pinned down using 
+benchmark figures for 1700.2 
+1. Sectoral and aggregate price indices 
+The starting point is the price indices that have been constructed for the three main 
+sectors of agriculture, industry and services. The agricultural price series have been 
+described in an earlier section, and are taken largely from Clark (2004). For industry, 
+prices are taken from Clark (2006) and Thorold Rogers (1866-1902). The price data for 
+services are based largely on wage rates and housing rents from Clark (2004), although 
+we have also incorporated some information on transport prices from Thorold Rogers 
+(1866-1902). For distribution, we have used a weighted average of agricultural and 
+industrial prices, with the weights reflecting the relative size of the two sectors. 
+2 
+The 1700 benchmark figures are obtained by projecting back from an 1841 benchmark using sectoral indices of real output and prices for the period 1700-1841 from Broadberry and van Leeuwen (2010a). 
+26 
+
+========27========
+
+Figure 11 shows that prices in the three main sectors moved broadly together over 
+the long run, although there were shorter periods when significant changes occurred in 
+the inter-sectoral terms of trade. Figure 12 charts the ratio of agricultural prices to 
+industrial prices, indexed on 1700=100. Agricultural prices were relatively high during 
+the first half of the fourteenth century when population was at its medieval peak. After 
+the Black Death, however, agricultural prices fell relative to industrial prices and 
+remained at a lower ratio until the mid-sixteenth century. The first half of the seventeenth 
+century stands out as a further period of relatively high agricultural prices. 
+2. Nominal GDP 
+Reflating real GDP with the aggregate price index produces the nominal GDP series 
+plotted in Figure 13 in £ million. Here we also plot some benchmark estimates of nominal 
+GDP produced by Snooks (1995) and Mayhew (1995), which suggests that previous 
+writers have succeeded in capturing the broad trends in nominal GDP over this long 
+period. However, a closer examination of the data for benchmark years in Table 18 
+suggests that Snooks substantially underestimated the level of nominal GDP in 1300, thus 
+exaggerating the growth of nominal GDP between 1300 and 1688. 
+3. Nominal and real GDP 
+Figure 14 plots real and nominal GDP together with the aggregate price level over the 
+period 1270-1700. It is clear that most of the increase in nominal GDP resulted merely 
+from inflation. While real GDP increased by a factor of 2.8 between 1270 and 1700, 
+nominal GDP increased by a much greater factor of 17.6, as a result of the price level 
+27 
+
+========28========
+
+increasing by a factor of 6.3. Put like this, inflation sounds very high, but compared with 
+the twentieth century, this is relatively mild inflation, at an annual rate of just 0.43 per 
+cent. Furthermore, it is clear that most of the increase in the price level occurred during 
+the Great Inflation of the sixteenth century, a Europe-wide and possibly global 
+phenomenon. 
+VI. CROSS-CHECKING THE OUTPUT ESTIMATES 
+1. Consumption and output 
+One way of assessing the credibility of the output estimates is to see what they imply 
+about the level and sufficiency of consumption per head. Table 19 assesses the supply of 
+kilocalories available per head of the population. Livi-Bacci (1991) believes that for a 
+population to have been adequately fed required an average food intake of 2,000 
+kilocalories per capita per day, although for a largely agrarian economy such as medieval 
+England, it is reasonable to assume that some of the kilocalories requirements could have 
+been met from home-raised vegetables and poultry, together with wild nuts, berries, fish 
+and game. We should thus be looking for the main arable crops and pastoral products of 
+the agricultural sector to produce around 1,500 kilocalories per person per day to meet 
+the subsistence needs of the population. 
+The estimates suggest that agricultural output was more than sufficient to meet 
+society’s needs after the Black Death, but was significantly less so in 1310/19, the decade 
+of the Great Famine. The picture of English society in the half century before the Black 
+Death that emerges from this table is thus one of an economy under pressure. Note also 
+28 
+
+========29========
+
+that it is hard to see how a population much above the 4.72 million average over the 
+decade 1300/09 could have been sustained, given the grain yields and the levels of land 
+use underpinning the output estimates. Even allowing for a 10 per cent higher arable 
+production in the non-demesne-sector, as suggested by Stone (2006), would not change 
+the picture dramatically, as can be seen in the final column. 
+One issue which is apparent from Table 19 and from the very high share of the 
+pastoral sector highlighted in Table 9 is that a lot of land was devoted to producing 
+relatively expensive kilocalories. Thus the medieval English population does not seem 
+particularly well off if living standards are assessed in terms of kilocalories. However, the 
+diet was highly varied, with a large proportion of the population able to consume meat, 
+dairy produce and ale. This is in striking contrast to a strongly Malthusian economy, with 
+real wages driven down to bare bones subsistence, where the bulk of the population 
+would be deriving the majority of their kilocalories from inferior grains with little 
+processing, such as oatmeal (Allen, 2009: 35-37). 
+2. Income and output based measures 
+An alternative way to assess the credibility of our output estimates is to compare them 
+with the long-established estimates of real wages. Phelps Brown and Hopkins (1981) 
+produced long time series of daily real wages for skilled and unskilled building workers 
+in England, which apparently painted a picture of Malthusian fluctuations but long run 
+stationarity of material living standards over the period 1270-1870. Subsequent 
+refinements by Allen (2001) present a more subtle picture, with the real wage gains 
+29 
+
+========30========
+
+following the Black Death being maintained in England and Holland, but eaten away by 
+subsequent population growth in the rest of Europe. Clark (2005) continues to show a 
+substantial decline in English real wages from their medieval peak before recovery from 
+the mid-seventeenth century. Figure 15 charts our per capita GDP estimates together with 
+the Allen and Clark real wage series for unskilled building workers. Real GDP per capita 
+moves more closely in line with the Allen real wage series over this period. 
+VIII. CONCLUSION 
+This paper provides the first annual estimates of GDP for England between 1270 and 
+1700, constructed from the output side. For agriculture, the estimates rest on a detailed 
+reconstruction of arable and pastoral farming, built up from manorial records during the 
+medieval period and probate inventories during the early modern period. For industry and 
+services, indices of gross output are assembled for the major sectors and combined with 
+value added weights. The GDP data are then combined with population estimates to 
+calculate GDP per capita. 
+Our results suggest English per capita income growth of 0.20 per cent per annum 
+between 1270 and 1700, with the strongest growth after the Black Death and in the 
+second half of the seventeenth century. This modest trend growth in per capita income 
+before the Industrial Revolution suggests that, working back from the present, living 
+standards in the late medieval period were well above “bare bones subsistence”. This can 
+be reconciled with modest levels of kilocalorie consumption per head because of the very 
+large share of pastoral production in agriculture. Already during the late medieval period, 
+30 
+
+========31========
+
+the English economy was on a path of development characterized by high value added, 
+capital intensive and non-human energy intensive production. 
+31 
+
+========32========
+
+TABLE 1: English arable land use (millions of acres) 
+Wheat 
+Rye/ Maslin 
+0.67 
+0.55 
+0.33 
+0.27 
+0.28 
+0.35 
+0.76 
+0.40 
+0.43 
+Barley/ Dredge 
+1.13 
+1.15 
+1.10 
+1.03 
+1.04 
+1.09 
+1.44 
+1.89 
+1.85 
+Oats 
+Pulses 
+1270 2.01 1300 2.43 1380 1.66 1420 1.38 1450 1.39 1500 1.45 1600 1.85 1650 2.04 1700 2.02 
+2.71 2.87 1.69 1.43 1.44 1.43 1.31 1.15 1.17 
+0.26 0.40 0.43 0.39 0.40 0.43 0.61 1.03 0.99 
+Other crops 0.00 0.00 0.00 0.00 0.00 0.10 0.73 1.37 1.31 
+Total sown 6.77 7.40 5.21 4.51 4.55 4.85 6.72 7.87 7.76 
+Fallow arable 
+4.75 
+4.13 
+3.52 
+3.25 
+3.09 
+2.96 
+2.16 
+1.92 
+1.94 
+Total arable 11.52 11.52 8.73 7.76 7.64 7.81 8.87 9.79 9.70 
+Sources: Overton and Campbell (1996: Tables III, V); Campbell et al. (1996); Medieval Accounts Database; Early Modern Probate Inventory Database; Holderness (1989); Overton (1996). 
+32 
+
+========33========
+
+FIGURE 1: English weighted national average grain yields per acre, gross of tithe and seed (bushels, log scale) 
+A. Wheat 
+B. Rye 
+
+========34========
+
+34 
+FIGURE 1 (continued): English weighted national average grain yields per acre, gross of tithe and seed (bushels, log scale) 
+C. Barley 
+D. Oats 
+34 
+
+========35========
+
+35 
+FIGURE 1 (continued): English weighted national average grain yields per acre, gross of tithe and seed (bushels, log scale) 
+E. Beans & peas 
+Sources: Medieval Accounts Database and the Early Modern Probate Inventories Database. 
+TABLE 2: English mean yields per acre gross of tithes, net of seeds in bushels (10-year averages) 
+Wheat 1270-1279 8.54 1300-1309 7.99 1350-1359 6.91 1400-1409 6.75 1450-1459 6.52 
+Rye 13.32 10.49 8.05 9.32 11.19 
+Barley 10.47 9.63 7.49 8.63 7.09 
+Oats 6.61 6.08 5.35 7.06 7.01 
+Pulses 3.81 7.23 4.54 5.43 3.86 
+1550-1559 8.98 1600-1609 11.43 1650-1659 12.93 1691-1700 15.68 
+7.28 10.54 12.86 15.01 
+8.43 12.07 16.93 15.56 
+9.80 11.62 11.14 13.74 
+5.06 9.70 12.77 7.76 
+Sources and notes: Gross Yield per acre taken from the Medieval Accounts Database and the Early Modern Probate Inventories Database. Seed sown per acre from the Medieval Database and for the early modern period from Overton and Campbell (1996), Allen (2005). 
+35 
+
+========36========
+
+36 
+FIGURE 2: Working animals in England in millions (10-year moving averages, log scale) 
+Sources: Derived from the Medieval Accounts Database; the Early Modern Probate Inventories Database. 
+TABLE 3: English arable output net of seed and animal consumption in million bushels (10-year averages) 
+Wheat Rye Barley Oats Pulses 1270-1279 17.49 8.81 11.92 15.62 0.51 1300-1309 19.39 5.73 11.06 14.01 1.46 1350-1359 11.91 2.79 8.29 6.34 0.96 1400-1409 9.46 2.59 8.93 7.67 1.08 1450-1459 9.09 3.29 7.40 7.65 0.78 
+1550-1559 14.75 4.00 10.62 9.14 1.48 1600-1609 21.44 7.53 18.00 9.40 4.00 1650-1659 26.45 4.89 32.32 3.97 9.10 1691-1700 31.50 6.80 28.33 4.69 5.45 
+Source: Output gross of tithe and net of seed were derived by multiplying sown area from Table 1 with net yields from Table 2. The sown area from Table 1 was interpolated where necessary. Consumption by working animals was derived from the numbers of working animals shown in Figure 2. 
+36 
+
+========37========
+
+37 
+FIGURE 3: Non-working livestock in England in millions (10-year moving averages, log scale) 
+Sources: Derived from the Medieval Accounts Database; Early Modern Probate Inventories Database; Allen (2005). 
+TABLE 4: Numbers of non-working animals in England in millions (10-year averages) 
+Milk Beef Calves Sheep Swine Livestock 
+cattle cattle units per 
+100 acres 1270-1279 0.60 0.54 0.60 10.99 0.70 44.07 1300-1309 0.68 0.61 0.68 16.14 0.92 51.37 1350-1359 0.44 0.40 0.44 15.90 0.83 56.15 1400-1409 0.40 0.36 0.40 13.10 0.71 57.45 1450-1459 0.31 0.28 0.31 16.24 0.75 58.16 
+1550-1559 0.32 0.29 0.32 11.20 0.66 38.04 1600-1609 0.40 0.36 0.40 14.76 1.04 40.99 1650-1659 0.36 0.33 0.36 14.57 0.98 33.84 1691-1700 0.38 0.35 0.38 17.34 1.02 39.18 
+Sources and notes: Derived from Medieval Accounts Database; Early Modern Probate Inventory Database; Allen (2005). 
+* Livestock units compare different animals on the basis of relative feed 
+requirements. Ratios from Campbell (2000: 104-107): (adult cattle for beef and milk x 1.2) + (immature cattle x 0.8) + (sheep and swine x 0.1). 
+37 
+
+========38========
+
+38 
+TABLE 5: Percentages of English animals producing specific products 
+Milk 1300 90 1700 90 
+Beef 15 25 
+Veal 14.1 21.1 
+Mutton 
+26 
+26 
+Pork 49 49 
+Wool 
+90 
+90 
+Sources: Holderness (1989: 147); Clark (1991: 216); Ecclestone (1996). 
+TABLE 6: English yields per animal (10-year averages) 
+Years Milk 
+(gallons) 1270-1279 100.00 1300-1309 100.96 1350-1359 112.27 1400-1409 124.83 1450-1459 138.81 
+Beef 
+(lb) 168.00 169.26 183.91 199.82 217.11 
+1550-1559 172.35 1600-1609 200.66 1650-1659 233.63 1691-1700 264.66 
+257.50 294.44 336.68 375.80 
+Veal (lb) 29.00 29.22 31.79 34.59 37.63 
+Mutton 
+(lb) 22.00 22.14 23.81 25.60 27.52 
+Pork (lb) 64.00 64.11 65.36 66.64 67.94 
+Wool (lb) 1.63 1.48 1.81 1.49 1.24 
+44.74 51.22 58.63 65.51 
+31.96 36.18 40.97 45.37 
+70.62 72.00 75.85 84.53 
+1.64 1.88 2.17 2.45 
+Sources and notes: Beef, pork, milk, and mutton are obtained from Clark (1991: 216), while veal is taken from Allen (2005: Table 6). Wool yield index from Stephenson (1988: Table 3), with the benchmark of 1.4 lb in 1300 from Britnell (2004: 416). The missing years were interpolated in line with the ratio of product to animal prices. 
+38 
+
+========39========
+
+39 
+TABLE 7: Output in English pastoral farming (10-year averages) 
+Years Milk Beef Veal Mutton Pork Wool Hides Hay 
+(m.gals) (m. lb) (m. lb) (m. lb) (m. lb) (m. lb) (m. lb) (m. tons 1270-1279 54.10 13.58 2.54 62.89 21.90 16.13 5.93 0.09 1300-1309 61.72 15.55 2.98 92.94 28.87 21.50 7.72 0.12 1350-1359 44.72 11.74 2.22 98.43 26.63 25.86 7.01 0.10 1400-1409 45.36 12.42 2.32 87.19 23.02 17.57 6.47 0.07 1450-1459 39.06 11.15 2.06 116.19 24.94 18.16 7.41 0.05 
+1550-1559 50.26 15.61 2.82 93.09 22.72 16.52 7.07 0.09 1600-1609 72.29 23.52 4.19 139.10 36.52 25.03 10.48 0.13 1650-1659 76.56 26.01 4.60 155.30 36.91 28.42 11.91 0.22 1691-1700 91.36 32.36 5.64 204.46 49.79 38.15 15.04 0.29 
+Sources: Total output estimates are derived by multiplying animal numbers from Table 4 with the percentage of animals producing in Table 5. The resulting numbers of producing animals are then multiplied with the animal yields from Table 6. 
+FIGURE 4: Indexed output in English arable and pastoral agriculture (log scale, 1700=100) 
+Sources: See text. 
+39 
+
+========40========
+
+40 
+TABLE 8: Output growth in English agriculture in constant 1700 prices 
+Years Arable sector 
+(% per annum) 1270/79 - 1300/09 0.00 1300/09 - 1340/48 0.12 1340/48 - 1400/09 -1.00 1400/09 - 1450/59 -0.13 1450/59 - 1470/79 -0.88 1470/79 - 1553/59 0.66 1553/59 - 1600/09 0.95 1600/09 - 1650/59 0.52 1650/59 - 1691/1700 0.16 
+Pastoral sector (% per annum) 
+0.99 
+0.04 
+-0.30 
+0.27 
+-0.45 
+0.02 
+0.83 
+0.23 
+0.68 
+Total agriculture (% per annum) 
+0.44 
+0.08 
+-0.63 
+0.11 
+-0.61 
+0.27 
+0.99 
+0.42 
+0.35 
+1270/79 - 1340/48 0.06 1270/79 – 1691/1700 0.12 
+0.43 0.23 
+0.22 0.18 
+Sources and notes: Derived from Medieval Accounts Database; Early Modern Probate Inventories Database. 
+TABLE 9: Output shares in English agriculture, in current prices, 10-year averages (%) 
+A. Arable products 
+Year Wheat 
+1270-79 24.0 1350-59 18.8 1450-59 15.2 1550-59 30.4 1650-59 32.4 1691-1700 38.9 
+Rye Barley Oats Pulses Total arable 
+products 5.2 11.2 11.9 0.6 52.9 1.9 8.9 5.8 1.2 36.6 2.3 6.6 4.7 0.9 29.7 4.8 12.6 8.2 1.8 57.9 4.0 20.4 1.8 7.6 66.3 4.8 14.7 1.7 3.8 63.9 
+B. Pastoral products Year 
+Dairy Beef Pork Mutton Hay Wool Hides 1270-79 8.4 2.7 4.3 16.4 0.7 14.0 0.7 1350-59 8.2 2.5 5.6 30.5 1.2 14.9 0.6 1450-59 7.6 2.8 6.0 42.3 1.0 9.3 1.3 1550-59 9.8 2.0 2.8 16.7 1.8 7.2 1.9 1650-59 7.4 2.2 2.5 12.7 3.0 5.0 1.0 1691-1700 7.8 2.3 3.8 12.9 3.1 5.1 1.0 
+Total pastoral products 
+47.1 
+63.4 
+70.3 
+42.1 
+33.7 
+36.1 
+Sources: Derived from Medieval Accounts Database; Early Modern Probate Inventories Database. 
+40 
+
+========41========
+
+41 
+FIGURE 5: Ratio of pastoral to arable prices (1700=100) 
+41 
+
+========42========
+
+42 
+FIGURE 6: Share of pasture in total agricultural output 
+A. At current prices 
+B. At constant 1700 prices 
+42 
+
+========43========
+
+43 
+FIGURE 7: English industrial production, 1270-1700 (1700=100, log scale) 
+A. Metal and mining industries 
+B. Textile and leather industries 
+43 
+
+========44========
+
+44 
+FIGURE 7 (continued): English industrial production, 1270-1700 (1700=100, log scale) 
+C. Other industries 
+D. Total industry and major sectors 
+44 
+
+========45========
+
+45 
+TABLE 10: English industrial output weights, circa 1700 
+% Tin 1.7 Iron 11.8 Coal 11.4 METALS & MINING 24.9 Woollens 26.6 Leather 14.8 TEXTILES & LEATHER 41.4 Food 21.3 Books 3.6 Building 8.8 OTHER INDUSTRY 33.7 TOTAL INDUSTRY 100.0 
+Sources: Derived from Hoffmann (1955) and Crafts et al. (1989). 
+TABLE 11: Growth of English industrial production, 1270-1700 
+% per annum 1270/79 - 1300/09 0.78 1300/09 - 1340/48 0.37 1340/48 - 1400/09 -0.24 1400/09 - 1450/59 -0.11 1450/59 - 1480/89 -0.19 1480/89 - 1553/59 0.50 1553/59 - 1600/09 0.78 1600/09 - 1650/59 0.38 1650/59 - 1691/1700 0.64 
+1270/79 - 1691/1700 0.32 
+Sources and notes: See text. 
+45 
+
+========46========
+
+46 
+FIGURE 8: English service sector output, 1270-1700 (1700=100, log scale) 
+A. Commerce 
+B. Total services and major sectors 
+46 
+
+========47========
+
+47 
+TABLE 12: English service sector weights, circa 1700 
+% Commerce 37.2 
+Of which: 
+Finance 5.0 
+Domestic trade and transport 21.5 
+International trade and transport 10.7 Housing and domestic 46.6 Government 16.2 Total 100.0 
+Sources: Derived from Crafts (1985: 16). 
+TABLE 13: Growth of English service sector output, 1270-1700 
+% per annum 1270/79 – 1300/09 0.37 1300/09 - 1340/48 0.13 1340/48 - 1400/09 -1.15 1400/09 - 1450/59 -0.22 1450/59 - 1480/89 0.29 1480/89 - 1553/59 0.49 1553/59 - 1600/09 0.82 1600/09 - 1650/59 0.92 1650/59 - 1691/1700 0.53 
+1270/79 - 1691/1700 0.21 
+Sources and notes: See text. 
+47 
+
+========48========
+
+48 
+TABLE 14: Sectoral shares in English GDP, 1270-1700 (%) 
+1381 Agriculture 42.4 Industry 36.3 Services 21.3 Total 100.0 
+1522 35.6 43.7 20.7 100.0 
+1600 41.8 34.6 23.6 100.0 
+1700 28.0 37.8 34.2 100.0 
+Sources and notes: Derived from reconstruction of nominal GDP by sector. Real output trends above are transformed into current price trends using sectoral price deflators, with absolute levels of GDP in current prices established using an input- output table for 1841; 1381 weights used for 1270-1450; 1522 weights used for 1450- 1550; 1600 weights used for 1550-1650; 1700 weights used for 1650-1700. 
+TABLE 15: Growth of English GDP, 1270-1700 
+% per annum 1270/79 – 1300/09 0.52 1300/09 - 1340/48 0.19 1340/48 - 1400/09 -0.60 1400/09 - 1450/59 -0.04 1450/59 - 1480/89 -0.15 1480/89 - 1553/59 0.48 1553/59 - 1600/09 0.79 1600/09 - 1650/59 0.50 1650/59 - 1691/1700 0.48 
+1270/09 - 1691/1700 0.24 
+Sources: See text. 
+48 
+
+========49========
+
+49 
+FIGURE 9: English real GDP, 1270-1700 (log scale, 1700=100) 
+Sources: See text. 
+49 
+
+========50========
+
+50 
+TABLE 16: English population, 1250-1700 
+A. Levels of population (millions) 
+Year 
+Total population 
+4.23 
+4.75 
+4.73 
+4.69 
+4.81 
+2.60 
+2.50 
+Year 
+1250 1290 1300 1315 1348 1351 1377 
+1400 1450 1490 1560 1600 1650 1700 
+Total population 
+2.08 
+1.90 
+2.14 
+3.02 
+4.11 
+5.31 
+5.20 
+B. Growth rates of population (% per annum) 
+Annual 
+data 
+10-year averages 
+1270-1300 0.27 1270/79 – 1300/09 1300-1348 0.04 1300/09 – 1340/48 1348-1400 -1.60 1340/48 - 1400/09 1400-1450 -0.18 1400/09 - 1450/59 1450-1490 0.29 1450/59 - 1480/89 1490-1560 0.55 1480/89 - 1553/59 1560-1600 0.60 1553/59 - 1600/09 1600-1650 0.51 1600/09 - 1650/59 1650-1700 -0.04 1650/59 - 1691/1700 
+0.23 -0.02 -1.33 -0.14 0.29 0.54 0.67 0.45 -0.08 
+1270-1700 0.04 1270/79 - 1691/1700 
+0.04 
+Sources: Medieval period: based on manorial tenants (see text); Wrigley et al. (1997), interpolated using Wrigley and Schofield (1989). 
+50 
+
+========51========
+
+51 
+TABLE 17: Growth of English GDP per capita, 1270-1700 
+% per annum 1270/79 – 1300/09 0.29 1300/09 – 1340/48 0.21 1340/48 - 1400/09 0.73 1400/09 - 1450/59 0.10 1450/59 - 1480/89 -0.44 1480/89 - 1553/59 -0.06 1553/59 - 1600/09 0.12 1600/09 - 1650/59 0.05 1650/59 - 1691/1700 0.57 
+1270/79 - 1691/1700 0.20 
+Sources and notes: See text. 
+FIGURE 10: English real GDP per capita, 1270-1700 (log scale, 1700=100) 
+Sources: See text. 
+51 
+
+========52========
+
+52 
+FIGURE 11: Aggregate and sectoral price indices, England 1270-1700 (1700=100, log scale) 
+Sources: See text. 
+FIGURE 12: Inter-sectoral terms of trade between agriculture and industry, England 1270- 1700 (1700=100) (log scale) 
+Sources: See text. 
+52 
+
+========53========
+
+53 
+FIGURE 13: Nominal GDP, England 1270-1700 (£ million, log scale) 
+Sources: See text; Snooks (1995: 50), Mayhew (1995: 58). 
+TABLE 18: English GDP in current prices (£ million) 
+Snooks 
+Mayhew 
+1270 
+1300 4.07 1381 
+1500 
+1600 
+1688 50.8 1700 
+4.7 
+This paper Annual 10-year 
+data average 
+2.9 3.2 
+4.7 4.7 
+4.0 4.1 
+3.4 3.4 
+20.0 23.0 
+43.3 50.1 
+53.3 54.1 
+Sources: See text; Snooks (1995: 50), Mayhew (1995: 58). 
+53 
+
+========54========
+
+54 
+FIGURE 14: Real and nominal GDP, England 1270-1700 (1700=100, log scale) 
+Sources: See text. 
+54 
+
+========55========
+
+55 
+TABLE 19: Per capita daily kilocalorie consumption of major arable crops and 
+animal products in England 
+Years Population 
+(mlns) 
+Animal 
+1270/79 4.40 1300/09 4.72 1310/19 4.63 1380/89 2.36 1420/29 2.03 1450/59 1.93 1600/09 4.27 1691/1700 5.14 
+Arable 
+Kcal 
+Kcal. net of seed 
+Kcal. net 
+losses, & 
+fodder 
+1,415 
+1,242 
+1,199 
+1,801 
+1,468 
+1,512 
+1,664 
+1,678 
+% food of seed, extractio 
+n rate 
+117 139 136 242 292 312 214 256 
+2,671 2,256 2,185 3,603 2,992 3,038 3,140 3,047 
+Total 
+Kcalories 
+Total (10% higher arable production in non-demesne 
+sector) 
+Kcalories 
+53 55 55 50 49 50 53 48 
+1,531 1,381 1,334 2,042 1,760 1,823 1,877 1,943 
+1,646 1,481 1,432 2,188 1,891 1,958 1,877 1,943 
+Sources and notes: Kilocalories per bushel for the medieval period are taken from Campbell et al. (1993: 41). Following Overton and Campbell (1996: Table XIII), storage losses are assumed to have been 10%, with food conversion losses of 20% for wheat and rye, 22% for barley, and 44% for oats when processed into bread, and 70% for barley and oats when malted and brewed into ale/beer. For the post Black Death period (1380/89 to 1450/59) patterns of grain consumption are assumed to have been equivalent to those for 1600 given by Overton and Campbell (1996: Table XII): 98% of wheat and rye and all oats not fed to livestock were eaten. However, we assumed that 50% of barley was eaten and the remainder brewed. For the pre-Black Death period it is assumed that 60% of barley was eaten and only 40% brewed. For 1600- 1850 the estimates of Overton and Campbell (1996: Tables XII and XIII) were 
+followed. 
+*Includes net grain imports and potatoes. 
+55 
+
+========56========
+
+56 
+FIGURE 15: Indexed daily real wage of an unskilled building worker and GDP per capita (10-year moving averages, 1700=100, log scale) 
+Sources: Allen (2001); Clark (2005); see text. 
+56 
+
+========57========
+
+57 
+REFERENCES 
+Allen, M. (2001), “The Volume of the English Currency, 1158-1470”, Economic 
+History Review, 54, 595-611. 
+Allen, R.C. (2000), ‘Economic structure and agricultural productivity in Europe, 
+1300-1800’, European Review of Economic History, 3, 1-25. 
+Allen, R.C. (2001), “The Great Divergence in European Wages and Prices from the 
+Middle Ages to the First World War”, Explorations in Economic History, 38, 
+411-447. 
+Allen, R.C. (2005), “English and Welsh Agriculture, 1300-1850: Output, Inputs and 
+Income”, Nuffield College, Oxford, 
+http://www.nuff.ox.ac.uk/General/Members/homepage.aspx?nuffid=ALLERC 
+00. 
+Allen, R.C. (2009), The British Industrial Revolution in Global Perspective, 
+Cambridge: Cambridge University Press. 
+Beveridge, W. (1939), Prices and Wages in England from the Twelfth to the 
+Nineteenth Century, Vol. I, Price Tables: Mercantile Era, London: Longmans, 
+Green. 
+Biddick, K. (1989), The Other Economy: Pastoral Husbandry on a Medieval Estate, 
+Berkeley: University of California Press. 
+Boserup, E, (1965), The Conditions of Agricultural Growth: The Economics of 
+Agrarian Change under Population Pressure, London: Allen & Unwin. 
+Boserup, E. (1981), Population and Technological Change: A Study in Long-Term 
+Trends, Oxford: Blackwell. 
+British Library (n.d.), English Short Title Catalogue, 
+(http://estc.bl.uk/F/?func=file&file_name=login-bl-list). 
+Britnell R. H. (2004), Britain and Ireland 1050-1530: Economy and Society, Oxford: 
+Oxford University Press. 
+Broadberry, S. and van Leeuwen, B. (2010a), “British Economic Growth and the 
+Business Cycle, 1700-1870: Annual Estimates”, University of Warwick, 
+http://www2.warwick.ac.uk/fac/soc/economics/staff/faculty/broadberry/wp/. 
+Broadberry, S.N. and van Leeuwen, B. (2010b), “Estimating English Agricultural 
+Output, 1492-1553”, University of Warwick. 
+Burnett, J. (2004), “The Wages and Employment of Female Day-Labourers in English 
+Agriculture, 1740-1850”, Economic History Review, 57, 664-690. 
+57 
+
+========58========
+
+58 
+Campbell, B.M.S. (1995), “Measuring the Commercialisation of Seigneurial 
+Agriculture c. 1300”, in Britnell, R.H. and Campbell, B.M.S. (eds.), A 
+Commercialising Economy: England 1086 to c. 1300, Manchester: 
+Manchester University Press. 
+Campbell, B.M.S. (2000), English Seigniorial Agriculture, 1250-1450, Cambridge: 
+Cambridge University Press. 
+Campbell, B.M.S. (2007), Three centuries of English crop yields, 1211-1491 [WWW 
+document]. URL http://www.cropyields.ac.uk. 
+Campbell B.M.S. (2008) “Benchmarking Medieval Economic Development: England, 
+Wales, Scotland, and Ireland, c.1290” Economic History Review, 61, 896-945. 
+Campbell, B. M. S., Bartley, K.C. and Power, J. P. (1996), “The Demesne-Farming 
+Systems of Post Black Death England: A Classification”, Agricultural History 
+Review, 44, 131-79. 
+Campbell, B.M.S., Galloway, J.A., Keene, D. and Murphy, M. (1993), A Medieval 
+Capital and its Grain Supply: Agrarian Production and Distribution in the 
+London Region, c.1300. Belfast: Historical Geography Research Group. 
+Cameron, R. (1967), “England, 1750-1844”, in Cameron, R. (ed.), Banking in the 
+Early Stages of Industrialization: A Study in Comparative Economic History, 
+New York: Oxford University Press, 15-59. 
+Carus-Wilson, E.M. and Coleman, O. (1963), England’s Export Trade, 1275-1547, 
+Oxford: Clarendon. 
+Clark, G. (1991), “Labour Productivity in English Agriculture, 1300-1860”, in 
+Campbell, B.M.S. and Overton, M. (eds.), Land, Labour and Livestock: 
+Historical Studies in European Agricultural Productivity, Manchester: 
+Manchester University Press, 211-235. 
+Clark, G. (2004), “The Price History of English Agriculture, 1209-1914”, Research in 
+Economic History, 22, 41-125. 
+Clark, G. (2005), “The Condition of the Working-Class in England, 1209-2004”, 
+Journal of Political Economy, 113, 1307-1340. 
+Clark, G. (2006), “England, Prices and Wages since 13th Century”, Global Price and 
+Income History Group, University of California, Davis, 
+http://gpih.ucdavis.edu/Datafilelist.htm. 
+Clark, G. (2007a), A Farewell to Alms: A Brief Economic History of the World, 
+Princeton: Princeton University Press. 
+Clark, G. (2007b), “The Long March of History: Farm Wages, Population and 
+Economic Growth, England 1209-1869”, Economic History Review, 60, 97- 
+135. 
+58 
+
+========59========
+
+59 
+Clarkson, L.A. (1989), “The Manufacture of Leather”, in Mingay, G.E. (ed.), The 
+Agrarian History of England and Wales, Volume VI: 1750-1850, Cambridge: 
+Cambridge University Press, 466-485. 
+Crafts, N.F.R. (1985), British Economic Growth during the Industrial Revolution, 
+Oxford: Clarendon. 
+Crafts, N.F.R. and Harley, C.K. (1992), “Output Growth and the Industrial 
+Revolution: A Restatement of the Crafts-Harley View”, Economic History 
+Review, 45, 703-730. 
+Crafts, N.F.R., Leybourne, S.J. and Mills, T.C. (1989), “Trends and Cycles in British 
+Industrial Production, 1700-1913”, Journal of the Royal Statistical Society, 
+Series A, 152, 43-60. 
+Davis, R. (1954), “English Foreign Trade, 1660-1700”, Economic History Review, 7, 
+150-166. 
+Davis, R. (1962), The Rise of the English Shipping Industry in the Seventeenth and 
+Eighteenth Centuries, London: Macmillan. 
+Davis, R. (1973), English Overseas Trade, 1500-1700, London: Macmillan. 
+Deane, P. and Cole, W.A. (1967), British Economic Growth, 1688-1959: Trends and 
+Structure, 2nd edition, Cambridge: Cambridge University Press. 
+Dodds, B. (2004), “Estimating Arable Output Using Durham Priory Tithe Receipts, 
+1341-1450”, Economic History Review, 58, 245-285. 
+Dodds, B. (2007), Peasants and Production in the Medieval North-East: The 
+Evidence from Tithes 1270-1536, Woodbridge: Boydell & Brewer. 
+Ecclestone, M. J. (1996), “Dairy Production on the Glastonbury Abbey Demesnes 
+1258-1334”, unpublished M.A. dissertation, University of Bristol. 
+Farmer, D. L. (1988), “Prices and Wages”, in Hallam, H.E. (ed.), The Agrarian 
+History of England and Wales, Volume II: 1042-1350, Cambridge: Cambridge 
+University Press, 715-817. 
+Feinstein, C.H. (1972), National Income, Expenditure and Output of the United 
+Kingdom, 1855-1965, Cambridge: Cambridge University Press. 
+Fisher, F.J. (1940), “Commercial Trends and Policy in Sixteenth-Century England”, 
+Economic History Review, 10, 95-117. 
+Fisher, F.J. (1950), “London’s Export Trade in the Early Seventeenth Century”, 
+Economic History Review, New Series 3, 151-161. 
+59 
+
+========60========
+
+60 
+Hallam, H.E. (1988), “Population Movements in England, 1086-1350”, in Hallam, 
+H.E. (ed.), The Agrarian History of England and Wales, Vol. II, 1042-1350, 
+Cambridge: Cambridge University Press, 508-593. 
+Hatcher, J. (1973), English Tin Production and Trade before 1550, Oxford: 
+Clarendon Press. 
+Hatcher, J. (1993), The History of the British Coal Industry, Volume 1, Before 1700: 
+Towards the Age of Coal, Oxford; Oxford University Press. 
+Hoffmann, W.G. (1955), British Industry 1700-1950, Oxford: Blackwell. 
+Holderness, B.A. (1989), “Prices, Productivity, and Output”, in Mingay, G.E. (ed.), 
+The Agrarian History of England and Wales, Volume VI: 1750-1850, 
+Cambridge: Cambridge University Press, 84-189. 
+King, P. (2005), “The Production and Consumption of Bar Iron in Early Modern 
+England and Wales”, Economic History Review, 58, 1-33. 
+Letters, S. (2005), “Gazetteer of Markets and Fairs in England and Wales to 1516”, 
+Centre for Metropolitan History, 
+http://www.british-history.ac.uk/source.aspx?pubid=272. 
+Livi-Bacci, M. (1991), Population and Nutrition, Cambridge: Cambridge University 
+Press. 
+Malanima, P. (2009), Pre-Modern European Economy: One Thousand Years (10th - 
+19th Centuries, Leiden: Brill. 
+Mayhew, N. (1995), “Modelling Medieval Monetisation”, in Britnell, R. and 
+Campbell, B.M.S. (eds.), A Commercialising Economy: England 1086 to c. 
+1300, Manchester, Manchester University Press, 55-77. 
+Mayhew, N.J. (2009), “Money Supply and GDP in England 1085-1700”, XVth World 
+Economic History Congress, Utrecht, Session E4, 
+http://www.wehc2009.org/programme.asp?day=2&time=4. 
+Mitchell, B.R. (1988), British Historical Statistics, Cambridge: Cambridge University 
+Press. 
+Mokyr, J. and Voth, H.J. (2010), “Understanding Growth in Europe, 1700-1870: 
+Theory and Evidence”, in Broadberry, S. and O’Rourke, K. (eds.). The 
+Cambridge Economic History of Modern Europe, Volume 1: 1700-1870, 
+Cambridge: Cambridge University Press (forthcoming). 
+Morris, R. (1979), Cathedrals and Abbeys of England and Wales: The Building 
+Church, 600-1540, London: Dent. 
+Nef, J.U. (1932), The Rise of the British Coal Industry, Volume II, London: 
+Routledge. 
+60 
+
+========61========
+
+61 
+O’Brien, P.K. and Hunt, P.A. (1999), “England, 1485-1815”, in Bonney, R. (ed.), The 
+Rise of the Fiscal State in Europe, c.1200-1850, Oxford: Oxford University 
+Press, 53-100. 
+Overton, M. (1996), Agricultural Revolution in England: The Transformation of the 
+Agrarian Economy 1500-1850, Cambridge: Cambridge University Press. 
+Overton, M. and Campbell, B.M.S. (1996), “Production et productivité dans 
+l’agriculture anglais, 1086-1871”, Histoire et Mesure, 11, 255-297. 
+Overton, M., Whittle, J., Dean, D. and Haan (2004), A., Production and Consumption 
+in English Households, 1600-1750, London: Routledge. 
+Phelps Brown, H. and.Hopkins, S.V. (1981), A Perspective of Wages and Prices, 
+London: Methuen. 
+Postan, M.M. (1966), “Medieval Agrarian Society in its Prime: England”, in Postan, 
+M.M. (ed.), The Cambridge Economic History of Europe, Vol. I: The Agrarian 
+Life of the Middle Ages, second edition, Cambridge: Cambridge University 
+Press, 549-632. 
+Postan, M.M. (1972), The Medieval Economy and Society: An Economic History of 
+Britain in the Middle Ages, London: Weidenfeld and Nicolson. 
+Prince, H.C. (1989), “The Changing Rural Landscape, 1750-1850”, in Mingay, G.E. 
+(ed.), The Agrarian History of England and Wales, Volume VI: 1750-1850, 
+Cambridge: Cambridge University Press, 7-83. 
+Sapoznik, A. (2008), “Using Tithes to Compare Landlord and Peasant Cropping 
+Patterns at Fourteenth-Century Oakington”, Economic History Society Annual 
+Conference, Nottingham. 
+Smith, R.M. (1991), “Demographic Developments in Rural England, 1300-1348: A 
+Survey”, in Campbell, B.M.S. (ed.), Before the Black Death: Studies in the 
+“Crisis” of the Early Fourteenth Century, Manchester: Manchester University 
+Press, 25-77. 
+Snooks, G.D. (1995), “The Dynamic Role of the Market in the Anglo-Norman 
+Economy and beyond, 1086-1300”, in Britnell, R. and Campbell, B.M.S. 
+(eds.), A Commercialising Economy: England 1086 to c. 1300, Manchester, 
+Manchester University Press, 27-54. 
+Stephenson, M. J. (1988), “Wool Yields in the Medieval Economy”, Economic 
+History Review, 61, 368-91. 
+Stone, L. (1949), “Elizabethan Overseas Trade”, Economic History Review, 2, 30-58. 
+61 
+
+========62========
+
+62 
+Stone, D. J. (2006), “The Consumption of Field Crops in Late Medieval England”, in 
+Woolgar, C.M., Serjeantson, D. and Waldron, T. (eds.), Food in Medieval 
+England: Diet and Nutrition, Oxford: Oxford University Press. 
+Supple, B.E. (1964), Commercial Crisis and Change in England, 1600-1642: A Study 
+in the Instability of a Mercantile Economy, Cambridge: Cambridge University 
+Press. 
+Thorold Rogers, J.E. (1886-1902), A History of Agriculture and Prices in England, 
+Volumes 3-7, Oxford: Clarendon Press. 
+de Vries, J. (1994), “The Industrial Revolution and the Industrious Revolution”, 
+Journal of Economic History, 54, 249-270. 
+Wrigley, E.A. (1985), “Urban Growth and Agricultural Change: England and the 
+Continent in the Early Modern Period”, Journal of Interdisciplinary History, 
+15, 683-728. 
+Wrigley, E.A. (2006), “The Transition to an Advanced Organic Economy: Half a 
+Millennium of English Agricultue”, Economic History Review, 59, 435-480. 
+Wrigley, E.A. and Schofield, R.S. (1989), The Population History of England, 1541- 
+1871: A Reconstruction, Cambridge: Cambridge University Press. 
+Wrigley, E.A., Davies, R.S., Oeppen, J.E. and Schofield, R.S. (1997), English 
+Population History from Family Reconstitution, 1580-1837, Cambridge: 
+Cambridge University Press. 
+62 
+
+========63========
+

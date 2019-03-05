@@ -1,0 +1,884 @@
+June 2010 No.7 
+INDIAN GDP, 1600-1871: SOME PRELIMINARY ESTIMATES AND A 
+COMPARISON WITH BRITAIN 
+Stephen Broadberry and Bishnupriya Gupta 
+University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+INDIAN GDP, 1600-1871: SOME PRELIMINARY ESTIMATES AND A 
+COMPARISON WITH BRITAIN 
+Stephen Broadberry and Bishnupriya Gupta 
+Department of Economics, University of Warwick, Coventry CV4 7AL, United 
+Kingdom 
+S.N.Broadberry@warwick.ac.uk 
+B.Gupta@warwick.ac.uk 
+28 April 2010 File: IndianGDPpre1870v4 
+Abstract: This paper provides estimates of Indian GDP constructed from the output side for the period 1600-1871, and combines them with population estimates to track changes in living standards. Indian per capita GDP declined steadily. As British living standards increased from the mid-seventeenth century, India fell increasingly behind. Whereas in 1650, Indian per capita GDP was more than 80 per cent of the British level, by 1871 it had fallen to less than 15 per cent. As well as placing the origins of the Great Divergence firmly in the early modern period, these estimates suggest a relatively prosperous India at the height of the Mughal Empire, with living standards well above bare bones subsistence. 
+JEL classification: N10, N30, N35, O10, O57 
+Key words: Indian GDP, comparison, Britain 
+
+========2========
+
+I. INTRODUCTION 
+Recently, there has been much progress in reconstructing the historical national 
+accounts of a number of European countries during the early modern and even the late 
+medieval periods (Blomme and van der Wee, 1994; Malanima, 2003; Krantz, 2004; 
+Álvarez-Nogal and Prados de la Escosura, 2007; Broadberry et al., 2009; van 
+Leeuwen and van Zanden, 2009). This paper applies similar methods to Asia, 
+providing estimates of Indian GDP for the period before 1870. There is a strong need 
+for estimates of Indian GDP during the early colonial period, to assess the strong 
+revisionist claims about Indian economic performance made recently in the context of 
+the Great Divergence debate. Parthasarathi (1998) has made the most striking claims 
+for south India during the eighteenth century, arguing that living standards were just 
+as high as in Britain, while Bayly (1983) has painted a picture of a thriving north 
+Indian economy during the eighteenth century. 
+This paper presents estimates of GDP constructed from the output side for the 
+pre-1871 period, and combines them with population data. We find that Indian per 
+capita GDP declined steadily between 1600 and 1871. As British living standards 
+increased from the mid-seventeenth century, India fell increasingly behind. Whereas 
+in 1650, Indian per capita GDP was more than 80 per cent of the British level, by 
+1871 it had fallen to less than 15 per cent. These estimates support the claims of 
+Broadberry and Gupta (2006), based on wage and price data, that the Great 
+Divergence had already begun during the early modern period. They are also 
+consistent with a relatively prosperous India at the height of the Mughal Empire, 
+although much of this prosperity had disappeared by the eighteenth century. 
+Projecting back from Maddison’s (2003) widely accepted estimates of GDP per capita 
+2 
+
+========3========
+
+for the late nineteenth century in 1990 international dollars, we arrive at a per capita 
+income in 1600 of $782, well above the bare bones subsistence level of $400, or a 
+little over a dollar a day. This is more in line with the recent revisionist work on 
+Europe, which suggests that Maddison (2003) has substantially underestimated living 
+standards in the pre-modern world (Broadberry et al., 2009). 
+The paper proceeds as follows. We begin in Section II with a brief survey of 
+the existing literature on India’s long run economic performance. This is followed in 
+Section III by an overview of methods, drawing on previous work reconstructing 
+national income in Britain and Europe before 1800. Section IV then applies those 
+methods to India, describing the procedures for estimating output in agriculture, 
+industry and services, before aggregating the sectoral outputs into real GDP for India 
+during the period 1600-1871. In Section V, these GDP estimates are then combined 
+with data on population to derive estimates of Indian GDP per capita, and used to 
+compare living standards in India and Britain. Section V concludes. 
+III. INDIA’S LONG RUN ECONOMIC PERFORMANCE 
+India’s economic performance since the late sixteenth century has been the subject of 
+enduring controversy. The travelogues of Europeans to India in the sixteenth and 
+seventeenth centuries often described great wealth and opulence, but it is not difficult 
+to see this as reflecting their contact with the ruling classes, who enjoyed a luxurious 
+lifestyle with consumption of high quality food, clothing and ornaments, as well as 
+imported luxury products. The middle class merchants and rich peasants that 
+European travellers most frequently came into contact with also enjoyed a 
+comfortable life-style. However, most travel accounts of Mughal India and the 
+3 
+
+========4========
+
+Deccan also noted that the majority of Indians lived in poverty (Chandra, 1982; 
+Fukazawa, 1982). The labouring classes were seen as living in mud huts with thatched 
+roofs, eating inferior grains, wearing rudimentary clothing and the use of footwear 
+was relatively unknown (Moreland, 1923: 197-203). While cultural and climatic 
+conditions may explain some of the consumption differences between India and 
+Europe, most writers were in little doubt that the average Indian lived in poverty. 
+Furthermore, there is a substantial literature which attempts to chart trends in 
+Indian living standards over time, starting from 1595. The reign of Akbar is usually 
+seen as the peak of economic well being, and is well documented in Abū ’l-Fazl’s 
+[1595] Ā’ īn–i-Akbarī, which meticulously reported wages and prices in the region of 
+Agra. This has provided a reference point for real wage comparisons with later years. 
+Desai (1972) made the striking claim that at best, the average standard of living in 
+1961 was no higher than in 1595, when although a labourer could afford less 
+industrial goods such as clothing, he could buy more food, with the changing relative 
+prices reflecting the changing productivity trends in agriculture and industry. The 
+paper provoked some controversy over the details of the calculations (Heston, 1977; 
+Moosvi, 1977; Desai, 1978). Nevertheless, most writers seem to accept the idea of a 
+downward real wage trend during the seventeenth and eighteenth centuries before 
+recovery during the twentieth century, a pattern first suggested by Mukerjee (1967) 
+and confirmed recently by Broadberry and Gupta (2006). 
+This view of Mughal India as a relatively backward economy has been 
+challenged recently by the work of revisionist economic historians, whose work must 
+be assessed within the wider context of changing views on the Great Divergence of 
+4 
+
+========5========
+
+living standards between Asia and Europe. Parthasarathi’s (1998) characterisation of 
+south Indian real wages as on a par with English real wages in during the eighteenth 
+century is at variance with the older literature, but fits well with the claims of 
+Pomeranz (2000), Frank (1998) and other world historians that the most developed 
+parts of Asia were on the same development level as the most developed parts of 
+Europe such as Britain and the Netherlands as late as 1800. Bayly (1983) has painted 
+a picture of a thriving market economy in north India during the eighteenth century, 
+which leaves a similar impression. 
+Broadberry and Gupta (2006) compare silver and grain wages in Britain with 
+those in India and China during the seventeenth and eighteenth centuries, which casts 
+doubt on the revisionist position, suggesting that the Great Divergence was already 
+under way during the early modern period. However, a full assessment, encompassing 
+the ruling elites and middles classes as well as the labouring classes, requires the 
+reconstruction of national income in European and Asian countries. This paper makes 
+a start on that process by deriving estimates of GDP and population in India between 
+1600 and 1870, and comparing GDP per capita between India and Britain. This is the 
+first time series of national income estimates for India before the mid-nineteenth 
+century, which can be seen as joining up with Heston’s (1983) estimates for the 
+period after 1870. Our comparative results are also broadly consistent with Roy’s 
+(2010) finding that GDP per capita in Bengal was substantially lower than in England 
+and Wales during the second half of the eighteenth century. 
+III. AN OVERVIEW OF METHODS 
+5 
+
+========6========
+
+The first phase of historical national accounting focused on reconstructing national 
+income for a small number of relatively rich countries in Western Europe and North 
+America, and starting around 1870, at the beginning of the modern statistical age 
+(Kuznets, 1946; Clark, 1957; Maddison, 1982). A natural development was the 
+application of this approach to other parts of the globe, and many non-western 
+countries now have historical national accounts reaching back to around 1870 
+(Maddison, 1995). For the period before 1870, there has now been a substantial period 
+of experimentation, beginning with the study of British economic growth back to 
+1688 by Deane and Cole (1967). 
+Deane and Cole’s (1967) study was remarkable for the way in which the 
+authors made efficient use of the limited range of processed data series that were 
+available at the time. Subsequent research by many authors has dramatically extended 
+the range of data now available, with the revised estimates of Crafts and Harley 
+(1992) proving an important staging post. Broadberry and van Leeuwen (2008) have 
+now succeeded in producing annual estimates of GDP for Great Britain over the 
+period 1700-1850. Furthermore, Broadberry et al. (2009) have extended the approach 
+back to 1300 for the territory of England. 
+Deane and Cole’s (1967) approach now seems remarkably simple in the light 
+of the vast amount of subsequent research. Nevertheless, its simplicity and modest 
+demands on data makes it particularly suitable as a starting point for Asian historical 
+national accounting in the period before the wide availability of official statistics at a 
+national level. We focus here on Deane and Cole’s (1967) method for the eighteenth 
+century, where they constructed an index of total real output, based on industry, 
+6 
+
+========7========
+
+agriculture and services. Their estimates are reproduced here in Table 1. The sector 
+that was most firmly grounded in the data was industry. For the export industries, 
+such as cotton, output was assumed to grow in line with exports, for which abundant 
+data were available. For home industry, production was assumed to move in line with 
+the physical quantities of output of leather, beer, candles and soap. Finally, since 
+Deane and Cole had no independent data on commerce, the index of industrial output 
+was assumed to apply also to the commercial sector. It is not much of an 
+exaggeration, therefore, to say that the whole of the industrial and commercial sector 
+was dependent on the export data. 
+For agriculture and services, by contrast, the key data series was population. 
+For agriculture, an index of production was derived by assuming that agricultural 
+demand grew in line with population, which amounted to assuming constant per 
+capita corn consumption. An adjustment was then made for known imports and 
+exports of grain, to convert demand to domestic production. For services, even in 
+modern national accounts it is not uncommon to assume that real output moves in line 
+with employment. Since for the eighteenth century Deane and Cole had only 
+fragmentary evidence on employment, they assumed that service output grew in line 
+with population. For the government sector, however, it was possible to obtain direct 
+estimates of output from government budget sources. Finally, to combine the 
+individual series into an index of GDP, it was necessary to find appropriate weights 
+for agriculture, industry and services. These were taken from Gregory King’s [1696] 
+social tables, and are given at the top of each column in Table 1. 
+7 
+
+========8========
+
+It should by now be clear that Deane and Cole’s (1967) estimates of British 
+GDP in the eighteenth century are overwhelmingly dependent on the path of 
+population and exports, with a minor role for government expenditure and a restricted 
+set of volume indicators for home industry. It would not be difficult to assemble a 
+similar data set for India between 1600 and 1871, and that is what we proceed to do in 
+the next section. However, we will not stop there, because work conducted since 
+Deane and Cole’s (1967) study suggests a number of ways of improving upon this 
+approach, and again in ways which can be replicated with the data available for India. 
+First, subsequent work on the agricultural sector has allowed for a more 
+sophisticated treatment of demand. Crafts (1976) criticised Deane and Cole’s 
+assumption of constant per capita corn consumption while real incomes were rising 
+and the relative price of corn was changing, and Crafts (1985) recalculated the path of 
+agricultural output in Britain with income and price elasticities derived from the 
+experience of later developing countries. The approach was developed further by 
+Allen (2000) using consumer theory. Allen (2000: 13-14) starts with the identity: 
+a 
+ cNrq 
+(1) 
+where qa is agricultural output, r is the ratio of production to consumption, c is 
+consumption per head and N is population. Agricultural consumption per head is 
+assumed to be a function of its own price (pa), the general consumer price level (pc), 
+and income (y). Assuming a log-linear specification, we have: 
+ 
+ 
+210 
+ca 
+  lnlnlnln yppc (2) 
+where α1 and α2 are the own-price and cross-price elasticities of demand, β is the 
+income elasticity of demand and α0 is a constant. Consumer theory requires that the 
+own-price, cross-price and income elasticities should sum to zero, which sets tight 
+8 
+
+========9========
+
+constraints on the plausible values, particularly given the accumulated evidence on 
+elasticities in developing countries (Deaton and Muellbauer, 1980: 15-16, 60-82). For 
+early modern Europe, Allen (2000: 14) works with an own-price elasticity of -0.6 and 
+a cross-price elasticity of 0.1, which constrains the income elasticity to be 0.5. 
+Second, a number of authors have used the share of the population living in 
+towns as a measure of the growth of the non-agricultural sector. This approach began 
+with Wrigley (1985), and has recently been combined with the demand approach to 
+agriculture to provide indirect estimates of GDP in a number of European countries 
+during the early modern period (Malanima, 2003; Álvarez-Nogal and Prados de la 
+Escosura, 2007; Pfister, 2008). With the path of agricultural output (qa) derived using 
+equations (1) and (2), overall output (q) is derived as: 
+q 
+ 
+q 
+a 
+ 
+na 
+/1 qq  
+(3) 
+where the share of non-agricultural output in total output (qna/q) is proxied by the 
+urbanisation rate. The approach can be made less crude by adjusting the urbanisation 
+rate to deal with rural industry or agricultural workers living in towns. 
+IV. ESTIMATING INDIAN NATIONAL INCOME 
+In this section we derive estimates of Indian GDP by sector, following the basic 
+approach of Deane and Cole (1967), but incorporating demand effects into agriculture 
+and urbanisation effects into services. 
+1. Population 
+The first full census of India was conducted non-synchronously between 1867 and 
+1872, but is usually presented as the first decennial census for 1871. For the period 
+9 
+
+========10========
+
+1801-1871, we use the decadal estimates of Mahalanobis and Bhattacharya (1976), 
+who assembled information collected by the British for the three Presidencies of 
+Bengal, Madras and Bombay, and supplemented this with assumptions about the rate 
+of population growth in the non-enumerated regions. For earlier years, we have drawn 
+on the estimates collected together by Visaria and Visaria (1983: 466), based on a 50- 
+year frequency. We use the Bhattacharya estimates for 1751-1801, the mean Datta 
+estimates to link 1600 and 1750, the Wilcox estimates to link 1600 with 1650, and 
+log-linear interpolation for 1700. 
+Given the hybrid nature of the series projected back from the 1871 benchmark, 
+it is worth noting that Habib (1982: 164-166) provides a useful cross-check for the 
+absolute population level in 1600, on the basis of three alternative methods of 
+estimation. One approach, based on the cultivated area, yields an estimate of 142 
+million, while an alternative approach based on land revenue suggests a population of 
+144.3 million. A third method, based on the size of armies, suggests a population of 
+140 to 150 million. All three estimates are broadly consistent with our population 
+figure of 142 million in 1600. 
+2. Agricultural output 
+The simplest procedure for estimating an index of agricultural output is to follow 
+Deane and Cole’s (1967) assumption of constant per capita grain consumption in 
+deriving domestic demand. This is also the approach used by Wrigley (1985) for pre- 
+industrial Europe. However, Deane and Cole also made an allowance for net exports 
+of grain, and in the case of India, we shall need to allow for net exports of agricultural 
+crops, particularly during the nineteenth century as exports of cotton cloth declined. 
+10 
+
+========11========
+
+Focusing initially on domestic demand, our first index of domestic agricultural 
+production is simply the index of the population level. Following Crafts (1985) and 
+Allen (2000), however, it is desirable to allow for consumer response to changing real 
+incomes. Table 3 thus sets out an index of real wages for unskilled labourers in India, 
+derived from Broadberry and Gupta (2006) for the seventeenth and eighteenth 
+centuries, supplemented by additional information for the nineteenth century from 
+Mukerjee (1967). Although the precise magnitude of the fall in the real wage from its 
+high level in the early seventeenth century is a matter of controversy, most scholars 
+have acknowledged the downward trend (Desai, 1972; 1978; Moosvi, 1973; 1977; 
+Heston, 1977). Furthermore, it is interesting to note that the scale of the Indian real 
+wage decline is similar to that suggested by Allen (2001) for early modern southern 
+and eastern Europe, where a long period of decline steadily eroded the post-Black 
+Death doubling of real wages. 
+Indices of domestic agricultural production are provided in Table 4A. The first 
+index is based on the assumption of constant per capita grain consumption, while the 
+second series is derived from the demand model with an income elasticity of demand 
+of 0.5. Whereas the constant per capita grain consumption model suggests a 
+substantial growth of agricultural output with the expansion of the population, the 
+demand model suggests an agricultural sector that was struggling to maintain output 
+at its Mughal peak until well into the nineteenth century. 
+Turning to the impact of foreign trade, Table 4b provides an index of 
+agricultural exports. This is derived by obtaining the value of total exports in current 
+11 
+
+========12========
+
+prices and the share of agricultural crops from Chaudhuri (1983), and deflating the 
+resulting series of agricultural exports in current prices by an agricultural price index 
+from Mukerjee (1967). For the seventeenth and eighteenth centuries, we have 
+assumed that agricultural exports grew in line with domestic agricultural production. 
+Weights for the export and domestic components of agricultural production in 1871 
+are obtained by projecting the share of exports in total production in 1901 back in 
+time. Although the share of exports in total agricultural production in 1871 was only 
+around 10 per cent, agricultural exports nevertheless had a significant impact on the 
+path of total agricultural production in the nineteenth century, as exports of crops such 
+as raw cotton, opium and indigo offset the decline in exports of cotton piece goods. 
+3. Industrial Output 
+Table 5 sets out the data for estimating the output of industry oriented towards the 
+home market. Before the nineteenth century, this moved in line with population, as 
+the result of an assumed constancy of per capita consumption of cloth at 8.41 square 
+yards per head, derived from Prakash (1976: 174) for the early eighteenth century, 
+and consistent with the level suggested for the late nineteenth century by Ellison 
+[1886: 63]. Nevertheless, domestic production did not move simply in line with 
+population after 1801 because of the growing penetration of the Indian home market 
+by imports from Britain. 
+For export industry, it is possible to track Indian textile exports to Britain for 
+the period 1665-1834 from Chaudhuri (1978) and Bowen (2007). The data are set out 
+in Table 6 and Figure 1. Although we lack data for Indian exports to other countries, it 
+is possible to make an allowance for the growing share of Britain as an export 
+12 
+
+========13========
+
+destination using data on regional shares of bullion inflows to India from Haider 
+(1996: 323), since the purchase of Indian textiles was financed largely with silver. 
+The data in Figure 1 capture the healthy state of the Indian cotton textile export 
+industry during the seventeenth and eighteenth centuries. After 1801, however, the 
+industry went into decline, particularly with the growing British competition after the 
+end of the Napoleonic Wars (Broadberry and Gupta, 2009a). Table 7 charts the 
+continued decline of the Indian textile export industry until the establishment of a 
+modern factory based industry in Bombay during the 1850s (Morris, 1983: 572-583; 
+Farnie, 2004: 400-405). The current price data for the period 1851-1871 have been 
+converted to constant prices using an index of imported cotton cloth prices from 
+Sandberg (1974: 260), which tracks well the price of domestically produced cloth for 
+overlapping years from Mitra (1978: 207). During this period, the price of cloth rose 
+by just 6.3 per cent, so the deflation makes only a small difference to the nominal 
+data. 
+Putting together the trends in home industries and export industries, it is clear 
+that there was an absolute decline in industrial production in nineteenth century India, 
+rather than just a reduction of the share of industry in economic activity, consistent 
+with Clingingsmith and Williamson’s (2008) definition of strong rather than weak 
+deindustrialisation. Nevertheless, the scale of Indian deindustrialisation shown here is 
+in line with that suggested by Twomey (1983) rather than the more catastrophic 
+domestic industrial collapse claimed by Bagchi (1976) on the basis of evidence from 
+the state of Bihar. 
+4. The service sector 
+13 
+
+========14========
+
+For domestic services and housing, Deane and Cole (1967) assumed growth in line 
+with population. However, recent work on the long run development of the European 
+economy suggests that service sector growth moves more closely in line with the 
+urban population (Broadberry et al., 2009). Estimates of the urban share of the 
+population in India are presented in Table 8 for benchmark years, suggesting a decline 
+in the share of the population living in cities of more than 5,000 inhabitants. 
+Multiplying the population by the urban share, with interpolation between benchmark 
+years, yields an estimate of the urban population, which remained fairly stable despite 
+the growing total population. 
+5. Sectoral shares 
+To aggregate the time series for output in each of the major sectors into a total real 
+output index, we require value added weights. The earliest sectoral value added 
+weights for India are for 1900/01 from the work of Sivasubramonian (2000). 
+However, these can be projected back to circa 1871 using changes in employment 
+structure, following the procedure used by Hoffmann (1965: 389) for Germany. 
+Essentially, this involves assuming that the sectoral distribution of value added per 
+employee in 1900/01 acts as a good indicator of the sectoral distribution of value 
+added per employee in 1871. 
+The sectoral weights for India circa 1871 are set out in Table 9. The largest 
+sector was agriculture, and industry was largely geared towards the domestic market. 
+Commerce accounted for 5.5 per cent of GDP, but is combined here with industry. 
+Government, domestic services and housing together accounted for the remaining 
+10.3 per cent of GDP. 
+14 
+
+========15========
+
+6. Total real output 
+Table 10 sets out the time series for all the major sectors and the aggregate output or 
+gross domestic product (GDP) index obtained using the 1871 sectoral weights from 
+Table 9. Industry and commerce grew rapidly during the seventeenth and eighteenth 
+centuries, in contrast to the stagnation in agriculture. Since agriculture was the largest 
+sector, the growth of total output was therefore quite modest before 1801. During the 
+nineteenth century, although agriculture began to grow, this was offset by 
+developments in industry and commerce, where there was a severe loss of export 
+markets and penetration of the Indian home market by cotton textile imports from 
+Britain, so that total output stagnated. 
+V. PER CAPITA GDP 
+The GDP series from Table 10 can be combined with the population data from Table 
+2 to establish in Table 11 the path of GDP per capita in India. Per capita GDP 
+declined fairly steadily between the seventeenth and nineteenth centuries. Table 12 
+puts India’s per capita GDP performance in an international comparative perspective. 
+Benchmarking on the comparative India/GB per capita GDP level for 1871 from 
+Broadberry and Gupta (2009b), we see that India’s comparative position deteriorated 
+sharply from a position of more than 80 per cent of the British level in 1650 to just 
+14.5 per cent by 1871. The relative decline occurred fairly steadily from the mid- 
+seventeenth century. 
+Table 13 converts the GDP per capita information in index number form from 
+Table 12 into absolute levels of 1990 international dollars, as has become standard 
+15 
+
+========16========
+
+since the work of Maddison (1995). This enables us to gauge how far above bare 
+bones subsistence India was. The World Bank’s “dollar-a-day” definition of poverty 
+suggests a per capita income level of around $400 as a minimum, and Maddison 
+(1995) finds a number of third world countries at this level in the modern world. Note, 
+however, that Mughal India was well above this level, and even after the decline of 
+the seventeenth century, per capita incomes remained between 650 and 750 dollars for 
+most of the eighteenth century. It was only during the nineteenth century that Indian 
+per capita incomes fell close to bare bones subsistence. 
+Tables 12 and 13 have important implications for the debate over the Great 
+Divergence. First, Parthasarathi (1998) uses a comparative real wage study of Britain 
+and India to support the “California School” view that living standards in the most 
+developed parts of Asia were on a par with the most developed parts of Europe as late 
+as the end of the eighteenth century (Frank, 1998; Pomeranz, 2000). The evidence 
+presented in Table 12, however, suggests that Indian living standards were already 
+substantially below the British level during the seventeenth century. This supports the 
+view of Broadberry and Gupta (2006) that the Great Divergence was already well 
+underway during the early modern period. 
+Second, although Table 13 provides evidence of a prosperous India at the 
+height of the Mughal Empire at the time of Akbar, much of this prosperity had 
+disappeared by the eighteenth century. However, it is only with further decline during 
+the nineteenth century that most Indians were reduced to what Allen (2009) calls 
+“bare bones” subsistence. With per capita incomes of between 650 and 750 
+international dollars in 1990 prices, eighteenth century India was still sufficiently 
+16 
+
+========17========
+
+prosperous to be consistent with the scale of market activity described by Bayly 
+(1983). 
+VI. CONCLUDING COMMENTS 
+This paper provides estimates of Indian GDP constructed from the output side for the 
+pre-1871 period, and combines them with population estimates to track the path of 
+living standards. Indian per capita GDP declined steadily between 1600 and 1871. As 
+British living standards increased from the mid-seventeenth century, India fell 
+increasingly behind. Whereas in 1650, Indian per capita GDP was more than 80 per 
+cent of the British level, by 1871 it had fallen to less than 15 per cent. 
+These estimates cast further doubt on the extent of the recent revisionist work 
+which seeks to date the origins of the Great Divergence of living standards between 
+Europe and Asia only after the Industrial Revolution (Frank, 1998; Parthasarathi, 
+1998; Pomeranz, 2000). The GDP per capita data, as well as the wage and price data 
+surveyed by Broadberry and Gupta (2006), suggest strongly that the Great Divergence 
+had already begun during the early modern period. They are also consistent with a 
+relatively prosperous India at the height of the Mughal Empire, although much of this 
+prosperity had disappeared by the eighteenth century. Nevertheless, India sank close 
+to the bare bones subsistence level of living standards only during the nineteenth 
+century. 
+17 
+
+========18========
+
+TABLE 1: Index numbers of British eighteenth century real output (1700=100) 
+Agricul- Export Home 
+ture industries industries 
+(weights) (43) 1700 100 1710 104 1720 105 1730 103 1740 104 1750 111 1760 115 1770 117 1780 126 1790 135 1800 143 
+(18) 100 108 125 142 148 176 222 256 246 383 544 
+(12) 100 98 108 105 105 107 114 114 123 137 152 
+Total Rent Govt Total industry and and real 
+and services defence output commerce 
+(30) (20) (7) (100) 
+100 100 100 100 
+104 103 165 108 
+118 103 91 108 
+127 102 98 110 
+131 102 148 115 
+148 105 172 125 
+179 113 310 147 
+199 121 146 144 
+197 129 400 167 
+285 142 253 190 
+387 157 607 251 
+Source: Deane and Cole (1967: 78). 
+TABLE 2: Indian population, 1751-1871 
+Year Millions 1600 142 1650 142 1700 164 1751 190 1801 207 1811 215 1821 205 1831 216 1841 212 1851 232 1861 244 1871 256 
+Sources: Mahalanobis and Bhattacharya (1976: 7); Visaria and Visaria (1983: 466). 
+18 
+
+========19========
+
+TABLE 3: Real wages of Indian unskilled labourers, 1600-1871 
+Year 1871=100 1600 207.9 1650 179.8 1700 171.9 1751 140.7 1801 120.8 1811 106.7 1821 94.4 1831 101.5 1841 109.1 1851 117.5 1861 108.3 1871 100.0 
+Source: Broadberry and Gupta (2006: 14); Mukerjee (1967: 58). 
+19 
+
+========20========
+
+TABLE 4: Indian agricultural output, 1751-1871 (1871=100) 
+A. Agricultural production for domestic market Year Constant per Demand 
+capita grain model 
+consumption 
+1600 55.5 85.4 1650 55.5 77.6 1700 64.1 87.1 1751 74.2 89.3 1801 80.9 89.3 1811 84.0 86.8 1821 80.1 77.8 1831 84.4 85.0 1841 82.8 86.6 1851 90.6 98.5 1861 95.3 99.3 1871 100.0 100.0 
+B. Agricultural exports and total production Year Agricultual Agricultural 
+exports production for 
+domestic market 1600 12.2 85.4 1650 11.1 77.6 1700 12.5 87.1 1751 12.8 89.3 1801 12.8 89.3 1811 14.1 86.8 1821 20.5 77.8 1831 23.8 85.0 1841 32.9 86.6 1851 54.5 98.5 1861 61.2 99.3 1871 100.0 100.0 
+Total agricultural production 
+78.1 
+71.0 
+79.6 
+81.7 
+81.6 
+79.5 
+72.1 
+78.9 
+81.2 
+94.1 
+95.5 
+100.0 
+Sources and notes: Domestic agricultural production: derived from Tables 2 and 3. Agricultural exports in current prices: Chaudhuri (1983: 828-837, 842-844), converted to constant prices using an agricultural price index from Mukerjee (1967: 51). Before 1801, agricultural exports assumed to grow in line with domestic production. Share of agricultural exports in agricultural production in 1901 from Sivasubramonian (2000) projected back to 1871. 
+20 
+
+========21========
+
+TABLE 5: Cotton textile production for the domestic Indian market 
+Year Population Cotton Imports 
+(millions) consumption from Britain 
+(m yds) (m yds) 1600 142 1,194 0 1650 142 1,194 0 1700 164 1,379 0 1751 190 1,598 0 1801 207 1,741 0 1811 215 1,808 1 1821 205 1,724 20 1831 216 1,817 38 1841 212 1,783 141 1851 232 1,951 348 1861 244 2,052 514 1871 256 2,153 793 
+Domestic production 
+(m yds) 
+1,194 
+1,194 
+1,379 
+1,598 
+1,741 
+1,807 
+1,704 
+1,779 
+1,642 
+1,603 
+1,538 
+1,360 
+Sources: Population: Table 2. Cotton consumption per head: Prakash (1976: 174). Imports from Britain: Sandberg (1974: 142). 
+TABLE 6: Indian textile exports to Britain, 1665-1831 
+Year Pieces 1665 291,666 1700 868,095 1751 701,485 1801 1,037,440 1811 691,640 1821 758,397 1831 287,814 
+Years Pieces 1665-69 139,677 1700-04 597,978 1750-54 632,174 1800-04 1,355,304 1810-14 901,745 1820-24 542,117 1830-34 192,965 
+Sources: 1665-1761: Chaudhuri (1978: Tables C.20-C.22); 1761-1834: Bowen (2007). 
+21 
+
+========22========
+
+FIGURE 1: East India Company imports of textiles from India (pieces) 
+Souces: Chaudhuri (1978: Tables C20-C.22); Bowen (2007). 
+TABLE 7: Total Indian textile exports, 1831-1871 
+Year Thousand 
+pieces 
+Value of cotton goods (Rs 0000, in 1851 prices) 
+1831 3,000 1841 2,606 1851 2,279 1861 
+1871 
+7,355 8,365 14,865 
+Source: Piece goods exports from Twomey (1983: 42); value of cotton goods exports from Chaudhuri (1983: 833-834, 844), converted to 1851 prices using unit values of imported cotton cloth sold in the Indian market from Sandberg (1974: 260). 
+22 
+
+========23========
+
+TABLE 8: Urban population in India 
+Year Population 
+(millions) 
+1600 142 1650 142 1700 164 1751 190 1801 207 1811 215 1821 205 1831 216 1841 212 1851 232 1861 244 1871 256 
+Urban share (%) 
+15 
+15 
+14 
+13 
+13 
+13 
+12 
+12 
+11 
+11 
+10 
+8.7 
+Urban population (millions) 
+21.3 
+21.3 
+23.0 
+24.7 
+26.9 
+28.0 
+24.6 
+25.9 
+23.3 
+25.5 
+24.4 
+22.3 
+Sources: Population: Table 2. Urban share: 1600, 1801: Habib (1982: 166-171); 1871: Visaria and Visaria (1983: 519); Other years: interpolation. 
+TABLE 9: Indian sectoral weights, 1871 
+% Agriculture 67.5 Domestic industry 21.5 Export industry 0.7 Total industry and commerce 22.2 Services and housing 10.3 Total economy 100.0 
+Sources: Employment structure in 1875 from Heston (1983: 396); adjusted for value added per employee in current prices using 1900/01 data from Sivasubramonian (2000: 38, 405-408). 
+23 
+
+========24========
+
+TABLE 10: Indian real output (1871=100) 
+Year Agricul- Home Export 
+ture industries industries 
+Total Rent industry and 
+and services commerce 
+93.9 95.5 
+93.9 95.5 
+111.5 103.0 
+127.1 110.8 
+161.0 120.7 
+150.1 125.3 
+131.1 110.3 
+124.2 116.2 
+114.3 104.6 
+111.0 114.4 
+107.4 109.4 
+100.0 100.0 
+Total 
+real output 
+1600 78.1 1650 71.0 1700 79.6 1751 81.7 1801 81.6 1811 79.5 1821 72.1 1831 78.9 1841 81.2 1851 94.1 1861 95.5 1871 100.0 
+87.8 87.8 101.4 117.5 128.0 132.9 125.3 130.8 120.7 117.9 113.1 100.0 
+148.6 148.6 202.0 213.6 457.9 304.7 183.2 65.2 56.6 49.5 56.3 100.0 
+82.5 77.7 87.6 93.3 98.2 97.3 88.2 93.8 92.0 101.0 100.4 100.0 
+Sources: Agriculture: Table 4B, total agricultural production; Home industries: Table 5; Export industries: Tables 6 and 7, adjusted for the growing share of British exports during the seventeenth century using data on bullion inflows by region from Haider (1996: 323); Rent and services: Tables 2 and 8; Sectoral shares: Table 9. 
+TABLE 11: Indian per capita GDP (1871=100) 
+Year GDP 
+Population 
+1600 82.5 1650 77.7 1700 87.6 1751 93.3 1801 98.2 1811 97.3 1821 88.2 1831 93.8 1841 92.0 1851 101.0 1861 100.4 1871 100.0 
+55.5 55.5 64.1 74.2 80.9 84.0 80.1 84.4 82.8 90.6 95.3 100.0 
+Per capita 
+GDP 
+148.7 
+140.0 
+136.7 
+125.7 
+121.5 
+115.8 
+110.2 
+111.1 
+111.0 
+111.5 
+105.4 
+100.0 
+Sources: GDP from Table 10; population from Table 2. 
+24 
+
+========25========
+
+TABLE 12: Comparative India/GB GDP per capita 
+Indian GDP per capita 
+GB GDP per capita 
+India/GB GDP per 
+capita 
+1600 148.7 1650 140.0 1700 136.7 1751 125.7 1801 121.5 1811 115.8 1821 110.2 1831 111.1 1841 111.0 1851 111.5 1861 105.4 1871 100.0 
+1871=100 
+30.4 
+24.9 
+40.7 
+46.2 
+59.0 
+57.7 
+57.6 
+60.0 
+65.6 
+75.0 
+84.5 
+100.0 
+488.9 562.0 335.8 271.9 205.9 200.8 191.4 185.4 169.3 148.6 124.8 100.0 
+India/GB GDP per 
+capita GB=100 
+70.9 
+81.5 
+48.7 
+39.4 
+29.9 
+29.1 
+27.7 
+26.9 
+24.6 
+21.6 
+18.1 
+14.5 
+Sources and notes: Indian GDP per capita from Table 11; GB GDP: 1600-1700 from Broadberry et al. (2010); 1700-1870 from Broadberry and van Leeuwen (2008); 1870- 1871 from Deane (1968: 106); GB population: Mitchell (1988: 9-12). Comparative India/GB GDP per capita level in 1871 derived from Broadberry and Gupta (2010), adjusting from a UK to a GB basis using Irish shares of GDP and population from Crafts (2005: 56) and Feinstein (1972: Table 55). 
+TABLE 13: Indian and British GDP per capita, 1600-1871 (1990 international dollars) 
+Year Indian GDP 
+per capita 1600 782 1650 736 1700 719 1751 661 1801 639 1811 609 1821 580 1831 585 1841 584 1851 586 1861 554 1871 526 
+GB GDP per capita 
+1,104 
+904 
+1,477 
+1,678 
+2,142 
+2,093 
+2,090 
+2,176 
+2,380 
+2,721 
+3,065 
+3,629 
+Source: Derived from Table 12 and Maddison (2003). 
+25 
+
+========26========
+
+REFERENCES 
+Abū ’l-Fazl [1595] (1927), The Ā’ īn–i-Akbarī. Translated into English by 
+H.Blochman, Delhi: Low Price Publications. 
+Allen, R.C. (2000), “Economic Structure and Agricultural Productivity in Europe, 
+1300-1800”, European Review of Economic History, 3, 1-25. 
+Allen, R.C. (2001), “The Great Divergence in European Wages and Prices from the 
+Middle Ages to the First World War”, Explorations in Economic History, 38, 
+411-447. 
+Allen, R.C. (2009), The British Industrial Revolution in Global Perspective, 
+Cambridge: Cambridge University Press. 
+Álvarez-Nogal, C. and Prados de la Escosura, L. (2007), “The Decline of Spain 
+(1500-1850): Conjectural Estimates”, European Review of Economic History, 
+11, 319-366. 
+Bagchi, A.K. (1976), “De-industrialization in India in the Nineteenth Century: Some 
+Theoretical Implications”, Journal of Development Studies, 12, 135-164. 
+Bayly, C.A. (1983), Rulers, Townsmen and Bazaars: North Indian Society in the Age 
+of British Expansion, 1770-1870, Cambridge: Cambridge University Press. 
+Blomme, J. and van der Wee, H. (1994), “The Belgian Economy in a Long-Term 
+Historical Perspective: Economic Development in Flanders and Brabant, 
+1500-1812”, in Maddison, A. and van der Wee, H. (eds.), Economic Growth 
+and Structural Change: Comparative Approaches over the Long Run, Milan: 
+International Economic History Congress, 77-96. 
+Bowen, H. (2007), “East India Company: Trade and Domestic Financial Statistics, 
+1755-1838”, UK Data Archive, 
+http://www.data-archive.ac.uk/findingData/snDescription.asp?sn=5690. 
+Broadberry, S.N., Campbell, B., Klein, A., Overton, M. and van Leeuwen, B. (2010), 
+“British Economic Growth, 1270-1700: Some Preliminary Estimates”, 
+University of Warwick, 
+http://www2.warwick.ac.uk/fac/soc/economics/staff/faculty/broadberry/wp/. 
+Broadberry, S.N. and Gupta, B. (2006), “The Early Modern Great Divergence: 
+Wages, Prices and Economic Development in Europe and Asia, 1500-1800”, 
+Economic History Review, 59, 2-31. 
+Broadberry, S.N. and Gupta, B. (2009), “Lancashire, India and Shifting Competitive 
+Advantage in Cotton textiles, 1700-1850: The neglected Role of Factor 
+Prices”, Economic History Review, 62, 279-305. 
+Broadberry, S.N. and Gupta, B. (2010), “The Historical Roots of India’s Service-Led 
+development: A Sectoral Analysis of Anglo-Indian Productivity Differences, 
+1870-2000”, Explorations in Economic History, (forthcoming). 
+26 
+
+========27========
+
+Broadberry, S. and van Leeuwen, B. (2008), “British Economic Growth and the 
+Business Cycle, 1700-1850: Annual Estimates”, University of Warwick, 
+http://www2.warwick.ac.uk/fac/soc/economics/staff/faculty/broadberry/wp. 
+Chandra, S. (1982), “Standard of Living 1: Mughal India”, in Raychaudhuri, T. and 
+Habib, I. (eds.), The Cambridge Economic History of India, Volume 1: c. 
+1200-1750, Cambridge; Cambridge University Press, 458-471. 
+Chaudhuri, K.N. (1978), The Trading World of Asia and the English East India 
+Company, 1660-1760, Cambridge: Cambridge University Press. 
+Chaudhuri, K.N. (1983), “Foreign Trade and Balance of Payments (1757-1947)”, in 
+Kumar, D. and Desai, M. (eds.), The Cambridge Economic History of India, 
+Volume 2: c.1757-c.1970, Cambridge: Cambridge University Press, 804-877. 
+Clark, C. (1957), The Conditions of Economic Progress, (third edition), London: 
+Macmillan. 
+Clingingsmith, D. and Williamson, J.G. (2008), “Deindustrialization in 18th and 19th 
+Century India: Mughal Decline, Climate Shocks and British Industrial 
+Ascent”, Explorations in Economic History, 45, 209-234. 
+Crafts, N.F.R. (1976), “English Economic Growth in the Eighteenth Century: A Re- 
+examination of Deane and Cole’s Estimates”, Economic History Review, 29, 
+226-235. 
+Crafts, N.F.R. (1985), British Economic Growth during the Industrial Revolution, 
+Oxford: Oxford University Press. 
+Crafts, N.F.R. (2005), “Regional GDP in Britain, 1871-1911”, Scottish Journal of 
+Political Economy, 52, 54-64. 
+Crafts, N.F.R. and Harley, C.K. (1992), “Output Growth and the Industrial 
+Revolution: A Restatement of the Crafts-Harley View”, Economic History 
+Review, 45, 703-730. 
+Datta, R. (2000), Society, Economy and the Market: Commercialization in Rural 
+Bengal c.1760-1800, New Delhi: Manohar. 
+Deane, P. and Cole, W.A. (1967), British Economic Growth, 1688-1959, (2nd edition), 
+Cambridge: Cambridge University Press. 
+Deaton, A. and Muellbauer, J. (1980), Economics and Consumer Behaviour, 
+Cambridge; Cambridge University Press. 
+Desai, A.V.(1972) “Population and Standards of Living in Akbar’s Time”, Indian 
+Economic and Social History Review, 9, 43-62. 
+27 
+
+========28========
+
+Desai, A.V. (1978), “Population and Standards of Living in Akbar’s Time: A Second 
+Look”, Indian Economic and Social History Review, 15, 53-79. 
+Ellison, T. [1886] (1968), The Cotton Trade of Great Britain, New York: Kelley. 
+Farnie, D.A. (2004), “The Role of Cotton Textiles in the Economic Development of 
+India, 1600-1990”, in Farnie, D.A. and Jeremy, D.J. (eds.), The Fibre that 
+Changed the World: The Cotton Industry in International Perspective, 1600- 
+1990s, Oxford: Oxford University Press, 395-430. 
+Frank, A.G. (1998), ReOrient: The Silver Age in Asia and the World Economy, 
+Berkeley: University of California Press. 
+Fukazawa, H. (1982), “Standard of Living 2: Maharashtra and the Deccan”, in 
+Raychaudhuri, T. and Habib, I. (eds.), The Cambridge Economic History of 
+India, Volume 1: c. 1200-1750, Cambridge; Cambridge University Press, 471- 
+477. 
+Habib (1982), “Population”, in Raychaudhuri, T. And Habib, I. (eds.), The Cambridge 
+Economic History of India, Volume 1: c.1200-c.1750 , Cambridge: Cambridge 
+University Press, 163-171. 
+Haider, N. (1996), “Precious Metal Flows and Currency Circulation in the Mughal 
+Empire”, Journal of the Economic and Social History of the Orient, 39, 298- 
+364. 
+Heston, A.W. (1977), “The Standard of Living in Akbar’s Time: A Comment”, Indian 
+Economic and Social History Review, 14, 391-396. 
+Heston, A. (1983), “National Income”, in Kumar, D. and Desai, M. (eds.), The 
+Cambridge Economic History of India, Volume 2: c.1757-c.1970, Cambridge: 
+Cambridge University Press, 463-532. 
+Hoffmann, W.G. (1965), Das Wachstum der deutschen Wirtschaft seit der Mitte des 
+19. Jahrhunderts, Berlin: Springer Verlag. 
+Hossain, H. (1988) The Company Weavers of Bengal, Delhi: Oxford University Press. 
+King, G. [1696] (1936), “Natural and Political Observations and Conclusions upon 
+the State and Condition of England”, in Barnett, G.E. (ed.), Two Tracts by 
+Gregory King, Baltimore: Johns Hopkins Press. 
+Krantz, O. (2004), “An Estimate of Swedish GDP in 1571”, in Heikkinen, S. and van 
+Zanden, J.L. (eds.), Exploring Economic Growth: Essays in Measurement and 
+Analysis, Amsterdam: Aksant, 105-130. 
+Kuznets, S. (1946), National Product since 1869, New York: National Bureau of 
+Economic Research. 
+28 
+
+========29========
+
+Maddison, A. (1982), Phases of Capitalist Development, Oxford: Oxford University 
+Press. 
+Maddison, A. (1995), Monitoring the World Economy, 1820-1992, Paris: 
+Organisation for Economic Co-operation and Development. 
+Maddison, A. (2003), The World Economy: Historical Statistics, Paris: Organisation 
+for Economic Co-operation and Development. 
+Malanima, P. (2003), “Measuring the Italian Economy, 1300-1861”, Rivista di Storia 
+Economica, 19, 265-295. 
+Mahalanobis, P.C. and Bhattacharya, D. (1976), “Growth of Population in India and 
+Pakistan, 1801-1961”, Artha Vijnana, 18, 1-10. 
+Mitchell, B.R. (1988), British Historical Statistics, Cambridge: Cambridge University 
+Press. 
+Mitra, D.B. (1978), The Cotton Weavers of Bengal, Calcutta: Firma KLM. 
+Moosvi, S. (1973), “Production, Consumption and Population in Akbar’s Time”, 
+Indian Economic and Social History Review, 10, 181-195. 
+Moosvi, S. (1977), “Note on Professor Alan Heston’s ‘Standard of Living in Akbar’s 
+Time: A Comment’”, Indian Economic and Social History Review, 14, 397- 
+401. 
+Moreland, W.H. [1923] (1990), From Akbar to Aurangzeb: A Study in Indian 
+Economic History, Delhi: Low Price Publications. 
+Morris, M.D. (1983), “The Growth of Large-Scale Industry to 1947”, in Kumar, D. 
+and Desai, M. (eds.), The Cambridge Economic History of India, Volume 2: c. 
+1757-c. 1970, Cambridge: Cambridge University Press, 553-676. 
+Mukerjee, R. (1967), The Economic History of India, 1600-1800, Allahabad. 
+Parthasarathi, P. (1998), “Rethinking Wages and Competitiveness in the Eighteenth 
+Century: Britain and South India”, Past and Present, 158, 79-109. 
+Pfister, U. (2008), “German Economic Growth, 1500-1850”, Westfälische Wilhelms- 
+Universität Münster. 
+Pomeranz, K. (2000), The Great Divergence: China, Europe, and the Making of the 
+Modern World Economy, Princeton: Princeton University Press. 
+Prakash, O. (1976), “Bullion for Goods: International Trade and the Economy of 
+Early Eighteenth Century Bengal”, Indian Economic and Social History 
+Review, 13, 159-186. 
+29 
+
+========30========
+
+Roy, T. (2010), “Economic Conditions in Early Modern Bengal: A Contribution to 
+the Divergence Debate”, Journal of Economic History, 70, 179-194. 
+Sandberg, L.G. (1974), Lancashire in Decline: A Study in Entrepreneurship, 
+Technology and International Trade, Columbus: Ohio State University Press. 
+Sivasubramonian, S. (2000), The National Income of India in the Twentieth Century, 
+New Delhi: Oxford University Press. 
+Twomey, M.J. (1983), “Employment in Nineteenth Century Indian Textiles”, 
+Explorations in Economic History, 20, 37-57. 
+van Leeuwen, B. and van Zanden, J.L. (2009), “The Origins of ‘Modern Economic 
+Growth’: The Case of Holland in the Early Modern Period: Preliminary 
+Results”, University of Warwick and IISG/Utrecht University. 
+Visaria, L. and Visaria, P. (1983), “Population (1757-1947)”, in Kumar, D. and Desai, 
+M. (eds.), The Cambridge Economic History of India, Volume 2: c.1757 - 
+c.1970, Cambridge: Cambridge University Press, 463-532. 
+Wrigley, E.A. (1985), “Urban Growth and Agricultural Change: England and the 
+Continent in the Early Modern Period”, Journal of Interdisciplinary History, 
+15, 683-728. 
+30 
+
+========31========
+

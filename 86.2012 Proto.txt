@@ -1,0 +1,886 @@
+May 2012 
+                 No.86 
+Life Satisfaction, Household Income and Personality Traits 
+Eugenio Protoa and Aldo Rustichini University of Warwick and University of Minnesota 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Life Satisfaction, Household Income and 
+Personality Traits 
+Eugenio Protoa Aldo Rustichinib 
+ 
+aDepartment of Economics, University of Warwick bDepartment of Economics, University of Minnesota 
+April 25, 2012 
+Abstract: We show that personality traits mediate the e of income on Life Satisfaction. The e is strong in the case of Neuroticism, which measures the sensitivity to threat and punishment, in both the British Household Panel Survey and the German Socioeconomic Panel. Neuroticism increases the usually observed concavity of the relationship: Individuals with higher Neuroticism score enjoy income more than those with lower score if they are poorer and enjoy income less if they are richer. When the interaction between income and neuroticism is introduced, income does not have signit e on his own. 
+To interpret the results, we present a simple model where we assume that (i) Life Satisfaction is dependent from the gap between aspired and realized income, and this is modulated by Neuroticism and (ii) income increases in aspirations with a slope less than unity, so that the gap between aspired and realized income increase with aspirations. From the estimation of this model we argue that poorer tend to over- shoot in their aspiration, while rich tend to under-shoot. The estimation of the model also shows substantial ect of traits on income. 
+JEL classiation: D03; D870; C33. 
+Keywords: Life Satisfaction, Household Income, Personality Theory, Neuroti- cism. 
+Acknowledgements 
+The authors thank several coauthors and colleagues for discussions on related research, especially Wiji Arulampalam, Sasha Becker, Gordon Brown, Dick Easter- lin, Peter Hammond, Alessandro Iaria, Graham Loomes, Kyoo il Kim, Rocco Macchiavello, Anandi Mani, Fabien Postel-Vinay, Dani Rodrik, Jeremy Smith, Chris Woodruf, Fabian Waldinger. Proto thanks the ESRC (grant RES-074-27-0018); Rustichini thanks the NSF (grant SES-0924896) and ESRC (grant RES-062-23-1385). 
+
+========2========
+
+1 Introduction 
+The general relation between self-reported well-being and personally available income has been widely investigated. A regression of Life Satisfaction on in- come using both cross-sectional and panel survey data in a developed country generally shows a signit, positive, but small estimated coet of income (e.g. Blanchwer and Oswald, 2004; Ferrer-i-Carbonell and Frijters, 2004). Al- though the debate on the existence of a satiation point is still open, there is general agreement that the size of the e is decreasing with income, consis- tently with the usual assumptions over individuals’ utility function, as Layard et al. (2008) explicitly point out.1 
+However a signit amount of evidence suggests that the link between Life Satisfaction is more complex than that. Life satisfaction appears to be monoton- ically increasing with income when one studies this relation at a point in time across nations (e.g. Deaton, 2008; Stevenson and Wolfers, 2008). Over time how- ever, the relation between GDP and Life Satisfaction appears rather dit. In a well-known  Easterlin reported no signit relationship between happiness and aggregate income in time-series analysis. For example, the income per capita in the USA in the period 1974-2004 almost doubled, but the average level of happiness shows no appreciable trend upwards. This puzzling nding, appropriately called the Easterlin Paradox (Easterlin, 1974) has been con in similar studies by psychologists (Diener et al., 1995) and political scientists (Inglehart, 1990), and has been shown to hold also for European countries, East- erlin (1995).2 A potential explanation of the paradox is that individuals adapt to current conditions, and the level of subjective well being tends to revert to a baseline level depending on a reference point, an idea originally proposed by 
+1Layard et al. (2008)  that the marginal Life Satisfaction with respect to income declines at a faster rate than the one implied by a logarithm utility function. Kahneman and Deaton (2010) argue that the e of income on an emotional dimension of well-being, like happiness self-report, reaches a maximum at an annual income of 75,000 USD, and has no further positive in for higher values; while the non emotional measures of well being like the Cantrill ladder does not feature this satiation point 
+2There is some disagreement in the time-series based analysis: Oswald (1997) shows evi- dences of a small positive temporal correlation between Life Satisfaction and GDP in indus- trialized countries and Stevenson and Wolfers (2008)  signit happiness gains in Japan the post-war period. 
+2 
+
+========3========
+
+Brickman and Campbell (1971). Aspirations have been naturally associated to the reference point provided by current income: hence to the extent that an increase in income leads to an increase in aspirations, changes in income may not have a long-run e on subjective well being.3 A dit explanation of the Easterlin Paradox hinges on the concept that relative, rather than absolute income, is the main determinant of Life Satisfaction, an idea that can de dated back to Duesenberry (1949).4 
+The present paper aims to shed more lights on the relation between personal income and Life Satisfaction by bringing into the analysis the personality theory. We  analyze how traits interact in this relationship, and we then propose a theoretical explanation of the empirical  We  test this explanation by estimating a structural model based on our theory. Our analysis shows that Neuroticism a not just the level of Life Satisfaction, but also modulates the relationship between income and Life satisfaction in both the British Household Panel Survey and the German Socioeconomic Panel. The ect of income seems largely mediated by the personality traits. When the interaction between income and Neuroticism is introduced, income does not have signit ect on his own. Neuroticism increases the usually observed concavity of the relationship between income and Life Satisfaction. Individuals with higher Neuroticism score enjoy income more than those with a lower score if they are poorer; conversely, they enjoy income less if they are richer.5 
+Why do we observe this strong e Neuroticism is linked to higher sen- sitivity to negative emotions like anger, hostility or depression (e.g. Clark and Watson, 2008), is associated with structural features of the brain systems as- sociated with sensitivity to threat and punishment (DeYoung et Al. 2010) and with low levels of serotonin in turns associated with aggression, poor impulse control, depression, and anxiety (Spoont 1992). For this reason modern studies 
+3Easterlin (2005), Stutzer (2004), McBride (2006) provides some empirical evidence on how aspirations increase in income 
+4Clark and Oswald (1996), Blanchwer and Oswald (2004), Luttmer (2005), Senik (2009) among others present empirical validations of this hypothesis. See Clark et al. (2008) for an extensive survey of the theoretical and empirical literature explaining the Easterlin Paradox. 
+5These results are consistent with Boyce and Wood (2010), who  that Neuroticism interacts negatively in a model with the logarithm of the income in a Life Satisfaction equation. 
+3 
+
+========4========
+
+identify this personality trait with sensibility to negative outcomes, threats and punishments (see DeYoung and Gray (2010) for a recent survey). It is therefore reasonable to argue that people with higher Neuroticism experience higher sen- sitivity to losses or failure to meet the expectations. Accordingly, we propose an explanation of why Neuroticism decreases the elasticity between income and Life Satisfaction for high income level and increase this elasticity for lower income levels. The explanation is based on the sensitivity to the gap between aspiration and realization in income. 
+In a simple structural model we take the aspiration determined by personality traits and income to be a monotonic function of aspiration, and assume that the responsiveness of Life Satisfaction to the gap between aspired and realized income is proportional to Neuroticism. The estimation of the model shows that the elasticity between income and Life Satisfaction increases with Neuroticism for lower incomes and declines with Neuroticism at higher incomes; thus aspirations are in average ful for low income and in average un-ful for high income. 
+We therefore estimate the elasticity of Life Satisfaction on income as a vari- able dependent from individual’s personality. Kahneman et al. (2006) and Akin et al. (2009) show that individuals tend to underestimate the Life Satisfaction of the poorer. Their conclusion is that individuals work to become richer because of the illusion that wealth brings happiness. The present paper bringing into the analysis the personality theory suggests a dit reading of these empiri- cal  Richer people having a dit personality than poorer estimate correctly how bad they would feel if they themselves were poorer, and it is also for this reason that they are not poorer. 
+The estimation of the reduced form of our structural model unveil other relevant empirical results. Traits underlying motivation, like Conscientiousness, Openness and Extraversion, increase income signitly. These results con that personality traits are important for predicting life outcomes, income in this case (see Roberts et al. (2007) and Burks et al. (2009) for other life outcomes). 
+Finally, we note that the result that the marginal satisfaction of individuals with higher Neuroticism decline faster for high income levels provide a possible explanation of the choice- subjective well being reversal found by Benjamin et 
+4 
+
+========5========
+
+al. (2011) more often in neurotic individuals. Neurotic and highly ambitious individuals, even when they prefer to be richer, expect that the cost of being rich is high for then, hence they may predict that this leads to less satisfaction. 
+Recently economists have recognized the importance of introducing personal- ity traits in the economic model (Borghans, et al 2008; Rustichini, 2009; Almlund et a. 2011). Data on Personality traits are considered at least as stable as the economic preferences on risk, intertemporal discount rates, altruism and leisure (Borghans, et al. 2008); traits have a stronger predictive power than economic preferences for many important economic outcomes (Anderson et al. 2011) and have a comparable predictive power with respect to cognitive abilities (Almlund et a. 2011). Personality traits and economic preferences seem to be only weakly correlated, suggesting that both group of variables have independent predictive power for economic outcomes (Anderson et al. 2011). Personality are also related to genetic factors: for example, using analysis based on the di between DZ and MZ twins Rieman et al. (1997) show for all e factors, genetic e were the strongest source of the phenotypic variance on the personality traits measured vis self-report, accounting of about 50 percent of the variance. Other studies (see Loehlin’s (1992) meta analysis) based on the di between twins reared apart and reared together show that shared sibling environment e contributed little to phenotypic variance. They were negligible for Extraversion (2 percent) and small for Openness (6 percent), Conscientiousness (7 percent), Neuroticism (7 percent) and Agreeableness (11 percent). 
+It is known that personality traits can change with the age (Borghans, et al. 2008). We partially address this problem by considering the residuals of personality traits after controlling for age. Traits can also change in response to external environment. In this respect, Cobb-Clark and Schurer (2011) show that personality traits change after external shocks only to a negligible extent. For example, individuals who experienced e or more main adverse employment or income shocks between 2006 and 2009 (an event occurring to less than one percent of population) become more neurotic of the order 0.28 standard deviations for men and 0.15 for women. This produces {considering the estimated e of traits on income (see eg Mueller and Plug (2006), and also our estimation below){ a 
+5 
+
+========6========
+
+decrease of 0.012 US in hourly wage. 
+The predictive power of any particular personality measure tends to be smaller than the predictive power of IQ but in some cases rivals it. Conscientiousness best predicts overall schooling attainment and achievement and college grades to the same degree that SAT scores do and it is the best predictor of overall job per- formance and wages across a broad range of occupational categories; Neuroticism predict a variety of labor market outcomes, including job search e (see Alm- lund et a. 2011 for a survey of these results). The traits linked to ambition and aspirations are: openness (Vaughn et al. 2007), extraversion (Depue and Collins 1999) and the proactive side of Conscientiousness, as a need for achievement and commitment to work (Costa et al., 1991). 
+The rest of the paper is organized as follows. In section 2 we describe datasets and main variables. In Section 3 we show the empirical results. In section 4 we describe our theory and estimate the structural model. Section 5 concludes. Additional analysis and more technical details are in the appendix. 
+2 Data 
+We use two national data sets: the British Household Panel Survey (BHPS), cov- ering the years 1996-2008 (the question on Life Satisfaction has been introduced in 1996), and the German Socioeconomic Panel Study (SOEP), available for the years 1984-2009. Both SOEP and BHPS have longitudinal data, with the same individuals interviewed every year. All main data are presented in tables 1 and 2. We provide now a brief description of the main variables. 
+Big 5 Personality Traits. The Big Five are usually measured through self-report based on the NEO Five-Factor Inventory (Costa and McCrae, 1989). There is large literature demonstrating the reliability of this questionnaire and the stability of the personality traits. The data used in the current paper have been elaborated from the standard short questionnaire present in the BHPS and SOEP data-set (in the year 2005), personality traits are usually assessed with the NEO-Five Factor Inventory (NEO-FFI) with 60 items (12 items per domain). However, recent scale-development studies have indicated that the Big 
+6 
+
+========7========
+
+Five traits can be reliably assessed with a small number of items (e.g., Gosling et al., 2003). For instance, pilot work from the German Socio-Economic Panel (GSOEP) study led to a 15-item version of the well-validated Big Five Inventory (Benet-Martinez and John, 1998) that can be used in large-scale surveys. The questions are presented in section A of the appendix. 
+We consider the residuals of the traits after regressing them against age and age square and jointly normalize them so that they always range within 0 and 1.6 Tables 1 and 2 present the descriptive statistics of the personality traits variable, including the original data (with the asterisks) as well as the residuals. 
+Life Satisfaction. In the BHPS the Life Satisfaction question is: \How dissatisd or satisd are you with your life overall?" and it is coded on a scale from 1 (not satis at all) to 7 (completely satis In the SOEP the questions is \We would like to ask you about your satisfaction with your life in general", coded on a scale from 0 (completely dissatis to 10 (completely satis 
+To ease comparability of the statistical results for dit data sets, we transformed the measures of Life Satisfaction to always lie in a range between 1 and 7. In particular, we transformed the index of the SOEP according to the formula 1 + 
+Life Satisfaction 6 
+10 
+. 
+Household income. In both SOEP and BSHP datasets the income has been transformed in USD at 2005 constant prices, using the Consumer Price Index (CPI) of World Bank-World Development indicators. Data on income are all in 10K units. Figure 4 in the appendix displays the histograms of Income distribution for UK and Germany. 
+Control variables. Unless explicitly stated otherwise, in all regressions we control for demographic variables as age and gender, marital status, number of children in the household, academic quali number of visits to the doctor to control for the health status. We will also introduce dummies to control for region of residence and labor force participation status like home caring, unemployed, retired and so on. In some of the regressions we also introduce labor 
+6Borghans et al. 2007 and Specht et al. 2011 show that personality traits variate across the life cycle, Cobb-Clark et al. (2011) substantially con this  but shows that this change is small. Also in our data, the age explain a small portion of the total variance. For example in a regression of Neuroticism with age and age2 the R2 = 0:0027 in the SOEP and R2 = 0:0025 in the BHPS. 
+7 
+
+========8========
+
+environment related controls, like worked hours, sector, socioeconomic status and  size. 
+3 Analysis 
+We use a quadratic speci of the model linking income to Life Satisfaction because we are interested in analyzing how traits in the concavity of this relation. In order to avoid the excessive weight given to the outliers by this spec- i we exclude from the sample the top and bottom 1 percent observations. Excluding observations in the two tails of the income distribution is standard in this literature.7 
+Figures 1 and 2 display the residuals Life Satisfaction { after controlling for age, age2, gender and the e personality traits{, as a function of income residuals after controlling for the same variables, in UK and Germany respectively. From the two panels in  1, we note that for individuals with high Neuroticism score, the curve is more concave while for those with low Neuroticism this relation is almost linear. Furthermore in both countries the relation is steeper for highly neurotic with respect to low neurotic in the region of the graph corresponding to lower incomes, while it is seems  for highly neurotic with high income. Finally we note from the graphs in  2 that no other trait has such a clear e on the relation we are analyzing. 
+Panels in  1 and 2 are based on data pooled across waves. To exploit the longitudinal nature of our dataset by taking into account individuals’ het- erogeneity and exclude the role of omitted variables, we estimate a number of econometric models controlling for a large number of potentially confounding factors. In particular we estimate the following model: 
+hit = 1yit + 2y2it + 01iyit + 02iy2it +  zit + i + i + t + eit 
+(1) 
+In equation (1), i represents the individual and t the year of the survey, hit is Life 
+7For the SOEP this excludes at the top 3964 observations with an income between 114K and 1,515K, at the bottom 4019 observations with an income less or equal 7,277 euro per year. All following results are robust to dit thresholds of exclusion 
+8 
+
+========9========
+
+Satisfaction, yit the household income. The individual  e is described as i + i, where 
+i = (Ni; Ei; Ci; Ai; Oi; Mi) (2) 
+with N = Neuroticism, E = Extraversion, C = Conscientiousness, A = Agreeableness, O = Openness, M = Male and i is the individual speci ran- dom e The terms 01iyit + 02iy2it represent the interaction of a personality trait index with the income variables. The vector, zit, consists of time changing individual characteristics: Age, Age2, Marital state (a set of dummies depending on whether the respondent is married, divorced, separated or widowed), Educa- tion (a set of dummies measuring high school achievement, vocational training or college degree); Number of children in the household, Region of residence (a set of dummies one for each region of residence of the household), Health sta- tus (a set of dummies indicating intervals in terms of number of visits to the doctor); Labor force participation (a set of dummies depending on whether the individual is employed, house carer, unemployed, retired); occupation types (a large set of dummies for socioeconomic status (manager, employed, professional, white-collar, blue collar, farm-worker and so on), worked hours per week and its squared term. The variable t denotes a year (and wave)  e and eit is random noise. 
+In table 3, we report the OLS estimation of the model (1).8 The table shows that in both datasets Neuroticism is the only one of the e traits trait to a the relation between Income and Life Satisfaction, and in a qualitatively similar way. No other trait seems to a both linear and quadratic term in both datasets. Furthermore, both in Germany and in the UK, the usually observed marginal decreasing e of income on Life Satisfaction is entirely mediated by Neuroticism. Once the interacted term is taken into account, either there is no e of income on Life Satisfaction or this e becomes convex as in column 2. We will return to the interpretation of the marginal e below when we 
+8It is known in this literature that assuming ordinality or cardinality of happiness scores makes little di (Ferrer-i-Carbonell Frijters 2004). This can also be observed in table 9 of the appendix, where we report the estimation of a similar model using an ordered probit estimator 
+9 
+
+========10========
+
+present the result of the structural model. 
+A possible concern is that the random e estimator is not consistent due to the fact that i is correlated with the other regressors, we therefore estimate a model similar to 1 with individual  e the results are reported in table 4. Finally we further interacted the terms Neuroticism*income with a male dummy. From table 5 we note that for male individual the Neuroticism a more strongly than in female the relation between income and Life Satisfaction, in other words the concavity of this relation, due to the Neuroticism, is stronger among male. 
+4 Happiness and Personality 
+The data we have seen suggest that Neuroticism a systematically the re- lation between Life Satisfaction and income. Both the linear and the quadratic interaction of income with Neuroticism are signit, which implies that Neu- roticism increases the positive e of income on Life Satisfaction for lower level of income and it decreases this e for high income levels. To provide an ex- planation we present a model based on the modern personality traits theory; we then show that this model is able to produce an equation similar to equation 1 as a reduced form and we will estimate this model using an appropriate estima- tor. We then interpret the coet of the estimation in light of the underlying structural model. In the model, behavior is explained by traits that characterize an individual, rather than by optimization. 
+We use the convention that the coets are assumed to be positive. The terms eit;uit;vit are error terms. The model has three equations. The depen- dent observable variables are the household income yit and the Life Satisfaction hit. The dependent latent variable is the desired income for any individual i at time t is denoted by ait. We assume that the aspiration to an income, ait induces (through eort, persistence, and con a real level of income that is increasing in the aspiration level. We assume for convenience a linear form: what is essential is that the relationship is monotonic. Thus the Level of income 
+10 
+
+========11========
+
+depends on the desired income as: 
+yit = 2 + 2ait + uit 
+(3) 
+The Life Satisfaction depends on the realized income and other variables; it increases with income, but it depends on the distance with aspirations and this distance is modulated by Neuroticism: 
+hit 
+= 1 + 1yit + y2it + (4) 
++1Ni (ait  yit) + 2;1Ni (ait  yit)+2 + 
++2;2Ni (ait  yit) 
+ 2 
+ 
+1zit 
++ 1hi + eit: 
+We expect the term 1 to be negative while the terms 2;1 and 2;2 depend on the concavity of the function. If we consider ait as a reference point, prospect theory would predict 2;1 < 0 and 2;2 > 0. 
+Personality traits also a the Life Satisfaction by shifting the intercept and interacting with income. The vector h;i includes Neuroticism and Extraver- sion, in addition to the gender (variable Male). The dependence of the 1, 2;1 and 2;2 coets is assumed to be linear (so the e is a multiplicative in- teraction). An individual’s sensitivity to the gap between aspired and realized income depends on his personality. Modern literature in psychology views Neu- roticism as sensibility to negative outcomes (DeYoung and Gray, 2010). Ex-post, individuals perceive the negative gap between real and aspired income as a nega- tive outcome, and the higher their Neuroticism score, the higher is the potential subjective welfare cost of this gap. 
+We assume that aspirations are exogenous with respect to individuals’ choices. Following the literature on the hedonic treadmill theory (Diener et Lucas, 1999), we assume that past income as well as personality a expectations, hence: 
+ait = 0 + 0yit 
+ 1 
++  
+0zit 
++ 0ai + vit 
+(5) 
+where ai is a vector containing time independent personal characteristics (gender and the personality traits), zi;t are the time dependent personal characteristics 
+11 
+
+========12========
+
+(education and age), yit 
+ 1 
+is the real income in the previous wave. The interpre- tation of the equation: at any time t, individuals form realistic expectations on next period income, with an upward adjustment a by individuals’ charac- teristics, education and age. 
+This model is consistent with the idea of \Keeping up with the Jones" (Due- senberry (1949)) if we consider that aspiration could be set to depend on the top incomes of some reference group. It is also consistent with habit formation ideas (Brickman and Campbell (1971)) since aspirations are updated with the past income. The main problem in estimating the model described by 3, 4 and 5 is that the aspiration level, ait is not observable. We therefore solve for ait equation 5 and substitute it in 4 so to have a \semi-reduced" form that can be estimated. 
+Before we proceed with this strategy, we check the plausibility of this model by estimating the two equations 5, and 3 by using a proxy for aspiration, present in the SOEP dataset, provided by the answer to the question \Is success impor- tant in job?", coded from Unimportant (1) to Very Important (4). The results are presented in table 10 of the appendix.9 As expected, the answer to this ques- tion correlates positively and signitly with the traits implying motivations: openness, conscientiousness and extraversion (and negatively with the others) in the  stage regression and, as an instrumented variable, the same question is a signitly positive predictor of income in the 3 stage least square estimation. Next, we solve equation 3 by ait, and substitute it in 4 to obtain the equations below. For yi;t > 
+ui;t+2 
+1  2 
+ 2 
+hit = 2;1Ni 
+ ui;t + yi;t  2 
+ 
+ yi;t + 1Ni 
+ ui;t + yi;t  2 
+ 
+2 2 
+ yi;t + 
+(6) 
+1yi;t + y2i;t +  
+1zi;t 
++ 1hi + 1 + ei;t: 
+9This question is present in the waves 1990, 1992, 1995, 2004, 2008 and it is originally inversely coded. 
+12 
+
+========13========
+
+For yi;t < 
+ui;t+2 
+1  2 
+hit = 2;1Ni 
+  ui;t + yi;t 
+2 
+ 2 
+2 
+ yi;t 
++ 1Ni 
+  ui;t + yi;t 
+2 
+ 2 
+ 
+ yi;t 
++ 
+(7) 
+1yi;t + y2i;t +  
+1zi;t 
++ 1hi + 1 + ei;t 
+We estimate a single equation: 
+hit = 2Ni 
+  ui;t + yi;t 
+2 
+ 2 
+2 
+ yi;t 
++ 1Ni 
+  ui;t + yi;t 
+2 
+ 2 
+ 
+ yi;t 
++ 
+(8) 
+1yi;t + y2i;t +  
+1zi;t 
++ 1hi + 1 + ei;t 
+ 
+ 
+which implies that 2 is the sum of two dit e For example if the equation is concave when yi;t > 
+ui;t+2 
+1  
+and convex when y 
+2 
+i;t 
+< 
+ui;t+2 
+1  
+and if 
+2 
+2 < 0, then this suggests that the concavity of the function when the aspiration are \over-shooting" is stronger than its convexity when the aspiration are \under- shooting". Equation 8 can be rewritten as 
+hit = 1 + 1yit + y2it + 2 
+ 
+1 
+  
+22 
+2 
+Niy2it + (Cuit + B)Niyit+ 
+(9) 
++ Ni F u2it + Guit + D +  
+1zit 
++ EEi + eit; 
+where B; C; D; F and G are constants that depend on the parameters of the structural model that we present in the appendix B. Moreover substituting 5 in 
+3, we have: 
+yit = A2 + B2yit 
+1 
++ C2zit + D2ai + 2vit + uit: 
+ 
+(10) 
+The results of the estimations of the system of equations 9 and 10 is presented in table 6, where we used 3 stages least squares and considered only data for the year 2005{ when the traits have been measured in both datasets; and in table 7{ where we used a 2SLS estimator and considered the entire panel of data by introducing the individual random e We note that in both datasets both the linear and quadratic interactions of income with Neuroticism are signit and the non interacted relation between income and Life Satisfaction become linear in Germany and convex in the UK. Figure 3 plots the coets of the 
+13 
+
+========14========
+
+regression presented in table 7 for the highest (dashed line) and the lowest level of Neuroticism (bold line). In highly neurotic individuals income increases Life Satisfaction faster than in low neurotic for lower level of income, but this e is reverted in the the high income region, where non neurotic seem to enjoy more than neurotic a marginal increase in income. Note also that Neuroticism is the element determining the concavity of the relation between income and Life Satisfaction, in non neurotic individuals the relation is not concave both in Germany and in the UK. 
+Now we will interpret the results of tables 6 and 7 in the light of our structural model represented by equations 3, 4 and 5. Considering the estimated equation 9, we note that B > 0, where 
+B = 
+(1 
+ 2) (21 
+22 
+ 222): 
+(11) 
+The sign of the coet of Niy2it is negative therefore the sign of 2 is identi and negative. 
+If we assume that aspiration to income, ait, induces (through e persis- tence, and con a real level of income increasing in the aspiration level, but at a rate smaller than 1, so that 2 < 1 and assuming that 1 < 0: the Life Satisfaction is negatively related to the gap between aspiration and real income, then 2 > 0. From equation 3 this implies that rich fail to meet their aspirations in average more than poor. In other words, rich under-shoot in their aspiration in average more than poorer. 
+Lower aspiration implies that individuals in average \overshoot" in the sense of achieving an income larger than their own aspiration and this has a bene in terms of relief for an avoided threat; an e perfectly in line with Carver’s (2009) ng that relief strongly correlates with threat sensitivity, hence, fol- lowing our above argument, with Neuroticism. We summarize the above results as follows: (i) higher motivation produces aspiration to higher income, and hence to higher realized income; (ii) High aspiration levels are necessary for a higher income, but the higher they are, the more likely it is that they go unful The e of aspiration on realized income thus occurs at a decreasing rate. 
+14 
+
+========15========
+
+Is this result reasonable? consider the search for a new occupation. An individual searching for a job may set a reservation wage to be reached before he or she stops searching. The higher the aspiration level the higher the wage found will be, everything else being equal, although perhaps at a later date. Increasing aspiration may then increase realized income, however, only up to a point, after this point will be extremely di to  a better paid job; hence we may observe decreasing rate of return on searching and aspiration. 
+Our tables 6 and 8 provide an estimate of the eect of traits on income. Mo- tivation is likely to increase income; hence Openness, Conscientiousness and Ex- traversion (traits underlying motivation) should a income positively.10 From table 6, using only one year of data, we note that Openness and Extraversion have the expected sign while Contentiousness seems to have the opposite sign or have no e This is probably due to the collinearity with education: when education is excluded the sign of conscientiousness on income becomes positive (this regression is not reported here). Furthermore, when the same system of equations is estimated using all years pooled together, like in table 8, Conscien- tiousness is positive and signit in both datasets. 
+The magnitudes of the e of personality on household income per year are noticeable: for example in the UK sample the size is around 3;5K USD for Openness,  8;5K USD for Neuroticism, and 6K USD for Extraversion. For comparison, the e of Male is 1:3K USD per year, hence the e of some personality traits are between three and e times larger than the gender gap. These results con that personality traits are important for predicting life outcomes, income in this case (see Roberts et al. (2007) Burks et al. (2009) for other life outcomes). Consistently with the literature (Cohen et al. (2003), Vit- ters and Nilsen (2002)), the direct e of Neuroticism on Life Satisfaction are negative, large and signit; those of Extraversion are positive and signit. 
+As we argued above there is widespread agreement among psychologists that traits are largely exogenous and stable. We address anyway the possibility that traits are endogenous by using the entire panel of data. In this way we are 
+10Boyce et al. (2010) succesfully test a related assumption that conscientiousness matters for Life Satisfaction indirectly when interacted with unemployment 
+15 
+
+========16========
+
+considering a span of 26 years of data for Germany and 12 years for the UK while the traits are relative to a single year. As already mentioned in table 7 we present the estimation of the system using the entire panel of data available for the two countries. The results in table 7 are largely in line with the one in table 6, based on a single year: the interactions between Neuroticism and income are positive and the ones with squared income are negative. Once Neuroticism is taken into account, the simple relation between income and life satisfaction is linearly increasing for Germany and non signit for the UK. 
+In summary, our empirical test provides support for our theory based on the gap between aspiration and income, explaining our above  that Life Sat- isfaction declines faster at higher income when Neuroticism is higher. Further research will explore the merit of alternative explanations. A plausible alterna- tive hypothesis, also consistent with the notion of Neuroticism as sensitivity to negative rewards and punishment, is that higher income is also associated with higher variance of the income. Higher income variance and the associated antici- pated anxiety might hurt the level of Life Satisfaction in individuals with higher score in Neuroticism. In this explanation the e of Neuroticism is produced by the anticipation of future  in income, rather than the comparison with past aspiration levels. This hypothesis is harder to test with the data we are using, although we see it as complementary to the one discussed here. 
+5 Conclusions 
+Neuroticism is responsible for slow increase of Life Satisfaction with high income and its larger increase for lower incomes. Our model suggests that the e is due to the psychological cost of the gap between aspiration and realized income, positive for lower income levels and negative for higher levels. Motivation induces higher aspirations in income, and on average also to higher income. This e occurs however at a decreasing rate, and thus generates a gap between desired and realized income which is negative and in absolute values higher for higher incomes. This in turn induces a decrease in the marginal Life Satisfaction. Neu- roticism measures the sensitivity to the gap, and in fact individuals with higher 
+16 
+
+========17========
+
+score in Neuroticism have a stronger marginal decline of happiness with income for high income, and a stronger marginal increase for lower income, where the gap is positive. 
+This conclusion suggests a dit interpretation of the well established fact that Life Satisfaction increases slowly, or is completely  at high levels of in- come (Kanheman and Deaton 2010). This  has been so far interpreted with the argument that the marginal Life Satisfaction is decreasing, just as util- ity. Our results suggest a stronger reason: the  of happiness with income is the e of opposite forces on Life Satisfaction: a natural e of increas- ing happiness with income, and a negative e induced by the gap between aspiration and realization. 
+References 
+[1] Almlund, Mathilde, Duckworth, Angela, Heckman, James J. and Kautz, 
+Tim, 2011, Personality Psychology and Economics. IZA Discussion Paper 
+No. 5500 
+[2] Jon Anderson, Stephen Burks, Colin DeYoung and Aldo Rustichini (2011). 
+Toward the Integration of Personality Theory and Decision Theory in the 
+Explanation of Economic Behavior, mimeo University of Minnesota 
+[3] Aknin, L.B., Norton, M.I., and Dunn, E.W. (2009). From wealth to well- 
+being? Money matters, but less than people think. Journal of Positive Psy- 
+chology, 4, 523{527. 
+[4] Becker, G. S., and L. Rayo. (2008). Comment on Economic growth and sub- 
+jective wellbeing: Reassessing the Easterlin Paradox by Betsey Stevenson 
+and Justin Wolfers. Brookings Papers on Economic Activity, Spring, 88{95. 
+[5] Benjamin, D. J., O. He M. S. Kimball, and A. Rees-Jones, 2011, What 
+Do You Think Would Make You Happier? What Do You Think You Would 
+Choose? (forthcoming) American Economic Review. 
+17 
+
+========18========
+
+[6] Lex Borghans, Angela Lee Duckworth, James J. Heckman and Bas ter Weel, 
+2008. The Economics and Psychology of Personality Traits, Journal of Hu- 
+man Resources, University of Wisconsin Press, 43, 4. 
+[7] Benet-Martinez, V. and John, O. P. (1998), Los Cinco Grandes across cul- 
+tures and ethnic groups: Multitrait multimethod analyses of the Big Five 
+in Spanish and English. Journal of Personality and Social Psychology, 75, 
+729{750. 
+[8] Blanchwer, D. G., and Oswald, A.J. (2004), Well-Being over Time in 
+Britain and the USA. Journal of Public Economics, 88, 1359{1386. 
+[9] Boyce, C. J. and Wood, A. M. (2010). Personality and the marginal utility 
+of income : Personality interacts with increases in household income to de- 
+termine Life Satisfaction. Journal of Economic Behavior and Organization, 
+(forthcoming). 
+[10] Boyce, C.J., Wood, A.M. and Brown G.D.A., (2010). The dark side of con- 
+scientiousness: Conscientious people experience greater drops in Life Sat- 
+isfaction following unemployment. Journal of Research in Personality, 44, 
+535{539. 
+[11] Borghans, L. , Duckworth, A. L., Heckman, J. J. and ter Weel, B. (2008) 
+The Economics and Psychology of Personality Traits, The Journal of Human 
+Resources, XLIII(4), pp. 972{1059. 
+[12] Brickman, P. and D. T. Campbell (1971). Hedonic Relativism and Planning 
+the Good Society. In: Mortimer H. Appley (ed.) Adaptation Level Theory: 
+A Symposium. New York: Academic Press. 
+[13] Burks, S., Carpenter, J., Goette, L. and Rustichini, A., (2009), Cognitive 
+abilities explain economic preferences, strategic behavior and job perfor- 
+mance, Proceedings of the National Academy of Sciences, 106, 7745{7750. 
+[14] Clark, Andrew E. (1996). L’utilite est-elle relative? Analyse a l’ aide de 
+donnees sur les menages. Economie et Prevision, 121, 151{164. 
+18 
+
+========19========
+
+[15] Clark, A. E., P. Frijters, and M. A. Shields. (2008), Relative Income, Hap- 
+piness, and Utility: An Explanation for the Easterlin Paradox and Other 
+Puzzles. Journal of Economic Literature, 46, 1, 95{144. 
+[16] Clark, A. E., and Oswald, A.J. (1996), Satisfaction and Comparison Income. 
+Journal of Public Economics, 61, 359{381. 
+[17] Clark, L.A., and Watson, D. (2008). Temperament: An organizing paradigm 
+for trait psychology. In O.P. John, R.W. Robins, and L.A. Pervin (Eds.), 
+Handbook of personality: Theory and research (pp. 265{286). New York: 
+Guilford Press. 
+[18] Cohen, S., Doyle, W.J., Turner, R.B., Alper, C.M., and Skoner, D.P. (2003), 
+Emotional Style and Susceptibility to the Common Cold. Psychosomatic 
+Medicine, 65, 652{657. 
+[19] Cobb-Clark D. A. and Schurer, S. 2012, The stability of big-e personality 
+traits, Economics Letters, 115, 1, 11{15 
+[20] Costa, Paul T. and McCrae, Robert R., (1980), Ine of extraversion and 
+Neuroticism on subjective well-being: Happy and unhappy people, Journal 
+of Personality and Social Psychology, 38, 668678. 
+[21] Deaton, A. (2008), Income, Health and Well-Being around the World: Ev- 
+idence from the Gallup World Poll. Journal of Economic Perspectives 22, 
+53{72. 
+[22] Depue, R. A. & Collins, P. F. (1999). Neurobiology of the structure of per- 
+sonality: Dopamine, facilitation of incentive motivation, and extraversion. 
+Behavioral and Brain Sciences, 22, 491{569. 
+[23] DeYoung, C. G., Peterson, J. B., Sguin, J. R., Pihl, R. O., and Tremblay, 
+R. E. (2008), Externalizing behavior and the higher-order factors of the Big 
+Five, Journal of Abnormal Psychology, 117, 947{953. 
+[24] DeYoung C. G. , Gray J. R. (2010), Personality Neuroscience: Explaining 
+Individual Dies in A Behavior, and Cognition, in P. J. Corr and 
+19 
+
+========20========
+
+G. Matthews (Eds.), The Cambridge handbook of personality psychology, New York: Cambridge University Press. 
+[25] DeYoung, C. G., Hirsh, J. B., Shane, M. S., Papademetris, X., Rajeevan, N., 
+and Gray, J. R. (2010). Testing predictions from personality neuroscience: 
+Brain structure and the Big Five. Psychological Science, 21, 820{828. 
+[26] Diener, E., and R.E. Lucas, (1999). Personality and subjective well-being. 
+In D. Kahneman, E. Diener, and N. Schwarz (Eds.), Well-being: The foun- 
+dations of a hedonic psychology (pp. 213229). New York: Russell Sage Foun- 
+dation. 
+[27] Diener, Ed, Diener, M. and Diener C. (1995), Factors Predicting the Sub- 
+jective Well-Being of Nations. Journal of Personality and Social Psychology, 
+69, 851{864. 
+[28] Duesenberry, James S. 1949. Income, Saving, and the Theory of Consumer 
+Behavior. Cambridge and London: Harvard University Press 
+[29] Easterlin, R. A. (1974), Does Economic Growth Improve the Human Lot? 
+Some Empirical Evidence. In Nations and Households in Economic Growth: 
+Essays in Honor of Moses Abramovitz, ed. R. David and M. Reder. New 
+York: Academic Press, 89{125. 
+[30] Easterlin, R. A. (1995), Will Raising the Incomes of All Increase the Hap- 
+piness of All? Journal of Economic Behavior and Organization, 27, 35{47. 
+[31] Easterlin, R. A. (2005), Feeding the Illusion of Growth and Happiness: A 
+Reply to Hagerty and Veenhoven. Social Indicators Research, 74, 429{443. 
+[32] Ferrer-i-Carbonell, A., and Frijters. P. (2004), How Important Is Methodol- 
+ogy for the Estimates of the Determinants of Happiness? Economic Journal, 
+114: 641{659. 
+[33] Gosling, S. D., Rentfrow, P. J., and Swann, W. B., (2003), A very brief mea- 
+sure of the Big-Five personality domains. Journal of Research in Personality, 
+37, 504{528. 
+20 
+
+========21========
+
+[34] Inglehart, R. (1990), Cultural Shift in Advanced Industrial Society. Prince- 
+ton: Princeton University Press. 
+[35] John, O. P., Naumann, L. P., and Soto, C. J. (2008), Paradigm shift to the 
+integrative Big Five trait taxonomy: History: measurement, and conceptual 
+issue. In O. P. John, R. W. Robins, and L. A. Pervin (Eds), Handbook of 
+personality: Theory and research, 114{158, New York, Guilford Press. 
+[36] John, O. P., and Srivastava, S. (1999), The Big Five trait taxonomy: History, 
+measurement, and theoretical perspectives. In L. A. Pervin and O. P. John 
+(Eds.), Handbook of personality: Theory and research (2nd ed., 102{138). 
+New York: Guilford. 
+[37] Kahneman, D., Krueger, A.B., Schkade, D., Schwarz, N., and Stone, A.A. 
+(2006). Would you be happier if you were rich? A focusing illusion. Science, 
+312, 1908{1910. 
+[38] Kahneman, D. and Deaton, A., (2010), High income improves evaluation of 
+life but not emotional well-being, Proceedings of the National Academy of 
+Sciences, 107, 16489-16493. 
+[39] Kimball, Miles S., and Robert J. Willis. 2006. Happiness and Utility. Uni- 
+versity of Michigan mimeo. 
+[40] Layard, R., Mayraz, G. and Nickell, S., 2008. The marginal utility of income, 
+Journal of Public Economics, vol. 92(8-9), 1846-1857, August. 
+[41] Loehlin. J. C. (1992). Genes and environment in personality development. 
+Newbury Park, CA: Sage. 
+[42] Luttmer, E., 2005, Neighbors as Negatives: Relative Earnings and Well- 
+Being, Quarterly Journal of Economics, 120(3), 963-1002, August. 
+[43] McBride, M. (2006). \Money, Happiness, and Aspiration Formation: An 
+Experimental Study". Unpublished. 
+[44] McCrae, R.R. and Costa, P.T., 1990. Personality in Adulthood. New York: 
+The Guildford Press. 
+21 
+
+========22========
+
+[45] McCrae, R. R., and Costa, P. T. (1997), Conceptions and correlates of 
+Openness to Experience. In R. Hogan, J. Johnson, and S. Briggs (Eds.), 
+Handbook of personality psychology. Boston, Academic Press. 
+[46] McCrae, R. R., and Costa, P. T., Jr. (1999), A e factor theory of per- 
+sonality. In L. A. Pervin and O. P. John (Eds), Handbook of personality: 
+Theory and research (102-138), New York, Guilford Press. 
+[47] Moore, J. C., Stinson, L. L., and Edward J. Welniak, J. 2000. Income 
+Measurement Error in Surveys: A Review. Journal of O Statistics, 
+16(4):331362. 
+[48] ueller, G., Plug, E., 2006. Estimating the e of personality on male and 
+female earnings. Industrial and Labor Relations Review 60, 3{22. 
+[49] Oswald, A. (1997). \Happiness and Economic Performance", Economic 
+Journal, 107, 1815-1831. 
+[50] Ozer, D. J. and Benet-Martinez, V. (2006), Personality and the prediction 
+of consequential Outcomes, Annual Review of Psychology, 57, 201{221. 
+[51] Paulhus, D. L., Lysy, D. C., and Yik, M. (1998), Self-report measures of 
+intelligence: Are they useful as proxy IQ tests? Journal of Personality, 66, 
+525{554. 
+[52] Reimann, R., Angleitner, A., and Strelau, J. (1997). Genetic and environ- 
+mental in on personality: A study of twins reared together using the 
+self- and peer report NEO-FFI scales. Journal of Personality, 65, 449{476. 
+[53] Roberts B. W., Nathan R. Kuncel, Rebecca Shiner, Avshalom Caspi and 
+Lewis R. Goldberg, (2007), The Power of Personality. The Comparative Va- 
+lidity of Personality Traits, Socioeconomic Status, and Cognitive Ability for 
+Predicting Important Life Outcomes, Perspectives on Psychological science, 
+2, 313{345. 
+22 
+
+========23========
+
+[54] Royston, P., and D. G. Altman,1994 Regression using fractional polynomi- 
+als of continuous covariates: Parsimonious parametric modelling. Applied 
+Statistics 43: 429{467 
+[55] Rustichini, A., 2009. Neuroeconomics: what have we found, and what should 
+we search for. Current Opinion in Neurobiology. 19, 672{677. 
+[56] Schrapler J.P., 2002, Respondent Behavior in Panel Studies - A Case Study 
+for Income-Nonresponse by means of the German Socio-Economic Panel 
+(GSOEP), DIW, dp 299 
+[57] Senik, C. (2009) Direct Evidence on Income Comparison and their Welfare 
+E Journal of Economic Behavior and Organization, 2009, 72, 408{424. 
+[58] Stutzer, A. ,2004 The Role of Income Aspirations in Individual Happiness. 
+Journal of Economic Behavior and Organization 54(1), pp. 89{109. 
+[59] Spoont, M. R. (1992). Modulatory role of serotonin in neural information 
+processing: Implications for human psychopathology. Psychological Bul- 
+letin, 112, 330{350. 
+[60] Stevenson, B., and J. Wolfers. (2008), Economic Growth and Subjective 
+Well-Being: Reassessing the Easterlin Paradox. Brookings Papers on Eco- 
+nomic Activity, 1, 1{87. 
+[61] Vaughn, L. A., Baumann, J., & Klemann, C. , 2008. Openness to experience 
+and regulatory focus: Evidence of motivation from  Journal of Research 
+in Personality, 42, 886{894. 
+[62] Vitterso, J. and Nilsen, F., (2002), The Conceptual and Relational Struc- 
+ture of Subjective Well-Being, Neuroticism, and Extraversion: Once Again, 
+Neuroticism Is the Important Predictor of Happiness, Social Indicators Re- 
+search, 1, 89{118. 
+23 
+
+========24========
+
+Figure 1: Life Satisfaction Income and Personality Traits in UK and Germany. Quadratic Interpolations. Bold line = Individuals in the top 5 per- centile in Neuroticism score. Dashed line = Individuals in the bottom 5 percentile in Neuroticism score 
+24 
+
+========25========
+
+Figure 2: Life Satisfaction Income and Personality Traits in UK and Germany. Quadratic Interpolations. Bold line = Individuals in the top 5 per- centile in Neuroticism score. Dashed line = Individuals in the bottom 5 percentile in Neuroticism score 
+25 
+
+========26========
+
+Figure 3: Coets of Income on Life satisfaction. Estimated using the 2SLS on the entire panel of data. Bold line = Individuals with the highest level of Neuroticism, Dashed line = Individuals with the lowest level of Neuroticism 
+Germany 
+UK 
+LifeSatisfaction 
+0.8 
+LifeSatisfaction 
+1.0 
+0.6 
+0.8 
+0.6 
+0.4 
+0.4 
+0.2 
+0.2 
+4 
+6 
+8 
+10 
+Income 
+10 
+15 
+20 
+Income 
+Table 1: Germany: SOEP dataset years 1984-2009, Main Variables used in the regressions 
+Variable Mean Std. Dev. Min. Max. N 
+Life Satisfaction 5.187 1.088 1 7 324354 
+Income 3.749 1.822 0.728 11.49 309166 
+Age 41.762 12.827 18 65 325313 
+Male 0.492 0.5 0 1 325313 
+Agreeableness* 5.419 0.971 1 7 15389 
+Conscientiouseness* 5.95 0.9 1 7 15364 
+Extraversion* 4.857 1.129 1 7 15407 
+Neuroticism* 3.959 1.212 1 7 15393 
+Openness* 4.516 1.181 1 7 15332 
+Agreeableness 0.618 0.117 0.082 0.813 219832 
+Conscientiouseness 0.618 0.108 0.008 0.832 219250 
+Extraversion 0.613 0.135 0.134 0.904 219981 
+Neuroticism 0.621 0.144 0.236 0.999 219955 
+Openness 0.609 0.144 0.19 0.92 218995 
+Hours worked 28.715 20.226 0 80 304634 
+26 
+
+========27========
+
+Table 2: UK: BHPS dataset years 1996-2008, Main Variables used in the regres- sions 
+Variable Mean Std. Dev. Min. Max. N 
+Life Satisfaction 5.143 1.267 1 7 117041 
+Income 6.44 3.702 0.433 20.774 136582 
+Age 41.213 12.801 18 65 136582 
+Male 0.466 0.499 0 1 136581 
+Agreeableness* 5.45 0.985 1 7 10484 
+Conscientiouseness* 5.344 1.045 1 7 10463 
+Extraversion* 4.523 1.148 1 7 10475 
+Neuroticism* 3.737 1.299 1 7 10493 
+Openness* 4.502 1.167 1 7 10457 
+Agreeableness 0.558 0.121 0 0.774 105485 
+Conscientiouseness 0.558 0.129 0.007 0.828 105320 
+Extraversion 0.559 0.142 0.078 0.899 105433 
+Neuroticism 0.557 0.16 0.203 0.985 105599 
+Openness 0.559 0.144 0.106 0.931 105231 
+Hours worked 25.949 18.739 0 99 132846 
+27 
+
+========28========
+
+Table 3: Life Satisfaction Income and Neuroticism in UK and Germany. Panel Data with Individual Random E Dependent variable is Life satis- faction, all regressions include control for Age, Age2, Gender, omitted from the table , Income is in 10K USD, (errors clustered at individual level, std errors in brackets) 
+Germany Germany UK UK UK1984-09 1984-09 1996-08 1996-08 1996-08 
+b/se b/se b/se b/se b/se 
+Income 0.0225 {0.0933* {0.0020 {0.0020 0.0116 
+(0.0233) (0.0541) (0.0157) (0.0047) (0.0115)2 
+Income 0.0022 0.0105** 0.0001 
+(0.0021) (0.0051) (0.0008) 
+Neur*Inc 0.1287*** 0.1453*** 0.0864*** 0.0434*** 0.0505** 
+(0.0379) (0.0388) (0.0286) (0.0110) (0.0234)2 
+Neur*Inc {0.0128*** {0.0139*** {0.0036** {0.0016*** {0.0022* 
+(0.0035) (0.0036) (0.0015) (0.0004) (0.0012) Ext*Inc 0.0624 {0.0507* 
+(0.0449) (0.0301)2 
+Ext*Inc {0.0028 0.0025 
+(0.0041) (0.0016) Cons*Inc 0.1648*** {0.0289 
+(0.0524) (0.0367)2 
+Cons*Inc {0.0130*** 0.0015 
+(0.0049) (0.0020) Open*Inc {0.0463 0.0050 
+(0.0428) (0.0307)2 
+Open*Inc 0.0044 {0.0003 
+(0.0039) (0.0017) Agr*Inc {0.0079 0.0399 
+(0.0502) (0.0370)2 
+Agr*Inc {0.0011 {0.0029 
+(0.0046) (0.0020) Neuroticism {1.2911*** {1.3320*** {2.2545*** {1.9095*** {1.9142*** 
+(0.0939) (0.0954) (0.1258) (0.0852) (0.1106) Extraversion 0.2595*** 0.0734 0.4035*** 0.4683*** 0.6540*** 
+(0.0383) (0.1108) (0.0648) (0.0614) (0.1357) Conscientiousness 0.2688*** {0.1194 1.0748*** 0.9551*** 1.0532*** 
+(0.0487) (0.1310) (0.0750) (0.0716) (0.1605) Openness 0.2385*** 0.3357*** {0.1040 {0.1333** {0.1444 
+(0.0364) (0.1056) (0.0662) (0.0649) (0.1360) Agreableness 0.4528*** 0.5056*** 0.6498*** 0.6926*** 0.5993*** 
+(0.0443) (0.1260) (0.0780) (0.0747) (0.1639) Individual random ets Yes Yes Yes Yes Yes Wave eects Yes Yes Yes Yes Yes Region e Yes Yes Yes Yes Yes Number of children Yes Yes Yes Yes Yes Marital status Yes Yes No Yes Yes Education Yes Yes No Yes Yes Employment status Yes Yes No Yes Yes Occupation type Yes Yes No Yes Yes Health Status Yes Yes No Yes Yes Worked Hours Yes Yes Yes Yes No2 
+Worked Hours Yes Yes Yes Yes No 
+N 177562 177562 90026 88961 91085 
+28 
+
+========29========
+
+Table 4: Life Satisfaction Income and Personality Traits in UK and Germany. Panel Data with Individual Fixed Ects. Dependent variable is Life satisfaction, all regressions include control for Age, Age2, Gender, omitted from the table , Income is in 10K USD, (errors clustered at individual level, std errors in brackets) 
+Germany Germany UK UK1984-09 1984-09 1996-08 1996-08 
+b/se b/se b/se b/se Income 0.0241 0.0045 
+(0.0288) (0.0057)2 
+Income 0.0014 
+(0.0026) 
+Neur*Inc 0.1156** 0.0907** 0.0404*** 0.0533** 
+(0.0467) (0.0387) (0.0130) (0.0266)2 
+Neur*Inc {0.0121*** {0.0086** {0.0022*** {0.0026* 
+(0.0044) (0.0036) (0.0004) (0.0014) Ext*Inc 0.0465 {0.0530 
+(0.0527) (0.0344)2 
+Ext*Inc 0.0011 0.0032* 
+(0.0049) (0.0018) Cons*Inc 0.1389** {0.0227 
+(0.0601) (0.0437)2 
+Cons*Inc {0.0101* 0.0014 
+(0.0056) (0.0023) Open*Inc {0.0498 0.0419 
+(0.0516) (0.0346)2 
+Open*Inc 0.0047 {0.0019 
+(0.0048) (0.0018) Agr*Inc {0.0695 0.0470 
+(0.0565) (0.0430)2 
+Agr*Inc 0.0029 {0.0032 
+(0.0052) (0.0022) Individual  eects Yes Yes Yes Yes Wave e Yes Yes Yes Yes Region ets Yes Yes Yes Yes Number of children Yes Yes Yes Yes Marital status Yes Yes No No Education Yes Yes No No Employment status Yes Yes No No Occupation type Yes Yes No No Health Status Yes Yes No No Worked Hours Yes Yes Yes No2 
+Worked Hours Yes Yes Yes No 
+r2 0.046 0.047 0.008 0.005 N 180940 177562 91246 92174 
+29 
+
+========30========
+
+Table 5: Life Satisfaction Income and Personality Traits in UK and Ger- many with Gender di Panel Data with Individual random E Dependent variable is Life satisfaction, all regressions include control for Age, Age2, Gender, omitted from the table , Income is in 10K USD, (errors clustered at individual level, std errors in brackets). 
+Germany UK UK1984-09 1996-08 1996-08 
+b/se b/se b/se Income 0.0115 {0.0100 {0.0035 
+(0.0260) (0.0162) (0.0049)2 
+Income 0.0035 0.0005 
+(0.0023) (0.0008) 
+Neur*Inc 0.1397*** 0.0874*** 0.0362*** 
+(0.0416) (0.0286) (0.0125)2 
+Neur*Inc {0.0139*** {0.0036** {0.0011** 
+(0.0038) (0.0015) (0.0005) Male*Neur*Inc 0.0531*** 0.0341** 0.0272* 
+(0.0192) (0.0163) (0.0153)2 
+Male*Neur*Inc {0.0043** {0.0016* {0.0012 
+(0.0018) (0.0009) (0.0008) Neuroticism {1.3586*** {2.2462*** {1.8628*** 
+(0.1070) (0.1329) (0.0972) Male*Neuroticism {0.2462*** {0.1601 {0.1690 
+(0.0847) (0.1309) (0.1246) Extraversion 0.2784*** 0.4041*** 0.4688*** 
+(0.0421) (0.0648) (0.0614) Conscientiousness 0.3818*** 1.0746*** 0.9537*** 
+(0.0538) (0.0750) (0.0716) Openness 0.2576*** {0.1031 {0.1328** 
+(0.0400) (0.0662) (0.0649) Agreableness 0.4703*** 0.6486*** 0.6904*** 
+(0.0488) (0.0780) (0.0747) Individual random ects Yes Yes Yes Wave e Yes Yes Yes Region ets Yes Yes Yes Number of children Yes Yes Yes Marital status Yes No Yes Education Yes No Yes Employment status Yes No Yes Occupation type Yes No Yes Health Status Yes No Yes Worked Hours Yes Yes Yes2 
+Worked Hours Yes Yes Yes 
+N 177562 90026 88961 
+30 
+
+========31========
+
+Table 6: Life Satisfaction, Household Income and Personality Traits in a 3SLS structural model for year 2005. Dependent variable is Life Satisfaction, Income is in 10K USD, traits are normalized between 0 and 1 (errors clustered at individual level, std errors in brackets). 
+Germany Germany UK UK Life Satisfaction 
+Income 0.039* 0.030 {0.027* {0.095* 
+(0.022) (0.100) (0.015) (0.056) Income2 0.001 0.004 
+(0.010) (0.003) Neur. Income 0.283*** 0.297* 0.214*** 0.331*** 
+(0.048) (0.160) (0.036) (0.098) Neur. Income2 {0.017*** {0.019 {0.007*** {0.014** 
+(0.004) (0.016) (0.002) (0.006) Neuroticism {2.632*** {2.652*** {3.451*** {3.790*** 
+(0.160) (0.337) (0.187) (0.329) Extraversion 0.708*** 0.708*** 1.031*** 1.027*** 
+(0.064) (0.064) (0.085) (0.085) Age {0.072*** {0.072*** {0.068*** {0.068*** 
+(0.005) (0.005) (0.007) (0.007) Age2 0.001*** 0.001*** 0.001*** 0.001*** 
+(0.000) (0.000) (0.000) (0.000) Male {0.152*** {0.152*** {0.223*** {0.223*** 
+(0.017) (0.018) (0.024) (0.024) region e Yes Yes Yes Yes number of children Yes Yes Yes Yes marital status Yes Yes Yes Yes education Yes Yes Yes Yes Income 
+Agreeableness {0.260*** {0.245*** {0.268* {0.253* 
+(0.063) (0.062) (0.156) (0.153) Conscientiousness {0.122* {0.121* 0.071 0.049 
+(0.069) (0.068) (0.154) (0.151) Openness 0.117** 0.115** 0.344** 0.351*** 
+(0.054) (0.054) (0.137) (0.135) Extraversion 0.013 0.012 0.579*** 0.598*** 
+(0.056) (0.055) (0.131) (0.129) Neuroticism {0.250*** {0.240*** {0.794*** {0.809*** 
+(0.064) (0.064) (0.146) (0.144) Age 0.002*** 0.002*** {0.009*** {0.008*** 
+(0.001) (0.001) (0.001) (0.001) Male 0.031** 0.032** 0.145*** 0.134*** 
+(0.015) (0.015) (0.040) (0.039) Income at t  1 0.772*** 0.770*** 0.715*** 0.715*** 
+(0.004) (0.004) (0.005) (0.005) Education 0.068*** 0.068*** 0.116*** 0.114*** 
+(0.003) (0.003) (0.006) (0.006) N 13655 13655 9829 9829 
+31 
+
+========32========
+
+Table 7: Life Satisfaction Income and Personality Traits, structural 2SLS model using the entire panel of Germany and UK data. Dependent variable is Life Satisfaction, Income is in 10K USD, traits are normalized between 0 and 1. Estimates of the structural model using a 2SLS estimator with individual random e (errors clustered at individual level, std errors in brackets). 
+Germany Germany UK UK 
+(1) 1984-09 (2) 1984-09 (3) 1996-08 (4) 1996-08 Income 0.085*** {0.043 {0.014 {0.085** 
+(0.011) (0.047) (0.010) (0.037) Income2 0.013*** 0.005** 
+(0.005) (0.002) Neur. Income 0.072*** 0.270*** 0.158*** 0.280*** 
+(0.023) (0.074) (0.024) (0.066) Neur. Income2 {0.010*** {0.031*** {0.007*** {0.014*** 
+(0.002) (0.008) (0.001) (0.004) Neuroticism {1.422*** {1.797*** {2.716*** {3.060*** 
+(0.079) (0.153) (0.122) (0.214) Extraversion 0.449*** 0.448*** 0.589*** 0.588*** 
+(0.038) (0.038) (0.058) (0.058) Age {0.034*** {0.034*** {0.055*** {0.055*** 
+(0.002) (0.002) (0.003) (0.003) Age2 0.000*** 0.000*** 0.001*** 0.001*** 
+(0.000) (0.000) (0.000) (0.000) Male {0.108*** {0.108*** {0.178*** {0.178*** 
+(0.010) (0.010) (0.017) (0.017) individual random e Yes Yes Yes Yes wave e Yes Yes Yes Yes region e Yes Yes Yes Yes number of children Yes Yes Yes Yes marital status Yes Yes Yes Yes education Yes Yes Yes Yes 
+N 188367 188367 83034 83034 
+32 
+
+========33========
+
+Table 8: Life Satisfaction, Household Income and Personality Traits in a structural model using the entire panel of Germany and UK data. Dependent variable is Life Satisfaction, Income is in 10K USD, traits are nor- malized between 0 and 1. Control for Age, Age2 and gender are omitted from the table (errors clustered at individual level, std errors in brackets). 
+Germany UK 
+1984-09 1996-08 life Satisfaction 
+Income 0.023 {0.061*** 
+(0.029) (0.021) Income2 0.007** 0.003** 
+(0.003) (0.001) Neur. Income 0.330*** 0.279*** 
+(0.046) (0.035) Neur. Income2 {0.032*** {0.012*** 
+(0.005) (0.002) Neuroticism {1.978*** {3.178*** 
+(0.095) (0.117) Extraversion 0.377*** 0.585*** 
+(0.017) (0.029) Age {0.056*** {0.076*** 
+(0.001) (0.003) Age2 0.001*** 0.001*** 
+(0.000) (0.000) Male {0.109*** {0.188*** 
+(0.005) (0.009) region e Yes Yes number of children Yes Yes marital status Yes Yes education Yes Yes 
+Income 
+Agreeableness {0.139*** {0.193*** 
+(0.015) (0.051) Conscientiousness 0.092*** 0.374*** 
+(0.017) (0.050) Openness 0.047*** 0.225*** 
+(0.013) (0.044) Extraversion 0.114*** 0.350*** 
+(0.014) (0.042) Neuroticism {0.207*** {0.412*** 
+(0.016) (0.048) Age 0.001*** {0.005*** 
+(0.000) (0.000) Male 0.037*** 0.115*** 
+(0.004) (0.013) Income at t  1 0.778*** 0.724*** 
+(0.001) (0.002) Education 0.052*** 0.106*** 
+(0.001) (0.002) N 188367 83034 
+33 
+
+========34========
+
+Appendices 
+A The "Big Five" in the SOEP and BHPS datasets 
+I see myself as someone who: 
+1. (A) Is sometimes rude to others (reverse-scored). 
+2. (C) Does a thorough job. 
+3. (E) Is talkative. 
+4. (N) Worries a lot. 
+5. (O) Is original, comes up with new ideas. 
+6. (A) Has a forgiving nature. 
+7. (C) Tends to be lazy (reverse-scored). 
+8. (E) Is outgoing, sociable. 
+9. (N) Gets nervous easily. 
+10. (O) Values artistic, aesthetic experiences. 
+B Estimating the Structural Model 
+Now we determine the correct estimator for the model represented by equations 9 and 10. The error term of the latter, yit = 2vit+uit, poses no problem, given that both 2SLS and 3SLS are non biased estimator when errors are cross-correlated between equations. 
+Considering now the 9, this can be rewritten as: 
+1 22 
+hit = 1 + 1yit + y2it   
+  
+ 
+Niy2it  (Cuit + B)Niyit+ 
+ Ni 
+ 
+2 
+F E(u2) + Guit + D + F Ni 
+ 
+u2it  E(u2) +  
+1zit 
++ EEi + eit 
+(12) 
+Its error term can be written as: 
+hit = 
+ GNiuit 
+ CNiyituit + eit 
+(13) 
+1 
+
+========35========
+
+Given 3, yit and uit are correlated by construction. Substituting 10 in 13, we 
+obtain: 
+hit = 
+ GNiuit 
+ 
+ 
+(14) 
+ CNi(A2 + B2yit 
+1 
++ C2zit+ D2ai + 2vit + uit)uit + F Ni u2it 
+ 
++ eit 
+from where we note that 
+E(hit) 
+ CNiE(u2) = 0: 
+ E(u2) 
+(15) 
+Therefore, we de hit = hit + CNiE(u2) and we rewrite 12, as: 
+hit = 1 + 1yit + y2it 
+ 
+  
+ Ni (F + C)E(u2) + D 
+1 
+  
+22 
+ 
+Niy2it  BNiyit+ 
+2 
++  
+1zit 
++ EEi + hit; 
+(16) 
+whose errors satisfy the conditional mean condition: E(hitjNi; Ei; yit; zit) = 0. 
+More precisely: 
+B = 
+(1 
+ 2) (21 
+C = 
+ 2 (1 
+22 
+D = N  F =  
+2 
+22 G = 
+21 
+22 
+ 222 
+ 222) 
+22  2)2 
+222 22 
+ 
+21 2 
+2 
+
+========36========
+
+Moreover, substituting 3 in 5 we have: 
+A2 
+= 2 + 02 
+B2 
+= 20 
+C2 
+= 2 
+ 0 
+D2 
+= 20: 
+Figure 4: Household Income distribution UK and Germany. Income in 10K 2005 USD. 
+3 
+
+========37========
+
+Table 9: Life Satisfaction, Household Income and Traits, Ordered Pro- bit with random e estimators. The dependent variable is individual Life Satisfaction. (errors clustered at individual level, std errors in brackets). USD 
+Germany UK Ordered Probit Ordered Probit1984-09 1996-08 
+Income 0.013 {0.006 
+(0.0591) (0.0110)2 
+Income 0.003 {0.000 
+(0.0060) (0.0004) Neur*Inc 0.137*** 0.033*** 
+(0.0419) (0.0071)2 
+Neur*Inc {0.017*** {0.000* 
+(0.0042) (0.0002) Cons*Inc 0.187*** 0.003 
+(0.0588) (0.0094)2 
+Cons*Inc {0.016*** 0.000 
+(0.0058) (0.0003) Ext*Inc 0.040 {0.002 
+(0.0486) (0.0085)2 
+Ext*Inc 0.002 {0.000 
+(0.0049) (0.0003) Agr*Inc {0.017 0.006 
+(0.0537) (0.0113)2 
+Agr*Inc 0.000 {0.000 
+(0.0053) (0.0004) Open*Inc {0.039 0.001 
+(0.0456) (0.0092)2 
+Open*Inc 0.007 0.000 
+(0.0046) (0.0003) Neuroticism {1.948*** {1.339*** 
+(0.0975) (0.0431) Extraversion 0.136 0.391*** 
+(0.1159) (0.0497) Conscientiousness 0.169 0.579*** 
+(0.1394) (0.0557) Agreableness 0.680*** 0.535*** 
+(0.1280) (0.0630) Openness 0.278** {0.099* 
+(0.1084) (0.0512) Age {0.047*** {0.070*** 
+(0.0018) (0.0024)2 
+Age 0.000*** 0.001*** 
+(0.0000) (0.0000) Male {0.132*** {0.145*** 
+(0.0125) (0.0085) Number of children Yes Yes Education Yes Yes 
+N 201686 92874 
+4 
+
+========38========
+
+Table 10: Income, Job Motivation and Personality Traits in Germany. 3SLS estimation, dependent variable is Household Income (std errors in brackets) 
+Germany Germany Germany Germany 
+2004 2004 2004 2004 
+b/se b/se b/se b/se Income 
+Success Important 1.453*** 0.190* 2.616*** 0.193*** 
+(0.114) (0.110) (0.144) (0.064) Education 0.162*** 0.115*** 
+(0.006) (0.008) 
+Age 0.113*** 0.058*** 0.056*** 0.029*** 
+(0.010) (0.009) (0.013) (0.006) Age2 {0.001*** {0.001*** {0.000 {0.000*** 
+(0.000) (0.000) (0.000) (0.000) Male {0.121** 0.146*** {0.429*** 0.010 
+(0.047) (0.043) (0.058) (0.026) Income at t  1 0.810*** 
+(0.005) Success important 
+Education 0.034*** 0.017*** {0.008*** 0.019*** 
+(0.002) (0.002) (0.002) (0.002) Age {0.007** {0.000 {0.007** {0.000 
+(0.003) (0.003) (0.003) (0.003) Age2 {0.000*** {0.000*** {0.000*** {0.000*** 
+(0.000) (0.000) (0.000) (0.000) Male 0.246*** 0.268*** 0.224*** 0.268*** 
+(0.012) (0.013) (0.013) (0.013) Neuroticism {0.114*** 0.049 {0.001 0.041 
+(0.040) (0.044) (0.033) (0.044) Extraversion 0.270*** 0.285*** 0.163*** 0.286*** 
+(0.045) (0.049) (0.037) (0.050) Conscientiousness 0.773*** 1.016*** 0.542*** 1.028*** 
+(0.058) (0.061) (0.053) (0.063) Agreeableness {0.240*** {0.124** {0.108*** {0.136** 
+(0.051) (0.056) (0.042) (0.057) Openness 0.499*** 0.526*** 0.265*** 0.510*** 
+(0.043) (0.047) (0.037) (0.048) Income at t  1 0.155*** 
+(0.002) 
+N 13615 13615 12996 12996 
+5 
+
+========39========
+

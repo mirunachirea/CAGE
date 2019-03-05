@@ -1,0 +1,877 @@
+January2012 
+No.72 
+A Three-Stage Experimental Test 
+of Revealed Preference 
+Peter Hammond & Stefan Traub 
+Department of Economics & CAGE, University of Warwick Department of Economics & ZeS, University of Bremen 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+A Three-Stage Experimental Test 
+of Revealed Preference 
+Peter Hammonda;, Stefan Traubb 
+aDepartment of Economics & CAGE, University of Warwick, Coventry, UK 
+bDepartment of Economics & ZeS, University of Bremen, Germany 
+29th January, 2012 
+Abstract 
+A powerful test of Varian’s (1982) generalised axiom of revealed preference (GARP) with two goods requires the consumer’s budget line to pass through two demand vectors revealed as chosen given other budget sets. In an exper- iment using this idea, each of 41 student subjects faced a series of 16 succes- sive grouped portfolio selection problems. Each group of selection problems had up to three stages, where later budget sets depended on that subject’s choices at earlier stages in the same group. Only 49% of subjects’ choices were observed to satisfy GARP exactly, even by our relatively generous non- parametric test. 
+JEL classi: C91, D83 
+Keywords: Rationality, revealed preference, uncertainty 
+Corresponding author. Department of Economics, University of Warwick, Coven- try CV4 7AL, UK; phone +44 (0)24 765 23052, fax +44 (0)24 765 23032, e-mail p.j.hammond@warwick.ac.uk. 
+
+========2========
+
+1 Introduction 
+1.1 Non-Parametric Tests of GARP 
+Varian (1982) in particular has emphasised how easily even a rational con- 
+sumer could exhibit demand behaviour that fails rationality tests based on 
+estimating preference parameters. As an alternative, Varian proposed more 
+robust non-parametric tests of Samuelson’s (1938) revealed preference theory 
+that are based on Afriat’s (1973) theoretically derived inequalities. This ap- 
+proach seems ideally suited to controlled laboratory experiments, where the 
+price and income changes needed to test the axioms are easy to implement, 
+and changes of taste can largely be ruled out. Also, in general violations of 
+revealed preference could perhaps be explained by errors in observation, but 
+hardly in experimental settings. Accordingly, several papers have followed 
+Sippel’s (1997) pioneering application of non-parametric tests to experimen- 
+tal data. Depending on the experimental design, however, including the 
+population of experimental subjects and the test method, past experimental 
+studies have produced estimates of the proportion of subjects whose demands 
+satisfy GARP which range widely from below 10% to almost 100%. 
+Such results raise the fundamental question whether or not to allow for 
+decision errors when testing revealed preference theory. On the one hand, 
+normative decision theory does not condone even the slightest inconsistency; 
+such a strict test has enormous statistical power but an impractically small 
+size. On the other hand, allowing for random decision errors signitly 
+reduces the power of a test in discriminating between rational and random 
+behaviour. 
+2 
+
+========3========
+
+Following Varian’s (1982) own suggestion, Sippel (1997) and most suc- 
+cessors have based their tests on Afriat’s (1973) ency index. Suppose 
+a consumer has been observed choosing the bundle x1 when the price vec- 
+tor was p1. By de x1 is revealed preferred to any alternative bundle 
+x2 satisfying p1x2 < p1x1. Suppose nevertheless that the same consumer 
+were also observed choosing the bundle x2 when the price vector is p2, where 
+p2x2 > p2x1. This would imply that x2 is revealed preferred to x1, and 
+so violate GARP. The Afriat e index of the choice x2 is the ratio 
+p1x2=p1x1, which is evidently less than 1. 
+Allowing choices whose Afriat e index is less than one relaxes the 
+GARP axiom, and so increases considerably the corresponding measure of 
+how well subjects’ choices comply with GARP. This increase in measured 
+rationality, however, comes with a dramatic decrease in statistical power. 
+For example, consider a budget of $100, along with two budget lines 
+determined by the respective price vectors p1 = (1:25;1) and p2 = (1;1:25), 
+as illustrated in Fig. 1. Assume too that at prices p1 a person chooses the 
+consumption bundle x1 = (x1A; x1B) = (64;20), or indeed any other bundle on the line segment joining the end point Q to the point P = (4449;4449)  (44:4;44:4) where the two budget lines intersect. Then it is straightforward 
+to show that at prices p2 the supporting set of consumption bundles satisfying 
+GARP consists of the line segment joining P to the end point Q0 = (100;0). 
+Assuming a uniform distribution of choices along this second budget line, 
+there is a probability of 
+5 
+9 
+ 55:6% that a player who chooses at random will satisfy GARP. 
+3 
+
+========4========
+
+x 
+B 6 
+100 
+\ 
+\ 
+p1 
+90 
+\ 
+\ 
+\ 
+### 
+\ 
+\ 
+## 
+80 
+\ 
+\ 
+cc \ 
+## 
+\ 
+cc 
+\# 
+\ 
+\ 
+\ 
+c\c\ 
+\ 
+c 
+P\0 
+\ 
+= (222\ 
+9 
+; 629) 
+2 
+cu 
+\c 
+\ 
+\ 
+\ 
+\c c\ 
+\ 
+cc\ 
+\ 
+\c 
+= (449 
+4; 
+444\uP 
+9)\ 
+\ 
+c\c 
+p2 
+\ 
+\c 
+\ 
+\ 
+c 
+\ 
+c 
+ 
+\ 
+ 
+\ 
+\ 
+cc 
+ 
+\ 
+\ c  
+\ 
+\ 
+1c 
+ 
+\ 
+\ux 
+c 
+c 
+ 
+\ 
+\ 
+\ 
+cc 
+ 
+\ 
+\ 
+\ 
+c 
+\ 
+\ 
+c 0 
+\ 
+\ 
+c 
+\ \\uQ 
+cccuQ0 
+0 72 80 100 
+- xA 
+Figure 1: Basic Example 
+4 
+
+========5========
+
+Allowing an Afriat e index of 0.9, however, which is equivalent 
+to throwing away $10 at prices p1, moves the intersection of the two budget 
+lines down to the point P0 = (2229;6229)  (22:2;62:2). This extends the supporting set to the line segment P0Q0, so the chance of a random choice 
+being classi as rational rises to 
+7 
+9 
+ 77:8%. 
+We refer the interested reader to their paper to Andreoni and Harbaugh 
+(2008) for an extensive recent discussion of the pros and cons of several 
+dit power indices for revealed preference tests, including that of Bronars 
+(1987). Instead, we now proceed directly to the experimental design involved 
+in our own more direct test. 
+1.2 A Three-Stage Direct Test 
+Consider any list sn = (pi;xi)ni=1 of n pairs of successive price and quantity vectors that satisfy both GARP and, for each i = 1; : : : ; n, the normalization 
+pixi = 1. Let pn+1 be any previously unobserved price vector. Then Varian 
+(1982, 2006) de the supporting set S(pn+1;sn) of consumption bundles 
+xn+1 as those for which the extended sequence (pi;xi)n+1i=1 also satis both GARP and, for each i = 1; : : : ; n+ 1, the normalization pixi = 1. As Varian 
+(1982) notes, the supporting set describes \what choice a consumer will make 
+if his choice is to be consistent with the preferences revealed by his previous 
+behavior" (p. 957). 
+Our new experimental design uses Varian’s (1982) supporting set directly. 
+Moreover, unlike previous tests of GARP, we seek to increase the power of 
+our tests by adjusting later budget lines to the consumer’s earlier choices. 
+Indeed, when teaching intermediate microeconomics, it is usual to explain 
+5 
+
+========6========
+
+the revealed preference axiom in a two-stage process. First it is assumed that 
+a consumer chooses a (two-dimensional) commodity bundle x1 at the price 
+vector p1. Second, one considers the consumer’s demands when faced with a 
+new price vector p2 and a new budget line p2x = p2x1 that passes through 
+the originally chosen bundle x1. The usual revealed preference axiom, of 
+course, implies that the new bundle x2 should satisfy p1x2 > p1x1. 
+Our experiment considers an obvious three-stage extension. The  two 
+stages involve observing the consumer choosing the two bundles x1 and x2 
+at the respective price vectors p1 and p2. Revealed preference requires the 
+chosen bundles to satisfy both p1x2 > p1x1 and p2x1 > p2x2. Provided this 
+condition was satis subjects faced a third stage that involves a new price 
+vector p3 satisfying p3x1 = p3x2. In the two commodity case we consider, 
+this determines the third stage budget line p3x = p3x1 uniquely. Revealed 
+preference will be satis provided that the consumer’s third-stage choice 
+x3 is on the segment of the third budget line between the  two choices 
+x1 and x2. 
+In our experiment, subjects were actually confronted with a series of 
+16 grouped portfolio-selection problems, each group involving up to three 
+stages like this. As in the most important precursor to our own work, Choi 
+et al. (2007b), we study a portfolio selection problem for two reasons. First, 
+these authors were the  to test revealed preference theory with data 
+from risky decision making. Indeed, as far as we are aware, other scientists 
+have yet to reproduce their results. Second, their graphical interface seemed 
+highly appropriate and was relatively easy to adapt. Third, they reported 
+6 
+
+========7========
+
+particularly high consistency rates among their subjects, which suggests that 
+applying a more powerful test could be fruitful. 
+The paper is organised as follows. The next section 2 describes our ex- 
+periment in more detail. Then Section 3 explains our nonparametric test 
+procedure. The results are presented in Section 4. Section 5 concludes. 
+2 Details of the Experiment 
+2.1 Typical Decision Problem 
+As in Choi et al. (2007a, b), in each of our decision problems there were two 
+states of nature s = fA; Bg and two associated Arrow securities, each yielding 
+a payo of one \token" of experimental currency in one state and nothing 
+in the other. Following the usual random lottery incentive system, at the 
+end of the experiment one decision problem was selected at random and each 
+token won in that decision problem was converted into $0:20 of UK currency. 
+In each decision problem, subjects had to split an initial endowment of 100 
+tokens between the two Arrow securities. In principle, their choices had to 
+satisfy the budget constraint pAxA+pBxB = 100, where ps denotes the price and xs the demand for Arrow security s. In practice, in order to represent the allocation problem sensibly on the computer screen, prices were rounded 
+o to the  decimal place, and subjects could only choose nonnegative 
+integer amounts of each security. In addition to the budget constraint pAxA+ pBxB  100, subjects were restricted to pairs (xA; xB) of nonnegative integers immediately below the budget line. Speci, we allowed any nonnegative 
+7 
+
+========8========
+
+Figure 2: Example screen 
+integer allocation satisfying 
+100 
+ maxfpA; pBg < pAxA + pBxB  100: 
+Figure 2 reproduces an example of what an experimental subject could 
+see on the computer screen when faced with any of the choice problems. As 
+soon as a new decision problem appeared, the mouse pointer became visible 
+at its default position in the upper right-hand corner of the screen. When 
+the mouse pointer was close enough to the nearest feasible allocation, that 
+allocation was indicated by two numbers and by associated reference lines 
+marked in red. This information remained visible until the mouse pointer 
+had been moved far enough away from this allocation. If applicable, the next 
+allocation was then displayed. 
+8 
+
+========9========
+
+Subjects could also \ and later \release" an allocation by clicking the 
+left mouse button. Once a portfolio was  then even if the mouse pointer 
+was moved, the numbers and reference lines turned green and stayed visible 
+on the screen until they were released. To choose this indicated portfolio and 
+proceed to the next decision problem, a subject could simply click the OK 
+button near the lower right-hand corner of the screen. 
+Some slight time pressure was introduced in order to impose a \cost" of 
+collecting information. The upper right-hand corner of the screen therefore 
+displayed how many seconds remained out of the original 30 allocated for each 
+choice. When time ran out, if the mouse pointer was over a feasible allocation, 
+or if one had been  by an earlier mouse click, then that portfolio was 
+recorded as the subject’s nal choice. Otherwise a missing value was recorded 
+for that choice problem. In fact, no subject in our experiment ever exceeded 
+the time limit. 
+Figure 3 illustrates the basic experimental setup for a scenario where 
+pA = 1:5, pB = 1, and the probability of state A is  = 0:5. The solid line represents the budget constraint with slope  pB=pA =  1:5. The dashed 45-line marks all portfolios for which xA = xB. It intersects the budget line at the indicated safe portfolio (xA = xB = 40). 
+The second dashed line is the graph of the expected value 
+EV (xB) = xA + (1 
+ )xB = 
+ 
+p 
+(100A 
+ pBxB) + (1 
+ )xB 
+of each portfolio as a function of xB alone, as one moves along the budget 
+line. In  3 its slope is the positive fraction 1=6. Hence, portfolios to the 
+left of the safe portfolio are stochastically dominated. 
+9 
+
+========10========
+
+xA 
+xA=xB 
+safe portfolio 
+EV(xA,xB) 
+0 
+xB 
+Figure 3: A  choice problem with pA = 1:5, pB = 1,  = 0:5 
+2.2 First Stage 
+Each subject in the experiment faced 16 rounds of successive grouped choice 
+problems in up to three stages. At the  stage of each round, subjects 
+were graphically presented with a budget constraint p1x = 100, where p1 = 
+(p1A; p1B) and x = (xA; xB). The price vector p1 was taken from the eight- point set 
+P = f(1;1:5);(2;1);(1;2:5);(3;1);(1:5;2);(2:5;1:5);(3;1:5);(2;3)g 
+of price vectors. Furthermore, the probability  of state A being chosen by 
+a pseudo-random number generator was either 0:5 or 0:67. 
+All subjects were eventually presented with the complete set of all possible 
+16  choice problems which can result from combining one of the 
+10 
+
+========11========
+
+eight possible price vectors with one of the two probability distributions. 
+The 16 possibilities were presented in random order, however. 
+2.3 Second Stage 
+Figure 4 shows how each subject’s  choice was used to construct 
+the second-stage choice problem. The dashed line represents the  
+budget line; the subject’s portfolio choice is marked by one of the two dots 
+| e.g., x1 = (22;67) in the  The subject, however, was shown only 
+the second-stage budget line p2x = 100. This was determined by  inter- 
+changing the two components of the  price vector p1, then replacing 
+the new higher component with a dit one chosen at random. Speci 
+cally, if the  price p1B was lower, as in ure 4, and if x1B denotes the amount allocated to asset B at the  then the second-stage price 
+p2B was determined by making a random choice from a uniform distribution on the closed interval [100=x1B;200=x1B], then rounding the result to the  decimal place. In the  we have p2 = (1;1:6). 
+In several cases, however, subjects chose  portfolios that are 
+stochastically dominated because, as discussed in Section 2.1, they lie to the 
+left of the safe portfolio depicted in Figure 3. Worse still, in some cases 
+subjects chose portfolios so close to the extreme where the whole budget is 
+allocated to one security that our procedure would fail to determine a sensible 
+second-stage choice problem, because the respective budget line would have 
+had to be very steep (or  Our software, therefore, did not allow the 
+subject to proceed beyond the  stage in case: either (i) the  
+11 
+
+========12========
+
+xA 
+possible 2nd stage  
+budget line 
+intersection 
+1st stage choice 
+x1=(22,67) 
+0 
+xB 
+Figure 4: A second-stage choice problem with pA = 1, pB = 1:6,  = 0:5 
+choice was stochastically dominated; or (ii) the second-stage choice problem 
+would have involved a price ratio greater than 10 (or smaller than 0.1). 
+2.4 Third Stage 
+Even if the subject had been allowed to proceed to the second stage, the 
+portfolio chosen at this second stage could still fail to lie on the segment 
+of the budget line between: (i) the extreme portfolio with xB = 0; (ii) the intersection of the two budget lines as depicted in Figure 4. Indeed, 
+if the subject’s second-stage choice was either stochastically dominated or 
+on the wrong side of the intersection marked in Figure 4, the computer 
+program would omit the third stage and, unless all 16 rounds had already 
+been completed, proceed directly to the next round in the sequence of three- 
+stage experiments. Otherwise, as Figure 5 indicates, the third-stage budget 
+12 
+
+========13========
+
+xA 
+2nd stage choice 
+x2=(61,24) 
+supporting set 
+1st stage choice x1=(22,67) 
+0 
+xB 
+Figure 5: A third-stage choice problem with pA = 1:2, pB = 1:1,  = 0:5 
+constraint was constructed by taking the line through the dit actual 
+choices in the  two stages, then rounding both prices to the  decimal 
+place. For example, assuming that the subject chose x1 = (22;67) at the 
+ stage, followed by x2 = (61;24) at the second stage, the third-stage 
+price vector would be p3 = (1:2;1:1) as indicated in Figure 5. Then Varian’s 
+supporting set consists of the line segment joining the  and second-stage 
+portfolios. 
+2.5 Background 
+The experiment was conducted at the University of Warwick on 20th May, 
+2008, in a computer Laboratory that had often been used for experiments 
+by other researchers. To avoid bias due to expert knowledge, we recruited 
+41 non-economics undergraduates (26 male and 15 female students had re- 
+sponded to our invitation before the deadline). All had previously agreed to 
+13 
+
+========14========
+
+be included a database of potential recruits for economic laboratory experi- 
+ments and so were contacted by email. 
+The experiment was fully computerised. Standard software toolboxes in 
+experimental economics and psychology such as z-Tree (Fischbacher, 2007) 
+and Mouselab (Johnson et al., 1986) do not o the graphical displays and 
+the data structure we required. Instead, our experiment was programmed in 
+Visual Basic. 
+Upon entering the laboratory, subjects were  given the on-screen in- 
+structions reproduced in the Appendix. Then a training session began where 
+subjects were presented random budget lines and could make choices as often 
+as they wanted. In order to end the training session and start the experi- 
+ment, the subject had to click a button. This initiated a short countdown, 
+after which the  choice problem of the  round was displayed. 
+After each subject’s last choice of the 16th round, the computer deter- 
+mined the amount they were owed, which was paid in cash. Everyone at- 
+tending and completing the experiment was given $5 of UK currency. In 
+addition, following the random lottery incentive scheme, subjects were told 
+that one of the choice problems they were going to be presented would be 
+randomly selected for an actual payment at the end of the experiment. The 
+sum of all the payments was $461:20, which works out on average to $11:25 
+per participant, including the $5 participation fee. 
+14 
+
+========15========
+
+3 A Nonparametric Statistical Test 
+3.1 Two Hypotheses: GARP and Random Choice 
+Bronars (1987) was concerned to show how GARP was a refutable hypothesis, 
+even with the kind of aggregate data that Varian had considered. Accord- 
+ingly, he had GARP as the null hypothesis, with Becker’s (1962) model of 
+uniformly random choice from the relevant budget line segment as a very 
+speci alternative. 
+Instead, our concern will be to refute Becker’s model of irrationality, 
+where possible, by showing that it cannot explain the high proportion of 
+observed choices satisfying GARP. Accordingly, our null hypothesis for each 
+experimental subject is that, throughout the course of the experiment, a 
+portfolio was always randomly selected from a uniform distribution over the 
+current budget line segment; moreover, the random choices from successive 
+budget lines are stochastically independent. Ignoring complications due to 
+rounding, the probability of satisfying GARP in any one choice experiment 
+is therefore the ratio of the length of the supporting set (the respective line 
+segment in Figure 5) to the total length of the budget line segment. 
+3.2 Implications of Uniform Randomness 
+Formally, let the discretised budget set of the typical ith third-stage choice 
+problem have Ki discrete elements (i 2 f1; : : : ; Ig), of which exactly ki would satisfy GARP if chosen. Under the null hypothesis, the proportion i = ki=Ki is the probability that the subject’s randomly chosen portfolio satis GARP. Given a set  of I second or third-stage choice problems (up to a 
+15 
+
+========16========
+
+maximum of 16), there are 2I ( 216 = 65;536) dit possible choice 
+patterns of GARP compliance and noncompliance. Let H denote the set of 
+all these 2I possible patterns, and G  H the subset of the I choice problems 
+in which the subject’s choices comply with GARP. Under the null hypothesis, 
+each choice pattern  2 H occurs with probability 
+Y Y p = i  (1 
+i2G i2InH 
+ i): 
+For each integer ` 2 f0;1; : : : ; Ig, let H(`)  H denote the set of choice 
+patterns that include exactly ` choices that are GARP consistent, and I 
+ ` 
+that are not. Then the probability of a subject exhibiting exactly ` GARP consistent choices is P` = 
+P 
+2H(`) 
+p. Cumulating downwards gives, for each integer z 2 f0;1; : : : ; Ig, the probability 1  F(z) = 
+PI 
+`=z 
+P` that `  z. 
+3.3 Signi Tests 
+Let s denote the desired signi level of the test for GARP | for exam- 
+ple, 5%. Let zs denote the smallest possible integer satisfying 1  F(zs)  s. Then we reject the null hypothesis of uniform randomness at the signi 
+level s provided that the subject’s choice pattern satis GARP on at least 
+zs occasions. 
+In principle the critical proportion F(zs) needed for this test could be calculated exactly from the  stochastic process implied by the null hy- 
+pothesis. In practice we used an obvious Monte Carlo simulation procedure 
+to estimate F(zs) for each of the 11 particular values 
+s 2 f0:01;0:05;0:1;0:2;0:3; : : : ;0:8;0:9g: 
+16 
+
+========17========
+
+The dashed curve with squares as markers for the dit signi levels 
+in Figure 6 displays the results of 1000 simulations, which were enough for 
+the observed proportions to converge. Of course, rounding implies the exact 
+probability Ps that F(`)  s will exceed s unless s is chosen exactly equal 
+to one of the probabilities F(z) for z 2 f0;1; : : : ; Ig; this explains why the 
+curve lies below the 45 line except at the end points s = 0 and s = 1. For 
+this reason, our test slightly favours the null hypothesis of random choice.1 
+4 Experimental Results 
+4.1 Test Statistics 
+Table 1 gives an overview of our experimental results. Subjects were faced 
+with an identical set of 16  choice problems, though the order in 
+which each subject faced them was selected at random. No subject breached 
+the time constraint of 30 seconds in any choice problem. Hence, in principle, 
+there could have been 16 second-stage choices. But for reasons explained 
+in Section 2.3, our procedure stopped after the  choice if that was 
+too inferior. On average, there were 4.2 such instances per subject, leaving 
+us with a mean of 11.8 second-stage choices per subject | or 73.9% of the 
+possible 16. Of the inferior choices, 84% (3.5 per subject) were dominated; 
+1There is an exact test with non-integer critical proportions ^zs 
+satisfying F(^zs) = s which takes the following form. Having found the integer critical value zs as in the main text, classify as rational not only the subjects whose choice patterns satisfy GARP on 
+at least zs occasions, but also a random sample of those that satisfy GARP on zs 
+ 1 
+occasions where, independently of the others, each subject is included with probability 
+[s 
+ F(zs 
+ 1)]=[F(zs) 
+ F(zs 
+ 1)]. 
+17 
+
+========18========
+
+100 
+80 
+60 
+40 
+Subjects classified as rational (%) 
+20 
+0 
+0 
+20 
+40 60 Significance level (%) 
+80 
+100 
+Figure 6: Test properties 
+Legend: The circular dots connected by solid lines represent actual observations of 39 subjects; the square dots connected by dashed lines represent a simulation using 1000 random players; the dotted line represents the theoretical level of signi 
+the remaining 16% (0.7 per subject) were extreme in the sense that, if we had 
+continued with our algorithm, it would have required the price ratio p2A=p2B to be either larger than 10 or smaller than 0:1. About 58.6% of the second-stage 
+choices (6.9 per subject) enabled us to construct a third-stage choice. The 
+Seite 1 
+remaining 4.9 second-stage choices per subject were either dominated (1.9 per 
+subject) or (3.0 per subject) on the wrong side of the point where the  
+stage and the second-stage budget lines intersect, thus making it impossible 
+to construct the relevant supporting set. Finally, 5.4 third-stage choices 
+per subject (77.5% of all third-stage choices) were both undominated and 
+18 
+
+========19========
+
+consistent with GARP. The remaining 1.6 third-stage choices either violated 
+GARP (1.4 per subject) or were stochastically dominated (0.2). 
+Table 1: GARP Consistency of Choices: Aggregated Data 
+Number of Stage 
+consistent choices 1 2 3 
+theoretical maximum 16 16 16 
+mean number of consistent choices 11:8 6:9 5:4 
+mean % of maximum 73:9% 43:1% 33:8% 
+mean % of previous column 
+ 
+58:6% 77:5% 
+N = 41 subjects. 
+Any test of individual rationality requires disaggregated data. After all, 
+the fact that about 78% of all third-stage choices were GARP consistent 
+says little about how consistent each individual’s choices were. Table 2 lists 
+each subject’s ID in the experiment (for reference purposes only), followed 
+by statistics concerning their performance in the third-stage choice problems. 
+For the subjects with ID numbers in the range 1{21, columns 2{5 respectively 
+report the total number of third-stage choices I, then the number z and 
+proportion z=I of GARP consistent and undominated third-stage choices, 
+followed by the signi level p(z) of our rationality test. Columns 7{10 
+do the same for the subjects with ID numbers in the range 22{41. 
+The p-values that are reported in columns 5 and 11 of Table 2 are com- 
+puted to allow a separate non-parametric exact test for each subject, based 
+on all possible permutations of choice patterns. They specify the conditional 
+19 
+
+========20========
+
+probability that a third-stage choice satis GARP, given that the subject’s 
+ and second stage choices did not rule out reaching the third stage. 
+4.2 Discussion of Results 
+Subject 13, for example, was a male who got to the third stage in 13 out 
+of the 16 maximum possible grouped choice problems. Of these 13, no less 
+than 12 (92%) third-stage choices lay within the support sets for GARP and 
+were undominated. The probability that his random choices would pass the 
+test at least 12 out of 13 times is just 0.007%. Hence, using our signi 
+level of 10%, we reject the null hypothesis that his 12 GARP consistent 
+choices were purely random. Note that two female subjects (#7 and #12) 
+did not reach any third-stage choice essentially because they always chose 
+only stochastically dominated portfolios in the  or second stage. The 
+following discussion focuses only on the remaining 39 subjects who reached 
+the third stage at least once. 
+Figure 6 displays the results graphically. Although our subjects often 
+violated GARP, they did so distinctly less often than the uniformly random 
+consumer would have done. For example, at the 10% signi level, 19 
+subjects (or 48.7%) were classi as rational. Comparing the curves for 
+stage three and for the simulation shows that our test is powerful enough to 
+distinguish clearly between: (i) actual subjects who could validly be classi 
+as rational; (ii) simulated random subjects that were incorrectly classi as 
+rational. It is worth recalling that Sippel’s (1997) procedure with an Afriat 
+choice e index of 0.9 classi as rational no fewer than 98.5% of the 
+20 
+
+========21========
+
+Table 2: GARP Consistency of Choices: Individual Data 
+ID total consistent 
+p-valuey 
+ID total consistent 
+p-valuey 
+I z z=I p(z) 
+I z z=I p(z) 
+1 6 5 0.83 0.050* 22 7 4 0.57 0.079* 
+2 11 7 0.64 0.219 23 6 3 0.50 0.316 
+3 3 3 1.00 0.032* 24 10 8 0.80 0.114 
+4 8 7 0.88 0.003* 25 11 8 0.73 0.244 
+5 5 4 0.80 0.128 26 14 12 0.86 0.062* 
+6 15 15 1.00 0.000* 27 3 2 0.67 0.355 
+7 0 0 | | 28 5 3 0.60 0.069* 
+8 11 10 0.91 0.003* 29 4 3 0.75 0.173 
+9 13 12 0.92 0.033* 30 2 0 0.00 1.000 
+10 10 9 0.90 0.002* 31 10 9 0.90 0.000* 
+11 0 0 | | 32 10 9 0.90 0.001* 
+12 3 2 0.67 0.381 33 6 3 0.50 0.546 
+13 13 12 0.92 0.007* 34 12 10 0.83 0.008* 
+14 3 3 1.00 0.045* 35 3 2 0.67 0.405 
+15 1 1 1.00 0.370 36 7 5 0.71 0.042* 
+16 14 9 0.64 0.249 37 11 10 0.91 0.003* 
+17 4 2 0.50 0.261 38 7 5 0.71 0.042* 
+18 3 2 0.67 0.333 39 6 6 1.00 0.003* 
+19 1 0 0.00 1.000 40 10 4 0.40 0.782 
+20 1 0 0.00 1.000 41 2 1 0.50 0.565 
+21 13 10 0.77 0.512 
+ySigni level of a non-parametric exact test. The null hypothesis is random 
+choice. An asterisk indicates signi at the 10% level. 
+21 
+
+========22========
+
+randomly generated consumers (as against 91.7% of the actual subjects).2 
+By contrast, our three-stage test classi only 5.2% of simulated subjects 
+as rational. 
+Finally, Table 3 reports the results of some tests for gender di 
+The share of GARP consistent choices was signitly greater for male 
+subjects. Likewise, the mean rejection probability reported in Table 2 was 
+much higher for female subjects. A possible explanation for this may lie in 
+the relative shares of portfolios chosen by each gender that were  
+stochastically dominated, as reported in the last three rows of Table 3. In 
+all three stages female subjects chose between two and four times as many 
+dominated portfolios as their male counterparts. This may re a higher 
+proportion of male subjects with some prior experience of the type of in- 
+vestment problem and of graphical computer display that was used in the 
+experiment. 
+Table 4 gives the results of a pooled-sample logit regression whose depen- 
+dent indicator variable equals 1 if and only if the subject chose a  
+stochastically dominated portfolio. To allow for the panel structure of the 
+data, the regression used a method of robust covariance estimation. The ex- 
+ogenous variables are gender, round, and the interaction term between these 
+two. We conducted the regression  for the whole sample, then for each 
+stage separately, both with and without the interaction term. The table 
+shows that the gender term is highly signit for all regressions except the 
+2Following Bronars’ (1987) proposal, Sippel actually compared his experimental data 
+with a set of 1000 demand vectors created using randomly determined constant budget 
+shares, which correspond to Cobb{Douglas preferences | for details, see Sippel (1996). 
+22 
+
+========23========
+
+Table 3: GARP Consistency of Individual Choices: Gender Di 
+Gender Signi 
+female male level 
+mean s.e. mean s.e. 
+share of GARP consistent choices 
+3rd stage 0.647 (0.058) 0.815 (0.026) 0.010* 
+probability of rejecting substantive rationality 
+3rd stage 0.381 (0.083) 0.164 (0.052) 0.026* 
+share of dominated portfolios 
+1st stage 0.324 (0.029) 0.153 (0.018) 0.000* 
+2nd stage 0.256 (0.035) 0.108 (0.017) 0.000* 
+3rd stage 0.162 (0.045) 0.042 (0.014) 0.013* 
+*Signit at the 10%-level according to a two-tailed independent- 
+sample t test (checked for equality of variances). 
+23 
+
+========24========
+
+one for the third stage when an interaction term is included. This accords 
+with our previous result that, in general, female subjects chose dominated 
+portfolios more often than males. Also, there were no signit round or 
+learning e nor any signit interaction between round and gender. 
+5 Conclusion 
+We have reported and analysed an experiment in which subjects were faced 
+with a series of 16 grouped three-stage portfolio-selection problems. In previ- 
+ous studies signi levels were computed by tolerating small changes of 
+the chosen portfolios or budget lines | that is, they allow an Afriat e 
+index below one. In contrast, for our test to be passed, a sut number 
+of portfolios chosen in a sequence of three-stage problems have to satisfy the 
+relevant inequalities exactly. This sharpens the distinction between truly 
+rational subjects and random players. 
+Overall, using a 10% signice level, only 19 out of 39 subjects (or 
+48.7%) could be classi as having made third-stage choices that all passed 
+our test of the standard GARP axiom of revealed-preference theory. Even 
+though our nonparametric test is easier to satisfy than many predecessors, 
+this proportion is distinctly lower than in previous studies. This may be due 
+in part to the fact that economics undergraduates subjects were speci 
+excluded from our subject pool. 
+24 
+
+========25========
+
+01. 
+: 
+0 
+ 
+p 
+05, *** 
+: 
+0 
+ 
+p 
+10, ** 
+: 
+0 
+ 
+p 
+Coet 
+Table 4: Gender Di | Logit Estimates 
+1425 1425 656 656 485 485 284 284 
+0.047 0.049 0.038 0.039 0.040 0.046 0.070 0.070 
+(0.167) (0.223) (0.224) (0.296) (0.290) (0.393) (0.578) (0.770) 
+(0.016) (0.022) (0.021) (0.030) (0.027) (0.039) (0.051) (0.074) 
+Dependent variable: dominated portfolio chosen. Binary logit with robust covariance matrix 
+2 
+= 1) (0.145) (0.306) (0.193) (0.405) (0.255) (0.537) (0.474) (1.064) 
+R 
+Round (0.031) (0.042) (0.055) (0.103) 
+F emale 
+Variable All Choices 1st Stage 2nd Stage 3rd Stage 
+Intercept -2.045*** -2.266*** -1.663*** -1.805*** -2.041*** -2.412*** -3.428*** -3.536*** 
+Gender 1.125*** 1.555*** 0.981*** 1.251*** 1.050*** 1.787*** 1.478** 1.687 
+( 
+Round -0.004 0.022 -0.006 0.010 -0.009 0.034 0.034 0.045 
+Gender | -0.050 | -0.032 | -0.087 | -0.027 
+ 
+n 
+LL -615.645 -614.355 -332.050 -331.757 -202.045 -200.792 -67.294 -67.270 
+Pseudo- 
+Table notes. 
+estimation. First line: coents; second line: standard errors. * 
+25 
+
+========26========
+
+Acknowledgments 
+Generous support for Peter Hammond from a Marie Curie Excellence Chair 
+funded by the European Commission under contract number MEXC-CT- 
+2006-041121 is gratefully acknowledged, as is assistance from the Institute of 
+Advanced Study at the University of Warwick that facilitated a visit by Ste- 
+fan Traub during which the experiment was performed. Both authors would 
+also like to thank Malena Digiuni for indispensable assistance in arranging 
+the experiment, as well as seminar audiences at the University of Warwick, 
+and also Thomas Palfrey, for encouraging comments and suggestions. 
+References 
+Afriat, S.N. (1973): \On a System of Inequalities in Demand Analysis: An Exten- 
+sion of the Classical Method", International Economic Review 14, 460{472. 
+Andreoni, J., and Harbaugh, W.T. (2008): Power Indices for Revealed Preference 
+Tests, University of Wisconsin Madison Working Paper; now available at 
+http://econ.ucsd.edu/~jandreon/WorkingPapers/power.pdf. 
+Becker, G.S. (1962): \Irrational Behavior and Economic Theory", Journal of 
+Political Economy 70, 1{13. 
+Bronars, S.G. (1987): \The Power of Nonparametric Tests of Preference Maxi- 
+mization", Econometrica 66, 693{698. 
+Choi, S., Fisman, R., Gale, D., and Kariv, S. (2007a): \Revealing Preferences 
+Graphically: An Old Method Gets a New Tool Kit", American Economic 
+Review 97, 153{158. 
+26 
+
+========27========
+
+Choi, S., Fisman, R., Gale, D., and Kariv, S. (2007b): \Consistency and Het- 
+erogeneity of Individual Behavior under Uncertainty", American Economic 
+Review 97, 1858{1876. 
+Fischbacher, U. (2007): \z-Tree: Zurich Toolbox for Ready-made Economic Ex- 
+periments", Experimental Economics 10, 171{178. 
+Johnson, Eric J., Payne, John W., Bettman, James R., and Schkade, David 
+A. (1986): Johnson Monitoring Information Processing and Decisions: The 
+Mouselab System, Technical Report, Duke University. 
+Samuelson, P.A. (1938): \A Note on the Pure Theory of Consumer’s Behaviour", 
+Economica 5, 61{71. 
+Sippel, R. (1996): \A Note on the Power of Revealed Preferences Tests with 
+Afriat Ine SFB 303 Discussion Paper A-528, Universitat Bonn, 
+Bonn. 
+Sippel, R. (1997): \An Experiment on the Pure Theory of Consumer’s Be- 
+haviour", Economic Journal 107, 1431{1444. 
+Varian, H.R. (1982): \The Nonparametric Approach to Demand Analysis", Econo- 
+metrica 50, 945{973. 
+Varian, H.R. (2006): \Revealed preference", in: M. Szenberg, L. Ramrattan, A.A. 
+Gottesman (eds.): Samuelsonian Economics and the Twenty-rst Century, 
+Oxford University Press, Oxford, 99{115. 
+27 
+
+========28========
+
+Appendix 
+Instructions 
+Experimental Instructions (Please, read carefully) 
+This is an experiment in decision-making. The entire experiment should be 
+complete within about 30 minutes. Research foundations have provided funds 
+for conducting this research. Please, pay careful attention to the instructions 
+as a considerable amount of money is at stake. At the end of the experiment, 
+you will be paid privately. Your payo will depend partly on your decisions 
+and partly on chance, but not on the decisions of the other participants in the 
+experiment. You will receive 5 pounds as a participation fee. In addition you 
+will receive a payment whose calculation will be explained in the following. 
+During the experiment, we will speak in terms of experimental \tokens" 
+instead of pounds. At the end of the experiment your payo will be calculated 
+in tokens and translated into pounds. The exchange rate between tokens and 
+pounds is stated on a note at your workplace. 
+In each decision problem, you will be asked to allocate an initial endow- 
+ment of 100 tokens between two accounts labeled A and B. The A account 
+corresponds to the vertical and the B account to the horizontal axis in a two- 
+dimensional graph. Each choice will involve choosing with the mouse pointer 
+a point on a blue line representing possible token allocations. In each choice, 
+you may choose any A and B pair that is on the blue line. 
+Each decision problem will start by having the computer select such a line 
+randomly, where each line permits a minimum of 10 and a maximum of 100 
+tokens on each account. The \prices" for the two accounts are stated on 
+28 
+
+========29========
+
+the right side of the screen. An example: the blue line runs from 50 on the 
+vertical axis (account A) to 33 on the horizontal axis (account B). Hence, 
+the price for allocating a token to account A is two tokens, and for a token 
+on account B you have to give up three tokens of your initial endowment. 
+You have exactly 30 seconds for choosing one point on the blue line. The 
+time remaining is stated on the screen. Furthermore, you will receive an 
+acoustic signal during the last e seconds. 
+To choose an allocation, use the mouse to move the pointer over the blue 
+line. You will be shown the token allocations that belong to the respective 
+points on the blue line. Once you have found the allocation that you like 
+best, click with the left mouse button somewhere on the screen, and the most 
+recent allocation will be  If you want to revise your decision, click the 
+left mouse button again and the line will be released. If you are satis 
+with your decision, click the \OK" button with the mouse pointer. 
+As noted above, you can choose only allocations that are located on the blue 
+line. You have 30 seconds for each choice. If you run out of time before 
+you  an allocation, the computer will automatically move on to the next 
+decision problem. If you did not touch the blue line at least once within the 
+30 seconds in order to display an allocation, the computer will record that 
+you did not make a decision; if you displayed an allocation but did not  it 
+by mouse click, the computer will record the most recent allocation as your 
+choice. You cannot revise your decision after having clicked the \OK" button 
+or the 30 seconds have elapsed. 
+29 
+
+========30========
+
+Afterwards you are asked for your next decision. At the end you will be 
+informed that the experiment has ended and the computer determines you 
+payo 
+Your payo is determined as follows: at the end of the experiment the com- 
+puter will randomly select one decision round. It is equally likely that any 
+round will be chosen. Afterwards the computer will decide whether account 
+A or B will be paid o The probability of an account to be selected is stated 
+on the screen for each decision problem. The probability is either 50:50 or 
+67:33. Pay attention to the probabilities shown on the screen while making 
+your choice. At the beginning of each decision problem, the probabilities 
+brie  up in red color. Be careful: if the computer selects a decision 
+task in which you did not make a choice, your payo will be zero. 
+Your payo in tokens, your choice, and the account that has been selected, 
+will be shown in a popup window. Please, let our assistant know that you 
+have  
+Your participation in the experiment, your choices, and your payo will be 
+kept contial. Only on the payo receipt will we have to record your 
+name. In order to keep your privacy you should not talk to anyone about 
+the experiment and your choices (at least until the complete experiment has 
+ended). We would like to ask you not to talk during the experiment and to 
+remain silent until the end of the last round. 
+If you are ready for a trial run, click the \OK" button. If there are open 
+questions, please, contact one of our assistants. 
+30 
+
+========31========
+

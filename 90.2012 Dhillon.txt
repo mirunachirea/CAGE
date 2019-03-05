@@ -1,0 +1,826 @@
+June 2012 
+                No.90 
+Employee referral, social proximity and worker  
+discipline 
+Amrita Dhillon, Vegard Iversen and Gaute Torsvik 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Employee referral, social proximity and worker discipline 
+Amrita Dhillon University of Warwick 
+June 18, 2012 
+Vegard Iversen University of Manchester 
+Gaute Torsvik University of Bergen 
+Abstract 
+We study ex-post hiring risks in low income countries with limited legal and regulatory frameworks. In our theory of employee referral, the new re- cruit internalises the rewards and punishments of the in-house referee meted out by the hiring  This social mechanism makes it cheaper for the  to induce worker discipline. The degree of internalization depends on the un- observed strength of the endogenous social tie between the referee and the recruit. When the referee’s utility is increasing in the strength of ties, referee workplace incentives do not matter and referee and employer incentives are aligned: in this case industries and jobs with high costs of opportunism and where dense kinship networks can match the skill requirements of employers will have clusters of close family and friends, they will show a high incidence of referrals rather than anonymous hiring and will show a wage premium to referred workers matched by their higher productivity. This no longer applies if the referee’s utility is decreasing in the strength of ties: referrals are then more costly for  they will be used less frequently by employers and will require higher referee wages (or status). We illustrate how these insights add to our understanding of South-Asian labour markets. 
+JEL: D21, D85,D86, J41, J6,O12, O17. 
+Keywords: E wage Contracts, Moral hazard, Referee incentives, Refer- rals, Networks, Strength of ties, Spot market. 
+We thank Chris Woodru Rocco Machiavello, Daniel Sgroi, Andres Carvajal, Francois Maniquet, Paul Beaudry, Matt Jackson, Parikshit Ghosh, Eric Maskin, Stelios Michalopoulos, E.Somanathan, the IAS Economics Workshop, Dilip Mookherjee, Mukesh Eswaran, the PET de- velopment workshop, Peter Vida and especially Rohini Somanathan for comments. Special thanks to the Indian Statistical Institute, Delhi and the IAS Princeton for their hospitality. Corresponding author: Amrita Dhillon. Email: a.dhillon@warwick.ac.uk 
+1 
+
+========2========
+
+1 Introduction 
+Much recent evidence points towards networks and referrals as a preferred mode of recruitment. Starting with Montgomery (1991), a large theoretical and empirical literature has developed trying to understand why referrals are used by employers rather than anonymous hiring.1 However, there are some important di in the prevalence of referrals in white and blue collar jobs as well as in the "types" of referrals that are used by them. 
+For example, Munshi and Rosenzweig (2006), con similar  by Gore (1970), report that 70% of blue collar jobs in Dadar, Mumbai were found through referral (with a corresponding  for white collar jobs of around 44%), pointing to some di in the use of referrals vs other types of recruitment methods for blue collar jobs and white collar jobs. Second, there is also some evidence on di in the type of referrals across these jobs. In the seminal work by Granovetter (1973) in a Massachusetts town "weak ties" (bridging social capital) was more important in generating non-redundant information about vacancies for white collar jobs, while for blue collar jobs "strong ties" (bonding social capital) were crucial. Table 1 in Montgomery (1991) gives some information on job variation and the use of referrals: Rees and Schultz (1970) shows that less skilled workers rely more heavily on referrals by close friends and family compared to other methods like employment agencies. In a developing country parallel of a weak tie advantage, Wahba and Zenou (2005) propose that search through friends and acquaintances is more et for illiterate and poor workers who are unable to read vacancy posters and advertisements. Iversen and Torsvik (2011) report  using data from an in-depth survey of migrants from Western Uttar Pradesh, North India. 176 or 61.3 % of these migrants entered their  migrant job through a workplace insider. Among these workplace referral cases about 30 % of the new employees were recruited by a member of their own household (usually fathers recruiting sons) while another 49.5% were recruited by a (typically close) relative. 
+1In Montgomery’s (1991) theory, employers invite the more talented in the workforce to recruit new sta homophily or assortative matching by talent in employee networks makes employee re- ferral a screening device. Marsden and Gorman (2001) propose an alternative screening mechanism where referral, by virtue of an employee’s informational advantage, reduces uncertainty about a known candidate’s labour productivity. Simon and Warner (1992) and Fernandez et al (2000) high- light, instead, gains in the quality of the match between workplace and employee. Kugler (2003), studying high skill industries in the United States, suggests that employers, through peer pressure from referee to the new recruit, gain from a reduction in monitoring costs. Heath’s (2010) research on garment factories in Bangladesh,  that referrals serve as a disciplining device by employers. 
+2 
+
+========3========
+
+Social networks and connections thus appear to be vital for recruitment into low- and unskilled jobs, and the use of close friends and family also seems to be a recurring pattern in these jobs. So why are referrals so popular among employers hiring blue collar workers and why do we see this dependence on family for referrals? Existing explanations of the use of referrals do not distinguish between these di in job requirements. These explanations rely either on job search cost reduction (e.g. Topa (2003), Calvo-Armengol and Jackson (2004, 2007)) or improving the quality of match between employers and employees (Saloner, (1985) and Simon and Warner (1992), Mortenson and Vishwanath (1994)) or on screening of workers by referees (Montgomery (1991), Kono (2006)) and  on worker disciplining e when there is moral hazard (e.g. Kugler 2003, Heath (2010)). None of these explanations however ditiate between dit jobs, although implicitly it seems that the explanations are indeed focused on particular jobs. It seems quite natural to think that referrals might be used for completely dit reasons in dit jobs. Trying to isolate one mechanism for all jobs might be an exercise in futility! Indeed, recent evidence on wage ditials between referred and non- referred workers in developed country settings suggests that such ditials are highly job, industry and country speci (e.g. Ioannides and Loury (2004); Pellizari (2010)). Moreover, within an industry some jobs have higher incidence of referrals than others. These empirical  suggest that wage premia, referral incidence and productivity outcomes should be expected to be highly job speci Our paper is  centred around this belief. 
+In this paper, we focus on low skilled jobs and ditiate between jobs on the basis of the scope for "opportunistic behaviour" (moral hazard): in this setting referrals may be used by employers to reduce moral hazard. We model social pref- erences in the relationship between an employee referee and a potential worker as one of the key features that employers can exploit. In the low- and unskilled labour markets we focus on, labour relations are typically governed by informal, unwritten agreements. A new work relation exposes an employer to a pre-hiring screening challenge and post- hiring behavioural risk. We focus on this context of low skilled jobs (where pre-hire screening is often easy to conduct), in low income countries (where enforcement of explicit contracts is costly for low wage jobs).2 Of course 
+2The anthropological literature on India is replete with examples of how kinship morality, social preferences or felt obligations among members of the workforce may be actively used by employers to discipline the workforce (e.g. de Neve 2007), thus exemplifying what Bandiera et al (2009) describe as social incentives and Karlan et al (2009) call social collateral. 
+3 
+
+========4========
+
+when referees are being used to discipline workers, one may well ask why a referee would want to refer a worker in the  place especially if he then bears the costs of being held responsible for the worker’s good behaviour in the  Our second contribution is to introduce referee incentives explicitly in the modelling. When both the referee and employer want workers who are closely related to referees (i.e. referee and employer incentives are aligned), we show that not only will referrals always be preferred to anonymous hiring in this situation, but that referrals will feature close relatives and friends, subject to their availabilty. In addition, there will be higher wages for referred workers, no di in wages (or status) between referee-employees and other employees and better outcomes for the  (e.g. higher labour productivity, lower turnover and absenteeism and lower propensity to take part in industrial action (e.g. Holmstrom (1984)) of employees who are referred, less theft of valuable items etc). Implicitly, this is the case studied by most of the theoretical literature. The empirical evidence on referral and employer outcomes is sparse in the setting of less developed countries except for the numerous examples in Holmstrom (1984), Kajisa’s (2007) evidence from the Philippines and Iversen et al (2009) for India using NSSO Employment Survey data suggesting employer prefer- ences for referral and a link between referrals and lower turnovers. Barr and Oduro (2002) study Ghanaian manufacturing and  strong evidence that relatives are favoured in pay and in the allocation of jobs, and  that such recruits perform well on the job. 
+However, when referee and employer incentives are not aligned, we may not see such a high incidence of referrals and the implications for wages and social ties will be dit: conditional on referrals being used, we should observe higher wages (or status) of employee- referees compared to other employees in similar jobs and weaker ties between workers and referees. This is con by the  of Iversen and Torvik (2011) who show that the job pro of workplace referees and the new re- cruits is very dit. Figure 5 in the Appendix illustrates the job pro of the new recruits with category 1 representing owners, category 2-4 the higher skill levels, 5 are vendors, 6 apprentices and 7-9 are less skilled jobs where 8 and 9 represent hard manual labour. Figure 6 reports the corresponding job pro for those acting as referees on behalf of the  These  are also indirectly con (when screening is the main reason for referrals) by Bandiera et al (2009) and Beaman and Magruder (2011) who demonstrate in separate experiments, referees or super- visors may not have incentives aligned with employers’ interests and when there 
+4 
+
+========5========
+
+is a mismatch, referrals may not provide a productivity advantage, by Fafchamps and Moradi (2010) who  evidence that recruits referred by army sta who had reached the summit of their careers were more likely to underperform. 
+2 The Model 
+Consider a  who needs to hire 1 worker. Pro per worker in period t is et  wt if the worker does not behave opportunistically and 1  wt if the worker behaves opportunistically. Hence per capita costs of opportunism to the  are given by ct = (et  1). The worker gains ct when he behaves opportunistically where  < 1. The  has access to a monitoring technology where a worker can be caught if he behaves opportunistically with an exogenous probability q 2 (0;1). Increasing the level of q:3 is assumed to have innite costs. The  can recruit workers either anonymously or using referrals by an existing employee. Each  comes with 1 referee (existing employee) who comes with a network.  2 [0;] denotes the social proximity between referee and worker and  is interpreted as the strength of this social tie. The referee’s network is a distribution on , so () is the number of workers with whom he has a connection with strength at least .  and () is not observed by the  nor is opportunistic behaviour ex-ante. We assume 0() < 0, i.e. the density of the referee’s network is declining with the strength of the social tie. Put ditly, a referee has few very close relatives, but many distant relatives and acquaintances.4 The strength of the social tie is chosen by the referee: what this means is that the referee introduces a worker with strength of tie  to the  since the referee’s network is not observed by the  the referee can bring any  that he wants. 
+The timeline of the stage game is as follows: 
+1. In stage 0 new workers Nt enter (free entry), at a cost of entry y. Workers 
+exit the industry at an exogenous rate . For simplicity we assume that the 
+distribution () is simply replicated every period that workers enter. 
+2. In stage 1 the  chooses how to hire a worker:  2 [0;]; where  = 0 
+corresponds to anonymous hiring. 
+3While we focus on a single worker problem, the underlying assumption is that there are many such workers and it is not possible to pinpoint who is responsible for the opportunistic behaviour. 
+4We discuss the implications for the capacity of the network to supply the type of skills employers require in a separate section below. 
+5 
+
+========6========
+
+3. In stage 2, the  chooses its wage contracts for the worker and the referee. 
+Contracts are of 2 types: E wage 
+ (wN();w~N()), where wN denotes worker wage and ~wN denotes referee wage. If the worker is caught in the next period with probability q then the worker is  and the referee gets V 
+P 
+R 
+() the PV of the implicit "punishment". 
+ Market wage: If cheating is detected, the worker gets his outside option and there is no punishment for opportunistic behaviour. The outside option is normalised to w = 0 
+4. In stage 3, workers choose whether to accept or reject the contract and if they 
+accept they decide whether to follow the contract. Fired workers can only be 
+hired at wage w. 
+5. Stage 4: payo 
+The stage game is initely repeated with discrete time. We look for the stationary sub game perfect equilibrium of this game. 
+We focus on low and unskilled informal labour markets where workers are paid wages, contract enforcement is costly and where output contracts (piece rates) or bonds are not feasible.5 The way the referral works is that the referee brings a worker of the required  to the m. Workers are altruistic towards referees. This means that the worker cares about the present value of utility the referee gets, VR(), conditional on his being recruited by the  and what the referee gets if the worker behaves opportunistically, V 
+P 
+R 
+(): () measures the degree of altruism with 0 > 0; 00 > 0, i.e. the closer the relationship between worker and referee, the stronger is this altruism. 
+Worker utility per period, if hired, is wt + ()VR()(1  ); if he is referred, wt if not referred. If a worker cheats when the contract calls for non-opportunistic behaviour, he will be  if caught. Referee motivations for referring workers may vary: e.g. an important motive is a strong altruistic relationship measured by R() : the referee and worker may be close relatives (e.g. father-son, brother- brother etc), or the referee and worker may be in another relationship e.g. a risk 
+5While piece rates have attractive incentive properties and are common in garment factories (e.g. Heath 2010), low and unskilled workers in shops, bakeries, all types of domestic work etc are typically paid wages. 
+6 
+
+========7========
+
+sharing network in the village where the referee bene from a higher status or gains through reciprocating favours. When jobs are scarce, referees may have particularly strong incentives to refer their own relatives. We assume that (0) = R(0) = 0. Referee gets per period utility UR() from getting a worker of type . A special case is where UR = R()w: the referee’s utility increases with the sum ~wN;t + wt. We model these alternative possibilities in Section 4. Firms’ per period pro are et  (wt + ( ~wN;t()  wN;t(0))). Firms maximise the Present Value of pro ~ 
+We can now compute the steady state levels of the stock of workers of each type in the economy. Workers of type  enter in period t until expected gains equal cost of entry: 
+1 
+St()wt 
+= y. In a stationary equilibrium this leads to S as the total number of workers who enter every period. The stock of workers in the steady state, N; is then given by N() = S() + f()S where f() is the equilibrium probability of a type  worker being  We assume the underlying market structure is perfect competition both among  and workers so that workers take wages as given, there is no bargaining and  pay workers the minimum needed for them to accept the contract. Although  make positive pro in the equilibrium, this is consistent with pro being competed away in the long run with free entry (which we do not model for simplicity). 
+A key ingredient in our model is that the  is able to punish the referee if the new recruit underperforms or behaves opportunistically. We denote the present value of the punishment utility stream to the referee when a worker he has referred is caught cheating by V 
+P 
+R 
+. In a series of examples Holmstrom (1984) illustrates how strong ties and felt obligations within the workforce are used strategically by Indian employers to curb absenteeism and other unwanted behaviour and stimulate e Other anthropologists and sociologists have argued that the ability to do this improves the incentives of the worker to work hard (Greico, 1987, Kim 1987, de Neve 2007). In this paper, we focus on the incentives confronting referees in such a situation: given that referees can be punished for worker underperformance, what motivates a referee to recruit a worker and what kind of workers (strength of the social tie) will they recruit given the incentive structure? There can be advantages accruing in the network and material and non-material advantages within the work- place (higher status and goodwill with the employer, prospects for promotion etc). We specify a very general punishment that operates through V 
+P 
+R 
+(). This allows for contracts where the referee can be  (V 
+P 
+R 
+= 0) or where the referee su a loss of reputation so that V 
+P 
+R 
+() < VR() so that V 
+P 
+R 
+() is below what the referee would 
+7 
+
+========8========
+
+get if the worker did not underperform. 
+As discussed above, since workers and referees take wt;w~N;t as given and  do not internalize the e of wt on future entry, we can use the steady state stationary levels of wt;w~N;t; Nt; St in the following computations. 
+3 E wage contracts 
+Workers always accept the contract if they get at least w = 0. Hence now consider stage 2 of the game: Under what conditions do workers choose to accept the e wage contract. We show this in the following sections,  for the spot market and then for the referrals market : 
+Standard E wage contracts: Spot market,  = 0 
+Suppose workers behave opportunistically, then in a stationary equilibrium they get: 
+V 
+S S 
+= 
+1 
+wS + c  (1  q) 
+(1) 
+The subscript here denotes S for spot market (anonymous hiring) while the superscript S denotes "shirking" or opportunistic behaviour. 
+If they do not behave opportunistically, then in a stationary equilibrium they get: 
+VS = 
+wS  
+1   
+(2) 
+Hence eiency wage given by VS  V 
+S 
+S 
+is: 
+wS = 
+c(1  ) 
+q 
+(3) 
+where  is the discount factor. This expression is the standard e wage result, that as q;  increase, the e wage decreases and as ; c increase so do the e wages. 
+E wage contracts with referrals,  > 0 
+Recall that an e wage contract speci wN();w~N(). Of course wN() and ~wN() are determined simultaneously. 
+However, we  compute the e wage contract of the worker taking as given the choice of  and ~wN(). 
+If a worker behaves opportunistically then in a stationary equilibrium, he gets: 
+8 
+
+========9========
+
+V 
+S 
+N 
+= wN + c + ()VR()(1 
+ ) +  q()V 
+P 
+R 
+() + (1 
+ 
+ q)(V 
+S 
+n 
+) 
+(4) 
+The subscript N is used to denote referrals ("network") here while the super- script S denotes opportunistic behaviour (shirking). If the worker does not behave opportunistically then in a stationary equilibrium he gets: 
+VN = wN + ()VR()(1 
+If opportunistic he gets: 
+V 
+S 
+N 
+= wN + c + ()VR()(1 
+ ) +  q()V 
+P 
+R 
+() + (1 
+Hence the e wage with referrals is: 
+wN = 
+c(1  ) 
+q 
+ ()VR() 
+ ) + (Vn) (5) 
+ 
+ q)(V 
+S 
+n 
+) 
+(6) 
+ V 
+P 
+R 
+()(1 
+ ) (7) 
+ V 
+P 
+R 
+()](1 
+ ) > 0 
+where V 
+P 
+R 
+is the "punishment" PV of the referee if the worker behaves oppor- tunistically and is caught. It is easy to see that if X()  [VR() 
+then referral e wages are lower than anonymous spot market wages. We cap- ture some important implications in the following lemma: 
+ ()X(). wS  
+ 
+Lemma 1 Referral e wages are given by: wN = wS 
+wN()  0 i X()  0. Moreover wN is increasing in ; c and in V 
+P 
+R 
+() and decreasing in ; q and in  and VR(): wS 
+X(). 
+ wN  is therefore increasing in  and 
+This lemma says that when  V 
+R; V 
+P 
+R 
+are  exogenously, the  bene from referrals by paying lower e wages to workers than if they were to pay e wages to workers hired through the spot market. This is because workers internalize the impact of their behaviour on the referee - the punishment for oppor- tunistic behaviour is ampli by the impact on the referee. This is similar to the mechanism in Heath (2011) (although we do not have any skill heterogeneity be- tween workers) and resemble group liability schemes which work through monitoring advantages between members of the group relative to the  Firms use referrals to reduce the costs of incentivizing workers who have low productivity. They do this 
+9 
+
+========10========
+
+by increasing the (explicit) punishment on referrers for poor performance of referred workers. They assume that referees will be repaid in other ways by the referred worker. Referee incentives and the strength of ties are not explicitly modelled and piece rate contracts are used instead of e wages. 
+This advantage to the  from using referrals wS  wN  is increasing in the strength of the tie , ~wN and decreasing in V 
+P 
+R 
+: put ditly, the more a new recruit cares about the referee’s utility and the larger the dince between VR and V 
+P 
+R 
+(the penalty imposed on the referee by the  the stronger is the punishment of the recruit from opportunism and the lower is the premium on wages necessary to induce good behaviour. Kugler (2003), in contrast to us, relies on advantages in monitoring between a referred worker and a referee to obtain lower e wages from referrals that we achieve with altruism and the resulting felt social obligations. In Kugler (2003), as in most of the literature on referrals however, the question of referee incentives is not addressed. 
+A key innovation in our paper is the way we address the referee’s problem, speci the decision about whom to recruit, given the various incentive structures that may confront the referee. Intuitively it may seem that when there are no ability di and no screening incentives then "favouritism" does not a the  indeed it bene the  if productivity is una while wages can be kept lower. This may or may not hold and depends on how the referee bene from referring a worker. We discuss these dit possibilities in the next section. 
+4 The Referee’s problem 
+In this part we take  and wN() as given and compute the minimum referee wages w~N() necessary to induce him to choose the optimal  when he refers a worker. This is because  is unobserved6. We compute the total costs of o the joint contracts to the referee and worker e wages for the worker along with rewards for the referee to make the optimal referral. Given e wage wN() all workers with  <  
+ 
+will cheat for sure, while those above will not cheat. Let UR() be the per-period gain to the referee from hiring the worker (so in this case, UR() = VR()(1  )). 
+Case 1: U0R > 0: 
+6This can also be interpreted as saying that the employer delegates the choice of the worker to the referee, so even if he can observe , he does not know () and hence he cannot control who the referee chooses. 
+10 
+
+========11========
+
+This case captures a commonly observed situation where the referee gains in status in a network where both referee and the new recruit belong such as an ex- tended family network. For example, UR() is the expected utility from a favour (getting the potential worker a job) being returned in some other network that the referee and the worker are part of. The probability that, conditional on successful referral, the favour will be returned is increasing in . Preliminary Evidence from experiments (Bapna, Gupta, Rice and Sundarajan (2011)) shows that indeed trust and reciprocity increase with the strength of ties. Buchan et al (2006) show that social distance is negatively correlated with the degree of trust and reciprocity. In this case, referee incentives are aligned with the  both want higher . In this case it is clear that the referee will always choose the highest  that is feasible, as long as UR()  V 
+P 
+R 
+()(1  ) is increasing in . This condition also guarantees that the participation constraint of referees is satis 
+Proposition 1 Suppose that UR  V 
+P 
+R 
+(1  ) is increasing in . Then the  optimal  = min(^), w~N = ~wN(0) and wN = wS  () VR()  V 
+P 
+ 
+R 
+(1  ). 
+So if U0R > 0 then referrals are always better as long as VR() > V 
+P 
+R 
+(): stronger ties are chosen subject to availability of connected people and there is no need for extra incentive provision through referee wages. The spot market will be used only if there are no connected workers available. In this case referee and employer interests are closely aligned and the referee will not behave opportunistically vis-a-vis the employer. 
+Case 2: U0R() < 0 
+The opposite case is when U0R() < 0: Some examples of this are when the referee maximises bribes taken from workers for getting them a job: assume that the closer the worker to the referee the lower the bargaining power of the referee: in this case UR is decreasing in . This could possibly correspond to situations where an employee of the  starts acting as a middleman in referring workers. Another compelling objective function that is decreasing in  is when the referee cares about the workers wage in the  as well as his own. UR = R()w and R() = R > 0 a constant ( just to ensure that UR is decreasing in  when the  uses the e wage contract with referrals). In this case the incentive constraint of the referee is binding. Assume that V 
+P 
+R 
+is decreasing in : lower  corresponds to less responsibility attributed to the referee for the worker. The incentive constraints are then given by the following expression: 
+11 
+
+========12========
+
+w~N() + UR() 
+ 
+w~N(~) + UR() + qV 
+P 
+R 
+(~) 
+1   1  (1  q) 
+8  <  ~ 
+(8) 
+The participation constraint is given by: 
+w~N() + UR()  w~N(0) + UR(0) 8  > 0 (9) 
+This implies that ~wN() is increasing in  : the referee must be incentivised to announce a higher . This e is exacerbated when V 
+P 
+R 
+is decreasing in  as well. 
+5 A special case I 
+We focus on the following simple case: let UR = Rw, with R > 0. Let there be only 3 possible values of  = H; L;0, chosen to capture both constraints. The two constraints on the referee can then be written as: 
+w~N(H) + RwN(H) 
+ 
+w~N(L) + RwN(L) + qV 
+P 
+R 
+(L) 
+1   1  (1  q) 
+(10) 
+Inequality 10 is the incentive constraint. The (binding) participation constraint is given by: 
+w~N(L) + RwN(L) 
+ 
+w~N(0) + R 
+1 
+H 
+wS 
+1   1   
+while the worker’s eciency wages (for i = H; L), as before, are given by: 
+(11) 
+wN(i) = wS 
+ (i)w~N(i) + RwN(i) 
+ V 
+P 
+R 
+(i)(1 
+ ) 
+(12) 
+The participation constraint 11 captures the fact that when the worker is not hired through a referral process he must go to the spot market where he has a 
+1 
+H chance of getting the higher e wage (recall that H is the steady state stock of workers in every period). 
+We assume  that both constraints are binding and solve for the lowest wages that satisfy the referee constraints. This is w.l.o.g in the equilibrium. Solving  equations (11) and (12) for H we get the following: 
+wN(H) = 
+1 
+ 
+1 + (H) 
+wSR 
+ (H) ~wN(H) + (H)V 
+P 
+R 
+(H)(1 
+ ) 
+(13) 
+12 
+
+========13========
+
+and 
+w~N(H) = 
+(1  )(1 + (H)R)w~N(0) 
+1  (1  q) 
++ wSN(1 
+R 
+ (1  q)) 
+((1 
+ 
++ (1 
+ 
+ )(1 + (H)R) 
+ ) qV 
+P 
+R 
+(L)(1 + 
+(H)R) 
+1 (1 q) 
+Hence 
+ 
+wN(H) = wS 
+1 
+ 
+(H)R(1 H(1  (1 
++ (H)V 
+P 
+R 
+(H)(1 
+ ) 
+ H(1  (1 
+  (H)RV 
+P 
+R 
+(H) 
+ q))) 
+ 
+(14) 
+ ) 
+ q)) 
+ 
+(H)(1  )w~N(0) 
+1  (1  q) 
+ 
+(H)(1  )qV 
+P 
+1  (1  q) 
+R 
+(L) (15) 
+ H) 
+w~N(L) = ~wN(0)(1 + (L)R) + w 
+RS 
+N 
+((1 + (L)R) 
+ ) (16) 
+ 
+(L)RV 
+P 
+R 
+(L)(1 
+and 
+wN(L) = 
+1 
+ 
+1 + (L) 
+wSR 
+ (L) ~wN(L) + (L)V 
+P 
+R 
+(L)(1 
+Hence 
+ ) 
+(17) 
+wN(L) = wS 
+(1 
+ (L)R) 
+1 + (L)R 
+ 
+(L)R(1 + (L)R)+(L)V 
+P 
+R 
+(L)(1 ) (L) ~wN(0) 
+H 
+ 
+ 
+ 
+h wN(L) > 0 if (a) H > 
+(L)(1+(L))2 
+1 (L) 
+and (b) w 
+(1 ( 
+S 
+L)R) 
+1+(L)R 
+(L) ~wN(0) 
+ (L)V 
+P 
+R 
+(L)(1 
+  ). 
+13 
+ 
+(18) 
+i (L)R(1+(L)R) 
+H 
+> 
+
+========14========
+
+Total costs when  = H are given by: ~wN(H) 
+ 
+w~N(0) 
+1   
+ 
+1  (1  q) 
+(1 + wS 
+1   
+ 
+H(1  (1  q)) 
+R(1 + V 
+P 
+(L) 
+(1  )q 
+R 
+1  (1  q) 
+[1 
+ (H)(1 
+ (H)(1 
+Total costs when  = L 
+ wN(0) + wN(H) i.e. ~ 
+ 
+ R))  1 
+  (H)) + (H)2R + 1  R 
+ R)] (19) 
+ (L)) 
+ 
+ 1 
+1 
+ + 
+ (L)R 
+1 + (L)R 
+ w~N(0) [(L)(1  R)] + wS R 
+1 + (L)R(1 
+H + V 
+P 
+R 
+(L)(1  )(L) (1 
+ R) (20) 
+ 
+ 
+And total costs when referrals are not used are just given by wS. 
+Proposition 2 Assume that H  max 2; 
+(L)R(1+( 
+L)+2R 
+1 (L) 
+: Then referee wagesR 
+w~N(H) are decreasing in wS, and in V 
+P 
+R 
+(H) and increasing in w~N(0) and in V 
+P 
+R 
+(L). Referee wages w~N(L) are decreasing in wS and in V 
+P 
+R 
+(L) and increasing in w~N(0). Worker wages, wN(H) are increasing in wS and in V 
+P 
+R 
+(H) and decreas- ing in w~N(0) and in V 
+P 
+R 
+(L). Worker wages wN(L) are increasing in wS, and in 
+V 
+P 
+R 
+(L) and decreasing in w~N(0) 
+ V 
+P 
+R 
+(i); i = H; L while the worker 
+Roughly speaking therefore, the wages of the referee are positively related to his "stakes" from the referral measured by ~wN(0) 
+wages are negatively linked to the stakes of the referee in the  Referee wages are negatively linked to wS; for large enough H, while worker wages are positively related to wS. It is not clear therefore whether the total costs of referrals is actually lower or higher than anonymous hiring for the  We turn to this question in the 
+next section. 
+5.1 Optimal choice of  
+Now we are ready to check the the prot maximising level of  for the  among these three choices: H; L;0. One general result we get is that as R ! 1; H ! 1, 
+the optimal  is L > 0. 
+14 
+
+========15========
+
+and wS 
+ 
+ 
+ 
+(1+(L)(1  
+(L))(1+(L)); (L)(1+(L))2 
+2(L) 
+ 
+1  (L) 
+ V 
+P 
+R 
+(L)(1  ) . Then the 
+Proposition 3h Let R ! 1. Then fori H > max 
+(1 (L)) (L)(1+(L)) 
+1+(L) H 
+> (L) w~N(0) optimal choice of  for the employer is L. 
+Proof. The employers problem is: 
+Maximize N() w.r.t  2 fH; L;0g, subject to 
+()  1; 
+wN()  w 
+wN = 
+c(1  ) 
+q 
+ () VR() 
+ 
+ V 
+P 
+R 
+()(1 
+ ) (21) 
+(22) 
+w~N() + RwN() 
+ 
+w~N(~) + BRwN(~) + qV 
+P 
+R 
+1 (1 q) 
+for~  <  
+1 
+  
+and 
+VR()  VR(0) 
+ 
+ 
+We ignore the feasibility constraint ()  1; which is discussed in the next sec- tion. The constraint wN  0 is non-binding under the conditions of the proposition. Hence it is clear that both the incentive and participation constraints are binding in equilibrium. Hence as R ! 1; we can re-write the two constraints (10) and (11) 
+as: 
+(23) 
+w~N(H) + wN(H) 
+= 
+w~N(L) + RwN(L) + qV 
+P 
+R 
+(L) 
+1 (1 q) 
+1 
+  
+and: 
+w~N(L) + wN(L) 
+= 
+w~N(0) + R 
+1 
+H 
+wS 
+1  
+1 
+  
+ 
+ 
+ 
+(24) 
+ 
+ 
+ 
+1 
+Putting these together, the total costs with 
+w~N(0)+R 
+P 
+H are given by 
+H 
+wS+qVR (L) 
+1 (1 q) w~N(0) and total costs with L are given by R 
+1 
+H 
+wS. Hence clearly total costs are lower with L than with H. To see that costs are lower with L than with anony- mous hiring we compare total costs when L for the limit as R ! 1: 
+wS 
+ 
+1 
++ 
+(L)(1  (L)) H H 
+15 
+1 
+  1 + 
+ (L) 
+1 + (L) 
+
+========16========
+
+ 
+with total costs of anonymous hiring at wS. Hence for H > 
+(1+(L)(1 (L))(1+(L)) 
+2(L) 
+; total costs with L turn out to be lower than with anonymous hiring. 
+6 A special case II 
+To check the intuition from the previous section, an even simpler case is considered in this section. Suppose that there are only two possible announcements for the referee  = 1 or  = 0, i.e. he can either say that he refers a relative/friend or he does not refer. Moreover we assume that when the referee is not related to the worker, the  cannot hold him responsible for bad behaviour. However when  = 0 then the worker can only be hired through the spot market so his chances of being hired decrease to 
+1 
+H 
+. Solving these two equations leads to: 
+w~N(1) = ~wN(0) 
+1 
+1 
+ R  2R 
+ 
+V 
+P R 
+(1)(1 
+ )1 
+and 
+wN(1) = wSH(1 
+H 
+ R  2R) 
++ V 
+P 
+R 
+(1)(1 
+ )(1 
+where wN(1) = wS 
+ (1) 
+and to V 
+P 
+R 
+(1 
+R(H 
+ wS  
+ (1  R) 
+H(1  2R) R 
+ 2R 
+(25) 
+ wN(0)1 ~ 
+ 
+ 2R 
+  R)(1  2R) 
+(26) 
+(27) 
+ 
+ 
+w~N(1) + R(1) wN(1) = ~wN(0) + R(1) 
+1 
+HwS 
+w~N(1) + RwN(1) V 
+P 
+R 
+(1)(1 ) Assume that 1=2 > R. Then referee wages are positively related to ~wN(0), negatively related to wS 
+ ). Worker wages are negatively related to ~wN(0), positively related to wS and to V 
+P 
+R 
+(1). When V 
+P 
+R 
+is low, then worker wages can be lower but referee wages need to be higher to satisfy the participation constraint of the referee. 
+ wN(0) + wN(1) i.e. 
+Total Costs ~wN(1) 
+~ 
+w 
+(1S 
+H(1 
+ 2R)  2R) 
++ V 
+P 
+R 
+(1 
+ )(1 
+1 
+ 
+(1  R)w~N(0) 
+1  2R  R(1  R)) 
+ 2R 
+(28) 
+16 
+
+========17========
+
+Total costs are decreasing with ~wN(0)  V 
+P 
+R 
+(1  ) i.e. the stakes of the referee in the  what he stands to lose. Total costs increase with wS (the costs of opportunism) and decrease with H i.e. tighter labour market conditions. Comparing total costs with wS (total costs with standard e wages), referrals are more attractive when wS increases and H increases. As before, referrals are preferred to anonymous hiring if ~wN(0)  V 
+P 
+R 
+(1  ) is sutly high. 
+7 When are e wage contracts used? 
+In this section we describe the equilibrium of the in repeated game. It is easy to see that e wage contracts will be used whenever the costs of opportunism are sutly high. Let c()  wN() +  ~wN()  w = wN() +  ~wN(): 
+Proposition 4 There exists a subgame perfect equilibrium of the in repeated game where H workers enter every period, employers choose e wage con- tracts i c  c(). Referees choose a worker with proximity , get a wage w~N() and workers get e wage wN() > 0. If referees choose  <  ~ 
+ 
+then the worker cheats and is caught with probability q, and the referee gets V 
+P 
+R 
+(~). Workers always accept an e wage contract if wN() > 0, and if they behave oppor- tunistically, they are ed and never hired again on an e wage contract. 
+We provide a full description of the equilibrium in the Appendix. 
+8 Conclusions 
+In this paper we investigate the mechanisms underlying the use of referrals in low and unskilled labour markets in low income countries. Our main motivation for this comes from India. One important di between un- and low-skilled labour markets and skilled ones is that screening is less of an issue. What appears to be more important for employers is instead moral hazard issue with referrals often used as a worker disciplining device. Put another way, in many jobs there are substantive costs of opportunism to the employer: unexpected shortages, labour turnover, or even (as in the case of nannies and drivers) theft of valuables is a risk given the lack of knowledge of workers and the ease with which documents can be forged. In this scenario referrals involving a trusted source can be very valuable. We model the special case of employee referrals where the referee is carefully selected often 
+17 
+
+========18========
+
+on the basis of a long term relationship with the employer. Our paper shows how the characteristics of the job, and referee can be important predictors of the use of referrals and how the strength of ties between referees and workers can act as a crucial mechanism to induce worker discipline. Overall our results suggest that whenever a  pays e wages, it prefers to hire through referrals exploiting the altruism of workers towards referees to pay lower wages. This holds regardless of referee incentives for referral, i.e. whether UR is increasing or decreasing in . However, when UR is increasing in  the  prefers to choose the highest feasible  and there are no additional costs via referee wages. This is no longer the case when referees have an incentive to choose a lower  than what the  wants. Then referee incentives to ensure that the referee complies with  interests imply that the  chooses a lower . We can divide testable predictions from our paper into two contingent on the underlying utility function of the referee. When UR() is increasing in  then we claim that referee incentives do not matter, referrals will always be used when feasible and the choice of  will be delegated to the referee. We should therefore observe clusters of close relatives in jobs with high costs of opportunism especially when feasibility is not an issue as in industries and jobs where traditional occupational skills are ’inherited’ and passed on through kinship. Comparing workers in dit jobs: we should  a higher incidence of referral in jobs where reliability matters and moreover such jobs should come with higher wages for the referred workers. When UR() is decreasing in  then referee incentives and job characteristics, both become important predictors of referrals. Detailed predictions on how the incidence of referrals and strength of ties depends on referee characteristics vary with the exact reasons for why referees may want to refer workers. In contrast to the existing literature an important contribution is to show that referee favouritism is not always bad, that referee incentives matter but not necessarily in the expected ways. We would like to extend the model to explore other plausible UR functions and also to screening. 
+18 
+
+========19========
+
+References 
+Bandiera, O., I. Barankay and I. Rasul (2009), Social connections and incentives in 
+the workplace: evidence from personnel data, Econometrica, 77(4), pp. 1047- 
+94. 
+Barr and Oduro (2002), Ethnic Fractionalization in an African Labour market, Jour- 
+nal of Development Economics, 68(2), pp. 355-379. 
+Beaman, L. and J. Magruder (2010), Who gets the job referral? Evidence from a 
+social networks experiment, The American Economic Review, forthcoming. 
+Calvo-Armengol, A. and M. Jackson (2004), The e of Social Networks on Em- 
+ployment and Inequality, The American Economic Review, Vol. 94, No.3, 
+pp.426-454. 
+Casella, A. and N. Hanaki, (2008), Information channels in labor markets: On the 
+resilience of referral hiring, Journal of Economic Behavior & Organization, 
+Elsevier, vol. 66(3-4), pages 492-513. 
+de Neve, G. (2008), We are all sondukarar(relatives): kinship and its morality in an 
+urban industry of Tamil Nadu, South India, Modern Asian Studies, 42(1), pp. 
+211-46. 
+Fafchamps, M. and A. Moradi (2010), Referral and job performance: evidence from 
+the Ghanaian Army, CSAE Working Paper, Department of Economics, Uni- 
+versity of Oxford. 
+Fernandez, R., E.J. Castilla and P. Moore (2000), Social Capital at Work: Networks 
+and Employment at a Call Center,, American Journal of Sociology, 105(5), pp. 
+1288-1356. 
+Gore, M. S. (1970), Immigrants and neighbourhoods: Two aspects of life in a metropoli- 
+tan city, Tata Institute of Social Sciences, Bombay. 
+Granovetter, M. (1973), The Strength of Weak Ties, American Journal of Sociology, 
+78, pp.1360-80. 
+Granovetter, M. (1995), A Study of Contacts and Careers,The University of Chicago 
+Press. 
+19 
+
+========20========
+
+Greico, M. (1987), Keeping it in the family: Social Networks and Employment 
+Chances Tavistock Publishing, London. 
+Heath, R. (2010), Why do  hire using referrals? Evidence from Bangladeshi 
+Garment Factories, Unpublished manuscipt. 
+Holmstrom, M (1984), Industry and Inequality: the Social Anthropology of Indian 
+Labour,Cambridge University Press. 
+Ioannides, Y. M. and L. D. Loury (2004), Job information networks, neighbourhood 
+e and inequality, Journal of Economic Literature, 42(4), pp. 1056-93. 
+Iversen, V., K. Sen, A. Verschoor and A. Dubey (2009), Job-recruitment networks 
+and migration to cities in India, Journal of Development Studies, 45(4), pp.522- 
+43. 
+Iversen, V. and G. Torsvik (2010), Networks, middlemen and other (urban) labour 
+market mysteries, Indian Growth and Development Review, 3(1), pp.62-80. 
+Iversen, V. and G. Torsvik (2011), Network mechanisms and social ties in markets 
+for low- and unskilled jobs: Evidence from North-India, Draft. 
+Kajisa, K (2007), Personal networks and agricultural employment: the case of a 
+farming village in the Philippines, Economic Development and Cultural Change, 
+55(4), pp. 669-708. 
+Karlan, D., M. Mobius, T. Rosenblatt and A. Szeidl (2009), Trust and Social Col- 
+lateral, Quarterly Journal of Economics, 124(3), pp.1307-6. 
+Kim, S. K. (1987), Class struggle or family struggle?: The lives of Women Factory 
+workers in South Korea. Cambridge University Press, Cambridge. 
+Kono, H. (2006), Employment with connections: negative network e Journal 
+of Development Economics, 81, pp. 244-258. 
+Kugler, A. (2003), Worker referrals and e wages, Labour Economics 10, pp. 
+531-556. 
+Marsden, P. and E. Gorman (2001), Social Networks, Job changes and Recruitment, 
+in I. Berg and A.L. Kalleberg (eds) Sourcebook of Labor Markets: Evolving 
+Structures and Processes Kluwer Academic Publishers, New York. 
+20 
+
+========21========
+
+Mitra, A. (2010), Migration, Livelihood and Well being: Evidence from Indian city 
+slums, Urban Studies, 47(7), pp.1371-1390. 
+Montgomery, J. (1991), Social Networks and Labour Market outcomes: Towards an 
+Economic Analysis American Economic Review, 81, pp. 1408-18. 
+Mortenson, D. and T. Vishwanath (1994), Personal Contacts and Earnings: it is 
+who you know!, Labour Economics, 1(2), pp. 187-201. 
+Pellizari, M. (2010), Do friends and relatives really help in getting a good job?, 
+Industrial and Labour Relations Review, 63(3), pp. 494-510. 
+Pollard, S. (1963), Factory Discipline in the Industrial Revolution, The Economic 
+History Review, 16(2), pp. 254-71. 
+Rees, A. and George P. Shultz, (1970), Workers in an urban labour market,Chicago: 
+University of Chicago Press, 1970. 
+Saloner, G. (1985), The Old Boys Network as a screening mechanism, Journal of 
+Labour Economics, 3, pp. 255-67. 
+Shapiro, C. and J. E. Stiglitz (1984), Equilibrium Unemployment as a Worker Dis- 
+cipline Device,’The American Economic Review, 74(3), pp. 433-444. 
+Simon, C. J. and S. Warner (1992) Matchmaker, matchmaker: the e of old boy 
+networks on job-match quality, earnings and tenure,Journal of Labor Eco- 
+nomics 10(3), pp. 306-30. 
+Topa, G. (2003) Social Interactions, Local Spillovers and Unemployment Review of 
+Economic Studies 68(2), pp. 261-95. 
+Wahba, J. and Zenou, Y(2005), Density, social networks and job search methods: 
+Theory and application to Egypt, Journal of Development Economics, 78(2), 
+443-473. 
+21 
+
+========22========
+
+Appendix 
+8.1 Proposition 4: Equilibrium strategies: 
+The steady state stock of workers is H (as discussed in section (2)). Workers always choose e wages as long as wN()  w: If they choose e wages they never behave opportunistically. If workers behave opportunistically and are caught (which happens with probability q) then employers  them and never hire them again on an e wage contract. This is supported by the beliefs that such a worker will cheat again. 
+The rest is obvious in the solution of the optimal contract among the set of stationary contracts. 
+8.2 Figures 
+0 =High skill levels to 8 = low skills. 
+22 
+
+========23========
+
+  
+23 
+
+========24========
+

@@ -1,0 +1,2763 @@
+December 2010 
+No.31 
+Trade and Synchronization in a Multi-Country Economy 
+Luciana Juvenal and Paulo Santos Monteiro Federal Reserve Bank of St Louis and University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Trade and Synchronization in a Multi-Country Economy 
+Luciana Juvenaly Federal Reserve Bank of St. Louis 
+Paulo Santos Monteiro University of Warwick 
+December 12, 2010 
+Abstract 
+Substantial evidence suggests that countries or regions with stronger trade linkages tend to have business cycles that are more synchronized. The standard international business cycle framework cannot replicate this  In this paper, we study a multi-country model of international trade with vertical trade linkages, imperfect competition, and variable markups. We embed it in a real business cycle framework by including aggregate technology shocks and allowing for a variable labor supply. A carefully calibrated version of the theoretical economy that  the model to data on the bilateral trade volume between 210 distinct country-pairs explains between 20 and 41 percent of the relation between trade intensity and business cycle synchronization. We provide empirical evidence supporting the model’s predictions for the association between trade costs and business cycle synchronization, and exchange rate volatility and business cycle synchronization. 
+Keywords: Trade Integration, Business Cycle Synchronization. JEL Classi F15; F41; E30. 
+We are grateful to Jean Imbs, B. Ravikumar and seminar participants at the Federal Reserve Bank of St. Louis for useful comments. Brett Fawley provided outstanding research assistance and Judy Alhers excellent editorial assistance. The views expressed are those of the authors and do not necessarily rect o positions of the Federal Reserve Bank of St. Louis, the Federal Reserve System, or the Board of Governors. 
+yCorresponding author: Research Division, Federal Reserve Bank of St. Louis, P.O. Box 442, St. Louis, MO 63166-0442. Email: luciana.juvenal@stls.frb.org. 
+1 
+
+========2========
+
+1 Introduction 
+Substantial empirical evidence suggests that countries or regions with stronger trade linkages have 
+more correlated business cycles. Frankel and Rose (1998), Clark and van Wincoop (2001), Calderon, 
+Chong, and Stein (2007), Baxter and Kouparitsas (2004), and Imbs (2004), among others, show that 
+pairs of countries that trade with each other exhibit a high degree of business cycle comovement. 
+These  have been interpreted as evidence that trade integration leads to business cycle 
+synchronization. 
+From a theoretical perspective, however, international business cycle models have had diy 
+in replicating this empirical fact (see Kose and Yi, 2001, and Kose and Yi, 2006). In the latter 
+paper, the authors’ baseline model explains one-tenth of the responsiveness of comovement to trade 
+intensity. This has given rise to the so-called trade-comovement puzzle: Standard models are unable 
+to generate high output correlations arising from high bilateral trade intensity. 
+These models are either two-country or three-country representations of the world economy. 
+However, it is likely that pairs of countries with higher bilateral trade intensity also share substantial 
+trade linkages with common trading partners. A two-country or three-country model is unable to 
+capture this feature of the data and leads to an attenuated link between trade and business cycle 
+synchronization. Instead, by considering a multi-country world economy and calibrating the model’s 
+trade costs to match each bilateral trade volume we capture both the bilateral trade linkages and 
+the trade linkages with common trading partners. 
+Therefore, we consider a model that consists of 21 countries, as is the case in our data sample. 
+We calibrate the model’s trade costs to match each country-pair’s bilateral trade volume|that 
+is, there are 210 country-pairs. We assess the model’s ability to generate high business cycle 
+correlations between countries with strong trade linkages. The model is quite successful at solving 
+the trade-comovement puzzle. Quantitatively, it explains up to 41 percent of the empirical relation 
+between trade intensity and comovement. 
+Our theoretical framework contains the following ingredients: vertical trade linkages, imperfect 
+competition, and trade costs. In particular, we build on Bernard, Eaton, Jensen, and Kortum 
+(2003), and allow for endogenous markups to vary across producers of dit e who set 
+prices a la Bertrand. Our proposed mechanism operates as follows: 
+2 
+
+========3========
+
+(i) Higher trade costs decrease the level of vertical specialization and, hence, trade intensity. 
+(ii) At lower levels of vertical specialization, there are fewer opportunities for countries to bene 
+from foreign e shocks, reducing comovement. 
+(iii) Trade costs lead to a failure of the relative purchasing power parity (PPP) relation and 
+increased exchange rate volatility. 
+In this way higher trade costs prevent arbitrage, which generates pricing-to-market, reduces 
+trade, and hampers the transmission of shocks across countries, lowering business cycle synchroniza- 
+tion.1 Instead, if trade costs are absent, there is full vertical specialization and price discrimination 
+is not possible. In this case, the business cycles are perfectly synchronized and the PPP relation 
+holds perfectly. Given that pricing-to-market is associated with higher exchange rate volatility, our 
+model contains two additional predictions: (i) Exchange rate volatility is higher for countries with 
+higher trade costs; and (ii) higher exchange rate volatility is associated with lower business cycle 
+synchronization. We use a measure of bilateral transaction costs to provide empirical evidence 
+supporting these predictions. 
+In addressing the association between trade and comovement, the literature has suggested the 
+importance of the key elements of our model. The role of vertical integration was highlighted 
+in Burstein, Kurz, and Tesar (2008). The authors show that countries with tighter links in the 
+chain of production exhibit higher bilateral manufacturing output correlations.2 
+Arkolakis and 
+Ramanarayanan (2009) develop an international business cycle model augmented with vertical 
+specialization. Although vertical specialization provides a potential mechanism for the model to 
+generate increased business cycle correlation with higher trade, this mechanism is not sutly 
+strong. The authors note that an extension of their setup to a model with more than two countries, 
+calibrated to match bilateral trade shares would be essential to address this question. Our paper 
+shows that a multicountry model featuring imperfect competition that is carefully calibrated to 
+match bilateral trade shares goes a long way towards resolving the trade-comovement puzzle. 
+1The term pricing-to-market refers to the decision by a single producer to change the relative price at which she sells her output abroad and at home in response to changes in international relative costs. 
+2In a recent paper, Di Giovanni and Levchenko (2009) emphasize the empirical relevance of vertical linkages in production to explain the e of bilateral trade on business cycle synchronization. 
+3 
+
+========4========
+
+Our theoretical model considers a setting with balanced trade (i.e., nancial autarky). Heath- 
+cote and Perri (2002) show that the nancial autarky economy is closest to the data along most 
+dimensions compared with the complete markets economy and the bond-only economy. In particu- 
+lar, the  autarky model better accounts for the observed cross-country output, consumption 
+and employment correlations. Kose and Yi (2006)  that  autarky helps to resolve the 
+trade-comovement puzzle. 
+The remainder of the paper is organized as follows. In Section 2, we present the equilibrium 
+model of trade and the business cycle that we use to analyze the relation between trade integration 
+and business cycle synchronization. The model results are presented in Section 3. In Section 4, we 
+estimate the Frankel and Rose (FR, 1998) regressions using our data and sample period and assess 
+the potential of our model to replicate the empirical relation between trade and comovement. We 
+also investigate further the empirical link between trade costs, real exchange rate volatility, and 
+business cycle synchronization. Finally, Section 5 concludes. 
+2 The Theoretical Economy 
+In this section we develop a simple model of the link between trade integration and business cycle 
+synchronization. The setup of the model builds on Bernard et al. (2003). The global economy 
+consists of K countries, each represented by a continuum of unit measure of identical and in 
+lived households. In each period of time t, the global economy experiences one of  many 
+states, or events, st. We denote by st = (s0; : : : ; st) the history of events through period t. The probability, as of period 0, of any particular history st is (st). The initial realization s0 is given. 
+2.1 Technology and Market Structure 
+Each country consumes a non-traded  good that is produced competitively by domestic  
+good  The representative od  in country i makes use of a continuum of diti- 
+ated manufactured intermediate commodities indexed by n 2 [0; 1] that are combined as follows 
+ 
+Yi 
+ 
+Z 
+1 
+1= 
+st = Xi 
+ 
+n; st dn ; 
+0 
+(1) 
+4 
+
+========5========
+
+where Yi 
+ 
+st is od output in country i, and Xi 
+ 
+n; st is the input of the ditiated 
+intermediate commodity of type n. The parameter  2 (0;1) relates to the elasticity of substitution 
+across ditiated intermediate commodities, given by  = 1=(1 
+ ). Hence, the demand in 
+country i for intermediate variety n satis the relation 
+" # 
+Xi 
+ 
+n; st = 
+pi 
+ 
+n; st 
+  
+Pi (st) 
+Yi 
+ 
+st; where pi 
+ 
+n; st is the price of intermediate variety n in country i and 
+(2) 
+ 
+ Z 
+1 
+1=(1 
+) Pi st = pi 
+ 
+ 
+n; st dn 
+0 
+is the ideal price index in country i of the al good. 
+Trade barriers: The ditiated intermediate commodities are subject to trade barriers taking 
+the form of an iceberg cost: To successfully deliver in country j one unit of any ditiated 
+intermediate commodity produced in country i, ji  1 units need to be shipped, with ii = 1. 
+Intermediate-good sector: The structure of the intermediate-good sector is inspired by Bernard 
+et al. (2003) and, in particular, we treat productivity di across producers adopting a 
+probabilistic formulation. Each intermediate commodity n 2 [0; 1] has many potential producers 
+in each country. However, these  di in productivity|indexed by ’. The kth most ent producer of commodity n in country i requires 1= 
+’n  
+ki 
+st units of the input bundle to produce one unit of the intermediate good. The unit cost of the input bundle in country i is !i. Therefore, the 
+cost for the kth most et producer in country i of delivering in country j a unit of intermediate 
+commodity n is 
+ 
+zkji 
+ 
+ 
+n; st = 
+!i 
+’nki (st) 
+ji: 
+It follows that the most et potential supplier of commodity n to country j faces the cost 
+(3) 
+Z1j 
+ 
+n; st = minz1i 
+ 
+ji 
+n; st: 
+(4) 
+We assume that the individual-goods producing  are engaged in imperfect competition. In 
+particular, the price charged for each intermediate commodity is assumed to be determined from 
+Bertrand competition. Hence, each country j is captured by the lowest-cost supplier to that market 
+5 
+
+========6========
+
+but this supplier is constrained to not charge a price higher than the second-lowest cost of supplying 
+the market. If the lowest-cost supplier to country j is a country i  the price set by this  
+cannot exceed 
+ 
+  Z2j n; st = min z2ji 
+ 
+n; st;minz1i0=i 
+ 
+ji0 
+n; st : 
+6 
+(5) 
+Therefore, if the lowest-cost supplier to country j is a country i  this rm is directly competing 
+against the second-lowest-cost supplier from country i and the lowest-cost supplier from the other 
+countries. 
+However, equation (5) is not enough to characterize the equilibrium price charged by the  
+capturing the market as it imposes only an upper bound to the price charged by the lowest-cost 
+supplier. In equilibrium, the  capturing each market either sets a price equal to the upper 
+bound or, if the upper bound is higher than the monopoly price, the  charges the monopoly price, given by Z1j 
+ 
+n; st 
+=. It follows that the price in country 
+j of each intermediate commodity n is given by 
+pj 
+ 
+n; st = j 
+  
+{z 
+n; st| 
+} 
+Z1j n; st 
+endogenous markup 
+ 1 
+(6) 
+= min Z2j 
+ 
+n; st; 
+Zj (n;st) 
+ 
+: 
+Suppose that the same  (a country i  is the lowest-cost supplier to both country j and country i. There is pricing-to-market when the change in the markup in export price, j 
+ 
+n; st 
+, di from the change in the markup in domestic prices, i 
+ 
+n; st 
+. The markup in country 
+j is given by 
+ 
+ 
+j n; st = min j 
+ 
+n; st; 
+1 
+ 
+; 
+with j 
+ 
+n; st = Z2j 
+ 
+n; st=Z1j 
+ 
+n; st 
+.3 
+Hence, it follows from equations (4) and (5), that the presence of trade costs is a necessary condition for pricing-to-market to arise. In the absence of 
+trade costs, the law of one price is satis for each intermediate commodity and the PPP condition 
+holds perfectly. 
+Complete characterization of the equilibrium prices requires the speci of how the e 
+ciencies are distributed across  and countries. We follow Bernard et al. (2003) and model 
+3See Appendix A.3 for details. 
+6 
+
+========7========
+
+ e using a probabilistic approach: It is assumed that the joint distribution of the 
+lowest-cost supplier and of the second-lowest-cost supplier from country i is characterized by the 
+following cumulative distribution function: 
+Fi 
+ 
+’1; ’2;st = 
+h 
+= 
+ ’1; ’2i  ’2 
+P rob’1i 
+st 
+ 
+1 + Ti st ’ 
+ 
+2 
+ 
+where 0  ’2  ’1.4 
+ 
+ 
+ ’ 
+  
+1 
+exp  Ti 
+ 
+st’2 
+  
+; 
+(7) 
+ 
+The parameter  > 1 controls the degree of heterogeneity across  with higher  implying less heterogeneity. Given , the parameter Ti st 
+ 
+determines aggregate productivity and is both stochastic and country speci 
+Z1j 
+ 
+n; st 
+ the following cumulative distribution function: 
+h 
+Gj 
+ 
+Z1; Z2;st 
+ 
+Using equations (3), (4) and (5), it follows that the implied joint distribution of the lowest-cost, 
+, and second-lowest-cost, 
+Z2j n; st, of supplying commodity n in country j is given by 
+i = P rob Z1j st  Z1; Z2j st  Z2 st 
+= 1 
+ 
+ 
+ 
+ j 
+ 
+stZ1 exp  j 
+ 
+stZ2 ; 
+(8) 
+ exp j stZ1 
+for Z1  Z2. The aggregate stochastic variable j st is given by 
+XK 
+j st = Ti st(!iji) 
+ 
+ 
+i=1 
+ 
+ 
+ 
+(9) 
+and determines the distribution of prices and markups. The result is that aggregate  
+in country j are determined by the behavior of this variable. In particular, in equilibrium the ideal 
+price index in country j of the  good is given by 
+Pj st = j st 
+1= 
+; 
+ 
+where  is a positive constant.5 
+ 
+ 
+(10) 
+The numeraire good: We assume that production of each manufactured intermediate commodity 
+combines labor and a homogeneous, nonmanufactured input, with labor having a constant share 
+ 
+ 
+ 
+5 
+= 
+4This joint distribution is a generalization of the univariate Frechet distribution. 
+ 
+  
+ 
+  
+1 
+ 1  2 
+1=(1 
+) 
+1+   
+, where  :) is the Gamma function. See Appendix A.3 for 
+1 
+ 
+1  
+ 
+ 
+ 
+ 
+ 
+details. 
+7 
+
+========8========
+
+. The nonmanufactured input is freely traded and is used as the numeraire. It is produced under 
+constant returns to scale using only labor, with one unit of labor in country i producing Wi units of the nonmanufactured commodity. Labor is immobile across countries but mobile across sectors. 
+Therefore, the wage rate in country i is Wi. Moreover, it follows that !i, the unit cost of the input bundle in country i, is equal to Wi : 
+Stochastic technology shocks: In each period t = 0;1; : : :, the event st yields a realization for the stochastic technology level in each country, Ti 
+ 
+st 
+. In particular, it is assumed that the  in each country’s technology level obey a dynamic factor structure and can be decomposed, without 
+loss of generality, as follows: 
+lnTi 
+ 
+st =  
+ 
+st + i 
+ 
+st; (11) where  
+ 
+st captures the common component of the technology stochastic process, and i 
+ 
+st 
+denotes the country-speci portion of the technology stochastic process. Any positive correlation across Ti 
+ 
+st 
+, for 
+i = 1; : : : ; K, is captured in the common component,  
+ 
+st.6 
+The common component  
+ 
+st follows a serially correlated discrete Markov process. In partic- 
+ular, we use a  state Markov process with states and transition probabilities set to approximate 
+the continuous autoregressive model given by (up to a constant) 
+ 
+ 
+st =  
+ 
+st 
+ 1 
++  (st); 
+(12) 
+where  (st) is a normally distributed and zero-mean i:i:d: shock with standard deviation #. In turn, each country’s idiosyncratic technology component, i 
+ 
+st 
+, follows a serially correlated dis- crete stochastic process independent across countries. For the idiosyncratic components, we also 
+use a  Markov process with states and transition probabilities set to approximate the 
+continuous autoregressive model given by 
+i 
+ 
+st = i 
+ 
+st 
+ 1 
++ i (st); 
+(13) 
+where i (st) is a normally distributed and zero mean i:i:d: shock with standard deviation #. 
+6The common component is included so that the calibration matches the median level of cross-country correlations observed in the data. However, the common component is entirely exogenous and does not a the relation between trade intensity and business cycle synchronization. 
+8 
+
+========9========
+
+Trade barriers and real exchange rate volatility: Fluctuations in the countries’ level of 
+technology lead to  in the terms of trade and the real exchange rate. Moreover, it is 
+clear that unless there are no trade costs, the law of one price does not hold for each intermediate 
+commodity. The consumption-based real exchange rate between country j and country i is given by Qji 
+ 
+st 
+ 
+= Pi 
+ 
+st=Pj 
+ 
+st, where Pj 
+ 
+st is the price of the  good in country j, given by (10). Thus, the real exchange rate can be expressed as 
+ 
+h . i 
+1= Qji st = i 
+ 
+st j 
+  
+st : 
+(14) 
+It follows that the volatility of the real exchange rate falls as the trade costs become smaller. To 
+illustrate this point, suppose ij = ji =   1. Imposing symmetry, the log real exchange rate can be approximated as follows 
+ 
+logQji 
+ 
+ 
+st  
+1   
+T  
+ 
+j 
+st 
+ Ti 
+ 
+st; 
+where  is a positive constant. 
+ 
+7 
+Thus, the variance of the (log) real exchange rate is given by 
+ 
+ 
+ 
+variance of logQji st = 
+1   
+ 
+2 
+ 
+variance of T, (15) 
+and it is immediately apparent that as  falls toward 1 the volatility of the real exchange rate 
+falls towards zero. At high levels of trade costs, country-speci aggregate shocks translate into 
+movements in the domestic price of intermediate commodities but do not imply movements in the 
+foreign price of the commodity since the high trade costs allow producers to price discriminate. 
+However, at low trade costs price discrimination is often precluded and the law of one price holds 
+for many intermediate commodities. In turn, this implies a low volatility of the real exchange rate 
+and, as we will see, the synchronization of business cycles. 
+7See Appendix A.3 for details. 
+9 
+
+========10========
+
+2.2 Preferences 
+The stand-in household in country i has preferences represented by a utility function of the form 
+introduced by Greenwood, Hercowitz, and Hu (1988), given by 
+" #t 
+u 
+ 
+Ci; Ni;st = ln Ci 
+ 
+st   
+Ni 
+ 
+s 
+1+ 
+1 +  
+(16) 
+where Ci and Ni are consumption and time spent working by the stand-in household, respectively. 
+The parameter  is the inverse of the Frisch elasticity of labor supply and  > 0. The choice of 
+preferences excludes wealth e and therefore excludes intertemporal substitution in the labor 
+choice.8 For simplicity, we assume that there are no international  markets so that the 
+bilateral trade balance between any country-pair must always be zero.9 Moreover, the country i 
+ are owned fully by country i residents. Hence, the period budget constraint faced by the 
+stand-in household in country i is 
+Pi 
+ 
+stCi 
+ 
+st = WiNi 
+ 
+st + i 
+ 
+st; 
+(17) 
+where i 
+ 
+st are the aggregate pro of intermediate  in country i. The  condition 
+solving the household problem in country i is 
+" # 
+Ni 
+ 
+st = 
+Wi i 
+ 
+st1= 
+  
+: 
+(18) 
+2.3 Macroeconomic Aggregates 
+The probability ji that country i is the lowest-cost supplier to j for any particular intermediate commodity is given by 
+t 
+ji 
+ 
+st = 
+Ti 
+ 
+s 
+(! 
+  
+iji) 
+j (st) 
+: (19) Since the distribution of ditiated intermediate commodity prices in the destination country 
+is independent of the source country i, the measure ji corresponds to country j’s expenditure 
+on country i’s ditiated intermediate goods as a fraction of country j’s total expenditure 
+8In a recent paper, Jaimovich and Rebelo (2009)  evidence favoring a weak wealth e in labor supply choices. 
+9This assumption is obviously not entirely satisfactory; nonetheless, Heathcote and Perri (2002) show that assum- ing l autarky in an international real business cycle model helps resolve important puzzles. 
+10 
+
+========11========
+
+on ditiated intermediate goods. The bilateral trade intensity measure used in our study 
+correspond to one of the measures proposed by FR, which is the sum of a country’s bilateral 
+exports divided by the sum of each country’s aggregate net income. In our theoretical economy 
+this is given by 
+" # 
+ji 
+ 
+stEj 
+ 
+st + ij 
+ 
+stEi 
+ 
+Bilateral trade intensity between j and i  
+st 
+Ej (st) + Ei (st) 
+; (20) where Ei 
+ 
+st is the aggregate consumption expenditure in country i.10 
+Finally, as shown in Bernard et al. (2003), the aggregate share of costs in total revenue for the 
+ditiated intermediate good producers in each country is given by =(1 + ).11 Therefore, the 
+aggregate pro in country i are given by 
+" # 
+i 
+ 
+st = 
+Ei 
+ 
+st 
+1 +  
+: 
+(21) 
+In equilibrium, aggregate expenditure on the  good, Ei 
+ 
+st, must be equal to domestic net income, given by the sum of domestic labor income and pro yielding 
+Ei 
+ 
+  
+st = WiNi 
+ 
+st + 
+1 
+ 
+1+ 
+Ei st 
+= 
+ 
+1+ 
+ 
+WiNi 
+ 
+st 
+It follows that net income in country i measured in domestic prices, Ei 
+ 
+st=Pi 
+ 
+st, is given by 
+ 
+h i1+1= 
+Yi st =  Wii 
+ 
+st1= ; (22) 
+where  = 
+ 
+1+ 
+ 
+ 
+(1=)1= (1=)1+1=. Naturally, market clearing in the good’s market requires Ci 
+ 
+st = Yi 
+ 
+st. To conclude, an equilibrium in our economy is de as follows 
+De 1 An equilibrium for this economy is a collection of allocations for each country i consumers, Ci 
+ 
+st 
+ 
+and Ni 
+ 
+st, allocations and prices for intermediate-good producers, pi 
+ 
+n; st, Xi 
+ 
+n; st 
+, and allocation and prices for od producers 
+Pi 
+ 
+st and Yi 
+ 
+st, such that: (i) the consumer allocations solve the consumers’ problem; (ii) the prices of intermediate-good producers 
+solve their maximization problem; (iii) the od producers’ allocations solve their problem; (iv) 
+10We consider only the trade in manufactured commodities. 11See Appendix A.3 for proofs. 
+11 
+
+========12========
+
+the market-clearing conditions hold. 
+3 Trade and Synchronization in the Theoretical Economy 
+We use a simulation approach to determine whether our model quantitatively reproduces the trade- 
+comovement relation. We simulate several sets of time-series for the world economy and reproduce 
+the FR regressions for each simulation. In this section, we describe the calibration used to evaluate 
+the model and the main  
+3.1 Calibration 
+Before turning to the quantitative  we describe the targets informing the choice of param- 
+eter values used to evaluate the theoretical economy. The number of countries K is set equal to 21 
+to replicate the empirical analysis|implying 210 distinct country-pairs. 
+The list of technology parameters that have to be determined includes the following: the elas- 
+ticity of substitution between intermediate inputs ; the parameter that controls the level of  
+heterogeneity ; the 420 trade-cost parameters ij for each i; j = 1; : : :21, with i 6 = j; the unit cost of the input bundle in each country !i; and the share of labor in the input bundle, . The  two parameters are chosen based on evidence in Bernard et al. (2003), who choose the parame- 
+ters  and  matching the productivity and size advantage of exporters as in the U.S. plant-level 
+data. In particular, the parameter  is chosen to match the productivity advantage of exporters, 
+and the parameter  corresponds to the price elasticity of demand for ditiated intermediate 
+commodities and therefore relates to the size advantage of exporting establishments. The values 
+estimated by Bernard et al. (2003) for  and  are, respectively, 3.60 and 3.79 (see Table 1). 
+[Table 1 about here] 
+The trade-cost parameters ij are chosen to match each country-pair’s bilateral trade volume in the deterministic static-equilibrium, in which Ti 
+ 
+st 
+ 
+= 1 for all i and t. From equation (19) it 
+follows that country j’s expenditure on intermediate commodities manufactured by country i as a 
+share of country j’s total spending in manufactured commodities is denoted as: 
+ ji 
+(!iji) 
+ 
+= 
+PK 
+(!iji) 
+  
+: 
+i=1 
+12 
+
+========13========
+
+If we consider for the purpose of calibration an approximately symmetric world economy (i.e. the 
+same total expenditure in each country), it follows from equation (20) that the bilateral trade 
+intensity between any country-pair j and i is given by (ji + ij)=2. Moreover, assuming !jij  !iji and 
+PK 
+(! 
+  
+ 
+PKiji) 
+  
+i=1 j=1(!jij) 
+for all j; i = 1; : : :21 implies 
+. 
+K 
+Bilateral trade intensity between j and i  (!iji) 
+  
+X 
+(!iji) 
+  
+:12 
+i=1 
+Finally, by normalizing the bilateral trade intensity between country j and country i by the 
+expenditure in domestic manufactured commodities by country j producers, that is given by ! 
+  
+j 
+=PKi=1 (!iji) 
+ , yields the following normalized trade intensity measure: 
+! i 
+! 
+PBilateral trade intensity between 
+j and i 
+!j 
+=  
+  
+1  
+ji 
+: (23) 
+k=j 6 
+Bilateral trade intensity between j and k 
+There are 210 distinct country-pairs and, hence, 420 equations such as (23).13 We use each of 
+these equations to solve for the 420 trade costs ji, matching the bilateral trade intensities (see Table 12). A description of the data can be found in the Appendix A.1. Figure 1 illustrates the calibration’s  Despite the symmetry approximation (i.e., the approximation 
+PK 
+i=1 
+(!iji) 
+  
+ PK 
+(!jij) 
+  
+j=1 
+for all j; i = 1; : : :21) the  is very good. The scatter points are located very close to the 45  degree line, and the correlation between the simulated bilateral trade intensities and the 
+data’s counterpart is 0.9965. The median bilateral trade intensity in the data is 0:0023 while in the 
+simulation it is 0:0029. 
+[Figure 1 about here] 
+Figure 2 illustrates the distribution of the calibrated iceberg costs. Table 2 shows the relation 
+between the calibrated values of the iceberg trade costs and the empirical proxies for trade frictions 
+that we use in Section 4|log distance, border dummy and language dummy. As can be seen, the 
+relation between each of these variables and the iceberg costs has the expected sign. Moreover, the 
+R2 of the regression is quite high: 66 percent. The correlation between the calibrated values of 
+12These approximations are not exact because the countries di in productivity. However, they allow for an analytically tractable calibration, and Figure 1 shows that the approximation errors are very small. In particular, the correlation between the calibrated trade shares and the empirical trade shares is 0.9965. 
+13We allow for 
+ij 6 = ji. 
+13 
+
+========14========
+
+the iceberg costs and the data for transaction costs that we use in Section 4 is 88 percent. These 
+results suggest that our calibrated values of iceberg costs capture well the empirical trade barriers. 
+[Figure 2 about here] 
+[Table 2 about here] 
+The remaining technology parameters that need to be chosen are the unit cost of the input 
+bundle in each country !i and the share of labor in the input bundle . The latter is set equal to 
+0:21 following, once again, Bernard et al. (2003). The unit cost of the input bundle in each country is chosen so that the wage rate, given by Wi = !1=i , is equal to the real total compensation per employee obtained from the OECD and shown in Figure 3 (See Appendix A.1. for details). 
+[Figure 3 about here] 
+The remaining technology parameters that need to be chosen are the parameters of the stochas- 
+tic process for the technology shocks. Three parameters need to be calibrated: the standard 
+deviation of the innovations to the common component of technology and of the innovations to the 
+idiosyncratic components (respectively, # and # ) and the autocorrelation coet , which is assumed to be the same for both the common and the idiosyncratic component. The choice of val- 
+ues for the parameters of the stochastic processes for technology are informed by two targets. First, 
+we choose parameter values so that the theoretical economy is consistent with quarterly aggregate 
+time-series for the U.S. economy|in particular the volatility and autocorrelation of (log and H{P 
+ output. 
+14 
+Second, we choose the standard deviation of the innovations to the common 
+component of technology, #, to match the bilateral output correlation of the U.S. and Belgium (30.89 percent). We choose this specic bilateral correlation as a target because this country-pair 
+bilateral trade share coincides with the median bilateral trade share (0.0023). The resulting value 
+of the autocorrelation coet  is 0.8620 to match the autocorrelation of (log and H{P  
+output in the data (86.20 percent). The parameter values for the innovations’ standard deviations 
+# and # are, respectively, 0:0089 and 0:0143. 
+14We use quarterly time-series to maintain consistency with the empirical results shown in Section 4, which we later use for comparison. 
+14 
+
+========15========
+
+Finally, we need to  the labor supply elasticity parameter . The value for  is chosen so that 
+the standard deviation of (log) hours relative to the standard deviation of (log) output is equal to its 
+empirical counterpart (69.93 percent). This yields a value of  = 0:43. This value implies a Frisch 
+labor supply elasticity of 2:33, which is too high compared with the usual estimates. However, 
+our  regarding the model’s ability to match the relation between trade integration and 
+business cycle synchronization do not change if we set the labor supply elasticity to unity, a more 
+conventional choice. 
+3.2 Findings 
+This section examines whether higher trade intensity in the theoretical economy, resulting from 
+lower transportation costs, leads to higher cross-country output correlations. We answer this ques- 
+tion by proceeding as follows: We use our model of the world economy (composed of 21 countries) to 
+simulate 500 replications of time series for output for each country and the bilateral trade shares for 
+each country-pair.15 Next, we compute the output correlation for each country-pair, and examine 
+the link between trade and business cycle synchronization in the theoretical economy. 
+Table 3 shows the empirical properties of output and hours in the U.S., and the international 
+business cycle correlations for comparison with the theoretical economy, which is calibrated to 
+match the world’s bilateral trade shares. Overall, the theoretical economy matches the data well. 
+Although the median bilateral output correlation in the simulated world economy is relatively close 
+to its empirical counterpart, the distribution of output correlations is much more concentrated in 
+the simulated data than in the actual data. This may indicate that some dimensions of the data 
+are omitted in the theoretical economy. 
+[Table 3 about here] 
+Figure 4 provides a  insight into whether the model replicates the empirical relation between 
+trade and comovement. It compares the empirical data (panels (a) and (b)) with the simulated 
+data from the theoretical economy (panels (c) and (d)). Panels (a) and (c) illustrate the relation 
+between trade intensity and business cycle synchronization, and panels (b) and (d) illustrate the 
+15To mimic the empirical analysis in Section 4, the time series length is 240 quarters. 
+15 
+
+========16========
+
+relation between trade intensity and the real exchange rate volatility. Clearly, the theoretical model 
+of the world economy is successful at qualitatively replicating the positive relation between business 
+cycle synchronization and trade intensity and the negative relation between trade intensity and real 
+exchange rate volatility. 
+[Figure 4 about here] 
+In fact, in the theoretical economy, these two relations are closely linked because of the presence 
+of trade costs, which lead to failures of the law of one price for the intermediate commodities. In 
+particular, deviations from relative PPP at the aggregate level arise as a result of the decisions 
+by individual  to price to market. When the trade costs are absent, price discrimination is 
+not possible and the law of one price holds for each intermediate commodity; therefore, business 
+cycles are perfectly synchronized. However, with higher trade costs, intermediate producers are 
+able to charge dit prices in dit countries. Pricing-to-market by intermediate-good  
+leads to violations of the law of one price. Moreover, higher bilateral trade costs obviously reduce 
+the bilateral trade intensity. Therefore, higher trade costs simultaneously raise real exchange rate 
+volatility|as indicated by equation (15)|and decrease business cycle synchronization. 
+In order to compare the potential of our model to generate high business cycle correlations 
+between countries with stronger trade linkages, we use the simulated data to estimate the following 
+regression equation: 
+ 
+ 
+ji =  +  
+Bilateral trade intensity between j and i 
++ ji; 
+(24) 
+where ji is the correlation between (log) output in country j and in country i. We consider the level of bilateral trade intensity in addition to the logarithm, as suggested by Kose and Yi (2006). 
+Kose and Yi (2006) recommend this speci because they judge that the relation between 
+business cycle synchronization and trade is not a semi-log relation. As they put it, the semi-log 
+speci implies that an increase in trade intensity from 0.1 percent to 0.2 percent would have 
+the same impact on GDP correlation as an increase in trade intensity from 20 percent to 40 percent, 
+which is counter-factual and inconsistent with the international business cycle model. 
+Table 4 reports the estimates for the coet  using the simulated data. The table shows 
+both the level regression results and the semi-log regression. The  coets are 3.520 and 0.028 
+16 
+
+========17========
+
+for the level and semi-log regressions, respectively. 
+[Table 4 about here] 
+3.3 Interpretation of the Findings 
+Country-speci technology shocks propagate internationally by lowering the price of the interme- 
+diate commodities and, therefore, increasing ency in the production of the  good across 
+countries. In particular, two factors combine to explain why the lower the trade barriers are the 
+stronger the propagation of the country-speci shocks. First, with lower trade barriers, the level 
+of vertical specialization increases; therefore, there is more scope for each country to bene from 
+favorable foreign technology shocks. Second, for a given level of vertical specialization, the e 
+ciency gains following a favorable shock are more likely to be transmitted. This follows from the 
+fact that when trade barriers are lower, foreign exporters are compelled by their competitors to 
+pass through the favorable technology shocks, implying lower export prices. The upshot is that 
+when trade barriers are lower, the price of the imported intermediate commodities is more likely to 
+fall following a positive foreign technology shock because foreign exporters are forced to lower their 
+export prices. Hence, country-speci shocks are better transmitted with lower trade barriers. 
+What happens to real exchange rate volatility? The mechanism explaining the positive associ- 
+ation between trade integration and real exchange rate volatility is the same. Given that the al 
+good sector is perfectly competitive, the reduction in the price of intermediate inputs translates 
+fully into a lower price of the al good. With low trade barriers, the country-speci shocks 
+propagate across countries strongly because vertical specialization is high and the transmission of 
+foreign shocks through lower intermediate input prices is easy. Therefore, the prices of the  
+good in each country move together. The result is that when trade barriers are low, real exchange 
+rate volatility is low. 
+Hence, the model predicts: (i) A negative relation between trade barriers and business cycle 
+synchronization; and (ii) a positive relation between real exchange rate volatility and trade barriers. 
+17 
+
+========18========
+
+4 Relation Between Trade and Comovement: Model vs Data 
+In this subsection, we reproduce the well-known empirical link between trade integration and busi- 
+ness cycle synchronization shown in FR. Our results con the positive and signit relation 
+between trade and comovement. We also estimate an augmented version of the FR benchmark 
+regression that controls for both  integration and trade intensity. In this case the posi- 
+tive link between trade and comovement remains robust. However, the et of trade intensity on 
+comovement is attenuated once we control for  integration.16 
+We then assess the potential of our model to replicate the empirical relation between trade and 
+comovement. Our  indicate that our theoretical model explains up to 41 percent of the 
+empirical relation between trade intensity and business cycle synchronization. In this way, it is 
+successful in solving the trade-comovement puzzle. 
+Our model outlined in Section 2 contains two other predictions. First, correlations should be 
+lower for countries with higher trade costs. Second, exchange rate volatility is higher for countries 
+with higher trade costs. We provide empirical evidence supporting this link. 
+4.1 Link Between Trade Integration and Comovement 
+In this subsection we replicate the estimation method of FR on our data and sample period. Our 
+estimated regression is as follows: 
+ ji =  +  ln T radeji 
+ 
++ "ji; 
+(25) 
+ where ji is the GDP correlation between country j and country i, ln T radeji 
+ 
+is the logarithm 
+of the average bilateral trade intensity measure, and "ji is an error term. Moreover, as suggested by Kose and Yi (2006), we estimate a second equation, given by 
+ji =  +  T rade 
+ji 
++ "ji; 
+(26) 
+where instead of using the measure of trade intensity in logs, we consider the level of trade intensity. 
+When we later compare the data to our theoretical economy, the benchmark we use for comparison 
+is the levels regression, although we also report results for the semi-log regression for completeness. 
+16As highlighted later this point was addressed by Imbs (2004). 
+18 
+
+========19========
+
+In any case, we are interested in the sign and magnitude of the regression coet . A 
+positive  indicates that increased trade integration generates more synchronized business cycles. 
+However, the OLS estimation of equations (25) and (26) is likely to be biased.17 
+The issues of 
+simultaneous causation and omitted variable bias are likely to be serious given that trade integration 
+is endogenous. For this reason we use a GMM instrumental variable estimator to identify the e 
+of trade integration on business cycle correlation. The instrumental variables used are in accordance 
+with the gravity model of trade. In particular, we use the natural logarithm of distance between 
+the business centers of the country-pairs, a dummy variable that takes the value of 1 when the 
+countries share a common border, and a dummy variable that indicates if the country-pair shares 
+a common language. Each of these variables is expected to be correlated with bilateral trade but 
+uncorrelated with other conditions that may act bilateral correlations. We show the OLS results 
+in Table 5. The instrumental variable (IV) results including the  regression are presented 
+in Tables 6 and 7. 
+4.2 Estimation 
+The OLS estimates of  in Table 5 indicate that there is a positive association between trade 
+integration and comovement. The specication (in levels) is shown in column (1) and the semi-log 
+speci in column (2). The coet  takes the value 10.864 in the levels regression and 
+0.090 in the log regression. 
+Finally, we notice that the residuals in regressions (1) and (2) are correlated with the level 
+of trade intensity.18 This implies the presence of an endogeneity bias; hence, in what follows we 
+explore the IV regressions. 
+As expected, the IV estimation results are in line with the OLS estimation and are actually 
+stronger. Table 6 presents the  regression of bilateral trade intensity on our three IVs. The 
+estimates in columns (1) and (2) support the predictions of the gravity model of trade. Distance 
+has a negative e on trade intensity, and countries tend to trade more when they share a border 
+or have a common language. 
+[Table 5 about here] 
+17We nevertheless report the OLS regression results below. 18These results are not reported. 
+19 
+
+========20========
+
+[Table 6 about here] 
+Table 7 shows the IV estimates of the  coet. Overall, the IV estimates of  con the 
+seminal result by FR: Trade intensity has a positive and signit e on GDP correlation. Our 
+benchmark speci in levels yields a coet equal to 17.250 (column (1)). For the semi-log 
+speci the  coet is 0.102 (column (2)). 
+The slope coet from the level regression implies that a doubling of the median trade 
+intensity (a level increase of 0.0023) is associated with an increase in GDP correlation of 0.0397. 
+In the log regression, the  coet implies that doubling the trade intensity leads to an increase 
+of 0.069 in GDP correlations. Our estimates are slightly higher than those generally reported in 
+the literature. For example, Kose and Yi’s (2006) estimates imply increases in GDP correlations 
+of 0.029 for the levels regression and 0.063 for the logs regression.19 By contrast, FR’s estimates 
+imply that doubling trade intensity increases GDP correlations by 0.033. 
+[Table 7 about here] 
+4.2.1 Accounting for Financial Integration 
+In their empirical work, FR control only for bilateral trade intensity. As noted by Imbs (2004), 
+international trade plays a relatively moderate role in transmitting business cycles across countries 
+after controlling for  integration and patterns of specialization. This result has important 
+implications for the relation we are assessing. Thus, we estimate an augmented version of equation 
+(26) that includes a measure of  integration: 
+ji =  +  T rade 
+ji 
++  F in 
+ji 
++ "ji; 
+(27) 
+where F inji is the bilateral cross-country bank stock of assets and liabilities divided by the sum of the countries’ GDP. We estimate Equation (27) using IVs. Portes and Rey (2005) show that gravity 
+variables explain international transactions in  assets and goods.20 Therefore, we use this 
+result to also instrument F inji using distance, border and language. For the sake of completeness, we also estimate the semi-log model. 
+19One source of di is the data span. Kose and Yi (2006) consider data from 1970-2000. 
+20Lane and Milesi-Ferretti (2008) show that country portfolios are strongly biased towards trade partners. They also  that gravity variables such as distance and common language are associated with bilateral asset holdings. 
+20 
+
+========21========
+
+The  results are shown in columns (3) and (4) of Table 6. Overall, we con that 
+the gravity variables are good instruments for the level of  integration. The R2 is high and, 
+except for the border dummy variable, all the covariates are signit. In particular, distance has 
+a negative and signit e on  integration, while language has a signit positive 
+e 
+The results of the IV estimation are shown in Table 8. The regression in column (3) yields 
+a signicant e of trade on output correlation. However, compared with the IV model that 
+does not include nancial integration (shown in Table 7), the  coet drops substantially, from 
+17.250 to 8.537. Moreover,  integration has a positive and signit e on business cycle 
+synchronization.21 By contrast, the log regression presented in column (4) yields a  coet 
+equal to 0.106, which is similar to the one reported in Table 7. Thus, the IV estimate of  in the 
+model with  integration seems robust. 
+[Table 8 about here] 
+4.3 Quantitative Assessment of the Relation Between Trade and Comovement 
+In this subsection, we compare the average FR regression coet obtained using the simulated 
+data with the empirical counterpart. Table 9 summarizes the empirical estimates of the coet 
+, and compares it with the coet obtained using the simulated data in Section 3. In the 
+level regression, we see that the OLS estimate of  for the simulated data is about one-third of the 
+size of the OLS coet for the empirical data|it is 10.864 for the data, compared with 3.520 
+for the theoretical economy. Thus, if we assume the OLS model is well speci our benchmark 
+theoretical economy explains 32 percent of the empirical relation. Figure 4 considers the linear 
+regression equation (24) estimated using the simulated data from the theoretical economy and 
+contrasts it with the empirical relation between trade intensity and output correlations. 
+[Table 9 about here] 
+21These results agree with those of Imbs (2006), who  a positive association between  integration and GDP correlation. 
+21 
+
+========22========
+
+However, there are reasons to believe that the simple OLS model is inappropriate. Trade 
+intensity is, of course, endogenous and many potential determinants of bilateral trade (e.g., bilateral 
+exchange rate regime,  integration) are likely to in business cycle synchronization. 
+Indeed, it is clear from the scatter plot in Figure 4a that the residuals of the OLS regression 
+are not independent of the explanatory variable. Therefore, the coet  in equation (24), 
+which is estimated in the sample of the simulated data, should be compared with the empirical 
+instrumental variable counterpart. Table 9 addresses this comparison. The baseline model|labeled 
+(1)|is estimated by GMM, instrumenting with the usual gravity variables. While the theoretical 
+economy explains 32 percent of the OLS relation, it explains only about 20 percent of the relation 
+estimated using IVs. 
+An important potential source of omitted variable bias is related to the level of  inte- 
+gration. Indeed, the analysis by Imbs (2004) indicates that countries with strong  links 
+are signitly more synchronized. Moreover, as discussed previously, many of the determinants 
+of trade also contribute to explain the level of  links. Hence, not including this variable 
+may be an important source of bias. Therefore, instead of the baseline regression, we consider a 
+second specieled (2)|that controls for the level of  integration. Once again, 
+we consider the OLS and the GMM estimates of , the coet on trade intensity. The ex- 
+planatory power of the model increases once we control for the level of  integration. In 
+particular, the model explains 41 percent of the IV relation between trade intensity and business 
+cycle synchronization, after controlling for the level of  integration. 
+[Figure 5 about here] 
+[Figure 6 about here] 
+The importance of controlling for the level of  integration is well illustrated by Figures 5 
+and 6, which compare the empirical relation with the theoretical economy’s predicted relation 
+between bilateral trade intensity and business cycle synchronization. The scatter plot in Figure 5 
+clearly shows that the best linear predictor of the empirical data points is far from the 95 percent 
+con interval corresponding to the model’s predicted relation between trade and comovement. 
+The slope of the empirical best linear predictor is very dit from the slope of the theoretical 
+22 
+
+========23========
+
+economy’s best linear predictor. However, if there are omitted variables, the model is misspeci 
+Therefore, we control for the level of  integration. The importance of doing this can be 
+seen from Figure 6. The scatter points show in the vertical axis the adjusted bilateral correlation, 
+corresponding to the predicted value for the bilateral correlation after controlling for the dis 
+in the levels of ancial integration, given by 
+h  ^ji = 
+^bIV0 
++^bIV2 Average  integration 
+ 
+ 
+ 
+Fin. integration between j and i 
+; 
+where \Average  integration" is the sample average of the bilateral  integration measure and 
+^bIV 
+are the IV coet estimates. The  shows that if country-pairs did not vary in 
+their bilateral levels of  integration, the best linear  of the data would be within the 95 
+percent con interval for the theoretical economy’s predicted relation between trade intensity 
+and business cycle synchronization. The slope of the empirical best linear predictor (equal to 3.282) 
+is very close to the slope of the best linear predictor for the simulated economy (equal to 3.520). 
+Thus, the  of the theoretical model improves substantially once we control for the level of  
+integration. 
+Finally, the right side of Table 9 considers the semi-log speci Overall, the  are 
+not very dit from the model in levels. In particular, the OLS regression coet for the 
+theoretical economy is about 31 percent of the empirical counterpart and the IV coet is 27 
+percent. Overall, we believe the model in levels is more reliable, although the quantitative  
+are not too sensitive to the choice of model speci The model explains between 20 percent 
+and 41 percent of the empirical relation between trade and business cycle synchronization. 
+4.4 Trade Barriers, Comovement and Real Exchange Rate Volatility 
+Our theoretical model predicts that countries with higher trade costs will be associated with lower 
+GDP correlations and higher real exchange rate volatility. In order to assess these predictions we 
+construct an empirical measure of trade costs based on Novy (2008), (see Appendix A.2 for details). 
+We estimate the following regression: 
+ji =  + tcji + "ji; 
+(28) 
+where the variable labeled tcji is the trade cost between country j and country i. 
+23 
+
+========24========
+
+The results in Table 10 indicate a negative association between trade costs and business cycle 
+synchronization. This relation is important for our explanation of the trade-comovement link. 
+Speci, if the presence of trade barriers reduces trade and decouples the international business 
+cycle, then we would expect higher trade costs to be associated with lower output correlation. 
+[Table 10 about here] 
+We also estimate 
+rervolji =  + tcji + "ji; 
+(29) 
+where rervolji is the volatility of the real exchange rate between country j and country i. The results con that trade barriers increase real exchange rate volatility, as predicted by our theoretical 
+model. 
+5 Conclusion 
+The positive relation between trade intensity and business cycle comovement has been documented 
+in a broad literature. However, it is di for theoretical models to replicate this relation. 
+We developed a multi-country international business cycle model with vertical trade linkages, 
+imperfect competition, and endogenous markups. We investigated whether this framework can 
+account for the trade comovement puzzle identi by Kose and Yi (2001) and Kose and Yi (2006). 
+In particular, we carefully calibrated a model of the world economy consisting of 21 countries. The 
+model’s trade costs are calibrated to match each country-pair’s bilateral trade volume { that is, 210 
+country-pairs. The resulting calibrated trade costs are correlated as expected with the standard 
+proxies for trade costs in the gravity model. We show that the model successfully at addresses the 
+trade-comovement puzzle. In terms of matching the data, our model explains at most 41 percent 
+of the responsiveness of comovement to trade integration. 
+In their empirical work, FR control for only bilateral trade intensity. Other researchers, espe- 
+cially Imbs (2004), note that international trade plays a relatively moderate role in transmitting 
+business cycles across countries after controlling for  integration and patterns of specializa- 
+tion. We augment the FR regression to include  integration. We  that (i) the impact of 
+24 
+
+========25========
+
+trade intensity on comovement is attenuated when we control for  linkages and (ii)  
+cial integration has a positive impact on comovement. We also show that gravity variables explain 
+international transactions in  assets. Given these results, an extension to our model that 
+includes  linkages o a promising avenue for future research. 
+25 
+
+========26========
+
+References 
+Anderson, J. E., and E. van Wincoop (2004): \Trade Costs," Journal of Economic Literature, 
+42(3), 691{751. 
+Arkolakis, C., and A. Ramanarayanan (2009): \Vertical Specialization and International 
+Business Cycle Synchronization," Scandinavian Journal of Economics, 111(4), 655{680. 
+Baxter, M., and M. A. Kouparitsas (2004): \Determinants of Business Cycle Comovement: 
+A Robust Analysis," NBER Working Papers 10725, National Bureau of Economic Research, Inc. 
+Bernard, A. B., J. Eaton, J. B. Jensen, and S. Kortum (2003): \Plants and Productivity 
+in International Trade," American Economic Review, 93, 1268{1290. 
+Burstein, A., C. Kurz, and L. Tesar (2008): \Trade, production sharing, and the international 
+transmission of business cycles," Journal of Monetary Economics, 55(4), 775{795. 
+Calderon, C., A. Chong, and E. Stein (2007): \Trade intensity and business cycle synchro- 
+nization: Are developing countries any dit?," Journal of International Economics, 71(1), 
+2{21. 
+Clark, T. E., and E. van Wincoop (2001): \Borders and business cycles," Journal of Interna- 
+tional Economics, 55(1), 59{85. 
+Di Giovanni, J., and A. A. Levchenko (2009): \Putting the Parts Together: Trade, Vertical 
+Linkages, and Business Cycle Comovement," Working Paper. 
+Frankel, J. A., and A. K. Rose (1998): \The Endogeneity of the Optimum Currency Area 
+Criteria," Economic Journal, 108(449), 1009{1025. 
+Greenwood, J., Z. Hercowitz, and G. W. Huffman (1988): \Investment, Capacity Utiliza- 
+tion, and the Real Business Cycle," American Economic Review, 78(3), 402{17. 
+Heathcote, J., and F. Perri (2002): \Financial autarky and international business cycles," 
+Journal of Monetary Economics, 49(3), 601{627. 
+26 
+
+========27========
+
+Imbs, J. (2004): \Trade, Finance, Specialization, and Synchronization," Review of Economics and 
+Statistics, 86(3), 723{734. 
+(2006): \The Real E of Financial Integration," Journal of International Economics, 
+68(2), 296{324. 
+Jaimovich, N., and S. Rebelo (2009): \Can News about the Future Drive the Business Cycle?," 
+American Economic Review, 99(4), 1097{1118. 
+Kose, M. A., and K.-M. Yi (2001): \International Trade and Business Cycles: Is Vertical 
+Specialization the Missing Link?," American Economic Review, 91, 371{375. 
+(2006): \Can the Standard International Business Cycle Model Explain the Relation 
+Between Trade and Comovement?," Journal of International Economics, 68, 267{295. 
+Lane, P. R., and G. M. Milesi-Ferretti (2008): \International Investment Patterns," Review 
+of Economics and Statistics, 90(3), 538{549. 
+Novy, D. (2008): \Gravity Redux: Measuring International Trade Costs with Panel Data," The 
+Warwick Economics Research Paper Series (TWERPS) No. 861. 
+Portes, R., and H. Rey (2005): \The Determinants of Cross-Border Equity Flows," Journal of 
+International Economics, 65(2), 269{296. 
+Wei, S.-J. (1996): \Intra-National versus International Trade: How Stubborn are Nations in 
+Global Integration?," NBER Working Papers 5531, National Bureau of Economic Research, Inc. 
+27 
+
+========28========
+
+A Appendix 
+A.1 Data 
+We consider a sample of 21 OECD countries composed of the United States (US), United Kingdom 
+(UK), Austria (AT), Belgium (BE), Denmark (DK), France (FR), Germany (DE), Italy (IT), 
+Netherlands (NL), Norway (NO), Sweden (SW), Switzerland (CH), Canada (CA), Japan (JP), 
+Finland (FI), Greece (GR), Ireland (IR), Portugal (PT), Spain (SP), Australia (AS) and New 
+Zealand (NZ) over the period 1974{2007. The variable de and data sources are as follows: 
+Correlation: We use real GDP, measured quarterly, to capture economic activity and com- 
+pute the correlations between each country-pair, j and i, (labeled ji). We  transform real GDP by taking the natural logarithm. Since we are interested in business cycle  we 
+detrend it using the H-P er. GDP data are from the OECD (transaction B1 GE) using mea- 
+sure VPVOBARSA (USD, volume estimates,  PPPs, OECD reference year, annual levels, 
+seasonally adjusted). 
+Trade intensity: We measure trade intensity between each country pair, j and i, (labeled 
+T radeji) normalizing bilateral trade|that is, the sum of each country’s imports from the other| by the sum of nominal GDP in the two countries, averaged over the entire period. Exports and 
+imports data, denominated in dollars, are taken from the IMF Direction of Trade Statistics (DOTS). 
+We normalized trade by nominal GDP. The series was from the OECD (transaction B1 GE), and 
+the measure was CXC (USD current prices current exchange rates) 
+Financial integration: Bilateral bank stock of assets and liabilities data, measured quarterly 
+and denominated in U.S. dollars, are from the Bank of International Settlements (BIS) Locational 
+Banking Statistics Database. We normalized the stock of assets and liabilities by nominal GDP. 
+Gravity variables: The following variables are from Andrew Rose’s website: distance between 
+business centers, common language dummy, and border dummy.22 
+Real exchange rate volatility: Real exchange rate volatility is measured by calculating the 
+standard deviation of the quarterly series, detrended using the H-P  The nominal exchange 
+rate series were retrieved from Haver, and the source is the Federal Reserve Board. Consumer 
+prices are from the OECD MEI database. The variable is \Consumer Prices - All Items". 
+22http://faculty.haas.berkeley.edu/arose 
+28 
+
+========29========
+
+Wages: Total annual compensation is from the OECD’s National Accounts Database. The 
+measure is C (national currency, current prices) and the transaction is D1 (compensation of em- 
+ployees). These values are divided by total employment to get total compensation per employee 
+The variable is ET (total employment) in the OECD’s Economic Outlook No. 87. Germany is 
+missing data before 1991, so the German total employment data is extrapolated using the series 
+"Employed Persons" from Statistisches Bundesamt Deutschland (DESTATIS).23 The compensation 
+data are de using CPI data (all items) from the OECD (Dateset: Price Indices) using 2000 
+as the base year, and then converted to dollars using the 2000 USD exchange rate from the Federal 
+Reserve Board. 
+Summary statistics of the basic data are presented in Table 11. The median bilateral trade 
+intensity over all countries and all years is 0.0023 and the standard deviation is 0.0080. Thus, as 
+noticed by Kose and Yi (2006), the bilateral trade ws between the typical country-pair are small. 
+As shown in Table 11, the level of dispersion in the output correlations is substantial. The 
+median level is about 30 percent, but the standard deviation is just above 20 percent. 
+[Table 11 about here] 
+A.2 Methodology to Compute Trade Costs 
+Bilateral trade costs were calculated to correspond with equation (8) in Novy (2008). The equation 
+is 
+ij = 
+xiix jj 1 
+2(  1) xijxji 
+ 1; 
+where ij is the bilateral trade cost between countries i and j, xii (xjj) represents the trade of country i (j) with itself, xij(xji) is exports from country i to j (j to i), and  is the elasticity of 
+substitution across goods. We assume  to be 3.79, in line with the calibration of our model (see 
+Table 1). Novy (2008) follows Anderson and van Wincoop (2004) and assumes that  equals 8. 
+The results are not sensitive to the value of . 
+23www.destatis.de 
+29 
+
+========30========
+
+A.2.1 Computation of Intranational Trade 
+Intranational trade is calculated as a country’s total output less its exports to the world. Following 
+the methodology of Wei (1996), GDP is adjusted by the ratio of output to value added and the 
+goods share of GDP to obtain total output. The equation for intranational trade is: 
+xii = iiGDPi 
+ xiw; 
+where GDPi is GDP of country i, xiw are exports from country i to the world and i.and i.are the ratio of output to value added and goods share of GDP in country i, respectively. 
+A.2.2 Data sources 
+For xij and xji we used the DOTS bilateral export data from the IMF, described in A1. 
+xii and xjj are calculated using data on exports to the world (same IMF DOTS data used before) and GDP data pulled from the OECD national accounts database (measure CXC (USD, 
+current prices, current exchange rates), transaction B1 GA (GDP, output approach). 
+Data on gross output and value added for the total economy is pulled from the OECD’s STAN 
+database (variables PROD and VALU, respectively). Goods GDP is computed as the sum of 
+transactions B1GA B (Agriculture, hunting and forestry,  B1GC E (Industry), and B1GF 
+(Construction). In order to maximize the coverage of trade costs across time and country pairs 
+the assumption of a constant ratio of output to value added and goods share of GDP was adopted, 
+where i = 5=2 and i = 1=3 for all i. These values were informed by the available data and, in particular, the value for i  in the middle of the range of values calculated by Wei(1996) for the ratio of output to value added. Ultimately, the trade cost analysis is not a by the decision 
+to  i and i. Bilateral trade costs computed precisely from the data show a 97% and higher correlation with those computed under the  ratios. 
+A.3 Analytical Results 
+This appendix describes how we obtained the analytical results provided in the paper. Many of 
+these derivations, in particular in sections A.3.3 and A.3.4, are adapted from Bernard et al. (2003). 
+30 
+
+========31========
+
+A.3.1 Final-good s problem 
+The production function is given by 
+ 
+Y st 
+Z 
+1 
+= X n; st 
+1= 
+dn ; 
+ 
+0 
+with  = ( 
+ 1)=. 
+ 
+ 
+(30) 
+De P st as the ideal price index for the  good. The demand for each intermediate com- 
+modity can be found by maximizing the following pro function, 
+ 
+ st = P st 
+Z 
+1 
+X n; st 
+1= 
+dn 
+ 
+ 
+ 
+0 
+ 
+ 
+ 
+Z 
+1 
+ 
+p 
+ 
+n; stX 
+ 
+n; stdn: 
+0 
+ 
+h 
+The  condition is P stX n; st 
+1 
+X n; st 
+i1 
+demand equation given by 
+" 
+X n; st 
+= 
+p n; st 
+# 
+ 
+p(n0; st) 
+: 
+ 
+X (n0; st) 
+Moreover, the ideal price index P 
+ 
+st satis 
+ 
+P st 
+Z 
+1 
+X n; st 
+1= 
+dn 
+ 
+ 
+ 
+ P 
+ 
+stX n0; stp 
+ 
+n0; st 
+0 Z 
+1 
+ p n; st 
+1= 
+1  
+dn 
+ 
+ 
+0 
+which yields 
+ 
+P st 
+Z 
+1 
+= p n; st 
+1=(1 
+) 
+1  
+dn : 
+ 
+ 
+0 
+ 1 
+= p 
+ 
+n; st, which yields the relative 
+ 
+ 
+(31) 
+Z 
+1 
+= p 
+ 
+n; stX 
+ 
+n; stdn 
+0 
+Z 
+1 
+= X 
+ 
+n0; stp 
+ 
+n0; st p 
+ 
+n; st1 
+  
+dn; 
+0 
+ 
+ 
+(32) 
+Finally, by combining equation (31) and the budget constraint we  the demand for each inter- 
+mediate commodity as follows 
+Z 
+1 
+ 
+0 
+ 
+ 
+p n; stX n; stdn = E st 
+Z 
+1 
+X n0; stp n0; st p n; st1 
+ 
+dn = 
+ 
+ 
+0 
+ 
+ 
+E  
+st; 
+31 
+
+========32========
+
+which gives the demand function 
+" 
+X n0; st = 
+p n0; st 
+# 
+ 
+P (st) 
+Y st: 
+ 
+A.3.2 Intermediate-good ’s problem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(33) 
+ 
+The pro function of the intermediate-good  supplying commodity n to market j is 
+" # 
+ n; st = p n0; st 
+p n0; st 
+ 
+P (st) 
+Y st 
+ 
+ 
+" #  Z1j 
+ 
+n; st 
+p 
+ 
+n0; st 
+  
+P (st) 
+Y 
+ 
+st: 
+ Z1j 
+ 
+n; stp 
+ 
+n0; st 
+   1, implying that the 
+The rst-order condition is (1 monopoly price is given by Z1j 
+ 
+n; st 
+ )p n0; st 
+ 
+= 
+=. Since the price is set a la Bertrand, it follows that the 
+ 
+ 
+ 
+price of intermediate commodity n is country j is given by 
+" 
+pj n; st = min Z1j n; st; 
+Z2j n; st# 
+ 
+: 
+A.3.3 The ideal price index 
+good n is given by pj 
+ 
+n; st 
+ 
+ 
+ 
+(34) 
+ 
+ 
+The ideal price index is given by equation (32). Moreover, the price in country j of each intermediate 
+ 
+= j n; stZ1j n; st where j n; st is the markup denoted by 
+ 
+j n; st = min j n; st; 
+1 
+ 
+; 
+with j n; st = Z2j n; st=Z1j n; st, which follows a Pareto distribution with shape parameter . Therefore, from (32) it follows (dropping the j subscript) that 
+ 
+ 
+ 
+P  
+st1 
+  
+ 
+ 
+ 
+ 
+h 
+ 
+i = E p 
+ 
+n; st1 
+ 
+jst 
+Z 
+1 h = 
+ 
+ 
+1 
+Z 1 
+= 
+ 
+ 
+1 
+ 
+i 
+E p n; st1 jst; n; st =   
+(+1)d 
+8 
+h i 
+Z 
+< 
+" # 
+91 
+1 
+Z2 n; st 
+ 
+ 
+E Z2 n; st 
+1  
+= 
+jst  
+(+1)d 
++ E 
+:  
+jst 
+(+1)d 
+; 
+ 
+ 
+1  
+32 
+
+========33========
+
+which yields 
+ 
+ 
+# 
+h 
+P st1 
+ 
+= E Z2 n; st1 
+ 
+i" 
+jst 1 
+ 
+ 
+ 
+1 
+  
+  
+1 
+ 
+ 1 +  
+  
+: 
+(35) 
+ 
+ 
+From equation (8) it is possible to derive the distribution of Z2j n; st, G2n Z2;st, which we use 
+to calculate 
+h 
+ 
+ 
+ 
+ 
+ 
+1 
+i 
+E Z2 n; st1 
+ 
+jst =  st 
+(1 )= 
+ 
+ 
+ 
+  
+ 
+ 2: 
+(36) 
+where j 
+ 
+st = 
+PK 
+i=1 
+Ti 
+ 
+st 
+ 
+P 
+ 
+st = 1 
+!i st 
+ 
+ 
+ji 
+. Finally, plugging (36) in (35), yields 
+ 
+=  st 
+1= 
+: 
+ 1 
+  
+  
+1 
+ 
+ 
+ 1+ 
+  
+ 
+ 1   
+ 
+  2 
+1=(1 
+ 
+ 
+ ) 
+  
+st 
+ 1= 
+(37) 
+A.3.4 Aggregate share of costs in total revenue 
+Let ej(n; st) denote how much country j spends on good n. It follows that the cost of producing 
+good n for country j is 
+Ij n; st = 
+ 
+ 
+ej(n; st) j (n; st) Ej 
+ 
+st 
+ 
+= 
+pj n; st=pj st1 
+ 
+ 
+j (n; st) 
+ 
+ 
+ 
+ 
+ 
+Taking the expectation over the measure of commodities yields 
+h 
+Ij st 
+E pj n; st1 
+ 
+ 
+= 
+j 
+n; st 
+1 
+i 
+jst 
+Ej (st) 
+h i1 
+ 
+jst 
+E pj (n; st) 
+ 
+33 
+(38) 
+
+========34========
+
+h 
+ 
+ 
+ 
+ 
+ 
+ 1 
+  
+  
+1 
+ 
+ 
+ 1+ 
+  
+. To 
+ 
+i h 
+From equation (35), E pj n; st1 jst = E Z2 n; st1 
+ 
+i 
+jst 1 
+ the numerator in the right-hand-side of (38), we proceed in a similar manner: 
+h 
+ 
+i E pj 
+ 
+n; st1 
+ 
+j 
+ 
+n; st 
+ 1 
+jst 
+Z 
+1 
+= 
+Z1 1 
+= 
+h 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 Z 
+1 
++ 
+1  
+E 
+ 
+i 
+pj n; st1 jst; n; stj =   
+(+1) 1d  
+h 
+E Z2j n; st1 
+ 
+i 
+jst  
+(+2)d 
+ : : :  
+2 
+E 
+Zj st#1 
+:  
+which yields 
+h 
+ 
+i E pj 
+ 
+n; st1 
+ 
+j 
+ 
+n; st 
+ 1 
+jst 
+ 
+= E 
+Z2 
+j 
+st jst 
+ 
+1 
+ 
+ 
+ 
+1 +  
+E 
+Z2 
+j 
+st jst 
+ 
+1 + 1+ 
++ 1 
+= 
+1 +  
+and using the fact that  = (  1)= yields 
+h 
+ 
+ 
+i E pj 
+ 
+n; st1 
+ 
+j 
+ 
+n; st 
+ 1 
+jst = 
+ 
+= 
+1 +  
+ 
+ 
+ 
+" 
+E 
+Z2 
+j 
+st jst 1 
+1 +  
+Finally, replacing in (38) yields 
+Ej (st) 
+Ij st 
+= 
+1 + : 
+ 
+8<" 
+ 
+  
+9= 
+jst; 
+ (+1)d 
+ 
+ 
+ 
+ 1+ + 1+ 
+ 
++ 1 
+ 
+  
+ 
+  
+ 
+; 
+ 
+ 
+E 
+Z2  
+j 
+st jst 1 +  
+  1 
++ 1   
+ 
+1 
+  
+ 
+ 
+ 
+1  
+ 
+ 1 +  
+# 
+  
+: 
+ 
+(39) 
+This share does not depend on j. Hence, =(1 + ) is the share of costs in total revenues for each 
+country’s producers regardless of where they sell their output. 
+A.3.5 Shocks and the real exchange rate 
+The real exchange rate between country j and country i is given by 
+Qji 
+ 
+st = 
+Pi st=Pj st 
+h . i 
+t 
+1= 
+j st 
+t 
+) 
+j=1 
+Tj s 
+1= 
+PK 
+Ti (st) [!i (st)ji] 
+ 
+; 
+ 
+= 
+i 
+ 
+s (PK 
+= 
+i=1 
+ 
+ 
+ 
+ 
+!j 
+ 
+st 
+ 
+  
+ij 
+ 
+ 
+34 
+
+========35========
+
+ 
+ 
+ 
+k=i;j 6 
+6 
+Qji 
+ 
+st = 
+ 
+ 
+ 
+ 
+ 
+ 
+(40) 
+Assume symmetry between country i and country j, so that ij = ji =   1; !j = !i = 1; and P 
+Tk st(!kjk) 
+ 
+ 
+P 
+k=i;j 
+Tk st(!kik) 
+ 
+=  Then the real exchange rate is given by 
+ 
+( ) 
+ + 
+ 
+Tj st 
+ 
++ Ti st 
+1= 
+ + 
+ 
+Ti (st) 
+ 
++ Tj (st) 
+( 
+1 + 
+T 
+) 
+st 
+ 
++ Ti st= 
+1= 
+j 
+1 + [Ti (st) 
+ 
++ Tj (st)]= 
+= 
+ 
+ 
+ 
+ 
+ 
+(41) 
+ 
+t Finally, taking logs and using the approximation log 1 + 
+Tj(s ) 
+ 
+logQji 
+ 
+st  
+1 
+ 
+  
+ 
+T 
+j 
+st 
+ 
+ 
++Ti(st) 
+ 
+Tj(st) 
+ +Ti(st) 
+ 
+, yields 
+ 
+ 
+ Ti 
+ 
+st 
+It follows that the variance of the (log) real exchange rate is given by 
+ 
+variance of logQji st = 
+1 
+ 
+  
+  
+2 
+variance of T 
+Thus, the volatility of the real exchange rate falls as  ! 1. 
+A.3.6 The household’s problem 
+The  condition solving the problem of the household is N = W=P. The price level is 
+given by (10). Hence, hours are given by 
+" N st = 
+W  st1= 
+# 
+  
+: 
+ 
+A.3.7 Other macroeconomic aggregates 
+ 
+(42) 
+ =(1 + ). 
+ 
+The aggregate share of pro in total revenue for the intermediate-good producers is 1 
+The aggregate revenue of the intermediate good producers is simply E st 
+. Therefore aggregate 
+pro are 
+ 
+  st = 1 
+ 
+ 1 +  
+ 
+" # E 
+ 
+st = 
+E 
+ 
+st 
+1 +  
+: 
+(43) 
+35 
+
+========36========
+
+In equilibrium, aggregate expenditure in the  good, E 
+ 
+st, must equal domestic net income, 
+given by the sum of domestic labor income and pro yielding 
+E 
+ 
+  
+st = W N 
+ 
+st + 
+1 
+1+ 
+E 
+ 
+st 
+= 
+ 
+1+ 
+ 
+W N 
+ 
+st 
+It follows that net income in country i measured in domestic prices|equal to E 
+ 
+st=P 
+ 
+st|is 
+given by 
+h 
+Y 
+ 
+i1+1= 
+st =  W 
+ 
+st1= ;  
+1+ 
+ 
+(1=)1= (1=)1+1=. 
+(44) 
+where  = 
+36 
+
+========37========
+
+Table 1. Benchmark Parameter Values 
+Parameter Value Target/source 
+  ij   !i  
+3.60 Bernard et al. (2003) 
+3.79 Bernard et al. (2003) 
+See Figure (1) Bilateral trade shares|IMF DOTS 
+0.43 Relative standard deviation of hours; quarterly U.S. data 
+0.21 Bernard et al. (2003) 
+See Figure (3) Total compensation per employee; 1974-2007, OECD data 
+1.00 Normalization 
+8> 
+>>> 
+lnTi 
+ 
+st 
+< Technology stochastic process:  
+ 
+st 
+ 
+>>>>: 
+i 
+ 
+st 
+=  
+ 
+st + i 
+ 
+st 
+=  
+ 
+st 
+ 1 
++  (st);   N 
+ 
+0; #2 = i 
+ 
+st 
+ 1 
++ i (st);   N 
+ 
+0; #2 
+ # # 
+0.8620 Autocorrelation of (log and H{P ltered) U.S. output 0.0089 Bilateral output correlation (U.S. { Belgium) 0.0143 Std. dev. of (log and H{P  U.S. output 
+1 
+
+========38========
+
+Table 2. Calibrated Iceberg Costs and Their Empirical Proxies 
+Iceberg cost = ij + ji 
+coet 
+p-value 95% conf. int. 
+ log distance 
+ 
+1.8576 0.000 [ 1.6305 2.0846] 
+border 
+-0.8715 0.082 [-1.8536 0.1105] 
+language 
+-1.0573 0.008 [-1.8414 -0.2732] 
+R2 0.66 Sample size 210 
+Notes: The dependent variable is the calibrated iceberg trade cost. The independent variables are the log of distance between the business centers of the relevant pair of countries, a dummy variable that indicates if the countries share a common border, and a dummy variable that indicates whether the pair of countries shares a common language. Bilateral data from 21 OECD countries. Data des and sources are in Appendix A.1. 
+2 
+
+========39========
+
+Table 3. Properties of Output and Hours: Model vs Data 
+Std. Dev. Corr. with output 
+Data Model Data Model 
+Output 0.0143 0.0138 
+Hours 0.0100 0.0096 0.8262 1.0000 
+Autocorrelation output 0.8620 0.8446 
+Mean Median Min Max 
+Output correlation (data) 0.3225 0.3099 -0.1984 0.7706 
+Output correlation (model) 0.2917 0.2844 0.2355 0.4981 
+3 
+
+========40========
+
+Table 4. Theoretical Relation Between Trade and Comovement 
+Dep. Variable:  
+Theoretical economy 
+Level regression Semi-log regression 
+coef. s.e. 95% conf. int. coef. s.e. 95% conf. int. 
+T rade 
+3.520 0.189 [3:146 3:894] 0.028 0.001 [0:025 0:031] 
+R2 
+0.622 0.614 
+Notes: The dependent variable, , is the simulated pairwise correlation of output. T rade is the simulated bilateral trade intensity. 
+4 
+
+========41========
+
+Table 5. OLS Estimates. Trade and Comovement 
+(1) (2) 
+T rade 
+10.864*** [0.00] 
+ log T rade 
+ 
+0.090*** [0.00] 
+Constant 
+0.264*** 0.861*** [0.00] [0.00] 
+Observations 210 210 R2 0.18 0.31 
+Notes:  is the pairwise correlation of H{P  GDP and T rade denotes bilateral trade intensity. p- values are in brackets. *,**,*** denote signi at the 10, 5, and 1 percent levels, respectively. Bilateral data from 21 OECD countries averaged from 1974-2007. Data de and sources are in Appendix A.1. 
+5 
+
+========42========
+
+Table 6. First-Stage Estimation 
+T rade 
+ ln T rade 
+ 
+F in 
+ ln F in 
+ 
+(1) (2) (3) (4) 
+ log distance 
+ 
+border 
+language 
+-0.003*** -0.770*** -0.007*** -1.077*** [0.00] [0.00] [0.00] [0.00] 0.012*** 0.556*** -0.0040 -0.284 [0.00] [0.00] [0.38] [0.24] 0.003* 0.500*** 0.011*** 1.012 [0.09] [0.00] [0.00] [0.00] 
+Observations 210 210 206 206 R2 0.59 0.67 0.26 0.53 
+Notes: T rade denotes bilateral trade intensity and F in denotes  integration, measured as the bilateral bank stock of assets and liabilities normalized by GDP. The independent variables are the log of distance between the business centers of the relevant pair of countries, a dummy variable that indicates if the countries share a common border, and a dummy variable that indicates whether the pair of countries share a common language. p-values are listed in brackets. *,**,*** denote signi at the 10, 5, and 1 percent levels, respectively. Bilateral data from 21 OECD countries averaged over 1974-2007. Data de and sources are in Appendix A.1. 
+6 
+
+========43========
+
+Table 7. IV Estimates. Trade and Comovement 
+(1) (2) 
+T rade 
+17.250*** [0.00] 
+ log T rade 
+ 
+0.102*** [0.00] 
+Constant 
+0.232*** 0.938*** [0.00] [0.00] 
+Observations 210 210 R2 0.12 0.30 
+Notes:  is the pairwise correlation of H{P  GDP and T rade denotes bilateral trade intensity. The instrumental variables for trade intensity are: log of distance, dummy variable for common border, and dummy variable for common language. p-values are in brackets. *,**,*** denote signi at the 10, 5, and 1 percent levels, respectively. Bilateral data from 21 OECD countries averaged over 1974-2007. Data de and sources are in Appendix A.1. 
+7 
+
+========44========
+
+Table 8. Trade, Financial Integration and Comovement 
+OLS IV 
+(1) (2) (3) (4) 
+T rade 
+10.57*** 8.537** [0.00] [0.04] 
+ log T rade 
+ 
+0.086*** 0.106* [0.00] [0.08] 
+F in 
+0.051 6.383* [0.96] [0.05] 
+ log F in 
+ 
+0.003 -0.004 [0.82] [0.94] 
+Constant 
+0.269*** 0.860*** 0.223*** 0.938*** [0.00] [0.00] [0.00] [0.00] 
+Observations 206 206 206 206 R2 0.18 0.30 0.19 0.30 
+Notes:  is the pairwise correlation of H{P  GDP. T rade denotes bilateral trade intensity and F in denotes  integration, measured as the bilateral bank stock of assets and liabilities normalized by GDP. The instrumental variables for trade intensity and  integration are: log of distance, dummy variable for common border, and dummy variable for common language. p-values are listed in brackets. *,**,*** denote signi at the 10, 5, and 1 percent levels, respectively. Bilateral data from 21 OECD countries averaged over 1974-2007. Data de and sources are in Appendix A.1. 
+8 
+
+========45========
+
+Table 9. Quantitative Assessment of the Relation Between Trade and Comovement 
+Empirical data 
+Level regression Semi-log regression 
+OLS IV OLS IV 
+(1) (2) (1) (2) (1) (2) (1) (2) 
+Trade Intensity 10.864 10.570 17.250 8.537 0.090 0.086 0.102 0.106 
+Fin. Integration 0.051 6.383 0.003 -0.004 
+Percentage explained: Percentage explained: 
+ 
+.  model  data 
+ 
+32% 33% 20% 41% 31% 33% 27% 26% 
+Notes:This table summarizes the empirical results of the  coet reported in Tables 5, 7 and 8, and compares it with the  coet implied by the theoretical model reported in Table 4. 
+9 
+
+========46========
+
+Table 10. Trade Costs, Comovement and Real Exchange Rate Volatility 
+  rervol rervol 
+(1) (2) (3) (4) 
+trade costs 
+-0.0280*** 0.002*** 
+[0.00] [0.00] 
+ log trade costs 
+ 
+-0.191*** 0.018*** [0.00] [0.00] 
+Constant 
+0.511*** 0.655*** 0.042*** 0.026*** [0.00] [0.00] [0.00] [0.00] 
+Observations 210 210 210 210 R2 0.299 0.312 0.161 0.227 
+Notes:  is the pairwise correlation of H{P  GDP and rervol is the standard deviation of the H{P  real exchange rate. tc denotes trade costs. p-values are listed in brackets. *,**,*** denote signi at the 10, 5, and 1 percent levels, respectively. Bilateral data from 21 OECD countries averaged over 1974- 2007. Data de and sources are in Appendix A.1. 
+10 
+
+========47========
+
+Table 11. Descriptive Statistics 
+Bilateral trade GDP Real exchange rate 
+intensity correlation volatility 
+Median 0.0023 0.3099 0.0528 
+Max 0.0737 0.7706 0.0991 
+Min 0.0002 -0.1985 0.0076 
+Standard deviation 0.0080 0.2047 0.0221 
+11 
+
+========48========
+
+Table 12. Bilateral Trade Intensities 
+US UK AT BE DK FR DE IT NL NO SW CH CA JP FI GR IR PT SP AS 
+: US, United States; UK, United Kingdom; AT, Austria; BE, Belgium; DK, Denmark; FR, France; DE, Germany; IT, Italy; NL, Netherlands; NO, Norway; SW, Sweden; CH, 
+IT 0.0030 0.0095 0.0073 0.0103 0.0027 0.0210 0.0226 
+UK 0.0062 
+AT 0.0004 0.0025 
+BE 0.0023 0.0156 0.0051 
+DK 0.0005 0.0060 0.0025 0.0054 
+FR 0.0037 0.0159 0.0028 0.0296 0.0027 
+DE 0.0064 0.0187 0.0197 0.0272 0.0080 0.0270 
+NL 0.0030 0.0223 0.0057 0.0737 0.0084 0.0159 0.0346 0.0116 
+NO 0.0007 0.0087 0.0015 0.0051 0.0149 0.0030 0.0059 0.0014 0.0077 
+SW 0.0013 0.0094 0.0041 0.0106 0.0253 0.0044 0.0094 0.0035 0.0108 0.0234 
+CH 0.0017 0.0086 0.0134 0.0103 0.0034 0.0100 0.0178 0.0113 0.0078 0.0019 0.0046 
+CA 0.0299 0.0051 0.0007 0.0018 0.0006 0.0019 0.0025 0.0019 0.0017 0.0022 0.0013 0.0011 
+JP 0.0140 0.0034 0.0006 0.0014 0.0007 0.0022 0.0048 0.0015 0.0018 0.0007 0.0010 0.0014 0.0042 
+FI 0.0004 0.0044 0.0024 0.0045 0.0082 0.0018 0.0043 0.0016 0.0056 0.0077 0.0214 0.0026 0.0006 0.0005 
+IR 0.0012 0.0176 0.0013 0.0115 0.0027 0.0029 0.0035 0.0019 0.0063 0.0026 0.0029 0.0035 0.0009 0.0007 0.0019 0.0009 
+GR 0.0002 0.0015 0.0015 0.0029 0.0014 0.0019 0.0032 0.0041 0.0036 0.0008 0.0014 0.0015 0.0002 0.0005 0.0011 
+PT 0.0003 0.0031 0.0015 0.0046 0.0020 0.0038 0.0034 0.0024 0.0040 0.0021 0.0026 0.0023 0.0003 0.0002 0.0016 0.0005 0.0014 
+SP 0.0013 0.0074 0.0021 0.0073 0.0018 0.0152 0.0101 0.0089 0.0074 0.0014 0.0028 0.0036 0.0008 0.0009 0.0014 0.0012 0.0019 0.0108 
+AS 0.0019 0.0037 0.0005 0.0016 0.0006 0.0012 0.0019 0.0017 0.0015 0.0004 0.0015 0.0011 0.0018 0.0066 0.0009 0.0002 0.0007 0.0002 0.0007 
+NZ 0.0004 0.0020 0.0003 0.0010 0.0004 0.0003 0.0004 0.0004 0.0006 0.0002 0.0005 0.0004 0.0006 0.0011 0.0003 0.0004 0.0005 0.0002 0.0002 0.0116 
+Notes 
+Switzerland; CA, Canada; JP, Japan; FI, Finland; GR, Greece; IR, Ireland; PT, Portugal; SP, Spain; AS, Australia; NZ, New Zealand. 
+12 
+
+========49========
+
+Figure 1. Bilateral Trade Intensities: Data vs. Simulation 
+0.07 
+0.06 
+0.05 
+n 
+o 
+i 
+0.04 
+t 
+a 
+l 
+u 
+m 
+i 
+S 
+0.03 
+Correlation Coefficient = 0.9965 
+Median (Data) = 0.0023 
+0.02 
+Median (Simulation) = 0.0029 
+0.01 
+00 
+0.01 
+0.02 
+0.03 
+0.04 
+0.05 
+0.06 
+0.07 
+Data 
+1 
+
+========50========
+
+Figure 2. Calibrated Iceberg Costs 
+90 
+80 
+70 
+60 
+y 
+c 
+50 
+n 
+e 
+u 
+q 
+e 
+40 
+r 
+F 
+30 
+20 
+10 
+00 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+Iceberg Cost: ij 
+2 
+
+========51========
+
+Figure 3. Total Compensation per Employee (Real USD) 
+45000.00 
+40000.00 
+35000.00 
+30000.00 
+25000.00 
+20000.00 
+15000.00 
+10000.00 
+5000.00 
+0.00 
+U 
+U 
+A 
+B 
+D 
+F 
+G 
+I 
+N 
+N 
+S 
+S 
+C 
+J 
+F 
+G 
+I 
+P 
+S 
+A 
+N 
+t 
+r 
+r 
+a 
+n 
+n 
+u 
+e 
+e 
+e 
+a 
+w 
+w 
+a 
+i 
+p 
+e 
+o 
+p 
+n 
+r 
+e 
+o 
+u 
+a 
+e 
+n 
+t 
+n 
+e 
+i 
+i 
+s 
+l 
+r 
+l 
+r 
+e 
+i 
+l 
+l 
+r 
+a 
+s 
+w 
+t 
+t 
+g 
+n 
+y 
+h 
+a 
+a 
+t 
+m 
+w 
+t 
+a 
+a 
+e 
+t 
+i 
+t 
+e 
+e 
+m 
+c 
+d 
+r 
+i 
+z 
+n 
+n 
+u 
+n 
+u 
+r 
+e 
+ 
+i 
+d 
+n 
+c 
+d 
+d 
+e 
+e 
+a 
+a 
+a 
+e 
+m 
+a 
+d 
+g 
+a 
+Z 
+r 
+a 
+d 
+e 
+ 
+ 
+y 
+n 
+r 
+a 
+l 
+e 
+S 
+K 
+r 
+n 
+l 
+a 
+l 
+i 
+k 
+y 
+a 
+l 
+a 
+a 
+t 
+i 
+n 
+l 
+a 
+n 
+n 
+a 
+d 
+t 
+g 
+d 
+n 
+e 
+d 
+s 
+d 
+s 
+o 
+m 
+3 
+
+========52========
+
+Figure 4. Trade and Business Cycle Synchronization: Data vs Model 
+1 
+0.1 
+0.08 
+0.8 
+0.06 
+0.6 
+n 
+o 
+i 
+t 
+y 
+t 
+i 
+l 
+a 
+i 
+l 
+0.04 
+e 
+t 
+r 
+a 
+r 
+l 
+o 
+0.4 
+o 
+C 
+V 
+ 
+ 
+t 
+R 
+u 
+p 
+E 
+0.02 
+t 
+R 
+u 
+O 
+0.2 
+0 
+0 
+-0.02 
+-0.2 
+-0.04 
+0 
+0.01 
+0.02 
+0.03 0.04 0.05 Trade Intensity (level) 
+0.06 
+0.07 
+0.08 
+0 
+0.01 
+0.02 
+0.03 0.04 0.05 Trade Intensity (level) 
+0.06 
+0.07 
+0.08 
+(a) Trade and Output Correlation: Data 
+(b) Trade and RER Volatility: Data 
+1 
+x 10-35 
+0.9 
+0.8 
+y 
+i 
+t 
+i 
+l 
+4.5 
+t 
+n 
+0.7 
+l 
+a 
+i 
+o 
+o 
+t 
+l 
+a 
+V 
+ 
+e 
+R 
+r 
+r 
+E 
+o 
+0.6 
+R 
+C 
+ 
+t 
+u 
+p 
+t 
+u 
+0.5 
+O 
+4 
+0.4 
+0.3 
+0.2 
+3.5 
+0 
+0.01 
+0.02 
+0.03 0.04 0.05 Trade Intensity (level) 
+0.06 
+0.07 
+0.08 
+0 
+0.01 
+0.02 
+0.03 0.04 0.05 Trade Intensity (level) 
+0.06 
+0.07 
+0.08 
+(c) Trade and Output Correlation: Model 
+(d) Trade and RER Volatility: Model 
+4 
+
+========53========
+
+Figure 5. Data vs Model Fit 
+0 
+. 
+1 
+8 
+. 
+0 
+6 
+. 
+0 
+4 
+. 
+0 
+2 
+. 
+0 
+0 
+. 
+0 
+2 
+. 
+0 
+- 
+0.00 
+0.02 
+0.04 
+0.06 
+0.08 
+Empirical Data Linear Prediction (Data) 95% CI Linear Prediction (Model) 
+5 
+
+========54========
+
+Figure 6. Data vs Model Fit Adjusting for Financial Integration 
+0 
+. 
+1 
+8 
+. 
+0 
+6 
+. 
+0 
+4 
+. 
+0 
+2 
+. 
+0 
+0 
+. 
+0 
+2 
+. 
+0 
+- 
+4 
+. 
+0 
+- 
+6 
+. 
+0 
+- 
+0.00 
+0.02 
+0.04 
+0.06 
+0.08 
+Empirical Data Linear Prediction (Data) 95% CI Linear Prediction (Model) 
+6 
+
+========55========
+

@@ -1,0 +1,1266 @@
+July 2011  
+         No.46 (revised) 
+Empowering Women: Inheritance Rights and 
+Female Education in India 
+Dr Sanchari Roy  University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Empowering Women: Inheritance Rights and 
+Female Education in India 
+Sanchari Roy 
+November 2011 
+Abstract 
+This paper examines the impact of women’s property inheritance rights on their education. Using exogenous variation created by state level reforms to the inheritance law in India, I d that mean educa- tional attainment of women who were of primary school-going age at the time of reform increased by 0.5 years in reforming relative to non- reforming states. The impact is present only for women in landowning and \Hindu" households, with no concomitant impact on men. I also provide suggestive evidence on the underlying mechanism that in order to prevent fragmentation of household property, parents compensate daughters by investing in their education. 
+JEL Codes: O12, K11, I21 
+Keywords: Inheritance, education, women, dowry payments 
+Centre for Competitive Advantage in the Global Economy (CAGE) and Department of Economics, University of Warwick, Coventry CV4 7AL, UK; email: s.roy@warwick.ac.uk. I am extremely grateful to Maitreesh Ghatak and Oriana Bandiera for their continu- ous encouragement and support throughout this project. I also thank Ran Abramitzky, Bina Agarwal, Madhav Aney, Fernando Aragon, Erlend Berg, Konrad Burchardi, Robin Burgess, Sayantan Ghosal, Aparajita Goyal, Victor Lavy, Sabyasachi Mukherjee, Jin Wang, Fabian Waldinger, Chris Woodru and especially Tim Besley and Stefan Dercon for valuable suggestions and feedback. I am also grateful for comments received from seminar participants at ISI Delhi, JNU, LSE, Warwick, the BREAD Summer School (Verona), the Conference on Persistent Poverty (Cornell), the CSAE Conference (Oxford), PAC-DEV (Berkeley), the RES Conference (Royal Holloway) and the Second Riccardo Faini Doctoral Conference (Milan).I gratefully acknowledge  support from the Bagri Fellowship and the DFID Program on Improving Institutions for Pro-Poor Growth. 
+1 
+
+========2========
+
+The role of property rights in the process of economic development has 
+been well-emphasized in the economic literature (North, 1990; De Soto, 2000; 
+Besley, 1995; Banerjee, Gertler, and Ghatak, 2002; Field, 2007; DiTella, 
+Galiani, and Schargrodsky, 2007). Property rights, through their impact 
+on distribution of wealth, patterns of production as well as development of 
+markets, especially credit markets, have evolved as one of the prerequisites 
+of economic growth and poverty reduction (Besley and Ghatak, 2009). The 
+primary focus of this literature has been to study the impact of property 
+rights on physical investment, but the role of property rights in the context 
+of human capital investment is relatively under-researched. Moreover, most 
+of the existing research remains gender-neutral, with little attention to the 
+salience of property rights for women. This paper attempts to  these gaps 
+by studying the impact of property rights, particularly inheritance rights, on 
+the human capital investment of women. 
+The principal methodological problem faced in estimating the causal im- 
+pact of property rights at the household level is that of potential endogeneity. 
+There could be unobserved heterogeneity at the household level correlated 
+with both female education and female property rights that may generate 
+spurious results. For example, gender progressive parents may be more likely 
+to invest in their daughters’ education as well as give them greater rights to 
+family inheritance. This could lead to the classic omitted variable problem 
+that would bias the estimates of the impact of female property rights. A 
+second complication in this regard may arise due to measurement error as 
+it is often di to obtain appropriate measures of female property rights 
+due to the fact that women in many societies lack formal titles to property 
+(Deere and Leon, 2003; Sweetman, 2008). This may introduce further biases 
+in the estimates of the causal impact of female property rights on female 
+2 
+
+========3========
+
+education. 
+To address these problems, this paper exploits legislative changes to the 
+central inheritance law in India as a source of exogenous variation in female 
+inheritance rights. Like most personal laws in India, inheritance laws too vary 
+by religion. The fundamental law governing present day inheritance rights 
+of four religious communities i.e. Hindus, Buddhists, Jains and Sikhs, called 
+the Hindu Succession Act (HSA) of 1956, was designed to lay down a law of 
+succession whereby sons and daughters would enjoy equal inheritance rights. 
+In fact, however, signit gender inequalities persisted that disadvantaged 
+daughters considerably. The main source of bias came from joint family 
+property, to which sons enjoyed right by birth to an independent share but 
+daughters did not. Both had equal rights of inheritance to the separate 
+property that their father accumulated during his lifetime. But, due to the 
+fact that a considerable amount of property, especially land in rural areas, is 
+still jointly owned, such biased rights had a crippling e on the property 
+ownership of women in India. 
+The earliest attempts at amending this law were made by e Indian 
+states, namely Andhra Pradesh, Tamil Nadu, Kerala, Karnataka and Maha- 
+rashtra, between late 1970s and early 1990s. The amendments stated that 
+women who were unmarried at the time the reform was passed in their state 
+would be granted claims equal to that of their brothers in the joint family 
+property, including the right to a share by survivorship (Agarwal, 1994).1 
+The basic identi strategy in this paper uses the fact that exposure 
+to the improved inheritance rights regime following the amendments was 
+jointly determined by state of birth and year of birth. Not only did a woman 
+have to be born in a state that passed the reform, she also had to be of 
+1Details regarding each state amendment is available in \The Hindu Succession Act 1956, with State Amendments (Bare Act)". 
+3 
+
+========4========
+
+school-going age when the reform was passed in her state for it to have any 
+impact on her schooling decisions. Hence, I identify the causal e of 
+the reform, which I argue is exogenous2, by using a di 
+methodology that compares mean educational attainment of women who 
+were young enough to be exposed to the reform (\treated" group) to those 
+who were too old (\control" group), between reforming and non-reforming 
+states. The identifying assumption is that in the absence of the reform, 
+the change in female educational attainment across cohorts would not have 
+been systematically dit in reforming and non-reforming states. Similar 
+strategies have been used by Du (2001), Card and Krueger (1992), Lemieux 
+and Card (2001) etc. to estimate the e of education on earnings. 
+However, if there exists unobservable factors that a female education 
+and are also correlated with the passage of the reform, then the di 
+in-di estimates would be biased. Therefore, in order to address this 
+concern, I employ a triple di strategy by exploiting another source of 
+variation within each state-cohort, namely land ownership status, religious 
+a and gender. For example, in case of triple di using land 
+ownership, I estimate the di in mean educational outcomes between 
+women in the \treated" group relative the \control" group, for land-owning 
+versus non land-owning households in reforming relative to non-reforming 
+states. This would control for two kinds of potentially confounding trends: 
+changes in educational outcomes of women belonging to landed households 
+across states (that have nothing to do with the reform) and changes in ed- 
+ucational outcomes of all women in the reforming states (e.g. due to other 
+state policies that a everyone’s education). I do the same for \Hindu" 
+versus \non-Hindu" households, as well as between women and men. 
+2Concerns regarding the potential endogeneity of the reform process is discussed in Section 2.2. 
+4 
+
+========5========
+
+I use individual level data obtained from multiple waves of the National 
+Family and Health Survey of India (NFHS) for my analysis on female edu- 
+cation. In these surveys, women aged 15-49 are interviewed on a number of 
+socioeconomic and demographic dimensions, including age and educational 
+attainment, which enables me to construct groups of women with varying 
+degrees of exposure to the reform depending on their year of birth and state 
+of residence.3 
+The primary  of this paper is that exposure to the inheritance 
+rights reform was associated with an increase of approximately 0.5 years of 
+education (an improvement of around 0.2 standard deviations) for cohorts 
+of women who were of primary school-going age at the time of the passage 
+of reform. On the other hand, no e is observed for cohorts that were 16 
+years or older at the time of the reform, suggesting that the  are less 
+likely to be driven by correlated unobservables. 
+Moreover, using triple di by land ownership, I  that the 
+entire e comes from women who belong to land-owning households, and 
+the estimated coet is larger at approximately 0.8. Similarly, using triple 
+di by religion, I  that the impact to be present only for those 
+women who were either Hindu, Buddhist, Sikh or Jain (to whom the law 
+applied), and the estimated coet is even larger at approximately 1.5. 
+Finally, using triple di by gender, I  the impact to be present 
+only for daughters with the estimated coet being 1.3-1.6, indicating 
+that the reform was successful in narrowing the gap in education between 
+boys and girls. 
+This paper also attempts to shed light on the mechanism behind the 
+3This may give rise to concerns regarding the endogeneity of state of residence in relation to migration, but as Section 2.2 argues later, the extent of female inter-state migration in India is very low. 
+5 
+
+========6========
+
+oberved impact of the inheritance rights reform on female education. Using 
+individual-level data from the 1999 wave of the Rural Economic and Demo- 
+graphic Survey (REDS), I  that the reform had virtually no impact on 
+women’s likelihood of inheritance. However, this is not altogether surprising 
+because incentives exist for parents to prevent the fragmentation of jointly 
+owned family land (e.g. economies of scale in production, virilocality and vil- 
+lage exogamy4, etc.), that has resulted in daughters continuing to be deprived 
+of their share of inheritance in joint family property even after the reform 
+in the law. Indeed, ethnographic evidence documented in Bates (2004)  
+that the enunciation of progressive legislative changes to inheritance law in 
+Maharashtra had no impact on women’s inheritance in practice. 
+Instead, my  suggest that parents were compensating their daugh- 
+ters for their disinheritance by transferring to them alternative forms of 
+wealth. Traditionally, dowry payments have constituted the most common 
+form of such transfers - a pre-mortem bequest to daughters in South Asia (An- 
+derson, 2004; Goody, 1973). Using the REDS 99 dataset, I  that for those 
+women who were past primary school-going age at the time of reform but 
+not yet old enough to be married, dowry payments did rise by 0.4 percentage 
+points, indicating that parents were still compensating these daughters in the 
+traditional way for disinheriting them from joint family property. However, 
+for women who were of primary school going-age at the time of reform, dowry 
+payments are 0.36 percentage points lower compared to the control group. 
+But note that this is the same group of women who also enjoyed higher ed- 
+ucation as a result of exposure to the reform, suggesting that for them the 
+4In virilocal societies, married daughters leave their parents’ home whereas married sons continue to live with their parents. Village exogamy, on the other hand, implies that daughters are married outside their village of residence. Both together imply that parents run the risk of losing control over their household property if their daughters inherit a share. 
+6 
+
+========7========
+
+compensation from parents took the form of increased investment in their 
+education. This is consistent with the  of Quisumbing and Otsuka 
+(2001) in Sumatra who argue that land inheritance and schooling constitute 
+dit forms of intergenerational transfers and observe a narrowing of the 
+gender gap in schooling with the evolution of land tenure systems. 
+My  therefore suggest that although progressive legislation aimed 
+at improving inheritance rights of women in India did not have the desired 
+ order e intrahousehold dynamics may have ensured that parents 
+compensated their daughters for such disinheritance in a manner that re- 
+sulted in an unintended but positive impact on female education. 
+This paper relates to two dierent strands of literature. The literature 
+on property rights has focused on the role of property rights in enhancing 
+investment incentives in agricultural land (Banerjee, Gertler, and Ghatak, 
+2002; Besley, 1995), residential investment (Field, 2007), entreprenurial in- 
+vestment of retained earnings (Johnson, McMillan, and Woodru, 2003) etc. 
+To the best of my knowledge, this paper is one of the  attempts to ex- 
+plore the impact of property rights on human capital investment, within the 
+speci context of women’s inheritance. The only other paper that is re- 
+lated to mine is Deininger, Goyal, and Nagarajan (2010), which examines 
+the impact of the amendment to the Hindu Succession Act (HSA) 1956 on 
+women’s ability to inherit land and their socio-economic status (proxied by 
+age at marriage and education) in two Indian states viz. Maharashtra and 
+Karnataka. Apart from the fact that my analysis uses data from all the states 
+of India and hence has greater external validity, the datasets and empirical 
+methodologies used by the two papers are also dit.5 Both Deininger, 
+5Deininger, Goyal, and Nagarajan (2010) use the 2006 wave of the Rural Economic and Demographic Survey, while I use multiple rounds of the National Family and Health Survey of India for my education results and the 1996 wave of the Rural Economic and Demographic Survey for my inheritance and dowry results. 
+7 
+
+========8========
+
+Goyal, and Nagarajan (2010) and I  positive impact of the inheritance 
+rights reform on female education, in which sense the two papers are com- 
+plementary. However, compared to Deininger, Goyal, and Nagarajan (2010), 
+I obtain an opposite result regarding probability of inheritance by women 
+which, together with my analysis on dowry payments, allows me to identify 
+an explicit mechanism underlying the increase in female educational attain- 
+ment due to the inheritance rights reform, and is a key innovation of my 
+paper. 
+This paper also relates to the literature on dowry and marriage markets. 
+A number of papers focus on the role of dowry as a spot price that clears the 
+marriage market characterized by assortative wealth matching (Becker, 1981; 
+Anderson, 2003, 2007; Rao, 1993; Edlund, 2001). On the other hand, dowry 
+has also been studied as a \pre-mortem" bequest (Anderson, 2004; Goody, 
+1973). In this context, it has been argued that change in the environment 
+for producing bridal wealth, in the form of labour market expansion, may 
+lead to reduction in prevalence of dowry (Botticini and Siow, 2003). My 
+paper  well with such a line of argument as it shows that a legal reform in 
+inheritance rights can have similar consequences on dowry payments through 
+its impact on education, an alternative form of wealth transfer. 
+The remainder of the paper is organized as follows: Section 1 describes 
+the institutional background of Hindu inheritance law in India, while Section 
+2 outlines the data and identi strategy. Section 3 presents results on 
+female education, and Section 4 discusses a potential mechanism underlying 
+the observed e by looking at the likelihood of inheritance by women and 
+their dowry payments. Section 5 concludes. 
+8 
+
+========9========
+
+1 The Institutional Background 
+1.1 The Hindu Personal (Inheritance) Law 
+As mentioned earlier, the laws for inheritance of property in India di by 
+religion. The inheritance rights of Hindus are governed by the Hindu Suc- 
+cession Act (HSA) of 1956, which also governs the rights of Buddhists, Jains 
+and Sikhs.6 The Act was built on the foundation of ancient legal doctrines 
+that have prevailed in India since the 12 century A.D., and purported to lay 
+down a law of succession that gave equal rights of inheritance to sons and 
+daughters. In fact, however, signit gender inequalities remained. 
+A key feature of the legal structure of \Hindu" inheritance in India is 
+the distinction between \joint family property" and \separate property".7 
+Generally speaking, joint family property \consists principally of ancestral 
+property (that is, property inherited from the father, paternal grandfather 
+or paternal great-grandfather), plus any property that was jointly acquired 
+or was acquired separately but merged into the joint property". Separate 
+property, on the other hand, \includes that which was self-acquired (if ac- 
+quired without detriment to the ancestral estate) and any property inher- 
+ited from persons other than father, paternal grandfather or paternal great- 
+grandfather" (Agarwal, 1994, p. 85-86). 
+According to the Hindu Succession Act of 1956, daughters of a \Hindu" 
+male dying intestate (i.e. without leaving a will)8 were equal inheritors, along 
+6These religions are considered to be oots of Hinduism and hence are looked upon as being \Hindu-like" religions. For the rest of the paper, I will use the term \Hindu" to denote Hindus, Buddhists, Sikhs and Jain, that is all religions to which the HSA 1956 applied. 
+7The joint family here is a legal concept and need not coincide with the joint residence or or any other aspect of a common household economy that may be implied in a sociological use of the term (Agarwal, 1994). 
+8According to Deininger, Goyal, and Nagarajan (2010), the proportion of people who die without making a will in India is very high (around 65%, and probably even higher 
+9 
+
+========10========
+
+with sons, of only their father’s separate property and his \notional" portion 
+of joint family property, but had no direct inheritance rights to joint family 
+property itself.9 10 Sons, on the other hand, not only inherited their share of 
+the father’s own property and his \notional" portion of joint family property, 
+but also had a direct right by birth to an independent share of the joint 
+family property. In fact, all persons who acquired interest in the joint family 
+property by birth were said to belong to the \Hindu coparcenary", which is 
+conceptually similar to an exclusive male membership club in relation to the 
+issue of inheritance to which women had no access.11 
+In order to elaborate, I explain the scenario using a simple example. Let 
+us consider a family consisting of a grandfather and his two sons, Son 1 and 
+Son 2 (see Figure I). Let us assume that the family line begins with the 
+grandfather, such that he has no predecessors. The  son has a son of 
+his own (Grandson 1) as well as a daughter (Granddaughter 1), while for 
+simplicity, I assume the second son is childless. The ancestral/joint fam- 
+ily property owned by this family is say 1 acre, and nobody acquires any 
+additional property during his/her lifetime i.e. \separate" property of any 
+individual is zero (for simplicity). Bold letters indicate membership of the 
+\Hindu" coparcenary. 
+The process by which inheritance rights to this ancestral/joint family 
+in rural areas), suggesting that the Hindu Succession Act is what ultimately determines inheritance patterns within the family. 
+9The \notional" portion of the father’s share in the joint family property would be as- certained under the assumption of a \notional" or hypothetical partition of that property, as if the partition had taken place just before his death. 
+10In case of a \Hindu" woman dying intestate, all her property devolves equally upon her sons and daughters and husband, if alive. If she has no children or other heirs with  right to her property, then the property devolution takes place according to the source of acquisition. 
+11In addition to inheritance, sons could also demand partition of the joint family prop- erty while daughters could not. E.g. if the joint family property was a dwelling house, sons (as part of the coparcenary) could demand a partition of the same but daughters were only allowed right of residence but no right of ownership or possession. 
+10 
+
+========11========
+
+Figure I: Ancestry 
+property will be determined in this family is as follows (see Figure II): 
+During the lifetime of the Grandfather, he himself along with his two 
+sons, Son 1 and Son 2, each have a share of a third in the ancentral property 
+(panel A of Figure II). Moreover, Son 1 shares his third equally with his own 
+son, Grandson 1, since the latter is a member of the male coparcenary (along 
+with his grandfather, his father and his uncle in this example) and hence has 
+a right by birth to an \independent" share to joint family property (panel 
+B). Hence Grandson 1 directly gets a sixth of joint family property as a male 
+coparcener. Granddaughter 1, on the other hand, does not get any share of 
+the joint family property directly. 
+Now when Grandfather 1 dies (panel C), his share of a third gets split 
+equally between his two living sons, Son 1 and Son 2, such that Son 1’s share 
+now increases to a sixth (his coparcenery share) plus another sixth (inherited 
+from his father), which totals to a third.12 Next, when Son 1 dies (panel D), 
+his total share is split equally between Grandson 1 and Granddaughter 1, 
+12Strictly speaking, the grandfather does not have to actually 
+die for this so-called \partitioning" to be made: the inheritance shares are decided in a \notional" sense, as described in the earlier footnote. However, in practice, the most common reason behind a split or partition has to do with the death of the household head or patriarch (Foster and Rosenzweig, 2002). 
+11 
+
+========12========
+
+Figure II: Inheritance 
+i.e. each get a sixth. So, ultimately, Granddaughter 1 is entitled to a share 
+of one-sixth (inheritance from her father) while her brother, Grandson 1, 
+not only gets that one-sixth (inheritance from his father) but an additional 
+one-sixth which is his coparcenery share. Thus Grandson 1’s  share is 
+one-third, which is double that of his sister. 
+Hence, it is apparent that the daughters su from discrimination in 
+terms of inheritance under HSA 1956. Moreover, for the millions living in 
+rural India, the most common form of property is land that is typically family- 
+owned, which makes the gender bias in inheritance rights quite a signit 
+phenomenon. Thus the law, by excluding the daughter from participating 
+in the coparcenery ownership of ancestral property, not only discriminated 
+12 
+
+========13========
+
+against her on grounds of gender, but also led to a negation of her funda- 
+mental right of equality as guaranteed to her by the Indian Constitution 
+(Ramanujam, 2005). 
+1.2 State Amendments to the Hindu Succession Act 
+The topic of inheritance in India is a \concurrent" one, i.e. one over which 
+both the central and the state governments have legislative authority. Thus, 
+although the HSA 1956 is a central law, some of the states have subsequently 
+amended the HSA 1956. In particular, Kerala amended in 1976, Andhra 
+Pradesh in 1986, Tamil Nadu in 1989, Maharashtra and Karnataka in 1994, 
+following which daughters were granted independent inheritance rights and 
+the right to a share by survivorship in joint family property, equal with 
+their brothers, but only if they were unmarried at the time of the reform.13 
+Such a reform opened up the entry of women into what had till now been 
+an exclusively male preserve and sought to, at least partially, redress the 
+concern of gender bias inherent in the original central law. I exploit these 
+legislative amendments as a \natural experiment" to study the impact of a 
+potential improvement in female inheritance rights on female education in 
+India. 
+13Kerala passed a slightly dit amendment in the form of the Kerala Joint Hindu Family System (Abolition) Act that recognized all family members with an interest in the undivided family estate as being independent full owners of their shares from then onwards, i.e. abolished joint family property altogether. But since the spirit of this amendment was similar to those passed by the other reforming states, and could be expected to favourably a the inheritance of the daughter, I club them together. However, most of the  of this paper are robust to the exclusion of Kerala. 
+13 
+
+========14========
+
+2 Data and Identi Strategy 
+2.1 Data 
+To estimate the causal impact of the inheritance rights reform on female 
+education, I use household-level data from multiple rounds of the National 
+Family Health Survey of India (NFHS) conducted in 1992, 1998 and 2005.14 
+The NFHS is designed along the lines of the Demographic and Health Surveys 
+(DHS) that have been conducted in many developing countries around the 
+world, and are repeated cross-sections. 
+The NFHS surveys, which are representative at the state level and have an 
+overall response rate of 98 percent, contain detailed information, including 
+educational attainment, on all individual members of the household. 29 
+states of India are covered in the sample.15 However, the Hindu Succession 
+Act (1956) did not apply to Jammu and Kashmir (Agarwal, 1994). Hence I 
+drop that state from my analysis and are left with 28 states. 
+I  focus on women who are daughters of the head of the household 
+and who are at least 22 years of age at the time of survey (this ensures 
+that women in the sample have completed their education).16 17 There are 
+14The NFHS is carried out by the Ministry of Health and Family Welfare, Government of India. 
+15The 3 newest states of India, i.e. Chattisgarh, Uttarakhand and Jharkhand, were created in 2000, out of Madhya Pradesh, Uttar Pradesh and Bihar respectively. They are part of the NFHS wave of 2005, but not of the waves of 1992 and 1998. Additionally, Sikkim is not a part of the 1992 wave. Smaller Union Territories like Lakshadweep, Andaman and Nicobar Islands, Pondicherry etc. are also excluded. 
+16The  of this paper are robust to dit cut-o regarding age at time of survey. 
+17Some of the mothers of these women may have been young enough to be exposed to the reform themselves, especially those born after 1965 in 1998 wave and those born after 1972 in 2005 wave. To avoid any confounding impact on outcomes of daughters through their mothers, I calculate the minimum age that mothers need to be in order to be unexposed to the reform: this is 44 years at the time of survey, which means that for example, in the 2005 wave, these women had to be born on or before 1961 such that they would be 15 or older at the time of the earliest reform (Kerala in 1976). Hence I restrict 
+14 
+
+========15========
+
+18,691 such women in my sample, with year of birth spanning 1943 to 1984.18 
+Summary statistics are presented for this sample in Table 1. Mean age for 
+this sample of women is 27 years, while average level of education is 8.14 
+years of completed education (6 years of education correspond to completion 
+of primary school). Almost half of the sample women belong to households 
+that own some land, 83 percent are \Hindu" and 45 percent live in urban 
+areas. 
+2.2 Identi Strategy 
+The basic identication strategy used in this paper exploits the fact that ex- 
+posure to the inheritance rights reform was jointly determined by a woman’s 
+state of birth and year of birth. Not only did a woman have to be born in 
+a state that passed the reform, she also had to be of school-going age when 
+the reform was passed in her state for it to have any impact on her schooling 
+decision. Given that the NFHS is a repeated cross-section, this approach 
+amounts to a dii (DD) strategy over cohorts and states. 
+The NFHS dataset does not contain information on an individual’s state 
+of birth but it does collect data on state of residence. Hence my empirical 
+analysis uses state of residence instead of state of birth. If this gives rise 
+to measurement error then my estimates of the impact of inheritance rights 
+my sample to those daughters who were not only themselves at least 22 years old at survey but whose mothers were also at least 44 years old at survey. 
+18Of the total 18,691 women, 5,613 obtain from the 1992 round, 6,128 from the 1998 round and 6,950 from the 2005 round. Chances of double counting of individuals in successive surveys are very small since NFHS follows a two-stage cluster sampling, whereby it  samples clusters with probability proportional to population size (PPS) sampling, and then it samples households in each cluster using random sampling (IIPS, 2007). The likelihood that the same cluster is sampled is not very high. Even if the sample cluster chosen in one wave is sampled again in the next, exactly the same household is unlikely to be interviewed again as there could be upto 500 households in a single cluster out of which 20-30 are typically sampled (IIPS, 2007). 
+15 
+
+========16========
+
+would su from attenuation bias. A bigger concern, however is that of sys- 
+tematic variation in migration behaviour in response to the reform. If gender 
+progressive parents marry their daughters to grooms in the reforming states 
+to take advantage of the favourable laws, then too the estimates would be bi- 
+ased. According to the 2001 Census of India, female inter-state migration in 
+India varies between 5-10 percent, but using the Rural Economic and Demo- 
+graphic Survey of 1999, I do not  any evidence of signit di in 
+inter-state female migration between the reforming and non-reforming states 
+in the pre-reform period. In fact, nearly 80 percent of women reside after 
+marriage in the same district or other district of the same state as their 
+parental household. This is also supported by the  of Rosenzweig 
+and Stark (1989) that in the ICRISAT villages, the mean distance between 
+a woman’s original residence place and marital place of residence is around 
+30 kilometers. Hence, the possibility of systematic migration across states 
+seems relatively remote in this particular context. 
+The empirical analysis, as mentioned above, tests for the e of the 
+reform on \treated" age cohorts. I dee the \treated" group as cohorts of 
+women who were of primary school-going age when the reform was passed 
+in their state. In India, children normally attend primary school between 
+the ages of 5 and 10, middle school between the ages of 11 and 13 and 
+high or secondary school between ages of 14 and 15. Hence, my \treated" 
+group consists of cohorts of women who were 10 years or younger at the 
+time of the reform since they were \young" enough for the reform to have 
+a their education choices. The control group, on the other hand, would 
+consist of women who were already well past school-going age by the time 
+the reform was enacted in their state, i.e. were 21 years or older. The reform 
+ought to have no e on their educational achievement. Thus, the basic 
+16 
+
+========17========
+
+identi strategy is a di-di between the \treated" or 
+\younger" cohorts and the \control" or \older" cohorts, for reforming relative 
+to non-reforming states. Such a dices estimate may be 
+interpreted as the causal impact of the reform, under the assumption that in 
+the absence of the reform, the change in educational attainment of women 
+across cohorts would not have di systematically between the reforming 
+and non-reforming states. 
+However, the identi assumption should not be taken for granted. 
+What if the pattern of change in female education across cohorts did vary 
+systematically between the reform and non-reforming states? To address 
+this concern, I test for an implication of the identifying assumption where I 
+compare mean educational attainment of women who were between 16 to 20 
+years old at the time of reform to that of women who were 21 or older at that 
+time (control group), between reforming and non-reforming states. Since the 
+former group would also have been out of school by the time the reform 
+was passed in the reforming states, the change in educational attainment for 
+women in this age-group relative to the control group should not, therefore, 
+vary systematically across states. 
+Within a regression framework, I therefore estimate the following equa- 
+tion: 
+eisk = s + k + sk + 1Dis;(kk 0 
+ 5) 
++ 2Dis;(k 0 
+ 10kk0 
+ 6) 
++3Dis;(k 0 
+ 15kk0 
+ 11) 
++ 4Dis;(k 0 
+ 20kk0 
+ 16) 
++ Xisk + isk 
+(1) 
+The dependent variable eisk denotes the educational attainment of woman 
+i in state s belonging to cohort k (i.e. born in year k). Let the reform be 
+passed in year k0 in state s. Then Dis;(kk 0 
+ 5) 
+is a dummy indicating whether 
+17 
+
+========18========
+
+woman i belonging to cohort k was 5 years old or younger when the reform 
+was passed in her state. Similarly, Dis;(k 0 
+ 10kk0  6) 
+is a dummy indicating whether she was between 6 and 10 years old, Dis;(k 0 
+ 15kk0  11) 
+indicating whether she was between 11 and 15 years old and Dis;(k 0 
+ 20kk0  16) 
+indicat- ing whether she was between 16 and 20 years old respectively. As mentioned 
+earlier, the group consisting of women who were 21 years or older at the time 
+of the reform constitute the omitted category. s represents state  e which accounts for state-speci characteristics that do not vary across co- 
+horts, k represents cohort of birth  eect that accounts for the fact that individuals born in dit years may be exposed to dit macro shocks, 
+while sk captures state-speci linear trends over cohorts. Xisk is a vector of individual-level control variables that would a education: parental age, 
+parental education, land ownership, religion, number of household members 
+and place of residence (urban/rural). isk is the error term. To address serial correlation concerns and to allow for heteroscedasticity, the standard errors 
+are clustered at the state level (Bertrand, Du and Mullainathan, 2004). 
+The coets of interest are 1 and 2, which capture the mean e on education of being exposed to the inheritance rights reform for the \treated" 
+or \young" cohorts. 3 and 4, on the other hand, capture the e of the reform on older cohorts. The oldest cohort category (16 to 20 years) 
+is speci included as a falsi test - the members of this cohort 
+would have left school by the time the reform was passed in their state and 
+hence would not be expected to experience any impact on their educational 
+attainment. 
+However, if there existed other unobservable factors a female ed- 
+ucation that were correlated with the passage of the reform itself, then the 
+identi assumption underlying the di approach 
+18 
+
+========19========
+
+would be violated. For example, Clots-Figueras (2011)  that election of 
+lower caste women leaders is positively correlated with the probability of pas- 
+sage of female-friendly laws in India, of which the amendments to the HSA 
+1956 would be an example. If lower caste women leaders also invest more in 
+female education, then the di estimate discussed above 
+could just be picking up the e of an increase in the presence of such 
+women leaders in state legislatures, who were responsible for both the pas- 
+sage of the reform as well as investment in female education in these states. 
+State policies a female education but varying systematically between 
+reforming and non-reforming states would be another example. 
+To address this concern, I conduct a di 
+(DDD) analysis by introducing a separate within-state-cohort control group. 
+Three variants of such a control group are explored: women belonging to non- 
+landed (versus landed) households, \non-Hindu" (versus \Hindu") women, 
+and men (versus women). 
+Thus, the expanded version of equation 1 that I estimate is: 
+eisk = s + k + sk + +1Dis;(kk 0 
+ 5) 
++ 2Dis;(k 0 
+ 10kk0 
+ 6) 
++3Dis;(k 0 
+ 15kk0 
+ 11) 
++ 4Dis;(k 0 
+ 20kk0 
+0 
+16) 
++ 1Dis;(kk 0 
+ 5) 
+ Ci 
++02Dis;(k 0 
+ 10kk0 
+0 
+6) 
+ Ci + 3Dis;(k 0 
+ 15kk0 
+ 11) 
+ Ci 
++04D0is;(k 0 
+ 20kk0 
+ 16) 
+ Ci + i + Xisk + isk 
+(2) 
+where Ci denotes either land ownership status, \Hindu" or gender of the individual. The coets of interest are 01 and 02, which capture, e.g. in case of triple di by land ownership, the ditial impact on 
+education for \treated" compared to \control" women that belong to landed 
+relative to non-landed households in reforming versus non-reforming states. 
+19 
+
+========20========
+
+The rationale behind using these groups for triple di is as fol- 
+lows. Firstly, the amendment to the Hindu Succession Act 1956 would have 
+a bite in the reforming states only if the parental household of the woman 
+owns any joint family property to begin with. Land is the most commonly 
+held form of joint family/ancestral property, hence it makes sense to ex- 
+ploit variation along the dimension of land ownership status of the woman’s 
+household to improve identi Now, since a household’s land owner- 
+ship status obtained at the time of survey, the underlying assumption is that 
+this status has remained unchanged over time. If this assumption does not 
+hold in reality, then measurement error would lead to attenuation bias in the 
+triple dirences estimates.19 A biggest concern, however, is that land own- 
+ership status maybe correlated with the reform. The identifying assumption 
+of the triple di strategy is that the di in educational out- 
+comes between \treated" and \control" women belonging to landed relative 
+to non-landed households in reforming states is on account of the reform. 
+If, however, gender progressive parents had acquired additional land in an- 
+ticipation of the reform, then this assumption would be violated. But it is 
+important to note here that the reform related to ancestral property, and not 
+to separate property acquired by the father in his lifetime, which allays fears 
+of strategic land procurement by parents that could bias the results. 
+Secondly, owing to the fact that the HSA 1956 applied ditially across 
+religion in India, only women who were either Hindu, Buddhist, Sikh or Jain 
+19To elaborate on this, two possibilities could arise: one, it could be that the woman’s family did not own land when she was young but does own land now (at the time of survey) and second, the family owned land when she was young but does not now. In the  case, reform would not have had any impact on the woman’s education and including her as being landed introduces downward bias in my estimates. Moreover, the fact that the family did not own land earlier implies that the land was in most probability newly acquired and hence cannot represent ancestral property. In the second case, the reform would have had an impact on the woman’s education and excluding her also leads to downward bias. 
+20 
+
+========21========
+
+should bene from the reform. 
+Finally, since the reform to HSA 1956 relates to the issue of inheritance of 
+women, men of similar age group categories may be used as a counterfactual 
+to examine the impact of exposure to the reform on the gender gap in edu- 
+cation. However, there may arise concerns that since change in inheritance 
+rights constitute a zero-sum game within the family (more rights for daugh- 
+ters implies less for sons, given a  amount of ancestral property), there 
+may occur some compensating impact of the reform on men. This issue is 
+discussed in further detail in section 3.2.3. 
+Before proceeding to the results, I would like to point out the contribution 
+of each reforming state to the cohort categories constructed above, provided 
+in Table A.1. Since I focus on women who were 22 or older at the time 
+of survey, the youngest cohort of women were born in 1984 (coming from 
+the 2005 sample).20 Hence, the variation in Ds;(kk 0 
+ 5) 
+primarily comes from Andhra Pradesh, Kerala and Tamil Nadu, while all ve reforming states 
+contribute to the variation in the remaining cohort categories. 
+3 Impact on Female Education 
+3.1 Di Results 
+Results obtained from estimating equation 1 are presented in Table 2. With- 
+out controlling for any covariates,  e or linear trends, mean ed- 
+ucation of women who were 10 years or younger at reform appear to be 
+signitly higher relative to the control group (column 1), although the 
+coet for even those aged 11-15 at reform is quite large but statisti- 
+20A small proportion of interviews in the 2005 wave were carried out in 2006, hence the youngest cohort is that of 1984 rather than 1983. 
+21 
+
+========22========
+
+cally insignit. Adding individual level covariates and state and cohort 
+of birth  e reduces the sizes of the coets for all cohort groups, 
+but the results remain qualitatively similar (columns 2 and 3 respectively). 
+Column 4 presents the most rigorous speci here, with the inclusion of 
+state-speci linear trends by cohorts. The suggested e is that exposure 
+to the reform increased mean educational attainment of the 5 or younger 
+group by 0.57 years, and that of the 6-10 group by 0.5 years. This represents 
+an improvement of approximately 0.02 standard deviations for both these 
+\treated" groups relative to the control group. I cannot reject the equality 
+of these two coets (1 and 2), but can reject (at 1 percent level) the equality of each of them to the coet for the 16-20 group (4), which is statistically insignit as well as small in magnitude. Since women in 
+the 16-20 group in the reforming states were already past school-going age 
+by the time the reform took place, they would not be expected to bene 
+ditially in terms of education relative to the non-reforming states. This 
+falsi exercise thus increases our con that the results are less 
+likely to be driven by correlated unobservables, as well as allows us to rule 
+out the concern that improvements in female education could have led to the 
+passage of the reform in the  place (reverse causality). The coet for 
+the 11-15 group (3) is much reduced and no longer statistically signit. 
+The individual-level control variables have the expected signs. Focussing 
+on column 4, we observe that \Hindu" women have signitly higher mean 
+educational attainment compared to \non-Hindus", while parental education 
+is positively correlated with education of daughters. The coet for ma- 
+ternal age is also positive and highly signit, and is probably picking up 
+the e of older mothers possessing greater bargaining power that may in 
+turn be correlated with better child outcomes. Women belonging to landed 
+22 
+
+========23========
+
+households21 in general have higher educational achievement, as do those 
+living in urban areas. Number of household members, which is used as a 
+crude proxy for number of siblings, is negatively correlated with education 
+of women. 
+3.2 Triple Di Results 
+But as outlined earlier, these di-di estimates do not control 
+for unobservable factors correlated with the passage of the reform that could 
+also a female education. Hence, I turn to the triple diences approach, 
+using a third source of variation within state-cohorts. 
+3.2.1 Land Ownership 
+Table 3 presents the results from estimating the triple di using equa- 
+tion 2, where the third dimension of variation is in terms of land ownership 
+status of the household the woman belongs to. Column 1 replicates the 
+di result from column 4 of Table 2 for ease of reference, 
+while column 2 provides the triple di result. In the latter column, 
+the coets for the uninteracted cohort groups capture the impact of the 
+reform on women belonging to non-landed households in the reforming states 
+(the s in equation 2), while those for the cohort groups interacted with the 
+variable \owns land" capture the ditial impact of the reform on women 
+who belong to landed households in the reforming states (the 0s in equation 
+2). Both speci control for state  e cohort of birth  
+e and state-speci linear cohort trends. 
+No impact is observed on the education levels of non-landed women in 
+21Land ownership is also used as a proxy for income status of the household in the absence of income data in the NFHS. 
+23 
+
+========24========
+
+any of the age groups in the reforming states, but there exists a positive and 
+signit impact for those who were 5 years or younger and between 6-10 
+years old at the time of the reform and belonged to landed households in these 
+states. The suggested e is that being exposed to the reform increased 
+mean educational attainment of women who were of primary school-going 
+age at the time of reform by 0.7-0.8 years in landed relative to non-landed 
+households in the reforming states, an increase of approximately 0.02 stan- 
+dard deviations. No such ditial impact is observed for women who were 
+16-20 years old (04) at the time of reform, thereby increasing our con in the validity of the results. Moreover, the F-test also rejects the equality of 
+the coecients for 5 or younger and 16-20 groups for the landed (01 and 04) at 5 percent and that for the 6-10 and 16-20 groups (02 and 04) at 10 percent level. 
+3.2.2 Hindu 
+Table 4 presents the results from estimating the triple di using equa- 
+tion 2, where the third dimension of variation is whether or not the woman be- 
+longed to a \Hindu" family. Column 1 replicates the di 
+result from column 4 of Table 2 for ease of reference, while column 2 pro- 
+vides the triple di result. As in Table 3, the coets for the 
+uninteracted cohort groups in column 2 capture the impact of the reform 
+on \non-Hindu" women in the reforming states (the s), while those for the 
+cohort groups interacted with the variable \Hindu" capture the ditial 
+impact of the reform on \Hindu" women in the reforming states (the 0s). 
+As in Table 3, I control for state and cohort  e but now also add 
+state-religion-speci linear cohort trends to allow for the fact that \Hindus" 
+and \non-Hindus" may have evolved dirently across cohorts in dit 
+24 
+
+========25========
+
+states. 
+Once again, no impact is observed on the education levels of \non-Hindu" 
+women of any age group in the reforming states, and the coets are ac- 
+tually all negative in sign. For the Hindu women in these states, on the other 
+hand, we  a positive impact on the education level of those who were 5 
+years or younger and between 6-10 years old at the time of the reform. Note 
+that although the coet for the 5 or younger group is signit only 
+at the 10 percent level, its magnitude is quite large. The suggested e 
+is that being exposed to the reform increased mean educational attainment 
+of \Hindu" women who were of primary school-going age by 1.4-1.5 years 
+compared to \non-Hindu" women in reforming states, an increase of approx- 
+imately 0.05 standard deviations. No such ditial impact is observed for 
+women who were 16-20 years old at the time of reform. The F-test only 
+barely fails to reject the equality of the coets for the 5 or younger and 
+16-20 groups of \Hindus" (01 and 04) (p=0.11) but can reject the equality of the coets for the 6-10 and 16-20 groups of \Hindus" (02 and 04) at 5 percent level. 
+3.2.3 Gender 
+Along with the sample of women used for the above analyses, I also observe 
+their brothers in the NFHS dataset, i.e. the sons of the head of the household. 
+Just like in case of the women, I restrict the sample to include only those men 
+who were at least 22 years of age at the time of survey. There are 70,466 such 
+men in my sample, with year of birth spanning 1943 to 1984.22 For triple 
+di using gender, I compare \treated" and \control" cohorts between 
+women and men for reforming versus non-reforming states, and the results are 
+22Of the total 70,466 men, 22,831 obtain from the 1992 round, 23,946 from the 1998 round and 23,689 from the 2005 round. 
+25 
+
+========26========
+
+presented in Table 5. In each column, the coets for the uninteracted 
+cohort groups capture the impact of the reform on men in the reforming 
+states (the s), while those for the cohort groups interacted with the variable 
+\daughter" capture the ditial impact of the reform on women in the 
+reforming states (the 0s). 
+Column 1 presents results without controlling for any  e or co- 
+hort trends, while column 2 includes state  e gender-speci cohort 
+of birth  e (to allow for the fact that education of girls and boys 
+evolved ditially across cohorts) as well as state-speci linear cohort 
+trends. Focusing on column 2, we  that the impact of the reform on the 
+5 or younger group of women is positive and highly signit, while that on 
+the corresponding group of men is actually negative and signit. I can 
+reject the equality of these two coets (1 and 01) at the 1 percent level. The coet for the 6-10 group of women is also large but only marginally 
+signit. Nonetheless, I can still reject the equality of this coet with 
+the corresponding one for men (2 and 02) at the 5 percent level. In addition, both 01 and 02 are signitly dit from 04, which passes the falsi cation test. The suggested impact is that compared to men, women who 
+were exposed to the reform gained approximately 1.1-1.3 additional years 
+of education in the reforming states, which represents an improvement of 
+approximately 0.03 standard deviations. 
+The speci in column 2 uses variation in gender across households. 
+Since the sample contains a lot more men than women, it is possible that 
+girls and boys live in dit types of households, and the estimates are 
+picking up some of these unobserved ditials that are correlated with 
+education. To address this concern, I introduce household  e in 
+column 3. I restrict the sample to only those households that have at least 
+26 
+
+========27========
+
+two children, which reduces the sample size somewhat. The coet for 
+the 5 or younger group of women continues to remain highly signit and 
+is indeed slightly larger in magnitude compared to column 2, and I am also 
+able to reject the equality of this coet with the corresponding one for 
+men at the 5 percent level. The coet for the 6-10 group of women is 
+also similar in magnitude and level of signi to that in column 2. It 
+is also interesting to note that after controlling for household  e 
+the coets for all age groups of men is positive, although statistically 
+insignit, which is dit compared to what was obtained in column 2. 
+This indicates that there is little evidence of any compensating behaviour on 
+part of the parents towards their sons in response to the inheritance rights 
+reform. 
+4 Mechanism 
+So far, I provide evidence that being exposed to the inheritance rights reform 
+in India was associated with an increase in mean educational attainment for 
+women. But what explains this e In an attempt to shed light on the 
+underlying mechanism of this observed e I  examine the impact of 
+exposure to the reform on the likelihood of women to inherit property. Unfor- 
+tunately, the NFHS does not collect information on inheritance. Therefore, I 
+use the 1999 wave of the Rural Economic and Demographic Survey (REDS),23 
+which is a representative survey of households from 16 major states of India.24 
+The REDS dataset is unique in that it contains retrospective information on 
+23The REDS dataset is collected by the National Council of Applied Economic Research in India (NCAER). 
+24The states that are excluded here but are included in NFHS are Arunachal Pradesh, Chattisgarh, Goa, Jharkhand, Manipur, Meghalaya, Mizoram, Nagaland, New Delhi, Sikkim and Tripura. All my education results presented earlier go through if I restrict the number of states in NFHS to match those in REDS 99. 
+27 
+
+========28========
+
+topics like inheritance and marriage for all members of the household, in- 
+cluding for daughters who have married and left the household. Here, too, 
+I focus on women who are daughters of the head of the household and at 
+least 22 years of age at the time of survey. Also, I restrict the sample to 
+Hindu, Buddhist, Sikh and Jain women (i.e. those who were governed by the 
+original HSA 1956 and thereby were a by the reform), since almost 92 
+percent of the women in this sample belong to these religions. This leaves 
+me with a sample size of 4,964 women. 
+Using a triple di methodology with respect to land ownership, 
+I analyze the impact of exposure to the inheritance reform on probability 
+of inheritance by women. Inheritance typically occurs when the head of 
+the family dies and the property is partitioned. Since the reform relates 
+to ancestral property, the relevant event in this case is the death of the 
+grandfather in the family, following which the father would become head. 
+The REDS 99 dataset contains information on whether the father became 
+the head of the family following the death of the grandfather or not. If for 
+instance, the father set up his separate household while the grandfather was 
+alive, then the question of partition of property and inheritance would be 
+less relevant. Hence, I focus on only those daughters whose fathers became 
+head of family following the grandfather’s death. Ideally, we would also need 
+to know if the grandfather died after the reform was passed for it to have 
+any bite on inheritance, but unfortunately, the REDS 99 does not contain 
+this information. This remains a caveat of the analysis presented below. 
+4.1 Inheritance 
+For the inheritance analysis, the two \treated" groups used in the education 
+analysis above have been merged to create a single \treated" group - women 
+28 
+
+========29========
+
+who were 10 or younger at the time of reform. This is because for the group 
+5 or younger, there is no variation by land ownership in the REDS 99 sample 
+and hence the impact of the reform on women belonging to landed and non- 
+landed households cannot be identi separately for this group. The results 
+are presented in Table 6. The dependent variable is a binary variable that is 
+one if the daughter inherits any land and zero otherwise. According to the 
+amendment of the Hindu Succession Act (1956), unmarried women (at the 
+time of the reform) were eligible to inherit ancestral property. Since the mean 
+age at marriage in this sample is approximately 18 years, one would expect 
+that women in the groups 10 or younger and 11-15 would display increased 
+likelihood of inheritance, while those in the group 16-20 would not. 
+Focusing on column 4 that controls for state and cohort  e 
+as well as state-speci trends, we however  no ditial impact on 
+the likelihood of inheriting land for women who were of primary school- 
+going age (10 or younger) at the time of reform and belonging to landed 
+households relative to non-landed ones in the reforming state. Similarly for 
+women in the 11-15 group. If anything, the coets are negative, and the 
+former is marginally signit. I cannot reject the equality of the coet 
+estimate for the 10 or younger group for landed households with that for 
+the corresponding 11-15 and 16-20 groups and for that matter, with the 
+coet for the 10 or younger group for non-landed households. Hence 
+it appears that daughters have continued to be disinherited from ancestral 
+property, and the law did not have any impact along the dimensions it was 
+intended to, at least in the short run.25 
+A potential reason behind this may be related to the existence of incen- 
+25This would, however, not be the  example of a gender progressive law biting the dust when it comes to practical implementation - the Dowry Prohibition Act (1961) is another law that is regularly  in practice. 
+29 
+
+========30========
+
+tives for parents to prevent fragmentation of household property, especially 
+land.26 
+In India, daughters typically leave the household of their parents 
+after marriage and live with their husband’s family, known as virilocality. 
+This creates two problems: , parents may fear loss of control over their 
+household land to the daughter’s husband’s family if the daughter is allowed 
+to inherit a share. This may be further reinforced by the notion of women 
+being \guests" in their natal (parental) home till they are married and that 
+they really only belong to their husband’s family (Kramarae and Spender, 
+2000). Hence, household land is typically passed along the male line alone so 
+as to keep it within the family. Secondly, Botticini and Siow (2003) discuss 
+how giving daughters equal share in household property would create disin- 
+centives for sons (who have a comparative advantage in working with family 
+assets compared to their married sisters) regarding provision of optimal e 
+in extending family wealth, as they would no longer be able to enjoy the full 
+bene of their e 
+Coupled with the education results, this therefore suggests that parents 
+were compensating daughters for disinheriting them from ancestral land (that 
+they were now legally entitled to) by investing in their education. Quisumb- 
+ing and Otsuka (2001) also  evidence of land inheritance and schooling 
+being treated as dit forms of intergenerational transfers in Sumatra. 
+However, such compensation would only be possible for those daughters who 
+were of school-going age at the time of reform - more speci, those who 
+were of primary school-going age at that time, i.e. 10 or younger. Education 
+of those daughters who were already past primary school-going age, i.e. 11-15 
+group, could not be improved if they had never been to school at all or had 
+26In fact, fragmentation was one of the key arguments presented against extending equal rights of inheritance to joint family property for women in India in the original Hindu Succession Act of 1956 (Agarwal, 1994). 
+30 
+
+========31========
+
+dropped out long back. For the latter group, compensation ought to take a 
+dit form. One possibility could be dowry payments made at the time of 
+marriage of the daughter. A number of existing studies have analyzed dowry 
+as a form of \pre-mortem" bequest. Botticini and Siow (2003) in fact discuss 
+how parents’ decision to give dowries to their daughters and bequests (of e.g. 
+assets like land) to their sons constitute an optimal incentive scheme when 
+married daughters leave the parental household after marriage while sons 
+stay back and enjoy a comparative advantage in working with family assets. 
+If parents seek to compensate daughters in the 11-15 group in terms of dowry 
+at marriage, then we should observe dowry payments to increase for women 
+belonging to this group in landed households relative to the non-landed ones 
+in reforming states. 
+4.2 Dowry Payments 
+REDS 99 contains information on nominal dowry payments made by parents 
+at the time of the daughter’s marriage. The nominal dowry payments in the 
+dataset are converted to real values using the Indian Consumer Price Index 
+(base: 1966 = 100).27 
+Table 7 presents results for log of real dowry payments at the time of 
+marriage. Focusing on column 4, we  that indeed mean dowry pay- 
+ments for women in the 11-15 group increases by 0.4 percentage points for 
+the land-owning households compared to the non-landed ones in reforming 
+states (equality of these two coets is rejected at the 5 percent level). 
+Interestingly, the mean dowry payments of the 10 or younger group declines 
+27I use Consumer Price Index for Agricultural Workers as the de since the REDS dataset focuses on a rural sample. I thank Robin Burgess for generously granting me access to his Indian states data for this purpose. Also, over 90 percent of the families in my sample pay dowry and receive nothing, hence I only focus on dowry payments. 
+31 
+
+========32========
+
+by 0.36 percentage points. This could have two potential explanations: par- 
+ents choose to compensate daughters only along one dimension, so since the 
+10 or younger group gains in terms of education in exchange of inheritance 
+rights, they are paid less pre-mortem bequest. This explanation views educa- 
+tion and dowry payments as competing channels of compensating daughters 
+for disinheriting them from their rightful share in ancestral property. Al- 
+ternatively, if dowry is interpreted as a price that clears marriage markets, 
+then higher education could substitute for dowry payments as more educated 
+brides enjoy higher valuation in the marriage market and hence has to pay 
+lower dowries to secure the groom of their choice. 
+In column 5, I restrict the sample to include only those daughters whose 
+fathers became the head of the household following the grandfather’s death, 
+in order to maintain parity with the likelihood of inheritance results presented 
+in Table 6. This reduces the sample size considerably, but he results are still 
+very similar to those in column 4. Although the coet for the 11-15 
+group in landed households in reforming states is no longer signiant at 
+conventional levels, the coet is still similar in magnitude and sign to 
+that in column 4. I can also reject the equality of this coet with that 
+for the non-landed in reforming states at the 10 percent level. The coet 
+for the 10 or younger group continues to be negative and highly signit. 
+However, the question remains as to why parents switch from dowry to 
+education as a means of compensating daughters across cohorts? One po- 
+tential explanation could be that although dowry is often interpreted as a 
+pre-mortem bequest given to the daughter at the time of her marriage, it 
+hardly remains under the control of the daughter after her marriage, and 
+hence does not necessarily improve her welfare in reality (Suran, Amin, Huq, 
+and Chowdhury, 2004). Education, on the contrary, is inalienable as an in- 
+32 
+
+========33========
+
+vestment in the daughter and hence may be preferred by parents as a means 
+of compensation when available. However, it cannot be ruled out that par- 
+ents may be responding to a scenario of changing returns to female education 
+in a growing Indian economy. 
+5 Conclusion 
+Human capital investment is widely considered to be one of the most impor- 
+tant drivers of economic growth. This is especially relevant in the case of 
+women as it is well-acknowledged that greater schooling of women enhances 
+the human capital of the next generation and thus makes a unique contri- 
+bution to economic growth (Behrman, Foster, Rosenzweig, and Vashishtha, 
+1999). This paper studies the impact of women’s property inheritance rights 
+on their human capital attainment by exploiting exogenous variation gener- 
+ated by state level amendments to the central inheritance law in India. I 
+use a dierence-in-di approach that takes advantage of the fact that 
+dit states reformed the law at dierent points in time for identication. 
+In particular, I compare educational outcomes of women who were of pri- 
+mary school-going age at the time of reform (exposed or \treated" group) to 
+those who were too old to go to school (\control" group), between reforming 
+and non-reforming states. I  that being exposed to the reform was as- 
+sociated with a signit improvement in the mean educational attainment 
+of women. In order to improve identi I also use a triple di 
+strategy to compare the di estimate by land ownership 
+status of households, religious a and gender. I  that the positive 
+impact on education exists only for women (compared to men) and that too, 
+only for those women belonging to landed (compared to non-landed) and 
+33 
+
+========34========
+
+\Hindu" (compared to \non-Hindu") households. 
+This paper also attempts to shed light on the underlying mechanism of 
+this observed e I  that even though the reform entitled daughters 
+to inherit equal shares in joint family property as sons, in reality, this did 
+not happen. In other words, I  no impact of the reform on likelihood 
+of inheritance by women. Instead, parents appear to be compensating their 
+daughters for disinheritin them such by investing in their education as a form 
+of alternative transfer of wealth. For those daughters who were already past 
+school-going age at the time of the reform, the compensation takes the form 
+of higher dowry at the time of their marriage. 
+Thus, the  obtained in this paper have policy implications beyond 
+the Indian context with regard to how socio-personal laws can act economic 
+outcomes. To the extent that inequality in opportunity for women can be 
+traced to legal provisions, changes in inheritance legislation have the potential 
+of addressing gender imbalances and in a wide range of outcomes 
+for women, with economy-wide implications. 
+However, a relevant question to ask in this regard concerns the scalability 
+of such amendments in order to ensure that the bene can be reaped by 
+a bigger share of the population. Indeed, the amendment to the Hindu 
+Succession Act 1956 as described in this paper was extended to the whole of 
+India in 2005, and it will be interesting to explore if the bene enjoyed by 
+the women in the  set of reforming states are subsequently shared by the 
+rest of the country’s female population. 
+34 
+
+========35========
+
+References 
+Agarwal, B. (1994): A Field of One’s Own: Gender and Land Rights in 
+South Asia. Cambridge University Press. 
+Anderson, S. (2003): \Why Dowry Payments Declined with Modernization 
+in Europe but are Rising in India?," Journal of Political Economy, 111(2), 
+269{310. 
+(2004): \Dowry and Property Rights," BREAD Working Paper No. 
+080. 
+(2007): \The Economics of Dowry and Brideprice," Journal of 
+Economic Perspectives, 21(4), 151174. 
+Banerjee, A., P. Gertler, and M. Ghatak (2002): \Empowerment 
+and E Tenancy Reform in West Bengal," Journal of Political 
+Economy, 110(2). 
+Bates, K. (2004): \The Hindu Succession Act: One Law, Plural Identities," 
+Journal of Legal Pluralism, nr. 55. 
+Becker, G. S. (1981): A Treatise on the Family. Harvard University Press, 
+Cambridge, MA. 
+Behrman, J. R., A. D. Foster, M. R. Rosenzweig, 
+and 
+P. Vashishtha (1999): \Women’s Schooling, Home Teaching and Eco- 
+nomic Growth," Journal of Political Economy, 107(4), 682{714. 
+Bertrand, M., E. Duflo, and S. Mullainathan (2004): \How Much 
+Should We Trust Dis Estimates?," Quarterly Journal 
+of Economics, 119(1), 249{75. 
+35 
+
+========36========
+
+Besley, T. (1995): \Property Rights and Investment Incentives: Theory 
+and Evidence from Ghana," Journal of Political Economy, 103(5), 903{ 
+937. 
+Besley, T., and M. Ghatak (2009): \Property Rights and Economic 
+Development," in Handbook of Development Economics, ed. by D. Rodrik, 
+and M. Rosenzweig. North Holland. 
+Botticini, M., and A. Siow (2003): \Why Dowries?," The American 
+Economic Review, 93(4), 1385{1398. 
+Card, D., and A. B. Krueger (1992): \Does School Quality Matter? 
+Returns to Education and the Characteristics of Public Schools in the 
+United States," Journal of Political Economy, 100(1), 1{40. 
+De Soto, H. (2000): The Mystery of Capital: Why Capitalism Triumphs in 
+the West and Fails Everywhere Else. Basic Books (New York) and Bantam 
+Press/Random House (London). 
+Deere, C. D., and M. Leon (2003): \The Gender Asset Gap: Land in 
+Latin America," World Development, 31(6), 925{947. 
+Deininger, K., A. Goyal, and H. Nagarajan (2010): \Inheritance 
+Law Reform and Womens Access to Capital? Evidence from India’s Hindu 
+Succession Act," World Bank Policy Research Working Paper No. 5338. 
+DiTella, R., S. Galiani, and E. Schargrodsky (2007): \The Forma- 
+tion of Beliefs: Evidence from the Allocation of Land Titles to Squatters," 
+Quarterly Journal of Economics, 122(1), 209{241. 
+Duflo, E. (2001): \Schooling and Labour Market Consequences of School 
+36 
+
+========37========
+
+Construction in Indonesia: Evidence from an Unusual Policy Experiment," 
+American Economic Review, 91(4), 795{813. 
+Edlund, L. (2001): \Dear Son-Expensive Daughter: Why Do Scarce 
+Women Pay to Marry?," Working paper, Columbia University. 
+Field, E. (2007): \Entitled to Work: Urban Property Rights and Labor 
+Supply in Peru," Quarterly Journal of Economics, 122(4), 1561{1602. 
+Foster, A., and M. Rosenzweig (2002): \Household Division and Rural 
+Economic Growth," Review of Economic Studies, 69(4), 839{869. 
+Goody, J. (1973): \Bridewealth and Dowry in Africa and Eurasia," in 
+Bridewealth and Dowry, ed. by J. Goody, and S. J. Tambiah, pp. 1{58. 
+Cambridge University Press. 
+IIPS (2007): \National Family Health Survey (NFHS-3) Report, 200506: 
+India," Discussion paper, International Institute for Population Sciences 
+(IIPS) and Macro International, Mumbai. 
+Johnson, S., J. McMillan, and C. Woodruff (2003): \Property 
+Rights and Finance," American Economic Review, 92(5), 1335{1356. 
+Kramarae, C., and D. Spender (2000): Routledge International Ency- 
+clopedia of Women: Global Women’s Issues and Knowledge. Routledge, 
+New York. 
+Lemieux, T., and D. Card (2001): \Education, Earnings, and the ’Cana- 
+dian G.I. Bill’," The Canadian Journal of Economics, 34(2), 313{344. 
+North, D. C. (1990): Institutions, Institutional Change and Economic Per- 
+formance. Cambridge University Press, Cambridge. 
+37 
+
+========38========
+
+Quisumbing, A., and K. Otsuka (2001): \Land Inheritance and School- 
+ing in Matrilineal Societies: Evidence from Sumatra," World Development, 
+21(12). 
+Ramanujam, T. C. A. (2005): \Daughters Better O than Sons," The 
+Hindu Business Line, Saturday 1 October. 
+Rao, V. (1993): \The Rising Price of Husbands: A Hedonic Analysis of 
+Dowry Increases in Rural India," Journal of Political Economy, 101(3), 
+666{77. 
+Rosenzweig, M., and O. Stark (1989): \Consumption Smoothing, Mi- 
+gration and Marriage: Evidence from Rural India," Journal of Political 
+Economy, 97(4), 905{926. 
+Suran, L., S. Amin, L. Huq, and K. Chowdhury (2004): \Does Dowry 
+Improve Life for Brides? A Test of the Bequest Theory of Dowry in Rural 
+Bangladesh," Population Council Policy Research Division Working Paper 
+No. 195. 
+Sweetman, C. (2008): \How Title Deeds Make Sex Safer: Womens Prop- 
+erty Rights in an Era of HIV," From Poverty to Power: How Active Citi- 
+zens and Ective States Can Change the World, Oxfam International. 
+38 
+
+========39========
+
+Table 1: Descriptive Statistics 
+Reforming Non-Reforming All 
+ 21  5 All 
+Female 0.31 0.20 0.24 0.19 0.21 
+[0.46] [0.40] [0.43] [0.39] [0.40] For Females: 
+Age 31.05 24.67 27.33 26.82 26.96 
+[7.00] [2.87] [5.55] [5.30] [5.39] Years of education 6.55 10.78 8.65 7.94 8.14 
+[5.58] [5.58] [5.40] [5.85] [5.74] Father’s age 63.61 58.88 61.19 60.48 60.68 
+[9.38] [7.00] [8.56] [8.56] [8.56] Mother’s age 55.40 50.99 53.12 53.76 53.58 
+[7.70] [5.49] [6.76] [7.03] [6.96] Father’s education 5.35 6.26 5.99 5.96 5.97 
+[4.88] [4.60] [4.80] [5.33] [5.20] Mother’s education 2.92 5.31 4.05 3.25 3.48 
+[3.95] [4.48] [4.36] [4.48] [4.46] Land ownership 0.44 0.28 0.36 0.52 0.48 
+[0.49] [0.45] [0.48] [0.49] [0.49] Hindu 0.76 0.76 0.78 0.64 0.83 
+[0.42] [0.43] [0.41] [0.47] [0.36] HH members 7.76 6.55 7.09 7.63 7.48 
+[3.71] [3.08] [3.29] [3.44] [3.41] Urban 0.48 0.44 0.50 0.42 0.45 
+[0.49] [0.49] [0.50] [0.49] [0.49] 
+Notes: * denotes signit at 10 percent, ** denotes signit at 5 percent, *** denotes signit at 1 percent. Numbers in square brackets denote standard devia- tions.\Reforming" denotes states that passed the amendment to the HSA 1956 (i.e. Kerala, Andhra Pradesh, Tamil Nadu, Maharashtra and Karnataka), under which summary statistics are presented separately for groups of women who were 21 or older at reform (denoted by  21) and those who were 5 or younger at reform (de- noted by  5). \Non-reforming" denotes all the states that did not reform, but a similar split by age at reform is not possible for this category as year of reform varies by state. 
+39 
+
+========40========
+
+Table 2: Impact of Inheritance Reform on Female Education: 
+Di 
+(1) (2) (3) (4) 
+Years of education Aged 5 or less at time of reform 2.99*** 1.98*** 1.10*** 0.57** 
+(0.46) (0.57) (0.36) (0.26) Aged 6-10 at time of reform 2.07*** 1.18** 0.99*** 0.50** 
+(0.64) (0.44) (0.28) (0.20) Aged 11-15 at time of reform 1.62 0.71* 0.60** 0.15 
+(1.02) (0.40) (0.23) (0.26) Aged 16-20 at time of reform 0.61 0.01 0.28 -0.01 
+(0.87) (0.41) (0.25) (0.25) Hindu -0.06 0.57*** 0.58*** 
+(0.22) (0.14) (0.14) Father’s education 0.42*** 0.43*** 0.43*** 
+(0.02) (0.02) (0.02) Father’s age -0.01 0.00 0.00 
+(0.02) (0.01) (0.01) Mother’s education 0.32*** 0.29*** 0.29*** 
+(0.03) (0.02) (0.02) Mother’s age 0.01 0.03*** 0.03*** 
+(0.02) (0.01) (0.01) Owns land 0.17 0.27** 0.27** 
+(0.18) (0.12) (0.12) Urban 1.96*** 2.07*** 2.06*** 
+(0.24) (0.23) (0.23) No. of household members -0.17*** -0.08*** -0.08*** 
+(0.02) (0.02) (0.02) State  e No No Yes Yes Cohort of birth  e No No Yes Yes State-speci linear cohort trends No No No Yes Adj. R-sq 0.02 0.52 0.58 0.58 No. of observations 18653 15466 15466 15466 
+Notes: Standard errors are clustered at the state level and presented in parentheses. * denotes signit at 10 percent, ** denotes signit at 5 percent, *** denotes signit at 1 percent. The omitted cohort category consists of women who were 21 years or older at the time of the passage of the reform. The \Hindu" variable denotes Hindus, Buddhists, Sikhs and Jains (to whom the Hindu Succession Act applies), while non-Hindus denote Muslims, Christians, Parsis and Jews. 
+40 
+
+========41========
+
+Table 3: Impact of Inheritance Reform on Female Education: 
+Triple Dis by Land Ownership 
+(1) (2) 
+Years of education Aged 5 or less at time of reform 0.57** 0.23 
+(0.26) (0.40) Aged 6-10 at time of reform 0.50** 0.18 
+(0.20) (0.28) Aged 11-15 at time of reform 0.15 0.00 
+(0.26) (0.31) Aged 16-20 at time of reform -0.01 -0.04 
+(0.25) (0.39) Aged 5 or less at time of reform*owns land 0.83** 
+(0.32) Aged 6-10 at time of reform*owns land 0.74* 
+(0.40) Aged 11-15 at time of reform*owns land 0.28 
+(0.39) Aged 16-20 at time of reform*owns land -0.01 
+(0.44) Hindu 0.58*** 0.59*** 
+(0.14) (0.14) Father’s education 0.43*** 0.43*** 
+(0.02) (0.02) Father’s age 0.00 0.00 
+(0.01) (0.01) Mother’s education 0.29*** 0.29*** 
+(0.02) (0.02) Mother’s age 0.03*** 0.03*** 
+(0.01) (0.01) Owns land 0.27** 0.18 
+(0.12) (0.16) Urban 2.06*** 2.05*** 
+(0.23) (0.23) No. of household members -0.08*** -0.08*** 
+(0.02) (0.02) State  e Yes Yes Cohort of birth  e Yes Yes State-speci linear cohort trends Yes Yes Adj. R-sq 0.58 0.58 No. of observations 15466 15466 
+Notes: Standard errors are clustered at the state level and presented in paren- theses. * denotes signicant at 10 percent, ** denotes signit at 5 percent, *** denotes signit at 1 percent. The omitted cohort category consists of women who were 21 years or older at the time of the passage of the re- form. The \Hindu" variable denotes Hindus, Buddhists, Sikhs and Jains (to whom the Hindu Succession Act applies), while non-Hindus denote Muslims, Christians, Parsis and Jews. 
+41 
+
+========42========
+
+Table 4: Impact of Inheritance Reform on Female Education: 
+Triple Dis by Hindu 
+(1) (2) 
+Years of education Aged 5 or less at time of reform 0.57** -0.65 
+(0.27) (0.67) Aged 6-10 at time of reform 0.50** -0.61 
+(0.19) (0.64) Aged 11-15 at time of reform 0.15 -0.09 
+(0.26) (0.49) Aged 16-20 at time of reform -0.02 -0.45 
+(0.25) (0.62) Aged 5 or less at time of reform*hindu 1.57* 
+(0.83) Aged 6-10 at time of reform*hindu 1.41** 
+(0.64) Aged 11-15 at time of reform*hindu 0.28 
+(0.43) Aged 16-20 at time of reform*hindu 0.52 
+(0.52) Hindu 2.14 39.80 
+(34.72) (41.47) Father’s education 0.42*** 0.42*** 
+(0.02) (0.02) Father’s age 0.00 0.00 
+(0.01) (0.01) Mother’s education 0.29*** 0.29*** 
+(0.02) (0.02) Mother’s age 0.03*** 0.03*** 
+(0.01) (0.01) Owns land 0.26** 0.27** 
+(0.12) (0.12) Urban 2.05*** 2.05*** 
+(0.23) (0.23) No. of household members -0.08*** -0.08*** 
+(0.02) (0.02) State  e Yes Yes Cohort of birth  e Yes Yes State-religion linear cohort trends Yes Yes Adj. R-sq 0.58 0.58 No. of observations 15466 15466 
+Notes: Standard errors are clustered at the state level and presented in paren- theses. * denotes signit at 10 percent, ** denotes signit at 5 percent, *** denotes signit at 1 percent. The omitted cohort category consists of women who were 21 years or older at the time of the passage of the re- form. The \Hindu" variable denotes Hindus, Buddhists, Sikhs and Jains (to whom the Hindu Succession Act applies), while non-Hindus denote Muslims, Christians, Parsis and Jews. 
+42 
+
+========43========
+
+Table 5: Impact of Inheritance Reform on Female Education: 
+Triple Dis by Gender 
+(1) (2) (3) 
+Years of education Aged 5 or less at time of reform 0.72** -0.46** 0.49 
+(0.32) (0.22) (0.43) Aged 6-10 at time of reform 0.38* -0.26 0.30 
+(0.21) (0.18) (0.37) Aged 11-15 at time of reform 0.12 -0.25 0.21 
+(0.17) (0.15) (0.30) Aged 16-20 at time of reform 0.10 -0.07 0.14 
+(0.17) (0.14) (0.32) Aged 5 or less at time of reform*daughter 1.85*** 1.33*** 1.65*** 
+(0.31) (0.42) (0.47) Aged 6-10 at time of reform*daughter 1.20*** 1.08* 1.15* 
+(0.33) (0.54) (0.57) Aged 11-15 at time of reform*daughter 0.99** 0.63 0.55 
+(0.43) (0.39) (0.57) Aged 16-20 at time of reform*daughter 0.14 0.31 0.08 
+(0.39) (0.29) (0.49) Daughter -1.50*** -6.51*** -6.11* 
+(0.30) (1.02) (3.47) Hindu 0.67*** 0.95*** 
+(0.18) (0.18) 
+Father’s education 0.42*** 0.42*** 
+(0.02) (0.02) 
+Father’s age -0.01 -0.01 
+(0.01) (0.00) 
+Mother’s education 0.23*** 0.21*** 
+(0.02) (0.01) 
+Mother’s age 0.04*** 0.04*** 
+(0.01) (0.00) 
+Owns land 0.57*** 0.64*** 
+(0.15) (0.10) 
+Urban 1.45*** 1.48*** 
+(0.14) (0.13) 
+No. of household members -0.06*** -0.03** 
+(0.01) (0.01) 
+State  e No Yes No Gender-cohort of birth  e No Yes Yes State-speci linear cohort trends No Yes No Household  e No No Yes Adj. R-sq 0.40 0.43 0.65 No. of observations 73276 73276 56915 
+Notes: Standard errors are clustered at the state level and presented in parentheses. * denotes signit at 10 percent, ** denotes signit at 5 percent, *** denotes signit at 1 percent. The omitted cohort category consists of women who were 21 years or older at the time of the passage of the reform. The \Hindu" variable denotes Hindus, Buddhists, Sikhs and Jains (to whom the Hindu Succession Act applies), while non-Hindus denote Muslims, Christians, Parsis and Jews. 
+43 
+
+========44========
+
+Table 6: Impact of Inheritance Reform on Likelihood of 
+Inheritance by Women 
+(1) (2) (3) (4) 
+Inheritance 
+Aged 10 or less at time of reform -0.03 0.00 0.06* 0.05 
+(0.02) (0.03) (0.04) (0.06) Aged 11-15 at time of reform -0.03 -0.03 0.06** 0.05 
+(0.02) (0.02) (0.03) (0.05) Aged 16-20 at time of reform -0.03 -0.04 0.05* 0.04 
+(0.02) (0.02) (0.03) (0.04) Aged 10 or less at time of reform*owns land -0.05 -0.09 -0.11** -0.08* 
+(0.03) (0.05) (0.05) (0.04) Aged 11-15 at time of reform*owns land -0.03 -0.03 -0.06 -0.05 
+(0.04) (0.04) (0.04) (0.04) Aged 16-20 at time of reform*owns land -0.03 -0.02 -0.04 -0.05 
+(0.03) (0.03) (0.03) (0.04) Owns land 0.05 0.05 0.05 0.05 
+(0.03) (0.03) (0.03) (0.03) No. of daughters -0.00 0.00 0.00 
+(0.00) (0.00) (0.00) Non-Brahmin upper caste -0.04 -0.02 -0.01 
+(0.03) (0.02) (0.02) Scheduled caste -0.05 -0.02 -0.02 
+(0.03) (0.03) (0.03) Scheduled tribe -0.06* 0.00 0.00 
+(0.03) (0.03) (0.03) Other backward caste -0.03 0.02 0.02 
+(0.03) (0.04) (0.04) Non-classi Hindu -0.10*** -0.04 -0.03 
+(0.03) (0.03) (0.03) State  e No No Yes Yes Cohort of birth  e No No Yes Yes State-speci linear cohort trends No No No Yes Adj R-sq 0.01 0.01 0.10 0.11 No. of observations 2958 2843 2843 2843 
+Notes: The dependent variable is a dummy which equals 1 if the daughter has inherited any land and 0 if otherwise. Standard errors are clustered at the state level and presented in parentheses. * denotes signit at 10 percent, ** denotes signit at 5 percent, *** denotes signit at 1 percent. The omitted cohort category consists of women who were 21 years or older at the time of the passage of the reform. The omitted caste category is Brahmins, the highest in the caste ladder. 
+44 
+
+========45========
+
+Table 7: Impact of Inheritance Reform on Dowry Payments 
+(1) (2) (3) (4) (5) 
+Log(dowry payment) 
+Aged 10 or less at time of reform 0.02 -0.12 -0.04 -0.24 -0.29 
+(0.20) (0.24) (0.17) (0.22) (0.28) Aged 11-15 at time of reform -0.12 0.00 -0.49* -0.47* -0.70** 
+(0.19) (0.22) (0.26) (0.23) (0.27) Aged 16-20 at time of reform 0.28 0.44 -0.27* -0.19 -0.35 
+(0.30) (0.28) (0.14) (0.15) (0.27) Aged 10 or less at time of reform*owns land 0.85*** 0.92*** -0.03 -0.36** -0.86*** 
+(0.22) (0.22) (0.13) (0.15) (0.17) Aged 11-15 at time of reform*owns land 0.89*** 0.77*** 0.46** 0.40* 0.57 
+(0.26) (0.25) (0.22) (0.19) (0.41) Aged 16-20 at time of reform*owns land -0.05 -0.05 0.01 0.06 0.17 
+(0.37) (0.34) (0.18) (0.18) (0.23) Owns land 0.24 0.18 0.36*** 0.37*** 0.24* 
+(0.17) (0.15) (0.08) (0.08) (0.12) No. of daughters -0.06 -0.03 -0.03 -0.01 
+(0.04) (0.02) (0.02) (0.03) Non-Brahmin upper caste 0.13 -0.12 -0.11 -0.05 
+(0.10) (0.13) (0.12) (0.14) Scheduled caste -0.45** -0.63*** -0.66*** -0.56*** 
+(0.16) (0.11) (0.11) (0.17) Scheduled tribe -1.04*** -0.96*** -0.98*** -0.95*** 
+(0.25) (0.24) (0.25) (0.29) Other backward caste -0.29 -0.53*** -0.53*** -0.44*** 
+(0.23) (0.08) (0.08) (0.11) Non-classi Hindu -0.06 -0.30*** -0.31*** -0.28* 
+(0.20) (0.10) (0.08) (0.13) State  e No No Yes Yes Yes Cohort of birth  e No No Yes Yes Yes State-speci linear cohort trends No No No Yes Yes Adj R-sq 0.02 0.07 0.28 0.30 0.28 No. of observations 3259 3110 3110 3110 1932 
+Notes: The dependent variable is log of real dowry payments (in 1966 rupees) made at the time of the daughter’s marriage. Standard errors are clustered at the state level and presented in parentheses. * denotes signit at 10 percent, ** denotes signit at 5 percent, *** denotes signit at 1 percent. The omitted cohort category consists of women who were 21 years or older at the time of the passage of the reform. The omitted caste category is Brahmins, the highest in the caste ladder. 
+45 
+
+========46========
+
+Table A.1: Distribution of Women by Age at Reform in 
+Reforming States 
+(1) (2) (3) (4) (5) (6) Age at reform Andhra Pradesh Karnataka Kerala Maharashtra Tamil Nadu Total -8 0 0 82 0 0 82 -7 0 0 79 0 0 79 -6 0 0 97 0 0 97 -5 0 0 92 0 0 92 -4 0 0 89 0 0 89 -3 0 0 84 0 0 84 -2 0 0 73 0 0 73 -1 0 0 169 0 0 169 0 0 0 204 0 0 204 1 0 0 153 0 0 153 2 164 0 172 0 0 336 3 132 0 139 0 0 271 4 131 0 116 0 0 247 5 175 0 236 0 128 539 6 123 0 294 0 120 537 7 99 0 301 0 110 510 8 100 0 235 0 128 463 9 103 0 241 0 92 436 10 209 151 217 286 73 936 11 108 115 176 243 78 720 12 129 127 185 227 190 858 13 119 188 130 312 194 943 14 87 117 135 202 150 691 15 122 88 86 194 152 642 16 161 124 89 188 142 704 17 140 179 71 329 115 834 18 143 269 61 425 115 1,013 19 226 134 76 244 222 902 20 107 248 29 336 208 928 21 70 140 25 213 165 613 22 115 115 35 178 193 636 23 54 328 22 377 137 918 24 166 198 15 244 120 743 25 34 285 18 280 112 729 26 53 193 15 228 66 555 27 25 223 12 219 95 574 28 19 160 8 167 56 410 29 88 115 7 124 58 392 30 23 200 5 154 34 416 31 9 109 3 120 27 268 32 21 97 4 78 66 266 33 7 94 3 93 13 210 34 41 49 0 60 28 178 35 5 81 0 56 22 164 36 8 57 0 50 8 123 37 6 61 0 63 18 148 38 4 32 0 36 9 81 39 12 14 0 23 7 56 40 2 50 0 29 4 85 41 0 18 0 30 4 52 42 0 23 0 27 8 58 43 0 12 0 18 0 30 44 0 6 0 18 2 26 45 0 12 0 9 0 21 46 0 12 0 11 1 24 47 0 17 0 11 0 28 48 0 5 0 4 0 9 49 0 2 0 5 0 7 50 0 10 0 3 0 13 51 0 1 0 2 0 3 Total 3,340 4,459 4,283 5,916 3,470 21,468 
+46 
+
+========47========
+

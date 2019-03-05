@@ -1,0 +1,722 @@
+February2012 
+No.77 
+Smithian Growth Through Creative Organization 
+Patrick Legros,Andrew F. Newman,EugenioProto ECARES, CEPR, Boston University and University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Smithian Growth Through Creative Organization 
+Patrick Legros,y 
+Andrew F. Newman,z 
+Eugenio Protox 
+April 2009; revised February 2012 
+Abstract 
+We consider a model in which appropriate organization fosters innovation, but because of contractibility problems, this bene cannot be internalized. The organizational design element we focus on is the division of labor, which as Adam Smith argued, facilitates invention by observers of the production pro- cess. However, entrepreneurs choose its level only to facilitate monitoring their workers. Whether there is innovation depends on the interaction of the mar- kets for labor and for inventions. A high level of specialization is chosen when the wage share is low. But low wage shares arise only when there are few en- trepreneurs, which limits the market for innovations therefore and discourages inventive activity. When there are many entrepreneurs, the innovation market is large, but the rate of invention is low because there is little specialization. Rapid technological progress therefore requires a balance between these oppos- ing e which occurs with a moderate relative scarcity of entrepreneurs and workers. In a dynamic version of the model in which a credit constraint limits entry into entrepreneurship, this relative scarcity depends on the wealth distri- bution, which evolves endogenously. There is an inverted-U relation between growth rates driven by innovation and the level of inequality. Institutional im- provements have ambiguous e on growth. In light of the model, we o a reassessment of the mechanism by which organizational innovations such as the factory may have spawned the industrial revolution. 
+JEL keywords: factory system, industrial revolution, technological change, contracts 
+We are grateful to Daron Acemoglu, Philippe Aghion, Roland Benabou, Maristella Botticini, Steve Broadberry, Micael Castanheira, Nick Crafts, Wouter Dessein, Philip Garner, Bob Margo, Frederic Robert-Nicoud, Jim Robinson, Ken Sokolo Philippe Weil, and Fabrizio Zilibotti for helpful discussion. 
+yECARES and CEPR 
+zBoston University and CEPR 
+xUniversity of Warwick 
+1 
+
+========2========
+
+1 Introduction 
+Ideas drive technological change. And as with the production of other goods, the production of ideas depends on the organizational environment. Understanding tech- nological change therefore requires an understanding of the relationship between orga- nization and invention. What kinds of organization best foster the generation of new ideas? What are the broader economic conditions in which such creative organization will emerge? 
+Recent e to answer these questions have focused, naturally enough, on the case in which invention happens to be an objective of the  as in the R&D labo- ratory or a new-product joint venture.1 In this situation, the organization is designed to maximize the value of the inventions produced at least cost, taking into account constraints both on incentives and technology { in particular the \technology" of human cognition. Environments that are generally favorable for investment will be conducive to innovation in particular. 
+A wider look at the economic development process suggests, however, that much of historical technological change has occurred without the involvement of such  Organized R&D was rare before the twentieth century; today it is con to only a relatively small fraction of  worldwide and is responsible for only a fraction of innovation. Nevertheless, even when it has other objectives, the  remains the main arena of innovation: technological progress can be an unintended consequence of organizational design. This paper presents a  attempt at modeling this aspect of the determinants of economic growth. 
+The industrial revolution provides the natural backdrop for examining the issues. A distinguishing feature of the period was the rise of the factory system, in which production was carried out by workers gathered under one roof, with strict supervi- sion and discipline, and most important perhaps, a division of labor. And though a vast literature reveals wide assent on the importance of the factory system, economic historians display little consensus | no doubt fueled by the wide cross-country vari- ation in the manner and timing of its adoption | on just what role it actually played in fostering the rapid technological advances and economic growth that also char- 
+1See, e.g., Aghion and Tirole (1994), Garicano and Rossi-Hansberg (2007) as well as antecedents in the industrial organization literature, e.g. Kamien-Schwartz,(1976) and Loury (1979). The per- spective that invention should be understood as endogenous to economic forces has been forcefully advanced by some of the scholars of \new growth theory," e.g., Romer (1986, 1990) and Aghion- Howitt (1992). 
+2 
+
+========3========
+
+acterized the era. Some commentators, like Landes (1969), seem to argue that the factory was epiphenomenal, merely an optimal organizational response to exogenous technological change. Others, like Cohen (1981), Millward (1981), and North (1981), suggest that it was the enhanced e of the factory system itself relative to earlier forms of organization that generated greater surpluses, though it is di to see how this by itself could plausibly translate into increased rates of innovation and growth. 
+A third view, attributable to Adam Smith and echoed by later writers on the industrial revolution such as Charles Babbage and Amsa Walker, arms a causal role for the factory system. It places the emphasis less on its static bene of making better use of current inputs to produce current output, than on a dynamic one: the adoption of the factory, and in particular the  division of labor into elementary tasks, engenders a \cognitive externality" by providing a superior environment to inspire invention and renement of productive techniques. Primarily these inspirations accrue to persons, such as the occasional workman or an outside observer, other than the factory’s owner. By focusing an individual’s attention, it makes it easier for him to improve on old techniques. Alternatively, and complementarily, by providing a \model" in human form of elementary tasks, it facilitates the development of machines that can better perform those tasks.2. 
+Now, there is little evidence that anyone during the industrial revolution ever built a factory because he expected it to help him innovate. Given the nonrival nature of ideas and the di in excluding them for long, this should not be surprising. More di still, but essential for appropriating a return to establishing a creative organization, would be proving the source of inspiration for an idea that could be widely applied. Thus, the creative role of the division of labor could only be harnessed via some other economic mechanism that would have induced the widespread adoption of the factory and the concomitant surge of technical progress. 
+Fortunately, the division of labor had other bene as Smith himself enumerated. Among them was the enhanced ability to monitor labor: a worker assigned to only a small number of tasks will be less able to disguise shirking as downtime between 
+2From the 
+Wealth of Nations: \I shall only observe, therefore, that the invention of all those machines by which labor is so much facilitated and abridged seems to have been originally owing to the division of labor. Men are much more likely to discover easier and readier methods of attaining any object when the whole attention of their minds is directed towards that single object that when it is dissipated among great variety of things." 
+3 
+
+========4========
+
+tasks, or to  opportunities to embezzle either inputs or outputs undetected.3 This idea has been rekindled by the burgeoning literature on multi-task principal- agent problems following Holmstrom and Milgrom (1991) and Baker (1992), which highlights the gains from better incentives that come from reducing the number of tasks assigned to a single worker. Thus, an entrepreneur could bene privately from a  division of labor, even if he had no interest in its social bene in terms of eased 
+invention.4 
+Of course, dividing labor does not come for free. There are lost economies of individual scope from minute task division; costs of communication among specialized workforces; time spent coordinating tasks among disparate individuals; and resources that have to be marshaled for assembling the components of the  good produced by each worker (see for instance, Becker and Murphy, 1992; Radner and vanZandt, 1992; Bolton and Dewatripont, 1994; Garicano, 2000; Dessein and Santos, 2006). Entrepreneurs would have to trade o the monitoring bene of labor division against these coordination costs. 
+A basic implication of incentive theory is that monitoring bene vary with the wage level. In particular, entrepreneurs would be induced to choose a high level of labor division only when wages are low, requiring more monitoring (this relationship between wage and monitoring levels has also appeared in the e wage literature, e.g., Acemoglu-Newman, 2002). Thus, conditions in the labor market will determine an entrepreneur’s choice of labor division, and via the cognitive externality, the level of technological progress. 
+We investigate this mechanism in the context of a standard occupational choice model (e.g., Banerjee-Newman, 1993). Individuals choose between being workers, who supply imperfectly observable e to  or entrepreneurs, who hire workers and choose the degree of labor division within their  The market wage will mediate both the occupational and organizational choices, since it a the relative 
+3Also from the 
+Wealth of Nations: \A man commonly saunters a little when turning his hand from one sort of employment to another...The habit of sauntering and of indolent careless application, which is naturally, or rather necessarily, acquired by every country workman who is obliged to change his work and his tools every half hour and to apply his hand in twenty dit ways almost every day of his life, renders him almost always slothful and lazy, and incapable of any vigorous application even on the most pressing occasions.". 
+4A third potential bene of labor division is of course the  one Smith mentioned: \improved dexterity," or direct productivity gain. We shall be abstracting from this well-studied aspect, partly because as it is more purely technological, it provides less of a clear tradeo that can account for the wide cross-country variation in degree of labor division and the use of the factory system. 
+4 
+
+========5========
+
+attraction of the occupations and the returns to monitoring. The relative scarcity of entrepreneurs and workers determines the wage and through it, the organizational design of  
+A special class of individuals whom we dub \nerds" are the ones who tinker with the old technology and  ways to improve it.5 Like everyone else, they respond to incentives, choosing how much to invest in inventive e partly on the basis of how much they expect to earn selling any inventions they may produce. But the ease of inventing is determined also by the degree of labor division in the economy’s   division makes it easy to invent { e.g., to replace a human performing a simple repetitive task by a machine that can do the same much faster. With a coarse division of labor, perceiving which aspects of a job are subject to improvement or mechanical replacement is much more di6 
+As in earlier occupational choice models, there are dit types of equilibria, uniquely determined by the relative scarcity of entrepreneurs and workers, and char- acterized in part by the nature of the predominant organizational forms. But here, equilibria are also characterized by the accompanying rate of technological innovation. 
+There is an \artisanal" equilibrium in which workers are responsible for a large number of tasks (i.e., a low degree of labor division) and wage shares are high. There is also a \factory" equilibrium with  divided labor and lower wage shares. The artisanal equilibrium is the statically more eient one, since fewer resources are lost to monitoring via the costly division of labor. But it may be dynamically inet in the sense that the innovation rate is low, owing to the diy of inventing under a coarse labor division. 
+The factory equilibrium, though statically wasteful, has the potential to generate higher rates of innovation than the artisanal one. Since it only exists when there are few entrepreneurs, this might seem to imply that entrepreneurship actually impedes innovation, the artisanal equilibrium being a case of too much of a good thing. But there is a countervailing e Since nerds will be able to sell their inventions to the entrepreneurs on an innovation market, the investment decision for an aspiring 
+5Making the inventors a special population is mainly for analytical simplicity { it would not change things much to assume they are drawn from the population at large. See Khan and Sokolo (1990) for evidence on the social background of inventors during the industrial revolution. 
+6An alternate and complementary interpretation is suggested by Aoki (1986): with a coarse divi- sion of labor, much of the information about the various tasks will remain tacit; with a  division of labor, coordination may entail formal codi of this knowledge. Once documented, however, the knowledge becomes more accessible to inventors, which facilitates technological improvement. 
+5 
+
+========6========
+
+inventor depends on the extent of this market: the larger it is, the more revenue is available. 
+The scarcity of entrepreneurs therefore a the innovation market as well as the labor market through a market size ect. When there are relatively many workers, the number of buyers of inventions is small, and though it may be easier to invent, the revenue generated will be too small to justify the e the innovation market shuts down.7 At the other extreme, despite a large demand for innovations that comes when there are many entrepreneurs, innovation will be undermined by the diy of inventing under the artisanal mode of  organization. Moderate ratios of entrepreneurs to workers however, keep wage shares low so that specialization is high and ideas arrive easily, and at the same time provides enough of a market for them to induce people to invent. In short the model predicts an inverted U-shaped relation between the fraction of the population who are entrepreneurs and the rate of technological progress. 
+Turning to long-run dynamics, the model can generate steady-state endogenous growth. We endogenize entry into the the occupations by supposing there is a credit market imperfection that inhibits those with less than a threshold level of wealth from becoming entrepreneurs. Thus, the proportion of entrepreneurs will be iden- ti with the fraction of \rich" agents, which becomes the state variable for the economy. We demonstrate the existence and local stability of steady states in which the static relation between the entrepreneur-worker (now the rich-poor) ratio and the rate of innovation and growth is maintained in the long run. An economy initially with many poor will tend to collapse to a pure subsistence equilibrium. One with many rich will make technological change slow or nonexistent, though it may appear statically auent, with a high wage share and few resources lost to coordinating divided labor. Only economies that initially have moderate inequality will be able to sustain a high rate of steady-state innovation and growth.8 We discuss how the basins of attraction of these steady states depend on \institutional" factors such as the quality of cial markets, the complexity of technology, and most important, 
+7Something like this size e can be gleaned by comparing industries in eighteenth century Britain. Watchmaking had a  division of labor going back at least a century earlier, but it served only a small (luxury) market, and thus never experienced the high levels of innovation that a other industries such as cotton and steel (Mathias, 1983). 
+8As far as we know, such an \inverted U" relationship between inequality and innovation is new to the literature. In our case, inequality not only governs the innovation rate, but also is in by it, since it is determined in part by the incomes accruing to the inventors. 
+6 
+
+========7========
+
+organizational innovations such as the demise of the putting-out system and rise of the factory. 
+These results suggest a possible explanation for the venerable economic histori- ans’ conundrum of why Britain among European nations was  to industrialize.9 Compared with some of its continental counterparts (notably France), in the late eigh- teenth century both had similar levels of technology, some form of patent system, free labor markets, and (as in our model) only rudimentary and imperfect credit markets. Yet France remained a nation of family farms and small enterprise for several decades, while Britain rapidly became a nation of factories and the seat of the Industrial Revo- lution (Deane, 1965; Shapiro, 1967; O’Brien and Keyder, 1978; Crafts, 1985; Crouzet, 1990; Mokyr, 1990). One dience was the distribution of wealth, which was rather more unequal in England (Clapham, 1936; Grantham, 1975; Soltow, 1980). Other slow-to-industrialize countries, such as (northern) Italy, had greater inequality than Britain in the same period. 
+In addition, the analysis o a novel perspective on precisely how the organi- zational innovation that was the factory contributed to the Industrial Revolution. Centralizing production under one roof (the \manufactory") rather than decentraliz- ing it in worker’s cottages (the \putting-out system") would have reduced the cost of dividing labor (e.g. lower costs of transporting partly  products from one worker to the next), even though logically, one might have had a very  division of labor under putting-out as well. It would also have increased the monitoring bene since enforcement of rules against straying from one’s work station obviously would have been cheaper to enforce in the manufactory than under putting out. Thus, the adoption of the manufactory would have led to a  division of labor, facilitating invention as we have suggested, and ultimately giving us the Industrial Revolution. Of course, the manufactory did not accomplish this in isolation { certain accessory institutional and distributional conditions were satis as well, in Britain especially. We shall have more to say on this in the Conclusion. 
+9Our model arguably is better interpreted as one about the origins of sustained \micro-inventing" rather than \macro-inventing." Although it is di to quantify the relative importance of these two (complementary) types of invention for growth, there is little doubt that part of the signi of the industrial revolution was that it was the  period in which there was a sustained w of micro-inventions to fuel technological progress (Rosenberg, 1982; Mokyr, 1990). 
+7 
+
+========8========
+
+2 The Basic Model 
+In this section we consider a \static" model in which the occupation of each agent is exogenous. In the next section we extend the model dynamically: agents make an occupational choice that is partially constrained by their wealth, which evolves endogenously. 
+2.1 Agents and Timing 
+Economic activity takes place at two dates, 1 and 2. At each date, there is a measure 1   or \normal" individuals who are economically active; of these, r are entrepreneurs and 1  r are workers. In addition, there are  nerds who are active at both dates (they are \young" at date 1 and \old" at date 2). All agents are risk neutral and are endowed with a unit of e normal agents use it to produce the economy’s single consumption good; nerds use it to produce inventions. 
+Entrepreneurs can each hire up to n workers, or can operate on their own in \ar- tisan"  Young nerds observe the production process carried out by the normals active at date 1. Those who succeed in  an idea for improving technology may enter the innovation market to sell their inventions to the entrepreneurs who are active at date 2. 
+2.2 Production 
+2.2.1 Technology 
+Production of the consumption good involves a unit measure of \jobs" indexed byR 
+j 2 [0;1]. The labor productivity for job j is a(j) and output is exp( 
+1 
+0 
+log[a(j)l(j)]dj); where l(j) is the labor allocated to job j. Given this technology, labor is uniformly allocated over all jobs independently ofR a(): Output per unit labor is therefore A = exp( 
+1 
+0 
+loga(j)dj): 
+A  output is linear in the number of workers hired, up to the scale n. If the entrepreneur operates on his own without workers, he produces A, where 
+n 
+2 
+   1. Thus if an entrepreneur hires any workers at all, he must be making positive pro from each, and therefore will hire n of them. 
+We use a \quality ladder" approach for modeling technical progress (Grossman- Helpman, 1991). An invention improves the productivity of a single job by the 
+8 
+
+========9========
+
+multiplicative factor (1 + ). If m(j) improvements are implemented on job j, its productivity becomes a0(j) = (1 + )m(j)a(j):10 
+Denote the technology operated by the entrepreneurs at date 1 by A = exp(R10 loga(j)dj). This technology is freely available to the date 2 entrepreneurs, though typically they will choose to improve it: if they purchaseR m innovations, the new technology is A0 = A(1 + )m where m = 
+1 
+0 
+m(j)dj. Since each nerd can have at most one inven- tion, we have m   < 1. 
+2.2.2 Contractibility Assumptions 
+We make the following assumptions: 
+c1  Worker e is imperfectly observable; the degree of imperfection depends neg- 
+atively on the division of labor. 
+c2  The source of ideas is not attributable, hence entrepreneurs cannot claim own- 
+ership of them. 
+c3  Nerd e is not observable. 
+As we already discussed in the Introduction, the  assumption provides the basis on which the division of labor bene entrepreneurs. The last two are the reasons why entrepreneurs do not internalize the e of labor division on invention: the second prevents contracting with a nerd on the contingency that he obtained an idea because of the entrepreneur’s organizational choice; combined with the last assumption, it prevents entrepreneurs from establishing \invention factories," wherein they hire nerds to produce ideas in return for wages. 
+2.2.3 Division of Labor 
+Here we describe how the division of labor is modeled and how it facilitates moni- toring. The set of jobs can be subdivided into a number of (equal-size) components. Denoting their number by ; each one contains 1= jobs; hence  = 1 corresponds 
+10Thus one job may be improved an inde number of times. This is a simplifying asssumption that avoids the computation of the individual returns to inventing when there is a possibility of duplication or diminished returns. Our conclusions would not be altered substantially if it were relaxed, and it gives the best chance for innovation via the Smithian mechanism. It is also convenient for representing steady-state growth without the added complication of providing a theory of how new sectors come to into being during the development process. 
+9 
+
+========10========
+
+to the early manufacturing days where artisans were put under the same roof but continued to do all the jobs involved in producing the good, while   2 may cor- respond to an assembly line system. Workers are specialized in producing individual components; given the production technology, in order to produce a unit of the good, it is necessary to combine one unit of each of the  components. 
+When  = 1; a worker spreads his unit of labor time uniformly over all the jobs; hence a worker has to spend 1= of units of labor time to produce one unit of a component consisting of 1= jobs. Absent coordination problems, it does not make a di in terms of total output whether each of n workers does all the jobs (is completely unspecialized), or is -specialized, with n= workers assigned to each component and producing  components each: either way, output is nA. 
+However, as in Becker and Murphy (1992), we assume that specialization generates coordination problems. For instance, in an assembly line, each worker has to spend time taking the component from the previous worker in line, assembling it with his own component and passing everything to the next component. In many  producing complex products, seamless integration between components often requires a large number of meetings, reducing time available for production. 
+When there are  components, each worker specialized in one component will have to spent time coordinating with   1 producers of the other components and the cost in time units is c(  1); with c > 0: 
+Hence, total time available for production is now only 1  c(  1); so a worker can produce (1  c(  1)) components. Since there are n workers per  n= workers are assigned to each component, and if the entrepreneur’s technology is A; total output is n(1  c(  1))A: 
+Compensating for the coordination cost of specialization is its monitoring ben- e11 In our model, a worker \shirks" not so much by withholding e but by 
+11As mentioned earlier, we assume there is no 
+net output gain from specialization (unlike e.g., Costinot, 2005); that is, we consider situations where the cost of coordination dominates the produc- tivity gains from specialization. If there are diminishing returns to specialization in this dimension (Smith himself suggests this: see discussion at the end of Section 2.3.3) without a concomitant fall in coordination costs, the net e of specialization on productivity is  positive and then negative as specialization increases. Since the monitoring bene increases with specialization, in the  region it is pro maximizing to increase specialization. We can then interpret  = 1 as a normaliza- tion, the maximum degree of specialization for which there are net output gains. If direct gains from specialization were the only appropriable bene of the division of labor, the question of whether there is economic growth is reduced to the exogenous parametric question of whether specialization gains diminish quickly or slowly enough relative to the innovation gains. Moreover, as we shall note in Section 2.3.1, the monitoring bene also predicts a positive correlation between productivity and 
+10 
+
+========11========
+
+engaging in a sideline activity { for instance diverting parts to assemble and sell him- self { that has a return ,  < 1, where A is the technology available within the . 
+It is not possible to distinguish a worker doing job j for the  or for himself. A worker assigned to a component consisting of 1= jobs will spend only 1= of his time on jobs that are part of that component if he shirks, whereas he spends all his time on the component if he works. Random monitoring will therefore detect shirking with probability 1  
+1 
+ 
+; hence the higher the level of labor division , the more ee is monitoring. 
+2.2.4 Labor Contracting 
+On the labor market, entrepreneurs o contracts (; w) consisting of a degree of specialization  and a wage w normalized to the state of technology A that is paid only if the worker is not caught shirking. 
+If the worker is caught shirking, it is optimal to punish him maximally: he loses both his wage wA and the \booty" . Since the shirking worker escapes detection with probability 1=, shirking yields him a bene of (w + )A= while working yields wA. It follows that the worker will work when the following incentive compatibility condition is satis 
+w  
+ 
+  1 
+: (1) Admissible contracts (; w) must satisfy (1) as well as a participation constraint. 
+Observe that higher  implies higher ; given the wage. Evidence on factory orga- nization in the late eighteenth and early nineteenth centuries is consistent with this prediction. Factories producing easily-embezzled goods (high ) had higher degrees of labor division than others: watches, for example { valuable goods that could easily be stolen and sold for close to full market value { were produced via a minute division of labor since the early eighteenth century (Mathias 1983, p. 126; Thompson 1963, p. 66.). Similarly luxury-market-oriented goods such as coaches and pianos (low ) were still produced via traditional techniques as late as the 1830s.12 More generally, economic historians have emphasized embezzlement and eliciting worker e as ma- jor concerns in shaping the organization of the  factories and as the chief reasons 
+specialization, so the evidence for the productivity bene must be interpreted with care. 
+12See Dodd (1821, pp. 387-408, 432-456) for descriptions piano and coachmaking factories. Pollard (1965, pp. 45, 84-85) o similar evidence that in shipbuilding or housing (both low-), production remained organized around the individual craftsman well into the nineteenth century. 
+11 
+
+========12========
+
+for the factory system’s supplantation of the putting-out system (e.g., Clark 1994, Pollard 1965).13 
+Suppose a  has technology A, and let u be the outside option of a worker. The contract that a  o solves 
+max n(1(w;)  c(  1) 
+w  
+ 
+  1 
+wA  u; 
+ w)A 
+(2) 
+(3) 
+(4) 
+where (3) is the worker incentive compatibility constraint, and (4) is the partici- pation constraint. 
+The incentive constraint binds: if it does not, the entrepreneur can increase her pro by lowering . Writing (w)  n(1  
+c 
+w 
+ w), the problem reduces to 
+max A(w)w s.t. wA  u: 
+(5) 
+The unconstrained maximum occurs at at w = 
+p 
+tion  = 
+ 
+1 + 
+p 
+ 
+and normalized prot (w) = n 
+ 
+c, with concomitant specializa- 
+c 
+1  2pc. Clearly, if the labor market is ever to be active, entrepreneurs must prefer to hire workers (use n  2) rather than work by themselves (in which case their normalized income is ) whenp 
+the wage assumes this minimum value, i.e., c < 
+1 n   
+2 n 
+. We shall assume that this condition holds for all  > n= 2, that is: 
+Assumption 1. 
+pc < 
+1 
+4. 
+The equilibrium wage share is a function of u. For low values, entrepreneurs are not constrained and can choose w. For high values, the participation constraint binds, and entrepreneurs increase the wage beyond w and choose less specialization. 
+13Pollard (1965, p.184) discusses work rules that resulted in dismissal for being \found a yard out of his ground," or  for being \found from the usual place of work, except for necessary purposes, or talking to anyone out of their own Ally [sic]," which would be di to implement and enforce without a high level of labor division. Except for products that could be assembled on a small table, a worker with wide responsibility would likely have to wander around the factory and talk to numerous other workers. 
+12 
+
+========13========
+
+Observe that when the participation constraint binds, if one  has better tech- nology than another, it will also have a  division of labor. Since wA = u, raising A lowers w and therefore raises : a m with higher A has more to pilfer (or more to lose when its workers shirk), and this must be o by more intensive monitor- ing. Thus, the model would predict a positive correlation between productivity and specialization in a cross section of heterogeneous  but higher productivity is the cause, not the consequence, of greater specialization. 
+2.2.5 Invention 
+Entrepreneurs choose the degree of specialization by considering only the tradeo between coordination costs and monitoring bene What they do not consider is that specialization also a how easily other agents can  ways to improve the productivity of tasks. These agents are represented by the nerds in our model. 
+A nerd can generate an idea on how to improve one job. If he cogitates during his youth, he observes the state of the art technology A together with the division of labor . He then randomly selects a component for study and arrives at an idea for improvement to one of the tasks in his component with probability p(), where p() is an increasing function. If instead he vegetates, he simply generates A (  < 1) units of the consumption good for himself. 
+If an invention is obtained, the nerd becomes active on the innovation market when he is old, and anticipates selling his invention at a license price of q. With a measure of entrepreneurs equal to (1  )r, he obtains (1  )rq for his invention, and cogitation is worthwhile only if 
+(1 
+ )rp()q  A: 
+(6) 
+The derivation of q is deferred to Section 2.3.2. 
+2.3 Markets and Prices 
+At date 1, all entrepreneurs possess the technology A, and the wage w and degree of specialization  are determined in the labor market. Nerds then observe the produc- tion process, and if they have the incentives to cogitate, invent with probability p(): At the second date, an innovation market as well as the labor market are active, and we think of them as opening in that sequence. Demand in both markets is generated 
+13 
+
+========14========
+
+by the entrepreneurs. The workers form the supply side of the labor market, while the old nerds who successfully invented when they were young supply the innovation market. 
+2.3.1 Labor Market 
+Since entrepreneurs who hire workers will always choose to do so at the maximum scale n, labor market equilibrium will generically involve one of only two levels of the wage share w. This will correspond to a case of excess supply of workers and a case of excess demand for them; in the latter situation, equilibrium requires an entrepreneur’s indi between hiring workers and operating the technology himself. 
+The labor market condition is re in the utility u that has to be guaranteed to a worker. Recall that the measure of entrepreneurs is r(1  ), while that of workers is (1  r)(1  ). If nr < 1  r, that is, r < r^  
+1 
+n+1, supply exceeds demand, and the normal agents who are not hired obtain a payo of zero. Since entrepreneurs can always  a worker who will accept any positive wage, they are not constrained; we can take u = 0 and the equilibrium wage will be w. 
+If r > r^ when the labor market opens, the participation constraint in problem (5) binds, and u will be bid up until the potential entrepreneurs are indit between hiring workers and operating on their own: the corresponding wage share w, with division of labor , satis (w) = , since by operating on his own, an entrepreneur can get A.(In the nongeneric case in which the labor market is just balanced (r = ^r), any u corresponding to a wage share in [w;w] is consistent with market clearing.) 
+For later use, we denote the equilibrium wage when there is a measure r of rich normal by w(r): w(r) = w if r < r^ and w(r) = w if r > r^. 
+>From the perspective of the entrepreneur, the lower output brought by special- ization is the price to pay for maintaining a larger prot share. High degrees of specialization reduce aggregate output: a larger wage share would result in greater output, but smaller pro for entrepreneurs. However, from a dynamic perspec- tive, specialization may enhance growth of aggregate output insofar as it facilitates invention. 
+2.3.2 Innovation Market 
+Suppose that a measure m <  of old nerds found ideas when young and now are bringing them to market. Each of these inventors has a monopoly on his idea and 
+14 
+
+========15========
+
+can o it to all takers. Since improvements to each job enter symmetrically in the pro function, each entrepreneur cares only about the total number k of inventions he acquires, and wants at most one copy of each. The situation therefore conforms to a case of multiproduct monopoly in which each producer can o his product at zero marginal cost. 
+Trade in the innovation market takes place as follows. (1) Simultaneously, each inventor sets a price for his idea; (2) each entrepreneur, taking these prices as given, chooses which inventions to purchase; (3) inventors incorporate their invention in the production process of the entrepreneurs who have agreed to purchase them.14 An equilibrium of the innovation market is de by a license price qi for each inventor i and an adoption strategy kl for each entrepreneur l. Taking the other inventors’ prices q 
+ i, the labor market outside option of workers 
+u, and the adoption strategies as given, an individual inventor does not want to modify his price. Taking the prices qi and u as given, an entrepreneur does not want to modify his adoption strategy. We shall focus on symmetric (in license price) equilibria and assume that inventors cannot price discriminate among entrepreneurs (for instance, based on their future scale of operation). 
+If A is the level of technology that prevailed last period, the level for an en- trepreneur who acquires k inventions is A(k) = A(1 + )k, which is increasing and convex in k. Denote the payo to an entrepreneur who adopts k inventions and faces outside option u by V (k; u). The value of adopting k inventions is then V (k; u)  V (0; u). 
+Now, V (k; u) incorporates the entrepreneur’s scale decision (whether to operate as an artisan or hire workers) and the status of the participation constraint (whether it binds). The important property of V (k; u) is convexity in k, which it inherits from A(k): this is easy to see if the entrepreneur is an artisan (V (k; u) = A(k)) or is unconstrained in the labor market (V (k; u) = A(k)(w)). In the Appendix, we show that convexity holds in the general case as well. 
+Convexity eely weakens competition among inventors, since the marginal return from adoption is increasing. Assuming qi = q in a symmetric equilibrium, the entrepreneur who maximizes V (k; u)  qk will choose k = m, i.e., buy all avail- 
+14For instance, the idea might be embodied in a part or equipment that that the inventor installs. We want to avoid situations where the entrepreneur obtains the idea from an inventor and starts competing with him on the market for inventions. This possibility can only decrease the return from inventive activity and make growth more unlikely. 
+15 
+
+========16========
+
+able inventions, as long as q  Vk(m; u) and V (m; u)  qm  V (0; u). Putting q = 
+V (k;u)  V (0;u) 
+m 
+, which is less than Vk(m; u) by convexity, satis both of these conditions. (If q were lower than 
+V (k;u)  V (0;u), an inventor could increase his pro 
+m 
+by raising his price a bit and the entrepreneurs would still purchase all of the inven- tions.) That this is the unique symmetric equilibrium follows from an argument in Tauman et al. (1997) in their analysis of multiproduct price competition. Notice that in this equilibrium, the inventors extract all of the surplus from the entrepreneurs.15 
+Write w(r) to denote the dependence of the equilibrium wage on the measure of entrepreneurs (from the discussion in Section 2.3.1, the wage is generically either w or w, and the normalized pro (w) or (w) =  depending on whether r < r^ or r > r^). The above discussion can be summarized in the following: 
+Lemma 1. (i) Let m be the measure of inventions available at the beginning of the second period. In any symmetric equilibrium of the invention market all entrepreneurs purchase the m inventions. 
+(ii) There exists a unique symmetric price equilibrium: 
+q(r; m) = 
+(w(r))(A(m) 
+m 
+ A): 
+Note that r > r^implies q(r; m) = [A(m)  A]=m, while if r < r^, we have q(r; m) = (w)[A(m)  A]=m. Since [A(m)  A]=m = [(1+)m  1]A=m, it is readily calculated that q(r; m) is an increasing function of m and that q(r;0) = A(w(r)) log(1 + ) 
+2.3.3 General Equilibrium 
+We are now ready to determine the overall equilibrium of our economy by taking account of the nerds’ cogitation decisions. The fact that the license price increases in the number of inventions leads to a strategic complementary in cogitation. This raises the possibility of multiple (Pareto-ranked) equilibria, though we shall mainly be concerned with the Pareto optimal equilibrium and how its properties depend on the fundamentals of the economy. 
+Suppose that a fraction  2 (0;1) of the nerds choose to cogitate at date 1. Then 
+15In the  case, there will typically be asymmetric equilibria as well, but in every case en- trepreneurs purchase all innovations and the surplus is fully extracted by the inventors. Tauman et al. (1997) shows that the set of equilibria correspond to the core of cooperative game among the inventors, and we conjecture that as the number of goods gets large (our case) the set of equilibria \shrink" so that only the symmetric equilibrium remains in the limit. 
+16 
+
+========17========
+
+almost surely there will be () inventions on the market at date 2. This is an equilibrium only if p((r))r(1  )q(r; ()) = A (if the left-hand side is less than the right, cogitating nerds would want to vegetate; if greater, the vegetators would want to cogitate). But since q(r; ()) is increasing in , a single vegetating nerd { there must be some, since  < 1 { can gain by switching to cogitation (strictly speaking, this is not true in the continuum limit, but it is true of any  economy that it approximates). Thus, the only possibilities for equilibrium are that all nerds cogitate or none do. 
+There is an equilibrium in which the innovation market is inactive if and only if 
+p((r))r(1 
+ )q(r;0) < A 
+(7) 
+and an equilibrium with an active innovation market if and only if 
+p((r))r(1 
+ )q(r; p((r)))  A: 
+(8) 
+If r is sutly small, (7) is satis while (8) cannot be. Thus, when there are few entrepreneurs, the innovation market is inactive because the market for innova- tions is too small to encourage inventive activity. 
+What about larger values of r? From our analysis of labor market equilibrium, there are generically only two values of the wage, division of labor, and pro level that concern us. Suppose that r < r^, so that w = w. Then condition (8) is satis when r also exceeds a threshold value rC > 0 satisfying 
+rC(1 
+p  )p()(w)(1 + 
+) 
+() 
+p() 
+ 1 
+= : 
+or 
+rC = 
+(1 
+  )(w)[(1 + )p() 
+ 1]: 
+Clearly, parameters can be chosen (in particular, let  be small) so that rC < r^. In this case, there is a general equilibrium of the economy in which (w; ) = (w;), and the innovation market is active. The rate of technological improvement A0=A between dates 1 and 2 is (1 + )p(). If rC > r^, there are no values of r in which this high level of innovation can occur, since the innovation market is inactive for all r 2 [0;r^]. 
+There is also a threshold value rV of r below which the inactive innovation market equilibrium exists and above which it does not as long as the wage is w. It is straight- 
+17 
+
+========18========
+
+forward to check that rV > rC and that rV < r^ for appropriate choice of parameters. Thus there is a nonempty set of r values in which the two equilibria co-exist. The cogitation equilibrium Pareto dominates the vegetating equilibrium: nerds and date 2 workers bene from the technological improvements, though (date 1) workers and all entrepreneurs are indirent. 
+Since we are interested in the possibility of growth, and since multiple equilibria of this kind have been dealt with elsewhere in the literature on growth and development (e.g., Murphy et al., 1989; Grief, 1994; Mokyr, 2005), we shall focus on the Pareto optimal equilibrium, except for a brief discussion in the Conclusion. 
+For the case r > r^, a similar argument establishes the existence of a threshold rC = 
+ 
+(1  )(w)[(1+)p()  1] 
+above which the innovation market is active. Of course, if p() is small enough, rC may exceed 1, so that there is never innovation in the \artisanal" labor market equilibrium. More generally, even if the innovation market is active, the rate of innovation is lower than it is in the factory equilibrium (r < r^) than in the artisanal equilibrium. (There is also a corresponding rV > rC, though this shall not play much role in our analysis.) 
+The forgoing analysis underscores the interaction between the markets for inno- vations and for workers. When there is excess supply of workers, the wage is small and specialization is high, and the arrival rate of ideas is high. Many inventions are o on the market and by convexity of their value to entrepreneurs, the price of a license is high. This would suggest that nerds indeed have strong incentives to search for inventions. However, if r is too small the revenue rq may be so small that the expected return from invention is small compared to its cost. 
+When there is excess demand of workers, there are many entrepreneurs who could pay for innovations. However, specialization is low and since the probability of dis- covery is now small, there can be only a few inventors active on the invention market. The price of the license will be small, both because entrepreneurial pro are small and because there are fewer innovations. Hence incentives to invent are small in this case. 
+Therefore, the incentives to invent are small when there are too few or too many entrepreneurs: in the  case there is not enough demand for innovation to cover its cost, while in the second case, high wage shares and low specialization make invention less probable as well as less remunerative. It is only in the intermediate range that high rates of innovation will happen: both the demand for inventions and the probability of discovery are high. 
+18 
+
+========19========
+
+We summarize this discussion with the main result of this section. 
+Proposition 1. Let rC < r^. 
+(i) If r 2 [0; rC], the equilibrium labor contract is (w;) but there is no innovation. (ii) If r 2 [rC;r^], there is an equilibrium with labor contract (w;) and an active innovation market with technological improvement rate g  (1 + )p(). 
+(iii) If r > r^, the equilibrium labor contract is (w; ). For r 2 (^r;rC) there is no innovation; for r 2 [rC;1] the improvement rate is g  (1 + )p() 
+Note that it is possible that one of the intervals in part (iii) is empty; either way, the growth rate of technology is non-monotonic as r varies over [0;1]. There can be both too much as well as too little entrepreneurship (as measured by r) for innova- tion. When there are many entrepreneurs, individuals work in  with little labor division, similar to artisanal systems of production. Few resources (here measured by c) are wasted in supervision. In this sense the economy is statically e, since output per capita is high relative to the state of technology. But it is dynamically ine since it produces innovations at a low rate, and technology is likely to be relatively backward.16 
+3 Dynamics 
+In this section we extend our model by endogenizing the occupational distribution and illustrating that the three regimes discussed in Proposition 1 can be steady states. The model displays endogenous growth; the novelty here is that growth is driven by organizational design rather than a technical progress production function. 
+16Smith famously argued, in what many have interpreted as self-contradiction, that the high level of specialization he observed in factories was counterproductive, requiring government intervention: the worker \becomes as stupid and ignorant as it is possible for a human creature to become" Viewed from the perspective of the present model, there is no contradiction: it is the nerds, not the workers, who generate the ideas. More generally, in a world of externalities, such as the one depicted by this model, this is exactly what one might expect: the equilibrium degree of labor division may well be too high, likely in the range of negative marginal productivity returns, because of the monitoring bene Even if workers were responsible for inventing, entrepreneurs would have little reason to fully internalize the e of labor division on worker ignorance, oering another reason why too much inequality would harm the rate innovation. 
+19 
+
+========20========
+
+3.1 The Dynamic Model 
+Consider the above economy repeating itself initely often. In each period t = 1;2; ::: every one of the continuum of individuals gives birth to one oing; with probability , independent across lineages and periods, the child is a nerd; otherwise he is normal. Normalize the size of the population born at each period to be unity. 
+All individuals live for two periods and consume only in old age, when they also give birth. Normal individuals are idle in youth and active (as workers or en- trepreneurs) in old age. Nerds are active in youth and, once they have cashed in on their inventions, idle in old age. Individuals born at time t have preferences charac- terized by the utility 
+Ut(ct; bt) = c1t 
+ b 
+t 
+; 
+where ct is generation t consumption, bt is a monetary investment made by the parent in the child’s human capital, 1 >  > 0; and  =  
+ (1 
+ ) 
+ 1: 
+Indirect utility is therefore equal to the net lifetime income yt, and the investment is yt. 
+The key assumption is that there is a credit market imperfection { the parental investment eely determines the (normal) child’s occupation. We model this by supposing that there is a minimum threshold investment hAt for access into en- trepreneurship. This may be interpreted as the cost of sut education, of a set of contacts, or even the physical capital to set the child up in business for himself, as long as it is una by technological improvements.Then its cost rises with the general level of technology. 
+17 
+Finally, we assume that the improved technology A0t from one generation di completely to become the current technology At+1 for the next. 
+We continue to assume rC < r^. To keep the analysis as simple as possible, we will impose some additional conditions on the parameters. First, we shall assume that p() is small enough that rC > 1. Next, we impose: 
+Assumption 2.  > w g. 
+This implies that entrepreneurship, even at its smallest scale, is preferable to working, even at the highest possible equilibrium wage; that way, in any equilibrium, 
+17This sort of assumption has appeared elsewhere in the literature on growth with credit con- straints (e.g., Mookerjee and Ray 2002). While education or contacts are clear candidates to satisfy the requirement, so would certain types of physical capital: there was, for instance, little techno- logical change in building construction over the course of the industrial revolution (Pollard 1965, p. 84-85). 
+20 
+
+========21========
+
+agents whose parents set them up in business actually want to remain entrepreneurs. (Recall that if there is innovation in artisanal equilibrium, an entrepreneur’s income is A, while a worker gets wA0; A0=A may be as high as g because the growth rate is determined in the previous period by the degree of specialization that prevailed then.) Alternatively, one could suppose that there is a high enough \private bene to entrepreneurship. 
+Assumption 3. (i) w < h and  < h : children of low wage workers and of vegetating nerds cannot access entrepreneurship. 
+(ii) w > h and =p()  hg: normal children of high wage workers and normal children of inventors can be entrepreneurs. 
+These conditions avoid trivialities: if children of low wage workers are not wealth constrained, all agents are rich after the  generation; if children of high wage workers and of inventors are wealth constrained, then the proportion of rich in the economy declines and the economy always ends up at subsistence. (The second part of (ii) is equivalent to (1  )rCq(rC; p()) > hA0, which is the condition that inventors in the factory equilibrium can a entrepreneurship for their children; it implies that inventors in the artisanal equilibrium can a it as well.) 
+Nothing of signi turns on Assumption 2 or its alternative; if it is violated, the analysis of equilibrium in case of excess labor demand becomes slightly more cum- bersome because the \ex-post" indi of entrepreneurs between hiring workers and operating on their own must be replaced by \ex-ante" indi between en- trepreneurship and working, taking account of innovation costs; this forces the labor market into balance ex-post, lowers the highest equilibrium wage somewhat, and eliminates the possibility that entrepreneurs operate at small scale. The qualitative relationship between wealth distribution and innovation remains unchanged. 
+Similarly, neither the form of the parental investment motive (here it is of the \warm glow" variety) nor the fact that the parent invests directly rather than trans- ferring cash to the child is important here. Other bequest motives would also have the threshold ets we will be exploiting below. So would allowing the child to take account of the investment cost in choosing occupations. In both cases the analysis would be slightly more complicated, raising similar issues to those raised by violations of Assumption 2. 
+21 
+
+========22========
+
+3.2 Analysis 
+The important point to note is that if investment is less than h, the normal child is a worker (the nerd does not need the investment, and it would make no di to the analysis if we simply assumed that his parent didn’t invest for him at all). We shall call children whose parents invest more than h \rich" and the rest \poor". Thus, the children of (successful) inventors, entrepreneurs, and workers when the wage is high are rich. 
+The state variable is rt. The above assumptions imply the following. 
+Lemma 2. 
+(i) If rt < rC; then rt+1 = (1  )rt 
+(ii) If rC  rt < r;^ then rt+1 = (1  )rt + p() (iii) If rt > r; r^ 
+t 
+= 1   
+Proof. (i) There is excess supply but the condition for an operative invention market is not satis workers get a low wage w and their children cannot be entrepreneurs. The only ones who can are the o of entrepreneurs: since their pro exceed w; by Assumption 3 they can invest hAt. 
+(ii) There is excess supply, hence the wage is w; but now the invention market is operative. As before, normal children of entrepreneurs can be entrepreneurs, and there are (1  )rt of them. By Assumption 3 the p() inventors will invest enough to give their normal children access to entrepreneurship. 
+(iii) There is excess demand, hence high wages, and all children of normals can become entrepreneurs. 
+There are two or three steady states, depending on whether the oint r (= p()) of (1  )rt 
+ 1 
++p() lies in [rC;r^): In either case, all steady states are locally stable. 
+If r < rC; we are in the \dismal case": the two steady states are r = 0 and r = 1   : both cases are incompatible with growth. When r = 0; the equilibrium is an economy of pure subsistence where each individual produce A. The case r = 1   by contrast is a statically prosperous economy in which almost everyone invest and become a small scale entrepreneur, this implies that there is stagnation because of the low degree of specialization. Subsistence eventually occurs if the economy starts below rC; stagnant prosperity results if it begins above rC: There might however, be a short period of innovation in case the economy happens to start in [ rC;r^]; but collapse into subsistence soon follows. See Figure 1. 
+22 
+
+========23========
+
+rt+1 
+1 
+  
+[ 
+Low specialization, slow growth 
+(1 
+ )r + p() 
+[ 
+] 
+(1 
+ )r 
+[ 
+collapse0 
+rC 
+r~ 
+rt 
+Figure 1: The Dismal Case (rC > r): Slow or No Growth 
+A slightly less dismal case occurs if r > r^; in this case p() is relatively large, and the (1  )rt 
+ 1 
++ p() branch lies above the 45-line. Permanent high growth is not possible, though again the economy may experience growth for a few periods. The basin of attraction for subsistence is smaller than in the dismal case, consisting only of the interval [0; rC): 
+The case of greatest interest is the \hopeful" one in which rC  r < r^, in which there is another locally stable steady state at r: Any economy beginning in the interval [rC;r^) converges to r: Here the wage share is low and there is a high degree of division of labor, and a technological growth rate of (1 + )p() (see Figure 2). 
+(If rC > r;^ then we are in a truly dismal case where the innovation market is never operative and the economy proceeds either to subsistence or to prosperous stagnation.) 
+Note except in the nongeneric case that r = ^r; the economy cannot spend any time at ^r unless it happens to start there, so that we are justid in ignoring the cases of intermediate wages. 
+The hopeful case depicted in Figure 2 is the one that suggests the possibility of an inverse U relation between the degree of inequality (measured by 1=r) and the rate of growth: economies with either high or low degrees of inequality (low or high r) 
+23 
+
+========24========
+
+rt+1 
+1 
+  
+[ 
+] 
+[ 
+High specialization, high growth 
+collapse0 
+[ rC 
+r~ 
+Low specialization, slow growth 
+(1 
+ )r + p() 
+(1 
+ )r 
+rt 
+Figure 2: The Hopeful Case (rC < r < r^): High Growth 
+grow slowly or not at all, while those with middling levels are the ones that generate 
+sustained technical progress. 
+The forgoing discussion can be summarized in the following 
+Proposition 2. Let rC < r < r^, and the fraction of rich at t = 0 be r0: 
+(i) If r0 2 [0; rC), the sequence frtg converges to the subsistence steady state with zero 
+growth. 
+(ii) If r0 2 [rC;r^), the sequence frtg converges to r and the economy has a steady- 
+state growth rate of g  (1 + )p(). 
+(iii) If r0 > r^, the the sequence frtg converges to 1 
+  and there is zero growth 
+rC  1 
+steady-state growth. 
+Note that (iii) depends on the simplifying assumption we made that rC > 1: If 
+ , we are in the (possibly more plausible) situation of low (g) but positive 
+4 Comparative Dynamics 
+Here we consider three types of changes: improvement in the access to capital; an increase in technological complexity; improvement in organizational innovations that 
+reduce coordination costs. 
+24 
+
+========25========
+
+4.1 Institutional Improvements in the Access to Entrepreneur- 
+ship 
+We model this as a reduction in h necessary to run a business, a change that increases the fraction of the population that can a to become entrepreneurs. This might come from improvements in credit markets, or if h is interpreted as a human capital acquisition cost, from education subsidies. It even come from loosening the kinds of legal restrictions, common in many developing countries, that generally limit business startups (typically these bind on the less wealthy). 
+For a formal treatment, it is helpful to give the economy some chance of emerging from a subsistence steady state if only h were low enough. So assume that subsis- tence generates positive earnings sA, with s < w, and that  is a random variable, independent across generations and lineages, and independent of income or nerdiness. Speci,  =  with probability b, and  <  otherwise. Let  satisfy all of the conditions in Assumption3. Notice that this modi to the model doesn’t change the values of rC and ^r: 
+In addition, assume that initially, we have h > w, so that the economy behaves just as it did before. In particular, the subsistence steady state r = 0 always exists and is locally stable, though now people are investing s in their children. 
+Now let h fall to a point where s > h > s, and suppose that rC < b < r^. If we started at the subsistence steady state, the e of this decline in h is to increase the value of r next period, from 0 to b. But this means we have (1  )b entrepreneurs, who hire (1  )nb workers at the wage w. Since rC < b, the innovation market begins to function (assuming the nerds coordinate on the cogitation equilibrium). The children of the entrepreneurs and inventors, as well as the children of the generous () workers, will become entrepreneurs next period. 
+Locally, the dynamics are now following the equation rt+1 = (1  )rt + p() + b(1  )(1  rt), which converges to a new steady state r = 
+(1  )b+p() 
++b 
+. For plausible parameter values ( small), this exceeds r, but remains in the factory equilibrium region (less than ^r) if b is small. Thus, as expected, increasing access to entrepreneur- ship can pull the economy out of subsistence and onto the path of industrialization and high steady-state growth. 
+But, for other parameters (larger b), the economy may eventually leave the interval [rC;r^]; and the growth process slows down. Similarly, further reductions in h may turn out to be too much of a good thing: if w > h, then all normals set their children 
+25 
+
+========26========
+
+up in business, and innovation ceases or at best declines. 
+Thus, \improvements in institutions" may have ambiguous e depending on where the economy is to begin with. An economy that has very poorly functioning credit markets or costly education will generally be helped by improvements in these institutions. But economies in which these institutions are functioning moderately well may actually be hurt. 
+If one were to measure the rate of TFP growth across economies with dierent qualities of institutions, one may therefore  that growth rates are not monotonic in the quality measure. Similarly, since the levels TFP will depend on the history of their growth, neither should there be any expectation of  a monotonic pattern in a cross-country regression of TFP levels on institutional quality. 
+4.2 Technological Complexity 
+Complexity of the technology can be represented by the task to population ratio; call it  (thus far, it has been assumed equal to one). The production technology becomesR 
+exp( 
+ 
+0 
+log[at(j)lt(j)]dj): The growth rate is now (1 + )p= ; and the threshold value rC of educated that sustains growth is 
+ 
+(1  )[(1+)p=  1](w): 
+With simple technologies ( small), growth rates sustained by the Smithian mechanism are high, and the econ- omy is more likely be able to sustain growth because rC is small and ^r is unchanged.18 An exogenous increase in the complexity of technology will lower growth rates and increase the likelihood that technological progress comes to a halt. 
+If one interprets this complexity as originating in a world technological frontier, one that may be expanding through \internalized" R&D, an implication of this ob- servation is that Smithian growth may be a particularly inadequate mechanism by which a developing country might catch up to the rest of the world. Although an increase in  instantaneously increases output (assuming the a(j) of the \new" steps are equal on average to the rest), over the longer run, this bene would be overshad- owed by the slowdown in growth, and a Smithian country will fall further and further behind the R&D-driven frontier. Possibly more than their more developed counter- parts, such countries may have to rely on non-Smithian mechanisms (state subsidies, or private-sector internalized R&D, both of which became more or less common in 
+18It may be reasonable to suppose that increased complexity would increase the coordination cost for a given choice of ; since there are now more tasks to coordinate. For instance the coordination parameter cost might be written as c All else the same, the division of labor would be reduced with increased complexity and the e on growth exacerbated. 
+26 
+
+========27========
+
+the rich countries in the latter half of the 20th century) to achieve innovation and growth. 
+4.3 Organizational Innovation: Revisiting the Role of the 
+Factory in the Industrial Revolution 
+As suggested earlier, a decrease in the coordination cost c can be identi with the introduction of the manufactury and subsequently the early factories. When c falls, the division of labor becomes less costly for entrepreneurs. Moreover, w decreases,  increases and therefore rC falls while r rises. Hence the basin of attraction of the high growth steady state is enlarged,  have a larger division of labor there, and the growth rate increases. There is also more income inequality in the functional distribution of income and a likely increase in inequality in the size distribution (since r < r;^ increasing the fraction of rich slightly raises most inequality measures). 
+Observe that that for r > r^, since w increases,  falls. Therefore the rate of growth decreases in this region. Hence, in our model, organizational innovations leading to a decrease in the cost of coordination tend to intensify the dependence of growth on inequality. Once the manufactory comes into being, changes in inequality would lead to larger changes in growth rates than they would have under the putting out system. 
+Our model suggests that the signit role played by the factory and the in- troduction of the division of labor has to do with the concomitant increase in labor division that would have facilitated invention, rather than any static increase in sur- plus that factory production might have generated. Indeed, in our model, the factory ( large) actually generates less surplus than does \artisanal" production. Some his- torians (e.g., Clark 1994, Cohen 1981) have argued similarly that in the early years of the Industrial Revolution, the factory was perhaps more pro but not more productive than the putting out system it replaced. 
+5 Conclusions 
+We have explored a causal link between the organization of  and technical progress. Starting from the \Smithian" idea that there is an increased likelihood of innovations in the production process when labor is more specialized, we show that entrepreneurs may be induced to choose innovation-enhancing organizations even though intractable contractual incompleteness and incentive problems prevent them 
+27 
+
+========28========
+
+from appropriating the returns to innovations. The conditions that do this in a laissez-faire market equilibrium depend on a constellation of factors: a free enterprise legal environment that allows an individual with an idea to sell it to a sutly large fraction of the market; an imperfect credit market that restricts entry into en- trepreneurship; a distribution of wealth that is neither too equal nor too unequal; and the need of a coordination device among inventors. 
+An economy that generates technological progress initially may eventually violate the distributional condition, or may, for reasons having to do with improvements in credit markets, subsidized education, or other redistributions, switch to a no progress equilibrium, with  that are too unspecialized to foster further Smithian innova- tion: \trickle down" e may eventually limit growth. 
+Figure 3: Inequality versus Growth 
+28 
+
+========29========
+
+The chart in Figure 3 plots average growth rates of per capita GDP against in- equality for several European countries for the period 1820-1870. Growth rates are from Maddison (2001), and inequality is measured as the ratio of skilled to unskilled wages, taken from Allen (2005).19 The inverted U pattern is clearly displayed, with growth rates for the lowest skill premium countries (Netherlands and France) slightly higher than those for the highest skill premium country (Spain). (The contrast be- tween the Netherlands, for which the wage data are from (Protestant) Amsterdam, and Belgium, for which wages are from (Catholic) Antwerp, is also striking.) Ob- viously evidence of this sort is at best indicative (for instance, institutions are not identical across countries, and we would rather have TFP growth data than GDP growth), but it does accord broadly with the basic predictions of our model.20 
+Furthermore, the model has other implications for growth theory more generally besides the link it draws between inequality and technological progress. First, \insti- tutional" improvements, such as the increased e of credit markets need not have monotonic e on the rate of technological progress. Thus, starting from very poorly functioning markets, both static and dynamic e are likely to improve as output increases and the demand for inventions increases enough to activate the innovation market. But further improvements to these institutions will eventually reduce the division of labor and therefore the rate of technical progress and economic growth. An economy with moderately well functioning credit markets that has been rapidly growing a while will have higher productivity than one with perfect credit markets that has been growing slowly or not at all. It follows that total factor pro- ductivity need not be monotonic in the \quality of institutions," either over time or in cross section.21 
+Second, taking the (manu)factory to be the organizational innovation that reduced the cost of labor division, then one interpretation of the forgoing is that organiza- 
+19Since Allen’s wage data are for Milan, \Italy" is actually Lombardy 1836-1857, with the growth taken from Pichler (2001) and calibrated to Maddison’s other estimates using the two authors’ estimates for Austria (Maddison’s estimate for all of Italy is somewhat lower than our imputed estimate for Lombardy; this has little e on the basic pattern). 
+20So does other recent historical scholarship on the industrial revolution in Britain (e.g., Crafts and Harley 2002; O’Brien 1986, p. 297). This research emphasizes the peculiar roles of the enclosure movement in creating a large population of landless poor to the supply the labor markets and in helping to generate a relatively large upper-middle class and concomitantly large market for manufactured goods. Lacking these elements, other European countries were slower to industrialize. 
+21The model thereby also o a mechanism for \reversal of fortune" phenomena that have been documented in historical cross-country comparisons of economic prosperity (e.g., Acemoglu et al., 2002). 
+29 
+
+========30========
+
+tional improvements may indeed have helped to lead the economy from a path of subsistence to one of sustained growth, not so much by reducing the cost of entry into entrepreneurship, but more importantly by raising the equilibrium level of specializa- tion, thereby facilitating invention. This seems to support the \institutional" view of the importance of the factory system in the industrial revolution, albeit perhaps not in the manner Cohen (1981), Millward (1981), and North (1981) argued. 
+Finally, it is worth remarking on the implications of the model in case of coordi- nation failure among the inventors. For the high-wage share regime, it makes only a small di If there was a switch to the no-invention equilibrium, the fraction of rich would fall, as would the growth rate, albeit not by much since it was low to begin with: the new steady state would be r = 1   instead of r = 1   + p(). 
+On the other hand, the same switch from cogitation to vegetating equilibrium in the low-wage share regime would be more dramatic. An economy in the basin of attraction of the high-growth steady state now follows the \dismal" dynamics rt+1 = (1  )rt. In short order, the economy would be carried below rC, outside of the basin of attraction of high growth, and outside of the region where the cogitation equilibrium exists. 
+This analysis oers a speci interpretation to the view, expressed by some his- torians and economists (e.g., Crafts, 1985; Acemoglu and Zilibotti, 1997), that the Industrial Revolution occurred because of \luck." Many factors, partly institutional, partly technological, and partly distributional, must fall into place in order for a pe- riod of sustained technological growth to emerge. As our model suggests, the path to sustained prosperity is a narrow one, dilt to  and easily lost. 
+6 Appendix 
+6.1 Proof of Lemma 1 - The Symmetric Case 
+We establish the Lemma in a  economy, that is when there are  many inventors and agents. The continuum economy can be approximated by arbitrarily large such  economies and we restrict attention to equilibria of the continuum economy that are the limits of equilibria with  economies. 
+There are m inventions available. We consider symmetric price equilibria, that is when all inventors post the same price q in equilibrium. 
+Case 1: Excess supply for labor When there is excess demand for labor 
+30 
+
+========31========
+
+(r < r^), entrepreneurs are not constrained since the outside options of workers is u = 0 and they will o a wage wA(k) independently of the technology they have adopted. On the innovation market, faced with prices q for each innovation they solve 
+max(w)A(k)k 
+ kq 
+Because A(k) is convex increasing,22 it is immediate that conditionally on adopting, entrepreneurs will choose k = m, and their payo from adopting is then (w)A(m)  mq. They will adopt only if (w)A(m)  mq  (w)A(0). If the inequality is strict, one of the inventors could deviate to a higher price and increase his pro Clearly there is no incentive for an inventor to decrease his price since he would face the same demand for his invention. Hence the unique symmetric equilibrium is 
+q = (w)A(m)m 
+ A(0) 
+and all the surplus from innovations goes to the inventors. 
+Case 2: Excess demand of labor Since r > r^, in the labor market equilibrium, a measure ^r of entrepreneurs hire workers and a measure r  r^ work alone. For the entrepreneurs working alone their pro from adopting h innovations is A(k)  kq; hence the previous case implies that they will adopt either all innovations or none. They will adopt if and only if 
+q  A(m)m 
+ A(0) 
+(9) 
+For any u, the wage chosen by an entrepreneur with technology A(k) who hires n workers is maxfw; u=A(k)g.23 Let 
+k; u) =  (maxfw; u=A(k)g) 
+The value of being an entrepreneur is therefore 
+V (k; u) = max[;k; u)]A(k) (10) 
+22Convexity of 
+A(k) is immediate since the second derivative is (log(1 + ))2A(k) > 0. 
+23Recall that for a given technology, 
+w is the pro maximizing normalized wage. Hence if u=A(k) < w, it is best for the entrepreneur to o the wage w, that is give a surplus to his workers strictly greater than u. 
+31 
+
+========32========
+
+Lemma 3. For any u, V (k; u) is a strictly increasing and convex function of k: 
+Proof. Since k; u) increases and converges to (w) > 1, there exist cuto values 
+k0(u); k1(u), k0(u) < k1(u) such that 
+8> 
+><>A(k) if k  k0(u) V (k; u) = 
+ 
+>(u 
+=A(k))A(k) if k 2 [k0(u); k 
+1(u)] 
+>:> 
+(w)A(k) if k  k1(u) 
+It is enough to show that (u=A(k))A(k) is convex in order to show that V (k; u) 
+is convex. Ditiating twice, we have 
+d2(u=A(k))A(k) 
+ 
+= n(log(1 + ))2 1 
+dk2 
+ n(log(1 + ))2 
+= n(log(1 + ))2 (1 
+ 0 
+ 
+ 4cuA(k) A(k)  
+1  4 
+cA(k) 
+w 
+ 4 
+pc)A(k) 
+where the second inequality is due to u=A(k)  w and the last inequality by As- 
+sumption 2. 
+If condition (9) holds, entrepreneurs who work alone have technology A(m); since they can hire workers if they desire, it must be the case that V (m; u) = A(m), that 
+is that u = wA(m). 
+If condition (9) does not hold, inventors sell only to entrepreneurs who hire work- ers. By Lemma 3, we can apply the reasoning in the case of excess supply of labor and the unique symmetric equilibrium must satisfy 
+ q = 
+V (m; u ) 
+m 
+ V (0; u): 
+(11) 
+and entrepreneurs get V (0; u). Since entrepreneurs who work alone have a pro of A(0), we must have V (0; u) = A(0) and therefore u = wA(0). Note that en- trepreneurs who adopt the m innovations can hire workers at a wage ^w = wA(0)=A(m). 
+At prices q, entrepreneurs are indit between working alone and using tech- 
+32 
+
+========33========
+
+nology A(0) or hiring workers and using technology A(m). The return to an inventor is rq. If an inventor sets a price of q0 < q, then V (m; u)  (m  1)q  q0 > A(0) and all entrepreneurs who work alone should purchase the m inventions and hire workers. This is clearly inconsistent with an equilibrium, therefore it must be the case that condition (9) holds. But then it must hold with an equality by (11). 
+References 
+[1]  Acemoglu, D., S. Johnson, and J. Robinson (2002), \Reversal of Fortune: Geog- 
+raphy and Institutions in the Making of the Modern World Income Distribution," 
+Quarterly Journal of Economics, 117: 1231-1294. 
+[2]  Acemoglu, D. and A.F. Newman (2002), \The Labor Market and Corporate 
+Structure," European Economic Review 46, 1733-56. 
+[3]  Acemoglu, D., and F. Zilibotti (1997), \Was Prometheus Unbound by Chance? 
+Risk Diversi and Growth," Journal of Political Economy, 105: 709-51. 
+[4]  Aghion, P. and P. Howitt (1992) \A Model of Growth Through Creative De- 
+struction," Econometrica, 60, 323-351. 
+[5]  Aghion, P. and J. Tirole (1994), \The Management of Innovation," Quarterly 
+Journal of Economics, 109(4), 1185-1209. 
+[6]  Allen, R. C. (2000), \Economic Structure and Agricultural Productivity in Eu- 
+rope, 1300-1800", European Review of Economic History, 4, 1-25. 
+[7]  Allen R.C. (2005), \Wages, Prices & Living Standards: The World- 
+Historical Perspective," http://www.economics.ox.ac.uk/members/robert.allen 
+/WagesPrices.htm. 
+[8]  Aoki, M. (1986), \Horizontal vs. Vertical Information Structure of the Firm," 
+American Economic Review, 76(5): 971-983. 
+[9]  Baker, G. P. (1992), \Incentive Contracts and Performance Measurement," Jour- 
+nal of Political Economy 100(3): 598-614. 
+[10]  Banerjee, A.V. and A.F. Newman (1993) \Occupational Choice and the Process 
+of Development," Journal of Political Economy 101,274-298. 
+33 
+
+========34========
+
+[11]  Becker, G.S. and K.M. Murphy (1992), \The Division of Labor, Coordination 
+Costs, and Knowledge," Quarterly Journal of Economics 107(4): 1137-1160. 
+[12]  Bolton, P. and M. Dewatripont (1994), \The Firm as a Communication Net- 
+work," The Quarterly Journal of Economics, 109(4): 809-839. 
+[13]  Clapham, J.H. (1936) Economic Development of France and Germany, 1815- 
+1914, Cambridge: Cambridge University Press. 
+[14]  Clark, G. (1994), \Factory Discipline", The Journal of Economic History, 54 (1): 
+128-162. 
+[15]  Cohen, J.S. (1981), \Managers and Machinery: An Analysis of the Rise of Fac- 
+tory Production,"Australian Econonmic Papers 20: 24-41. 
+[16]  Costinot, A. (2005), \Contract Enforcement, Division of Labor,and the Pattern 
+of Trade," http://www.econ.ucsd.edu/acostino/research/division june05.pdf 
+[17]  Crafts, N.F.R. (1985), \Industrial Revolution in England and France: Some 
+Thoughts on the Question, `Why Was England First?’," in The Economics of 
+the Industrial Revolution, ed. J. Mokyr, Totowa, NJ: Rowman & Allanheld. 
+[18]  Crafts, N. F. R. and Harley, C. K. (2002), \Precocious British Industrialization 
+A General Equilibrium Perspective", LSE working paper no. 67/02. 
+[19]  Crouzet, F. (1990), Britain Ascendant: Comparative Studies in Franco-British 
+Economic History, New York: Cambridge University Press. 
+[20]  Deane, P. (1965) The First Industrial Revolution, Cambridge: Cambridge Uni- 
+versity Press. 
+[21]  Dessein, W. and T. Santos (2006), \Adaptive Organizations," Journal of Political 
+Economy, 114 (5): 956-995. 
+[22]  Dodd, G. (1843), Days at the factory, London, Knight and Co. Reprinted (1967) 
+Kelley Publishers , NY. 
+[23]  Garicano, L. (2000), \Hierarchies and the Organization of Knowledge in Produc- 
+tion," The Journal of Political Economy, 108(5): 874-904. 
+34 
+
+========35========
+
+[24]  Grantham, G.W. (1975), \Scale and Organization in French Farming, 1840- 
+1880," in European Peasants and Their Markets: Essays in Agrarian Economic 
+History, ed. W.N. Parker and E.L. Jones, Princeton, NJ: Princeton University 
+Press. 
+[25]  Greif, A. (1994), \Cultural Beliefs and the Organization of Society: A Historical 
+and Theoretical Rection on Collectivist and Individualist Societies." Journal 
+of Political Economy, vol. 102(5): 912-50. 
+[26]  Grossman, G., and E. Helpman (1991), \Quality Ladders in the Theory of 
+Growth," Review of Economic Studies 58: 43-61. 
+[27]  Holmstrom, B. and P. Milgrom (1991), \Multitask Principal-Agent Analyses: 
+Incentive Contracts, Asset Ownership, and Job Design," Journal of Law, Eco- 
+nomics and Organization 7: 24-52. 
+[28]  Hounshell, D. A. (1985), From the American System to Mass Production, 1800- 
+1932: the Development of Manufacturing Technology in the United States, Johns 
+Hopkins University Press, c1985. 
+[29]  Kamien, M.I., and N.L. Schwartz. 1974. \Patent Life and R&D Rivalry," Amer- 
+ican Economic Review 64:183-87. 
+[30]  Khan, B.Z., and K.L. Sokolo (1993), \Schemes of Practical Utility: En- 
+trepreneurship and Innovation among `Great Inventors’ During Early American 
+Industrialization, 1790-1865," Journal of Economic History, 53(2): 289-307. 
+[31] 
+(2004), \Institutions and Technological Innovation during Early Economic Growth: Evidence from the Great Inventors of the United States, 1790-1930," mimeo 
+[32]  Landes, D. (1969), The Unbound Prometheus, Cambridge: Cambridge University 
+Press. 
+[33]  Loury, G. 1979. \Market Structure and Innovation." Quarterly Journal of Eco- 
+nomics, 93: 395-405. 
+[34]  Maddison, A. (2001), The World Economy: A Millenial Perspective, Paris: 
+OECD. 
+35 
+
+========36========
+
+[35]  Mathias, P., The First Industrial Nation: An Economic History of Britain, 1700- 
+1914, New York: Methuen. 
+[36]  Millward, R. (1981) \The Emergence of Wage Labor in Early Modern England," 
+Explorations in Economic History, 18: 21-39. 
+[37]  Mokyr, J. (1990) The Lever of Riches, Oxford, Oxford University Press. 
+[38] 
+(2005), \Long-Term Economic Growth and the History of Technology," Handbook of Economic Growth, vol. 1, Part B: 1113-1180. 
+[39]  Mookherjee, D., and D. Ray (2002), \Contractual Structure and Wealth Accu- 
+mulation," American Economic Review 92(4): 818-849. 
+[40] 
+(1991), \On the Competitive Pressure Created by the Di of Inno- vations," Journal of Economic Theory, 54: 124-147. 
+[41]  Murphy, K., A. Shleifer, and R. Vishny, \Industrialization and the Big Push," 
+Journal of Political Economy, 97 (5): 1003-1026. 
+[42]  North, D. (1981) Structure and Change in the Economic History, WW. Norton 
+and Co. NY. 
+[43]  O’Brien, P. and C. Keyder (1978), Economic Growth in Britain and France, 
+1780-1914: Two Paths to the Twentieth Century, London: Allen & Unwin. 
+[44]  O’Brien, P. K. (1986), \Do We Have a Typology for the Study of European 
+Industrialization in the Nineteenth Century?", Journal of European Economic 
+History, 15, 291-333. 
+[45]  Pichler, R (2001), \Economic Policy and Development in Austrian Lombardy, 
+1815{1859," Modern Italy, 6(1): 35-58. 
+[46]  Pollard, S. (1965), The Genesis of Modern Management: A Study of the Indus- 
+trial Revolution in Great Britain, Cambridge, Massachusetts: Harvard University 
+Press. 
+[47]  Radner, R. and T. Van Zandt (1992), \Information Processing in Firms and 
+Returns to Scale," Annales d’economie et de statistique, 25/26: 265-298. 
+36 
+
+========37========
+
+[48]  Romer, P.M. (1986), \Increasing Returns and Long-Run Growth", Journal of 
+Political Economy, 94(5): 1002-1037. 
+[49]  Rosenberg, N. (1982), Inside the Black Box: Technology and Economics, Cam- 
+bridge: Cambridge University Press 
+[50]  Shapiro, S. (1967), Capital and the Cotton Industry in the Industrial Revolution, 
+Ithaca, NY: Cornell University Press. 
+[51]  Smith, A. (1776) The Wealth of Nations, Everyman’s Library 
+[52]  Soltow, L. (1980), \Long-run Changes in British Income Inequality," in A.B. 
+Atkinson, ed., Wealth Income and Inequality, Oxford: Oxford University Press. 
+[53]  Tauman, Y., A. Urbano and J. Watanabe (1997), \A Model of Multiproduct 
+Price Competition," Journal of Economic Theory 77(2): 377-401. 
+[54]  Thompson, E.P. (1963), \Time, Work-Discipline and Industrial Capitalism." 
+Past and Present, 38: 56-97. 
+37 
+
+========38========
+

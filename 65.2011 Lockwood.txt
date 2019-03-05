@@ -1,0 +1,850 @@
+November 2011 
+No.65 
+How Should Financial Intermediation Services be 
+Taxed? 
+Ben Lockwood University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+How Should Financial Intermediation Services be 
+Taxed?¤ 
+Ben Lockwoody 
+First version: May 31 2010 This version: August 15 2011 
+Abstract 
+This paper considers the optimal taxation of savings intermediation and payment services in a dynamic general equilibrium setting, when the government can also use consumption and income taxes. When payment services are used in strict proportion to …nal consumption, and the cost of intermediation services is …xed and the same across …rms, the optimal taxes are generally indeterminate. But, when …rms di¤er exogenously in the cost of intermediation services, the tax on savings intermediation should be zero. Also, when household time and payment services are substitutes in transactions, the optimal tax rate on payment services is determined by the returns to scale in the conditional demand for payment services, and is generally di¤erent to the optimal rate on consumption goods. In particular, with constant returns to scale, payment services should be untaxed. These results can be understood as applications of the Diamond-Mirrlees production e¢ciency theorem. Finally, as an extension, we endogenize intermediation, in the form of monitoring, and show that it may be oversupplied in equilibrium when banks have monopoly power, justifying a Pigouvian tax in this case. 
+JEL Classi…cation: G21, H21, H25 
+Keywords: …nancial intermediation services, tax design, banks, monitoring,payment services 
+¤I would like to thank Steve Bond, Clemens Fuest, Michael Devereux, Michael McMahon, Miltos Makris, Ruud de Mooij, and seminar participants at the University of Southampton, GREQAM, the 2010 CBT Summer Symposium, and the 2011 IIPF Conference for helpful comments on an earlier draft. I also gratefully ackowledge support from the ESRC grant RES-060-25-0033, "Business, Tax and Welfare". 
+yCBT, CEPR and Department of Economics, University of Warwick, Coventry CV4 7AL, England; Email: B.Lockwood@warwick.ac.uk 
+
+========2========
+
+1. Introduction 
+Financial intermediation services include such important services as intermediation be- tween borrowers and lenders, insurance, and payment services (e.g. credit and debit card services). These services comprise a signi…cant and growing part of the national economy; for example, …nancial intermediation services, measured using the OECD methodology1, were 3.9% of GDP in the UK in 1970, and increased to 7.9% by 2005. The …gures for the Eurozone countries as a whole are 2.7% to 5.5%. In the US, the …nance and insurance sector, excluding real estate, which includes …nancial intermediation, accounted for 7.3% of US value-added in 1999, rising to 8.4% in 20092. 
+The question of whether, and how, …nancial intermediation services should be taxed is a contentious one. In the tax policy literature, it is largely assumed that within a consumption tax system, such as a VAT, it is desirable to tax …nancial services. For example, the European Commission has recently proposed changes to the VAT treatment of …nancial services within the European Union, so as bring these more within the scope of VAT (de la Feria and Lockwood (2010)). Also, the recent IMF proposals for a "bank tax" to cover the cost of government interventions in the banking system include a Financial Activities Tax levied on bank pro…ts and remuneration, which would work very much like a VAT, levied using the addition method (IMF(2010)). 
+But, it is also recognized that there are technical di¢culties in taxing …nancial inter- mediation when those services are not explicitly priced (so-called margin-based services), such as the intermediation between borrowers and lenders. This raises a problem for the use of a VAT via the usual invoice-credit method, for example (Ebril, Keen, Bodin and Summers(2001)). As a result of this, the status quo in most countries is that a wide range of …nancial intermediation services are not taxed3. However, conceptually, the problems can be solved, for example, by use of a cash-‡ow VAT (Ho¤man et. al.(1987), Poddar and English(1997), Huizinga(2002), Zee(2005)), and the increasing sophistication of banks’ IT systems means that these solutions are also becoming practical. 
+So, it is increasingly relevant to ask, setting aside the technical problems, should …nancial intermediation services supplied to households be taxed at all? And if so, at 
+1See http://www.euklems.net. 
+2See http://www.bea.gov/industry/gdpbyind_data.htm 
+3For example, in the EU, the Sixth VAT Directive and subsequent legislation exempts a wide range of …nancial services from VAT, including insurance and reinsurance transactions, the granting and the negotiation of credit, transactions concerning deposit and current accounts, payments, transfers, debts, cheques, currency, bank notes and coins used as legal tender etc. (Council Directive 2006/112/EC of 28 November 2006, Article 135). 
+2 
+
+========3========
+
+what rates? Given the overall importance of …nancial services to modern economies, there is surprisingly little written on this more fundamental question (Section 2 has a discussion of the literature). Moreover, we would argue that the existing literature does not really clarify which of the fundamental principles of tax design apply. For example, is it the case that …nancial intermediation services are intermediate goods in the production of …nal consumption for households, and thus should not be taxed? Or, should they be taxed at the same rate as other goods purchased on the market, at least under conditions when a uniform consumption tax is optimal? 
+The objective of this paper is to address these fundamental questions4. We set up and solve the tax design problem in a dynamic general equilibrium model of the Chamley(1986) type, where the government chooses taxes on payment services and savings intermediation, as well as the usual taxes on consumption (or equivalently, wage income) and income from capital, and where …nancial intermediaries, in the form of banks, are explicitly modelled. On the payment services side, we assume, following the literature on the transactions cost approach to the demand for money, that payment services are not necessarily proportional to consumption, but can be used to economize on the household time input to trading. This is realistic: for example, making use of a basic bank account requires a time input, e.g. trips to the bank, but use of an additional payment service e.g. a credit card, substitutes for trips to the bank. 
+We assume initially that the cost of savings intermediation per unit of capital is …xed, but can vary across borrowers (…rms). Again, this is realistic; savings intermediation is a complex process involving initial assessment of the borrower via e.g. credit scor- ing, structuring and pricing the loan, and monitoring compliance with loan covenants (Gup and Kolari(2005, chapter 9). There is evidence that other things equal, the cost of borrowing is lower for …rms that have had longer relationships with banks (Berger and Udell(1995)), or make information available to banks via rating agencies Brown, Jappelli and Pagano(2009)). 
+We then solve the tax design problem, where the government has access to a full set of taxes, i.e. the usual wage and capital income taxes, plus a tax on the consumption good and on payment services, and a tax paid the bank on the spread between borrowing and lending rates. In this set-up, there is the usual tax indeterminacy, as a uniform tax on payment services and the consumption good is equivalent to a wage tax. We set the 
+4It should be noted that this paper does 
+not deal with corrective taxes on bank lending designed to internalize the social costs of bank failure or the costs of bailout; on this, see e.g. Hellmann, Murdock and Stiglitz(2000), Keen(2010) or Bianchi and Mendoza(2010). 
+3 
+
+========4========
+
+wage tax equal to zero, and then show that in the general model, all remaining four taxes are determinate i.e. there is no redundancy in tax instruments. However, under certain restrictive conditions - in fact, those assumed by the existing literature on this topic, see Section 2- the tax structure is indeterminate. 
+The tax on savings intermediation is determined as follows. In the tax design problem, the tax on capital income is used as the instrument to pin down the rate of substitution between present and future consumption for the household. So, this means that the tax on savings intermediation is a "free instrument" that can be used to ensure that capital is allocated e¢ciently across …rms. In turn, the cost of capital to a particular …rm will be the cost of capital to the bank i.e. the return paid to depositors, plus the cost of intermediation, where the latter includes any tax. A non-zero tax on savings intermediation will distort the relative cost of capital across …rms, and so this tax is optimally set to zero. This is a version of the Diamond-Mirrlees production e¢ciency result. 
+Turning to the tax on the payment service, our …rst result is that the total tax "wedge" between consumption and leisure is a weighted average of the tax on consumption and on the payment service, and is determined by a standard optimal tax formula, involv- ing the general equilibrium expenditure elasticity of consumption (Atkeson, Chari, and Kehoe(1999)). However, the sign of the tax on the payment service itself is determined5 not by the structure of preferences, but by the properties of the conditional demand for payment services as a function of the household consumption level and time input to transactions, or "shopping time". Speci…cally, when this demand is either (i) linear in consumption and shopping time, or (ii) has constant returns with respect to these vari- ables, payment services should be untaxed; this can be understood as an instance of the Diamond-Mirrlees production e¢ciency result. The general conclusion is that the tax on payment services is determined in a completely di¤erent way to the tax on consumption, and thus will in general be at a di¤erent rate. 
+Finally, in Section 5 of the paper, we consider how the savings intermediation tax should be designed when …nancial intermediation by banks is modelled explicitly. It is clear that banks supply several di¤erent kinds of intermediation services, notably liquidity services to households (Diamond and Dybvig(1983)), and monitoring services to …rms (Diamond (1991), Besanko and Kanatas(1993), Holmstrom and Tirole (1997)). We argue that as long as these services are provided e¢ciently, i.e. there are no "market failures" in 
+5Strictly speaking, this requires the conditional demand for payment services to be Cobb-Douglas, but it is also likely to hold for a variety of other cases, see Section 4. 
+4 
+
+========5========
+
+provision of intermediation services, more explicit modelling of them will not change the basic conclusions. If there are market failures, then these can be remedied by Pigouvian taxes, but these are in addition to the optimal tax structure identi…ed in this paper. 
+We make this point by extending our model to allow for an endogenous amount of intermediation services (per unit of savings) in the from of monitoring, along the lines of Holmstrom and Tirole(1997)6. In their framework, without monitoring, bank lending to …rms is impossible, because the informational rent they demand is so high that the residual return to the bank does not cover the cost of capital. So, as monitoring is costly, the socially e¢cient level of monitoring is that level which just induces to bank to lend. In the case where the bank is competitive, i.e. where …rm chooses the terms of the loan contract subject to a break-even constraint for the bank, an assumption commonly made in the …nance literature, this is also the equilibrium level of monitoring. In this case, savings intermediation should not be taxed, because doing to will violate production e¢ciency, as in the case with heterogenous …rms and a …xed amount of intermediation services per unit of savings. But, in the case where the bank is a monopolist i.e. it chooses the contract, it will generally choose a higher level of monitoring than this, in order to reduce the …rm’s informational rent. So, in this case, the optimal tax is a positive Pigouvian tax, set to internalize this negative externality. 
+The remainder of the paper is organized as follows. Section 2 discusses related lit- erature. Section 3 outlines the model, and explains how existing contributions can be viewed as special cases. Section 4 presents the main results. Section 5 studies the case of endogenous monitoring, and Section 6 concludes. 
+2. Related Literature 
+There is a small literature directly addressing the optimal taxation of borrower-lender intermediation and payment services, Grubert and Mackie(1999), Jack(1999), Auerbach and Gordon (2002), and Boadway and Keen(2003). Using for the most part a simple two- period consumption-savings model, these papers broadly agree on a policy prescription7. 
+6It would, perhaps, be more natural to "endogenize" intermediation by looking at the provision of liquidity services using Diamond-Dybvig model, which is undoubtedly the pre-eminent microeconomic model of banking. While this is a topic for future work, the problem is that the Diamond-Dybvig model has a three-period dynamic structure, which is very di¢cult to embed within the standard in…nite-horizon dynamic optimal tax model. In contrast, the Holmstrom-Tirole model also describes an important aspect of …nancial intermediation, and is essentially static, and can be embedded in this way. 
+7Chia and Whalley(1999), using a computational approach, reach the rather di¤erent conclusion that no intermediation services should be taxed, but but their model is not directly comparable to these others, 
+5 
+
+========6========
+
+Given a consumption tax that is uniform across goods (at a point in time), payment services should be taxed at this uniform rate, but savings intermediation should be left untaxed. The argument used to establish this is simple; in a two-period consumption- savings model with the same, exogenously …xed, tax on consumption in both periods, this arrangement leaves the marginal rate of substitution between current and future consumption undistorted i.e. equal to the marginal rate of transformation8. 
+However, one can make three criticisms of the current literature. First, even taking their set-up as given, their optimal taxes are indeterminate. Purely mathematically, two taxes cannot be uniquely determined from a single e¢ciency condition. Second, in their analysis, consumption (wage) and capital income taxes are taken as given, and not optimized by the government. Third, relative to the model of this paper, the models analyzed in the current literature are very special in a number of respects. For example, implicitly, these papers are assuming9 a …xed labour supply, so that a uniform tax on consumption over the life-cycle is …rst-best e¢cient, as it does not distort the inter- temporal allocation of consumption, and thus …nancial intermediation should not do so either. Again, special assumptions are made about the demand for payment services, and intermediation activities of banks. Speci…cally, they assume (i) that payment services are consumed in proportion to consumption; (ii) that the costs of savings intermediation are in proportion to capital invested. We are able to show that the basic result of this literature - i.e. that intermediation taxes are indeterminate, but that an optimal tax structure is to tax payment services at the same rate as consumption, but exempt savings intermediation - also emerges in our model when all of these special assumptions are made (Proposition 1 below). 
+A less closely related literature is that on the optimal in‡ation tax which takes a transaction costs approach to the demand for money (Kimbrough(1986), Guidotti and Vegh(1993), Correia and Teles(1996, 1999)). In this literature, money formally plays a role similar to payment services in our model; the main di¤erences are (i) that it is assumed a free good i.e. it has a zero production cost, and (ii) it is subject to an in‡ation 
+as the intermediation costs are assemed to be proportional to the price of the goods being transacted. 
+8Auerbach and Gordon(2002) have a model that is in some respects more general, and they also take a di¤erent analytical approach. Speci…cally, their model allows for  periods, multiple consumption goods, and variable labour supply. In this setting, they show that a uniform tax on all commodities and payment services is equivalent to a wage tax. Thus, they show that if a uniform commodity tax is optimal, payment services should be taxed at the same rate, consistently with the other literature cited. 
+9The exception here is Auerbach and Gordon(2002), where labour supply is variable. However, in their model, the consumption tax is just assumed to be uniform, not optimised. 
+6 
+
+========7========
+
+tax, rather than a …scal tax. While (ii) makes no di¤erence from an analytical point of view, (i) does; it turns out that when money is free, the optimal in‡ation tax is zero, as long as the transactions demand for household time is a homogenous function of money and consumption. A much more closely related …nding is in Correia and Teles (1996), where, in Section 3 of their paper, money is allowed to have a positive production cost. Proposition 3 below can be regarded as an extension of Proposition 2 in their paper. 
+3. The Model 
+3.1. Households 
+The model is a version of Atkeson, Chari and Kehoe(1999) with payment services and savings intermediation. There is a single in…nitely lived household with preferences over levels of a single consumption good, leisure, and a public good in each period  = 01 of the form 
+X1 
+(() + ()) (3.1) 
+=0 
+where  is the level of …nal consumption in period   is the consumption of leisure, and  is public good provision. Utilities ()() are strictly increasing and strictly concave in their arguments. 
+We take a transactions cost approach to the demand for payment services10, and suppose that consumption  incurs a transaction cost in terms of household time, and this cost is reduced by the use of payment services  For example, making use of a bank account requires a time input, e.g. trips to the bank, but use of an additional payment service e.g. a credit card substitutes for trips to the bank. Then we have  = () where  is increasing in  and decreasing in  
+To help intuition, consider a special case where consumption level  requires  sep- arate transactions, and where a fraction  of these transactions are undertaken from a transactional account with a credit card, and the remainder,1 ¡  from a transactional account without a credit card, where visits to the bank to withdraw cash are required. Also assume for simplicity that there is no interest penalty with a transactional account i.e. it pays the same as a savings account11. Then, the amount of payment services re- 
+10This is of course, analagous to the transactions cost theory of the demand for money. 
+11This is, to a 
+…rst approximation, a reasonable assumption; transactions accounts do pay similar rates of interest to instant access savings accounts. It is also analytically very convenient: without it, a version of the Baumol-Tobin inventory demand theory would come into play, implying that  conditional on  would also depend on  which are determined in general equilibrium, and this would greatly 
+7 
+
+========8========
+
+quired is  =  +  where  is the …xed cost of maintaining a credit card account, and  is the amount of payment services needed per transaction. Also, the household time needed is  = 
+(1¡) 
+ 
+ where  is the number of transactions …nanced by a single trip to the bank, assumed …xed. Eliminating  from between these two equations gives a linear time demand function 
+() = 
+1 
+µ 
+ ¡  
+¶ 
+  
++  (3.2) 
+It turns out that for our purposes, it is convenient to describe the implicit relationship  = () between   and  in terms of the conditional demand for payment services 
+ = ()   0  · 0 (3.3) In the case of the linear time demand function, (3.2),  takes the form 
+() =  +  ¡  
+(3.4) 
+Speci…cation (3.4) is interesting not only because it has plausible microfoundations, but also because it nests the existing literature as a special case: this literature e¤ectively assumes  independent of  and linear homogenous in  i.e.  =  This is of course a special case of (3.4) where there are no …xed costs ( = 0)  =  and no account without a credit card. In the general case, following Guidotti and Vegh(1993), we will assume that  is convex in its arguments; this ensures that the household problem is concave. 
+The household thus supplies labour to the market of amount 
+ = 1 ¡  ¡  
+(3.5) 
+where the total endowment of time per period is set at unity. In each period  the household also saves +1 in units of the consumption good, and deposits it with a bank, who can then lend it on to …rms who can use it as an input to production in the next period, after which they must repay the loan to the bank, who then in turn repays the household. So, in this model, capital only lasts one period. Finally, the household has no pro…t income in any period: …rms may generate pure pro…ts (see Section 3.2 below), but these are taxed at 100%. 
+In any period  household is assumed to pay ad valorem taxes  on   and also pays proportional taxes on labour and capital income. Using the well-known fact that an uniform consumption tax (i.e.  = ) is equivalent to a wage tax, we assume 
+complicate the analysis. 
+8 
+
+========9========
+
+w.l.o.g. that the wage tax is zero We also assume for convenience that one unit of the consumption good can be transformed into one unit of payment services or one unit of the public good. Moreover, in equilibrium, payment services are priced at marginal cost (see Section 3.3 below). This …xes the relative pre-tax price of  and  at unity. 
+So, the present value budget constraint of the household is 
+X1 X 
+1 
+((1 + ) + +1 + (1 +  
+ 
+)) = ((1 ¡ ) + (1 + )) =0 =0 
+(3.6) 
+where  is the price of output in period   is the after-tax return on capital to the household, and  is the wage. We normalize by setting 0 = 1 and assume for convenience that 0 = 0 i.e. initial capital is zero12 Finally,  = (1 ¡ )  where  is the pre-tax return on capital, determined below, and  is the capital income tax. 
+Substituting (3.3),(3.5) in (3.6) gives: 
+X1 X 
+1 
+((1 +  
+) + 
++1 + ()(1 + )) = ((1 ¡  ¡ ) + (1 + )) =0 =0 
+(3.7) 
+The …rst-order conditions for a maximum of (3.1) subject to (3.7) with respect to  +1 respectively are: 
+ = (1 +  + (1 + )) 
+ =  
+¡(1 + ) =  
+ = (1 + +1)+1 
+(3.8) (3.9) (3.10) (3.11) 
+where  is the multiplier on (3.7), and we use (here and below) the notation that for any any function  and variables    , the partial derivative of  with respect to  is  the cross-derivative is 
+ 
+etc. Note that using this notation, the consumer price of …nal consumption is  (1 +  + (1 + )) a weighted sum of the prices facing the household of  and  
+3.2. Firms 
+There are …rms,  = 1 with produce the homogenous good in each period Firm  produces output from labour and capital via the strictly concave, decreasing returns, 
+12This simpli…es the implementability constraint, and does not change anything of substance (see Atkeson, Chari and Kehoe(1999). 
+9 
+
+========10========
+
+production function () where  are capital and labour inputs. We assume that …rms face decreasing returns, because for …xed policy, they will generally face di¤erent costs of capital, but the same wage, and so in this environment, with constant returns, only the one …rm with the lowest unit cost would operate. This case is of limited interest because then, a spread tax cannot a¤ect the relative cost of capital of di¤erent …rms, which means in turn that there is no e¢ciency argument for setting the spread tax to zero. 
+These …rms are assumed to be perfectly competitive. But, they cannot purchase capital directly from households, but must borrow from banks. Moreover, we suppose that …rms may di¤er in intermediation costs, as described in more detail in Section 3.3 below. So, …rms face di¤erences in the cost of capital i.e. …rm  must repay 1 + per unit of capital borrowed from the bank. Thus, pro…t-maximization implies: 
+() =  () = 1 +  
+(3.12) 
+And, in addition, the capital and labour market clearing conditions are: 
+X X 
+ 
+ 
+ 
+=   = 1 ¡  ¡  =1 =1 
+(3.13) 
+These conditions (3.12),(3.13) jointly determine  and  , given household savings and labour supply decisions. 
+3.3. Banks 
+Banks in this economy provide two possible services. First, they can provide payment services to the households i.e. supply  Second, they can provide intermediation be- tween households and …rms. Banks can compete on price for both these activities (i.e. households see the banks as perfect substitutes, both with respect to payment and in- termediation services). We also assume no economies of scope, and constant returns in the provision of both services, so that banks must break even on both services. Assum- ing w.l.o.g. that the marginal and average cost of payment services is 1 in units of the consumption good, the price of payment services will also be 1 in equilibrium. 
+The cost of intermediating one unit of savings between the household and …rm  is . Note that we take  as …xed, but possibly varying between …rms, for reasons discussed in the introduction. We also suppose that "spread" i.e. the value of intermediation services provided by the bank, can be taxed at some rate ~ In turn, the value of intermediation services is measured by  ¡  where  is the lending rate to …rm  and  is the rate 
+10 
+
+========11========
+
+paid to depositors. So, ^ is a tax on both intermediation services provided to households, and to …rms13. Then, as banks make zero pro…t on this activity, we must have 
+(1 ¡ ^)( ¡ ) ¡  = 0  = 1 
+(3.14) 
+Then, from (3.14): 
+ =  + (1 + )  = 
+^ 
+1 ¡ ^ We refer to  as the spread tax from now on. 
+(3.15) 
+3.4. Discussion 
+The above model provides a general framework which encompasses the speci…c models of taxation of …nancial services (Auerbach and Gordon(2002), Boadway and Keen(2003)), Jack(1999), Grubert and Mackie(1999)) that have been developed so far. For example, Boadway and Keen(2003)), Jack(1999), Grubert and Mackie(1999) are two-period versions of the above model14, with (implicitly) …xed labour supply. Auerbach and Gordon(2002) is a …nite-horizon version of the model, with the additional feature15 that there are  consumption goods in each period, a feature that, however, is inessential in the sense that the main results of this paper generalize straightforwardly to  consumption goods in each period. 
+As already noted in Section 2, the feature of all these contributions, however, is the special assumptions they implicitly make about demand for payment services and bank intermediation. On the household side, they all assume, …rst, that payment services are needed in …xed proportion to consumption and that (implicitly) that a time input  is not required from the household. In our model, this amounts to the assumptions that () =  in (3.3), in which case, choosing the constant to be unity,  =  On banking activity, the existing literature assumes that the cost of intermediation in …xed proportion to household savings. In the context of our model, this requires  =  i.e. …rms are all the same with respect to intermediation costs, or - equivalently - there is only one …rm. 
+13In principle, one could allow for the intermediation services received by these two parties to be taxed at di¤erent rates, but in practice, this is very di¢cult to implement (Poddar and English(1997)). Moreover, in our framework, the addition of this feature in our model would lead to tax indeterminacy. 
+14A minor quali…cation here is that Boadway and Keen allow for a 
+…xed cost of savings intermediation e.g. …xed costs of opening a savings account. These introduce a non-convexity into household decision- making, which greatly complicates the optimal tax problem, and so we abstract from these in this paper. 
+15It also has labour supply in only one period. 
+11 
+
+========12========
+
+Finally, the relation of our model to the optimal in‡ation tax literature is as fol- lows. Our modelling of household demand for intermediation services is closely related to the "transactions cost" view of the demand for money in that literature (Corriea and Teles(1996), (1999)). In particular, if we de…ne  as real money balances, their trans- actions cost function is an inversion of (3.3) to obtain  as a function of ; then, increased real money balances reduce the labour transactions costs of consumption. The models in this literature do not allow for physical capital or taxation of capital income, or costly money, and so in this sense are more special. Nevertheless, one of our results, Proposition 3 below, is related to that literature, especially Proposition 2 of Correia and Teles(1996). 
+3.5. A Benchmark Indeterminacy Result 
+Here, we make the assumptions of the existing literature (Auerbach and Gordon(2002), Boadway and Keen(2003)), Jack(1999), Grubert and Mackie(1999)), namely: (i) that conditional demand for  is independent of  and linear in  i.e.  = ; (ii) only one type of …rm; and (iii) a …xed consumption tax  and a zero capital income tax  = 0. Under these assumptions, we show that optimal taxes on …nancial intermediation are generally indeterminate. Note from (3.8)-(3.11) that given (i) i.e.  = 1 and  = 0 we have: 
+ 
+¡1 
+= 
+1 +  + (1 + ) 1 
+1 + ¡1 + (1 + ¡1)1 +  
+  = 1 (3.16) Moreover, from (3.12), (3.15), given only one …rm: 
+ =  ¡ 1 ¡ (1 + )  = 1 
+(3.17) 
+where  = () Then (3.16) becomes 
+ 1 +  + (1 + ) 
+¡1 
+= 
+1 
+1 +  + (1 +  ) ¡ (1 + ) 
+ = 1 
+¡1 ¡1 
+  
+(3.18) 
+Now say that the sequence fg1=0 is a restricted optimal tax structure on …nancial services if the inter-temporal allocation of consumption is left undistorted by taxes. From (3.18), this requires: 
+1 +  + (1 + ) 
+1 + ¡1 + (1 + ¡1) 
+ 
+1 
+¡ (1 +  
+=) 
+1 
+ ¡  
+ = 1 (3.19) Then two conclusions that can easily be drawn from (3.19). First, fg1=0 is not uniquely determined from (3.19) i.e. there is indeterminacy in the restricted optimal tax 
+12 
+
+========13========
+
+structure. The second is that of the many optimal tax combinations,  =   = 0 has the advantage that it is optimal, independently of knowledge of  and is thus administratively convenient. We can thus summarize: 
+Proposition 1. In the benchmark case, with (i) conditional demand for  independent of  and linear in ; (ii) only one type of …rm; and (iii) a …xed consumption tax  and zero capital income tax  = 0 then the restricted optimal tax structure on …nancial services is not uniquely determined. But, a uniform tax on goods and payment services ( = ) and a zero tax on the spread ( = 0) is an administratively convenient restricted optimal tax structure. 
+This result summarizes the …ndings of the existing literature, in the context of our model. It is important to emphasize that under the assumptions made by the existing literature, optimal taxes on …nancial intermediation are in fact indeterminate. This main purpose of this paper is to relax these assumptions in an empirically plausible way, and at the same time generate determinacy in the tax structure. 
+4. Tax Design 
+We take a primal approach to the tax design problem. In this approach, an optimal ©policy for the government is a choice of all the primal variables in the model, in this case 
+ 
++1() 
+ª1 
+=1 
+=0 
+to maximize utility (3.1) subject to the capital and labour market clearing conditions (3.13), aggregate resource, and implementability constraints. We are thus assuming, following Chamley(1986), that the government can pre-commit to policy at  = 0 The aggregate resource constraint says that total production must equal to the sum of the uses to which that production is put: 
+X 
+ 
+X 
+ 
+ + () + +1 +  +  =  
+ 
+ 
+()  = 01 
+=1 =1 
+(4.1) 
+The implementability constraint ensures that the government’s choices also solve the household optimization problem. First, by de…nition, 
+ ´  +  +   =  ¡  ¡  
+(4.2) 
+where  is the overhead cost of payment services. The most plausible case is where there is a …xed cost to payment services i.e.   0 Substituting (4.2) back into (3.7), 
+13 
+
+========14========
+
+we obtain: 
+X1 
+((1 +  +  (1 +  
+ 
+   
+)) + (1 + ) + +1) 
+=0 1 
+(4.3) 
+X 
+=  ((1 ¡  ¡ ) ¡ (1 + ) + (1 + )) 
+=0 
+Then, using the household’s …rst-order conditions (3.8)-(3.11) in (4.3), we …nally arrive at the government’s implementability constraint: 
+X1 
+( ¡  (1 ¡  + )) = 0 
+=0 where in (4.4), the expression: 
+(4.4) 
+(4.5) 
+ ´ 
+ 
+ 
+is the overhead cost of payment services, normalized by   0 and can thus be inter- preted as the virtual pro…t of the household from transacting on the market. In the most plausible case where there is a …xed cost to payment services i.e.   0, virtual pro…t 
+is negative. 
+So, as is standard in the primal approach to tax design, we can incorporate the im- plementability constraint (4.4) into the government’s maximand by writing 
+ = () + () + ( ¡ (1 ¡  + )) 
+(4.6) 
+where  is the Lagrange multiplier on (4.4). If  · 0 it is possible to show that  ¸ 0 at the optimum (see Appendix). If  = 0 the revenue from pro…t taxation is su¢cient to fund the public good,  We will rule out this uninteresting case, and so will assume 
+that   0 at the optimum in what follows 
+The government’s choice of primal variables must maximize 
+P1 
+=0 
+ subject to (4.1) and (4.4). The …rst-order conditions with respect to   are, 
+respectively; 
+ 
+ ¡ 
+ 
+ 
+  
+= (1 + ) =  =  +  = ¡1 =  =  +  =  
+(4.7) (4.8) (4.9) (4.10) (4.11) (4.12) (4.13) 
+14 
+
+========15========
+
+where   are the multipliers on the resource, capital market, and labour market conditions at time  respectively. 
+Moreover, from (4.6), 
+ 
+= (1 + (1 + )) = 
+ ¡ (1 ¡  + ) 
+ 
+(4.14) 
+ 
+and 
+ 
+=  (1 + (1 + )) = 
+ ¡ (1 ¡  + ) ¡  
+ 
+(4.15) 
+ 
+So,  is what Atkeson, Chari and Kehoe(1999) call the general equilibrium expenditure elasticity. Note that if there are constant returns to scale, virtual pro…t  ´ 0 and so  are reduce to standard formulae found, for example, in the primal approach to the static tax design problem (Atkinson and Stiglitz(1980)). 
+We begin by characterizing the tax on capital income and the spread tax, where we have a sharp result with strong intuition. It is possible to manipulate the …rst-order conditions to the household and government optimization problems to get (all proofs in Appendix): 
+Proposition 2. At any date  the optimal taxes  satisfy 
+µ µ ¶¶ 
+1 + (1 ¡ ) 
+¡1 
+ 
+¡ 1 ¡  = 
+ ¡1 
+  
+¡1  = 1 (4.16) 
+ 
+where  = 
+(1+)(1++(1+ )) 
+1+(1+) 
+ So, if …rms are homogenous in intermediation costs, ( =  all ) then   are not uniquely determined, but if there is heterogeneity ( = 6  some ) then the unique solution to the system (4.16) has  = 0 and in the steady state,  = 0 
+So, we see that as long as intermediation costs di¤er across …rms, the spread tax  at any date should be zero. The intuition for this result is clear. From (4.12), (4.10), we see that at any date  
+( ¡ ) = 
+¡1 
+ 
+=)  ¡  =  ¡  
+ 
+(4.17) 
+That is, the marginal product of capital net of true intermediation costs should be equal across …rms, which of course is just the condition for capital to be allocated e¢ciently 
+15 
+
+========16========
+
+across …rms. But, condition (4.17) is generally not consistent with a non-zero spread tax when …rms are heterogenous, as then from (3.12), (3.15), 
+ = 1 +  + (1 + ) =)  ¡  = 1 +  +  
+So, if  6 = (417) cannot hold. This is just an instance of the Diamond-Mirrlees production e¢ciency theorem. A tax on the spread is an intermediate tax on the allocation of capital, and given our assumptions (a full set of tax instruments, and no pure pro…ts), this tax should be set to zero. Note also that when there is only one …rm, this argument has no bite, and thus  is left indeterminate, as in Proposition 1. 
+Finally, we see that in the steady state,  = 0 So, the celebrated result of Cham- ley(1986) that in the steady state, the tax on capital income is zero continues to hold in our setting. In this sense, the optimal structure of wage and capital income taxes is separable from the optimal tax on borrower-lender intermediation. 
+Next, we turn to characterize the tax on payment services. The …rst step is to char- acterize the overall tax on …nal consumption, which from (3.8) is the weighted sum of  and  i.e.  +  We can then state: 
+Proposition 3. At any date  the optimal total tax on …nal consumption in ad valorem form is 
+ +  
+µ 
+¡ 
+¶ 
+1 +  +  
+= 
+¡  
+¶ µ 
+  
++  
+  = 
+ 
+ 1 +   
+(4.18) 
+Note that (4.18) is a formula for an optimal consumption tax that also occurs in the static optimal tax problem, when the primal approach is used (Atkinson and Stiglitz(1980, p377). In particular,  is the marginal bene…t of $1 to the government, and  is a measure of the marginal utility of $1 to the household, so 
+¡ 
+ 
+is a measure of the social gain from additional taxation at the margin. But, inspection of (4.14) and (4.15) reveals that in our analysis, the  are generally di¤erent to the static case, unless  = 0 which occurs when there are constant returns in the conditional demand for payment services,  = 1 Note also that the optimal tax  + on …nal consumption is a weighted average of two taxes on marketed goods,  and  and thus these two separate taxes are not yet determinate. 
+The next result characterizes  and can be stated as follows16: 
+16As noted in Section 2, Proposition 3 is related to Proposition 2 of Corriea and Teles(1996). They consider what is formally a very similar tax design problem. The main di¤erences are; (i) Proposition 3 extends their analysis by providing an explicit formula for the optimal tax rate; (ii) they work with a di¤erent speci…cation of (3.3), namely where  is the dependent variable. 
+16 
+
+========17========
+
+Proposition 4. If household demand for payment services depends on the time input (  0) any date  the optimal ad valorem tax on payment services is 
+  1 +  
+= ¡ 
+ 
+ 
+ 
+ 
+(4.19) 
+where  is the marginal e¤ect of  on virtual pro…t (4.5). But, if conditional demand for payment services is independent of the time input ( = 0) then the optimal tax on payment services is indeterminate. 
+That is, generally,  is determinate, but under the special conditions of the existing literature, when  = 0 it is not. In the main case of interest, when  is determinate, we see that it is not general equal to the right-hand side of (4.18) but is instead determined by the e¤ect of  on the the virtual pro…t of the household,  This of course, implies that in general, …nancial services should not be taxed at the same rate as the consumption good i.e.  = 6  contrary to the claims of the existing literature. 
+So, how is  determined? First, the sign of  is the sign of ¡ One intuition for this is as follows. If the government imposes a positive tax on  this will cause a reduction in  and at a …xed level of consumption,  a compensating increase in  If this decreases virtual pro…t for the household, which is not directly taxable, this is desirable. But this last e¤ect is measured just by ¡ Note that in the special case of constant returns of , then  ´ 0  = 0 This can be understood as an instance of the Diamond-Mirrlees Theorem; if household "pro…t" is zero, the intermediate good, payment services, should not be taxed. 
+More generally, there is an analogy here with the Corlett-Hague rule, which says that goods complementary with non-taxable leisure should be taxed more heavily. An analogy can also be drawn with tax design when there are non-constant returns to scale in the production of marketed goods. In that case, it has long been known that in this situation, a deviation from aggregate production e¢ciency (non-taxation of intermediate goods) is optimal. For example, Stiglitz and Dasgupta(1971) show that factors of production should be taxed more heavily when used in industries where pure rent is positive and cannot be taxed at 100%. Here, the principle is similar: the factor of production,  should be taxed (subsidized), if it causes - indirectly, via  - pro…t to rise (fall). 
+We can now focus on the determinants of the sign of  We start with the speci…- cation (3.4), linear conditional demand. In this case, () =  +  ¡  it is clear that  = 
+ 
+ 
+and thus  = 0 implying a zero tax on payment services. An alter- native form for  can be derived from the literature on optimal in‡ation tax, where it is often assumed that () is a homogenous function (Kimbrough(1986), Guidotti and 
+17 
+
+========18========
+
+Vegh(1993), Correia and Teles(1996, 1999)). In this case, without loss of generality17¡ , we can write () =  
+ 
+¢ 
+ 
+with  (0) = 0 0  0 This is homogeneous of degree  and is convex i¤ 00  0 so we assume these properties. It is then possible to show:¡ 
+Proposition 5. Assume 
+ 
+¢ 
+¡ 
+() =  
+ 
+ 
+¢ 
+ 
+ 
+(a) If in addition, 
+ 
+= 
+¡¢ 
+ 
+is constant elasticity, then at any date  the optimal ad valorem tax on payment services is 
+  1 +  
+= 
+ (1 ¡ ) 
+ 
+  
+(4.20) 
+So, if there are decreasing returns to scale (  1), then  is positive, and if there are increasing returns to scale (  1), then  is negative. 
+(b) In the general case, at any date  the optimal ad valorem tax on payment services is 
+  
+µ 
+= 
+ 
+2 +  
+¶ 
+0  00  
+ 
+1 +    
+¡ 1 (1 ¡ )  = 
+ 
+ 
+ 1  = 
+ 
+ 
+   
+ 
+ 
+0 
+ 0 (4.21) So, if   2 +  and if there are decreasing (increasing) returns to scale, then  is positive (negative). 
+So, in a wide variety of cases,   0 if there are decreasing returns to scale. This is the plausible case, as it corresponds to some …xed-cost element of payment services. But, we cannot rule out a negative tax on payment services. So, overall, the conclusion is that while the optimal tax on payment services is likely to be positive or zero, a subsidy cannot be ruled out. 
+5. Endogenizing Intermediation Services 
+We have, so far, treated the service of savings intermediation by banks in rather "black box" fashion. In particular, we have treated  the amount of intermediation services per unit of capital, as exogenous. However, it is clear that banks supply several di¤erent kinds of intermediation services, notably liquidity services (Diamond and Dybvig(1983)), and monitoring services (Diamond (1991), Besanko and Kanatas(1993), Holmstrom and Tirole (1997)). In this section, we present a simple version of Holmstrom and Tirole (1997), where the role of banks is endogenous. Banks provide monitoring services, which enables them to reduce the informational rent of the …rms to which they lend, and thus 
+17This is true because 
+(1) = ¡ () so () = (1) ´ () 
+18 
+
+========19========
+
+overcome the "credit rationing problem"18 which prevents …rms borrowing directly from households. Thus, in terms of the baseline model, we essentially endogenize  the level of intermediation services provided per unit of capital intermediated. This micro-founded "sub-model" is then embedded in the general equilibrium model, which allows us to solve for the optimal tax on the spread,  We …nd that when the bank is "competitive" i.e. …rms set the terms of the loan contract,  = 0 but that when the bank is a monopolist,  is strictly positive. 
+The details are as follows (in what follows,we drop time subscripts except where nec- essary). First, we drop payment services from the model, by setting  =  = 0 We then assume that there are two kinds of …rms, a non-entrepreneurial …rm (NE-…rm), and a continuum of unit measure of entrepreneurial …rms (E-…rms). The NE-…rm has a linear production function () =  + (1 + ) Moreover, the NE-…rm does not require bank intermediation, but can rent capital directly from the household. Given this linear production function, the cost of capital is determined independently of the capital stock at 1 + , and thus we require (1 + ) = 1 to ensure a steady state (Atkeson, Chari and Kehoe(1999)) If this holds, then the economy converges immediately to the steady state. 
+Each E-…rm operates as follows. In any period  it has a discrete investment project, which requires one unit of capital. The E-…rm must borrow all of this; it has no collateral19. If the project is a success, it produces  units of output at +1, and if it fails, it produces 0. Let ~ be the random output of the project, assumed uncorrelated across E-…rms. Following Holmstrom and Tirole(1997), Section 4.4, we model monitoring by supposing that there are two versions of the project that can be chosen by the …rm: a good version, where the probability of success is 1    0; and a bad version, where the probability of success is 0   =  ¡ ¢ ¢  0 but there is a private bene…t () for the E-…rm, where () is further discussed below. 
+There is now a single bank, who lends to all the E-…rms. The bank, as well as the E-…rm, can observe ~ Moreover, the bank has access to a monitoring technology, which operates as follows. If operated at intensity  the bank can prevent the …rm undertaking a bad project with payo¤ greater than () with (0)  0 0  0 00  0 This can be interpreted, for example, as the extent to which the bank can detect whether the …rm is conforming with the covenants of its loan contract. As in Holmstrom and Tirole(1997), 
+18The credit rationing problem arises when the informational rent demanded by borrowers in ex- change for "behaving" is so high that the residual return to the bank does not cover its cost of capi- tal(Tirole(2006)). 
+19This is in contrast to Holmstrom and Tirole, where the distribution of collateral across 
+…rms plays a central role. 
+19 
+
+========20========
+
+we assume that only the good project is economically viable, even taking into account the maximum bene…t (0) for the E-…rm i.e. 
+ ¡ (1 + )  0   ¡ (1 + ) + (0) 
+(5.1) 
+Following Holmstrom and Tirole(1997), section 4.4, we de…ne a loan contract between the bank and the …rm to be a repayment  from the …rm to the bank, conditional on stochastic output ~, with the …rm retaining  = ~ ¡  plus a level of monitoring,  In the design of this contract, we assume limited liability, which means both payments  have to be non-negative. So, limited liability means that contract speci…es  =  = 0 whenever output is zero. 
+The usual approach in the …nancial contracting literature is to study the optimal contract between the bank and the …rm where the …rm has all the "bargaining power" i.e. the bank is a passive entity which must simply make non-negative expected pro…t (Holmstrom and Tirole(1997), Tirole(2006)). We begin with this case as a benchmark, assuming that …rms are risk-neutral, i.e. that they maximize expected pro…ts20. 
+From (5.1), the optimal contract must induce the …rm to choose the good project i.e. it must satisfy the incentive constraint 
+ ¸  + () =)  ¸ 
+() 
+¢ 
+´ () (5.2) It must also give the bank non-negative expected pro…t21. Generally, the pro…t of the bank can be written 
+¦() = (1 ¡ ) (( ¡ ) ¡ (1 + )) ¡  
+(5.3) 
+This is because (¡)¡(1 +) is the expected margin on the loan, or spread, which is taxed at rate , so (5.3) is of the same general form as (3.14) above Assume for the moment that  = 0. Then the pro…t constraint of the …rm is 
+¦(0) = ( ¡ ) ¡ (1 + ) ¡  ¸ 0 
+(5.4) 
+The loan contract problem for the …rm is then to choose  to maximize  subject to (5.2), (5.4). These constraints reduce to 
+ ¡ (1 + ) ¡  ¸  ¸ () 
+(5.5) 
+20This can be justi…ed as follows. There are a large number (a continuum) of 
+…rms, owned by the household, and because success probabilities are assumed uncorrelated, aggregate pro…t is non-stochastic and equal to the expected pro…t of a typical …rm; so, the household prefers aggregate pro…t to be maximised. 
+21By the same argument as in the previous footnote, we can assume that banks maximise expected pro…t. 
+20 
+
+========21========
+
+Now assume: 
+A1. ( ¡ (0))  (1 + ) max f( ¡ ()) ¡ g  (1 + ) 
+Assumption A1 is illustrated in Figure 1 below; note that ( ¡ (0)) is concave as shown, because 00  0 
+Figure 1 in here 
+The interpretation of A1 is as follows. The …rst inequality in A1 implies that without monitoring, lending to E-…rms is impossible, because the informational rent they demand is so high that the residual return to the bank does not cover the cost of capital. In that case, we have credit rationing, in the terminology of Tirole (2006), Chapter 3. The second inequality in A1 ensures that, absent taxation, the credit rationing problem can be overcome by appropriate choice of monitoring. 
+So, from A1, (5.5) is violated at  = 0 but holds for  above a certain minimum level. So, it is clear that it is optimal for the …rm to reduce  to the point where this inequalities just holds i.e. to  =  where  is the smallest root of 
+( ¡ ()) ¡  = (1 + ) 
+as shown in Figure 1. Note that this is in fact the socially e¢cient level of monitoring; monitoring is costly, and so it is optimal to set it just at the point where the bank is willing to lend, and no higher. 
+What happens when the bank has all the bargaining however in designing the loan contract? Now the bank chooses  to maximize (5.3) subject to (5.2). Clearly, (5.2) will be binding, so substituting  = () into (5.3) and maximizing with respect to  we get the …rst-order condition 
+¡(1 ¡ )0() = 1 =)  = ¤() 
+(5.6) 
+for any …xed tax  Now from Figure 1, it is clear that ¤(0)   i.e. without a tax, the bank "over-monitors" in order to reduce the informational rent of the E-…rm. From (5.6), it is also clear that a high enough tax  can be found which will induce the bank to set ¤() =  But, at this tax, the …rm will be making a negative pro…t, because 
+max¦(()) = (1 ¡  ) (( ¡ ()) ¡ (1 + )) ¡   ( ¡ ()) ¡ (1 + ) ¡  = 0 
+21 
+
+========22========
+
+So, the best that the government can do it is to increase  to the value ~ at which max ¦(() ~) = 0; generally, 0  ~  , implying a level of monitoring ~ = ¤(~)   as shown on Figure 122. Thus, ~ is a constrained Pigouvian tax; it corrects over-monitoring as far as is possible while respecting the break-even constraint of the bank. 
+So far, we have considered the problem of choosing  in isolation. The full optimal tax problem is then as follows. The government chooses the primal variables, now in- cluding  i.e. f+1g1=0 to maximize utility (3.1) subject to the resource and implementability constraints, and the constraint that  must be achievable, given the tax instrument . Assuming the government can set a 100% pro…t tax on both the bank and the E-…rm, the implementability constraint is just given by the special case of (4.4) where  = 0 i.e.23: 
+X1 
+( ¡ (1 ¡ )) = 0 (5.7) 
+=0 
+Given the above analysis, the aggregate resource constraint says that total production must equal to the sum of the uses to which that production is put, given the control that the government has over . Using the fact that () = (1¡)+ (1+) and that lending to E-…rms occurs i¤  ¸ ~ we can write this constraint as 
+( 
+ + +1 +  +  = 
+(1 ¡ ) + (1 + )( ¡ 1) +   ¸ ~ 
+(1 ¡ ) + (1 + )   ~ 
+ = 01 (5.8) 
+where ~ =  when the …rm chooses the loan contract, and ~ = ¤(~) when the bank chooses the loan contract. Note that in (5.8), output increases by  ¡ (1 + )  0 if E-…rms are …nanced, but a cost ~ must be incurred. 
+So, following the primal approach, we can de…ne the social welfare function 
+ = () + () + ( ¡ (1 ¡ )) 
+where   0 as long as the tax on pro…ts is insu¢cient to fund the cost of the public good,P 
+ As before, the government’s choice of primal variables maximizes 
+1 
+=0 
+ subject 
+22Note that 
+max ¦(~) = 0 at the point where the function ( ¡ ()) ¡ (1¡ ~) is tangent to 1 + ; this curve is shown as the bold dotted line in Figure 1. 
+23Unlike in the baseline model, both bank and E-…rm can make positive pro…ts, with the bank making max¦() and the E-…rm making ¦ = . But, if these are taxed at 100%, the household has no non-wage income. 
+22 
+
+========23========
+
+to (5.8). The …rst-order conditions with respect to  are, respectively; 
+  
+¡¡1 + (1 + ) 
+ 
+=  =  = 0 
+=  
+(5.9) (5.10) (5.11) (5.12) 
+where  is the multiplier on (5.8). As convergence to the steady state is immediate from  = 1 onwards,   are independent of  implying  = ¡1 so (5.11) holds by assumption of (1 + ) = 1 Also, the optimal choice of  is; 
+( 
+ = 
+~ i¤  ¡ (1 + ) ¡ ~ ¸ 0 
+0 otherwise 
+The optimal tax structure can now be characterized as follows. First, let 
+ = 
+¡(1 ¡ ) ¡  
+ = 
+ ¡ (1 ¡ ) ¡  
+ 
+ 
+ 
+ 
+Then we have: 
+Proposition 6. Assume A1. Then, at every date  the optimal consumption tax  is given by 
+ 
+µ 
+= 
+¡ ¶ µ ¡  
+¶ 
+1 +   1 +  
+  = 
+ 
+ 
+(5.13) and the optimal tax on capital income is  = 0 The optimal spread tax  is as follows. If the E-…rm chooses the loan contract,  = 0 But, if the bank chooses the loan contract,  = ~  0 In both cases, in equilibrium, the bank always loans to the E-…rms. 
+So, the properties of the consumption and capital income tax are the same as in the base case i.e. as in Propositions 2 and 5, taking into account the simpli…cations made elsewhere in the model in this Section. The main question of interest is how  is set. In the case where the bank is "competitive",  = 0 This is because if the bank is competitive, it is supplying the e¢cient level of monitoring,  and imposition of a tax will distort this;  will have to rise from its e¢cient level to compensate the bank and make it just willing to lend. If, on the other hand, the bank is a monopolist, it "over-monitors" in order to reduce the informational rent of the E-…rm, above the minimum level . This imposes a negative externality on the E-…rm, and so  is a Pigouvian tax which ensures that the bank internalizes the negative externality, subject to respecting the zero pro…t constraint. 
+23 
+
+========24========
+
+6. Conclusions 
+This paper has considered the optimal taxation of two types of …nancial intermediation services (savings intermediation, and payment services) in a dynamic economy, when the government can also use wage and capital income taxes. When payment services are used in strict proportion to …nal consumption, and the cost of intermediation services is the same across …rms, the optimal taxes on …nancial intermediation are generally indetermi- nate. But, when …rms di¤er in the cost of intermediation services, the tax on savings intermediation should be zero. Also, when household time and payment services are sub- stitutes in household "production" of …nal consumption, the optimal tax rate on payment services is determinate, and is generally di¤erent to the optimal rate on consumption goods. Finally, as an extension, we endogenized the cost of intermediation, and showed that intermediation services (monitoring) may be oversupplied in equilibrium when banks have monopoly power, justifying a Pigouvian tax in this case. 
+There are two obvious limitations of the analysis. The …rst is that the government is assumed to be able to precommit to a tax policy at time zero. However, even in a simpler setting without a banking sector, the characterization of the optimal time- consistent capital and labour taxes is a technically demanding exercise (see e.g. Phelan and Stacchetti (2001)) and so such an extension is certainly beyond the scope of this paper. 
+The second is the restriction to linear income taxation. The classic result of Atkin- son and Stiglitz tells us that with non-linear income taxation, commodity taxation is redundant, and more recently, Golosov et. al. (2003) has recently shown that this result generalizes to a dynamic economy. Their result would apply, for example, in a version of our model where households di¤er in skill levels, and without any …nancial intermedia- tion. What would happen if we introduced …nancial intermediation in this environment? The results on taxation of payment services seem likely to be a¤ected, as the government has additional degrees of freedom with which to tax the notional "pro…t" from household production. 
+24 
+
+========25========
+
+7. References 
+Atkeson, A., V.V.Chari, and P.J.Kehoe (1999), "Taxing capital income: a bad idea", Federal Reserve bank of Minneapolis Quarterly Review, 23: 3-17 
+Atkinson, A., and J.E.Stiglitz (1980), Lectures on Public Economics, MIT Press 
+Auerbach, A. and R.H.Gordon (2002), American Economic Review, 92 (Papers and Proceedings): 411-416 
+Bianchi,J., and E.G.Mendoza, (2010), "Overborrowing, Financial Crises and "macro- prudential" taxes", NBER Working Paper 16091 
+Berger, A.N. and G. F. Udell (1995), "Relationship Lending and Lines of Credit in Small Firm Finance", The Journal of Business, 68: 351-381 
+Besanko, D. and G.Kanatas (1993), "Credit market equilibrium with bank monitoring and moral hazard", The Review of Financial Studies, 6: 213-232 
+Boadway, R. and M.Keen (2003), "Theoretical perspectives on the taxation of capital and …nancial services", in Patrick Honahan (ed.) The Taxation of Financial Intermedia- tion (World Bank and Oxford University Press)„ 31-80. 
+Brown, M., T.Jappelli, and M.Pagano (2009), "Information sharing and credit: Firm- level evidence from transition countries", Journal of Financial Intermediation, 18: 151– 172 
+Chamley, C., (1986), "Optimal Taxation of Capital Income in General Equilibrium with In…nite Lives", Econometrica, 54: 607-622 
+Chia, N-C. and J.Whalley, (1999), "The tax treatment of …nancial intermediaries", Journal of Money, Credit and Banking, 31: 704-19 
+de la Feria, R., and B. Lockwood (2010), "Opting for Opting In? An Evaluation of the European Commission’s Proposals for Reforming VAT on Financial Services", Fiscal Studies, 31(2): 171-202 
+Correia, I., and P.Teles (1996), "Is the Friedman rule optimal when money is an intermediate good?", Journal of Monetary Economics, 38: 223-244 
+Correia, I., and P.Teles (1999), "The optimal in‡ation tax" Review of Economic Dy- namics, 2: 325-346 
+Diamond, D.W. (1991), "Monitoring and reputation: the choice between bank loans and directly placed debt", Journal of Political Economy, 99: 689-721 
+Diamond, D.W and Dybvig, P.H, (1983), "Bank Runs, Deposit Insurance, and Liq- uidity," Journal of Political Economy, 91: 401-19 
+Ebrill, L., M. Keen, J-P. Bodin, and V. Summers (2001), The Modern VAT (Wash- ington D.C.: International Monetary Fund) 
+25 
+
+========26========
+
+Guidotti, P. E. and Vegh, C. A., (1993), "The optimal in‡ation tax when money reduces transactions costs : A reconsideration," Journal of Monetary Economics, 31, 189-205 
+Golosov, M., N.Kocherlakota, and A.Tsyvinski, (2003), "Optimal Indirect and Capital Taxation", Review of Economic Studies, 70: 569-587 
+Grubert, H. and J.Mackie (1999), "Must …nancial services be taxed under a consump- tion tax?", National Tax Journal, 53: 23-40 
+Guidotti, P.E. and C.A. Vegh (1993), "The optimal in‡ation tax when money reduces transactions costs", Journal of Monetary Economics, 31: 189 205 
+Gup, B.E., and J.W.Kolari (2005), Commercial banking: The Management of Risk, 3rd ed. (Wiley) 
+Hellmann, T. F., K.C. Murdock and J.E. Stiglitz (2000), "Liberalization, Moral Hazard in Banking, and Prudential Regulation: Are Capital Requirements Enough?" American Economic Review, 90: 147-165 
+Ho¤man, L.A., S.N. Poddar and J. Whalley (1987), “Taxation of Banking Services Under a Consumption Type, Destination Basis VAT” National Tax Journal 40, 547-554 
+Huizinga, H. (2002), “Financial Services – VAT in Europe?” Economic Policy, 17: 499-534 
+Holmstrom, B. and J.Tirole (1997), "Financial intermediation, loanable funds, and the real sector", Quarterly Journal of Economics, 112: 663-691 
+International Monetary Fund (2010), A Fair and Substantial Contribution by the Fi- nancial Sector, Final Report for the G20 
+Jack, W. (1999), "The treatment of …nancial services under a broad-based consumption tax", National Tax Journal, 53: 841-51 
+Keen, M. (2010)," Taxing and Regulating Banks", unpublished paper, IMF 
+Kimbrough, K. (1986), The optimum quantity of money rule in the theory of public …nance, Journal of Monetary Economics, 18: 277-284. 
+Phelan, C. and E.Stacchetti (2001), "Sequential Equilibria in a Ramsey Tax Model," Econometrica, 69: 1491-1518 
+Poddar, S.N., and M. English (1997), “Taxation of Financial Services Under a Value- Added Tax: Applying the Cash-Flow Approach” National Tax Journal, 50: 89-111 
+Stiglitz, J. E., and P. Dasgupta (1971), "Di¤erential Taxation, Public Goods, and Economic E¢ciency" The Review of Economic Studies, 38, 151-174. 
+Tirole, J., (2006), The Theory of Corporate Finance, MIT Press 
+Zee, H.H. (2005), “A New Approach to Taxing Financial Intermediation Services Un- der a Value-Added Tax” National Tax Journal 53(1): 77-92 
+26 
+
+========27========
+
+A. Appendix 
+A.1. Proofs of Propositions 
+Proof that  ¸ 0 Suppose to the contrary that   0 at the optimum. Then, from the properties of ()   0 from (4.14). So, from (4.14),    But from (4.8),(4.11), (4.13), (3.12): 
+ =  =  =  
+So, combining the two, we see that 
+   
+(A.1) 
+But, (A.1) says that utility could be increased if 1$ of spending on the public good were returned to the household as a lump-sum, contradicting the optimality of the policy. ¤ Proof of Proposition 2. From (4.7), (4.15), we get 
+¡1 
+= 
+1 +  
+¡1 
+ 
+ ¡1 
+1 + ¡1  
+= 
+¡1 ¡1 
+ 
+ 
+  where  = 
+1+ 
+1+(1+) 
+Next, from from (4.10),(4.12), 
+(A.2) 
+  ¡  = 
+ 
+ 
+= 
+¡1 
+ 
+ 
+(A.3) 
+So, combining (A.2) and (A.3), we get 
+¡1 
+= 
+ 
+  
+(¡1 
+ 
+¡ ) 
+(A.4) 
+Next, using (3.8), (3.11),  = (1 ¡ ) and (3.15), we get: 
+¡1 ¡1  
+¡1 
+¡ 
+ 
+¡ 
+  ¢¢ 
+ 
+= 
+ 
+(1 + (1 ¡  
+)) = 
+ 
+ 1 + (1 ¡  
+) 
+ 
+ 
+¡ 1 ¡ (1 + ) 
+(A.5) 
+where  = 1 +  + (1 + ) Combining (A.4), A.5), and eliminating 
+ 
++1 
+ we get that: 
+¡1 + (1 
+¡ )¡ ¡ 1 ¡ (1 + ) 
+ ¢¢ 
+= 
+ 
+( 
+ 
+ 
+ 
+ 
+¡  
+ 
+)  = 1 (A.6)¡ 
+1 
+where  =    Finally, using (A.3) to substitute  ¡  by 
+ 
+   
+¡1 
+ 
+ 
+in (A.6), we get 
+ 
+(4.16) as required. If  = 1 (4.16) is a single condition and thus  are not uniquely determined. If   1 (4.16) comprises a system of   1 equations, and it is easy to 
+27 
+
+========28========
+
+ 
+¡1 
+verify that  = 1 ¡ 
+¡1  
+¡1 
+¡1 
+¡1 
+  = 0 is the unique solution to this system. So,  = 0 is a solution in the steady state. 
+ 
+¤ 
+Proof of Proposition 3. From (4.7), (4.8), (4.13),(4.14),(4.15),(3.12), we have 
+ 
+= 
+ 1 + (1 + ) 
+ 1 + (1 + ) 
+= 
+1 +    
+(A.7) 
+And, from (3.8),(3.9): 
+ 
+= 
+1 +  + (1 + ) 
+  So, combining (A.7), (A.8) we get: 
+(A.8) 
+ +   
+1 +  + (1 + ) 
+= 
+( ¡ ) 
+1 + (1 + ) 
+(A.9) 
+Also, from (4.8),(4.11),(4.13),(4.14),(3.12) we have: 
+(1 + (1 + )) =  =  
+=)  = 
+1  ¡  
+1 +   
+(A.10) 
+ = 
+ 
+ 
+Combining (A.9),(A.10) to eliminate  and rearranging, we get (4.18) as required. ¤ Proof of Proposition 4. From (3.10), we have 
+  1 +  
+= 
+ 
++  
+ 
+ 
+(A.11) 
+And from (4.9), (4.13), (3.12), we get: 
+ 
+¡  
+ 
+= 
+ 
+ 
++     
+= 
+ +  
+ 
+ 
+(A.12) 
+But then, combining (A.11),(A.12) and using (4.11) and  = 
+ 
+ 
+we get 
+¡  = 
+ 
+1 +  
+as required. ¤ 
+Proof of Proposition 5. Drop the "t" subscripts for conveneince. As  is homogenous of degree  
+¡¢ 
+2 
+() = 
+(1 ¡ )  
+ 
+ 
+= ¡ 
+ 
+0 
+¡¢ 
+ 
+ 
+ 
+(1 ¡ ) 
+28 
+
+========29========
+
+Then, di¤erentiating, and cancelling terms, 
+00  = 1 ¡  ¡ 
+2 
+0 
+(1 ¡ ) ¡ 
+ 
+ 
+(0)2(1 
+¡ ) 
+So, 
+µ 
+2 
+¶ ¡ = (1 ¡ ) ¡1 + 
+ 
++ 
+ 
+ 
+(A.13) 
+Substituting (A.13) into (4.19), we obtain (4.21), as required. Note that 000¡ 0 implies   0 and from convexity of  ()  0() all  so   1 Finally, if  
+ 
+¢ 
+= 
+¡¢ 
+  
+ it is easy to compute that 
+2+ 
+¡ 1 = 
+1 
+  
+so (4.20) then follows from (4.21)¤ 
+Proof of Proposition 6. The …rst two parts of the proposition can be proved along the lines of Propositions 2 and 4. To prove the last part, all we have to prove is that the government wishes to induce lending by the bank i.e. from (5.8) that 
+ ¡ (1 + ) ¡ ~ ¸ 0 
+This condition is most stringent when ~ = ¤(~) But, given the de…nitions of ¦( ~)¤(~) we see that 
+ ¡ (1 + ) ¡ ~  (1 ¡ ~)( ¡ (1 + )) ¡ (1 ¡ ~)(¤(~)) ¡ ¤(~) 
+= max ¦(()) ~) = 0 
+So,  = ~ must be optimal. It then follows from the discussion in the text that the government must set  = 0 if the E-…rm chooses the loan contract, and  = ~ if the bank sets the loan contract. ¤ 
+29 
+
+========30========
+
+Figure 1 
+s 
+1+r 
+q 
+H 
+( R  Re ( s ))  s 
+qH(R 
+ Re ( s ))1~s 
+s 
+0 
+s 
+~s 
+s*(0) 
+Level of monitoring, s 
+
+========31========
+

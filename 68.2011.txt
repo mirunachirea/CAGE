@@ -1,0 +1,1015 @@
+December 2011  
+             No.68 
+Liquidity when it matters: QE and Tobin’s q 
+John Driffill and Marcus Miller Birkbeck and University of Warwick 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+Liquidity when it matters: QE and Tobin’s q 
+John Driffill and Marcus Miller 
+Birkbeck and University of Warwick 
+(July, 2009. Revised December 2011) 
+Prepared for Bank of England conference 
+‘QE and other unconventional monetary policies’, 17-18 November 2011 
+Abstract 
+When financial markets freeze in fear, borrowing costs for solvent governments may fall towards zero in a flight to quality – but credit-worthy private borrowers can be starved of external funding. In Kiyotaki and Moore (2008), where liquidity crisis is captured by the effective rationing of private credit, tightening credit constraints have direct effects on investment. If prices are sticky, the effects on aggregate demand can be pronounced – as reported by FRBNY for the US economy using a calibrated DSGE-style framework modified to include such frictions. 
+In such an environment, two factors stand out. First the recycling of credit flows by central banks can dramatically ease credit-rationing faced by private investors: this is the rationale for Quantitative Easing. Second, revenue-neutral fiscal transfers aimed at would-be investors can have similar effects. We show these features in a stripped- down macro model of inter-temporal optimisation subject to credit constraints. 
+Keywords: Credit Constraints; Temporary Equilibrium; Liquidity Shocks. 
+JEL codes: B22, E12, E20, E30, E44. 
+Acknowledgements 
+While retaining responsibility for the views expressed, we are grateful for comments by seminar participants at CESifo, Munich, at the IDB and the Federal Reserve Board in Washington, at Heriot-Watt University, the Bank England, and the Federal Reserve Bank of New York; and also for discussions with Robert Akerlof, Marco Del Negro, Gauti Eggertsson, Andrea Ferrero, Peter Hammond, Anton Korinek, Charles Nolan, Andrew Powell, Neil Rankin, Emilio Santoro, Alessandro Rebucci and Jouko Vilmunen. For research assistance we thank Han Hao Li, Giovanni Melina, and Federico di Pace, funded by World Economy and Finance programme of the ESRC; and Antonia Maier funded by ESRC/CAGE. 
+1 
+
+========2========
+
+Two roads diverged in a wood, and ITwo roads diverged in a wood, and I -- I took the one less travelled by,I took the one less travelled by, 
+and that has made all the differenceand that has made all the difference. 
+The Road Not Taken, Robert FrostRobert Frost 
+Introduction 
+The history of market economies, according to Reinhart and Rogoff (2008), is one ofThe history of market economies, according to Reinhart and Rogoff (2008), is one ofThe history of market economies, according to Reinhart and Rogoff (2008), is one of repeated credit booms and busts; and recent events show that, on occasion, the lessonsrepeated credit booms and busts; and recent events show that, on occasion, the lessonsrepeated credit booms and busts; and recent events show that, on occasion, the lessons of history can prove more relevant for policyof history can prove more relevant for policy-makers than sophisticated economicmakers than sophisticated economic models fitted to short periods of economic stability.ls fitted to short periods of economic stability. 
+In Lords of Finance: the bankers who broke the worldLords of Finance: the bankers who broke the world, Liaquat Ahamed provides a, Liaquat Ahamed provides a graphic account of the ill-designed and uncoordinated response by central bankers, indesigned and uncoordinated response by central bankers, indesigned and uncoordinated response by central bankers, in America and elsewhere, to the USAmerica and elsewhere, to the US stock market collapse of 1929. Prior to the bust, thePrior to the bust, the US had enjoyed a substantial investment boomUS had enjoyed a substantial investment boom - with the real capital stock increasingwith the real capital stock increasing by more than 3 percent a year since 1925: but the value of the stock market, asby more than 3 percent a year since 1925: but the value of the stock market, asby more than 3 percent a year since 1925: but the value of the stock market, as measured by Tobin’s q, had increased muchmeasured by Tobin’s q, had increased much faster, more than doubling over the samefaster, more than doubling over the same period1, see Figure 1. 
+Figure 1. Capital accumulation and real equity prices before and after the 1929Figure 1. Capital accumulation and real equity prices before and after the 1929Figure 1. Capital accumulation and real equity prices before and after the 1929 stock market crash. 
+Source: (US) Bureau Economic Analysis and Stephen Wright (2004): note that the capital stSource: (US) Bureau Economic Analysis and Stephen Wright (2004): note that the capital stSource: (US) Bureau Economic Analysis and Stephen Wright (2004): note that the capital stock is valued at 2005 replacement cost.valued at 2005 replacement cost. 
+1 
+Tobin’s q is the ratio of the stock market valuation to the current replacement cost of capital, seestock market valuation to the current replacement cost of capital, seestock market valuation to the current replacement cost of capital, see Blanchard and Fischer (1989, p.62).Blanchard and Fischer (1989, p.62). 
+2 
+
+========3========
+
+Then, in two short years, the stock market fell by more than 70% in real terms, and the capital stock began literally to contract. These were the years of the Great Depression, when the US banking system collapsed and unemployment grew to over 20% , leading Roosevelt to declare war on unemployment and Keynes to develop the theory of demand-determined output, published in 1936. 
+Policy-makers have, in Ahamed’s view, learned from past mistakes: 
+In the current crisis, central banks and treasuries around the world, drawing to 
+some degree on the lessons learned during the Great Depression, have reacted 
+with an unprecedented series of moves to inject gigantic amounts of liquidity into 
+the credit market and provide capital to banks. Without these measures, there is 
+little doubt that the world’s financial system would have collapsed as 
+dramatically as it did in the 1930’s. Liaquat Ahamed (2009, p.500) 
+Some detail of the emergency financial support provided – amounting to almost three quarters of GDP in both US and UK – is given in Table 1. Each Central Bank provided about a quarter of GDP in “Money Creation” and collateral swaps, where the former refers to Quantitative Easing – liquidity provision via the purchase of frozen money market assets and longer-dated government debt. Generous as this was, the support provided by the government itself, via the Treasury and other agencies, was twice as large, including, in particular, funding for bank recapitalisation amounting to about five percent of GDP, £70 billion for the UK and $700 billion for the US. 
+Central Bank Support of which 
+- “Money Creation” 
+- Collateral Swaps Government Support of which 
+- Guarantees 
+- Insurance 
+- Capital 
+UK in £ trillion (% of GDP) £0.38 (27%) 
+US in $ trillion (% of GDP) $3.96 (28%) 
+£0.20 (14%) £0.18 (13%) £0.66 (47%) 
+$3.76 (26%) $0.20 (2%) $6.53 (45%) 
+£0.39 (28%) £0.20 (14%) £0.07 (5%) 
+$2.08 (14%) $3.74 (26%) $0.70 (5%) 
+Overall Total £1.04 (74%) $10.48 (73%) 
+Table 1: Support Packages 
+Source: Bank of England Financial Stability Report, June 2009, with figures for UK updated to November 4th 2009 as in Alessandri and Haldane (2009: p. 24). 
+Notes: (1) Exchange rates used: Sterling / US dollar exchange rate of 0.613. (2) Money creation includes both monetary and financial stability operations. (3) UK GDP £1.42 tr, US GDP $14.4 tr. 
+3 
+
+========4========
+
+As a consequence, central bank balance sheets ballooned sharply as never before - doubling in the US, tripling in the UK, see Figure 2. So too did government debt. There was in addition a round of fiscal easing, coordinated through the IMF. In the event, GDP did fall in the US and elsewhere: but there was no Great Depression. 
+Figure 2. Central Bank total liabilities in the crisis (index Aug. 2007=100). Source: Bank of England Financial Stability Report (2009, June). 
+Paul Tucker (2009) has observed that, in response to the crisis, Central Banks greatly exceeded their customary remit, acting not only as Lenders of Last Resort but also as Market Makers and – in conjunction with the Treasury – as Suppliers of Capital too. Taking a historical perspective, Eggertson (2008) argues that it was President Roosevelt’s willingness to challenge the established precepts of a balanced budget and a fixed price of gold that helped the US recover from the Great Depression2. Was the willingness of policy-makers - at central banks and national treasuries - to step outside the usual rules of the game so as to avert market failure the modern equivalent of FDR’s activism? Will it be followed through by structural reforms to the financial system to prevent a recurrence? 
+2 
+For an account of the role of devaluation and low real interest rates in promoting recovery in Britain, see Crafts (2011) 
+4 
+
+========5========
+
+We leave these policy issues to one side to ask: what of macroeconomic theory? Unfortunately, the New-Keynesian economic paradigm - widely used by academics and central banks during the period that preceded the crisis - famously neglected the role of financial markets and the danger of shocks emanating from them. It was a model for the Great Moderation, not one for all seasons. So when financial markets froze, policy-makers had to act without the guidance of operational macroeconomic models3. 
+In the light of this experience, Blanchard et al. (2010) writing from the IMF and Bean (2009) speaking for the Bank of England tell us that incorporating financial factors and frictions is a key imperative for macroeconomics. There are different ways of taking up this challenge, which we outline before detailing the path we have chosen. 
+The first - perhaps more obvious - route is to try adding financial frictions onto the existing DSGE framework. Two major difficulties have to be faced along this route, however; that of maintaining Consistency with the existing tightly-specified macro framework4; and the ‘curse of Complexity’ involved. This is why, for us, this is the road not taken. 
+Inconsistency may arise if new elements are introduced that contradict – in letter or in spirit – key assumptions of the DSGE framework itself. If, for example, the friction is systematic neglect of ‘tail risk’ in investment projects, as in Gennaioli et al. (2011), this will flatly contradict the assumption of rational expectations. There is no violation of rational expectations in Curdia and Woodford (2008), however, where the friction is an excessive spread between the rates paid to lenders and charged to borrowers – and the heterogeneity of behaviour is attributed to the coexistence of patient and impatient consumers. But steady-state equilibrium appears to require the added assumption that there are ever-repeated switches of time preference by these consumers. Such random behaviour on the part of key decision-makers surely diminishes the appeal of basing the analysis on inter-temporal optimisation by well- informed agents. 
+3 
+They had to ‘fly by the seat of their pants’ in the words of one closely involved. 
+4 
+which following Woodford (2003) may be taken to include a Representative Agent with Rational Expectations assisted by efficient financial markets but constrained by nominal rigidities (in the form of Calvo contracts, for example) 
+5 
+
+========6========
+
+Researchers at the Federal Reserve Bank of New York, working together with Kiyotaki, assume instead that borrowing and lending takes place between 
+entrepreneurs investing in capital formation. Following Kiyotaki and Moore (2008), it is assumed that only a fraction of ex ante identical entrepreneurs have ideas for investment in any given period; and those who do borrow from those who don’t. But the flow of funds is subject to frictions (credit constraints); so entrepreneurs – anticipating the impact of credit-constraints when they wish to invest – hold government-issued money for precautionary reasons. The flexibility of wages and prices assumed by Kiyotaki and Moore ensures full employment, thanks to the ‘Pigou effect’ where the real value of money balances adjusts so as to ensure that aggregate demand matches supply. But the existence of Calvo contracts postulated in Del Negro et al. (2010) eliminates this Pigou effect and allows for demand effects on output. 
+When solved with rational expectations, indeed, changes in credit conditions can have substantial real effects in this framework - and open market operations that supply liquidity in exchange for private sector assets (a type of Quantitative Easing) prove an effective tool of policy. On the ‘conservative’ assumption that the expected duration of the credit crunch is only 8 quarters, the researchers at the NY Fed simulate an unanticipated tightening of credit constraints that leads to pronounced recession in the U.S. - a fall in investment, consumption and output by about 10%. This is reduced to about 6 percent by active monetary policy including Quantitative Easing, see Figure 11 below5. The approach taken by these researchers may be broadly consistent with the DSGE paradigm - and it delivers quantitative results on the effects of cutting interest rates and injecting liquidity of $1 trillion - but it is undeniably complicated. With the inclusion of capital formation and the heterogeneity of agents, the number of equations rises from three in Woodford’s classic monograph Interest and Prices to over 30 in Del Negro et al. (2010). 
+As an alternative to increasing complexity, one can seek to simplify wherever possible. This may go against the grain of current fashion for general-equilibrium 
+5 
+Under a more extreme scenario where the liquidity shock is expected to last for 8 years instead of 8 quarters (i.e.to be of similar duration as the shocks to the Japanese economy during the Great Recession or the US during the Great Depression ‘Output collapses by about 20 percent and deflation reaches double digits. In short, the equilibrium outcome starts looking a bit like the Great Depression.’ 
+6 
+
+========7========
+
+style modelling: but it could pay dividends in terms of comprehensibility. This is the path that we pursue in this paper. Rather than examining the precise details of monetary policy using a large-scale calibrated model, we focus on the analytical properties Kiyotaki and Moore’s approach to financial frictions, working with a linearised, fix-price version of their stripped-down macro model of intertemporal optimisation subject to credit constraints. 
+One test of our approach will be whether we can replicate the broad results obtained by Del Negro et al. (2010), using their parameters in a model where the structure is kept so simple that phase diagrams can be used to illustrate the effects of credit tightening - and of QE. Another will be whether our approach is more flexible, in allowing for a change in animal spirits and a role for fiscal policy, for example, or for asset bubbles whose collapse may act as the trigger for crisis. 
+The paper is structured as follows. First, in Section 1, key features of the approach developed by Kiyotaki and Moore (2008), hereafter KM, are presented, together with a succinct summary of their formal model. In Section 2, we study an adverse liquidity shock in a fix-price context6, using the parameters from Del Negro et al. (2010). Section 3 discusses the use of open market operations to purchase assets whose liquidity is temporarily impaired - the interpretation of QE most naturally associated with the model being used. Section 4 examines two fiscal policy options that might play a complementary role: the use of fiscal transfers to shift resources to those with ideas from those without; and a one–off use of the balanced budget multiplier. Section 5 picks up the theme of boom followed by bust emphasized by Reinhart and Rogoff (2008) with a discussion of how a credit crunch might be triggered by an asset price correction, especially if it impacts on bank balance sheets. In Section 6, estimates of the effects of QE in the US and UK are discussed – and the retrenchment of the central bank considered as a policy game Finally, we reflect on whether this simplified framework might provide a ‘work horse’ macro model which incorporates the missing financial factors, and also acts as a bridge between the optimising approach embodied in DSGE and the temporary equilibrium of Keynesian economics. 
+6 
+A matching treatment of the flexprice case is provided in Driffill and Miller (2011) which studies the the positive real effects of ‘Big Bang’ in moving the economy towards the modified Golden Rule. 
+7 
+
+========8========
+
+Section 1. Key features of the KM framework: an overview 
+As an alternative to the representative agent characteristic of many DSGE models, there is ex post heterogeneity among investors who are ex ante identical, but differ in that only a fraction actually have ideas that will generate investment in the current period. This is like the specification of Diamond and Dybvig (1983) in their classic paper on banking, where agents identical ex ante turn out to have patient or impatient consumer preferences. Here, as in the banking paper, there is no insurance market to handle the risk of needing cash in a hurry. 
+Rational expectations prevail in the stock market; but credit markets are far from perfect. Workers cannot borrow and choose not to hold financial assets with returns that lie below their rate of time preference: so households are income-constrained and all wages are spent on consumption. Entrepreneurs can optimise over time but they face limits in terms of new equity finance available and in re-selling existing shares to finance investment - and there are no banks to supply loans. 
+These constraints on inter-temporal arbitrage (financial frictions) lead to a Hicksian type of temporary equilibrium, with a precautionary demand for money by entrepreneurs to ensure that investment opportunities are not wasted. As the reformulated relations do include inter-temporal optimising behaviour by entrepreneurs, the KM approach might be characterised as Dynamic Stochastic Temporary Equilibrium. In sharp contrast to the fix-price Hicksian economics, however, prices and wages are perfectly flexible and there is continuous market clearing with full employment due to the operation of a Pigou effect. Conditional on the current capital stock, the clearing of goods and money market determines the aggregate price level and the real price of equity: and the investment equation determines the evolution of the capital stock. 
+A potential criticism 
+Before proceeding further, consider the objection that this approach ignores the potential role of banks in providing liquidity insurance, as they do in the Diamond and Dybvig framework, rendering precautionary cash balances unnecessary. 
+8 
+
+========9========
+
+In first place, banks are famously subject to spectacular coordination failures in the form of bank runs - that on Northern Rock in 2007 being a case in point - and there are those who view that the credit crisis in the US as ‘a silent bank run on shadow banks’ Milne (2009) and Gorton (2010). In addition, there is the danger that limited- liability banks may be tempted to take on excessive risk, leaving the downside to depositors and/or the taxpayer if there is deposit insurance, Hellman, Murdock and Stiglitz (2000). In regulatory regimes operating with a ‘light touch’ that allow banks greatly to increase their leverage, such moral hazard may well lead to insolvency, so banks are part of the problem rather than the solution, as Sinn(2010) argues forcefully in Casino Capitalism.). 
+In these circumstances - particularly if one is seeking to simplify the analysis - looking at a reduced form where credit constraints impede the bilateral flow of funds between entrepreneurs operating without recourse to banks seems a reasonable compromise. The unexpected tightening credit constraints may, indeed, act as a metaphor for the contraction of a poorly regulated banking system that hits trouble7. As Spencer Dale of the Bank of England puts it in his discussing the effects of quantitative easing: 
+[W]e are not in normal times. Banks are pulling back on their lending as they 
+seek to strengthen their balance sheets and reduce their leverage. … Our asset 
+purchases were designed to facilitate a disintermediation away from banks 
+towards capital markets. Dale (2011, p.227). 
+By the same token, our analysis of QE does not include the actions taken in both the US and the UK to rescue the banks by large scale purchases of equity: which, in any case, is better treated as an act of fiscal policy, as Michael Wickens (2001, p.237) points out: 
+Faced with technical insolvency…banks threatened closure. …The solution 
+was for the taxpayer to take on the risks of the banks and guarantee their 
+liabilities…[Governments ] took an equity stake in banks . In other words, 
+they carried out unconventional fiscal policy. 
+How distorted incentives and regulatory failures led to excessive risk-taking in banks, and the role of Treasuries in orchestrating bank-bail outs, is a fascinating tale8 – but it is not the centre of attention here. The story we have to tell – of how central banks 
+7 
+a theme discussed further in Section 6. 
+8 
+Of which Darling (2011) and Paulson (2010) provide first person accounts 
+9 
+
+========10========
+
+took unprecedented steps to keep credit flowing despite the damage to the banks – is conditioned on these dramatic bail outs having taken place9. 
+Formal structure of KM model 
+Entrepreneurs: 
+KM take an economy consisting of entrepreneurs and workers. Entrepreneurs, who own capital and financial assets, are responsible for organising production and for all real investment. Their objective function is to maximise the expected present discounted utility value of current and future consumption, i.e. 
+ 
+E cs tt s  
+ 
+log( ) 
+s t 
+with β (0 < β < 1) the discount factor. They can employ labour (lt) and capital (kt) to produce general output (yt), using a constant-returns-to-scale Cobb-Douglas production function with capital share γ and productivity parameter At 
+y A k l 
+ 1 
+t t k t 
+. 
+Entrepreneurs can also invest, i.e. convert general output into capital goods, but are only able to do so when they have ‘an idea’ for an investment project. These arrive randomly, with probability π each period. Given large numbers, it may be assumed that a given fraction π of entrepreneurs receive an idea each period, and the remaining (1-π) does not. 
+(1) 
+(2) 
+Entrepreneurs can finance investment by issuing equity claims to the future returns from newly produced capital; but, owing to limited commitment, they can only do this against a fraction θ of the new capital investment they undertake. Because of this ‘borrowing constraint’, entrepreneurs can use their own money holdings, which are perfectly liquid and can be spent immediately, and/or sell the shares they own in existing firms to finance real investment. But access to financial markets is also restricted by a ‘resaleability constraint’ - only a fraction φ of these holdings can be sold each period- representing the illiquidity of equity in the model. (As a simplification, KM assume that after one period, the equity held by an entrepreneur in his own firm is just as liquid as the equity in other firms.) 
+9 
+How the extent of the bail outs affects our analysis is explained further below. 
+10 
+
+========11========
+
+As a result of this, an entrepreneur who enters the period with holdings of equity nt and holdings of money mt, and who has an investment idea, can invest an amount it, which must satisfy the constraints that at least a fraction (1-φ) of initial equity (after 
+allowing for depreciation at rate λ) is retained and at least an amount of new equity (1-θ)it in the new capital is retained. Therefore the entrepreneur holds equity nt+1 at the start of the next period satisfying 
+n i nt t t1  (1 ) (1 )     
+(3) 
+and money balances 
+mt1  
+0 
+(4) 
+The spending of the entrepreneur on consumption ct and investment it, together with acquisition of new money balances and equity, satisfies the budget constraint 
+c i q n i n p m m rnt t t t t t t t t t t  ( ) ( )1 1   
+ 
+  
+In this equation, qt denotes the price of a unit of equity, and pt the price (in terms of goods) of one unit of money; and rt is the rate of return on capital. 
+(5) 
+Workers: 
+The role of workers, who do not have investment opportunities cannot borrow against future labour income, is much more straightforward. They supply labour and consume goods. In principle they may hold money and equity to smooth consumption and labour supply over time: but they choose not to do so, as the rates of return they earn on these assets are less than their rate of time preference. Workers supply labour as an increasing function of the real wage wt: 
+l 
+s 
+ 
+ wt 
+t  
+ where ω and ν are preference parameters. 
+(1/ )  
+(6) 
+Labour Markets: 
+The labour demand of entrepreneurs is determined by the marginal productivity of labour, and, when wages and prices are flexible so that we have labour market clearing, labour supply equals labour demand, and: 
+ w 
+t 
+(1/ ) 
+ K A wt t t[(1 ) / ] 
+(1/ ) 
+ 
+ 
+This ties down the real wage rate and the marginal product of capital as functions of the capital stock: 
+(7) 
+11 
+
+========12========
+
+r a Kt t t ( )1 
+(8) 
+1 
+ 
+ 
+with a A  
+ 1   
+  
+1  
+ 
+  
+t t 
+ 
+ 
+ 
+and   the economy. 
+ (1 ) 
+   
+, and Kt is the aggregate capital stock of 
+Real Investment: 
+When the value of capital qt exceeds one, entrepreneurs who have an investment idea will issue as much equity as they can, and sell as much of their existing equity holdings as possible, given the credit limits given above, and they will use all their holdings of money to invest. Thus their flow of funds is: 
+c q i r q n p mt t t t t t t t t(1 ) ( ) 
+i 
+   
+They carry no money forward to the next period. Taking account of the liquidity constraints, the equity held over to the next period satisfies: 
+(9) 
+c q n r n q q n p mt t t t t t t t t t t t 
+i R i R[ (1 ) ] 
+1 
+       
+with q 
+R 
+ 
+1 qt 
+t 
+1 
+, where the right hand side of the equation denotes the entrepreneur’s net worth at the start of period t. With log utility, these entrepreneurs are assumed to consume a fraction (1-β) of this each period: 
+c r n q q n p mi Rt t t t t t t t t t 1 [ (1 ) ]        
+ and therefore they invest an amount: 
+( )r q n p m ct t t t t t t   
+i 
+it  
+(1 )qt  
+(10) 
+(11) 
+(12) 
+Financial Assets: 
+Things are different for entrepreneurs who do not have an investment idea. They accumulate money and equity to build up resources for use in future if an investment opportunity comes along. Their flow-of-funds constraint is simply 
+c q n p m r n q n p mt t t t t t t t t t t 
+s s s s s s 
+1 1  
+    (13) showing the value of net worth on the right-hand side. The superscript, s, against their holdings of money and equity and consumption in equation (13) distinguishes these as variables referring to non-investing entrepreneurs. Optimal consumption for these entrepreneurs is once again a fraction (1-β) of net worth: 
+c rn q n p mt t t t t t t1 
+s 
+     (14) The non-investing entrepreneur has to decide what fraction of assets to put into money and how much into equity. The marginal utility of consumption in period t has 
+12 
+
+========13========
+
+to equal the discounted expected marginal utility of holding additional units of money into period t+1 and consuming them then. Also, it must equal the expected discounted utility of holding additional equity into period t+1. Thus we have KM’s 
+equation (21) for portfolio balance: 
+ݑᇱ(ܿ௧) ൌ ܧ௧ቄߚ௣೟శభ௣ ൣ(ͳെ ߨ)ݑᇱ(ܿ௦௧ାଵ) ൅ ߨݑᇱ൫ܿ௜೟ 
+௧ାଵ൯൧ቅ 
+ݎ௧ାଵ ൅ ߣݍ௧ାଵ൰ݑᇱ(ܿ௦ 
+௧ାଵ) 
+= (ͳെ ߨ)ܧ௧ߚ൬ 
+൅ ߨܧ௧ߚቊݎ௧ାଵ 
+൅ ߶௧ାଵߣݍ௧ାଵ 
+ݍ௧ 
+Aggregate relationships: 
+ݍ 
++ (௧ͳെ ߶௧ାଵ)ߣݍ௥௧ାଵቋݑᇱ൫ܿ௜ 
+௧ାଵ൯ 
+(15) 
+The above analysis describes the behaviour of individual entrepreneurs. It is necessary to aggregate across all entrepreneurs to find how the economy as a whole evolves. The expressions for consumption and investment of each type of entrepreneur are linear in start-of-period holdings of equity and money, which 
+simplifies matters considerably. 
+As KM note, a fraction π of aggregate capital Kt and money Mt is held by investing 
+entrepreneurs, so aggregate investment is: 
+(ͳെ ߠݍ௧)ܫ௧ൌ ߨ{ߚ[(ݎ௧൅ ߣ߶௧ݍ௧)ܭ௧൅ ݌௧ܯ௧] − (ͳെ ߚ)(ͳെ ߶௧)ߣݍ௧ோܭ௧} 
+where 
+ݍ௧ோ = 
+ଵିఏ௤೟ 
+ଵିఏ 
+൏ ͳܽݏݍ௧> 1 
+(16) 
+The aggregate demand equation, balancing the net output of goods with the demand for investment plus consumption from the two types of entrepreneurs implies: 
+ݎ௧ܭ௧ൌ ܽ௧ܭ௧ఈ ൌ ܫ௧൅ ሺͳെ ߚሻ{[ݎ௧+ (ͳെ ߨ൅ ߨ߶௧)ߣݍ௧൅ ߨ(ͳെ ߶௧)ߣݍ௧ோ]ܭ௧൅ ݌௧ܯ௧} 
+(17) 
+The aggregate portfolio balance equation is obtained by aggregating over the wealth 
+of the non-investing entrepreneurs. They buy equity in the amount  
+It from the 
+investing entrepreneurs, and a fraction φ of their depreciated equity  
+Kt; they also 
+13 
+
+========14========
+
+retain the depreciated equity carried over from the preceding period. Therefore their 
+equity holdings at the start of period t+1 are , defined as:N 
+s 
+t1 
+ߠܫ௧൅ ߔ௧ߨߣܭ௧൅ ሺͳെ ߨሻߣܭ௧ؠ ܰ௦௧ାଵ 
+(18) 
+The non-investing entrepreneurs hold all the money stock Mt. As utility is logarithmic, marginal utility is the reciprocal of consumption. The portfolio balance equation, (15) above, then becomes, at the aggregate level: 
+(1 )  
+/ / 
+ 
+E Er q q p pt t t t t1 1 1 
+ 
+ 
+ 
+ 
+t t 
+r q N p M 
+ 
+  
+ 
+ 
+ 
+ 
+s 
+t t t t1 1 1 1  
+ 
+ 
+ 
+  
+ 
+p p r q q qt t t t t t t t1 1 1 1 1 1/ (1 ) / 
+ 
+    
+R 
+  
+  
+  
+  
+ 
+ 
+r q q N p MR st t t t t t t1 1 1 1 1 1 1 
+ 
+ 
+ 
+ (1 )  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(19) 
+Finally the aggregate capital stock evolves as: 
+ܭ௧ାଵ ൌ ߣܭ௧൅ ܫ௧ 
+where (1-λ) is the rate of depreciation. 
+To summarize, the model boils down to equations (16) – (20). These equations define the dynamic system, whether in the flexible-price mode of KM or in the fixed-price 
+demand-deficient mode. 
+Linear approximation around steady state 
+The non-linear dynamics can be solved by linearising around steady state values for K and q. We first compute a solution for the steady state, assuming that the liquidity constraints are such that precautionary holding of money is justified. The steady state is obtained from equations (16) to (20) above. These equations can be reduced to three relationships in the steady state, written as follows: 
+pM 
+r q q 
+1 (1 ) (1 )1  
+K 
+    
+  
+ 
+1 
+ 
+  
+(21) 
+r q(1 ) 1 (1 ) (1 ) 1 
+pM  1 1     
+K 
+ 
+ 
+   
+1 1 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+(22) 
+r q q(1 ) ( 1) 1 /( )1  
+q pM K  
+ 
+r 1  
+  pM 
+ 
+ 
+ 
+ 
+K 
+1 1 
+(23) 
+These three equations determine three unknowns: pM/K, r, and q. The first two can be solved for pM/K and r as linear functions of q. When these solutions are substituted 
+14 
+
+========15========
+
+into (23), this can be solved as a quadratic in q, and we select the economically meaningful of the two solutions. 
+Having found the stationary state, we take linear approximations around it, and reduce the model to a system of two first-order, linear difference equations, one in K and one in q. Note that the investment equation (16) and the aggregate demand equation (17) 
+can be linearised around the steady state to give two equations that express dIt and dpt as linear functions of dKt and dqt. These variables are defined as 
+dK K Kt t  
+where K is the steady state value of the capital stock, and analogously for the others. 
+In interest of analytical clarity, we treat as constant the productivity parameter At, the liquidity constraint φt, and the money supply M. The interest rate is just a function of the capital stock, from equation (8). 
+We totally differentiate the portfolio balance equation (19) around steady state values. This gives a linear expression that relates dpt+1, dKt+1 and dqt+1to dpt and dqt. In doing this we make use of the definition of Nt+1 (18) which expresses it as a function of It and Kt. The capital stock accumulation equation (20) is also linearised around the steady state. Assembling all of these elements, dpt+1, dpt and dItcan be substituted out, and we are left with a state space representation which is a pair of first-order, linear difference equations in dKt and dqt. 
+Of the two variables in the state-space system, K is predetermined, while q is a non- predetermined ‘jump’ variable. 
+The flexible-price solution 
+In flexible price mode, the investment equation and the aggregate demand equation determine pt and It as functions of Kt, qt, φt, and the other parameters of the model (M, π, θ, λ, β). The return on capital rt is moreover a function of the capital stock Kt and various parameters of the model. These functions can then be substituted into the portfolio balance equation, in place of rt+1, pt+1, pt, and It, so the portfolio balance equation is reduced to an equation in qt+1, Kt+1, φt+1, Kt, qt, and φt. We then have a first order dynamic system in three variables, Kt, qt, and φt. 
+15 
+
+========16========
+
+If, as a further simplification, one fixes the value of φ at a constant level, treating it as one of the model’s fixed parameters, the dynamic system reduces to one of only two variables, Kt and qt. The two equations are the capital accumulation equation, (20) above, and the solved-out portfolio balance equation. 
+Using the parameters from the FRBNY study, Driffill and Miller (2011) determine the stable and unstable roots of the system and present impulse responses in illustrating the results by phase diagrams. The focus here is on the case prices are not flexible. 
+The fixed-price solution 
+New Keynesian macro-economists have chosen to capture temporary wage-price stickiness by the analytical device of Calvo contracts for wages and prices, which allow for gradual revision in response to expected future events, Woodford (2003); and this is the approach taken in Del Negro et al. (2010). In the interests of analytical tractability, one can adopt a two-regime approach instead, with a fixed price regime in situations where there is excess supply and flex prices otherwise. This is what we do in this paper, with a focus on the excess supply regime. Our linearised macro- modelling approach can, of course, be extended to incorporate contracts: but only at the cost of increased complexity. 
+With fixed prices, there is no Pigou effect to stabilise aggregate demand in the face of a fall of investment, so a contraction of liquidity may lead to failure of market- clearing in goods and labour markets – as in the ‘fix-price macroeconomics’ of the 1970s described in the writings of the French theorists Benassy (1975) and Malinvaud (1977) and of Muellbauer and Portes (1978), economists at Birkbeck College. We assume that the real wage is determined by bargaining, as in Layard and Nickell (1987) and Manning (1990), for example. Shimer (2009) has emphasized the role of real wage rigidity in explaining observed fluctuations of employment and output – and the need for the real wage to lie below the marginal productivity of labour to give firms the incentive to hire. We assume therefore that at full employment the 
+16 
+
+========17========
+
+bargaining wage lies below the marginal product of labour10 and, for convenience, that this real wage is maintained even when the demand falls and workers are laid off. 
+In the fixed-price model, assuming that there is excess supply of labour and goods, the same equations determine the dynamics of the system around steady state. However, some things change. With prices and wages predetermined, they may be treated as fixed parameters in the analysis. Now aggregate demand from entrepreneurs for consumption and investment determines their income rtKt; and the rate of return, rt, is no longer a simple function of the capital stock Kt. Equations (22) and (23) now determine rtand It as functions of Kt, qt, φt, and the other parameters of the model (M, π, θ, λ, β) – and now we add p = pt = pt+1 to the list of fixed parameters. 
+We substitute these functions for rt, rt+,and Itinto the portfolio balance equation, and impose the fact of p being fixed. Once again, the portfolio balance equation is reduced to a relation between qt+1, Kt+1, φt+1, Kt, qt, and φt. Our dynamic system is again a non-linear first-order difference equation system in the same three variables as in the flexible price case, Kt, qt, and φt. With the further simplification that φ is constant, we have a system in two variables, Kt and qt. 
+Section 2. How an adverse liquidity shock can lead to recession 
+The behaviour of the flex-price system – and how it responds to liquidity shocks – is analysed by numerical simulation in the original KM paper, so it need not detain us here11. The main focus of this paper, as for the FRBNY study, is to account for the impact of adverse liquidity shocks on the real economy when prices are sticky and credit constraints operative. It is worth noting that stickiness of wages and prices side- step the problem of multiple equilibria arising in the flex-price case – where money can have value at finite prices or lose value as prices go to infinity: ‘ as fiat money can only be valuable to someone if other people find it valuable, hence there is always a 
+10 
+Setting the two equal would lead to excessive fluctuations in employment when demand falls, as the envelope theorem implies. 
+11 
+The effects of easing liquidity – a Big Bang – in a flex-price context are discussed Driffill and Miller (2011) using the same linearised approach. 
+17 
+
+========18========
+
+non-monetary equilibrium imonetary equilibrium in which the price of fiat money is zero.’ KiyKiyotaki and Moore (2008, p.13) . 
+Aggregate demand for net outputAggregate demand for net output12 and goods market equilibrium 
+Before turning to impulse responses for the complete model in the fixed price case, itBefore turning to impulse responses for the complete model in the fixed price case, itBefore turning to impulse responses for the complete model in the fixed price case, it may be useful to discuss inmay be useful to discuss in broad brush terms how a liquidity contraction canbroad brush terms how a liquidity contraction can affect entrepreneurial income (and national product) for a given K and q, i.e. to solve for theand national product) for a given K and q, i.e. to solve for theand national product) for a given K and q, i.e. to solve for the rate of return on capital conditional on K and q.rate of return on capital conditional on K and q. 
+First, we note that for a firm with the productionFirst, we note that for a firm with the production function described by equation (2),function described by equation (2), which adjusts output by varying employment at a constant real wagewhich adjusts output by varying employment at a constant real wage w, the residual, the residual income available to entrepreneurs (income available to entrepreneurs (x), the excess of production over the wage bill,), the excess of production over the wage bill, varies with production yt as followsas follows: 
+1 
+ 
+ 
+1  
+ 
+ 
+ 
+ 
+x y w k y wl y w ky x y w k y wl y w k( ; , )( ; , ) 
+t 1 
+t t t t t t tt t t t t t t 
+ 
+ 
+A 
+ 
+t  
+(24) Expressed as a rate of return on the (constant) capital employed, this may be writtenExpressed as a rate of return on the (constant) capital employed, this may be writtenExpressed as a rate of return on the (constant) capital employed, this may be written for brevity as: 
+(25) 
+which is increasing in yt in the range from 0 to the point where the marginal productin the range from 0 to the point where the marginal productin the range from 0 to the point where the marginal product of labour equals the real wage.f labour equals the real wage. Where is demand determined, the relation betweenis demand determined, the relation between the rate of return on capital and the quantity of capital implied by equation (8), nothe rate of return on capital and the quantity of capital implied by equation (8), nothe rate of return on capital and the quantity of capital implied by equation (8), no longer applies: it is replaced by equation (25).longer applies: it is replaced by equation (25). 
+Since the price level is fixed, there will be no Pigou effect to ensure fullSince the price level is fixed, there will be no Pigou effect to ensure fullSince the price level is fixed, there will be no Pigou effect to ensure full employment. The level of output (and hence the return on capital) adjusts to bring supply andThe level of output (and hence the return on capital) adjusts to bring supply andThe level of output (and hence the return on capital) adjusts to bring supply and 
+12 
+i.e. output less what is consumed by employees,what is consumed by employees, 
+. 
+18 
+
+========19========
+
+demand into balance. ‘While workers spend what they earn, entrepreneurs earn what they spend’, as Kalecki put it. 
+Turning to aggregates, we note that, from equation (16), other things being equal, the marginal effect of an increase in rt, as defined in equation (25), on investment demand is: 
+dIt  
+K drt t 
+1 qt 
+and on entrepreneurial consumption is: 
+dC K drt t t (1 )  . 
+Hence the total effect of an increase in rt on entrepreneurial income is: 
+ 1 
+ 
+qt 
+(1 ) 
+ 
+K dr t t 
+For stability at an interior solution (with excess supply of labour), we need 
+μ= 
+ 
+1 
+qt 
+(1 ) 1 
+ 
+ 
+ or 
+ 
+గ ଵିఏ௤ 
+< 1 ,೟ 
+where μ denotes the marginal propensity to spend out of entrepreneurial income. 
+As we are assuming , a necessary condition is thatq 
+t 
+1 π + θ < 1; i.e. there is a stability restriction on ‘induced investment’ such that the fraction of entrepreneurs who have new ideas plus the fraction of new investment they can fund via new equity issues must be less than 1. 
+The ‘fix-price macroeconomic’ framework used here can be illustrated as in Figure 3. The bottom panel on the left shows how the wage bill varies with employment at the fixed real wage. The bottom right panel shows how profits, X, the residual income available to entrepreneurs, fall away as employment contracts. So too does demand by entrepreneurs as shown in the top panel, where the marginal propensity to spend is μ. Note that here, for convenience, demand is shown at a constant real share price and constant K. 
+19 
+
+========20========
+
+Aggregate Demand 
+D(X;q,K,) 
+E 
+‘workers spend what they earn; entrepreneurs earn what they spend’ 
+μ 
+D 
+45° 
+X 
+Bargaining Wage 
+w* 
+Xf 
+Net Output (X = r(Y)K) 
+real wage rate 
+X 
+D* 
+wage bill (w*L) 
+Marginal Product of Labour 
+Net Output (X=r(Y)K) 
+E* 
+L 
+L 
+Figure 3. Short-run determination of entrepreneurial income, X, and gross output, Y. 
+The figure illustrates how a fall in investment demand, due to a fall in liquidity or in ‘animal spirits’ – represented by the downward shift in D(X) in the top panel – will lead to a greater contraction of entrepreneurial income, X, as equilibrium shifts from E to D. The impact on employment is even more pronounced as shown by the shift from E* to D* in the lower right panel13. 
+Our approach is to solve the model by simulation, and to illustrate the results using phase diagrams with K predetermined and q a jump variable. Figure 4 shows how the capital and real price of equity evolve, assuming that the model remains in the fixed- price regime throughout.14 
+13 
+To limit the impact on employment in the simulations below, it is assumed that the initial equilibrium is one where the marginal product of labour is above the real wage. 
+14 
+In fact, there may be a regime change as recovery takes place: the switch of regime occurring when the economy reaches its capacity constraint. 
+20 
+
+========21========
+
+Equity Price 
+Asset price stationary 
+q 
+Δq/Δt = 
+0 
+PB 
+U 
+S 
+IB 
+E 
+Zero net investment 
+ΔK/Δt = 0 
+U 
+K* 
+S Capital Stock 
+K 
+Figure 4. Capital accumulation and stock market 
+On the schedule labelled IB in the figure, gross investment is balanced by 
+depreciation, so the capital stock will be stationary: and the parameters of the model confirm that IB slopes upwards. Likewise, stationary values for the value of the stock price define the asset market equilibrium, given by the downward sloping schedule labelled PB in the figure. Stationary equilibrium is at E where both intersect. Given the saddle point dynamics, the stable path to equilibrium will slope downwards, see SS in the figure15. (The unstable eigenvector has a positive slope). Also shown are integral curves that asymptotically approach SS and UU. This is the ‘workhorse model’ we use to discuss the effects of a negative liquidity shock, with detail given by impulse responses. 
+Short and long run impact of a lasting liquidity shock 
+What are the effects of a negative liquidity shock which makes equity less saleable for what is expected to be a long time? Assume that the economy starts at a high 
+15 
+Given the discrete dynamics, the paths will consist of discrete points, as shown in Figure 6 for example. Phase diagrams with continuous paths are used as a convenient illustrative device, though the continuity of phase path is only approximately correct in a discrete-time context. 
+21 
+
+========22========
+
+employment, steady-state equilibrium E, as depicted in the NE panel of Figure 5, and the shock throws it into a demand-deficient regime. With a tighter resale constraint, equity is less attractive and the PB schedule correspondingly shifts to the left; so too does the IB schedule as financial constraints on firms who want to invest become more binding. As a result, long run equilibrium moves from E to E', as shown in Figure 5. Because the labour force will, in the long run, be reduced in line with the capital stock, Tobin’s q is essentially unaffected. In the short run, however, it falls. 
+q 
+IB′ 
+S′ 
+E′ 
+E 
+IB 
+R 
+1 
+S′ 
+PB 
+PB′ 
+K 
+KE′ 
+KE 
+Figure 5. Short and long run impact of a ‘permanent’ liquidity shock 
+Since workers are income-constrained and there is no Pigou effect to stimulate consumption by entrepreneurs, the impact effect is a contraction of entrepreneurial income (shown as the fall in the rate of profit in the lower right panel). So, for the given capital stock, the asset price will fall from E to R lying on the stable eigenvector that leads to E’. (A heuristic discussion of the impact on asset returns is provided in Appendix A.) 
+A temporary decline in liquidity 
+The immediate impact of the liquidity squeeze on the stock market will of course depend on how long the shock is expected to last. For a ‘permanent’ shock, q falls to the new stable eigenvector, as discussed above. But if the liquidity squeeze is only expected to last for T periods, the relevant trajectory will take the form indicated by 
+22 
+
+========23========
+
+EDLE in Figure 616. Thus after a smaller initial decline, the asset value begins to recover even while the capital stock contracts as the trajectory follows an integral curve for T periods from D to L on the stable eigenvector SS . This ‘overshooting’ of the asset price will gradually subside as the capital stock and q proceed from L back to the original equilibrium. 
+q 
+U' 
+S′ 
+S 
+L 
+E 
+E' 
+D 
+S 
+U' 
+S′ 
+R 
+K* 
+K** 
+K 
+Figure 6. A liquidity shock: capital decumulation and the stock market 
+The impulse responses we obtain for a 10% cut in ϕ expected to last for 8 quarters, using parameters based on the study by Del Negro et al., are shown by the solid lines in Figure 7, with the trajectories for K and q just described shown in the top panel17. The other panels show the sharp fall in investment (6%), employment. (6.5%) and GDP (5%) (The asterisks showing the impact of QE involving a 5% increase in the money stock are discussed below). 
+16 
+Note that this trajectory is constructed on the assumption that there will be no switch to a flex-price regime when liquidity is restored. While such regime switches are possible, they do not occur with the parameters used below. 
+17 
+Note that, to obtain these numerical results, second order approximations were in fact used. The effects we are reporting correspond, broadly-speaking, to those of a credit supply shock in Bernanke and Blinder (1988): while they choose to ignore credit rationing, however, here explicit account is taken of credit availability effects via shifts of the IB schedule. 
+23 
+
+========24========
+
+Figure 7. Impact effects of 8-quarter credit crunch (solid lines); and of adding QE (asterisks) 
+The effects of a longer credit squeeze – 8 years instead of 8 quarters – are shown in the Appendix B, which also indicates the parameters used. For convenience, the impact effects on the economy for different expected lengths of liquidity squeeze are summarised in Table 2, where r refers to the rate of profit per unit of capital and X refers to entrepreneurial income. 
+Short (2 years) Long (8 years) Permanent 
+q -0.6% (-0.4%) -1.3% (-0.8%) -1.4% 
+r -4.2% (-2.5%) -4.6% (-2.9%) -4.7% 
+X -4.3% (-2.6%) -4.8% (-3.0%) -4.9% 
+y -4.8% (-2.9%) -5.3% (-3.3%) -5.4% 
+Table 2. Impact effects of a 20% cut in ϕ for different expected durations. (Percentage changes from base values.) Figures in brackets take account of QE. 
+24 
+
+========25========
+
+It turns out that the pattern of events is similar whether the squeeze is expected to last for a long time or not: all variables except for K fall sharply in the first period then recover as the end of the liquidity squeeze is anticipated. The asset price recovers and ‘over-shoots’ a little before returning to equilibrium. The capital stock remains unchanged in period 1, but then keeps contracting until liquidity is restored. The initial impact on output is large for the parameters used by FRBNY, roughly 4.8 percent for the shorter squeeze, rising to around 5.3 percent for a prolonged squeeze (see the bottom line of the table). 
+The impact of a liquidity squeeze on the stock market and the economy clearly depends on how severe the shock is and how long it is expected to last. It is here that the Treasury can play a lead role. When major High Street banks in the UK were about to collapse in the face of insolvency, for example, it was the Chancellor of the Exchequer who stepped in with tax-payers money to fund recapitalisation: likewise for the guarantees given to the financial sector. On these matters the central bank may advise: but the deep pockets of the Treasury are needed for action to be taken. 
+Section 3. Open Market Operations or Quantitative Easing 
+Even when the Treasury successfully limits the size of the liquidity shock (by bank bail outs) and its duration (by guarantees), this may not be enough to prevent recession. That is what the simulations indicate. But, in circumstances when the banks are still alive but are walking wounded, the monetary authorities can take direct action to bring credit markets back to life. In the context of the model used here, as KM (2008, p. 27) point out: 
+When the resaleability of equity falls with an arrival of liquidity shock, the 
+central bank can do [an] open market purchase operation, increasing the liquidity 
+of investing entrepreneurs. Then the quantities and asset prices will be insulated 
+from the liquidity shock. 
+So what if the central bank joins the Treasury in taking ‘prompt corrective action’ to avert recession? In theory, with a large enough Open Market Operation (OMO), equilibrium could remain unchanged, with the uptake of capital by the public sector and the easing of liquidity constraints offsetting the leftward shift in the schedules for portfolio balance and of replacement investment due to loss of resaleability. In Figure 
+25 
+
+========26========
+
+8 this would imply a complete reversal of the movement from E to E’, with the schedules labelled PB’ and IB’ shifting back to intersect at the original equilibrium E. (The portfolio balance moves right to reflect government holdings of the capital stock, and the movement of the investment schedule is due to the infusion of liquidity.) 
+Consider instead the more plausible case where the effects of illiquidity are only partially offset, so equilibrium moves part of the way back from E’ to E, as illustrated in the Figure. Assuming that the OMO will be reversed as and when resaleability recovers in T periods time , the analysis is much as before except that the relevant eigenvectors will be those that characterise the half-cured problem of illiquidity, shown labelled SQE and UQE . (It is ‘as if’ the liquidity shock, the fall in φ for example, was smaller.) 
+So the starting value of the price of equity at A lies on the integral curve which takes T periods to reach the point B on the saddle path leading to E (when illiquidity recovers and the OMO is reversed). 
+q 
+PBQE 
+S 
+UQE 
+PB' 
+S′ 
+IB′ 
+IBQE 
+B 
+E 
+E' 
+A 
+SQE 
+S 
+QE 
+R 
+S’ 
+K 
+Figure 8. Effect of temporary Open Market Operation (QE) 
+26 
+
+========27========
+
+The impulse responses for a short liquidity shock partly offset by Quantitative Easing are as shown earlier in Figure 7, where the trajectory marked by asterisks in last panel indicates the 5 percent increase in the money stock involved in this operation – which involves the temporary purchase of about half a percent of the capital stock measured at book value. This open market operation substantially checks the fall in investment, in profits and employment; so output falls by about 3 percent instead of 5, see Table 1. (Quantitative easing has much the same proportionate effects for the longer credit squeeze as shown in the second column and in the Appendix B.) 
+More on Quantitative Easing 
+Figure 7 above shows the effect of a liquidity crunch that comes to an end at a fixed date, with a corresponding unwinding of QE. What if the date is uncertain, but there is a fixed probability of the crunch ending? The expected path will be of a liquidity squeeze that dies away gradually over the course of time. Figure 9 illustrates the effects the monetary response has been calibrated to approximately offset about 40% of the effects of the liquidity shock: so it too will be expected to die away gradually. 
+27 
+
+========28========
+
+Figure 9. Effects of a liquidity crunch with expected half-life of eight quarters (solid lines); and of adding QE (asterisks). 
+The beneficial effects of quantitative easing in the face of a two-year credit crunch shown in Figure 9 are broadly analogous to those obtained by Del Negro et al. (2010) using their much more complicated calibrated numerical model. In their simulations they found that an OMO could reduce fall in investment, consumption and output from 10% to 6%, as shown the dashed lines in Figure 10. It is on this basis that the team from FRBNY argue that, by injecting a trillion dollars into the financial markets in 2008-9, the Federal Reserve engineered a ‘Great Escape’ for the US economy. 
+28 
+
+========29========
+
+Figure 10. Effect of a liquidity shock that is expected to last for eight quartersEffect of a liquidity shock that is expected to last for eight quartersEffect of a liquidity shock that is expected to last for eight quarters 
+Note, however, that this is not a purely monetary operationthat this is not a purely monetary operation: there is a small elementsmall element of fiscal policy involved as well.iscal policy involved as well. This is inescapable if both the money supply and theThis is inescapable if both the money supply and the stock of government-owned equity are to be brought back to their preowned equity are to be brought back to their pre-shock levels.shock levels. The government budget constraintconstraint requires that public spending plus equity purchasesthat public spending plus equity purchases equal yields on existing asset holdings plus revenue from issuing more money plusequal yields on existing asset holdings plus revenue from issuing more money plusequal yields on existing asset holdings plus revenue from issuing more money plus any tax revenue ( ), i.e.: 
+Thus if the money supply is to be brought back to its preThus if the money supply is to be brought back to its pre-shock level, and if publicshock level, and if public assets are also to be sold off after the QE is over, some public spending has to beassets are also to be sold off after the QE is over, some public spending has to beassets are also to be sold off after the QE is over, some public spending has to be done. In the simulation shownshown in Figure 7 it is assumed that the government spendsit is assumed that the government spends the yield on equity net of depreciationyield on equity net of depreciation. That is 
+29 
+
+========30========
+
+In the simulation of Figure 9 it is assumed that 
+ܩ௧ൌ ܿ௚ݍ௧ܰ௧ீ 
+where ܿ௚ is a constant large enough to ensure stability of the stock of government- held equity. Government spending affects the demand for goods (equation 17 above) so that now it reads 
+ݎ௧ܭ௧ൌ ܫ௧൅ ܩ௧൅ ሺͳെ ߚሻሺ[ݎ௧+ (ͳെ ߨ൅ ߨ߶௧)ߣݍ௧൅ ߨ(ͳെ ߶௧)ߣݍ௧௥]ܰ௧൅ ݌௧ܯ௧) 
+Note that in these equations ܰ௧ீ denotes government held equity, ܰ௧privately held equity; and ܭ௧ൌ ܰ௧ீ ൅ ܰ௧. 
+Section 4. Effects of public spending and taxation 
+As we have seen, the government budget constraint links monetary and fiscal policy, and implies that monetary actions have some fiscal consequences. But what of deliberate fiscal stimulus? Where credit constraints are present, revenue-neutral transfers from low spenders to high spenders can affect aggregate demand.18 Consider, for example, the use of income transfers in response to a fall in ‘animal spirits’, captured here by a reduction π, the fraction of entrepreneurs having ideas for current investment. What if there are state-contingent, revenue-neutral fiscal transfers of σ from those entrepreneurs without ideas to those who do? 
+Effects of a decline in ‘animal spirits’ – a fall in π 
+Suppose specifically that there is an unanticipated fall in π for one period, and it reverts to its old value the period after. (We have ߨ௧in period t and the long run value π (>ߨ௧) before and after.) While individual entrepreneurs behave as they would have done anyway, in respect of consumption and investment, there are fewer investors and more savers, so aggregate investment falls as is clear from the equation: 
+(ͳെ ߠݍ௧)ܫ௧ൌ ߨ௧{ߚ[(ݎ௧൅ ߣ߶௧ݍ௧)ܭ௧൅ ݌௧ܯ௧] − (ͳെ ߚ)(ͳെ ߶௧)ߣݍ௧ோܭ௧} But with more savers who consume more than investors, aggregate consumption rises: 
+18 
+Even with inter-temporal optimisation and Ricardian equivalence, changes in government expenditure can affect aggregate demand when interest rates hit a zero lower bound, Krugman(1998), Christiano, Eichenbaum and Rebelo (2009). 
+30 
+
+========31========
+
+ݎ௧ܭ௧ൌ ܫ௧൅ ሺͳെ ߚሻ{[ݎ௧+ (ͳെ ߨ௧൅ ߨ௧߶௧)ߣݍ௧൅ ߨ௧(ͳെ ߶௧)ߣݍ௧ோ]ܭ௧൅ ݌௧ܯ௧} 
+There will also be some effect on ݍ௧and ݍ௧ோ through the portfolio balance equation, because the assets of the savers will be affected by the fall in π. The savers will buy up all the money balances from the investors. Their equity holdings ܰ௦௧ାଵ (carried forward from t to t+1) will become 
+ܰ௦௧ାଵ ؠ ߠܫ௧൅ ߶௧ߨ௧ߣܭ௧+ (ͳെ ߨ௧)ߣܭ௧ 
+and the change in this will (slightly) affect ݍ௧. We ignore this for the moment in differentiating aggregate demand and entrepreneurial income with respect to π: 
+(ͳെ ߠݍ௧)݀ܫ௧ൌ ݀ߨ௧{ߚ[(ݎ௧൅ ߣ߶௧ݍ௧)ܭ௧൅ ݌௧ܯ௧] − (ͳെ ߚ)(ͳെ ߶௧)ߣݍ௧ோܭ௧} 
+൅ ߨߚܭ௧݀ݎ௧ 
+ܭ௧݀ݎ௧ൌ ݀ܫ௧+ (ͳെ ߚ)ߣݍ௧ܭ௧݀ݎ௧− (ͳെ ߚ)ݎ௧ߣݍ௧ܭ௧(ͳെ ߶௧)݀ߨ௧ 
++ (ͳെ ߚ)ݎ௧ߣݍ௧ோܭ௧(ͳെ ߶௧)݀ߨ௧ 
+ൌ ݀ܫ௧+ (ͳെ ߚ)ߣݍ௧ܭ௧݀ݎ௧− (ͳെ ߚ)ݎ௧ߣሺݍ௧− 
+1) 
+ͳെ ߠ 
+ܭ௧(ͳെ ߶௧)݀ߨ௧ 
+Effects of a revenue-neutral transfer tax/subsidy scheme to promote investment: 
+Investors receive a transfer of െ߬௧௜and savers pay a tax ߬௧௦which is revenue-neutral so 
+ߨ௧߬௧௜+ (ͳെ ߨ௧)߬௧௦ = 0 
+Investment is increased by the transfer to those with ideas: 
+(ͳെ ߠݍ௧)ܫ௧ൌ ߨ௧ൣߚ൛(ݎ௧൅ ߣ߶௧ݍ௧)ܭ௧൅ ݌௧ܯ௧െ ߬௧௜ൟെ (ͳെ ߚ)(ͳെ ߶௧)ߣݍ௧௥ܭ௧൧ 
+but aggregate consumption is unchanged because the fall in consumption of the savers just matches the increased consumption of the investors. So the goods balance equation remains as before, viz. 
+ݎ௧ܭ௧ൌ ܫ௧൅ ሺͳെ ߚሻ([ݎ௧+ (ͳെ ߨ൅ ߨ߶௧)ߣݍ௧൅ ߨ(ͳെ ߶௧)ߣݍ௧ோ]ܭ௧൅ ݌௧ܯ௧) 
+Combining the effects of the fall in ߨ with the tax change, leaving aside the effects on ݍ௧, we have 
+31 
+
+========32========
+
+ܭ ݀ݎ = 
+݀ߨ௧{ߚ[(ݎ௧൅ ߣ߶௧ݍ௧)ܭ௧൅ ݌௧ܯ௧] − (ͳെ ߚ)(ͳെ ߶௧)ߣݍ௧ோܭ௧} ߨߚܭ௧݀ݎ௧ ௧ ௧ 
+(ͳെ ߠݍ 
++௧) 
+(ͳെ ߠݍ௧) 
++ (ͳെ ߚ)ߣݍ ܭ ݀ݎ − (ͳെ ߚ)ݎߣሺݍ௧− 
+1) 
+௧ ௧ ௧ ௧ 
+ͳെ ߠ 
+ܭ௧(ͳെ ߶௧)݀ߨ௧ ൤ͳെ 
+ߨߚ 
+(ͳെ ߠݍ௧) 
+− (ͳെ ߚ)ߣݍ௧൨ܭ௧݀ݎ௧ 
+ൌ ቈ{ߚ[(ݎ௧൅ 
+ߣ߶௧ݍ௧)ܭ௧൅ ݌௧ܯ௧] − (ͳെ ߚ)(ͳെ ߶௧)ߣݍ௧ோܭ௧} 
+(ͳെ ߠݍ௧) 
+− (ͳെ ߚ)ݎ௧ߣሺݍ௧− 
+1) 
+ͳെ ߠ 
+ܭ௧(ͳെ ߶௧)቉݀ߨ௧− 
+ߨߚ 
+ͳെ ߠݍ 
+݀߬௧௜௧ 
+The coefficients in this equation are likely to be of the right size and sign. That is, it is 
+very likely that 
+ͳ൐ ቂͳെ 
+గఉ 
+(ଵିఏ௤೟) 
+− (ͳെ ߚ)ߣݍ௧ቃ൐ Ͳ and 
+ቈ{ߚ[(ݎ௧൅ 
+ߣ߶௧ݍ௧)ܭ௧൅ ݌௧ܯ௧] − (ͳെ ߚ)(ͳെ ߶௧)ߣݍ௧ோܭ௧} 
+(ͳെ ߠݍ௧) 
+− (ͳെ ߚ)ݎ௧ߣሺݍ௧− 
+1) 
+ͳെ ߠ 
+ܭ௧(ͳെ ߶௧)቉> 0 
+and 
+ߨߚ 
+ͳെ ߠݍ 
+> 0௧ 
+So we conclude that the effect of a fall in animal spirits for one period (a fall in ߨ) in reducing demand and employment in this model of financial frictions can be offset by an appropriate revenue-neutral transfer from savers to borrowers. The transfer will allow each of investors to invest more, while not causing any reduction in aggregate consumption demand. 
+In principle it is possible to work out the effects of a fall in animal spirits that is expected to last longer than one period, and the effects of a longer lasting tax/transfer scheme, but the details of this will be more complicated, while the broad features of it will be broadly the same. Something like the tax/transfer scheme set out here could be implemented as an investment subsidy paid for out of a general tax on all entrepreneurs. 
+32 
+
+========33========
+
+The balanced budget multiplier 
+What of balanced-budget fiscal expansion, where extra taxes fund an increase in public expenditure? The effects of taxation in this model are complicated because entrepreneurs and workers will anticipate future taxes and adjust current consumption and investment. An analytically simple fiscal intervention consists of an unpredicted lump-sum tax on entrepreneurs whose proceeds are spent entirely on a simultaneous increase in public spending and which is not expected to be repeated: a pure fiscal shock. 
+The optimal response of entrepreneurs to this kind of shock is straightforward. The tax shock reduces net worth by the amount of the tax and they cut consumption by a fraction ሺ૚െ ࢼሻof this. Investment is cut also because the tax affects their liquidity constraint. Investment becomes 
+(ͳെ ߠݍ௧)ܫ௧ൌ ߨ[ߚ{(ݎ௧൅ ߣ߶௧ݍ௧)ܰ௧൅ ݌௧ܯ௧െ ߬௧} − (ͳെ ߚ)(ͳെ ߶௧)ߣݍ௧௥ܰ௧] And the goods balance equation (the IS curve) becomes 
+ݎ௧ܭ௧ൌ ܫ௧൅ ܩ௧൅ ሺͳെ ߚሻሺ[ݎ௧+ (ͳെ ߨ൅ ߨ߶௧)ߣݍ௧൅ ߨ(ͳെ ߶௧)ߣݍ௧௥]ܰ௧൅ ݌௧ܯ௧െ ߬௧) 
+The effect of a rise in taxes and government spending in equal amounts, with no change in money stocks, is the Keynesian balanced budget multiplier. Entrepreneurial income increases by exactly the same amount as the increase in government spending. From the investment equation 
+(૚െ ࣂ࢚ࢗ)ࢊࡵ࢚ൌ ࣊ࢼሺࡺ࢚ࢊ࢚࢘െ ࢊ࢚࣎) 
+And from the IS curve 
+ࡷ࢚ࢊ࢚࢘ൌ ࢊܫ௧൅ ݀ܩ௧+ (ͳെ ߚ)ሺܰ௧݀ݎ௧െ ࢊ࢚࣎) 
+Since the government holds no equity, ࡷ࢚ൌ ࡺ࢚, and the solution is that 
+ࡷ࢚ࢊ࢚࢘ൌ ܰ௧݀ݎ௧ൌ ࢊ࢚࣎ൌ ݀ܩ௧ 
+There will be an increase in employment and GDP, but no effect on asset prices, investment, or the future capital stock. 
+Section 5. Extensions: Asset Bubbles and Irreversible Investment 
+Although it allows for financial frictions, the KM model assumes that assets are correctly priced and, as a result, the variable q has limited volatility. As is evident 
+33 
+
+========34========
+
+from Figure 1 above, however, historical evidence up to and during the Great Depression, paints a very different picture – with Tobin’s q doubling in the three years before the Wall Street Crash of 1929 , and falling by three quarters in the next couple of years. A run-up in asset prices in the KM model can be illustrated by looking at the integral curves that do not satisfy the transversality condition – as in Figure 11 where the integral curve above the stable manifold no longer correctly represents future fundamentals, but is simply a bubble.19 
+q 
+U 
+U' 
+B 
+E 
+E' 
+S 
+D 
+U' 
+S′ 
+U 
+K* 
+K** 
+K 
+Figure 11. Bubble collapse preceding a liquidity shock: like 1929 
+It is clear from the introduction that it took some years for asset prices to recover to more normal values in the 1930s, see Figure 1. In this context, it is worth noting that: 
+Bank panics were a recurrent phenomenon in the United States until 1934… 
+Friedman and Schwartz (1963) enumerate 5 bank panics between 1929 and 1933, 
+the most severe period in the financial history of the United States. 
+Freixas and Rochet (1997, p.191). 
+19 
+Shiller’s “Irrational Exuberance” (2000) documents the deviation of US stock prices from fundamentals and Abreu and Brunnermeier (2003) discuss how such mispricing may be sustained for some time by heterogeneous beliefs. Laibson (2009) considers the macroeconomic effects of a house- price bubble. 
+34 
+
+========35========
+
+It was, in fact, only after the substantial restructuring of the financial system – including injecting capital into banks, setting-up the FDIC , passing the Glass-Steagall Act, changing bankruptcy law and strengthening security regulation – that asset prices were able to recover. 
+The experience of the 1930s appears to indicate that the collapse of asset prices after a prolonged and explosive bubble led – in the absence of prompt corrective action by the central bank and the treasury – to a severe credit crunch, whose effects were only finally reversed by restructuring the financial system. Bernanke (1983) has famously argued: that ‘in addition to its affects via the money supply, the financial crisis affected the macroeconomy by reducing the quality of financial services, primarily credit intermediation’ (Bernanke 1983: p. 263). That he had credit rationing in mind is indicated by the observation that ‘reported commercial loan rates reflect loans that are actually made, not the shadow cost of bank funds to a representative potential borrower’, Bernanke (1983, p. 264). In the KM model we are using this would manifest itself as a severe and prolonged ‘liquidity shock’ where credit is rationed, as indicated in the figure. 
+Excessively overvalued q is one of the important features missing from the model: another is the very low values that were observed in the Great Depression. Could this be attributable to the irreversibility of investment? Irreversibility increases the volatility of asset prices in theoretical models because investment is not undertaken until q exceeds one by a suitable margin, as firms exploit the option value of not investing. When q falls below one, firms cannot disinvest as fast as they might wish: they are limited to disinvesting at most at the rate at which capital depreciates. Meanwhile q can fall to low levels. 
+Section 6. Interpretations of Quantitative Easing; and Policy Games 
+Effects of QE: A transatlantic comparison 
+In our discussion of unconventional monetary measures, we have - like the authors of the FRBNY study - been taking a broad interpretation of QE – including open market purchases (or repo transactions) involving private sector paper (sometimes called 
+35 
+
+========36========
+
+‘credit easing’) as well conventional purchases of long-dated government debt. This is not only how the current Chair of the Federal Reserve uses the term; it is also consistent with the actions of his antecedents: the mandate of the Fed at its very inception was ‘to regulate the supply of credit, ... purchasing trade acceptances' being among the techniques to be used, Eichengreen (2010, p. 26), 
+Thus in 2008/9 when the key element causing the crisis of illiquidity was the uncertain value of US sub-prime mortgages, ABS and MBS securities were a major element of Fed operations. While these are not equity, they are private sector liabilities more akin to equity than to government-issued liabilities in the two-asset KM model being used20. QE in the UK has been directed more at the market in government securities: though in 2009 the Bank of England did purchase commercial paper and corporate bonds as a small part of QE, Joyce et al. (2011b, p. 200), it has since proved more reluctant to purchase private sector assets. 
+‘Money Creation’ 
+US (FRBNY 2010) $1 trn 
+Intervention as % of GDP Equivalent Base Rate cut Yields on government bonds 
+7% 14% 233 bp 150- 300 bp 
+Reduction of 50 bp. 
+UK 
+(Joyce et al. 2011) 
+UK (Pesaran and Smith 2011) 
+£200 bn ≈ ($319bn) 
+Reduction of 100- 125 bp 
+Reduction of 100 bp 
+Positive Effect on GDP ‘Bang per Buck’ 
+4% 1.5 - 2% 1.0 % 0.6 0.11-0.14 
+Table 3. QE in US and UK: estimates of impact effect 
+It may be interesting to compare the effectiveness of QE on either side of the Atlantic as measured by economists at the central banks involved. In the first column of Table 3 are the simulation results obtained by the team at the FRBNY, namely that the purchase of a trillion dollars of illiquid assets added about 4% ($57bn) to US GDP on 
+20 
+Where government guaranteed securities are more like money than equity. 
+36 
+
+========37========
+
+an annual basis - a highly gratifying ‘bang per buck’ of about 0.6 (Del Negro et al., 2010, p. 24),. The effects estimated by Joyce et al. (2011) for the UK may be much smaller in terms of the impact per unit of liquidity created21, but QE is nonetheless reckoned to have added some 1.5 to 2% to GDP. This finding is supported by an econometric study by Pesaran and Smith (2012) who estimate the first year impact of a 100bp cut in the spread between short and long rates to be about 1.8% of GDP. 
+These estimates suggest that QE in the US has had twice the impact on GDP as QE in the UK. In support of such a result is the fact, mentioned above, that there was a far greater uptake of private sector debt in the US relative to the UK: so the impact on credit easing would be more immediate, and the American estimate – based as it is on the approach of KM – takes into account the direct effect of such credit easing on investment22. The UK estimate, on the other hand, focuses mainly on effects flowing from a change in the long/short spread on gilts, which appears to have emerged as the ‘intermediate target’ of QE policy. 
+The estimated payoff to Fed intervention does seem very high. This may be the just reward for taking prompt corrective action at a time of panic. But is there an upward bias here? Avoiding a repeat of the Great Depression in 2008/9 clearly involved close coordination between fiscal and monetary authorities, and a willingness to use unconventional measures on both sides. Is there not a risk that some of the effects of fiscal policy – unconventional and conventional – are being attributed to QE in the way the model is calibrated? 
+A Policy Game? 
+For the monetary and fiscal authorities to act in close collaboration at the height of the crisis to prevent the collapse of the financial system, is one thing. But how a relatively independent central bank conducts policy over the next few years may be another. The increasing reluctance of the Bank of England to deal in commercial paper and 
+21 
+The US/UK difference in ‘bang per buck’ may be somewhat misleading: if the real GDP effects reported by Del Negro et al. are divided by the broader estimate of US money creation reported in Table 1, the US bang per buck falls to 0.16, much closer to that of Joyce et al. 
+22 
+i.e.takes account of shifts in the IB schedule as well as the PB schedule, in the terminology we use above. 
+37 
+
+========38========
+
+corporate bonds as part of QE has been mentioned; and in September 2011 the British government agreed that the Treasury would be responsible for such purchases, while the Bank of England would confine itself to operations involving public sector debt23. Thus, the term ‘quantitative easing’ is now used by the Bank of England to refer exclusively to its programme of purchases of longer-dated government bonds. 
+One obvious reason for the reluctance of Central Banks to be involved in direct ‘credit easing’ is concern about the ‘adverse selection’ problem in purchasing private sector assets. The Fed used repo transactions – lending Treasury bills against the security of MBSs and ABSs rather than outright purchases – as a way of coping with this problem; and, right from the start, the Bank of England secured Treasury indemnity from losses (and gains) in its QE operations. 
+A second reason for reluctance to deal in private debt may have to do with the division of responsibility between the Central Bank and commercial banks: it is the latter who are supposed to allocating credit by sector or by firm, not the Central Bank itself24. 
+A third factor might be the division of policy responsibility between the Bank and the Treasury. Treating policy-making as a game between agencies suggests why a Central Bank might choose to exclude Credit Easing from unconventional monetary policy that it is expected to conduct: as a way to limit the ‘fiscal dominance’ exercised by the Treasury. 
+Assume that some form of counter-cyclical stabilisation policy is called for, either counter-cyclical fiscal policy by the Treasury and/or credit easing by the Central Bank; but each agency faces a cost of taking action. Policy-making may then resemble what Rasmusen (1989, p.79) calls a Contribution Game, where each player has the opportunity of taking an action that contributes to the public good, but would 
+23 
+Chris Giles, Financial Times, 5th October 2011) 
+24 
+And what if banks are too troubled to do this task? One suggestion is that banks partly-owned by the state be directed to lend to SMEs; another is that the state should itself create a bank to do what others will not. 
+38 
+
+========39========
+
+prefer if the other bore the cost25. Let the payoffs be as shown – with Treasury as Row player and Central Bank (CB) as Column player – where β, denoting the payoff when stabilising action is taken, is less than α, the payoff when the other acts. 
+No action by Treasury: Counter Cyclical Fiscal Policy action by Treasury 
+No action by C B: Credit Easing by CB (0,0) (α,β) 
+(β,α) 
+(β ,β) 
+Table 4. Contribution Game (where α>β>0): with Payoffs: (Treasury, Central Bank) 
+With no first-mover, there are two Nash pure strategy equilibria in which only one agency acts (shown in the off-diagonal cells), and a mixed strategy equilibrium (where each acts with fixed probability). However, if one player, say the Treasury, has first mover advantage (i.e. there is ‘fiscal dominance’) it will be tempted not to use Counter-Cyclical fiscal policy, knowing that the Central Bank will then implement Credit Easing – despite the costs of so doing in terms of a perceived loss of independence by the Central Bank and the argument that it is being forced to direct credit. 
+One way to challenge this particular form of ‘fiscal dominance’ might be for the Central Bank to pass responsibility for Credit Easing to the Treasury, and define QE as applying solely to operations in public debt! This does not imply that Credit Easing does not work; it’s just that the initiative and responsibility for using it is located in the same agency as fiscal policy. 
+Section 7. Conclusion 
+In assessing the causes of the Great Depression in the US, Milton Friedman emphasized financial factors and criticised the Federal Reserve for not acting to head off cumulative collapse of hundreds of banks; and the account of central bank mis- management provided in Ahamed’s ‘Lords of Finance’ adds weight to Friedman’s 
+25 
+One could, perhaps, add the commercial banks to the game, with their incentives not to take action too. 
+39 
+
+========40========
+
+perspective. By way of contrast, believers in the Efficient Market Hypothesis and Real Business Cycle theory, argue that, in general, financial factors play little or no causal role in economic booms and slumps, as witness the calibrations of Chari et al. (2007) and the view of Eugene Fama (2010) that, in the recent crisis, financial factors were simply reflecting prior deterioration in economic fundamentals. 
+In parallel with the complex DSGE model developed by the Federal Reserve Bank of New York, the simplified fix-price model we use suggests that easing credit conditions at a time when banks are partially paralysed is important in keeping recession from deepening into depression. Subject to the caveat that the rescue of insolvent banks surely owed more to Treasury bailouts and guarantees than to Central Bank liquidity intervention, it supports Friedman’s concern for monetary factors –the role of credit, in particular, as emphasized by Bernanke and Blinder (1988) for example. The tractability of the second-order system allows for a qualitative analysis of the impact of liquidity shocks - and of asset purchases designed to offset them - and also for various expectational effects, including deviations from rational expectations. The presence of credit constraints, moreover, invites the application of revenue-neutral fiscal transfers to those facing constraints on availability of funds for investment. 
+The effect of ‘financial accelerators’ associated with collateral used to secure debts, as discussed in Kiyotaki (1998), Bernanke et al. (1999) and in Miller and Stiglitz (2009), is not treated here. Nor is financial intermediation per se: the liquidity squeeze is a failure lending on a bilateral basis between one set of entrepreneurs and another. It would be preferable to include debt and intermediation explicitly, of course - and this would help link ‘irrational exuberance’ in asset markets to a subsequent liquidity crunch.26 
+The results obtained in this paper for a liquidity squeeze can, perhaps, best be thought of as a ‘reduced form’ of what happens after a sharp contraction of financial intermediation. The potentially severe economic effects that follow - and the links 
+26 
+Before the Great Depression, banks lent heavily to those speculating on shares using the shares themselves as collateral; in the current ‘Sub-prime crisis’, shadow banks have performed a similar role in respect of real estate. 
+40 
+
+========41========
+
+with asset mispricing that precede - become much more plausible on this interpretation: but policy conclusions must be treated with considerable care. In the first place one must not forget the role of fiscal and quasi-fiscal policy in rescuing insolvent banks. If, moreover, the crisis is attributable to moral hazard problems in intermediaries, injections of capital and liquidity to fix things in the short run may exacerbate problems in the longer run – unless financial re-regulation follows. 
+The Kiyotaki and Moore perspective of inter-temporal optimisation subject to credit constraints may be seen as a bridge between real business cycle theorising on one hand, and Keynesian macroeconomics on the other. But the financial frictions introduced are not to be found in either of these traditions - nor in standard DSGE models. Broad-brush analysis, detailed calibration and empirical studies all suggest that such frictions offer considerable leverage for unconventional monetary and fiscal policy. 
+References 
+Ahamed, Liaquat (2009), Lords of Finance: The bankers who broke the world. London: William Heinemann 
+Alessandri, P. And Haldane Andrew (2009) ‘Banking on the State’ Bank of England., Presentation given at Federal Reserve Bank of Chicago twelfth annual International Banking Conference. 
+Bean, Charles (2009). ‘The Great Moderation, the Great Panic and the Great Contraction’, Schumpeter Lecture presented at Annual Congress of the European Economic Association, Barcelona, (August). 
+Bénassy, Jean-Pascal (1975), “Neo-Keynesian Disequilibrium Theory in a Monetary Economy”, The Review of Economic Studies, vol. 42 no 4 (October), 503-523 
+Bernanke, Ben S, (1983), ‘Nonmonetary Effects of the Financial Crisis in Propagation of the Great Depression’, American Economic Review, vol. 73(3), pages 257-76, June. Reprinted in N. G. Mankiw and D Romer (eds.) New Keynesian Economics Vol 2, pp.293-324. 
+Bernanke, Ben S. and Alan S.Blinder (1988), ‘Credit, money and aggregate demand’ American Economic Review, vol. 78 (May), 435-439. Reprinted in N. G. Mankiw and D Romer (eds.) New Keynesian Economics Vol 2, pp.325-333. 
+41 
+
+========42========
+
+Bernanke, B. Mark Gertler and Simon Gilchrist (1999), “The Financial Accelerator in a Quantitative Business Cycle Framework.” In J. Taylor and M. Woodford, eds. Handbook of Macroeconomics Vol. 1C, 1341-1397. New York: Elsevier. 
+Cassidy, John (2010): “Rational Irrationality.” Interview with Eugene Fama. New Yorker, 13. January. 
+Blanchard, Olivier, Giovanni Dell’Ariccia, and Paolo Mauro (2010), ‘Rethinking Macroeconomic Policy’. IMF Staff Position Note, SPN/10/03, ( February). 
+Chari, V. V., Patrick J. Kehoe and Ellen R. McGrattan, 2007. "Business Cycle Accounting," Econometrica, vol. 75(3), pages 781-836, 05 
+Christiano, Lawrence, Martin Eichenbaum and Sergio Rebelo (2009) ‘When is the Government Spending Multiplier Large?’Working Paper, North Western University. 
+Crafts, Nicholas (2011). ‘Fiscal Consolidation with 4 Per Cent Growth: Lessons from 1930s Britain’. University of Warwick. 
+Cúrdia, Vasco, and Michael Woodford (2008). “Credit Market Frictions and Optimal Monetary Policy,” paper presented at the Bank for International Settlements Annual Conference, “Whither Monetary Policy?” Lucerne, Switzerland, 26-27 June 
+Dale, Spencer (2011), ‘QE – one year on’. In Jagjit Chadha and Sean Holly (eds.) Interest Rates, Prices and Liquidity Cambridge: Cambridge University Press 
+Darling, Alistair (2011): Back from the brink. London: Atlantic Books. 
+Del Negro, Marco, Gauti Eggertsson, Andrea Ferrero and Nobuhiro Kiyotaki (2010). ‘The Great Escape? A Quantitative Evaluation of the Fed's Non-Standard Policies.’ FRBNY working paper. 
+Diamond, David and Philip H. Dybvig (1983), “Bank runs, deposit insurance and liquidity,” Journal of Political Economy, vol.91, pp.401-19 
+Driffill, John and Marcus Miller (2010) ‘Liquidity when it matters: QE and Tobin’s q’. CEPR DP No. 8511 (August) 
+Eichengreen, Barry (2010), Exorbitant Privilege. Oxford: Oxford University Press. 
+Eggertsson, Gauti (2008) ‘Great expectations and the end of the depression’, American Economic Review, 98 (4), 1476-1516 
+Freixas, X and Rochet J-C (1997), Microeconomics of Banking, The MIT Press: Cambridge, Massachussetts. 
+Gennaioli, Nicola, Andrei Shleifer and Robert Vishny, (2011), “Neglected risks, financial innovation, and financial fragility”, Journal of Financial Economics 125, forthcoming. 
+42 
+
+========43========
+
+Giles, Chris, “A Belligerent Bank has put Purity before Pragmatism”, Financial Times, 5th October 2011. May be found at http://www.ft.com/cms/s/0/6fd626d0- ef46-11e0-918b-00144feab49a.html#axzz1aNIbbEBH 
+Gorton, Gary (2010). Slapped by the Invisible Hand. Oxford: Oxford University Press. 
+Hellman, Thomas; Kevin Murdoch and Joseph Stiglitz (2000): Liberalization, Moral Hazard in Banking, and Prudential Regulation: Are Capital Requirements Enough? American Economic Review 90(1), 147-165. 
+Joyce, Michael, Matthew Tong and Robert Woods (2011a) ‘The economic impact of QE: Lessons from the UK’. www. voxEU 
+Joyce, Michael, Matthew Tong and RobertWoods (2011b), “The United Kingdom’s Quantitative Easing Policy: Design, Operation and Impact”, Bank of England Quarterly Bulletin, 3, 200-212. 
+Kiyotaki, Nobuhiro and Moore, John (1997). ‘Credit cycles.’ Journal of Political Economy, vol.105, (April), pp.211-248. 
+Kiyotaki, Nobuhiro (1998), “Credit and Business Cycles,” Japanese Economic Review, vol. 49, 19-36 
+Kiyotaki, Nobuhiro, and John Moore (2008) ‘Liquidity, Business Cycles, and Monetary Policy’ Mimeo: Princeton, Edinburgh and LSE. 
+Krugman, Paul (1998) ‘It’s baaack: Japan’s slump and the return of the liquidity trap,’ Brookings Papers on Economic Activity, 2:137-187. 
+Laibson, David (2009). “Bubble Economics”, Frank Hahn Lecture at the Royal Economic Society Annual Meetings, University of Surrey, 20-22 April. 
+Layard, Richard and Stephen Nickell (1987). ‘The Labour Market’. In R.Dornbusch and R. Layard (eds.) The Performance of the British Economy. Oxford: Clarendon Press, pp. 131-179. 
+Malinvaud, Edmond (1977) The Theory of Unemployment Reconsidered, Oxford: Basil Blackwell 
+Manning, Alan (1990) “Imperfect Competition, Multiple Equilibria and Unemployment Policy”, Economic Journal, Conference Papers, vol. 100, 151-162 Economic Journal 
+Miller, Marcus and Joseph Stiglitz, (2009), “Leverage and asset bubbles: averting Armageddon with Chapter 11?” Economic Journal. vol. 120(544), pp. 500-518. 
+Milne, Alistair (2009). The Fall of the House of Credit. Cambridge: Cambridge University Press. 
+43 
+
+========44========
+
+Muellbauer,John and Richard Portes (1978).’Macroeconomic Models with Quantity Rationing’, Economic Journal, Vol. 88, No. 352 pp. 788-821 
+Pesaran, M. Hashem and Smith, Ron. P. (2011), Counterfactual Analysis in Econometrics’, Presentation held at Trygve Haavelmo Symposium, Oslo, December 13-14. 
+Paulson, Henry M. (2010), On the Brink: Inside the Race to Stop the Collapse of the Global Financial System. London: Headline Publishing Group. 
+Rasmusen, Eric (1989), Games and Information. (Second edition). Oxford: Blackwell. 
+Reinhart, Carmen M. and Kenneth S. Rogoff (2008), This Time Is Different: Eight Centuries of Financial Folly. Princeton NJ: Princeton University Press. 
+Shiller, Robert J. (2000), Irrational Exuberance, Princeton NJ: Princeton University Press 
+Shimer, Robert (2009), "Convergence in Macroeconomics: The Labor Wedge," American Economic Journal: Macroeconomics, vol. 1(1), pages 280-97, January. 
+Sinn, Hans-Werner (2010), Casino Capitalism. Oxford: Oxford University Press. 
+Tobin, James with Golub, Stephen S, (1998), Money, Credit, and Capital, NY, NY: McGraw-Hill. 
+Tucker, Paul (2009) ‘The Repertoire of Official Sector Interventions in the Financial System: Last Resort Lending, Market-Making, and Capital’ International Conference, Bank of Japan, Tokyo [28 May] 
+Wickens, Michael, ‘What saved the banks: unconventional monetary or fiscal policy?’ In Jagjit Chadha and Sean Holly (eds.) Interest Rates, Prices and Liquidity Cambridge: Cambridge University Press 
+Woodford, Michael (2003), Interest and Prices, Princeton NJ: Princeton University Press 
+Wright, Stephen (2004), "Measures of Stock Market Value and Returns for the US Nonfinancial Corporate Sector, 1900-2002" Review of Income and Wealth, 50 (4) pp 561-584. 
+44 
+
+========45========
+
+Appendix A 
+The figure below indicates the impact of a liquidity squeeze on asset returns. Given fixed prices, the (gross) rate of return on money RM is one. As indicated by the hyperbola labelled RQ , the rate on equity for savers must in equilibrium be higher than one: while the rate for investors (not shown) will be less than one, see Kiyotaki and Moore (2008, p.17) for further discussion. In the short run, however, the fall in the yield on equity (see the hyperbola labelled RQ’ ) will be balanced by anticipated capital gains as the system moves along the eigenvector SS. 
+q 
+IB′ 
+S′ 
+E′ 
+E 
+Inverse 
+IB 
+R 
+1 
+S′ 
+PB 
+PB′ 
+45° 
+K 
+1/q 
+1 
+KE′ 
+KE 
+1/q 
+1-λ 
+45° 
+RM 
+Reduced profit rate 
+RQ′ 
+RQ 
+E′ 
+E 
+Asset returns 
+Marginal Product of Capital 
+FK 
+45 
+
+========46========
+
+Appendix B 
+Simulation results in the fix-price quarterly model: a prolonged credit crunch To complement the results of a short liquidity squeeze discussed in the text, here we illustrate the effect of a squeeze more like that of the Great Depression: thus the 10% cut in the liquidity parameter φ from 0.13 to 0.117, is taken to last for 8 years rather than 8 quarters (with effects of including QE shown with asterisks). 
+Memo items 
+Following Del Negro et al., the parameters for the linearized KM model used here are chosen as: φ = 0.13; β = 0.99; θ = 0.13; π = 0.075 and λ = 0.975. 
+Initial (‘base case’) equilibrium values of the variables are then: q = 1.1175; r = 0.0374; K = 152.5056, y = 17.2644 and Mp/K = 0.1171. 
+46 
+
+========47========
+

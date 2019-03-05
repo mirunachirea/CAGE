@@ -1,0 +1,1716 @@
+June 2010 
+             No.11 
+The Dynamic Effects of Currency Union on Trade 
+Paul R Bergin (UC Davis) and Ching Yi Lin  
+(National Tsing Hua University) 
+WORKING PAPER SERIES 
+Centre for Competitive Advantage in the Global Economy 
+Department of Economics 
+
+========1========
+
+The Dynamic Effects of Currency Union on Trade  
+Paul R. Bergin 
+Department of Economics, University of California at Davis, and NBER  
+Ching-Yi Lin  
+Department of Economics, National Tsing Hua University  
+This version: May 30, 2010  
+Abstract  
+A currency union’s ability to increase international trade is one of the most debated questions in  international macroeconomics. This paper studies the dynamics of these trade effects over time.  First, empirical work with data from the European Monetary Union finds that the extensive  margin of trade (entry of new firms or goods) responds several years ahead of overall trade  volume and actual implementation of the monetary union. This implies a fall at the intensive  margin (previously traded goods) in the run-up to EMU. A dynamic stochastic general  equilibrium model of trade studies the announcement  of a future monetary union as a news shock  lowering future trade costs, and finds that the early entry of new firms in anticipation is  explainable as a rational forward-looking response under certain conditions. Required elements  are sunk costs of exporting and ex-ante heterogeneity among firms. The findings help identify  which types of trading frictions are reduced by adopting a currency union. Findings also indicate  that a significant fraction of the welfare gains from a monetary union are based upon expectations  for the future, so that continued gains depend upon  long-term credibility of the union.  
+Keywords: currency union, extensive margin of trade 
+JEL classification: F41  
+                                                 
+Correspondence to Paul R. Bergin, Dept. of Economics, University of California at Davis, One Shields  Ave., Davis, CA 95616 USA  prbergin@ucdavis.edu , phone: (530) 752-8398, fax (530) 752-9382.  
+
+========2========
+
+1.   Introduction  
+  A currency union’s ability to increase internation al trade has been one of the most  
+debated questions in international macroeconomics, especially since Rose (2000) found  
+potentially large effects in historical monetary unions. Subsequent literature with improved  
+methodology and expanded data, including coverage of the European Monetary Union, has  
+mostly supported the statistical significance of this effect, but estimated lower magnitudes.1 
+Previous work has also documented that a substantial portion of the trade effect operates at  
+the extensive margin, that is, trade of goods not previously traded. 
+2 
+ A basic question that  
+remains unanswered is the mechanism by which a currency union would have effects on  
+trade. In order to help address this question, this  paper studies the dynamics of the impacts on  
+trade. It identifies new stylized facts about the timing of effects at the various margins of  
+trade.3  Then by constructing and simulating a dynamic stoc hastic general equilibrium model  
+of trade, the paper draws implications regarding what types of trade cost reductions would be  
+consistent with the observed dynamics.    
+  The first contribution of the paper is to document  a stylized fact in trade data  
+regarding the effects of European Monetary Union (EMU). Based on disaggregated trade  
+data the paper constructs measures of the extensive  margin of trade (the entry of new goods  
+categories) and the intensive margin (the amount of  trade in previously traded goods  
+                                                 
+1 
+ There is an extensive literature on this subject.  For a sampling of supporting evidence see Rose and van  Wincoop (2001), Glick and Rose (2002), and Frankel and Rose (2002). For a sampling of critiques see  Persson (2001) and Nitsch (2002); see Baldwin (2006) for a useful summary. For empirical studies of the  European Monetary Union, see Micco, Stein, and Ordonez (2003), Baldwin and di Nino (2006), Flam and  Nordstrom (2006), Berthou and Fontagne (2008), and Frankel 2010.  Estimates for the effect on trade in  the  EMU range from 5% to 20%.   
+2 
+ Papers studying the effect of EMU on the extensive  margin of trade, including Baldwin and di Nino  (2006), Flam and Nordstrom (2006), and Berthou and Fontagne (2008), estimate a rise in the extensive  margin in the range of 6% to 19%.  
+3While Micco, Stein and Ordonez (2003) consider the timing of overall trade effects, finding that effects  begin in 1998, they do not consider the extensive margin. While Flam and Nordstrom(2006) measure the  extensive margin for years prior to EMU, their objective is to compare the pre-EMU (1995-1998)  period  to  post-EMU (2002-2005), taking the earlier period as a benchmark rather than considering the possibility  that  these early periods could themselves show an increase in the extensive margin.   
+1 
+
+========3========
+
+categories). Panel regressions are used to identify  the effect of adopting EMU on these two  
+margins of trade, where dummies are used to indicate effects in years both before and after  
+actual EMU adoption. Estimates indicate that the extensive margin began to rise already four  
+years ahead of actual EMU adoption. While initial increases in the extensive margin are  
+small, they are found to be very significant statistically, and to grow gradually over time to  
+reach a maximum 3 years after EMU adoption. These dynamics contrast sharply with the  
+dynamics of overall trade, where effects become significant much later (around one year  
+prior to EMU adoption), with magnitudes that initially are much smaller than the extensive  
+margin. This implies that the intensive margin, the  difference between overall trade and the  
+extensive margin, is negative in the run-up to EMU adoption. This effect dies out several  
+years after adoption, as the extensive margin effect declines over time and the overall trade  
+effect catches up.   
+It is striking that new goods appear to enter the export market before the monetary  
+union actually generates an increase in trade. Some  previous papers have discussed the need  
+for dynamics to account for gradual adjustment to new trade opportunities, such as time to  
+build to generate a sluggish response of new entry.  But the evidence here is the opposite;  
+rather than being sluggish, entry instead anticipates the future trade opportunities created by  
+EMU.  It is true that EMU did not become certain until a year before adoption, with  
+announcement in 1998 of those countries satisfying the convergence criteria. However, when  
+firms respond to shifts in expectations, the future  profit opportunities need not be known with  
+certainty. Exporting may well involve one-time sunk  costs, such as one-time investment in  
+distribution networks abroad.  Given that paying a sunk cost presents the opportunity but not  
+the requirement to sell abroad, the option value of  establishing a presence in foreign market  
+could become justified based upon rising probabilities of states of nature where exporting is  
+profitable, even if these states are not realized in the end.  These facts suggest the need for  
+2 
+
+========4========
+
+trade models augmented with expectations and forward looking behavior in response to news  
+about the future.  
+The second contribution is to construct a two-country DSGE model to understand  
+what drives this dynamic behavior.  The model focuses on real variables and abstracts from  
+money and nominal exchange rates. Because the countries joining the European Monetary  
+Union previously belonged to a system of mutually fixed exchange rates, EMU is not  
+associated with a significant reduction in exchange  rate volatility, or a significant change in  
+monetary policy rules or shocks. Instead the model studies the adoption of a common  
+currency as the elimination of trade costs of various types, frictions associated with currency  
+conversion or other reduction in the significance of national borders. The model studies the  
+effect of a “news shock,” whereby an announcement is made about a future reduction in these  
+trade costs. These trade frictions can take one of several forms in the model: iceberg trade  
+costs proportional to trade volume, fixed costs paid each period, and a one-time sunk cost.  
+The model differs from Ghironi and Melitz (2005) and most models in the literature in  
+assuming a distinct sunk cost for exporting, which is necessary for the extensive margin to  
+respond to a news shock.   
+The main theoretical finding is that an anticipation effect of monetary unions on the  
+extensive margin can be explained as rational forward-looking behavior, but it requires a  
+number of factors. First, the union must be expected to reduce iceberg costs of trade. Second,  
+trade must involve significant sunk costs. Third, entering firms must be heterogeneous in a  
+form anticipated by firms before making the entry decision.  One surprise was that the  
+presence of a sunk cost decision, where firms equate the discounted stream of all future  
+profits to the sunk cost, is not sufficient to generate early firm entry in anticipation of future  
+profits arising from a monetary union. The reason is that firms contemplating entry in periods  
+prior to the monetary union adoption correctly anticipate that entry of firms in the future  
+3 
+
+========5========
+
+period of adoption will compete away profits in excess of the sunk cost. Given that export  
+profits will be lower prior to the union adoption, there is no excess profit to motivate entry in  
+earlier periods. However, heterogeneity among firms, here in terms of the size of the sunk  
+costs they face, will imply that profits will remain at a higher level after the adoption, equal  
+to the sunk cost of the marginal exporter. If firms  with high productivity or lower entry costs  
+know this prior to making the entry decision, this implies an expectation for future profits in  
+excess of sunk costs, thereby justifying their early entry.    
+The model also points to iceberg costs as the key trade costs reduced by the monetary  
+union adoption. A news shock reducing the sunk cost  itself leads to an exit of firms prior to  
+adoption rather than the observed entry; further, a  news shock reducing the fixed cost of trade  
+fails to generate the observed rise in overall export volume upon adoption. Finally, the  
+finding that the extensive margin anticipates adoption suggests that a significant portion of  
+the welfare gains of adopting a monetary union, which work through love of variety in utility,  
+rely upon expectations of a monetary union and precede its actual adoption.  This indicates that  
+continued gains from a monetary union rely upon expectations for the union’s continued  
+existence in the long run; a lack of credibility in  the union could reduce the welfare gains.  
+The next section of the paper discusses the empirical methodology and new stylized facts.  
+Section three defines the model, and section four discusses the simulation results.  
+2. Empirical Findings  
+  The study uses a panel dataset which covers export s at an annual frequency from  
+1973 to 2004. The trade data of 1973-2000 come from  the NBER-UN World Trade Data set,  
+developed by Rob Feenstra and Robert Lipsey, documented in Feenstra et al. (2005). The  
+trade data after 2000 come from the UN Comtrade Data set, developed as the same way as in  
+Feenstra et al. (2005). This data set computes annual bilateral trade flows at the four-digit  
+4 
+
+========6========
+
+Standard International Trade Classification, by performing a series of adjustments on UN  
+trade data 
+4.   
+        Following Hummels and Klenow (2005), the ex tensive margin is measured in a manner  
+consistent with consumer price theory by adapting the methodology in Feenstra  (1994).   
+The extensive margin of exports from country  j  to  m, denoted by  EM 
+j 
+m 
+, is defined as   
+        
+EM 
+j m 
+∑X 
+W 
+m , i = 
+i∈I 
+jm 
+XW 
+m 
+    (1)  
+where  X 
+W 
+m i, 
+ is the export value from the world to country  m  of category  i.  I 
+j 
+m 
+ is the set of  
+observable categories in which country  j  has positive exports to country  m, and  X 
+W m  is the  
+aggregate value of world exports to country  m. The extensive margin is a weighted count of  
+j’s categories relative to all categories exported to  m, where the categories are weighted by  
+their importance in world’s exports to country  m.   
+        The corresponding intensive margin of expor ts from country  j  to  m, denoted as  IM 
+j m  is  
+defined as  
+                                         
+j 
+IM 
+j 
+= 
+Xmm 
+∑X 
+W 
+                            (2)  
+m , i 
+i∈I 
+jm 
+where  X 
+j 
+m 
+ is the total export value from country  j  to country  m. The intensive margin is  
+measured as  j’s export value relative to the weighted categories  in which country  j  exports to  
+country  m. Therefore, multiplying the intensive margin by the extensive margin can get  
+country  j’s share of world exports to country  m,  EXShare 
+j m :  
+                                                 
+4 
+ It is noted that the data purchased from the UN fo r 1984-2000 only had values in excess of $100,000, for  each bilateral flow. To be consistent, the cutoff of exports in this study is set as $100,000, which implies  that goods are considered nontradable if an export value of the category is less than $100,000.  
+5 
+
+========7========
+
+EXShare 
+j 
+m 
+X 
+j = 
+m XW 
+= 
+m 
+EM 
+j m IM 
+j m 
+                                       
+  (3)  
+        The categories of goods exported might diff er across exporters and change over time.  
+With the same level of share of world exports to country  m  at time  t, the measurement  
+implies that country  j  would have a higher extensive margin measure if it  exports many  
+different categories of products to country  m, whereas, it would have a higher intensive  
+margin if country  j  only export a few categories to country  m.  
+        Separate panel regressions are run by regre ssing in turn the extensive margin, the  
+intensive margin, and the exporter’s total share on  the currency union status as well as  
+controls. Controls include membership in the European Union, which entailed economic  
+reforms that could be expected to raise bilateral trade themselves, as well as the standard set  
+of variables representing country size and distance  used in gravity trade models to explain  
+bilateral trade. The benchmark regressions take the  form:  
+Yjm 
+,t = 
+β0 
++ β1EMU 
+jm 
+,t + 
+β2EU 
+jm 
+,t 
++ β3EUTrend 
+jm 
+,t 
++λX 
+jm 
+,t 
++γFjm 
+,t + 
+φ t 
++κEX 
++ωIM 
++ε 
+jm 
+,t  (4)  
+The model is estimated by ordinary least squares with robust standard errors clustered in  
+export pair level, where  j  is the exporter and  m  is the importer. The dependent variables ( Yjm,t)   
+will be either the logarithm of country  j’s extensive margin of exports to country  m, the  
+logarithm of country  j’s intensive margin, or the logarithm of share of world exports.  
+Regressors include dummies for the currency union status,   EMU 
+jm,t 
+.  A dummy for the  
+European Union,  EU 
+jm 
+,t 
+, is included to control the impact of a free trade  area on export.  
+However, the European Union may become a deeper agreement and increase the impacts  
+over time, so  EUTrend 
+jm 
+,t 
+ is included to control the EU effects on export th rough time.  
+The regressor  Xjm,t  is a set of variables that vary over time, which i ncludes the logarithm of  
+real GDP per capita of exporter  j  relative to real GDP per capita of all countries w ho export  
+6 
+
+========8========
+
+to importer  m, logarithm of exporter  j’s population relative to real GDP per capita of all  
+countries who export to importer  m, and a dummy variable indicating whether the two  
+countries had a free trade agreement at time  t.   Fjm   is a set of variables that do not vary over  
+time, such as the logarithm of distance between country  j  and  m, a common language dummy,  
+a land border dummy. Also included is a time effect,  t, to control for time-specific factors  
+such as global shocks or business cycles.  
+        To avoid omitting variables that may affect  bilateral trade, two vectors of dummy  
+variables,  EX  and  IM , are included indicating exporter and importer fixed effects. As  
+Anderson and van Wincoop (2003) proposed, country effects are included as controls for  
+multilateral resistance. We decided to use separate  country fixed effects for each country as  
+exporter and importer, because in contrast with the  related literature on trade flows, our  
+dependent variable specifies the direction of trade.  
+        We begin by reporting result for a sample o f 15 European countries, including 3  
+countries which are not members of the monetary union. 
+5 
+ Initial results using country fixed  
+effects are reported in the first three columns of Table 1. Joining EMU raised overall exports  
+by 11.9%, which is smaller than the effects originally found by Rose but similar to those  
+found by other researchers focusing on a European sample. 
+6 
+ The effect is slightly smaller in  
+magnitude than the effect of entry into the EU. The  first column indicates that the majority of  
+this trade effect occurs at the extensive margin, which rises by 6.3%. In fact, while the effect  
+at the extensive margin is statistically significant, that at the intensive margin is not. This  
+result emphasizes the importance of the extensive margin for understanding the trade effects  
+                                                 
+5 
+ The countries included are Austria, Belgium-Luxemb ourg, Denmark, Finland, France, Germany, Greece,  Ireland, Italy, Netherlands, Portugal, Spain, Sweden, and United Kingdom. Ten of these joined the  monetary union in 1999, and Greece joined in 2001. Denmark, Sweden, and United Kingdom did not join  the monetary union.   
+6 
+ The export share is 1.119 times higher (11.9%) bec ause exp(0.112) = 1.119; the extensive margin is 1.063  (6.3%) because exp(0.061) = 1.063.   
+7 
+
+========9========
+
+of monetary unions.  The remaining columns confirm that this result is robust to alternative  
+sets of controls, such as country-year fixed effects to control for time-varying multilateral  
+resistance in the determination of the trade pattern, and country-pair fixed effects to control  
+for  the bilateral tendency to trade instead of the multilateral resistance .   
+  Table 2 reports result regarding the dynamics of t hese trade effects over time. The  
+regression equation is augmented with leads and lags of the EMU indicator variable, to  
+capture the effects of EMU before and after adoption.    
+∑ 
+5 
+Y EMU EU EUTrend X F t EX IMjm t s jm t s jm t jm t jm t jm t, 0 1, , 2 , 3 , , ,= + + + + + + + + +β β β β λ γ φ κ ω ε+ 
+s =− 3 
+(4’) jm t, 
+The main finding is that the extensive margin rises  well ahead of the actual adoption of the  
+monetary union. All three sets of estimations agree  on this point, all showing a statistically  
+significant positive coefficient on all leads of the EMU indicator in their respective extensive  
+margin regressions.  The magnitudes of this effect are similar to those found in table 1,  
+tending to be somewhat smaller in years prior to EMU, and larger in years following actual  
+adoption of EMU.  The three sets of estimations vary among themselves regarding values of  
+other coefficients. Overall trade rises one year ahead of EMU adoption under country fixed  
+effects and country-pair fixed effects; trade rises  earlier under country-pair fixed effects. The  
+intensive margin is either insignificantly different from zero or negative in the run-up to  
+EMU depending on the estimation, but tends to become significantly positive several years  
+following implementation.    
+  In order to get more precise estimates, we follow  Frankel (2010) in expanding the  
+data set to all available countries. The NBER-UN World Trade data set covers 148 countries,  
+so we include all of these in the gravity regression above. We augment the regression  
+equation with an additional indicator variable to control for currency unions other than EMU.  
+8 
+
+========10========
+
+Consequently, the EMU indicator variables remain specific to the monetary union in Europe,  
+and the coefficients on these indicators can continue to be interpreted as the effect EMU.   
+Results are reported in Table 3. The additional data produce highly significant  
+parameter estimates both for estimations using country fixed effects and country-year fixed  
+effects, and there is a close correspondence in results between these two cases. We will focus  
+on results for the latter estimation, as this controls for time-varying multilateral resistance,  
+which past literature has emphasized as a potential  source of bias. In contrast, estimates from  
+using country pair fixed effects lack statistical significance. Country-pair fixed effects could  
+be useful if trade resistance is bilateral rather than multilateral in nature. However, it  
+eliminates cross-sectional variation in the panel and leaves only time-series variation.  Given  
+that the vast majority of the new countries added to this larger sample have not entered or left  
+a currency union during this sample period, these additional countries yield no information in  
+the estimate.  See Bergin and Lin (2009) for a discussion of this point.  
+Figure 1 plots the regression coefficients arising from the time-varying fixed effects  
+estimation. Estimates agree with the main conclusion of Table 2, showing a significant rise in  
+the extensive margin in anticipation of EMU adoption, but estimates here offer greater  
+precision and details about the dynamics. The extensive margin effect can now be seen to rise  
+smoothly and gradually over time.  Estimates are small and insignificantly different from  
+zero for initial years, but the effect becomes significant starting four years prior to EMU  
+adoption. This contrasts with the overall effect on  trade, which does not become significant  
+until much later, one or two years before EMU adoption depending on the criterion for  
+significance. The magnitude of the extensive margin  effect in these periods is also much  
+larger than that on overall trade. This implies that the effect on the intensive margin of trade,  
+the difference between overall and extensive margin, is actually negative. We can confirm  
+that the difference between the two is statically significant, as Column 8 of Table 3 reports  
+9 
+
+========11========
+
+coefficients in the intensive margin regression, and shows that EMU dummies are  
+significantly negative for all periods preceding EMU adoption.   
+The figure also shows that the dynamics change after EMU adoption. The extensive  
+margin effect reaches its maximum about 3 years after adoption, and then falls in remaining  
+years. At this point the overall trade effect nearly catches up with the extensive margin. At  
+this point, overall trade and the extensive margin rise 44% and 55% respectively. This is  
+larger than the estimates from the European country  sample in Table 2, though still much  
+smaller than estimates of currency union effects from the work of Rose. These larger values  
+do correspond with those found in Frankel (2010), which argued that an expanded data set, in  
+terms of time an countries, is helpful in detecting  EMU effects. The narrowing of the  
+difference between extensive margin and overall trade after EMU adoption is confirmed by  
+the fact that the intensive margin coefficients are  no longer significantly negative.    
+  It is striking that new goods appear to entry the  export market before the monetary  
+union actually generates an increase in trade. Why would firms enter a market when a  
+constant level of trade must be divided among more firms, presumably leading to a fall in  
+profits? Given that trade does eventually rise, this entry would seem to indicate forward  
+looking behavior on the part of firms, in response to news about future policy changes and  
+rise in opportunities for trade. Such anticipation effects cannot be explained in the context of  
+a standard static trade model, where trade and entry occur simultaneously.  Some previous  
+papers have discussed the need for dynamics to account for gradual adjustment to new trade  
+opportunities, such as time to build to generate a sluggish response of new entry. But the  
+evidence here is the opposite; rather than being sluggish, entry instead anticipates the future  
+10 
+
+========12========
+
+trade opportunities. These facts suggest the need for trade models augmented with  
+expectations and forward looking behavior in response to news about the future.7 
+3. Benchmark Theoretical Model  
+Consider a model of two symmetric countries, home and foreign, which trade with  
+each other. Engaging in trade involves paying several types of trade costs: iceberg costs,  
+fixed costs each period, and a one-time sunk cost. The model differs from Ghironi and Melitz  
+(2005) and most models in the literature in assuming a distinct sunk cost for exporting. 
+8 
+  The  
+ability to generate an anticipation effect in the extensive margin in response to a news shock  
+depends upon a sunk cost associated with exports.   
+Although the model is motivated by study of a monetary union, the model focuses on  
+real variables and abstracts from money and nominal  exchange rates. Because the countries  
+joining the European Monetary Union previously belonged to a system of mutually fixed  
+exchange rates, EMU is not associated with a reduction in exchange rate volatility, or any  
+significant change in monetary policy rules or shocks. Instead the model studies the adoption  
+of a common currency as the elimination of trade costs associated with currency conversion  
+or other reduction in the significance of national borders.   
+3.1   Goods market structure    
+        Overall demand ( D) in the home country is an aggregate of  n 
+H 
+ varieties of home  
+goods and   n 
+F 
+ varieties of goods exported from the foreign count ry. The aggregator is CES,  
+with a potentially distinct elasticity between home  and foreign goods aggregates ( φ ), and  
+                                                 
+7 
+ The dynamic models of Ghironi and Melitz (2005) in cludes forward looking behavior, but it does not  study anticipated future changes in trade liberalization, so like standard trade models, it does not study the  possibility of trade response in the absence of a current rise in trade volume.   
+8 
+ Ruhl (2008) and Arkolakis (2009) allow for a disti nct sunk entry cost for exporting.  
+11 
+
+========13========
+
+among varieties from a given country ( µ ).  
+    
+ φ φφ φ 
+1 1 
+− −1 1 D D D   1 1( ) 
+t Ht Ft= +    φ φ  
+( ) 
+    2 2 
+φ φ−1 
+  (5)  
+where  
+    
+µ 
+µ 
+≡ =  
+µ 
+nHt 
+µ − 1 −γ 
+D n d i di n d i−Ht Ht Ht Ht Htµ− 
+( )( ) 
+1 
+1 
+γ 
+  µ ∫ 
+( )   (6)  
+0 
+and     
+µ 
+µ 
+≡ =  
+µ 
+nFt 
+µ − 1 −γ 
+D n d j dj n d j−Ft Ft Ft Ft Ftµ− 
+( )( ) 
+1 
+1 
+γ 
+  µ ∫ 
+( )   (7)  
+0 
+for homogeneous firms. Following Benassy (1996), the parameter  γ indicates the degree of  
+love for variety, in that  γ -1 represents the marginal utility gain from spreading a given  
+amount of consumption on a basket that includes one  additional good variety in a symmetric  
+equilibrium.  
+        The corresponding price indexes are:   
+    
+1 
+t Ht Ft( )( )1 ) 
+1 
+P P P= + −(θ θ( ) 
+1 −φ 
+1 −φ − φ 
+  (8)  
+where     
+nHt 
+P n p i di n p i  
+  
+1 
+= =− − γ 
+µ 
+1 
+( )( ) 
+− 
+Ht Ht Ht Ht Ht −µ 
+  
+1−µ 
+1 µ 1 − γ 
+( )   (9)  
+  ∫ 0 
+    
+nFt 
+P n p i di n p i  
+  
+1 
+= =− − γ 
+µ 
+1 
+  ∫ 
+( )( ) 
+− 
+Ft Ft Ft Ft Ft −µ 
+  
+1−µ 
+1 µ 1 − γ 
+( )   (10)  
+0 
+for homogeneous firms, where  P  is the aggregate domestic country price level,  P 
+H 
+ is the  
+price index of the home good,  P 
+F 
+ is the price (to domestic residents) of the import ed foreign  
+good.  These imply relative demand functions for domestic residents:  
+    
+D D P PHt t H t/ /= 
+1 
+2( ) 
+−φ 
+  (11)  
+t 
+12 
+
+========14========
+
+    
+D D P PFt t F t/ /= 
+1 
+2( ) 
+−φ 
+  (12)  
+t 
+and   
+    
+d i D p i P n nHt Ht Ht Ht Ht Ht( ) / /= =( )( ) 
+−µ 
+µ γ γ− − ( )1 −γ 
+  (13)  
+    
+d i D p i P n nFt Ft F Ft Ft Ft( ) / /= =( ( ) 
+−µ 
+µ γ γ− − −γ 
+.  (14)  
+t 
+) 
+( )1 
+  Analogous conditions apply to the foreign country.  Note that under symmetry  
+n n= 
+* 
+Ht Ft 
+and  n n= 
+* 
+Ht Ft 
+.  
+3.2  Home household problem   
+  The representative home household derives utility  from consumption ( C) and  
+disutility from labor ( L). Households derive income by selling their labor  ( L) at the nominal  
+wage rate ( W), receiving real profits from home firms (Π ).There is no international asset  
+trade, so trade is balanced between the two countries.  
+  Household optimization for the home country may be  written:  
+∞ 
+max ,E U C Lβt 
+0 ∑ 
+( ) 
+t t 
+t=0 
+subject to the budget constraint:  
+PC W Lt t t t t= + Π 
+where  
+Ut 
+1 1− +ρ ψ = −C L 
+t t 1 1ρ ψ − + 
+ .    
+  Optimization implies a labor supply condition:  
+Wt PC 
+ρ t t 
+= Lψt ,  (15)  
+An analogous problem and first order conditions apply to the foreign household.  
+13 
+
+========15========
+
+3.3  Home firm problem    
+  There are two types of home firms, those selling i n the domestic market and those  
+that engage in export. The markets are monopolistically competitive, with free entry subject  
+to a one-time sunk cost,  K 
+Ht 
+for domestic firms and  K 
+* 
+Ht 
+for exporters. We view this setup cost  
+as a type of investment analogous to that in physical capital in other DSGE models.   Home  
+exports to the foreign market are subject to a fixed export cost each period  F 
+* 
+Ht 
+t, in units of  
+labor, as well as a proportional iceberg trade cost,  τ 
+* 
+Ht 
+. It is assumed that fraction  δ  of firms  
+must exogenously exit the market each period.  Production for all firms is linear in labor:  
+y i AL it t t( )= ( ) .  (16)  
+where  A 
+t 
+ represents technology common to all production fir ms in the country, and is subject  
+to shocks.    
+To determine prices and entry in the home market, the home firm maximizes current  
+home market profits plus discounted future home market profits,  π 
+H t H t, ,(i v) 
++ , where:   
+∞ 
+v i E iuH t t H t s( ) ( ) ( )β δ π1 = −   
+s 
+c t s, + 
+, 
+ ∑ u 
+, + 
+( ) ,    
+s = 1 c t, 
+which is represented in the model by specifying  
+v i E v i iuc t, ( ) ( )  ( )1 
+, 1 + 
+H t t H t H t= − + β δ π 
+( ) 
+  u 
+, 1 , 1( ) ( ) + + 
+  (17)    
+c t, 
+and  
+π ( ) ( )= −      A i p i d i PWH t Ht H t t, 
+t 
+, 
+( ) / .   (18)  
+t 
+14 
+
+========16========
+
+Future profits are discounted by the stochastic discount factor of domestic  
+households, β 
+uc t, 1+ 
+, which are assumed to own the firms.  This problem  implies price setting  
+uc t, 
+behavior as a markup over marginal cost:   
+µ Wt 
+p iH t, ( )= 
+µ −1 A 
+.  (19)  
+t 
+New firms deciding to enter the market in period  t  begin to produce goods in  t+1 .  
+The entry condition is:  
+v KH t H t, ,= 
+PA 
+Wt 
+  (20)  t t 
+Use the fact that all firms are identical to write v v iH t H t= and  π π= 
+augment the existing stock of firms in the market:  
+, , 
+( ) 
+H t H t, , 
+(i). New entrants  
+n n neH t H t H t, , 1 , 1= +− −   (21)  
+Conditions for home firms exported abroad are analogous to those above for firms  
+selling at home. Firm value:  
+* 
+, 
+c t s, 
+* H t, ( ) 
+= −  
+∞ 
+v i E iuH t t( ) ( )  ( )β δ π1 
+s 
++ 
+   
+∑ 
+= 
+u 
+,  (22)  
+s 1 
+which is represented in the model by specifying  
+* 
+c t, 
+( ) 
+* *H t H t, 1 , 1( ) ( ) 
+v i E v i iuc t, ( ) ( )  ( )1 
+, 1H t 
+= − +t 
+ β δ π+u 
++ +   (23)    
+   
+c t, 
+where  
+( ) 
+, 
+/ . 
+ 
+π* * * *, , ,( ) ( ) 
+ Wt 
+H t H t H t t ti p i d i W F P= − −   
+ A 1 
+* 
+H t 
+ t 
+−τ H t, 
+  (24)    
+( ) 
+    
+15 
+
+========17========
+
+Optimality conditions for price setting and entry corresponding to those of the domestic firm  
+are as follows:  
+p i*H t, ( )= 
+µ µ 1 
+W 
+t 
+( ) 
+t 
+− A 1−τ*H t, 
+  (25) 
+t 
+v K* * 
+WH t H t, ,= 
+PA 
+,  (26)  
+with new entry defined as:  
+t t 
+n n ne* * *H t H t H t, , 1 , 1= +− − .  (27)  
+3.4  Market clearing and equilibrium  
+  Market clearing for the home goods market requires :  
+, 
+* 
+n d i n Yd i + =H t 
+* 
+( ) 
+H t H t tHt 
+−τ 
+,                                              (28) 
+H t 
+, , 
+( ) 
+And labor market clearing:   
+1 
+* 
+, 
+AL Y n F ne K ne K= + + +* * * * 
+t t t Ht H t H t H t H t H t, , , , , 
+.   (29)  
+Total composition of home demand:  
+D Ct t= .  (30)  
+Balanced trade means:  
+P D P D* * 
+H t H t F t F t, , , , 
+= .   (31)  
+The shocks, to technology and trade costs in each country, will be log-normally  
+distributed:  
+16 
+
+========18========
+
+(log log log logA A A A t t t− = − +ρ ε− ) 1 1 1( ) 
+( 
+log log log logA A A At 
+* ** ** * 
+− = − +ρ εt t− 
+) 1 ( 
+1 1 
+) 
+( ) 
+  (32)  log log log logτ τ ρ τ τ εHt H Ht H− = − +− 
+* * * * * 
+2 1 ( ) 
+2t 
+( )log log log logτ τ ρ τ τ ε 
+* 
+Ft F Ft F t− = − +− 2 1 2( ) 
+  ε ε ε εt t t t, , , ~ 0,N( 
+* * 
+1 1 2 2 
+Σ ) .  
+  Equilibrium is a sequence of the following 44 vari ables: C, D, P, dH(i), d 
+F(i), p H(i),  
+pF(i), PH, P 
+F, D H, D F, W, L, Y, v H, vH*, nH, n H*, ne H, ne H*,  
+π 
+H 
+,  π 
+H 
+* 
+, and foreign counterparts  
+for each of these. The 44 equilibrium conditions are: price indexes and demands for types of  
+goods (8)-(14), labor supply (15), profit and firm value (17-18, 23-24), price setting (19,25),  
+entry and new firms (20-21, 26-27), market clearing  for goods and labor markets (28, 29),  
+definition of overall demand (30), and the foreign counterparts for all of these, along with  
+balanced trade (31), and choice of the home consumption bundle as numeraire:   
+P =1.  (33)  
+  The model is solves as a linear approximation.   
+3.5  Calibration  
+The macro parameters are taken at standard real business cycle values:  ρ = 1 (log utility),  
+ψ =1 (unitary labor supply elasticity),  µ =6 (implying a price markup of 20%), and  β =0.96  
+to represent an annual frequency. The elasticity of  substation between home and foreign  
+goods is calibrated at  φ =2, as recommended by Ruhl (2008) which studies the  elasticity  
+puzzle (we note that this calibration is not essential to our results). We calibrate δ =0.10 as in  
+Ghironi and Melitz (2005) to match data on the annual job destruction rate of 10%. Home  
+17 
+
+========19========
+
+bias in preferences is set at  θ =0.66 so that the trade share in GDP is 70%, which is  
+representative for EU counties (European Commission, 2006).  
+Trade costs are calibrated based on outside studies. The steady state iceberg cost  τ 
+H 
+*  is  
+set to 0.10, as used in Obstfeld and Rogoff (2000).  The sunk costs are normalized at  
+K KH H= 
+* 
+= 1, with the fixed costs  set at  F 
+* 
+H 
+ =0.07 so that  21 % of total home firms export  
+(as in Ghironi and Melitz, 2005).  
+4. Simulation Results  
+4.1. Benchmark model  
+  Figure 2 reports impulse responses to a drop in ic eberg trade costs announced in  
+period 1 that will occur in period 8, which we will  refer to as period T. The size of the shock  
+is calibrated so that exports rise by the 20% observed in the empirical section, which requires  
+about a 15% fall in the iceberg cost. Note, the anticipated shock leads to no effect on any of  
+the variables prior to period T; exports and the extensive margin both rise first in the period  
+where the trade costs actually fall.  This may seem  surprising, since one might think that the  
+presence of sunk costs in the entry decision should  lead more firms to enter if there is an  
+anticipated future rise in profits. But careful examination of  the entry condition combining  
+(23) and (26)  
+v E v= − + =  ( )β δ π( )1 
+*H t, 
+u K 
+ c t, 1 ,+ 
+* * H t 
+W 
+u A PH t H t, 1 , 1+ + 
+( ) 
+t 
+t 
+  (34)  
+   c t t t, 
+reveals why this intuition does not apply to sunk costs in the presence of news shocks.   
+Equation (34) makes clear that a firm contemplating  entry discounts future profits by the  
+stochastic discount factor, here the ratio of current consumption to that consumption in the  
+18 
+
+========20========
+
+future period.  Figure 1 indicates that consumption  rises permanently in period  T  in a way  
+that mimics the rise in profits. As a result future  profits properly discounted do not rise, and  
+therefore provide no motivation for entry prior to period T.  However, once period  T  arrives  
+and sales rise, higher entry is justified. In periods after  T, higher sales raise total profits, and  
+entry will occur until the rise in profits per firm  exactly equals the rise in sunk cost (due to  
+rise in real wage). Period  T  is unique, in that new entrants enjoy the higher s ales of the new  
+regime but pay the lower fixed costs of the old regime in  T-1. This feature will be discussed  
+further below.  
+  The conclusion of no entry in anticipation of the  shock may seem the product of a  
+very special set of circumstances, but it is actually highly robust. There is no calibration of  
+the parameters in the model above that leads to any  significant extensive margin entry in  
+anticipation of the shock.  The general principle, which I believe is outlined here for the first  
+time in the literature, may be described as follows. Begin by considering firm decisions in  
+period  T-1 for entry in period  T:  firms will progressively enter this period until discounted  
+profits per firm are driven down to the point that they just barely covers the sunk cost of entry,  
+with no extra profits left over. Firms considering entry in the period prior to  T  anticipate this  
+future entry, and their decision is identical, except that entry in  T-1 means there is an  
+additional period where sales have not yet risen. Entry in period  T-1 would imply a fall in  
+profits per firm in that initial period, so entry in  T-1 implies a stream of profits that will not  
+cover the sunk cost of entry.  The fact that firms correctly anticipate future entry that eats up  
+future extra profits removes the incentive to enter  in any earlier period.   
+4.2. Productivity heterogeneity  
+  One might think that firm heterogeneity could alte r this result. If some firms are more  
+productive than others, these will have profits even after less productive firms enter in later  
+19 
+
+========21========
+
+periods, which would justify immediate entry of the  most productive firms. We follow the  
+convention for modeling firm heterogeneity under a sunk cost as discussed in Ghironi and  
+Melitz (2005), hereafter GM. Firms pay the sunk cost of entry before knowing their  
+productivity draw, so that the sunk cost decision depends upon expectations of productivity,  
+that is, firm averages. 
+9 
+ Our model differs from GM in that we wish to speci fy a sunk cost  
+associated with the exporting decision not just firm entry into the domestic market. As in the  
+benchmark model above, this is facilitated by assuming that exportable and domestically  
+consumed goods are produced by distinct sectors populated by two distinct sets of firms, so  
+that firm creation in the export sector is synonymous with entry into the export market.   
+  For firms in the export sector, a firm-specific pr oductivity term z  augments  
+production:  y i AzL i= . Following GM, firm productivity is assumed to follow a Pareto  
+t t t( 
+) 
+( ) 
+distribution with shape parameter  k  and lower bound  z 
+1 
+( ) 
+min 
+:  G z z z( )= −1 ( 
+min 
+) k 
+. Productivity  
+1 
+1 
+averages can be computed:   z z dG z z k k = = − − ∞ 
+µ− 
+µ− 
+  ∫ 
+   
+zmin 
+µ 
+µ 
+min 
+{ }( )1 
+1 1( )− 
+.  Aggregates  
+in the export sector can be computed as functions of this average productivity, as if the export  
+sector consisted of   n 
+Ht 
+* 
+ firms each with the average productivity computed  above. Because  
+firms choose to pay the sunk cost of entry before drawing their productivity, the export entry  
+decision is specified  v K = 
+t 
+* * 
+WH t H t, , 
+PA 
+, where average firm value is specified 
+10 
+t t 
+                                                 
+9 
+ An alternative would be to allow firms to pay the  sunk cost after knowing their productivity draw as in  Ruhl (2008). This would greatly amplify the complexity of model solution, as one would need to track the  productivity levels of all firms at all periods, rather than taking aggregate variables as functions of average  productivity as in Ghironi and Melitz (2005). We consider the possibility of heterogeneity known at the  time of entry later in the paper, where heterogeneity takes a form that does not pose this problem for  model  
+solution.   
+10 
+ Average profits and prices are specified  
+π τ( ) ( )i p i W A z d i W F P= − − −( 
+* * * * * 
+( 
+ 
+ 
+H t H t t t H t t t, , 
+(1 / H t H t, , 
+ and  p i = 
+))) 
+, 
+( ) 
+  
+* H t, ( ) 
+µ W 
+( ) 
+t 
+µ − 1 A z 1−τ* 
+.  
+t 
+H t, 
+20 
+
+========22========
+
+∞ 
+v i E iuH t t( ) ( )  ( )β δ π1 
+* 
+= −  
+s 
+c t s, + * 
+, 
+ ∑ = 
+u 
+H t, ( ) .  (35)  
+s 1 c t, 
+  Calibrations follow GM, setting  zmin to 1 and choosing  k  so that the standard deviation  
+of firm size, which equals 1 1(k − +µ ) , is 1.67 to match evidence on the firm size  
+distribution.  
+Figure 3 reports the impulse response to a pre-announced 15% reduction in iceberg  
+trade cost. As in the previous model without firm heterogeneity, the figure shows there is no  
+rise in the number of exporting firms in periods prior to the trade cost reduction. The intuition  
+is that firms do not know before paying the sunk cost whether they will have high or low  
+productivity, so heterogeneity has no impact on the  sunk cost decision above. Firms  
+considering the possibility of early entry expect to have the same productivity as later  
+entrants, so they expect that their future profits will be the same as that for later entrants. As  
+in the previous experiment, firms expect future entry will bid down profits to the point of just  
+covering sunk costs of those future entrants. So early entry in periods of lower or negative  
+initial profits cannot be justified by an expectation of higher than average future profits for  
+those early entrants.   
+4.3 Other types of heterogeneity  
+  Another form that heterogeneity could take would b e in sunk trade costs.  Following  
+Ruhl (2008), suppose a distribution of sunk costs  G K K K( ) = 
+( 
+) 
+χ 
+, where  K is an upper  
+bound on the sunk cost, and  χ  characterizes heterogeneity. Denoting the full set  of potential  
+exporters as  n 
+* 
+H 
+ and the set of entrants at the end of a period as  nx n ne= + 
+* * * 
+H H H 
+, we write  
+21 
+
+========23========
+
+nx G K n* *H H= ( ) , which implies the sunk cost of the marginal entrant rises with the  
+fraction of potential firms engaged in the market: K nx n K= 
+( ) 
+1 
+* * χ 
+H t H, 
+. This requires that  
+the entry condition be written in terms of the marginal firm, i n= 
+* H t, 1+ 
+:  
+v n* *H t, 
+( ) 
+H t, 1+ 
+= 
+K* 
+H 
+ n ne* * 
+χ 
+ +  
+H t H t, , 
+  
+n* 
+H 
+Wt 
+A Pt t 
+.  (36)  
+Note this entry condition is different from Ghironi  and Melitz (2005) in that it applies to the  
+marginal firm, evaluated after the value of the heterogeneous sunk cost is known, rather than  
+being evaluated for average firm value, based on expected values of the heterogeneous term.  
+It also is simpler than the specification of Ruhl (2008), in that there is no heterogeneity in  
+firm marginal costs or profits, which would require  a different and much more complex  
+solution method to track the evolution of heterogeneity. The main point is that firms can be  
+ranked at any given point in time in terms of their  willingness to enter the export market, and  
+it is the sunk cost of the marginal firm that determines the equilibrium level of profit per firm  
+in each period. So while the profit per firm after entry in period  T  will just cover the sunk  
+cost of the marginal new entrant, it will more than  cover the lower sunk cost of the other  
+entrants that period, with extra profit left over. Since firms are forward looking, these firms  
+will correctly anticipate these excess profits, and  see a motivation for entry in earlier periods.  
+Future entrants will not eat up all extra profits, because these later firms must deal with  
+higher sunk costs.   
+  Aggregating over heterogeneous sunk costs, the res ource constraint becomes:   
+AL Y n F ne K K n n ne n= + + + + + −( 
+* * * * * *1 1 1 1 
+( 
+1 χ 
+)( ) 
+1 1 χ 
+)(( 
+χ χ+ + 
+t t t Ht H t H t H t , , , 
+Ht 
+Ht Ht Ht ) ( ) ) 
+  (37)  
+22 
+
+========24========
+
+The parameter  χ  is calibrated at 0.190, the values implied by the  calibration in Ruhl (2008)  
+if there is no correlation with productivity heterogeneity.11  The maximum sunk cost in the  
+distribution,  K , is taken to be twice the value of the sunk cost assumed in earlier simulations,  
+and the maximum number of exporters,  n 
+* 
+H 
+, is assumed to be  twice the steady state number  
+of exporters in earlier simulations.  
+  Simulations reported in Figure 4 indicate signific ant entry investment immediately in  
+the period where the shock is announced, leading to  a larger number of firms starting in the  
+second period. Profits fall in the initial period, as new entrants divide up the given export  
+sales among more competitors. But entry occurs nonetheless, because the fall in current  
+profits is compensated by higher future profits for  these firms with low sunk costs. As the  
+date of the shock approaches, yet further firms enter, as there are a smaller number of periods  
+of lower profits before the higher profits begin in  period  T, making the present value of entry  
+positive for a wider subset of the distribution of firms. Note also that the response in overall  
+exports differs from that of the number of firms, in that it does not rise prior to the actual  
+shock. This coincides nicely with the empirical evidence reported earlier that the extensive  
+margin responded to EMU several years ahead of overall exports. The reason is that while the  
+extensive margin is driven mainly by sunk costs and  forward looking behavior, the demand  
+for imports is driven primarily by the relative price and hence by iceberg trade costs in that  
+period.   
+Experiments indicate that the degree of entry in the initial period is not sensitive to  
+the curvature of the distribution, summarized by  χ , but it is sensitive to other parameters  
+                                                 
+11 
+ Ruhl (2008) introduces sunk cost heterogeneity in  order to explain the entry of small exporters, which  requires a correlation of sunk cost heterogeneity with productivity heterogeneity. The purpose here is different, and introducing of Ruhl’s productivity heterogeneity would not be solvable using our current  methods. We borrow the specification and calibration of sunk cost heterogeneity from Ruhl for  convenience. The result is robust to alternative calibrations of the parameters.   
+23 
+
+========25========
+
+such as the deprecation rate (probability of exogenous firm exit). Figure 5 demonstrates that  
+for a lower deprecation rate ( δ = 
+0.01 ), initial firm entry in anticipation of the shock equals  
+about two thirds of the full entry when the shock is later realized. Firms are more willing to  
+enter if they are more likely to still be around to  reap the benefits of the extra profits in the  
+future.  
+The result is also sensitive to the intertemporal elasticity of households,  1 ρ , because  
+this determines the stochastic discount factor used  to discount future profits,  (C C 
+ρ 
+t s t+ 
+) .  
+Recall from discussion of Figure 1 that the ability  of future profits to encourage entry is  
+dampened by the rise in consumption and the discounting of these future profits.  A lower  
+value of  ρ  lowers the degree of discounting implied by rising  consumption. Figure 6 shows  
+the case where  ρ  = 0.3, so that the rise in future profits has grea ter power to encourage new  
+entry. Recall that the entry decision for entry in period  T  is unique, in that new entrants  
+benefit from the increased sales induced by the shock but do not pay sunk cost at the higher  
+wage rate induced by the shock, so there is the possibility of some degree of overshooting in  
+the amount of entry in the initial period of the shock above the long-run level. This  
+overshooting was precluded in Figure 2 by the fact that future rises in consumption led to  
+greater discounting of future profits. But the figure shows that this overshooting occurs once  
+the discounting is dampened. This offers one potential explanation to the empirical finding  
+that the extensive margin has its maximum effect right around the time of EMU  
+implementation, and the extensive margin retreats somewhat thereafter.  
+Finally, the model is used to evaluate the effects of cuts in alternative costs. Figure 7  
+reports the result of a news shock cutting the sunk  cost of exporting firms by 1% in period 8,  
+announced in period 1. The model simulated includes  sunk cost heterogeneity as described  
+above. Entry actually falls in the periods after the announcement, as firms wait for the lower  
+24 
+
+========26========
+
+sunk costs before entering. This fall in entry is at odds with the empirical evidence, and  
+suggests that EMU does not raise trade primarily by  lowering sunk costs. Figure 8 studies the  
+effect of a shock lowering the fixed cost of trade FH t 
+* 
+, 
+in period 8, announced in period 1. This  
+shock does predict a rise in entry prior to the shock. But it fails to predict the sizeable rise in  
+exports; exports rise only a small fraction as much  the rises in entry, as the extra trade arises  
+solely form love for variety. The failure to induce  a rise in trade suggests that EMU does not  
+work primarily through lower fixed costs of trade.  
+4.4 Learning by Doing  
+Consider finally the possibility of learning by doing, whereby firms become more  
+efficient at producing if they engaged in production and export previously. Such learning by  
+doing has been used in the macroeconomic literature  for other purposes such as generating  
+endogenous persistence.12  In the present context, one might expect that if e xporting firms  
+become more efficient from experience, this might induce firms to enter prior to EMU  
+implementation, so that they are prepared to take greater advantage of these trade  
+opportunities when they arise later.  
+Learning by doing will be modeled here in terms of the fixed cost of production,  F.13 
+Firms that were previously producing and active in the export market have acquired  
+experience that lowers their fixed cost in future periods. For simplicity we assume there is a  
+one-time permanent reduction in fixed costs of a given export firm by fraction ζ  starting in  
+the firm’s second period of production.   
+                                                 
+12 
+ See for example Lahiri and Johri (2008).  
+13 
+ Learning by doing is typically introduced by speci fying marginal costs of production as a negative  function of past output levels. This version is not  possible in the context of a sunk cost of entry, a s it would  lead to a proliferation of state variables. We would have to keep track of each generation of new entrants  over all past periods, and how long they have been present in the market, in order to specify their marginal  costs. This would produce a complex cross-sectional  distribution of marginal costs that would be diffi cult  to aggregate over.   
+25 
+
+========27========
+
+This implies modifying firm value as follows for home exporters:  
+( ) ( )( )β δ π β δ π1 1 
+∞ 
+v i i E iu uH t 
+* s 
+, 
+= − + −  
+c t s+ , * 
+  
+u uH t 
+( ) ( )( ) 
+s 
+c t s, + *' 
+, 
+t 
+H t , ( ) ,  (38)    
+c t,   ∑ 
+ = 
+s 2 c t, 
+where profits in a firm’s initial period of existence is specified as:  
+  Wt 
+π*' * * *, , ,( ) ( ) 
+H t H t H t t ti p i d i W F P= − −  
+ A 1 
+* 
+H t 
+ t 
+( ) 
+−τ 
+( ) 
+ 
+, ζ 
+ 
+/ . 
+H t, 
+ 
+ 
+  (39)  
+Likewise for foreign exporters. The labor market clearing condition needs to be augmented to  
+account for the extra fixed costs, which use labor: 
+AL Y ne n ne F ne K ne K= + + − + +ζ 
+( 
+* * * * * * 
+t t t Ht Ht Ht H t H t H t H t H t, , , , , ( )) 
+  (40)  
+  Figure 9 reports impulse responses for the usual c ut in iceberg trade costs used in  
+earlier simulations. Again results show there is no  entry prior to the period of implementation.  
+It is true that learning by doing makes firms more willing to enter during initial periods of  
+low profits in periods before EMU implementation. But this incentive also applies to firms  
+that enter later in the period of implementation. Because they too are willing to enter with a  
+lower level of initial period profits, there is greater entry in the period of implementation,  
+which brings down the equilibrium level of profit per firm in that period. Firms  
+contemplating entry in earlier periods anticipate this additional future entry and the resulting  
+lower future profits. This offsets the incentive for early entry, resulting in no extra entry in  
+early periods.  
+5. Conclusion  
+  A currency union’s ability to increase internation al trade is one of the most debated  
+questions in international macroeconomics. This paper employs a DSGE model to study the  
+dynamics of these trade effects. First, original empirical work with data from the European  
+26 
+
+========28========
+
+Monetary Union finds that the extensive margin of trade (entry of new goods) responds ahead  
+of the intensive margin (increased trade of existing goods). The number of products being  
+traded begins to rise several years prior to the currency union adoption, peaking near the time  
+of adoption and attenuating somewhat thereafter. A DSGE model indicates that this dynamic  
+response in firm entry is explainable as a rational  forward-looking response to a news shock  
+about a future monetary union which is expected to lower iceberg (ie. proportional) trade  
+costs, and where entry in the foreign market involves a one-time sunk cost that is  
+heterogeneous across goods. The model indicates that alternative explanations for a currency  
+union trade effect, that it lowers the sunk cost or  a fixed but repeated cost of trade, are  
+inconsistent with the dynamics of the extensive margin evidence. This finding helps identify  
+which types of trading frictions are reduced by adopting a currency union, and it indicates  
+that a significant fraction of the welfare gains from a monetary union are dependent upon the  
+expectation by traders that a monetary union will continue to exist in the future.  
+27 
+
+========29========
+
+References  
+Baldwin, Richard. 2006. The euro’s trade effects. European Central Bank Working Paper No.  
+594. European Commission.   
+Baldwin, Richard and Virginia Di Nino. 2006. Euros and zeros: the common currency effect  
+on trade in new goods. HEI Working Paper No. 21.  
+Benassy, J.P. 1996. Taste for variety and optimum production patterns in monopolistic  
+competition. Economics Letters 52: 41-7  
+Bergin, Paul R. and Ching-Yi Lin, 2009. Exchange Rate Regimes and the Extensive Margin  
+of Trade, NBER International Seminar on Macroeconomics 2008, Jeffrey Frankel and  
+Christopher Pissarides, eds., University of Chicago  Press, pp. 201-227.  
+Berthou, Antoine and Lionel Fontagne, 2008, The euro and the intensive and extensive  
+margins of trade: Evidence from French firm level data, DEPII working paper 2008- 
+06.  
+Cushman, David O. 1983. The effects of real exchange rate risk on international trade.  
+Journal of International Economics 15: 45-63.  
+Flam, Harry and Hakan Nordstrom, 2006, Euro effects  on the intensive and extensive  
+margins of trade, mimeo.   
+Frankel, Jeffrey, 2010. The estimated effects of the euro on trade: why are they below  
+historical effects of monetary unions among smaller  countries?  in Europe and the  
+Euro, ed. Alberto Alesina and Francesco Giavazzi, University of Chicago Press,  
+Chicago.    
+Frankel, Jeffrey and Andrew K. Rose, 2002. An estimate of the effect of common currencies  
+on trade and income, Quarterly Journal of Economics  117: 437-66.  
+Ghironi,  F.,  Melitz,  M.,  2005.  International  trade  and  macroeconomic  dynamics  with  
+heterogeneous firms. The Quarterly Journal of Economics 120, 865-915.  
+Glick Reuven and Andrew Rose. 2002. Does a currency  union affect trade? the time series  
+evidence. European Economic Review 46: 1125-51.  
+Lahiri,  Amartya  and  Lok  Johri,  (2008),  Persistent  real  exchange  rates,  Journal  of  
+International Economics 76, 223-236.  
+Micco, Alejandro, Ernesto Stein and Guillermo Ordonez, 2003, The currency union effect on  
+trade: early evidence from EMU, Economic Policy 18,  315-356.  
+Nitsch, Volker. 2002. Honey, I shrunk the currency union effect on trade. World Economy 4:  
+457-74.  
+28 
+
+========30========
+
+Persson, T. 2001. Currency unions and trade: how large is the treatment effect? Economic  
+Policy 30: 435-48.  
+Rose, Andrew. 2000. One money, one market: the effect of common currencies on trade.  
+Economic Policy 30: 7-33.  
+Rose, Andrew K. and Eric van Wincoop. 2001. National money as a barrier to international  
+trade: the real case for currency union.  American Economic Review 91, 386-90.  
+Ruhl, Kim J. 2008, The International Elasticity Puzzle, mimeo, University of Texas Austin.   
+29 
+
+========31========
+
+Table  1: Gravity regressions with EMU Indicator, European Sample  
+Country Fixed Effects    Country-Pair Fixed Effects                  Country-Year Fixed Effects  
+Dependent  (1)  Variable EXT  
+   EMU  0.061*  
+(2)  INT  0.051  
+OVER 0.112*  
+(0.027)  
+(0.043)  
+(0.044)  
+   EU  0.106**  
+0.012  
+0.119**  
+(0.026)  
+(0.031)  
+(0.037)  
+   EU Trend  -0.008**  
+0.011**  
+(0.002)  
+(0.003)  
+(0.003)  
+(3)  
+  (4)  
+EXT    0.058**  
+(5)  INT  0.015  
+(6)  OVER  
+0.072**  
+(0.014)  
+(0.017)  
+(0.017)  
+  0.143**  
+0.024+  
+0.167**  
+(0.011)  
+(0.014)  
+(0.013)  
+0.003  
+  -0.000  
+0.006**  
+0.006**  
+(0.001)  
+(0.001)  
+(0.001)  
+  (7)  
+EXT    0.087**  
+(8)  INT  0.024  
+(9)  OVER  0.111+  
+(0.025)  
+(0.056)  
+(0.062)  
+  0.068*  
+0.006  
+0.074+  
+(0.031)  
+(0.038)  
+(0.045)  
+  -0.007**  
+0.010**  
+0.002  
+(0.002)  
+(0.003)  
+(0.004)  
+** indicates significance at 1% level, * at 5%, and  + at 10%. Data cover 1973-2004, 15 EU countries.  
+Table  2. Gravity regressions with EMU Lag and Lead  Indicators, European Sample  
+  Country Fixed Effects    Country-Pair Fixed Effects  
+Dependent  (1)  Variable EXT  EMU_3ahead    0.09 3**  
+(2)  INT  -0.038  
+(0.023)  
+(0.042)  
+EMU_2ahead    0.093**  
+-0.026  
+(0.024)  
+(0.044)  
+EMU_1ahead    0.111**  
+-0.006  
+(0.033)  
+(0.052)  
+EMU_0ahead    0.087*  
+-0.008  
+(0.035)  
+(0.052)  
+EMU_1after    0.098**  
+-0.012  
+(0.034)  
+(0.056)  
+EMU_2after    0.104**  
+0.009  
+(0.034)  
+(0.054)  
+EMU_3after    0.106**  
+0.026  
+(0.034)  
+(0.055)  
+EMU_4after    0.027  
+0.163**  0.190**  
+(0.038)  
+(0.058)  
+EMU_5after    0.029  
+0.188**  0.216**  
+(0.039)  
+(0.061)  
+EU    0.107**  
+0.013  
+(0.026)  
+(0.031)  
+EU Trend    -.008**  
+0.011**  
+(0.002)  
+(0.003)  
+(3)  OVER  0.054  
+(4)  
+EXT    0.091**  
+(5)  INT  -0.079*  
+OVER  0.012  
+(0.041)  
+(0.026)  
+(0.033)  
+(0.032)  
+0.067  
+  0.092**  
+-0.066*  
+0.025  
+(0.044)  
+(0.026)  
+(0.033)  
+(0.032)  
+0.105*  
+  0.109**  
+-0.053  
+0.056+  
+(0.050)  
+(0.026)  
+(0.034)  
+(0.032)  
+0.080  
+  0.086**  
+-0.055  
+0.031  
+(0.050)  
+(0.026)  
+(0.034)  
+(0.032)  
+0.086  
+  0.097**  
+-0.061+  
+0.036  
+(0.054)  
+(0.027)  
+(0.034)  
+(0.033)  
+0.114*  
+  0.102**  
+-0.038  
+0.065*  
+(0.053)  
+(0.027)  
+(0.034)  
+(0.033)  
+0.132*  
+  0.104**  
+-0.021  
+0.083*  
+(0.055)  
+(0.027)  
+(0.034)  
+(0.033)  
+  0.023  
+0.126**  
+0.148**  
+(0.059)  
+(0.031)  
+(0.040)  
+(0.038)  
+  0.025  
+0.150**  
+0.175**  
+(0.061)  
+(0.031)  
+(0.040)  
+(0.038)  
+0.119**  
+  0.142**  
+0.024+  
+0.167**  
+(0.037)  
+(0.011)  
+(0.014)  
+(0.013)  
+0.003  
+  -0.001  
+0.006**  
+0.006**  
+(0.003)  
+(0.001)  
+(0.001)  
+(0.001)  
+(6)  
+  Country-Year Fixed Effects  
+(7)  (8)  (9)  
+EXT  INT  OVER    0.081**  0.044  0.125*  
+(0.022)  
+(0.051)  
+(0.057)  
+  0.097**  
+0.028  
+0.125*  
+(0.022)  
+(0.048)  
+(0.055)  
+  0.081**  
+0.054  
+0.135*  
+(0.027)  
+(0.061)  
+(0.067)  
+  0.070*  
+0.027  
+0.097  
+(0.029)  
+(0.059)  
+(0.067)  
+  0.096**  
+0.029  
+0.125+  
+(0.029)  
+(0.065)  
+(0.073)  
+  0.120**  
+0.007  
+0.127+  
+(0.029)  
+(0.066)  
+(0.073)  
+  0.127**  
+0.039  
+0.165*  
+(0.029)  
+(0.070)  
+(0.077)  
+  0.108**  
+0.044  
+0.152+  
+(0.036)  
+(0.077)  
+(0.084)  
+  0.120**  
+0.056  
+0.177*  
+(0.038)  
+(0.078)  
+(0.086)  
+  0.068*  
+0.006  
+0.074  
+(0.031)  
+(0.038)  
+(0.045)  
+  -0.007**  
+0.010**  
+0.002  
+(0.002)  
+(0.003)  
+(0.004)  
+** indicates significance at 1% level, * at 5%, and  + at 10%.  Data cover 1973-2004, 15 EU countries.  
+30 
+
+========32========
+
+Table 3: Gravity regressions with EMU Lag and Lead Indicators, Full Country Sample  
+Dependent     Country Fixed Effects     Country-Pair Fixed Effects      Country-Year Fixed Effects  
+Variable  
+(1)  EXT  
+(2)  INT  
+(3)  OVER  
+(4)  EXT  
+(5)  INT  
+(6)  OVER  
+(7)  EXT  
+(8)  INT  
+(9)  OVER  
+EMU_7ahead  0.230**  -0.031  0.199**  0.166**  0.093  0.261**  0.108  -0.113*  -0.005  
+(0.088)  (0.084)  (0.090)  
+    (0.084)  (0.052)  (0.069)  
+(0.086)  (0.054)  -(0.072)  
+EMU_6ahead  0.269**  -0.021  0.248**  0.155+  0.098  0.253**  0.145  -0.138*  0.007  
+(0.088)  (0.084)  (0.090)  
+    (0.087)  (0.053)  (0.070)  
+(0.089)  (0.056)  (0.072)  
+EMU_5ahead  0.274**  -0.021  0.253**  0.112  0.099  0.211*  0.134  -0.142*  -0.007  
+(0.088)  (0.085)  (0.091)  
+    (0.091)  (0.055)  (0.072)  
+(0.090)  (0.056)  (0.072)  
+EMU_4ahead  0.424**  -0.060  0.364**  0.017  0.082  0.100   0.311**  -0.214**  0.097  
+(0.090)  (0.086)  (0.092)  
+    (0.088)  (0.060)  (0.076)  
+(0.089)  (0.061)  (0.075)  
+EMU_3ahead  0.492**  -0.097  0.394**  0.028  0.054  0.082   0.374**  -0.240**  0.133+  
+(0.090)  (0.087)  (0.093)  
+    (0.090)  (0.061)  (0.077)  
+(0.091)  (0.062)  (0.076)  
+EMU_2ahead  0.516**  -0.091  0.425**  0.010  0.055  0.065   0.393**  -0.229**  0.165*  
+(0.091)  (0.087)  (0.093)  
+    (0.094)  (0.065)  (0.079)  
+(0.094)  (0.066)  (0.077)  
+EMU_1ahead  0.558**  -0.062  0.496**  -0.008  0.087  0.079  0.444**  -0.181**  0.263**  
+(0.091)  (0.088)  (0.094)  
+    (0.097)  (0.068)  (0.080)  
+(0.097)  (0.068)  (0.081)  
+EMU_0ahead  0.571**  -0.082  0.490**  -0.029  0.067  0.037  0.510**  -0.227**  0.283**  
+(0.092)  (0.088)  (0.094)  
+    (0.099)  (0.069)  (0.081)  
+(0.100)  (0.069)  (0.081)  
+EMU_1after  0.665**  -0.108  0.558**  0.011  0.054  0.064   0.553**  -0.133+  0.420**  
+(0.092)  (0.089)  (0.095)  
+    (0.102)  (0.071)  (0.084)  
+(0.104)  (0.072)  (0.085)  
+EMU_2after  0.559**  -0.036  0.523**  -0.104  0.121  0.017  0.580**  -0.139+  0.440**  
+(0.093)  (0.089)  (0.096)  
+    (0.107)  (0.074)  (0.086)  
+(0.105)  (0.073)  (0.086)  
+EMU_3after  0.590**  -0.030  0.560**  -0.131  0.132  0.001  0.613**  -0.133+  0.480**  
+(0.094)  (0.090)  (0.097)  
+    (0.110)  (0.077)  (0.091)  
+(0.107)  (0.075)  (0.090)  
+EMU_4after  0.403**  0.141+  0.544**  -0.187+  0.256**  0.069  0.432**  -0.037  0.395**  
+(0.103)  (0.099)  (0.106)  
+    (0.121)  (0.077)  (0.098)  
+(0.117)  (0.079)  (0.099)  
+EMU_5after  0.409**  0.158+  0.567**  -0.255*  0.281**  0.026  0.433**  -0.067  0.367**  
+(0.104)  (0.099)  (0.107)  
+    (0.124)  (0.080)  (0.100)  
+(0.120)  (0.082)  (0.102)  
+Custrict  1.000**  -0.020  0.980**  0.042  0.183+  0.225*   0.974**  -0.042  0.932**  
+(0.103)  (0.099)  (0.106)  
+    (0.143)  (0.093)  (0.170)  
+(0.144)  (0.091)  (0.168)  
+Regional  0.720**  0.423**  1.144**  -0.019  0.213**  0.194**  0.648**  0.434**  1.082**  
+(0.040)  (0.038)  (0.041)  
+    (0.109)  (0.073)  (0.115)  
+(0.111)  (0.073)  (0.115)  
+EU  -0.490**  0.253**  -0.237**  0.093**  0.179**  0.272**  -0.525**  0.314**  -0.211**  
+(0.035)  (0.034)  (0.036)  
+    (0.080)  (0.052)  (0.084)  
+(0.081)  (0.052)  (0.075)  
+EU_Trend  -0.055**  0.028**  -0.027**  -0.010**  0.027**   0.017**  -0.055**  0.025**  -0.030**  
+(0.002)  (0.002)  (0.002)  
+      (0.005)  (0.003)  (0.005)     ** indicates significance at 1% level, * at 5%, and  + at 10%.  
+   
+(0.005)  (0.003)  (0.005)  
+31 
+
+========33========
+
+Fig. 1. EMU Indicators Over time  (Full country sample, time-varying fixed effects)  
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+** 
+* 
+* 
+* 
+* 
+* 
++ 
+  t = year of EMU adoption (1999 for most)  
+* significant at 1%; + significant at 5%.  
+32 
+
+========34========
+
+   
+Fig 2: Response to an anticipated permanent symmetric fall in iceberg trade costs  
+Shock: fall in tauhstar and tauf by 15% in period 8, announced in period 1.   Benchmark calibration.  
+Figures report deviations from steady state in logs.  
+33 
+
+========35========
+
+Fig 3: Productivity heterogeneity: Response to an anticipated permanent symmetric fall in  
+iceberg trade costs  
+Shock: fall in tauhstar and tauf by 15% in period 8, announced in period 1.   Benchmark calibration.  
+Figures report deviations from steady state in logs.  
+34 
+
+========36========
+
+Fig 4: Response to an anticipated permanent symmetric fall in iceberg trade costs, under  
+heterogeneity in sunk cost  
+35 
+
+========37========
+
+Fig 5: sensitivity analysis: low level of depreciation in sunk cost capital:  
+Fig 6. Sensitivity Analysis: rho = 0.3  
+36 
+
+========38========
+
+   
+Fig. 7. Response to an anticipated permanent fall in the sunk cost in period 5.  
+37 
+
+========39========
+
+Fig 8: Response to an anticipated symmetric fall in  fixed cost (fhstar and ff) in period 8.  
+   
+38 
+
+========40========
+
+Fig 9: Learning by doing: ( ζ  = 2/3)  
+(Response to an anticipated permanent symmetric fall in iceberg trade costs)  
+39 
+
+========41========
+
